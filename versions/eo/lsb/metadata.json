@@ -1,0 +1,18 @@
+{
+  "slug": "lsb",
+  "shortName": "LSB",
+  "name": "La Sankta Biblio",
+  "language": "eo",
+  "year": 1926,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Esperanto translation by L. L. Zamenhof, completed 1926).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/lsb",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

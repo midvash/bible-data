@@ -1,0 +1,18 @@
+{
+  "slug": "diodati",
+  "shortName": "DIODATI",
+  "name": "Bibbia Diodati 1649",
+  "language": "it",
+  "year": 1649,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Giovanni Diodati Italian translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31095
+  },
+  "readerUrl": "https://midvash.com/diodati",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

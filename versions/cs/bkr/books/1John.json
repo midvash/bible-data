@@ -1,0 +1,454 @@
+{
+  "version": "bkr",
+  "book": "1John",
+  "bookId": 62,
+  "englishName": "1 John",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Což bylo od počátku, což jsme slýchali, co jsme očima svýma viděli, a co jsme pilně spatřili, a čeho se ruce naše dotýkaly, o slovu života,"
+        },
+        {
+          "number": 2,
+          "text": "(Nebo ten život zjeven jest, a my jsme viděli jej, a svědčíme, i zvěstujeme vám ten život věčný, kterýž byl u Otce, a zjeven jest nám,)"
+        },
+        {
+          "number": 3,
+          "text": "Což jsme viděli a slyšeli, to vám zvěstujeme, abyste i vy s námi obecenství měli, a obecenství naše aby bylo s Otcem i s Synem jeho Jezukristem."
+        },
+        {
+          "number": 4,
+          "text": "A totoť píšeme vám, aby radost vaše byla plná."
+        },
+        {
+          "number": 5,
+          "text": "Toť jest tedy zvěstování to, kteréž jsme slýchali od něho, a zvěstujeme vám: Že Bůh jest světlo, a tmy v něm nižádné není."
+        },
+        {
+          "number": 6,
+          "text": "Díme-li, že s ním obecenství máme, a ve tmě chodíme, lžeme a nečiníme pravdy."
+        },
+        {
+          "number": 7,
+          "text": "Pakliť chodíme v světle, jako on jest v světle, obecenství máme vespolek, a krev Ježíše Krista Syna jeho očišťuje nás od všelikého hříchu."
+        },
+        {
+          "number": 8,
+          "text": "Pakliť díme, že hříchu nemáme, sami se svodíme, a pravdy v nás není."
+        },
+        {
+          "number": 9,
+          "text": "Jestliže pak budeme vyznávati hříchy své, věrnýť jest Bůh a spravedlivý, aby nám odpustil hříchy, a očistil nás od všeliké nepravosti."
+        },
+        {
+          "number": 10,
+          "text": "Díme-li, že jsme nehřešili, činíme jej lhářem, a neníť v nás slova jeho."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Synáčkové moji, totoť vám píši, abyste nehřešili. Pakliť by kdo zhřešil, přímluvci máme u Otce, Ježíše Krista spravedlivého."
+        },
+        {
+          "number": 2,
+          "text": "A onť jest obět slitování za hříchy naše, a netoliko za naše, ale i za hříchy všeho světa."
+        },
+        {
+          "number": 3,
+          "text": "A po tomť známe, že jsme jej poznali, jestliže přikázání jeho ostříháme."
+        },
+        {
+          "number": 4,
+          "text": "Dí-liť kdo: Znám jej, a přikázání jeho neostříhá, lhářť jest, a pravdy v něm není."
+        },
+        {
+          "number": 5,
+          "text": "Ale kdožť ostříhá slova jeho, v pravděť láska Boží v tom jest dokonalá. Po tomť známe, že jsme v něm."
+        },
+        {
+          "number": 6,
+          "text": "Kdo praví, že v něm zůstává, máť, jakž on chodil, i tento tak choditi."
+        },
+        {
+          "number": 7,
+          "text": "Bratří, ne nějaké nové přikázání vám píši, ale přikázání staré, kteréž jste měli od počátku. A to přikázání staré jestiť slovo to, kteréž jste slyšeli od počátku."
+        },
+        {
+          "number": 8,
+          "text": "A zase přikázání nové píši vám, kteréžto jest pravé i v něm i v vás. Nebo tma pomíjí, a světlo to pravé již svítí."
+        },
+        {
+          "number": 9,
+          "text": "Kdo praví, že jest v světle, a bratra svého nenávidí, v temnostiť jest až posavad."
+        },
+        {
+          "number": 10,
+          "text": "Kdož miluje bratra svého, v světle zůstává, a pohoršení v něm není."
+        },
+        {
+          "number": 11,
+          "text": "Ale kdož nenávidí bratra svého, v temnosti jest, a v temnosti chodí, a neví, kam jde; nebo temnost oslepila oči jeho."
+        },
+        {
+          "number": 12,
+          "text": "Píši vám, synáčkové, žeť jsou vám odpuštěni hříchové pro jméno jeho."
+        },
+        {
+          "number": 13,
+          "text": "Píši vám, otcové, že jste poznali toho, kterýž jest od počátku. Píši vám, mládenci, že jste zvítězili nad zlým."
+        },
+        {
+          "number": 14,
+          "text": "Píši vám, dítky, že jste poznali Otce. Psal jsem vám, otcové, že jste poznali toho, kterýž jest od počátku. Psal jsem vám, mládenci, že silní jste, a slovo Boží v vás zůstává, a že jste zvítězili nad zlým."
+        },
+        {
+          "number": 15,
+          "text": "Nemilujtež světa, ani těch věcí, kteréž na světě jsou. Miluje-liť kdo svět, není lásky Otcovy v něm."
+        },
+        {
+          "number": 16,
+          "text": "Nebo všecko, což jest na světě, jako žádost těla, a žádost očí, a pýcha života, toť není z Otce, ale jest z světa."
+        },
+        {
+          "number": 17,
+          "text": "A svět hyne i žádost jeho, ale kdož činí vůli Boží, ten trvá na věky."
+        },
+        {
+          "number": 18,
+          "text": "Dítky, poslední hodina jest, a jakož jste slýchaly, že antikrist přijíti má, i nyníť antikristové jsou mnozí. Odkudž známe, že poslední hodina jest."
+        },
+        {
+          "number": 19,
+          "text": "Z násť jsou vyšli, ale nebyli z nás. Nebo byť byli z nás, byliť by zůstali s námi, ale vyšli z nás, aby zjeveni byli, že nejsou všickni z nás."
+        },
+        {
+          "number": 20,
+          "text": "Vy pak máte pomazání od Svatého, a znáte všecko."
+        },
+        {
+          "number": 21,
+          "text": "Nepsal jsem vám proto, že byste neznali pravdy, ale že ji znáte, a že všeliká lež není z pravdy."
+        },
+        {
+          "number": 22,
+          "text": "A kdo jest lhář, nežli ten, kdož zapírá, že Ježíš není Kristus? Tenť jest antikrist; kdoť zapírá Otce, zapíráť i Syna."
+        },
+        {
+          "number": 23,
+          "text": "Každý kdož zapírá Syna, nemáť ani Otce."
+        },
+        {
+          "number": 24,
+          "text": "A protož zůstaniž v vás to, což jste slýchali od počátku. Zůstane-liť v vás to, co jste slýchali od počátku, i vy také v Synu i v Otci zůstanete."
+        },
+        {
+          "number": 25,
+          "text": "A toť jest to zaslíbení, kteréž nám zaslíbil, totiž ten život věčný."
+        },
+        {
+          "number": 26,
+          "text": "Tyto věci psal jsem vám o těch, kteříž vás svodí."
+        },
+        {
+          "number": 27,
+          "text": "Ale pomazání to, kteréž jste vzali od něho, v vás zůstává, a aniž potřebujete, aby kdo učil vás, ale jakž pomazání to učí vás o všech věcech, a pravéť jest a neoklamavatelné, a jakž naučilo vás, tak v něm zůstávejte."
+        },
+        {
+          "number": 28,
+          "text": "A nyní, synáčkové, zůstávejtež v něm, abychom, když by se ukázal, smělé doufání měli, a nebyli zahanbeni od něho v čas příchodu jeho."
+        },
+        {
+          "number": 29,
+          "text": "Poněvadž víte, že on spravedlivý jest, znejtež také, že každý, kdož činí spravedlnost, z něho jest narozen."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pohleďte, jakou lásku dal nám Otec, totiž abychom synové Boží slouli. Protoť svět nezná nás, že jeho nezná."
+        },
+        {
+          "number": 2,
+          "text": "Nejmilejší, nyní synové Boží jsme, ale ještěť se neokázalo, co budeme. Vímeť pak, že když se okáže, podobni jemu budeme; nebo viděti jej budeme tak, jakž jest."
+        },
+        {
+          "number": 3,
+          "text": "A každý, kdož má takovou naději v něm, očišťuje se, jakož i on čistý jest."
+        },
+        {
+          "number": 4,
+          "text": "Každý, kdož činí hřích, činíť proti zákonu; nebo hřích jest přestoupení zákona."
+        },
+        {
+          "number": 5,
+          "text": "A víte, že on se okázal proto, aby hříchy naše sňal, a hříchu v něm není."
+        },
+        {
+          "number": 6,
+          "text": "Každý tedy, kdož v něm zůstává, nehřeší; ale každý, kdož hřeší, neviděl ho, aniž ho poznal."
+        },
+        {
+          "number": 7,
+          "text": "Synáčkové, nižádný vás nesvoď. Kdož činí spravedlnost, spravedlivý jest, jakož i on jest spravedlivý."
+        },
+        {
+          "number": 8,
+          "text": "Kdož činí hřích, z ďábla jest; nebo ďábel hned od počátku hřeší. Na toť jest zjeven Syn Boží, aby kazil skutky ďáblovy."
+        },
+        {
+          "number": 9,
+          "text": "Každý, kdož se narodil z Boha, hříchu nečiní; nebo símě jeho v něm zůstává, aniž může hřešiti, nebo z Boha narozen jest."
+        },
+        {
+          "number": 10,
+          "text": "Po tomtoť zjevní jsou synové Boží a synové ďáblovi. Každý, kdož nečiní spravedlnosti, neníť z Boha, a kdož nemiluje bratra svého."
+        },
+        {
+          "number": 11,
+          "text": "Nebo toť jest to zvěstování, kteréž jste slýchali od počátku, abychom milovali jedni druhé."
+        },
+        {
+          "number": 12,
+          "text": "Ne jako Kain, kterýž z toho zlostníka byl a zamordoval bratra svého. A pro kterou příčinu zamordoval ho? Protože skutkové jeho byli zlí, bratra pak jeho byli spravedliví."
+        },
+        {
+          "number": 13,
+          "text": "Nedivtež se, bratří moji, jestliže vás svět nenávidí."
+        },
+        {
+          "number": 14,
+          "text": "My víme, že jsme přeneseni z smrti do života, nebo milujeme bratří. Kdož nemiluje bratra, zůstáváť v smrti."
+        },
+        {
+          "number": 15,
+          "text": "Každý, kdož nenávidí bratra svého, vražedlník jest, a víte, že žádný vražedlník nemá života věčného v sobě zůstávajícího."
+        },
+        {
+          "number": 16,
+          "text": "Po tomto jsme poznali lásku, že on duši svou za nás položil, i myť tedy máme za bratří duše své klásti."
+        },
+        {
+          "number": 17,
+          "text": "Kdo by pak měl statek tohoto světa, a viděl by bratra svého, an nouzi trpí, a zavřel by srdce své před ním, kterak láska Boží zůstává v něm?"
+        },
+        {
+          "number": 18,
+          "text": "Synáčkové moji, nemilujmež slovem, ani jazykem toliko, ale skutkem a pravdou."
+        },
+        {
+          "number": 19,
+          "text": "A po tomť poznáváme, že z pravdy jsme, a před obličejem jeho spokojíme srdce svá."
+        },
+        {
+          "number": 20,
+          "text": "Nebo obviňovalo-liť by nás srdce naše, ovšemť Bůh, kterýž jest větší nežli srdce naše a zná všecko."
+        },
+        {
+          "number": 21,
+          "text": "Nejmilejší, jestližeť by nás srdce naše neobviňovalo, smělou doufanlivost máme k Bohu."
+        },
+        {
+          "number": 22,
+          "text": "A začež ho koli prosíme, béřeme od něho; nebo přikázání jeho ostříháme, a to, což jest libého před obličejem jeho, činíme."
+        },
+        {
+          "number": 23,
+          "text": "A totoť jest to přikázání jeho, abychom věřili jménu Syna jeho Jezukrista a milovali jedni druhé, jakož nám dal přikázání."
+        },
+        {
+          "number": 24,
+          "text": "Nebo kdož ostříhá přikázání jeho, v němť zůstává, a on také v něm. A po tomť poznáváme, že zůstává v nás, totiž po Duchu, kteréhož dal nám."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nejmilejší, ne každému duchu věřte, ale zkušujte duchů, jsou-li z Boha; nebo mnozí falešní proroci vyšli na svět."
+        },
+        {
+          "number": 2,
+          "text": "Po tomto znejte Ducha Božího: Všeliký duch, kterýž vyznává Jezukrista v těle přišlého, z Boha jest."
+        },
+        {
+          "number": 3,
+          "text": "Ale všeliký duch, kterýž nevyznává Jezukrista v těle přišlého, není z Boha; nýbrž toť jest ten duch antikristův, o kterémž jste slýchali, že přijíti má, a jižť jest nyní na světě."
+        },
+        {
+          "number": 4,
+          "text": "Vy pak z Boha jste, synáčkové, a zvítězili jste nad nimi; nebo většíť jest ten, kterýž jest v vás, nežli ten, kterýž jest v světě."
+        },
+        {
+          "number": 5,
+          "text": "Oni z světa jsou, a protož o světu mluví, a svět jich poslouchá."
+        },
+        {
+          "number": 6,
+          "text": "My z Boha jsme. Kdo zná Boha, posloucháť nás; kdož pak není z Boha, neposloucháť nás. A po tomť poznáváme ducha pravdy a ducha bludu."
+        },
+        {
+          "number": 7,
+          "text": "Nejmilejší, milujmež jedni druhé; nebo láska z Boha jest, a každý, kdož miluje, z Boha se narodil, a znáť Boha."
+        },
+        {
+          "number": 8,
+          "text": "Kdož nemiluje, nezná Boha; nebo Bůh láska jest."
+        },
+        {
+          "number": 9,
+          "text": "V tomť zjevena jest láska Boží k nám, že Syna svého toho jednorozeného poslal Bůh na svět, abychom živi byli skrze něho."
+        },
+        {
+          "number": 10,
+          "text": "V tomť jest láska, ne že bychom my Boha milovali, ale že on miloval nás, a poslal Syna svého obět slitování za hříchy naše."
+        },
+        {
+          "number": 11,
+          "text": "Nejmilejší, poněvadž tak miloval nás Bůh, i myť máme jedni druhé milovati."
+        },
+        {
+          "number": 12,
+          "text": "Boha žádný nikdy nespatřil, ale milujeme-liť jedni druhé, Bůh v nás přebývá, a láska jeho dokonalá jest v nás."
+        },
+        {
+          "number": 13,
+          "text": "Po tomtoť poznáváme, že v něm přebýváme, a on v nás, že z Ducha svého dal nám."
+        },
+        {
+          "number": 14,
+          "text": "A myť jsme viděli, a svědčíme, že Otec poslal Syna svého spasitele světa."
+        },
+        {
+          "number": 15,
+          "text": "Kdož by koli vyznával, že Ježíš jest Syn Boží, Bůh v něm přebývá, a on v Bohu."
+        },
+        {
+          "number": 16,
+          "text": "A myť jsme poznali, a uvěřili o lásce, kterouž Bůh má k nám. Bůh láska jest, a kdož v lásce přebývá, v Bohu přebývá, a Bůh v něm."
+        },
+        {
+          "number": 17,
+          "text": "V tomtoť jest k dokonání svému přišla láska Boží s námi, abychom bezpečné doufání měli v den soudný, kdyžto, jakýž jest on, takovíž i my jsme na tomto světě."
+        },
+        {
+          "number": 18,
+          "text": "Bázněť není v lásce, ale láska dokonalá ven vyhání bázeň; nebo bázeň trápení má, kdož se pak bojí, není dokonalý v lásce."
+        },
+        {
+          "number": 19,
+          "text": "My milujeme jej, nebo on prve miloval nás."
+        },
+        {
+          "number": 20,
+          "text": "Řekl-li by kdo: Miluji Boha, a bratra svého nenáviděl by, lhář jest. Nebo kdož nemiluje bratra svého, kteréhož viděl, Boha, kteréhož neviděl, kterak může milovati?"
+        },
+        {
+          "number": 21,
+          "text": "A totoť přikázání máme od něho, aby ten, kdož miluje Boha, miloval i bratra svého."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Každý, kdož věří, že Ježíš jest Kristus, z Boha se narodil; a každý, kdož miluje toho, kterýž zplodil, milujeť i toho, kterýž zplozen jest z něho."
+        },
+        {
+          "number": 2,
+          "text": "Po tomť poznáváme, že milujeme syny Boží, když Boha milujeme a přikázání jeho ostříháme."
+        },
+        {
+          "number": 3,
+          "text": "Nebo toť jest láska Boží, abychom přikázaní jeho ostříhali; a přikázání jeho nejsou těžká."
+        },
+        {
+          "number": 4,
+          "text": "Všecko zajisté, což se narodilo z Boha, přemáhá svět; a toť jest to vítězství, kteréž přemáhá svět, víra naše."
+        },
+        {
+          "number": 5,
+          "text": "Kdo jest, ješto přemáhá svět, jediné, kdož věří, že Ježíš jest Syn Boží?"
+        },
+        {
+          "number": 6,
+          "text": "Toť jest ten, kterýž přišel vyznamenán jsa skrze vodu a krev, totiž Ježíš Kristus, ne u vodě toliko, ale u vodě a ve krvi. A Duch jest, jenž svědectví vydává, že Duch jest pravda."
+        },
+        {
+          "number": 7,
+          "text": "Nebo tři jsou, kteříž svědectví vydávají na nebi: Otec, Slovo, a Duch Svatý, a ti tři jedno jsou."
+        },
+        {
+          "number": 8,
+          "text": "A tři jsou, jenž svědectví vydávají na zemi: Duch, a Voda, a Krev, a ti tři jedno jsou."
+        },
+        {
+          "number": 9,
+          "text": "Poněvadž svědectví lidské přijímáme, svědectvíť Boží větší jest. Nebo totoť svědectví jest Boží, kteréž vysvědčil o Synu svém."
+        },
+        {
+          "number": 10,
+          "text": "Kdož věří v Syna Božího, máť svědectví sám v sobě. Kdož pak nevěří Bohu, lhářem jej učinil; nebo neuvěřil tomu svědectví, kteréž vysvědčil Bůh o Synu svém."
+        },
+        {
+          "number": 11,
+          "text": "A totoť jest svědectví to, že život věčný dal nám Bůh, a ten život v Synu jeho jest."
+        },
+        {
+          "number": 12,
+          "text": "Kdožť má Syna Božího, máť život; kdož nemá Syna Božího, života nemá."
+        },
+        {
+          "number": 13,
+          "text": "Tyto věci psal jsem vám věřícím ve jméno Syna Božího, abyste věděli, že máte věčný život, a abyste věřili ve jméno Syna Božího."
+        },
+        {
+          "number": 14,
+          "text": "A totoť jest to smělé doufání, kteréž máme k němu, že začež bychom koli prosili podle vůle jeho, slyší nás."
+        },
+        {
+          "number": 15,
+          "text": "A kdyžť víme, že nás slyší, prosili-li bychom zač, tedyť víme, že máme některé prosby naplněné, kteréž jsme předkládali jemu."
+        },
+        {
+          "number": 16,
+          "text": "Viděl-li by kdo bratra svého hřešícího hříchem ne k smrti, modliž se za něj, a dáť jemu Bůh život, totiž hřešícím ne k smrti. Jestiť hřích k smrti; ne za ten, pravím, aby se modlil."
+        },
+        {
+          "number": 17,
+          "text": "Každá nepravost jestiť hřích, ale jestiť hřích ne k smrti."
+        },
+        {
+          "number": 18,
+          "text": "Víme, že každý, kdož se narodil z Boha, nehřeší; ale ten, jenž narozen jest z Boha, ostříhá sebe samého, a ten zlostník se ho nedotýká."
+        },
+        {
+          "number": 19,
+          "text": "Víme, že z Boha jsme, ale svět všecken ve zlém leží."
+        },
+        {
+          "number": 20,
+          "text": "A vímeť, že Syn Boží přišel, a dal nám smysl, abychom poznali Toho Pravého, a jsmeť v tom Pravém, i v Synu jeho Ježíši Kristu. Onť jest ten pravý Bůh a život věčný."
+        },
+        {
+          "number": 21,
+          "text": "Synáčkové, vystříhejte se modl. Amen."
+        }
+      ]
+    }
+  ]
+}

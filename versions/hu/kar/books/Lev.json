@@ -1,0 +1,3580 @@
+{
+  "version": "kar",
+  "book": "Lev",
+  "bookId": 3,
+  "englishName": "Leviticus",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szólítá Mózest és beszéle vele az Úr a gyülekezet sátorából, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak, és mondd meg nékik: Ha valaki közületek áldozni akar az Úrnak: barmokból, tulok- és juhfélékből áldozzatok."
+        },
+        {
+          "number": 3,
+          "text": "Ha tulokféléből áldozik egészen égőáldozattal: hímmel és éppel áldozzék. A gyülekezet sátorának ajtajához vigye azt, hogy kedvessé legyen az Úr előtt."
+        },
+        {
+          "number": 4,
+          "text": "És tegye kezét az égőáldozat fejére, hogy kedves legyen ő érette, hogy engesztelést szerezzen az ő számára."
+        },
+        {
+          "number": 5,
+          "text": "És ölje meg a tulkot az Úr előtt, az Áron fiai pedig, a papok, vigyék fel a vért, és hintsék a vért köröskörűl az oltárra, a mely a gyülekezet sátorának nyílásánál van."
+        },
+        {
+          "number": 6,
+          "text": "Azután vonja le az égőáldozat bőrét, azt pedig vagdalja el tagjaira."
+        },
+        {
+          "number": 7,
+          "text": "És az Áron pap fiai gerjeszszenek tüzet az oltáron, és rakjanak fát a tűzre."
+        },
+        {
+          "number": 8,
+          "text": "Azután rakják az Áron fiai, a papok, a tagokat: a fejet és a kövérjét a fára, a mely az oltáron lévő tűzön van."
+        },
+        {
+          "number": 9,
+          "text": "A belét pedig és lábszárait mossa meg vízben, és füstölögtesse el a pap az egészet az oltáron egészen égőáldozatul. Ez a tűzáldozat kedves illatú az Úrnak."
+        },
+        {
+          "number": 10,
+          "text": "Ha pedig a juhfélékből: bárányokból vagy kecskékből akar valaki áldozni égőáldozatul, hímmel és éppel áldozzék."
+        },
+        {
+          "number": 11,
+          "text": "És ölje meg azt az oltár északi oldalánál az Úr előtt, az Áron fiai pedig, a papok, hintsék annak vérét az oltárra köröskörül."
+        },
+        {
+          "number": 12,
+          "text": "Azután vagdalja el azt tagjaira, a fejével és kövérjével együtt, a pap pedig rakja azokat a fára, a mely az oltáron lévő tűzön van."
+        },
+        {
+          "number": 13,
+          "text": "A belet és a lábszárakat mossa meg vízben, a pap pedig áldozza meg az egészet és füstölögtesse el az oltáron égőáldozatul. Ez a tűzáldozat kedves illatú az Úrnak."
+        },
+        {
+          "number": 14,
+          "text": "Ha pedig madárféléből akar áldozni égőáldozatul az Úrnak, gerliczékből vagy galambfiakból áldozzék."
+        },
+        {
+          "number": 15,
+          "text": "És vigye azt a pap az oltárhoz, és tekerje ki annak a fejét, és füstölögtesse el az oltáron, a vérét pedig bocsássa ki az oltár falára."
+        },
+        {
+          "number": 16,
+          "text": "A begyét pedig rútságával egyben vegye ki, és vesse azt az oltár keleti oldalára, a hamu helyére."
+        },
+        {
+          "number": 17,
+          "text": "És hasítsa meg azt a szárnyain, de el ne szakaszsza egymástól, és füstölögtesse el azt a pap az oltáron a fán, a mely a tűzőn van, égőáldozatul. Tűzáldozat ez, kedves illatú az Úrnak."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor valaki ételáldozatot akar áldozni az Úrnak, lisztlángból áldozzék, és öntsön arra olajat, és temjént is tegyen arra."
+        },
+        {
+          "number": 2,
+          "text": "És vigye azt az Áron fiaihoz, a papokhoz, és vegyen ki abból egy tele marokkal; annak lisztlángjából és olajából, az egész temjénével együtt, és füstölögtesse el a pap az oltáron annak emlékeztető részéül. Ez a tűzáldozat kedves illatú az Úrnak."
+        },
+        {
+          "number": 3,
+          "text": "A mi pedig megmarad az ételáldozatból, Ároné és az ő fiaié legyen; szentséges áldozat ez az Úrnak tűzáldozatai között."
+        },
+        {
+          "number": 4,
+          "text": "Hogyha pedig ételáldozatot kemenczében sültből akar áldozni valaki lisztlángból, olajjal elegyített kovásztalan lepényei, vagy olajjal megkent kovásztalan pogácsái legyenek."
+        },
+        {
+          "number": 5,
+          "text": "Ha pedig a te áldozatod serpenyőben sült ételáldozat, olajjal elegyített kovásztalan lisztlángból legyen."
+        },
+        {
+          "number": 6,
+          "text": "Darabold azt el, és önts reá olajat, ételáldozat ez."
+        },
+        {
+          "number": 7,
+          "text": "Ha pedig a te ételáldozatod rostélyon sült, lisztlángból, olajjal készíttessék."
+        },
+        {
+          "number": 8,
+          "text": "És vidd el az ételáldozatot, a mi ezekből készült, az Úrnak, és azt a papnak bemutatván, az vigye azt el az oltárhoz."
+        },
+        {
+          "number": 9,
+          "text": "És vegyen a pap az ételáldozatból emlékeztető részt, és füstölögtesse el az oltáron; tűzáldozat ez, kedves illatú az Úrnak."
+        },
+        {
+          "number": 10,
+          "text": "A mi pedig megmarad az ételáldozatból, Ároné és az ő fiaié legyen; szentséges áldozat ez az Úrnak tűzáldozatai között."
+        },
+        {
+          "number": 11,
+          "text": "Semmi ételáldozat, a mit az Úrnak áldoztok, kovászszal ne készüljön; mert kovászból és mézből semmit se füstölögtethettek az Úrnak a tűzáldozatok között."
+        },
+        {
+          "number": 12,
+          "text": "Zsengeáldozatul felvihetitek azokat az Úrnak, de az oltárra nem juthatnak fel kedves illatul."
+        },
+        {
+          "number": 13,
+          "text": "Minden te ételáldozatodat pedig sózd meg sóval, és a te ételáldozatodból soha el ne maradjon a te Istened szövetségének sója; minden te áldozatodhoz sót adj."
+        },
+        {
+          "number": 14,
+          "text": "Ha zsengékből való ételáldozatot áldozol az Úrnak, tűznél pergelt kalászból, és zsenge gabona-darából áldozzad a te zsengéidnek áldozatát."
+        },
+        {
+          "number": 15,
+          "text": "Adj hozzá olajat, és tégy reá tömjént; ételáldozat ez."
+        },
+        {
+          "number": 16,
+          "text": "A pap pedig füstölögtesse el annak emlékeztető részét a darából és olajból, az egész tömjénnel együtt. Tűzáldozat ez az Úrnak."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hogyha hálaáldozattal áldozik valaki, ha tulokféléből, akár hímmel, akár nősténynyel áldozik: ép barmot vigyen az Úr elé."
+        },
+        {
+          "number": 2,
+          "text": "És tegye a kezét az ő áldozatjának fejére, és ölje meg azt a gyülekezet sátorának nyílásánál, és Áron fiai, a papok, öntsék a vért köröskörül az oltárra."
+        },
+        {
+          "number": 3,
+          "text": "Azután vigyen a hálaáldozatból tűzáldozatot az Úrnak: a kövérjét, a mely a belet takarja, és mindazt a kövérjét, a mely a belek között van."
+        },
+        {
+          "number": 4,
+          "text": "A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el."
+        },
+        {
+          "number": 5,
+          "text": "És füstölögtessék el azt Áron fiai az oltáron az égőáldozattal együtt a tűzön lévő fán: tűzáldozat ez, kedves illatú az Úrnak."
+        },
+        {
+          "number": 6,
+          "text": "Hogyha pedig valaki juhféléből áldozik hálaáldozatot az Úrnak, akár hím, akár nőstény legyen az, épekkel áldozzék."
+        },
+        {
+          "number": 7,
+          "text": "Ha bárányt visz ő az ő áldozatául, vigye azt az Úr elébe."
+        },
+        {
+          "number": 8,
+          "text": "És tegye a kezét az ő áldozatjának fejére, azután ölje meg azt a gyülekezet sátora előtt, és az Áron fiai öntsék a vérét az oltárra köröskörül."
+        },
+        {
+          "number": 9,
+          "text": "Azután áldozzék az Úrnak e hálaáldozatból tűzáldozatot: a kövérjét, a farkát egészen, a melyet a hátagerézdi végénél vágjon el, és a belét takaró kövérjét, és minden kövérjét, a mely a belek közt van."
+        },
+        {
+          "number": 10,
+          "text": "És a két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el."
+        },
+        {
+          "number": 11,
+          "text": "És füstölögtesse el azt a pap az oltáron: tűzáldozati eledel ez az Úrnak."
+        },
+        {
+          "number": 12,
+          "text": "Hogyha kecskével áldozik valaki, azt is az Úr elé vigye."
+        },
+        {
+          "number": 13,
+          "text": "És tegye kezét annak fejére, és ölje meg azt a gyülekezetnek sátora előtt, és öntsék az Áron fiai annak vérét az oltárra körül."
+        },
+        {
+          "number": 14,
+          "text": "És áldozzék abból tűzáldozatot az Úrnak: a kövérjét, a mely betakarja a belet, és mindazt a kövérjét, a mely a belek között van."
+        },
+        {
+          "number": 15,
+          "text": "A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el."
+        },
+        {
+          "number": 16,
+          "text": "És füstölögtesse el azokat a pap az oltáron tűzáldozati eledelül, kedves illatul. A kövérje mind az Úré legyen."
+        },
+        {
+          "number": 17,
+          "text": "Örökkévaló rendtartás legyen a ti nemzetségeiteknél minden ti lakhelyeteken: semmi kövért és semmi vért meg ne egyetek!"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj az Izráel fiainak, mondván: Ha valaki tévedésből vétkezik az Úrnak valamely parancsolata ellen, úgy a mint nem kellene cselekednie, és a parancsolatok közül valamelyiknek ellene cselekszik:"
+        },
+        {
+          "number": 3,
+          "text": "Ha a felkent pap vétkezik, a népnek romlására: hozzon az ő bűnéért, a melyet elkövetett, egy tulkot, fiatal ép marhát az Úrnak bűnáldozatul."
+        },
+        {
+          "number": 4,
+          "text": "És vigye a tulkot a gyülekezet sátorának nyílásához, az Úr elé, és tegye a kezét a tuloknak fejére, és a tulkot ölje meg az Úr előtt."
+        },
+        {
+          "number": 5,
+          "text": "És vegyen a felkent pap a tuloknak véréből, és vigye be azt a gyülekezet sátorába."
+        },
+        {
+          "number": 6,
+          "text": "És mártsa be a pap az ő újját a vérbe, és hintsen a vérből hétszer az Úr előtt a szent hajléknak függönye felé."
+        },
+        {
+          "number": 7,
+          "text": "És tegyen a pap a vérből az Úr előtt a fűszerekből való füstölő oltár szarvaira, a mely ott van a gyülekezet sátorában; a tulok vérét pedig mind öntse az egészen égőáldozat oltárának aljára, a mely a gyülekezet sátorának nyílásánál van."
+        },
+        {
+          "number": 8,
+          "text": "Azután a tuloknak, a mely bűnáldozatra való, minden kövérjét szedje ki belőle: azt a kövérjét, amely betakarja a belet, és mindazt a kövérjét, a mi a belek között van."
+        },
+        {
+          "number": 9,
+          "text": "A két vesét is, és a rajtuk lévő kövérséget, a mely a véknyaknál van, és a májon lévő hártyát a vesékkel együtt vegye el,"
+        },
+        {
+          "number": 10,
+          "text": "A miképen kiszedik a hálaáldozatra való tulokból; és füstölögtesse el azokat a pap az égőáldozatnak oltárán."
+        },
+        {
+          "number": 11,
+          "text": "A tuloknak pedig bőrét és minden húsát, fejével és lábszáraival együtt, bélit és ganéját,"
+        },
+        {
+          "number": 12,
+          "text": "És mind az egész tulkot vigye ki a táboron kivül tiszta helyre, a hová a hamut öntik: és égesse el azt a fán, tűzben; ott égessék meg, a hová a hamut öntik."
+        },
+        {
+          "number": 13,
+          "text": "Hogyha pedig az Izráel fiainak egész közönsége megtéved, és a gyülekezet előtt rejtve marad e dolog; és valami olyat cselekesznek az Úrnak valamelyik parancsolatja ellen, a mit nem kellett volna cselekedni, és bűnösökké lesznek:"
+        },
+        {
+          "number": 14,
+          "text": "Mikor kitudódik a bűn, a melyet elkövettek: akkor áldozzék a gyülekezet egy tulkot, fiatal marhát a bűnért, és vigye azt a gyülekezetnek sátora elé."
+        },
+        {
+          "number": 15,
+          "text": "És a gyülekezet vénei tegyék kezeiket a tuloknak fejére az Úr előtt, és ölje meg a tulkot a pap az Úr előtt."
+        },
+        {
+          "number": 16,
+          "text": "Azután vigyen be a felkent pap a tulok véréből a gyülekezet sátorába."
+        },
+        {
+          "number": 17,
+          "text": "És mártsa be a pap az ő újját a vérbe, és hintsen abból hétszer az Úr előtt a függöny felé."
+        },
+        {
+          "number": 18,
+          "text": "És tegyen a vérből az oltár szarvaira is, a mely az Úr előtt, a gyülekezet sátorában van; a vért pedig mind öntse az egészen égőáldozat oltárának aljára, a mely a gyülekezet sátorának nyílása előtt van."
+        },
+        {
+          "number": 19,
+          "text": "Minden kövérjét pedig szedje ki belőle, és füstölögtesse el az oltáron."
+        },
+        {
+          "number": 20,
+          "text": "És úgy cselekedjék azzal a tulokkal, mint a bűnért való tulokkal cselekvék, úgy cselekedjék vele, és engesztelést szerez számukra a pap, és megbocsáttatik nékik."
+        },
+        {
+          "number": 21,
+          "text": "És vigye ki a tulkot a táboron kivül, és égesse el azt, miképen elégette az első tulkot. A gyülekezet bűnéért való áldozat ez."
+        },
+        {
+          "number": 22,
+          "text": "Ha fejedelem vétkezik, és cselekeszik valamit az Úrnak, az ő Istenének parancsolata ellen, a mit nem kellett volna cselekedni, és bűnössé lesz tévedésből:"
+        },
+        {
+          "number": 23,
+          "text": "Ha tudtára esik néki a bűne, a melyet elkövetett, akkor vigyen áldozatul egy ép kecskebakot,"
+        },
+        {
+          "number": 24,
+          "text": "És tegye kezét a baknak fejére, és ölje meg azt azon a helyen, a hol megölik az egészen égőáldozatot, az Úr előtt; bűnért való áldozat ez."
+        },
+        {
+          "number": 25,
+          "text": "És vegyen a pap a bűnért való áldozatnak véréből az ő újjával, és tegyen az égőáldozat oltárának szarvaira; a vérét pedig öntse az égőáldozatok oltárának aljára."
+        },
+        {
+          "number": 26,
+          "text": "A kövérjét pedig mind füstölögtesse el az oltáron, mint a hálaáldozatnak kövérjét. Így szerezzen néki a pap engesztelést az ő bűnéért, és megbocsáttatik néki."
+        },
+        {
+          "number": 27,
+          "text": "Ha pedig a föld népe közül vétkezik valaki tévedésből, mivelhogy az Úrnak valamelyik parancsolatja ellen olyat cselekeszik, a mit nem kellett volna cselekedni, és bűnössé lesz;"
+        },
+        {
+          "number": 28,
+          "text": "Ha tudtára esik néki az ő bűne, a melyet elkövetett: vigyen áldozatul az ő bűnéért, a melyet elkövetett, egy ép nőstény kecskét."
+        },
+        {
+          "number": 29,
+          "text": "És tegye a kezét a bűnért való áldozat fejére, és ölje meg a bűnért való áldozatot az egészen égőáldozat helyén."
+        },
+        {
+          "number": 30,
+          "text": "És vegyen a pap annak véréből az újjával, és tegyen az égőáldozat oltárának szarvaira, a vérét pedig mind öntse az oltárnak aljára."
+        },
+        {
+          "number": 31,
+          "text": "Azután vegye el minden kövérjét, a mint elveszik a hálaáldozatnak kövérjét: és füstölögtesse el a pap az oltáron, kedves illatul az Úrnak. Ekképen szerezzen néki engesztelést a pap, és megbocsáttatik annak."
+        },
+        {
+          "number": 32,
+          "text": "Ha pedig bárányt visz az ő bűnért való áldozatául, nőstényt és épet vigyen."
+        },
+        {
+          "number": 33,
+          "text": "És tegye a kezét annak a bűnért való áldozatnak fejére, és ölje meg azt bűnért való áldozatul azon a helyen, a hol megölik az egészen égőáldozatot."
+        },
+        {
+          "number": 34,
+          "text": "És vegyen a pap a bűnért való áldozat véréből az újjával, és tegyen az égőáldozat oltárának szarvaira; a vért pedig mind öntse az oltárnak aljára."
+        },
+        {
+          "number": 35,
+          "text": "Azután vegye el minden kövérjét, a mint elveszik a hálaáldozatra való báránynak kövérjét, és füstölögtesse el azokat a pap az oltáron az Úrnak tűzáldozataival. Ekképen szerezzen néki engesztelést a pap az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ha azzal vétkezik valaki, hogy hallotta a káromló beszédet, és bizonyság lehetne, hogy látta, vagy tudja: ha meg nem jelenti azt, de hordozza az ő vétségének terhét;"
+        },
+        {
+          "number": 2,
+          "text": "Vagy ha valaki illet akármely tisztátalan dolgot, akár tisztátalan vadnak, akár tisztátalan baromnak, akár tisztátalan féregnek holttestét, és nem tud arról, hogy tisztátalanná lesz és vétkezik;"
+        },
+        {
+          "number": 3,
+          "text": "Vagy ha illeti az ember tisztátalanságát, akármi tisztátalanságát, a mely tisztátalanná tesz, és nem tudta azt, hanem azután értette meg, hogy vétkezett;"
+        },
+        {
+          "number": 4,
+          "text": "Vagy ha valaki hirtelenkedve tesz esküt az ő ajkaival rosszra vagy jóra, vagy akármi az, a mire hirtelenkedve esküszik az ember, ha nem tudott arról, de azután megértette, hogy azok közül valamelyikben vétkezett:"
+        },
+        {
+          "number": 5,
+          "text": "Akkor, mivelhogy vétkezett ezek közül valamelyikben, vallja meg, hogy mi az, a miben bűnössé lett;"
+        },
+        {
+          "number": 6,
+          "text": "És vigyen az ő vétkéért az Úrnak, az ő bűnéért, a melyet elkövetett, egy nőstény bárányt vagy kecskét a nyájból, bűnért való áldozatul. Ekképen szerezzen néki engesztelést a pap az ő bűnéért."
+        },
+        {
+          "number": 7,
+          "text": "Ha pedig nincsen egy bárányhoz való módja: vigyen az ő vétkéért való áldozatra két gerliczét vagy két galambfiat az Úrnak, az egyiket bűnért való áldozatul, a másikat egészen égőáldozatul."
+        },
+        {
+          "number": 8,
+          "text": "És vigye azokat a paphoz; az pedig áldozza meg először azt, a mely bűnért való áldozat, és tekerje ki annak fejét nyakcsigájánál, úgy, hogy el ne szakaszsza."
+        },
+        {
+          "number": 9,
+          "text": "És hintsen a bűnért való áldozat véréből az oltár oldalára, a többi vért pedig nyomják ki az oltár aljára; bűnért való áldozat ez."
+        },
+        {
+          "number": 10,
+          "text": "A másikat készítse el egészen égőáldozatul, úgy, a mint szokás; ekképen szerez néki engesztelést a pap az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki."
+        },
+        {
+          "number": 11,
+          "text": "Ha pedig nincs módja két gerliczéhez vagy két galambfihoz sem: vigyen áldozatul az, a ki vétkezett, egy efa lánglisztnek tizedrészét bűnért való áldozatul; ne tegyen ahhoz olajat, és ne adjon ahhoz tömjént, mert bűnért való áldozat ez."
+        },
+        {
+          "number": 12,
+          "text": "És vigye azt a paphoz, és markolja ki abból a pap teli marokkal az emlékeztető részét, és füstölögtesse el az oltáron az Úrnak tűzáldozataival. Bűnért való áldozat az."
+        },
+        {
+          "number": 13,
+          "text": "Így szerezzen néki engesztelést a pap az ő bűnéért, a melyet elkövetett valamivel ama bűnök közül, és megbocsáttatik néki. És legyen a papé, mint az ételáldozat."
+        },
+        {
+          "number": 14,
+          "text": "Azután szóla az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 15,
+          "text": "Ha valaki hűtlenséget követ el, és tévedésből vétkesen elvesz az Úrnak szentelt dolgokból: vigyen az ő vétkéért való áldozatot az Úrnak, egy ép kost a nyájból, a mint te becsülöd, ezüst siklusokban, a szent siklus szerint, vétekért való áldozatul."
+        },
+        {
+          "number": 16,
+          "text": "És a mit vétkesen elvett a szent dologból, azt fizesse meg, és tegye hozzá az ötödrészét, és adja azt a papnak. Így szerez néki engesztelést a pap a vétekért való áldozat kosával, és megbocsáttatik néki."
+        },
+        {
+          "number": 17,
+          "text": "Hogyha vétkezik valaki, és cselekszik valamit az Úrnak valamely parancsolata ellen, a mit nem kell cselekedni, ha nem tudta is: vétkessé lesz, és hordozza az ő vétségének terhét:"
+        },
+        {
+          "number": 18,
+          "text": "Vigyen azért a nyájból egy ép kost a paphoz, a te becslésed szerint, bűnért való áldozatul, és szerezzen néki engesztelést a pap az ő tévedéséért, a melylyel tudatlanságból tévedett, és megbocsáttatik néki."
+        },
+        {
+          "number": 19,
+          "text": "Bűnért való áldozat ez, mivelhogy bűnt követett el az Úr ellen."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Mikor vétkezik valaki, és hűtlenséget követ el az Úr ellen, tudniillik eltagadja felebarátjának reábízott vagy kezébe adott holmiját, vagy megrabolja vagy zsarolja felebarátját;"
+        },
+        {
+          "number": 3,
+          "text": "Vagy ha elveszett holmit talált, és eltagadja, vagy valami miatt hamisan esküszik, akármi is az, a mit az ember úgy cselekszik, hogy vétkezik vele:"
+        },
+        {
+          "number": 4,
+          "text": "Mivelhogy azért bűnössé lett és vétkezett, térítse vissza az elrablottat, a mit rabolt, vagy a zsaroltat, a mit zsarolt, vagy a reá bízottat, a mi reá bízatott, vagy az elveszettet, a mit megtalált;"
+        },
+        {
+          "number": 5,
+          "text": "Vagy akármi legyen, a mire hamisan esküdött, fizesse meg azt teljes értéke szerint, és hozzátoldva az ötödrészét, adja azt annak, a kié volt, bűnbevallásának napján."
+        },
+        {
+          "number": 6,
+          "text": "Az ő bűnéért pedig vigyen az Úrnak a nyájból egy ép kost a paphoz, a te becslésed szerint, bűnért való áldozatul."
+        },
+        {
+          "number": 7,
+          "text": "Így szerezzen néki engesztelést a pap az Úr előtt, és megbocsáttatik néki mindaz, a mit cselekedett, és a miben vétkezett."
+        },
+        {
+          "number": 8,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 9,
+          "text": "Parancsolj Áronnak és az ő fiainak, mondván: Ez az egészen égőáldozat törvénye: Legyen az egészen égőáldozat az oltáron levő tüzelőhelyen egész éjszaka, mind reggelig, és az oltárnak tüze égve maradjon azon."
+        },
+        {
+          "number": 10,
+          "text": "A pap öltse fel az ő gyolcs ruháját, és a gyolcs lábravalót is öltse fel az ő testére, és szedje el a hamut, a mivé égette a tűz az égőáldozatot az oltáron, és töltse azt az oltár mellé."
+        },
+        {
+          "number": 11,
+          "text": "Azután vesse le azt a ruháját, és öltözzék más ruhába, és vigye ki a hamut a táboron kivül, tiszta helyre."
+        },
+        {
+          "number": 12,
+          "text": "Az oltáron lévő tűz pedig égve maradjon azon, el ne aludjék, hanem égessen fát rajta a pap minden reggel, és rakja reá az egészen égőáldozatot, és azon füstölögtesse el a hálaáldozat kövérjét is."
+        },
+        {
+          "number": 13,
+          "text": "A tűz szüntelen égve maradjon az oltáron, és el ne aludjék."
+        },
+        {
+          "number": 14,
+          "text": "Ez pedig az ételáldozatnak törvénye: az Áron fiai áldozzák azt az Úr előtt az oltáron."
+        },
+        {
+          "number": 15,
+          "text": "És vegyen valaki közülök az ételáldozat lisztlángjából egy marokkal, és annak olajából is, a tömjént pedig, a mely az ételáldozathoz való, mind; és égesse el az oltáron; annak emlékeztető része kedves illat az Úr előtt."
+        },
+        {
+          "number": 16,
+          "text": "A mi pedig megmarad belőle, egyék meg Áron és az ő fiai, kovásztalanul egyék meg, szenthelyen, a gyülekezet sátorának pitvarában egyék meg azt."
+        },
+        {
+          "number": 17,
+          "text": "Ne süssék azt kovászszal, mert nékik adtam azt, részökül az én tűzáldozataimból; igen szentséges az, mint a bűnért és vétekért való áldozat."
+        },
+        {
+          "number": 18,
+          "text": "Az Áron fiai közül minden férfiú egye azt. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél az Úrnak tűzáldozatai felől. Valaki illeti azokat, szent legyen."
+        },
+        {
+          "number": 19,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 20,
+          "text": "Ez Áronnak és az ő fiainak áldozatjok, a melyet az Úrnak áldozzanak, mikor felkenik őket: Egy efa lisztlángnak tizedrésze mindenkor ételáldozatul, fele reggel, fele pedig estve."
+        },
+        {
+          "number": 21,
+          "text": "Serpenyőben készíttessék, olajjal összegyúrva vidd el azt, az ételáldozati süteményeket darabokban áldozd az Úrnak kedves illatul."
+        },
+        {
+          "number": 22,
+          "text": "A mely pap az ő helyébe kenetik fel az ő fiai közül, az mívelje ezt. Örökkévaló rendtartás ez, az Úrnak mindenestől füstölögtessék el."
+        },
+        {
+          "number": 23,
+          "text": "Mert a pap minden ételáldozatának mindenestől meg kell égettetni, nem kell abból semmit megenni."
+        },
+        {
+          "number": 24,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 25,
+          "text": "Szólj Áronnak és az ő fiainak, mondván: Ez a bűnért való áldozat törvénye: a mely helyen meg szokták ölni az egészen égőáldozatot, azon a helyen öljék meg a bűnért való áldozatot az Úr előtt; igen szentséges az."
+        },
+        {
+          "number": 26,
+          "text": "A mely pap megáldozza azt a bűnért, az egye meg azt, szent helyen egye meg, a gyülekezet sátorának pitvarában."
+        },
+        {
+          "number": 27,
+          "text": "Valami annak a húsát érinti, szent legyen, és ha annak véréből valami a ruhájára esik valakinek, azt, a mire a vér esett, mosd meg szenthelyen."
+        },
+        {
+          "number": 28,
+          "text": "És a cserépedényt, a melyben azt főzték, törjék el; hogyha pedig érczfazékban főzték, súrolják meg, és mossák meg vízzel."
+        },
+        {
+          "number": 29,
+          "text": "A papok között minden férfiú eheti azt; igen szentséges az."
+        },
+        {
+          "number": 30,
+          "text": "Valamely bűnért való áldozat véréből bevisznek a gyülekezet sátorába, a szenthelyen való engesztelés végett, az meg nem ehető: tűzzel égettessék meg."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ez pedig a vétekért való áldozatnak törvénye; igen szentséges az."
+        },
+        {
+          "number": 2,
+          "text": "A mely helyen megölik az egészen égőáldozatot, ott öljék meg a vétekért való áldozatot is, és a vérét hintsék az oltárra köröskörül."
+        },
+        {
+          "number": 3,
+          "text": "A kövérjét pedig áldozzák meg mind, a farkát is, és a mely kövér a belet takarja."
+        },
+        {
+          "number": 4,
+          "text": "A két veséjét és a rajtuk lévő kövérséget, a mely a véknyaknál van, úgyszintén a májon lévő hártyát a vesékkel együtt szedje ki."
+        },
+        {
+          "number": 5,
+          "text": "És füstölögtesse el azokat a pap az oltáron tűzáldozatul az Úrnak. Vétekért való áldozat ez."
+        },
+        {
+          "number": 6,
+          "text": "A papok között minden férfiú eheti azt, szenthelyen egyék meg; igen szentséges az."
+        },
+        {
+          "number": 7,
+          "text": "A milyen a bűnért való áldozat, olyan a vétekért való áldozat is, egy törvényök van nékik. Azé a papé az, a ki engesztelést szerez vele."
+        },
+        {
+          "number": 8,
+          "text": "Ha a pap egészen égőáldozatot áldoz valakiért, az égőáldozat bőre, a melyet megáldoz, azé a papé legyen."
+        },
+        {
+          "number": 9,
+          "text": "Minden ételáldozat is, a melyet kemenczében sütnek és minden, a mit rostélyon vagy serpenyőben készítenek, a papé legyen, a ki azt áldozta."
+        },
+        {
+          "number": 10,
+          "text": "Az olajjal elegyített és száraz ételáldozat is mind az Áron fiaié legyen közösen, egyiké úgy, mint a másiké."
+        },
+        {
+          "number": 11,
+          "text": "Ez pedig a hálaáldozat törvénye, a melyet áldoznak az Úrnak."
+        },
+        {
+          "number": 12,
+          "text": "Ha dicsőítésül áldozza azt valaki, a dicsőítés áldozatjával együtt áldozzék olajjal elegyített kovásztalan lepényeket, és olajjal megkent kovásztalan pogácsákat, és lisztlángból gyúrt, olajjal elegyített lepényeket."
+        },
+        {
+          "number": 13,
+          "text": "A lepényeken kivül kovászos kenyeret is vigyen áldozatául, dicsőítő hálaáldozatjával együtt."
+        },
+        {
+          "number": 14,
+          "text": "És mindezekből az áldozatokból áldozzék egyet-egyet az Úrnak felmutatott áldozatul; és legyen azé a papé, a ki a hálaáldozatnak vérét elhinti."
+        },
+        {
+          "number": 15,
+          "text": "És az ő dicsőítő hálaáldozatjának húsát, az ő áldozásának napján egyék meg; ne hagyjon abból reggelig."
+        },
+        {
+          "number": 16,
+          "text": "Hogyha fogadásból vagy szabadakaratból áldozza valaki az ő áldozatát, a mely napon áldozza azt, azon a napon egyék meg az ő áldozatát; a mi pedig megmarad abból, másnap egyék meg."
+        },
+        {
+          "number": 17,
+          "text": "A mi pedig annak az áldozatnak húsából tovább is megmarad, harmadnapon tűzzel égettessék meg."
+        },
+        {
+          "number": 18,
+          "text": "Mert ha az ő hálaadó áldozatának húsából harmadnapon eszik valaki, nem lesz az kedves; a ki áldozta azt, annak nem számíttatik az az ő javára, sőt útálatos lesz; és valaki eszik abból, hordozza az ő vétségének terhét."
+        },
+        {
+          "number": 19,
+          "text": "Azt a húst pedig, a mely valami tisztátalanhoz ér, meg ne egyék, hanem tűzzel égessék meg. A mi különben a húst illeti, mindenki ehetik húst, a ki tiszta;"
+        },
+        {
+          "number": 20,
+          "text": "De az, a ki eszik a békeáldozatnak húsából, a mely az Úré, noha az ő tisztátalansága rajta van, az ilyen ember gyomláltassék ki az ő népe közül."
+        },
+        {
+          "number": 21,
+          "text": "Ha valaki akármi tisztátalanhoz ér, tisztátalan emberhez, vagy tisztátalan baromhoz, vagy akármihez, a mi tisztátalan útálatosság, és eszik a hálaadó áldozatnak húsából, a mely az Úré, gyomláltassék ki az az ember az ő népe közül."
+        },
+        {
+          "number": 22,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 23,
+          "text": "Szólj az Izráel fiainak, mondván: Az ökörnek, a báránynak és a kecskének semmi kövérjét meg ne egyétek."
+        },
+        {
+          "number": 24,
+          "text": "A hullott állatnak kövérje, és a vadtól megszaggatottnak kövérje, akármi munkához felhasználható, de enni meg ne egyétek!"
+        },
+        {
+          "number": 25,
+          "text": "Mert akárki egyék is az aféle állatoknak kövérjéből, a melyekből tűzáldozatot visznek az Úrnak, az az ember, a ki ilyet eszik, gyomláltassék ki az ő népe közül."
+        },
+        {
+          "number": 26,
+          "text": "És semmi vért se egyetek meg bármely lakhelyeteken: se madárnak, se baromnak vérét."
+        },
+        {
+          "number": 27,
+          "text": "Valaki megeszik valami féle vért, az az ember gyomláltassék ki az ő népe közül."
+        },
+        {
+          "number": 28,
+          "text": "Szóla ismét az Úr Mózesnek és monda:"
+        },
+        {
+          "number": 29,
+          "text": "Szólj az Izráel fiainak, mondván: A ki hálaáldozattal áldozik az Úrnak, maga vigye az Úrnak az ő áldozatát az ő hálaáldozatából."
+        },
+        {
+          "number": 30,
+          "text": "A maga keze vigye az Úrnak tűzáldozatát: a kövérjét a szegyével együtt vigye el, a szegyét azért, hogy meglóbálják azt az Úr előtt."
+        },
+        {
+          "number": 31,
+          "text": "A pap pedig füstölögtesse el azt a kövért az oltáron, a szegye pedig legyen Ároné és az ő fiaié."
+        },
+        {
+          "number": 32,
+          "text": "A jobblapoczkát is a papnak adjátok a hálaadó áldozatból, hogy azt felmutassa."
+        },
+        {
+          "number": 33,
+          "text": "A ki Áron fiai közül a hálaáldozat vérét és kövérjét megáldozza, a jobblapoczka annak a része legyen."
+        },
+        {
+          "number": 34,
+          "text": "Mert a meglóbált szegyet és a felmutatott lapoczkát elveszem Izráel fiaitól az ő hálaadó áldozataikból, és adom azokat Áron papnak és az ő fiainak, örökre kiszabott részül, az Izráel fiaitól."
+        },
+        {
+          "number": 35,
+          "text": "Ez az Áron felkenetési része, és az ő fiainak felkenetési része az Úrnak tűzáldozataiból, a naptól fogva, a melyen előállítá őket, hogy papi szolgálatot tegyenek az Úrnak;"
+        },
+        {
+          "number": 36,
+          "text": "A melyet parancsolt az Úr, hogy adják nékik az Izráel fiai, a mely napon felkente őket, örökre kiszabott részül az ő nemzetségökben."
+        },
+        {
+          "number": 37,
+          "text": "Ez az egészen égőáldozatnak, az ételáldozatnak, a bűnért és a vétekért való áldozatnak, a felavatási áldozatnak és a hálaáldozatnak törvénye,"
+        },
+        {
+          "number": 38,
+          "text": "A melyet parancsolt az Úr Mózesnek a Sinai hegyen, a mely napon parancsolta az Izráel fiainak a Sinai pusztában, hogy áldozzanak az Úrnak."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla továbbá az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Vegyed Áront és az ő fiait is vele, és az öltözeteket, a kenetnek olaját, és bűnért való áldozati tulkot, két kost és egy kosár kovásztalan kenyeret."
+        },
+        {
+          "number": 3,
+          "text": "És az egész gyülekezetet gyűjtsd egybe a gyülekezet sátorának nyílásához."
+        },
+        {
+          "number": 4,
+          "text": "És a képen cselekedék Mózes, a mint az Úr parancsolta vala néki, és egybe gyűle a gyülekezet a gyülekezet sátorának nyílásához."
+        },
+        {
+          "number": 5,
+          "text": "Akkor monda Mózes a gyülekezetnek: Ez a dolog, a mit az Úr parancsolt cselekedni."
+        },
+        {
+          "number": 6,
+          "text": "És előállatá Mózes Áront és az ő fiait, és megmosá őket vízzel."
+        },
+        {
+          "number": 7,
+          "text": "És reá adá Áronra a köntöst, és felövezé őt az övvel, és reáveté a palástot, az efódot is reáadá, és felövezé az efód övével, és megerősíté azt rajta."
+        },
+        {
+          "number": 8,
+          "text": "És feltevé arra a hósent, és betevé a hósenbe az Urimot és a Thummimot."
+        },
+        {
+          "number": 9,
+          "text": "Azután feltevé fejére a süveget, és elől odatevé a süvegre az arany lapot, a szent koronát, a mint parancsolta vala az Úr Mózesnek."
+        },
+        {
+          "number": 10,
+          "text": "Vevé Mózes a kenetnek olaját is, és megkené a hajlékot minden bennevalóval egybe, és felszentelé azokat."
+        },
+        {
+          "number": 11,
+          "text": "És hinte abból az oltárra is hétszer, és felkené az oltárt és annak minden edényét, a mosdómedenczét is a lábával együtt, hogy azokat megszentelje."
+        },
+        {
+          "number": 12,
+          "text": "Az Áron fejére is tölte a kenetnek olajából, és megkené őt, hogy felszentelje őt."
+        },
+        {
+          "number": 13,
+          "text": "És előállatá Mózes az Áron fiait is, és felöltözteté azokat is az ő köntöseikbe, és felövezé őket övvel, felköté nékik a süvegeket is, a mint az Úr parancsolta vala Mózesnek."
+        },
+        {
+          "number": 14,
+          "text": "Azután előhoza egy tulkot a bűnért való áldozatra, és Áron az ő fiaival egybe a bűnért való áldozat tulkának fejére tevé az ő kezét."
+        },
+        {
+          "number": 15,
+          "text": "És miután megölték azt, vőn Mózes annak véréből, és tőn az újjával az oltárnak szarvaira köröskörül, és megtisztítá az oltárt, a többi vért pedig önté az oltárnak aljára; és felszentelte azt, hogy engesztelést szerezzen rajta."
+        },
+        {
+          "number": 16,
+          "text": "Azután vevé mindazt a kövérséget, a mely annak a bélin vala, és a máj hártyáját, és a két veséjét és azoknak kövérségét, és elfüstölögteté Mózes azokat az oltáron."
+        },
+        {
+          "number": 17,
+          "text": "A tulkot pedig, azaz annak bőrét, húsát és ganéját megégeté tűzzel a táboron kivül, a mint az Úr parancsolta vala Mózesnek."
+        },
+        {
+          "number": 18,
+          "text": "Azután előállatá az égőáldozatra való kost, és Áron és az ő fiai rátevék kezeiket a kos fejére."
+        },
+        {
+          "number": 19,
+          "text": "És megölék azt; Mózes pedig elhinté a vért az oltárra köröskörül."
+        },
+        {
+          "number": 20,
+          "text": "És a kost tagjaira vagdalák, és Mózes elfüstölögteté annak a fejét, a tagjait és a kövérjét."
+        },
+        {
+          "number": 21,
+          "text": "A beleket pedig és a lábszárakat megmosta vízben, és elfüstölögteté Mózes az egész kost az oltáron. Kedves illatú égőáldozat ez, tűzáldozat ez az Úrnak, a mint megparancsolta vala az Úr Mózesnek."
+        },
+        {
+          "number": 22,
+          "text": "Azután előállatá a másik kost is, a felavatási kost, és rátevék Áron és az ő fiai kezeiket a kos fejére."
+        },
+        {
+          "number": 23,
+          "text": "És megölék azt; Mózes pedig vőn annak véréből, és tőn abból az Áron jobb fülének czimpájára, és jobb kezének hüvelykére és jobb lábának hüvelykére."
+        },
+        {
+          "number": 24,
+          "text": "Előállatá az Áron fiait is, és tőn Mózes a vérből azok jobb fülének czimpájára, és jobb kezöknek hüvelykére és jobb láboknak hüvelykére; azután oda tölté Mózes a vért az oltárra köröskörül."
+        },
+        {
+          "number": 25,
+          "text": "És vevé a kövérjét és a farkát és mindazt a kövérjét, a mely a bélen van, továbbá a máj hártyáját, és a két vesét azoknak kövérjével egybe, és a jobb lapoczkát;"
+        },
+        {
+          "number": 26,
+          "text": "És a kovásztalan kenyerek kosarából, a mely az Úr előtt vala, vőn egy kovásztalan lepényt, egy olajos kalácsot, és egy pogácsát, és raká azokat a kövérségekre és a jobb lapoczkára;"
+        },
+        {
+          "number": 27,
+          "text": "És tevé mindezeket az Áron kezeire és az ő fiainak kezeire, és meglóbáltatá azokat az Úr előtt."
+        },
+        {
+          "number": 28,
+          "text": "Azután elvevé azokat Mózes az ő kezeikből, és elfüstölögteté az oltáron az egészen égőáldozattal egybe. Felavatási áldozatok ezek, kedves illatú tűzáldozat ez az Úrnak."
+        },
+        {
+          "number": 29,
+          "text": "Elvevé pedig Mózes a szegyet, és meglóbálá azt az Úr előtt; a felavatási kosból a Mózes része lőn ez, a mint megparancsolta vala az Úr Mózesnek."
+        },
+        {
+          "number": 30,
+          "text": "Azután vőn Mózes a kenetnek olajából és a vérből, a mely az oltáron vala, és meghinté Áront és az ő ruháit, az ő fiait és az ő fiainak ruháit ő vele együtt, és megszentelé Áront és az ő ruháit, és az ő fiait és az ő fiainak ruháit ő vele együtt."
+        },
+        {
+          "number": 31,
+          "text": "És monda Mózes Áronnak és az ő fiainak: Főzzétek meg a húst a gyülekezet sátorának nyílásánál, és ott egyétek meg azt és a kenyeret, a mely a felavatási áldozat kosarában van, a miképen megparancsoltam, mondván: Áron és az ő fiai egyék meg azt."
+        },
+        {
+          "number": 32,
+          "text": "A mi pedig megmarad a húsból és kenyérből, tűzzel égessétek meg."
+        },
+        {
+          "number": 33,
+          "text": "De a gyülekezet sátorának nyílásán ki ne menjetek hét napig, addig a napig, a melyen betelnek a ti felavatástoknak napjai, mert hét nap avat fel benneteket az Úr."
+        },
+        {
+          "number": 34,
+          "text": "A miképen e napon cselekedett, úgy parancsolta az Úr hogy cselekedjünk, hogy néktek engesztelést szerezzünk."
+        },
+        {
+          "number": 35,
+          "text": "A gyülekezet sátorának nyílásánál maradjatok éjjel és nappal hét napig, és tartsátok meg, a mit megtartani rendelt az Úr, hogy meg ne haljatok; mert így parancsolta vala nékem."
+        },
+        {
+          "number": 36,
+          "text": "Áron azért és az ő fiai mind akképen cselekedének, a mint megparancsolta vala nékik az Úr Mózes által."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És lőn a nyolczadik napon, hogy szólítá Mózes Áront és az ő fiait, és Izráelnek véneit."
+        },
+        {
+          "number": 2,
+          "text": "És monda Áronnak: Végy egy borjút, fiatal bikát bűnért való áldozatul, és egy kost egészen égőáldozatul, épek legyenek, és vidd az Úr elé."
+        },
+        {
+          "number": 3,
+          "text": "Szólj Izráel fiainak is, mondván: Vegyetek egy kecskebakot bűnért való áldozatul, és egy esztendős borjút és bárányt, épek legyenek, egészen égőáldozatul."
+        },
+        {
+          "number": 4,
+          "text": "És egy ökröt és egy kost hálaáldozatul, hogy megáldozzátok az Úr előtt, és olajjal elegyített ételáldozatot; mert ma az Úr megjelenik néktek."
+        },
+        {
+          "number": 5,
+          "text": "Elvivék azért, a miket Mózes parancsolt vala, a gyülekezet sátora elé, és odajárula az egész gyülekezet, és megálla ott az Úr előtt."
+        },
+        {
+          "number": 6,
+          "text": "És monda Mózes: Ez a dolog, a melyet az Úr parancsolt, cselekedjétek meg; és megjelenik néktek az Úr dicsősége."
+        },
+        {
+          "number": 7,
+          "text": "Áronnak pedig monda Mózes: Járulj az oltárhoz, és készítsd el a te bűnért való áldozatodat és egészen égőáldozatodat, és végezz engesztelést magadért és a népért. Készítsd el a nép áldozatát is, és végezz engesztelést érettök is, a mint megparancsolta az Úr."
+        },
+        {
+          "number": 8,
+          "text": "Járula azért Áron az oltárhoz, és megölé a borjút, a mely az övé, bűnért való áldozatul."
+        },
+        {
+          "number": 9,
+          "text": "Áron fiai pedig odavivék ő hozzá a vért, és ő bemártá az újját a vérbe, és tőn abból az oltár szarvaira, a többi vért pedig kiönté az oltár aljához."
+        },
+        {
+          "number": 10,
+          "text": "A kövérjét pedig és a veséket és a máj hártyáját elfüstölögteté a bűnért való áldozatból az oltáron, a mint az Úr parancsolta vala Mózesnek."
+        },
+        {
+          "number": 11,
+          "text": "A húst pedig és a bőrt tűzzel égeté meg a táboron kivül."
+        },
+        {
+          "number": 12,
+          "text": "Azután megölé az egészen égőáldozatot, Áron fiai pedig odavivék ő hozzá a vért, és ő elhinté azt az oltáron köröskörül."
+        },
+        {
+          "number": 13,
+          "text": "Az egészen égőáldozatot is odavivék hozzá darabonként, a fejével együtt, és elfüstölögteté az oltáron."
+        },
+        {
+          "number": 14,
+          "text": "És megmosá a belet és a lábszárakat, és elfüstölögteté az oltáron az egészen égőáldozattal egybe."
+        },
+        {
+          "number": 15,
+          "text": "Azután megáldozá a nép áldozatát; vevé ugyanis a bűnért való áldozat bakját, a mely a népé, és megölé azt, és megáldozá azt bűnért való áldozatul, mint az előbbit."
+        },
+        {
+          "number": 16,
+          "text": "Azután előhozá az egészen égőáldozatot, és elkészíté azt szokás szerint."
+        },
+        {
+          "number": 17,
+          "text": "Előhozá az ételáldozatot is, és vőn abból egy teli marokkal, és elfüstölögteté az oltáron a reggeli egészen égőáldozaton kivül."
+        },
+        {
+          "number": 18,
+          "text": "Azután megölé az ökröt és a kost hálaadó áldozatul a népért, és Áron fiai odavivék ő hozzá a vért, és elhinté azt az oltáron köröskörül."
+        },
+        {
+          "number": 19,
+          "text": "Az ökörből és a kosból való kövérségeket pedig, a farkat, a béltakarót, a veséket és a máj hártyáját;"
+        },
+        {
+          "number": 20,
+          "text": "Odahelyezték e kövérségeket a szegyekre, és elfüstölögteté e kövérségeket az oltáron."
+        },
+        {
+          "number": 21,
+          "text": "De a szegyeket és a jobb lapoczkát meglóbálá Áron az Úr előtt, a mint parancsolta vala Mózes."
+        },
+        {
+          "number": 22,
+          "text": "Azután felemelé kezeit Áron a népre, és megáldá azt és leszálla, miután elvégezte vala a bűnért való áldozatot, az egészen égőáldozatot és a hálaáldozatot."
+        },
+        {
+          "number": 23,
+          "text": "És beméne Mózes és Áron a gyülekezetnek sátorába, azután kijövének és megáldák a népet, az Úrnak dicsősége pedig megjelenék az egész népnek."
+        },
+        {
+          "number": 24,
+          "text": "Tűz jöve ugyanis ki az Úr elől, és megemészté az oltáron az égőáldozatot és a kövérségeket. És látá ezt az egész nép, és ujjongának és arczra esének."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nádáb pedig és Abihu, Áronnak fiai, vevék egyen-egyen az ő temjénezőjöket, és tőnek azokba szenet és rakának arra füstölő szert, és vivének az Úr elé idegen tüzet, a melyet nem parancsolt vala nékik."
+        },
+        {
+          "number": 2,
+          "text": "Tűz jöve azért ki az Úr elől, és megemészté őket, és meghalának az Úr előtt."
+        },
+        {
+          "number": 3,
+          "text": "És monda Mózes Áronnak: Ez az, a mit szólt vala az Úr, mondván: A kik hozzám közel vannak, azokban kell megszenteltetnem, és az egész nép előtt megdicsőíttetnem."
+        },
+        {
+          "number": 4,
+          "text": "Áron pedig mélyen hallgata. Szólítá azért Mózes Misáelt és Elsafánt, Uzzielnek, az Áron nagybátyjának fiait, és monda nékik: Jertek ide, vigyétek ki atyátokfiait a szenthely elől, a táboron kivül."
+        },
+        {
+          "number": 5,
+          "text": "És odamenének, és kivivék őket az ő köntöseikben a táboron kivül, a mint szólott vala Mózes."
+        },
+        {
+          "number": 6,
+          "text": "Azután monda Mózes Áronnak és az ő fiainak, Eleázárnak és Ithamárnak: Fejeteket meg ne meztelenítsétek, ruháitokat meg ne szaggassátok, hogy meg ne haljatok és haragra ne gerjedjen az Úr az egész gyülekezet ellen; a ti atyátokfiai pedig, Izráelnek egész háza sirassák az égést, a melyet égetett az Úr."
+        },
+        {
+          "number": 7,
+          "text": "A gyülekezet sátorának nyílásán se menjetek ki, hogy meg ne haljatok; mert az Úr kenetének olaja van rajtatok. És cselekvének a Mózes beszéde szerint."
+        },
+        {
+          "number": 8,
+          "text": "Áronnak pedig szóla az Úr, mondván:"
+        },
+        {
+          "number": 9,
+          "text": "Bort és szeszes italt ne igyatok te és a te fiaid veled, mikor bementek a gyülekezet sátorába, hogy meg ne haljatok. Örökkévaló rendtartás legyen ez a ti nemzetségeitekben."
+        },
+        {
+          "number": 10,
+          "text": "Hogy különbséget tehessetek a szent és közönséges között, a tiszta és tisztátalan között."
+        },
+        {
+          "number": 11,
+          "text": "És hogy taníthassátok Izráel fiait mindazokra a rendelésekre, a melyeket az Úr szólott vala nékik Mózes által."
+        },
+        {
+          "number": 12,
+          "text": "Mózes pedig szóla Áronnak és az ő megmaradt fiainak, Eleázárnak és Ithamárnak: Vegyétek az ételáldozatot, a mely megmaradt az Úrnak tűzáldozatiból, és egyétek meg azt kovásztalan kenyerekkel az oltár mellett; mert igen szentséges az."
+        },
+        {
+          "number": 13,
+          "text": "Azért egyétek azt szent helyen, mert kiszabott részed, és fiaidnak is kiszabott része az, az Úrnak tűzáldozatiból; mert így parancsolta nékem."
+        },
+        {
+          "number": 14,
+          "text": "A meglóbált szegyet pedig, és a felmutatott lapoczkát egyétek meg tiszta helyen, te, és a te fiaid és leányaid is veled, mert kiszabott részül adattak azok néked s kiszabott részül a te fiaidnak is, Izráel fiainak hálaadó áldozataiból."
+        },
+        {
+          "number": 15,
+          "text": "A felmutatott lapoczkát és meglóbált szegyet a tűzáldozat kövérségeivel együtt vigyék be, hogy meglóbálják az Úr előtt, és ez lesz a te kiszabott részed, és veled a te fiaidé örökké, a mint megparancsolta vala az Úr."
+        },
+        {
+          "number": 16,
+          "text": "Azután szorgalmatosan tudakozódék Mózes a bűnáldozatra való bak felől, de ímé elégett vala. Haragra gerjede azért Eleázár és Ithamár ellen, Áronnak megmaradt fiai ellen, mondván:"
+        },
+        {
+          "number": 17,
+          "text": "Miért nem ettétek meg a bűnért való áldozatot a szenthelyen? Hiszen igen szentséges az, és néktek adta azt az Úr a gyülekezet vétkének hordozásáért, hogy engesztelést szerezzetek annak az Úr előtt."
+        },
+        {
+          "number": 18,
+          "text": "Ímé, nem vitetett be annak vére a szenthely belsejébe, meg kellett volna azért ennetek a szenthelyen, a mint megparancsoltam vala."
+        },
+        {
+          "number": 19,
+          "text": "Áron pedig szóla Mózesnek: Ímé ma áldozták meg az ő bűnért való áldozatukat és egészen égőáldozatukat az Úr előtt, engem pedig ilyen keserűségek értek: Ha megettem volna ma a bűnért való áldozatot, vajjon jó lett volna-é az Úr előtt?"
+        },
+        {
+          "number": 20,
+          "text": "Mikor ezt hallotta vala Mózes, jónak tetszék ez néki."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek és Áronnak, mondván nékik:"
+        },
+        {
+          "number": 2,
+          "text": "Szóljatok Izráel fiainak, mondván: Ezek azok az állatok, a melyeket megehettek minden barmok közül, a melyek vannak e földön:"
+        },
+        {
+          "number": 3,
+          "text": "Mindazt, a minek hasadt a körme, és egészen ketté hasadt körme van, és kérődző a barmok közt, megehetitek."
+        },
+        {
+          "number": 4,
+          "text": "De a kérődzők és a hasadt körműek közül ne egyétek meg ezeket: A tevét, mert az kérődző ugyan, de nincs hasadt körme; tisztátalan ez néktek."
+        },
+        {
+          "number": 5,
+          "text": "A hörcsököt, mert kérődző ugyan, de nem hasadt a körme; tisztátalan ez néktek."
+        },
+        {
+          "number": 6,
+          "text": "A nyulat, mert kérődző ugyan, de nem hasadt a körme; tisztátalan ez néktek."
+        },
+        {
+          "number": 7,
+          "text": "És a disznót, mert hasadt körmű ugyan és egészen ketté hasadt körme van, de nem kérődzik; tisztátalan ez néktek."
+        },
+        {
+          "number": 8,
+          "text": "Ezeknek húsából ne egyetek, és holttestöket se illessétek; tisztátalanok ezek néktek."
+        },
+        {
+          "number": 9,
+          "text": "Mindazokból, a melyek a vizekben élnek, ezeket ehetitek meg: A minek úszószárnya és pikkelye van a vizekben, tengerekben és folyóvizekben, azokat mind egyétek meg."
+        },
+        {
+          "number": 10,
+          "text": "A minek pedig nincsen úszószárnya és pikkelye a tengerekben és folyóvizekben, legyen az akármely vízben nyüzsgő, és akármely vízben élő állat; mind útálatos az néktek."
+        },
+        {
+          "number": 11,
+          "text": "De legyenek is útálatosak néktek; azoknak húsából ne egyetek, és holttestöket is útáljátok."
+        },
+        {
+          "number": 12,
+          "text": "A minek nincs úszószárnya és pikkelye a vizekben, mind útálatos az néktek."
+        },
+        {
+          "number": 13,
+          "text": "A szárnyas állatok közül pedig ezeket útáljátok; meg ne egyétek, útálatosak ezek: a sas, a saskeselyű és a halászó sas."
+        },
+        {
+          "number": 14,
+          "text": "A sólyom és a héja az ő nemével."
+        },
+        {
+          "number": 15,
+          "text": "Minden holló az ő nemével."
+        },
+        {
+          "number": 16,
+          "text": "A strucz, a bagoly, a kakuk és a karvaly az ő nemével."
+        },
+        {
+          "number": 17,
+          "text": "A kuvik, a hattyú és a füles bagoly."
+        },
+        {
+          "number": 18,
+          "text": "A bölömbika, a pelikán és a gém."
+        },
+        {
+          "number": 19,
+          "text": "Az eszterág és a szarka az ő nemével, a büdös banka és a denevér."
+        },
+        {
+          "number": 20,
+          "text": "Minden szárnyas féreg, a mely négy lábon jár, útálatos néktek."
+        },
+        {
+          "number": 21,
+          "text": "Csak azt ehetitek meg a négylábú szárnyas férgek közül, a melynek lábain felűl szökő-szárai vannak, hogy szökdécselhessen azokkal a földön."
+        },
+        {
+          "number": 22,
+          "text": "Ezeket egyétek meg azok közül: az arbé-sáskát az ő nemével, a szolám-sáskát az ő nemével, a khargol-sáskát az ő nemével és a khagab-sáskát az ő nemével."
+        },
+        {
+          "number": 23,
+          "text": "Minden egyéb négylábú szárnyas féreg pedig útálatos legyen néktek."
+        },
+        {
+          "number": 24,
+          "text": "És ezekkel tisztátalanokká teszitek magatokat; mindaz, a ki illeti holttestüket, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 25,
+          "text": "Mindaz pedig, a ki hordozza azoknak holttestét, mossa meg az ő ruháit, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 26,
+          "text": "Minden barom, a melynek hasadt a körme, de nincs egészen ketté hasadva, és nem kérődzik, tisztátalan legyen néktek; valaki illeti azt, tisztátalan legyen."
+        },
+        {
+          "number": 27,
+          "text": "Minden állat, a mely a négylábúak között a talpán jár, tisztátalan legyen néktek; mindaz, a ki azoknak holttestét illeti, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 28,
+          "text": "A ki pedig hordozza azoknak holttestét, mossa meg az ő ruháit, és tisztátalan legyen estvéig. Tisztátalanok azok néktek."
+        },
+        {
+          "number": 29,
+          "text": "A földön csúszó-mászó állatok között pedig ezek legyenek tisztátalanok: a menyét, az egér és a gyík az ő nemével."
+        },
+        {
+          "number": 30,
+          "text": "A sündisznó, a kaméleon, a tarka gyík, a csiga és a vakondok."
+        },
+        {
+          "number": 31,
+          "text": "Ezek tisztátalanok néktek minden csúszó-mászó között; valaki illeti ezeket holtuk után, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 32,
+          "text": "És minden, a mire ezek közül holtuk után esik valamelyik, tisztátalan legyen; akármely faedény, akár ruha, vagy bőr, vagy zsák; akármely eszköz, a mivel dolgozni szoktak, vízbe tétessék, és tisztátalan legyen estvéig, ezután tiszta legyen."
+        },
+        {
+          "number": 33,
+          "text": "Akármely cserépedény pedig, a melybe beleesik valami azokból, mindazzal együtt, a mi benne van, tisztátalan legyen, és az edényt törjétek el."
+        },
+        {
+          "number": 34,
+          "text": "Minden megehető eledel, a melyhez az ilyen edényből víz jut, tisztátalan, és minden megiható ital is minden ilyen edényben tisztátalan legyen."
+        },
+        {
+          "number": 35,
+          "text": "És minden, a mire azoknak holttestéből esik valami, tisztátalan; kemencze és tűzhely lerontassék; tisztátalanok azok és tisztátalanok legyenek néktek."
+        },
+        {
+          "number": 36,
+          "text": "De a forrás, a kút, az egybegyűlt víz tiszta legyen; de a mi azoknak holttestéhez ér, tisztátalan."
+        },
+        {
+          "number": 37,
+          "text": "Hogyha azoknak holttestéből reáesik is valamely vetőmagra, a mely elvetendő, tiszta legyen az."
+        },
+        {
+          "number": 38,
+          "text": "De ha vizet töltenek a magra, és úgy esik rá azoknak holttestéből, tisztátalan az ilyen néktek."
+        },
+        {
+          "number": 39,
+          "text": "Hogyha olyan hullik el a barmok közül, a mely eledeletek néktek; a ki annak holttestét illeti, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 40,
+          "text": "A ki pedig eszik annak holttestéből, mossa meg az ő ruháit, és tisztátalan legyen estvéig. És mossa meg ruháit az is, a ki hordozta annak holttestét, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 41,
+          "text": "Mindaz is, a mi csúszik-mászik a földön, útálatos legyen, meg ne egyétek."
+        },
+        {
+          "number": 42,
+          "text": "Mindazt, a mi hason csúszik, és mindazt, a mi négy, sőt mindazt, a mi több lábon jár, a földön csúszó-mászó bármely állatot, meg ne egyétek ezeket, mert útálatosak ezek."
+        },
+        {
+          "number": 43,
+          "text": "Meg ne fertéztessétek magatokat semmiféle csúszó-mászó állattal, és meg ne tisztátalanítsátok magatokat azokkal, hogy tisztátalanokká legyetek általok."
+        },
+        {
+          "number": 44,
+          "text": "Mert én, az Úr, vagyok a ti Istenetek; szenteljétek meg azért magatokat, és szentek legyetek, mert én szent vagyok, és meg ne tisztátalanítsátok magatokat semmiféle állat által, a mely csúszik-mászik a földön."
+        },
+        {
+          "number": 45,
+          "text": "Mert én vagyok az Úr, a ki felhoztalak titeket Égyiptom földéből, hogy Istenetekké legyek néktek; legyetek azért szentek, mert én szent vagyok."
+        },
+        {
+          "number": 46,
+          "text": "Ez a törvény a baromfélékről, a szárnyas állatokról, minden élő állatról, a mely nyüzsög a vizekben, és minden állatról, a mely csúszik-mászik a földön."
+        },
+        {
+          "number": 47,
+          "text": "Hogy különbséget tehessetek a tisztátalan és tiszta között, az olyan állat között, a mely megehető, és az olyan állat között, a mely meg nem ehető."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak, mondván: Ha az asszony lebetegszik, és fiat szül, tisztátalan legyen hét napig; az ő havi betegségének ideje szerint legyen tisztátalan."
+        },
+        {
+          "number": 3,
+          "text": "A nyolczadik napon pedig metéljék körül a fiú férfitestének bőrét."
+        },
+        {
+          "number": 4,
+          "text": "Azután harminczhárom napig maradjon otthon a vértől való tisztulás miatt; semmi szent dolgot ne illessen, a szent helyre se menjen be, míg el nem telnek az ő tisztulásának napjai."
+        },
+        {
+          "number": 5,
+          "text": "Ha pedig leányt szül, két hétig legyen tisztátalan, mint havi betegségekor, és hatvanhat napig maradjon otthon a vértől való tisztulása végett."
+        },
+        {
+          "number": 6,
+          "text": "Mikor pedig letelnek az ő tisztulásának napjai, fiú miatt vagy leány miatt, hozzon egészen égőáldozatul esztendős bárányt, galambfiat vagy gerliczét bűnért való áldozatul, a gyülekezet sátorának nyílása elé a paphoz."
+        },
+        {
+          "number": 7,
+          "text": "És áldozza meg azt az Úr előtt; és szerezzen néki engesztelést; így lesz tisztává az ő vérfolyása után. Ez a törvénye a fiút vagy leányt szülő asszonynak."
+        },
+        {
+          "number": 8,
+          "text": "Ha pedig nincs elég módja bárányhoz, vigyen két gerliczét vagy két galambfiat, egyiket egészen égőáldozatul, a másikat bűnért való áldozatul, és szerezzen néki engesztelést a pap, és tiszta lesz."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek és Áronnak, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Ha valamely ember testének bőrén daganat, vagy tarjagosság, vagy fehér folt támad, és az ő testének bőrén poklos fakadékká lehet: vigyék el az ilyet Áronhoz, a paphoz, vagy egyvalamelyikhez az ő papfiai közül."
+        },
+        {
+          "number": 3,
+          "text": "És nézze meg a pap azt a test bőrén lévő fakadékot. Ha a szőr a fakadékban fehérré változott, és ha a fakadéknak felülete mélyebben van az ő testének bőrénél: akkor poklos fakadék az. Mihelyt látja ezt a pap, tisztátalannak ítélje azt."
+        },
+        {
+          "number": 4,
+          "text": "Ha pedig fehér folt van a teste bőrén, de annak felülete nincs mélyebben a bőrnél, és a szőre sem változott meg fehérré, akkor rekeszsze külön a pap a fakadékos embert hét napig."
+        },
+        {
+          "number": 5,
+          "text": "A hetedik napon pedig nézze meg őt a pap, s ha szerinte a fakadék egy állapotban van, át nem terjedt tovább a fakadék a bőrön, a pap másodszor is rekeszsze őt külön hét napig."
+        },
+        {
+          "number": 6,
+          "text": "Nézze meg őt azután a pap a hetedik napon másodszor is, és ha a fakadék meghalványodott, és nem terjedt tovább a bőrön a fakadék, tisztának ítélje őt a pap; tarjagosság az, mossa meg azért a ruháit és legyen tiszta."
+        },
+        {
+          "number": 7,
+          "text": "De ha a tarjagosság tovább terjedt a bőrön, miután a papnál az ő megtisztulása végett jelentkezett: akkor másodszor is jelentse magát a papnál."
+        },
+        {
+          "number": 8,
+          "text": "És ha látja a pap, hogy ímé tovább terjedt a tarjagosság a bőrön: ítélje azt a pap tisztátalannak, poklosság az."
+        },
+        {
+          "number": 9,
+          "text": "Ha poklos fakadék lesz az emberen, vigyék tehát azt a paphoz."
+        },
+        {
+          "number": 10,
+          "text": "És ha látja a pap, hogy ímé fehér daganat van a bőrön, és az a szőrt fehérré változtatta, és vadhús van a daganatban:"
+        },
+        {
+          "number": 11,
+          "text": "Idűlt poklosság az az ő testének bőrén; azért tisztátalannak ítélje azt a pap, ne is rekesztesse külön azt, mert tisztátalan az."
+        },
+        {
+          "number": 12,
+          "text": "Ha pedig folyton fejlődik a poklosság a bőrön, és a poklos fakadék elborítja a fakadékosnak egész bőrét tetőtől talpig mindenfelé, a merre a pap szemei látnak;"
+        },
+        {
+          "number": 13,
+          "text": "És ha látja a pap, hogy ímé elborította a poklosság annak egész testét: akkor ítélje tisztának a fakadékot; mivelhogy egészen fehérré változott az, tiszta az."
+        },
+        {
+          "number": 14,
+          "text": "De mihelyt vadhús mutatkozik abban, tisztátalan legyen."
+        },
+        {
+          "number": 15,
+          "text": "Ha meglátja a pap a vadhúst, tisztátalannak ítélje azt; a vadhús tisztátalan legyen, poklosság az."
+        },
+        {
+          "number": 16,
+          "text": "De ha a vadhús eltűnik, és fehérré változik, akkor menjen a paphoz."
+        },
+        {
+          "number": 17,
+          "text": "És ha megnézi azt a pap, és a fakadék csakugyan fehérré változott, akkor ítélje a pap a fakadékot tisztának, tiszta az."
+        },
+        {
+          "number": 18,
+          "text": "Ha pedig valakinek a teste bőrén kelevény volt, de begyógyult,"
+        },
+        {
+          "number": 19,
+          "text": "És a kelevény helyén fehér daganat, vagy vörhenyes fehér folt támad, jelentse magát a papnál."
+        },
+        {
+          "number": 20,
+          "text": "És ha látja a pap, hogy íme annak felülete alább esik a bőrnél, és a szőre fehérré változott: akkor ítélje azt a pap tisztátalannak; poklos fakadék az, a mi a kelevényben fakadt."
+        },
+        {
+          "number": 21,
+          "text": "Ha pedig megnézi azt a pap, és íme nincs abban fehér szőr, és nem is esett alább a bőrnél, sőt meghalványodott az: akkor rekeszsze külön azt a pap hét napig."
+        },
+        {
+          "number": 22,
+          "text": "Ha azonban tovább terjed a bőrön; akkor tisztátalannak ítélje azt a pap, poklos fakadék az."
+        },
+        {
+          "number": 23,
+          "text": "De ha elébbi állapotában marad a folt, nem terjedt: a kelevény forradása az, azért tisztának ítélje azt a pap."
+        },
+        {
+          "number": 24,
+          "text": "Vagy ha valaki testének bőrén égési seb lesz, és a seb helyén vörhenyesfehér folt támad vagy fehér;"
+        },
+        {
+          "number": 25,
+          "text": "És megnézi azt a pap, és íme a szőr fehérré változott a foltban, és annak felülete mélyebben van a bőrnél: poklosság az, a mi a seben fakadt, azért ítélje azt a pap tisztátalannak, poklos fakadék az."
+        },
+        {
+          "number": 26,
+          "text": "De ha megnézi azt a pap, és ímé nincs a foltban fehér szőr, és nem is esett az alább a bőrnél, sőt meg is halványodott az: akkor rekeszsze azt külön a pap hét napig."
+        },
+        {
+          "number": 27,
+          "text": "És nézze meg azt a pap a hetedik napon; ha tovább terjedt a bőrön, akkor tisztátalannak ítélje azt a pap, poklos fakadék az."
+        },
+        {
+          "number": 28,
+          "text": "Ha pedig elébbi állapotában van a folt, nem terjedt a bőrön, sőt meg is halványodott, égési daganat az; azért tisztának ítélje azt a pap, mert égési seb forradása az."
+        },
+        {
+          "number": 29,
+          "text": "És ha valamely férfiúnak vagy asszonynak fakadéka támad a fején vagy a szakállában,"
+        },
+        {
+          "number": 30,
+          "text": "És a pap megnézi a fakadékot, és íme annak felülete mélyebben van a bőrnél; és abban a szőr sárga és vékony: akkor ítélje azt a pap tisztátalannak, var az, fejnek vagy szakállnak poklossága az."
+        },
+        {
+          "number": 31,
+          "text": "Ha pedig megnézi a pap a varas fakadékot, és ímé annak felülete nincsen mélyebben a bőrnél, és nincsen abban fekete szőr: akkor rekeszsze külön a pap azt, a kinek varas fakadéka van, hét napig."
+        },
+        {
+          "number": 32,
+          "text": "És nézze meg a pap a fakadékot a hetedik napon, és ha nem terjedt a var, és nem lett benne sárga szőr, és a varnak felülete nem lett mélyebbé a bőrnél:"
+        },
+        {
+          "number": 33,
+          "text": "Akkor borotválkozzék meg, de a varat le ne borotválja; a pap pedig másodszor is rekeszsze külön a varas embert hét napig."
+        },
+        {
+          "number": 34,
+          "text": "És a pap nézze meg a varat a hetedik napon, és ha nem terjed a var a bőrön, és annak felülete nincsen mélyebben a bőrnél: akkor tisztának ítélje azt a pap és mossa meg a ruháit, és tiszta lesz."
+        },
+        {
+          "number": 35,
+          "text": "De ha tovább terjed a var a bőrön, miután tisztának ítélte azt,"
+        },
+        {
+          "number": 36,
+          "text": "És megnézi azt a pap, és csakugyan terjedt a var a bőrön: akkor ne is kutasson a pap a sárga szőr után, tisztátalan az."
+        },
+        {
+          "number": 37,
+          "text": "De ha a var szerinte egy állapotban van, és fekete szőr indult abban, meggyógyult az a var, tiszta az; tisztának ítélje azt a pap."
+        },
+        {
+          "number": 38,
+          "text": "Ha pedig valamely férfi vagy asszony testének bőrén foltok, fehér foltok támadnak,"
+        },
+        {
+          "number": 39,
+          "text": "És megnézi a pap, és ímé a testök bőrén lévő foltok halavány fehérek: a bőrön fakadt sömör az, tiszta az az ember."
+        },
+        {
+          "number": 40,
+          "text": "Hogyha valamely embernek egészen elhull a haja, kopasz az, és tiszta az."
+        },
+        {
+          "number": 41,
+          "text": "És ha előlről hull el a haja, elől kopasz az, és tiszta az."
+        },
+        {
+          "number": 42,
+          "text": "Hogyha pedig az ő egész kopasz, vagy elől kopasz fején vörhenyes fehér fakadék támad, poklos fakadék az az ő egész kopasz vagy elől kopasz fején."
+        },
+        {
+          "number": 43,
+          "text": "Ha megnézi azt a pap, és ímé a fakadék daganata vörhenyes fehér az ő egész kopasz vagy elől kopasz fején, olyanforma, mint a test bőrén való poklosság:"
+        },
+        {
+          "number": 44,
+          "text": "Poklos ember az, tisztátalan az, igen tisztátalannak ítélje azt a pap, mivelhogy fején van a fakadékja."
+        },
+        {
+          "number": 45,
+          "text": "A poklos ember pedig, a kin a fakadék van, megszaggatott ruhában és mezítelen fővel legyen, és a bajuszát fedezze be, és ezt kiáltsa: Tisztátalan, tisztátalan!"
+        },
+        {
+          "number": 46,
+          "text": "Mindaddig tisztátalan legyen, a míg rajta van a fakadék, tisztátalan az; csak ő maga lakjék, a táboron kivül legyen az ő lakása."
+        },
+        {
+          "number": 47,
+          "text": "Hogyha pedig valami ruhán van a poklos fakadék, gyapjú ruhán vagy len ruhán,"
+        },
+        {
+          "number": 48,
+          "text": "Vagy lenből és gyapjúból készült fonadékon vagy szöveten; vagy bőrön, vagy valamely bőrből való készítményen;"
+        },
+        {
+          "number": 49,
+          "text": "És ha az a fakadék zöld vagy vörhenyes színű a ruhán, vagy bőrön, vagy szöveten, vagy fonadékon, vagy akármely bőrből való eszközön: poklos fakadék az, mutassák azért meg a papnak."
+        },
+        {
+          "number": 50,
+          "text": "És nézze meg a pap a fakadékot és rekeszsze külön azt a min a fakadék van, hét napig."
+        },
+        {
+          "number": 51,
+          "text": "A hetedik napon pedig nézze meg a fakadékot. Ha terjed a fakadék a ruhán vagy szöveten, vagy fonadékon vagy bőrön, és akármely készítményen, a mivé a bőr feldolgoztatik: emésztő poklosság az a fakadék, tisztátalan az."
+        },
+        {
+          "number": 52,
+          "text": "Azért égesse meg azt a ruhát, vagy a gyapjúból vagy a lenből készült szövetet vagy fonadékot, vagy akármely bőrből való eszközt, a melyen a fakadék leend; mert emésztő poklosság az, tűzön égessék meg azt."
+        },
+        {
+          "number": 53,
+          "text": "De ha megnézi a pap, és ímé nem terjedt a fakadék a ruhán, vagy szöveten, vagy fonadékon, vagy akármely bőrből való eszközön:"
+        },
+        {
+          "number": 54,
+          "text": "Akkor parancsolja meg a pap, hogy mossák meg azt, a min a fakadék van, és rekeszsze külön azt másodszor is hét napig."
+        },
+        {
+          "number": 55,
+          "text": "Ha pedig megnézi azt a pap a mosás után, és ímé a fakadék nem változtatta meg a színét; ha nem terjedt is a fakadék, tisztátalan az, tűzben égesd meg azt; beevődés az, akár a fonákján, akár a színén legyen az."
+        },
+        {
+          "number": 56,
+          "text": "De ha látja a pap, hogy ímé meghalványodék a fakadék a megmosatása után: akkor szakaszsza el azt a ruhától vagy bőrtől, vagy a szövettől vagy a fonadéktól."
+        },
+        {
+          "number": 57,
+          "text": "És ha mégis mutatkozik a ruhán vagy szöveten, vagy fonadékon, vagy akármely bőrből való eszközön: akkor kiújulás az; tűzzel égesd meg azt, a min a fakadék van."
+        },
+        {
+          "number": 58,
+          "text": "Azt a ruhát pedig, vagy szövetet, vagy fonadékot, vagy akármely bőrből való eszközt, a melyet megmostál, ha eltávozik rólok a fakadék, mosd meg másodszor is, és tiszta lesz."
+        },
+        {
+          "number": 59,
+          "text": "Ez a törvénye a poklos fakadéknak, akár gyapjú-, akár lenruhán, akár szöveten, akár fonadékon, vagy akármely bőrből való eszközön legyen, hogy tisztának vagy tisztátalannak ítéltessék."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Ez legyen a poklos embernek törvénye az ő megtisztulásának napján, hogy vigyék a paphoz."
+        },
+        {
+          "number": 3,
+          "text": "A pap pedig menjen ki a táboron kivül, és nézze meg a pap, és ha meggyógyult a pokloson a poklos fakadék:"
+        },
+        {
+          "number": 4,
+          "text": "Akkor parancsolja meg a pap, hogy hozzanak a megtisztulandó emberért két élő, tiszta madarat, czédrusfát, karmazsint és izsópot;"
+        },
+        {
+          "number": 5,
+          "text": "Azután parancsolja meg a pap, hogy az egyik madarat öljék meg cserépedényben, forrásvíz felett."
+        },
+        {
+          "number": 6,
+          "text": "Az élő madarat pedig, vegye azt és a czédrusfát, a karmazsint és az izsópot; és mártsa be azokat és az élő madarat a megölt madárnak vérébe a forrásvíz felett."
+        },
+        {
+          "number": 7,
+          "text": "És hintse meg a poklosságból megtisztulandó embert hétszer, és ítélje azt tisztának; az élő madarat pedig bocsássa szabadon a mezőre."
+        },
+        {
+          "number": 8,
+          "text": "Azután a megtisztulandó ember mossa ki az ő ruháit, borotválja le minden szőrét, és mosódjék meg vízben, és tiszta lesz; így menjen be azután a táborba, de a sátorán kivül maradjon hét napig."
+        },
+        {
+          "number": 9,
+          "text": "A hetedik napon pedig borotválja le minden szőrét: a haját, szakállát, szemöldökeit és minden egyéb szőrét borotválja le, és mossa ki ruháit, és mossa meg a testét vízben, és tiszta lesz."
+        },
+        {
+          "number": 10,
+          "text": "A nyolczadik napon pedig vegyen két ép bárányt, meg egy ép nőstény bárányt, egy esztendőst, és olajjal elegyített három tized efa lisztlángot ételáldozatul, és egy lóg olajt."
+        },
+        {
+          "number": 11,
+          "text": "A pap pedig, a ki a tisztítást végzi, állassa a megtisztulandó embert mindezekkel együtt az Úr elébe, a gyülekezet sátorának nyílásához."
+        },
+        {
+          "number": 12,
+          "text": "És vegye a pap az egyik bárányt, és áldozza meg azt vétekért való áldozatul a lóg olajjal együtt, és lóbálja meg azokat az Úr előtt."
+        },
+        {
+          "number": 13,
+          "text": "A bárányt pedig ott ölje meg, a hol a bűnért való áldozatot és az egészen égőáldozatot ölik meg a szent helyen; mert a miképen a bűnért, azonképen a vétekért való áldozat is a papé; igen szentséges az."
+        },
+        {
+          "number": 14,
+          "text": "És vegyen a pap a vétekért való áldozatnak véréből, és kenje meg azzal a megtisztulandó ember jobb fülének czimpáját, és az ő jobb kezének hüvelykét, és jobb lábának hüvelykét."
+        },
+        {
+          "number": 15,
+          "text": "Vegyen a pap a lóg olajból is, és töltsön a papnak a bal tenyerére."
+        },
+        {
+          "number": 16,
+          "text": "És mártsa be a pap az ő jobb kezének újját az olajba, mely az ő bal tenyerén van, és hintsen az olajból az újjával hétszer az Úr előtt."
+        },
+        {
+          "number": 17,
+          "text": "A maradék olajból pedig, a mely az ő tenyerén van, kenje meg a pap a megtisztulandó ember jobb fülének czimpáját, a jobb kezének hüvelykét és a jobb lábának hüvelykét a vétekért való áldozat vérén felül."
+        },
+        {
+          "number": 18,
+          "text": "És a mi megmarad az olajból, a mely a pap tenyerén van, kenje a megtisztulandó ember fejére; így szerezzen néki engesztelést a pap az Úr előtt."
+        },
+        {
+          "number": 19,
+          "text": "Azután készítsen a pap bűnért való áldozatot, és szerezzen engesztelést a tisztátalanságából megtisztulónak; azután ölje meg az égőáldozatot."
+        },
+        {
+          "number": 20,
+          "text": "És vigye fel a pap az égőáldozatot és az ételáldozatot az oltárra; így szerezzen néki engesztelést a pap, és tiszta lesz."
+        },
+        {
+          "number": 21,
+          "text": "Hogyha pedig szegény ő, és nincs módja azokhoz, akkor vegyen egy bárányt vétekért való áldozatul meglóbálás végett, hogy engesztelésül legyen érte; meg egy tized efa lisztlángot, olajjal elegyítve, ételáldozatul, és egy lóg olajt."
+        },
+        {
+          "number": 22,
+          "text": "És két gerliczét vagy két galambfiat, a mint a módja engedi, és legyen az egyik bűnért való áldozat, a másik pedig egészen égőáldozat."
+        },
+        {
+          "number": 23,
+          "text": "És vigye azokat az ő tisztulásának nyolczadik napján a paphoz, a gyülekezet sátorának nyílásához, az Úr elébe."
+        },
+        {
+          "number": 24,
+          "text": "És vegye a pap a vétekért való áldozat bárányát, és a lóg olajt, és lóbálja meg azokat a pap az Úr előtt."
+        },
+        {
+          "number": 25,
+          "text": "Azután ölje meg a vétekért való áldozat bárányát, és vegyen a pap a vétekért való áldozat véréből, és kenjen a megtisztulandó ember jobb fülének czimpájára, és jobb kezének hüvelykére, és jobb lábának hüvelykére."
+        },
+        {
+          "number": 26,
+          "text": "Az olajból pedig töltsön a pap a papnak baltenyerére."
+        },
+        {
+          "number": 27,
+          "text": "És hintsen a pap az ő jobb kezének újjával az olajból, a mely az ő bal tenyerén van, hétszer az Úr előtt."
+        },
+        {
+          "number": 28,
+          "text": "Azután kenje meg a pap a tenyerén levő olajból a megtisztulandó jobb fülének czimpáját, a jobb kezének hüvelykét és a jobb lábának hüvelykét a vétekért való áldozat vérének helyén."
+        },
+        {
+          "number": 29,
+          "text": "A mi pedig megmarad a pap tenyerén levő olajból, kenje a megtisztulandó fejére, hogy engesztelésül legyen érette az Úr előtt."
+        },
+        {
+          "number": 30,
+          "text": "És készítse el az egyiket a gerliczék közül, vagy galambfiak közül, a melyik az ő módjától telik."
+        },
+        {
+          "number": 31,
+          "text": "Azt, a mi kitelik az ő módjától: az egyiket bűnért való áldozatul, a másikat pedig egészen égőáldozatul az ételáldozattal egybe; így szerezzen engesztelést a pap a megtisztulandó embernek az Úr előtt."
+        },
+        {
+          "number": 32,
+          "text": "Ez a törvénye annak, a kin poklos fakadék van, de a kinek nincs módja az ő megtisztulásánál."
+        },
+        {
+          "number": 33,
+          "text": "Szóla ismét az Úr Mózesnek és Áronnak, mondván:"
+        },
+        {
+          "number": 34,
+          "text": "Mikor bementek majd a Kanaán földére, a melyet én adok néktek birtokul, és a ti birtokotokban levő föld valamelyik házára poklosságot bocsátok:"
+        },
+        {
+          "number": 35,
+          "text": "Akkor menjen el az, a kié a ház, és jelentse meg a papnak, mondván: Mint a poklosság, olyan mutatkozik nálam a házban."
+        },
+        {
+          "number": 36,
+          "text": "A pap pedig parancsolja meg, hogy takarítsák ki a házat, mielőtt oda menne a pap a poklosság megnézésére, hogy semmi se legyen tisztátalanná, a mi a házban van; és csak azután menjen be a pap a ház megnézésére."
+        },
+        {
+          "number": 37,
+          "text": "És ha látja a poklosságot, hogy ímé a poklosság a háznak falain zöld vagy vörhenyes horpadásokban mutatkozik, és annak felülete alább esik a falnál:"
+        },
+        {
+          "number": 38,
+          "text": "Akkor menjen ki a pap a házból, a háznak ajtaja elé, és zárja be a házat hét napra."
+        },
+        {
+          "number": 39,
+          "text": "A hetedik napon pedig térjen vissza a pap, és ha látja, hogy ímé elterjedt a poklosság a ház falán:"
+        },
+        {
+          "number": 40,
+          "text": "Akkor parancsolja meg a pap, hogy szedjék ki a köveket, a melyeken a poklosság van, és vessék azokat a városon kivül tisztátalan helyre;"
+        },
+        {
+          "number": 41,
+          "text": "A házat pedig vakartassa le belül köröskörül, és a tapasztékot, a melyet levakartak, töltsék a városon kivül tisztátalan helyre."
+        },
+        {
+          "number": 42,
+          "text": "És vegyenek elő más köveket, és illeszszék be ama kövek helyére; tapasztékot is mást vegyenek, és tapasszák be a házat."
+        },
+        {
+          "number": 43,
+          "text": "Hogyha a poklosság visszatér, és kiújul a házon, miután kiszedték a köveket, és miután levakarták a házat, és miután be is tapasztották azt:"
+        },
+        {
+          "number": 44,
+          "text": "Akkor menjen be a pap, és nézze meg, és ha ímé tovább terjedt a poklosság a házon: emésztő poklosság az a házon, tisztátalan az;"
+        },
+        {
+          "number": 45,
+          "text": "Rontsák azért le a házat köveivel együtt, és a fáit is, a háznak minden tapasztékát is; és vigyék a városon kívül tisztátalan helyre."
+        },
+        {
+          "number": 46,
+          "text": "A ki pedig bemegy a házba akármikor, a míg az zárva van, tisztátalan legyen az estvéig."
+        },
+        {
+          "number": 47,
+          "text": "És a ki meghál abban a házban, mossa meg a ruháit, és a ki eszik abban a házban, az is mossa meg a ruháit."
+        },
+        {
+          "number": 48,
+          "text": "Ha pedig bemegy a pap és látja, hogy ímé nem terjedt a poklosság a házon, miután megtapasztották a házat: akkor tisztának ítélje a pap a házat, mert megszűnt a poklosság."
+        },
+        {
+          "number": 49,
+          "text": "A háznak megtisztítása végett pedig vegyen elő két madarat, czédrusfát, karmazsint és izsópot."
+        },
+        {
+          "number": 50,
+          "text": "És ölje meg az egyik madarat cserépedényben, forrásvíz felett."
+        },
+        {
+          "number": 51,
+          "text": "Azután vegye a czédrusfát, az izsópot, a karmazsint és az élő madarat, és mártsa be azokat a megölt madár vérébe és a forrásvízbe, és hintse meg azzal a házat hétszer."
+        },
+        {
+          "number": 52,
+          "text": "És tisztítsa meg a házat a madár vérével, a forrásvízzel, az élő madárral, a czédrusfával, az izsóppal és a karmazsinnal."
+        },
+        {
+          "number": 53,
+          "text": "Az élő madarat pedig bocsássa el a városon kivül a mezőre, így szerezzen engesztelést a házért, és tiszta lesz."
+        },
+        {
+          "number": 54,
+          "text": "Ez a törvénye mindenféle poklos fakadéknak és varnak."
+        },
+        {
+          "number": 55,
+          "text": "A ruha és a ház poklosságának is."
+        },
+        {
+          "number": 56,
+          "text": "A daganatnak, a tarjagosságnak és a fehér foltnak;"
+        },
+        {
+          "number": 57,
+          "text": "Hogy megtudhassák: mikor tiszta és mikor tisztátalan valami? Ez a poklosság törvénye."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek s Áronnak, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szóljatok Izráel fiainak és mondjátok meg nékik: Ha valamely férfiúnak magfolyása támad, az ő folyása tisztátalan."
+        },
+        {
+          "number": 3,
+          "text": "És pedig tisztátalan lesz e folyás miatt: akár folytonos az ő magfolyása, akár megreked testében ez a folyás; tisztátalanság ez ő nála."
+        },
+        {
+          "number": 4,
+          "text": "Minden ágy, a melyen fekszik a magfolyós, tisztátalan, és minden holmi is, a melyre ráül, tisztátalan lesz."
+        },
+        {
+          "number": 5,
+          "text": "Valaki azért illeti az ő ágyát, mossa meg a ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 6,
+          "text": "Az is, aki a holmira ül, a melyen a magfolyós ült vala, mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 7,
+          "text": "Az is, a ki illeti a magfolyósnak testét, mossa meg a ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 8,
+          "text": "És ha ráköp a magfolyós a tiszta emberre, mossa meg ez a ruháját, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 9,
+          "text": "És minden nyereg is, a melyre a magfolyós ráült, tisztátalan legyen."
+        },
+        {
+          "number": 10,
+          "text": "És akárki is, a ki illet valamit, a mi annak alatta vala, tisztátalan legyen estvéig, és a ki hordozza azokat, mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 11,
+          "text": "És mindaz, a kit illet a magfolyós, úgy hogy kezeit le nem öblíti vízzel, mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 12,
+          "text": "A cserépedény pedig, a melyet a magfolyós illet, törettessék el, minden faedény pedig öblíttessék ki vízzel."
+        },
+        {
+          "number": 13,
+          "text": "Mikor pedig megtisztul a magfolyós az ő folyásából, akkor számláljon hét napot az ő tisztulására, és mossa meg ruháit, és a testét is mossa le forrásvízben, és tiszta lesz."
+        },
+        {
+          "number": 14,
+          "text": "És a nyolczadik napon vegyen elő két gerliczét vagy két galambfiat, és menjen el az Úr elé, a gyülekezet sátorának nyílásához, és adja azokat a papnak."
+        },
+        {
+          "number": 15,
+          "text": "És készítse el azokat a pap; az egyiket bűnért való áldozatul, a másikat egészen égőáldozatul; így szerezzen néki engesztelést a pap az Úr előtt az ő magfolyása miatt."
+        },
+        {
+          "number": 16,
+          "text": "Ha valamely férfiúnak magömlése van, mossa meg az egész testét vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 17,
+          "text": "És minden ruha, és minden bőr, a melyre a magömlés kihat, mosattassék meg vízben, és tisztátalan legyen estvéig,"
+        },
+        {
+          "number": 18,
+          "text": "És az asszony is, a kivel férfiú hál magömléssel. Mosódjanak meg vízben, és tisztátalanok legyenek estvéig."
+        },
+        {
+          "number": 19,
+          "text": "Mikor asszony lesz magfolyóssá és véressé lesz az ő magfolyása a testén, hét napig legyen az ő havi bajában, és valaki illeti azt, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 20,
+          "text": "Mindaz is, a min hál az ő havi bajában, tisztátalan legyen és mindaz is, a min ül, tisztátalan legyen."
+        },
+        {
+          "number": 21,
+          "text": "És mindaz, a ki illeti az ő ágyát, mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 22,
+          "text": "És mindaz is, a ki illet bármely holmit, a melyen ült, mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 23,
+          "text": "Sőt ha valaki az ő ágyán, vagy a holmikon illet is valamit, a melyeken ő ült, tisztátalan legyen estvéig."
+        },
+        {
+          "number": 24,
+          "text": "Ha pedig vele hál valaki, és reá ragad arra az ő havi baja: tisztátalan legyen hét napig, és minden ágy is, a melyen fekszik, tisztátalan legyen."
+        },
+        {
+          "number": 25,
+          "text": "És hogyha sok napig tart az asszonynak az ő vérfolyása a havi bajának idején kivül, vagy ha a folyás a havi bajon túl tart: valameddig az ő tisztátalanságának folyása tart, úgy legyen, mint havi bajának idején, tisztátalan az."
+        },
+        {
+          "number": 26,
+          "text": "Minden ágy, a melyen fekszik az ő folyásának egész ideje alatt, olyan legyen, mint a havi baja idejében lévő ágya, és minden holmi is, a melyre ráül, tisztátalan legyen, mint az ő havi bajának tisztátalansága alatt."
+        },
+        {
+          "number": 27,
+          "text": "És mindaz is, a ki illeti azokat, tisztátalan lesz, mossa meg azért a ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig."
+        },
+        {
+          "number": 28,
+          "text": "Ha pedig megtisztul az ő folyásából: számláljon hét napot, és azután tiszta legyen."
+        },
+        {
+          "number": 29,
+          "text": "A nyolczadik napon pedig vegyen elő két gerliczét vagy két galambfiat, és vigye el azokat a papnak, a gyülekezet sátorának nyílásához."
+        },
+        {
+          "number": 30,
+          "text": "És készítse el a pap az egyiket bűnért való áldozatul, a másikat pedig egészen égőáldozatul; így szerezzen néki engesztelést a pap az Úr előtt az ő tisztátalanságának folyása miatt."
+        },
+        {
+          "number": 31,
+          "text": "Így tartsátok vissza Izráel fiait az ő tisztátalanságuktól, hogy meg ne haljanak az ő tisztátalanságuk miatt, megfertőztetvén az én hajlékomat, a mely közöttök van."
+        },
+        {
+          "number": 32,
+          "text": "Ez a törvénye a magfolyósnak, és annak, a kinek magömlése van, a mi által tisztátalanná lesz;"
+        },
+        {
+          "number": 33,
+          "text": "És a havi bajban szenvedőnek és a magfolyásban lévőnek, férfinak és asszonynak, és annak a férfiúnak a ki tisztátalan asszonynyal hál."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És szóla az Úr Mózesnek, az Áron két fiának halála után, a kik akkor haltak meg, a mikor az Úrhoz járultak vala."
+        },
+        {
+          "number": 2,
+          "text": "És monda az Úr Mózesnek: Szólj a te atyádfiának, Áronnak, hogy ne menjen be akármikor a szenthelyre a függönyön belül a fedél elé, a mely a láda felett van, hogy meg ne haljon, mert felhőben jelenek meg a fedél felett."
+        },
+        {
+          "number": 3,
+          "text": "Ezzel menjen be Áron a szenthelyre: egy fiatal tulokkal bűnért való áldozatul, és egy kossal égőáldozatul."
+        },
+        {
+          "number": 4,
+          "text": "Gyolcsból készült szent köntöst öltsön magára, és gyolcs lábravaló legyen a testén, gyolcs övvel övezze be magát, és gyolcs süveget tegyen fel; szent ruhák ezek; mossa meg azért a testét vízben, és úgy öltse fel ezeket."
+        },
+        {
+          "number": 5,
+          "text": "Izráel fiainak gyülekezetétől pedig vegyen át két kecskebakot bűnért való áldozatul, és egy kost egészen égőáldozatul."
+        },
+        {
+          "number": 6,
+          "text": "És áldozza meg Áron a bűnért való áldozati tulkot, a mely az övé, és végezzen engesztelést magáért és háza népéért."
+        },
+        {
+          "number": 7,
+          "text": "Azután vegye elő a két kecskebakot, és állassa azokat az Úr elé a gyülekezet sátorának nyílásához,"
+        },
+        {
+          "number": 8,
+          "text": "És vessen sorsot Áron a két bakra; egyik sorsot az Úrért, a másik sorsot Azázelért."
+        },
+        {
+          "number": 9,
+          "text": "És áldozza meg Áron azt a bakot, a melyre az Úrért való sors esett, és készítse el azt bűnért való áldozatul."
+        },
+        {
+          "number": 10,
+          "text": "Azt a bakot pedig, a melyre az Azázelért való sors esett, állassa elevenen az Úr elé, hogy engesztelés legyen általa, és hogy elküldje azt Azázelnek a pusztába."
+        },
+        {
+          "number": 11,
+          "text": "Áron pedig úgy áldozza meg a bűnért való áldozati tulkot, a mely az övé, és úgy szerezzen engesztelést magáért és háza népéért, hogy ölje meg a bűnért való áldozati tulkot, a mely az övé."
+        },
+        {
+          "number": 12,
+          "text": "És vegye tele a tömjénezőt eleven szénnel az oltárról, a mely az Úr előtt van, és vegye tele a két markát a porrá tört fűszerekből való füstölőből, és vigye be a függönyön belől."
+        },
+        {
+          "number": 13,
+          "text": "És vesse a füstölőt a tűzre az Úr előtt, hogy befedje a füstölő felhője a fedelet, a mely a bizonyság felett van, hogy meg ne haljon."
+        },
+        {
+          "number": 14,
+          "text": "Azután vegyen a tuloknak véréből és hintsen újjával a fedél felső színére napkelet felé; a fedél előtt pedig hétszer hintsen újjával a vérből."
+        },
+        {
+          "number": 15,
+          "text": "És ölje meg a bűnért való áldozati bakot, a mely a népé, és vigye be annak vérét a függönyön belől, és úgy cselekedjék annak vérével, a mint a tuloknak vérével cselekedett: hintse ugyanis azt a fedélre és a fedél elé."
+        },
+        {
+          "number": 16,
+          "text": "Így szerezzen engesztelést a szenthelynek Izráel fiainak tisztátalanságai és vétkei miatt; mindenféle bűnei miatt; így cselekedjék a gyülekezet sátorával is, a mely közöttök van, az ő tisztátalanságaik közepette."
+        },
+        {
+          "number": 17,
+          "text": "Senki se legyen a gyülekezet sátorában, a mikor bemegy a szenthelybe, hogy engesztelést szerezzen, egészen az ő kijöveteléig; és végezzen engesztelést magáért, házanépéért, és Izráelnek egész gyülekezetéért."
+        },
+        {
+          "number": 18,
+          "text": "Azután menjen ki az oltárhoz, a mely az Úr előtt van, és végezzen engesztelést azért is; vegyen ugyanis a tuloknak véréből és a baknak véréből, és kenje meg az oltárnak szarvait köröskörül."
+        },
+        {
+          "number": 19,
+          "text": "És hintsen arra a vérből az ő újjával hétszer; így tegye tisztává, és így szentelje meg azt Izráel fiainak tisztátalanságaitól."
+        },
+        {
+          "number": 20,
+          "text": "Miután pedig elvégezi a szenthelyért, a gyülekezet sátoráért és az oltárért való engesztelést; hozza elő az élő bakot."
+        },
+        {
+          "number": 21,
+          "text": "És tegye Áron mind a két kezét az élő baknak fejére, és vallja meg felette Izráel fiainak minden hamisságát és minden vétkét, mindenféle bűneit: és rakja azokat a baknak fejére, azután küldje el az arravaló emberrel a pusztába,"
+        },
+        {
+          "number": 22,
+          "text": "Hogy vigye el magán a bak minden ő hamisságukat kietlen földre, és hogy bocsássa el a bakot a pusztában."
+        },
+        {
+          "number": 23,
+          "text": "Azután menjen be Áron a gyülekezet sátorába, és vesse le a gyolcs ruhákat, a melyeket felöltött, mikor bement a szenthelybe, és hagyja ott azokat."
+        },
+        {
+          "number": 24,
+          "text": "És mossa meg a testét vízben szent helyen, és öltse fel a maga ruháit, úgy menjen ki, és készítse el a maga egészen égőáldozatát és a nép egészen égőáldozatát, és végezzen engesztelést magáért és a népért."
+        },
+        {
+          "number": 25,
+          "text": "A bűnért való áldozat kövérjét pedig füstölögtesse el az oltáron."
+        },
+        {
+          "number": 26,
+          "text": "Az pedig, a ki elvitte az Azázelnek való bakot, mossa meg ruháit, és a testét is mossa le vízben, és azután menjen be a táborba."
+        },
+        {
+          "number": 27,
+          "text": "A bűnért való áldozati tulkot pedig, és a bűnért való áldozati bakot, a melyeknek vére engesztelés végett bevitetett a szenthelyre, vigye ki a táboron kivül, és égessék meg azoknak bőrét, húsát és ganéját tűzzel."
+        },
+        {
+          "number": 28,
+          "text": "És a ki elégeti ezeket, mossa meg ruháit, és a testét is mossa le vízben, és azután így menjen be a táborba."
+        },
+        {
+          "number": 29,
+          "text": "Örökkévaló rendtartás legyen ez nálatok: a hetedik hónapban, a hónapnak tizedikén sanyargassátok meg magatokat és semmi munkát ne végezzetek, se a benszülött, se a közöttetek tartózkodó jövevény."
+        },
+        {
+          "number": 30,
+          "text": "Mert ezen a napon engesztelés lesz értetek, hogy megtisztítson titeket; minden bűnötöktől megtisztultok az Úr előtt."
+        },
+        {
+          "number": 31,
+          "text": "Szombatok szombatja ez néktek, sanyargassátok meg azért magatokat; örökkévaló rendtartás ez."
+        },
+        {
+          "number": 32,
+          "text": "És végezzen engesztelést a pap, a kit felkennek, és a kit az ő tisztére felavatnak, hogy paposkodjék az ő atyja helyett, és öltözködjék a gyolcs ruhákba, a szent ruhákba:"
+        },
+        {
+          "number": 33,
+          "text": "És végezzen engesztelést a szentek szentjéért, és a gyülekezet sátoráért, és az oltárért is végezzen engesztelést, sőt a papokért és az egész összegyülekezett népért is engesztelést végezzen."
+        },
+        {
+          "number": 34,
+          "text": "És örökkévaló rendtartás legyen ez nálatok, hogy egyszer egy esztendőben engesztelést végezzenek Izráel fiainak minden bűnéért. És úgy cselekedék, a mint megparancsolta vala az Úr Mózesnek."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Áronnak és az ő fiainak és Izráel minden fiának, és mondd nékik: Ez az a dolog, a mit megparancsolt az Úr, mondván:"
+        },
+        {
+          "number": 3,
+          "text": "Ha valaki Izráel házából ökröt, vagy bárányt, vagy kecskét öl le a táborban, vagy a ki öl a táboron kivül,"
+        },
+        {
+          "number": 4,
+          "text": "És nem viszi azt a gyülekezet sátorának nyílásához, hogy áldozattal járuljon az Úrhoz, az Úrnak hajléka előtt: vérontásul tulajdoníttassék az annak az embernek; vért ontott, töröltessék ki azért az ilyen ember az ő népe közűl:"
+        },
+        {
+          "number": 5,
+          "text": "Azért hogy vigyék el Izráel fiai az ő véres áldozataikat, a melyeket áldoznak vala a mezőn, vigyék el azokat az Úrnak, a gyülekezet sátorának nyílásához, a paphoz, és áldozzák meg azokat hálaáldozatul az Úrnak."
+        },
+        {
+          "number": 6,
+          "text": "És hintse a pap a vért az Úr oltárára, a mely a gyülekezet sátorának nyílásánál van, a kövérjét pedig füstölögtesse el kedves illatul az Úrnak."
+        },
+        {
+          "number": 7,
+          "text": "És ne áldozzák többé véres áldozataikat az ördögöknek, a kikkel ők paráználkodnak. Örökkévaló rendtartás legyen ez nékik nemzetségről nemzetségre."
+        },
+        {
+          "number": 8,
+          "text": "Mondjad nékik ezt is: Valaki az Izráel házából, vagy a köztök tartózkodó jövevények közül, egészen égőáldozatot áldoz vagy véres áldozatot,"
+        },
+        {
+          "number": 9,
+          "text": "És nem viszi azt a gyülekezet sátorának nyílásához, hogy elkészítse azt az Úrnak: irtassék ki az ilyen ember az ő népe közül."
+        },
+        {
+          "number": 10,
+          "text": "És ha valaki Izráel házából, vagy a köztök tartózkodó jövevények közül valamiféle vért megeszik: kiontom haragomat az ellen, a ki a vért megette, és kiirtom azt az ő népei közül."
+        },
+        {
+          "number": 11,
+          "text": "Mert a testnek élete a vérben van, én pedig az oltárra adtam azt néktek, hogy engesztelésül legyen a ti életetekért, mert a vér a benne levő élet által szerez engesztelést."
+        },
+        {
+          "number": 12,
+          "text": "Azért mondtam Izráel fiainak: Egy lélek se egyék vért közületek; a köztetek tartózkodó jövevény se egye meg a vért."
+        },
+        {
+          "number": 13,
+          "text": "És ha valaki Izráel fiai közül, vagy a köztök tartózkodó jövevények közül vadászásban vadat vagy madarat fog, a mely megehető: ontsa ki annak vérét, és fedje be azt földdel."
+        },
+        {
+          "number": 14,
+          "text": "Mert minden testnek élete az ő vére a benne levő élettel. Azért mondom Izráel fiainak: Semmiféle testnek a vérét meg ne egyétek, mert minden testnek élete az ő vére; valaki megeszi azt, irtassék ki."
+        },
+        {
+          "number": 15,
+          "text": "Ha pedig valaki elhullott, vagy vadtól megszaggatott állatot eszik, akár benszülött, akár jövevény: mossa meg ruháit, és mosódjék meg vízben, és tisztátalan legyen estvéig, azután tiszta."
+        },
+        {
+          "number": 16,
+          "text": "Hogyha meg nem mossa ruháit, sem a testét le nem mossa: viselje az ő vétségének terhét."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiaihoz, és mondd nékik: Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 3,
+          "text": "Ne cselekedjetek úgy, a mint Égyiptom földén cselekesznek, a hol laktatok; úgy se cselekedjetek, a mint Kanaán földén cselekesznek, a hová beviszlek titeket; se azoknak rendtartásai szerint ne járjatok."
+        },
+        {
+          "number": 4,
+          "text": "Az én végzéseim szerint cselekedjetek, és az én rendeleteimet tartsátok meg, azok szerint járván. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 5,
+          "text": "Tartsátok meg azért az én rendeleteimet és az én végzéseimet, a melyeket ha megcselekszik az ember, él azok által. Én vagyok az Úr."
+        },
+        {
+          "number": 6,
+          "text": "Senki se közelgessen valamely vér szerint való rokonához, hogy felfedje annak szemérmét. Én vagyok az Úr."
+        },
+        {
+          "number": 7,
+          "text": "A te atyádnak szemérmét és a te anyádnak szemérmét fel ne fedd; a te anyád ő, fel ne fedd az ő szemérmét."
+        },
+        {
+          "number": 8,
+          "text": "A te atyád feleségének szemérmét fel ne fedd, a te atyádnak szemérme az."
+        },
+        {
+          "number": 9,
+          "text": "A te atyád leányának, vagy a te anyád leányának, a te leánytestvérednek szemérmét, akár otthon született, akár kivül született legyen; fel ne fedd szemérmöket."
+        },
+        {
+          "number": 10,
+          "text": "A te fiad leányának szemérmét, vagy a te leányod leányáét, ezeknek szemérmét fel ne fedd, mert a te szemérmeid azok."
+        },
+        {
+          "number": 11,
+          "text": "A te atyád felesége leányának szemérmét, a ki a te atyádnak magzatja, leánytestvéred ő, fel ne fedd ennek szemérmét."
+        },
+        {
+          "number": 12,
+          "text": "A te atyád leánytestvérének szemérmét fel ne fedd, a te atyádnak vér szerint való rokona ő."
+        },
+        {
+          "number": 13,
+          "text": "A te anyád leánytestvérének szemérmét fel ne fedd, mert a te anyádnak vér szerint való rokona ő."
+        },
+        {
+          "number": 14,
+          "text": "A te atyád fiútestvérének szemérmét fel ne fedd, annak feleségéhez ne közelgess, nagynénéd ő."
+        },
+        {
+          "number": 15,
+          "text": "A te menyednek szemérmét fel ne fedd; a te fiadnak felesége ő: ne fedd fel az ő szemérmét."
+        },
+        {
+          "number": 16,
+          "text": "A te fiútestvéred feleségének szemérmét fel ne fedd; a te fiútestvérednek szemérme az."
+        },
+        {
+          "number": 17,
+          "text": "Valamely asszonynak és az ő leányának szemérmét fel ne fedd; az ő fiának leányát, vagy leányának leányát el ne vedd, hogy annak szemérmét felfedjed; mert vér szerint való rokonok ők; fajtalankodás ez."
+        },
+        {
+          "number": 18,
+          "text": "De feleségül se végy senkit az ő leánytestvére mellé, hogy ellenkezés ne legyen, ha felfeded ő mellette amannak szemérmét az ő életében."
+        },
+        {
+          "number": 19,
+          "text": "Asszonyhoz ne közelgess, az ő havi tisztátalansága alatt, hogy felfedjed az ő szemérmét."
+        },
+        {
+          "number": 20,
+          "text": "És a te felebarátodnak feleségéhez se add magad közösülésre, hogy azzal magadat megfertőztessed."
+        },
+        {
+          "number": 21,
+          "text": "A te magzatodból ne adj, hogy oda áldozzák a Moloknak, és meg ne szentségtelenítsd a te Istenednek nevét. Én vagyok az Úr."
+        },
+        {
+          "number": 22,
+          "text": "Férfiúval ne hálj úgy, a mint asszonynyal hálnak: útálatosság az."
+        },
+        {
+          "number": 23,
+          "text": "És semmiféle barommal se közösülj, hogy azzal magadat megfertőztessed, és asszony se álljon meg barom előtt, hogy meghágja őt; fertelmesség az."
+        },
+        {
+          "number": 24,
+          "text": "Egyikkel se fertőztessétek meg magatokat ezek közül; mert mindezekkel ama pogányok fertőztették meg magokat, kiket én kiűzök ti előletek."
+        },
+        {
+          "number": 25,
+          "text": "És fertőzötté lett az a föld, de meglátogatom azon az ő gonoszságát, mert kiokádja az a föld az ő lakosait."
+        },
+        {
+          "number": 26,
+          "text": "Tartsátok meg azért ti az én rendeléseimet és végzéseimet, és ez útálatosságok közül semmit meg ne cselekedjetek, se a benszülött, se a közöttetek tartózkodó jövevény:"
+        },
+        {
+          "number": 27,
+          "text": "(Mert mindezeket az útálatosságokat megcselekedték annak a földnek lakosai, a mely előttetek van; és fertelmessé lőn az a föld),"
+        },
+        {
+          "number": 28,
+          "text": "Hogy ki ne okádjon titeket az a föld, ha megfertőztetitek azt, a mint kiokádja azt a népet, a mely előttetek van."
+        },
+        {
+          "number": 29,
+          "text": "Mert a ki megcselekszik valamit ez útálatosságokból, mind kiirtatik az így cselekvő ember az ő népe közül."
+        },
+        {
+          "number": 30,
+          "text": "Tartsátok meg azért a mit én megtartani rendelek, hogy egyet se kövessetek amaz útálatos szokásokból, a melyeket követtek ti előttetek, és meg ne fertőztessétek magatokat azokkal. Én, az Úr, vagyok a ti Istenetek."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak egész gyülekezetéhez, és mondd nékik: Szentek legyetek, mert én az Úr, a ti Istenetek szent vagyok."
+        },
+        {
+          "number": 3,
+          "text": "Az ő anyját és atyját minden ember tisztelje, és az én szombatjaimat megtartsátok. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 4,
+          "text": "Ne hajoljatok a bálványokhoz, és ne csináljatok magatoknak öntött isteneket. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 5,
+          "text": "Hogyha hálaadó áldozatot áldoztok az Úrnak, úgy áldozzátok, hogy kedvesen fogadtassatok."
+        },
+        {
+          "number": 6,
+          "text": "A ti áldozástok napján és a következőn egyétek meg; a mi pedig harmadnapra marad, égessétek meg tűzben."
+        },
+        {
+          "number": 7,
+          "text": "Ha pedig harmadnapra eszik valaki abból, útálatos az, nem lehet kedves."
+        },
+        {
+          "number": 8,
+          "text": "És a ki eszi azt, viselje az ő álnokságának terhét; mivelhogy megfertőztette az Úrnak szentségét, irtassék ki az ilyen ember az ő népe közül."
+        },
+        {
+          "number": 9,
+          "text": "Mikor a ti földetek termését learatjátok, ne arasd le egészen a te meződnek szélét, és az elhullott gabonafejeket fel ne szedd."
+        },
+        {
+          "number": 10,
+          "text": "Szőlődet se mezgéreld le, és elhullott szemeit se szedd fel szőlődnek, a szegénynek és a jövevénynek hagyd meg azokat. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 11,
+          "text": "Ne orozzatok, se ne hazudjatok és senki meg ne csalja az ő felebarátját."
+        },
+        {
+          "number": 12,
+          "text": "És ne esküdjetek hamisan az én nevemre, mert megfertőzteted a te Istenednek nevét. Én vagyok az Úr."
+        },
+        {
+          "number": 13,
+          "text": "A te felebarátodat ne zsarold, se ki ne rabold. A napszámos bére ne maradjon nálad reggelig."
+        },
+        {
+          "number": 14,
+          "text": "Siketet ne szidalmazz, és vak elé gáncsot ne vess; hanem félj a te Istenedtől. Én vagyok az Úr."
+        },
+        {
+          "number": 15,
+          "text": "Ne kövessetek el igazságtalanságot az ítéletben; ne nézd a szegénynek személyét, se a hatalmas személyét ne becsüld; igazságosan ítélj a te felebarátodnak."
+        },
+        {
+          "number": 16,
+          "text": "Ne járj rágalmazóként a te néped között; ne támadj fel a te felebarátodnak vére ellen. Én vagyok az Úr."
+        },
+        {
+          "number": 17,
+          "text": "Ne gyűlöld a te atyádfiát szívedben; fedd meg a te felebarátodat nyilván, hogy ne viseljed az ő bűnének terhét."
+        },
+        {
+          "number": 18,
+          "text": "Bosszúálló ne légy, és haragot ne tarts a te néped fiai ellen, hanem szeressed felebarátodat, mint magadat. Én vagyok az Úr."
+        },
+        {
+          "number": 19,
+          "text": "Az én rendeléseimet megtartsátok: Barmodat másféle állattal ne párosítsd, szántóföldedbe kétféle magot ne vess, és kétféle szövetű ruha ne legyen rajtad."
+        },
+        {
+          "number": 20,
+          "text": "És ha valaki asszonynyal hál és közösül, és az valamely férfi hatalma alatt lévő rabnő, és sem ki nem váltatott, sem szabadon nem bocsáttatott: büntetés érje, de meg ne ölettessenek, mert nem volt szabad az asszony."
+        },
+        {
+          "number": 21,
+          "text": "A férfiú pedig vigye el az ő vétkéért való áldozatát az Úrnak a gyülekezet sátorának nyílásához: egy kost vétekért való áldozatul."
+        },
+        {
+          "number": 22,
+          "text": "És a pap szerezzen néki engesztelést, a vétekért való áldozat kosával az Úr előtt, az ő bűnéért, a melyet elkövetett, és megbocsáttatik néki az ő bűne, a melyet elkövetett."
+        },
+        {
+          "number": 23,
+          "text": "Mikor pedig bementek arra a földre, és plántáltok ott mindenféle gyümölcstermő fát, annak gyümölcsét körülmetéletlennek tartsátok, három esztendeig legyen az néktek körülmetéletlen: meg ne egyétek."
+        },
+        {
+          "number": 24,
+          "text": "A negyedik esztendőben pedig annak minden gyümölcse szent legyen, hálaáldozatul az Úrnak."
+        },
+        {
+          "number": 25,
+          "text": "Csak az ötödik esztendőben egyétek meg annak gyümölcsét, és annak termését magatoknak gyüjtsétek. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 26,
+          "text": "Ne egyetek vérrel valót, ne varázsoljatok és ne bűvészkedjetek."
+        },
+        {
+          "number": 27,
+          "text": "A ti hajatokat kerekdedre ne nyírjátok, a szakállad végét se csúfítsd el."
+        },
+        {
+          "number": 28,
+          "text": "Testeteket a holt emberért meg ne hasogassátok, se égetéssel magatokat meg ne bélyegezzétek. Én vagyok az Úr."
+        },
+        {
+          "number": 29,
+          "text": "A te leányodat meg ne becstelenítsd, paráznaságra adván azt; hogy paráznává ne legyen a föld, és be ne teljék a föld fajtalansággal."
+        },
+        {
+          "number": 30,
+          "text": "Az én szombatjaimat megtartsátok; szenthelyemet tiszteljétek. Én vagyok az Úr."
+        },
+        {
+          "number": 31,
+          "text": "Ne menjetek ígézőkhöz, és a jövendőmondókat ne tudakozzátok, hogy magatokat azokkal megfertőztessétek. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 32,
+          "text": "Az ősz ember előtt kelj fel, és a vén ember orczáját becsüld meg, és félj a te Istenedtől. Én vagyok az Úr."
+        },
+        {
+          "number": 33,
+          "text": "Hogyha jövevény tartózkodik nálad, a ti földeteken, ne nyomorgassátok őt."
+        },
+        {
+          "number": 34,
+          "text": "Olyan legyen néktek a jövevény, a ki nálatok tartózkodik, mintha közületek való benszülött volna, és szeressed azt mint magadat, mert jövevények voltatok Égyiptom földén. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 35,
+          "text": "Ne kövessetek el igazságtalanságot az ítéletben, a hosszmértékben, súlymértékben és ürmértékben."
+        },
+        {
+          "number": 36,
+          "text": "Igaz mérték, igaz font, igaz efa, és igaz hin legyen közöttetek. Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéből."
+        },
+        {
+          "number": 37,
+          "text": "Tartsátok meg azért minden rendelésemet és minden végzésemet, és cselekedjetek azok szerint. Én vagyok az Úr."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Izráel fiainak pedig mondd meg: Valaki Izráel fiai közül és az Izráelben tartózkodó jövevények közül odaadja az ő magzatát a Moloknak, halállal lakoljon, a földnek népe kövezze agyon kővel."
+        },
+        {
+          "number": 3,
+          "text": "Én is kiontom haragomat az ilyen emberre, és kiirtom azt az ő népe közül, mivelhogy adott az ő magzatából a Moloknak, hogy megfertőztesse az én szentségemet, és megszentségtelenítse az én szent nevemet."
+        },
+        {
+          "number": 4,
+          "text": "Ha pedig a föld népe behúnyja szemeit az ilyen ember előtt, a mikor az oda adja az ő magzatát a Moloknak, és azt meg nem öli:"
+        },
+        {
+          "number": 5,
+          "text": "Akkor én ontom ki haragomat arra az emberre és annak házanépére, és kiirtom azt és mindazokat, a kik ő utána paráználkodnak, hogy a Molokkal paráználkodjanak, az ő népök közül."
+        },
+        {
+          "number": 6,
+          "text": "A mely ember pedig az ígézőkhöz és a jövendőmondókhoz fordul, hogy azok után paráználkodjék, arra is kiontom haragomat, és kiirtom azt az ő népe közül."
+        },
+        {
+          "number": 7,
+          "text": "Szenteljétek meg azért magatokat, és szentek legyetek, mert én, az Úr, vagyok a ti Istenetek."
+        },
+        {
+          "number": 8,
+          "text": "És tartsátok meg az én rendeléseimet, és cselekedjétek azokat. Én vagyok az Úr, a ti megszentelőtök."
+        },
+        {
+          "number": 9,
+          "text": "Mert valaki szidalmazza az ő atyját vagy anyját, halállal lakoljon; atyját és anyját szidalmazta; vére rajta."
+        },
+        {
+          "number": 10,
+          "text": "Ha valaki más ember feleségével paráználkodik, mivelhogy az ő felebarátjának feleségével paráználkodik: halállal lakoljon a parázna férfi és a parázna nő."
+        },
+        {
+          "number": 11,
+          "text": "Ha valaki az ő atyjának feleségével hál, az ő atyjának szemérmét fedi fel: halállal lakoljanak mindketten; vérök rajtok."
+        },
+        {
+          "number": 12,
+          "text": "Ha valaki az ő menyével hál, halállal lakoljanak mindketten, fertelmességet követtek el; vérök rajtok."
+        },
+        {
+          "number": 13,
+          "text": "És ha valaki férfival hál, úgy a mint asszonynyal hálnak: útálatosságot követtek el mindketten, halállal lakoljanak; vérök rajtok."
+        },
+        {
+          "number": 14,
+          "text": "És ha valaki feleségül vesz valamely asszonyt annak anyjával egybe: fajtalankodás ez; tűzzel égessék meg azt és azokat, hogy ne legyen köztetek fajtalankodás."
+        },
+        {
+          "number": 15,
+          "text": "Ha pedig valaki barommal közösül, halállal lakoljon, és a barmot is öljétek meg."
+        },
+        {
+          "number": 16,
+          "text": "Ha valamely asszony akármely baromhoz járul, hogy az meghágja őt: öld meg mind az asszonyt, mind a barmot, halállal lakoljanak; vérök rajtok."
+        },
+        {
+          "number": 17,
+          "text": "És ha valaki feleségül veszi az ő leánytestvérét, atyjának leányát, vagy anyjának leányát, és meglátja annak szemérmét, és az is meglátja az ő szemérmét: gyalázatosság ez; azért irtassanak ki népök fiainak láttára, az ő leánytestvérének szemérmét fedte fel: viselje gonoszságának terhét."
+        },
+        {
+          "number": 18,
+          "text": "És ha valaki havi bajos asszonynyal hál, és felfedi annak szemérmét, és forrását feltakarja, és az asszony is felfedi az ő vérének forrását: mindketten irtassanak ki az ő népökből."
+        },
+        {
+          "number": 19,
+          "text": "A te anyád leánytestvérének, vagy az atyád leánytestvérének szemérmét se fedd fel; mivelhogy az ő vérrokonát takarja ki: viseljék gonoszságuk terhét."
+        },
+        {
+          "number": 20,
+          "text": "És ha valaki az ő nagynénjével hál, az ő nagybátyjának szemérmét fedte fel: viseljék gonoszságuk terhét, magtalanul haljanak meg."
+        },
+        {
+          "number": 21,
+          "text": "Ha pedig elveszi valaki az ő fiútestvérének feleségét: vérfertőzés az; az ő fiútestvérének szemérmét fedte fel; magtalanok legyenek."
+        },
+        {
+          "number": 22,
+          "text": "Tartsátok meg minden rendelésemet és minden végzésemet, és azokat cselekedjétek, hogy ki ne okádjon titeket az a föld, a melybe én viszlek be titeket, hogy ott lakjatok."
+        },
+        {
+          "number": 23,
+          "text": "És ne járjatok annak a népnek rendtartási szerint, a melyet kiűzök én előletek. Mivelhogy mindezeket cselekedték, azért megútáltam őket."
+        },
+        {
+          "number": 24,
+          "text": "Néktek pedig mondom: Ti örökölni fogjátok az ő földüket, mert én néktek adom azt örökségül, azt a tejjel és mézzel folyó földet. Én vagyok az Úr, a ti Istenetek, a ki kiválasztottalak titeket a népek közül."
+        },
+        {
+          "number": 25,
+          "text": "Tegyetek különbséget azért a tiszta és tisztátalan barmok között, a tiszta és tisztátalan szárnyas állatok között, és ne fertőztessétek meg magatokat barommal vagy szárnyas állattal, sem semmiféle földön csúszó állattal, a melyeket megkülönböztettem előttetek, mint tisztátalanokat."
+        },
+        {
+          "number": 26,
+          "text": "És legyetek nékem szentek, mert én, az Úr, szent vagyok, a ki kiválasztottalak titeket a népek közül, hogy enyéim legyetek."
+        },
+        {
+          "number": 27,
+          "text": "És akár férfi, akár asszony, hogyha ígéző vagy jövendőmondó lesz közöttök, halállal lakoljanak; kővel kövezzétek azokat agyon; vérök rajtok."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek: Szólj a papoknak, Áron fiainak, és mondd meg nékik: Senki közülök meg ne fertőztesse magát halottal az ő népe között;"
+        },
+        {
+          "number": 2,
+          "text": "Hanem ha a hozzá legközelebb álló vérrokonával: anyjával, atyjával, fiával, leányával és fiútestvérével,"
+        },
+        {
+          "number": 3,
+          "text": "Vagy a hozzá legközelebb álló hajadon leánytestvérével, a ki még nem ment férjhez: ezt megérintheti."
+        },
+        {
+          "number": 4,
+          "text": "Mint fő-ember ne fertőztesse meg magát az ő népe között, hogy szentségtelenné ne legyen."
+        },
+        {
+          "number": 5,
+          "text": "Ne nyírjanak kopaszságot a fejükön, szakálluk szélét le ne messék, és a testükbe vágásokat ne vágjanak."
+        },
+        {
+          "number": 6,
+          "text": "Szentek legyenek Istenöknek, és az ő Istenöknek nevét meg ne szentségtelenítsék, mert az Úrnak tűzáldozatait, Istenöknek kenyerét ők áldozzák; azért szentek legyenek."
+        },
+        {
+          "number": 7,
+          "text": "Parázna és megszeplősített asszonyt el ne vegyenek, se olyan asszonyt, a ki elűzetett az ő férjétől, el ne vegyenek; mert a pap az ő Istenének van szentelve."
+        },
+        {
+          "number": 8,
+          "text": "Te is szentnek tartsad őt, mert Istenednek kenyerét ő áldozza: szent legyen azért előtted, mert szent vagyok én, az Úr, a ti megszentelőtök."
+        },
+        {
+          "number": 9,
+          "text": "Hogyha valamely papnak leánya vetemedik paráznaságra, megszentségteleníti az ő atyját, azért tűzzel égettessék meg."
+        },
+        {
+          "number": 10,
+          "text": "A ki pedig főpap az ő attyafiai között, a kinek fejére töltötték a kenetnek olaját, és a kit felavattak az ő szolgálatára, hogy a szent ruhákba felöltözzék: fejét meg ne meztelenítse, se ruháit meg ne szaggassa,"
+        },
+        {
+          "number": 11,
+          "text": "És semmiféle holttesthez be ne menjen: atyjával és anyjával se fertőztesse meg magát."
+        },
+        {
+          "number": 12,
+          "text": "És a szenthelyből ki ne menjen, hogy az ő Istenének szenthelyét meg ne szentségtelenítse, mert korona, az ő Istenének kenet-olaja van ő rajta. Én vagyok az Úr."
+        },
+        {
+          "number": 13,
+          "text": "Hajadont vegyen feleségül."
+        },
+        {
+          "number": 14,
+          "text": "Özvegyet, elűzöttet, megszeplősítettet, paráznát: ilyeneket el ne vegyen, hanem hajadont vegyen feleségül az ő népe közül,"
+        },
+        {
+          "number": 15,
+          "text": "Hogy meg ne fertőztesse az ő magzatát az ő népe között; mert én, az Úr vagyok az ő megszentelője."
+        },
+        {
+          "number": 16,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 17,
+          "text": "Szólj Áronnak, mondván: Ha lesz valaki a te magod közül, az ő nemzetségökben, a kiben fogyatkozás leend, ne áldozza áldozatul az ő Istenének kenyerét."
+        },
+        {
+          "number": 18,
+          "text": "Mert senki sem áldozhat, a kiben fogyatkozás van: vagy vak, vagy sánta vagy csonka orrú, vagy hosszú tagú."
+        },
+        {
+          "number": 19,
+          "text": "Sem az, a ki törött lábú vagy törött kezű,"
+        },
+        {
+          "number": 20,
+          "text": "Vagy púpos, vagy törpe, vagy szemfájós, vagy viszketeges, vagy sömörgös, vagy a ki megszakadott."
+        },
+        {
+          "number": 21,
+          "text": "Senki, a kiben fogyatkozás van, elő ne álljon Áronnak, a papnak fiai közül, hogy tűzáldozatot vigyen fel az Úrnak; fogyatkozás van ő benne, ne álljon elő, hogy megáldozza az ő Istenének kenyerét."
+        },
+        {
+          "number": 22,
+          "text": "Az ő Istenének kenyeréből, a legszentségesebbikből és a szentségesből ehetik."
+        },
+        {
+          "number": 23,
+          "text": "Csak a függönyhöz be ne menjen, és az oltárhoz ne közelítsen, mert fogyatkozás van ő benne, hogy meg ne fertőztesse az én szenthelyemet. Én vagyok az Úr, az ő megszentelőjök."
+        },
+        {
+          "number": 24,
+          "text": "És elmondá Mózes Áronnak, és az ő fiainak, és Izráelnek minden fiainak."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Áronnak és az ő fiainak, hogy tartóztassák meg magokat Izráel fiainak szent adományaitól, hogy meg ne fertőztessék az én szent nevemet azokkal, a miket nékem szentelnek. Én vagyok az Úr."
+        },
+        {
+          "number": 3,
+          "text": "Mondd meg nékik: Ha valaki a ti nemzetségetekből, a ti összes magzataitok közül hozzájárul a szent dolgokhoz, a melyeket Izráel fiai szentelnek az Úrnak, mikor rajta van az ő tisztátalansága: az ilyen ember irtassék ki én előlem. Én vagyok az Úr."
+        },
+        {
+          "number": 4,
+          "text": "Ha valaki az Áron fiai közül poklos, vagy magfolyós, a szent dolgokból ne egyék, míg meg nem tisztul. A ki pedig valamely halott által megfertőzöttet illet, vagy valakit, a kinek magömlése van,"
+        },
+        {
+          "number": 5,
+          "text": "Vagy ha valaki valamely férget illet, a mely által tisztátalanná lesz, vagy embert, a kitől tisztátalanná lesz annak valamilyen tisztátalanságához képest:"
+        },
+        {
+          "number": 6,
+          "text": "Az ilyen ember, a ki effélét illet, tisztátalan legyen estvéig, és a szent dolgokból ne egyék, hanem ha megmosta a testét vízzel;"
+        },
+        {
+          "number": 7,
+          "text": "De mikor lemegy a nap, tiszta lesz, és azután ehetik a szent dolgokból, mert az ő eledele az."
+        },
+        {
+          "number": 8,
+          "text": "Elhullott vagy széttépett állatot ne egyék, hogy tisztátalanná ne legyen általa. Én vagyok az Úr."
+        },
+        {
+          "number": 9,
+          "text": "Az én rendelésemet pedig megtartsák, hogy bűnbe ne essenek miatta, és meg ne haljanak a miatt, hogy megrontották azt. Én vagyok az Úr, az ő megszentelőjök."
+        },
+        {
+          "number": 10,
+          "text": "Idegen ember ne egyék szenteltet, a papnak zsellére és bérese se egyék szenteltet."
+        },
+        {
+          "number": 11,
+          "text": "De ha megvásárol valakit a pap a maga pénzén, az ehetik abból, és a ki házánál született: ezek ehetnek az ő eledeléből."
+        },
+        {
+          "number": 12,
+          "text": "De a pap leánya, ha idegennek lesz a felesége, nem ehetik a szent áldozatból."
+        },
+        {
+          "number": 13,
+          "text": "Ha azonban a pap leánya özvegygyé lesz vagy elválik, de magzata nincsen, és visszatér az ő atyjának házához, mint leánykorában: akkor ehetik az ő atyjának eledeléből; de idegen nem ehetik abból."
+        },
+        {
+          "number": 14,
+          "text": "Ha pedig tévedésből eszik valaki szenteltet, tegye ahhoz annak ötödrészét; így adja meg a papnak a szenteltet."
+        },
+        {
+          "number": 15,
+          "text": "És meg ne fertőztessék Izráel fiainak szent dolgait, a melyeket áldoznak az Úrnak,"
+        },
+        {
+          "number": 16,
+          "text": "Hogy vétkes hamissággal ne terheljék magokat, ha esznek azoknak szent dolgaiból; mert én vagyok az Úr, az ő megszentelőjök."
+        },
+        {
+          "number": 17,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 18,
+          "text": "Szólj Áronnak és az ő fiainak és Izráel minden fiának, és mondd meg nékik: ha valaki Izráel házából, és az Izráelben levő jövevények közül felviszi a maga áldozatát, akár fogadásból akár szabad akaratból, a miket felvisznek az Úrnak egészen égőáldozatul,"
+        },
+        {
+          "number": 19,
+          "text": "Hogy kedvesen fogadtassanak: épek és hímek legyenek, akár tulkok, akár bárányok, akár kecskék."
+        },
+        {
+          "number": 20,
+          "text": "A miben pedig fogyatkozás van, abból semmit se áldozzatok, mert nem lesz kedvessé ti érettetek."
+        },
+        {
+          "number": 21,
+          "text": "És ha valaki hálaáldozattal áldozik az Úrnak, akár fogadásának teljesítésére, akár szabad akaratból, akár tulokféléből, akár juhféléből: ép legyen, hogy kedves legyen; semmi fogyatkozás ne legyen abban."
+        },
+        {
+          "number": 22,
+          "text": "Vakot, vagy rokkantat, vagy csonkát, vagy fekélyest, vagy viszketegest, vagy varast, ilyeneket ne áldozzatok az Úrnak, és tűzáldozatul ne tegyetek ezekből az oltárra az Úrnak."
+        },
+        {
+          "number": 23,
+          "text": "Hosszú, vagy kurta tagú ökröt, vagy bárányt szabad akaratból való áldozatul vihetsz ugyan, de fogadási áldozatul nem lesz kedves."
+        },
+        {
+          "number": 24,
+          "text": "Szétnyomott, összezúzott, megszakadt, vagy kimetszett heréjűt se áldozzatok az Úrnak. Se a ti földeteken ne cselekedjétek ezt,"
+        },
+        {
+          "number": 25,
+          "text": "Se idegen ember kezéből ne áldozzatok semmi ilyenből a ti Istenetek eledeléül; mert romlás van bennök, fogyatkozás van bennök: nem fogadtatnak kedvesen érettetek."
+        },
+        {
+          "number": 26,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 27,
+          "text": "Borjú, bárány és kecske, ha megelletett, legyen az anyja alatt hét napig, a nyolczadik naptól fogva és azon túl kedves lesz az tűzáldozatul az Úrnak."
+        },
+        {
+          "number": 28,
+          "text": "De tehenet és juhot, azt és annak fiát ne öljétek meg egy napon."
+        },
+        {
+          "number": 29,
+          "text": "Hogyha dicsőítő áldozattal áldoztok az Úrnak, úgy áldozzatok, hogy kedvesen fogadtassatok."
+        },
+        {
+          "number": 30,
+          "text": "Azon a napon egyétek meg, ne hagyjatok abból reggelig. Én vagyok az Úr."
+        },
+        {
+          "number": 31,
+          "text": "Tartsátok meg azért az én parancsolataimat, és azokat cselekedjétek. Én vagyok az Úr."
+        },
+        {
+          "number": 32,
+          "text": "És meg ne fertőztessétek az én szent nevemet, hogy megszenteltessem Izráel fiai között. Én vagyok az Úr, a ti megszentelőtök,"
+        },
+        {
+          "number": 33,
+          "text": "A ki kihoztalak titeket Égyiptom földéből, hogy Istenetek legyek néktek. Én vagyok az Úr."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak, és mondd meg nékik az Úrnak ünnepeit, a melyeken szent gyülekezésekre kell összegyülekeznetek. Ezek azok az én ünnepeim:"
+        },
+        {
+          "number": 3,
+          "text": "Hat napon át munkálkodjatok, a hetedik napon nyugodalomnak, szent gyülekezésnek szombatja van, semmi dolgot ne végezzetek: az Úrnak szombatja legyen az minden lakhelyeteken."
+        },
+        {
+          "number": 4,
+          "text": "Ezek az Úrnak ünnepei, szent gyülekezések napjai, a melyekre szabott idejökben kell összegyülekeznetek."
+        },
+        {
+          "number": 5,
+          "text": "Az első hónapban, a hónapnak tizennegyedikén, estennen az Úrnak páskhája."
+        },
+        {
+          "number": 6,
+          "text": "E hónapnak tizenötödik napján pedig az Úr kovásztalan kenyerének ünnepe. Hét napig egyetek kovásztalan kenyeret."
+        },
+        {
+          "number": 7,
+          "text": "Az első napon szent gyülekezéstek legyen, semmi robota munkát ne végezzetek."
+        },
+        {
+          "number": 8,
+          "text": "Hét napon át pedig tűzáldozatot áldozzatok az Úrnak, és a hetedik napon szent gyülekezéstek is legyen: semmi robota munkát ne végezzetek."
+        },
+        {
+          "number": 9,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 10,
+          "text": "Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet én adok néktek, és megaratjátok annak vetését: a ti aratástok zsengéjének első kévéjét vigyétek a papnak."
+        },
+        {
+          "number": 11,
+          "text": "Az pedig lóbálja meg a kévét az Úr előtt, hogy kedvesen fogadtassék érettetek; a szombat után való napon lóbálja azt meg a pap."
+        },
+        {
+          "number": 12,
+          "text": "A mely napon pedig meglóbáltatjátok a kévét, áldozzatok az Úrnak egy ép, esztendős bárányt egészen égőáldozatul."
+        },
+        {
+          "number": 13,
+          "text": "Ahhoz pedig ételáldozatul két tized efa lánglisztet, olajjal elegyítve; tűzáldozatul az Úrnak, kedves illatul; italáldozatul pedig egy hin bornak negyedrészét."
+        },
+        {
+          "number": 14,
+          "text": "Új kenyeret pedig és pergelt búzaszemeket és zsenge kalászokat ne egyetek mind a napig, a míg be nem viszitek a ti Isteneteknek áldozatját. Örök rendtartás ez nemzetségről nemzetségre minden lakóhelyeteken."
+        },
+        {
+          "number": 15,
+          "text": "Számláljatok azután a szombatra következő naptól, attól a naptól, a melyen beviszitek a meglóbálni való kévét, hét hetet, egészek legyenek azok."
+        },
+        {
+          "number": 16,
+          "text": "A hetedik hétre következő napig számláljatok ötven napot, és akkor járuljatok új ételáldozattal az Úrhoz."
+        },
+        {
+          "number": 17,
+          "text": "A ti lakóhelyeitekből hozzatok fel két meglóbálni való kenyeret; két tized efa lisztlángból legyenek azok, kovászszal sütve, zsengékül az Úrnak."
+        },
+        {
+          "number": 18,
+          "text": "A kenyérrel együtt pedig áldozzatok meg hét bárányt, épeket, esztendősöket, és egy tulkot, fiatal bikát, és két kost; egészen égőáldozatul legyenek ezek az Úrnak, étel- és italáldozatjokkal egybe; kedves illatú tűzáldozat ez az Úrnak."
+        },
+        {
+          "number": 19,
+          "text": "Készítsetek el egy kecskebakot is bűnért való áldozatul, és két bárányt, esztendősöket, hálaadó áldozatul."
+        },
+        {
+          "number": 20,
+          "text": "És lóbálja meg azokat a pap a zsengékből való kenyérrel az Úr előtt való lóbálással a két báránynyal egybe. Szentek legyenek ezek az Úrnak a pap számára."
+        },
+        {
+          "number": 21,
+          "text": "És gyülekezzetek egybe ugyanazon a napon; szent gyülekezéstek legyen néktek, semmi robota munkát ne végezzetek. Örök rendtartás ez minden lakóhelyeteken a ti nemzetségeitek szerint."
+        },
+        {
+          "number": 22,
+          "text": "Mikor pedig földetek termését learatjátok: ne arasd le egészen a meződnek széleit, és az elhullott gabonafejeket fel ne szedd; a szegénynek és jövevénynek hagyd azokat. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 23,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 24,
+          "text": "Szólj Izráel fiaihoz, mondván: A hetedik hónapban, a hónap első napján ünnepetek legyen néktek, emlékeztető kürtzengéssel, szent gyülekezéssel."
+        },
+        {
+          "number": 25,
+          "text": "Semmi robota munkát ne végezzetek, és tűzáldozattal áldozzatok az Úrnak."
+        },
+        {
+          "number": 26,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 27,
+          "text": "Ugyanennek a hetedik hónapnak tizedikén az engesztelés napja van: szent gyülekezéstek legyen néktek, és sanyargassátok meg magatokat, és tűzáldozattal áldozzatok az Úrnak."
+        },
+        {
+          "number": 28,
+          "text": "Semmi dolgot ne végezzetek azon a napon, mert engesztelésnek napja az, hogy engesztelés legyen érettetek az Úr előtt, a ti Istenetek előtt."
+        },
+        {
+          "number": 29,
+          "text": "Mert ha valaki nem sanyargatja meg magát ezen a napon, irtassék ki az ő népe közül."
+        },
+        {
+          "number": 30,
+          "text": "És ha valaki valami dolgot végez ezen a napon, elvesztem az ilyent az ő népe közül."
+        },
+        {
+          "number": 31,
+          "text": "Semmi dolgot ne végezzetek; örök rendtartás legyen ez nemzetségről nemzetségre minden lakhelyeteken."
+        },
+        {
+          "number": 32,
+          "text": "Ünnepek ünnepe ez néktek, sanyargassátok meg azért magatokat. A hónap kilenczedikének estvéjén, egyik estvétől a másik estvéig ünnepeljétek a ti ünnepeteket."
+        },
+        {
+          "number": 33,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 34,
+          "text": "Szólj Izráel fiainak, mondván: Ugyanennek a hetedik hónapnak tizenötödikén a sátorok ünnepe legyen az Úrnak hét napig."
+        },
+        {
+          "number": 35,
+          "text": "Az első napon szent gyülekezés legyen, semmi robota munkát ne végezzetek."
+        },
+        {
+          "number": 36,
+          "text": "Hét napon áldozzatok az Úrnak tűzáldozatot, a nyolczadik napon pedig szent gyülekezéstek legyen és újra tűzáldozattal áldozzatok az Úrnak; berekesztő ünnep ez, semmi robota munkát ne végezzetek azon."
+        },
+        {
+          "number": 37,
+          "text": "Ezek az Úrnak ünnepei, a melyeken szent gyülekezésekre kell gyülekeznetek, hogy áldozzatok az Úrnak tűzáldozattal, egészen égőáldozattal, ételáldozattal, véres- és italáldozattal: minden napét a maga napján."
+        },
+        {
+          "number": 38,
+          "text": "Az Úrnak szombatjain kivül, adományaitokon kivül, fogadásból és szabad akaratból való minden ajándékaitokon kivül a melyeket adni szoktatok az Úrnak,"
+        },
+        {
+          "number": 39,
+          "text": "Ugyancsak a hetedik hónapnak tizenötödik napján, a mikor a földnek termését betakarjátok, az Úrnak ünnepét ünnepeljétek hét napig: az első napon nyugodalom napja, és a nyolczadik napon is nyugodalom napja legyen."
+        },
+        {
+          "number": 40,
+          "text": "És vegyetek magatoknak az első napon szép fának gyümölcsét, pálmafa ágait, sűrű levelű fa lombját, és patak mellett való fűzgalyakat, és örvendezzetek az Úr előtt, a ti Istenetek előtt hét napig."
+        },
+        {
+          "number": 41,
+          "text": "Így ünnepeljétek meg azt az Úrnak ünnepét minden esztendőben hét napig. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél; a hetedik hónapban ünnepeljétek azt."
+        },
+        {
+          "number": 42,
+          "text": "Sátorokban lakjatok hét napig, minden benszülött sátorokban lakjék Izráelben."
+        },
+        {
+          "number": 43,
+          "text": "Hogy megtudják a ti nemzetségeitek, hogy sátorokban lakattam Izráel fiait, a mikor kihoztam őket Égyiptom földéről. Én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 44,
+          "text": "És szóla Mózes Izráel fiainak az Úrnak ünnepei felől."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Parancsold meg Izráel fiainak, hogy hozzanak néked tiszta faolajat, a melyet a világításhoz sajtoltak, hogy szünet nélkül égő lámpákat gyújthassanak."
+        },
+        {
+          "number": 3,
+          "text": "A bizonyság függönyén kivül, a gyülekezet sátorában úgy helyheztesse el azokat Áron, hogy estvétől fogva reggelig az Úr előtt legyenek. Örökkévaló rendtartás legyen ez a ti nemzetségeiteknél."
+        },
+        {
+          "number": 4,
+          "text": "A tiszta arany gyertyatartóra rakja fel a mécseket; az Úr előtt legyenek szüntelen."
+        },
+        {
+          "number": 5,
+          "text": "És végy lisztlángot, és süss abból tizenkét lepényt; két tized efából legyen egy lepény."
+        },
+        {
+          "number": 6,
+          "text": "És helyheztesd el azokat két rendben; hatot egy rendbe, a tiszta arany asztalra az Úr elé."
+        },
+        {
+          "number": 7,
+          "text": "És tégy mindenik rendhez tiszta tömjént, és legyen emlékeztetőül a kenyér mellett, tűzáldozatul az Úrnak."
+        },
+        {
+          "number": 8,
+          "text": "Szombat napról szombat napra rakja fel azt a pap az Úr elé szüntelen; örök szövetség ez Izráel fiaival."
+        },
+        {
+          "number": 9,
+          "text": "Azután legyen az Ároné és az ő fiaié, a kik egyék meg azokat szent helyen, mert mint igen szentséges, az övé az, az Úrnak tűzáldozataiból, örök rendelés szerint."
+        },
+        {
+          "number": 10,
+          "text": "Kiméne pedig egy izráelbeli asszonynak fia, a ki égyiptomi férfiútól való vala, Izráel fiai közé, és versengének a táborban az izráelbeli asszonynak fia és egy izráelbeli férfi."
+        },
+        {
+          "number": 11,
+          "text": "És káromlá az izráelbeli asszony fia az Isten nevét és átkozódék; elvivék azért azt Mózeshez. Az ő anyjának neve pedig Selomith vala, Dibrinek leánya, Dán nemzetségéből."
+        },
+        {
+          "number": 12,
+          "text": "És őrizet alá veték azt, míg kijelentést nyernének az Úr akarata felől."
+        },
+        {
+          "number": 13,
+          "text": "Szóla azért az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 14,
+          "text": "Vidd ki az átkozódót a táboron kivül, és mindazok, a kik hallották, tegyék kezeiket annak fejére és kövezze agyon azt az egész gyülekezet."
+        },
+        {
+          "number": 15,
+          "text": "Izráel fiainak pedig szólj, ezt mondván: Ha valaki az ő Istenét átkozza, viselje az ő bűnének terhét."
+        },
+        {
+          "number": 16,
+          "text": "És a ki szidalmazza az Úrnak nevét, halállal lakoljon, kövezze azt agyon az egész gyülekezet; akár jövevény, akár benszülött, ha szidalmazza az Úrnak nevét, halállal lakoljon."
+        },
+        {
+          "number": 17,
+          "text": "Ha valaki agyon üt valamely embert, halállal lakoljon."
+        },
+        {
+          "number": 18,
+          "text": "Ha pedig barmot üt agyon valaki, fizesse meg azt: barmot baromért."
+        },
+        {
+          "number": 19,
+          "text": "És ha valaki sérelmet ejt a felebarátján, a mint ő cselekedett, vele is úgy cselekedjenek:"
+        },
+        {
+          "number": 20,
+          "text": "Törést törésért, szemet szemért, fogat fogért; a milyen sérelmet ő ejtett máson, olyan ejtessék rajta is."
+        },
+        {
+          "number": 21,
+          "text": "A ki barmot üt agyon, fizesse meg azt, de a ki embert üt agyon, halállal lakoljon."
+        },
+        {
+          "number": 22,
+          "text": "Egy törvény legyen nálatok: a jövevény olyan legyen, mint a benszülött, mert én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 23,
+          "text": "Szóla azért Mózes Izráel fiainak, és kivivék az átkozódót a táboron kivül, és agyonverék azt kővel. És úgy cselekedének Izráel fiai, a mint parancsolta vala az Úr Mózesnek."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek a Sinai hegyen, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak és mondd meg nékik: Mikor bementek a földre, a melyet én adok néktek, nyugodjék meg a föld az Úrnak szombatja szerint."
+        },
+        {
+          "number": 3,
+          "text": "Hat esztendőn át vesd a te szántóföldedet, és hat esztendőn át messed a te szőlődet, és takarítsd be annak termését;"
+        },
+        {
+          "number": 4,
+          "text": "A hetedik esztendőben pedig szombati nyugodalma legyen a földnek, az Úrnak szombatja: szántóföldedet ne vesd be, és szőlődet meg ne mesd."
+        },
+        {
+          "number": 5,
+          "text": "A mi a te tarló földeden magától terem, le ne arasd, és a mi a te metszetlen szőlődön terem, meg ne szedjed; mert nyugalom esztendeje lesz az a földnek."
+        },
+        {
+          "number": 6,
+          "text": "És a mit a föld az ő szombatján terem, legyen az eledelül néktek: néked, szolgádnak, szolgáló leányodnak, béresednek és zsellérednek, a kik nálad tartózkodnak;"
+        },
+        {
+          "number": 7,
+          "text": "A te barmodnak is és a vadnak, a mely a te földeden van, legyen annak minden termése eledelül."
+        },
+        {
+          "number": 8,
+          "text": "Számlálj azután hét szombat-esztendőt, hétszer hét esztendőt, úgy hogy a hét szombat-esztendőnek ideje negyvenkilencz esztendő legyen:"
+        },
+        {
+          "number": 9,
+          "text": "Akkor fúvasd végig a riadó kürtöt a hetedik hónapban, a hónap tizedikén; az engesztelés napján fúvasd végig a kürtöt a ti egész földeteken."
+        },
+        {
+          "number": 10,
+          "text": "És szenteljétek meg az ötvenedik esztendőt, és hirdessetek szabadságot a földön, annak minden lakójának; kürtölésnek esztendeje legyen ez néktek, és kapja vissza kiki az ő birtokát, és térjen vissza kiki az ő nemzetségéhez."
+        },
+        {
+          "number": 11,
+          "text": "Kürtölésnek esztendeje ez, az legyen néktek az ötvenedik esztendő; ne vessetek és le se arassátok, a mit önként terem a föld, és a metszetlen szőlőjét se szedjétek meg annak."
+        },
+        {
+          "number": 12,
+          "text": "Mert kürtölésnek esztendeje ez, szent legyen néktek, a mezőről egyétek meg annak termését."
+        },
+        {
+          "number": 13,
+          "text": "A kürtölésnek ebben az esztendejében, kapja vissza ismét kiki az ő birtokát."
+        },
+        {
+          "number": 14,
+          "text": "Ha pedig eladsz valami eladni valót a te felebarátodnak, vagy vásárolsz valamit a te felebarátodtól: egymást meg ne csaljátok."
+        },
+        {
+          "number": 15,
+          "text": "A kürtölés esztendejét követő esztendők száma szerint vásárolj a te felebarátodtól; a terméses esztendők száma szerint adjon el néked."
+        },
+        {
+          "number": 16,
+          "text": "Az esztendők nagyobb számához képest nagyobb árt adj azért, a mit veszesz, az esztendők kisebb számához képest pedig kisebb árt adj azért, a mit veszesz, mert a termések számát adja ő el néked."
+        },
+        {
+          "number": 17,
+          "text": "Egymást azért meg ne csaljátok, hanem félj a te Istenedtől: mert én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 18,
+          "text": "Ha teljesítitek azért az én rendeléseimet, és megtartjátok végzéseimet, és teljesítitek azokat, bátorságosan lakhattok a földön."
+        },
+        {
+          "number": 19,
+          "text": "És megtermi a föld az ő gyümölcsét, hogy eleget ehessetek, és bátorságosan lakhattok azon."
+        },
+        {
+          "number": 20,
+          "text": "Ha pedig azt mondjátok: Mit eszünk a hetedik esztendőben, ha nem vetünk, és termésünket be nem takarítjuk?"
+        },
+        {
+          "number": 21,
+          "text": "Én rátok bocsátom majd az én áldásomat a hatodik esztendőben, hogy három esztendőre való termés teremjen."
+        },
+        {
+          "number": 22,
+          "text": "És mikor a nyolczadik esztendőre vettek, akkor is az ó termésből esztek egészen a kilenczedik esztendeig; mindaddig ó gabonát esztek, míg ennek termése be nem jön."
+        },
+        {
+          "number": 23,
+          "text": "A földet pedig senki el ne adja örökre, mert enyém a föld; csak jövevények és zsellérek vagytok ti nálam."
+        },
+        {
+          "number": 24,
+          "text": "Azért a ti birtokotoknak egész földén megengedjétek, hogy a föld kiváltható legyen."
+        },
+        {
+          "number": 25,
+          "text": "Ha elszegényedik a te atyádfia, és elad valamit az ő birtokából, akkor álljon elő az ő rokona, a ki közel van ő hozzá, és váltsa ki, a mit eladott az ő atyjafia."
+        },
+        {
+          "number": 26,
+          "text": "Ha pedig nincs valakinek kiváltó rokona, de maga tesz szert annyira, hogy elege van annak megváltásához:"
+        },
+        {
+          "number": 27,
+          "text": "Számlálja meg az eladása óta eltelt esztendőket, a felül lévőt pedig térítse meg annak, a kinek eladta volt, és újra övé legyen az ő birtoka."
+        },
+        {
+          "number": 28,
+          "text": "Ha pedig nincsen módjában, hogy visszatéríthesse annak, akkor maradjon az ő eladott birtoka annál, a ki megvette azt, egészen a kürtölésnek esztendejéig: a kürtölésnek esztendejében pedig szabaduljon fel, és újra övé legyen az ő birtoka."
+        },
+        {
+          "number": 29,
+          "text": "Ha valaki lakó-házat ad el kerített városban, az kiválthatja azt az eladás esztendejének elteléséig; egy esztendőn át válthatja ki azt."
+        },
+        {
+          "number": 30,
+          "text": "Ha pedig ki nem váltják az esztendőnek teljes elteléséig, akkor a ház, a mely kerített városban van, örökre azé és annak nemzetségeié marad, a ki megvette azt; nem szabadul fel a kürtölésnek esztendejében."
+        },
+        {
+          "number": 31,
+          "text": "Az olyan falvak házai pedig, a melyek nincsenek körülkerítve, mezei földek gyanánt számíttassanak, kiválthatók legyenek, és a kürtölésnek esztendejében felszabaduljanak."
+        },
+        {
+          "number": 32,
+          "text": "A mi pedig a léviták városait illeti, az ő birtokukban lévő városok házai a léviták által mindenkor kiválthatók legyenek,"
+        },
+        {
+          "number": 33,
+          "text": "De a mit ki nem vált is valaki a léviták közül, szabaduljon fel a kürtölésnek esztendejében, az eladott ház, és az ő birtokának városa; mert a léviták városainak házai tulajdon birtokuk nékik Izráel fiai között."
+        },
+        {
+          "number": 34,
+          "text": "De a városaikhoz tartozó szántóföldeket el ne adják, mert örök birtokuk az nékik."
+        },
+        {
+          "number": 35,
+          "text": "Ha a te atyádfia elszegényedik, és keze erőtlenné lesz melletted, segítsd meg őt, akár jövevény, akár zsellér, hogy megélhessen melletted."
+        },
+        {
+          "number": 36,
+          "text": "Ne végy ő tőle kamatot vagy uzsorát, hanem félj a te Istenedtől, hogy megélhessen melletted a te atyádfia."
+        },
+        {
+          "number": 37,
+          "text": "Pénzedet ne add néki kamatra, se uzsoráért ne add a te eleségedet."
+        },
+        {
+          "number": 38,
+          "text": "Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéről, hogy néktek adjam Kanaán földét, és Istenetek legyek néktek."
+        },
+        {
+          "number": 39,
+          "text": "Ha pedig elszegényedik melletted a te atyádfia, és eladja magát néked: ne szolgáltassad úgy mint rabszolgát."
+        },
+        {
+          "number": 40,
+          "text": "Mint béres, mint zsellér legyen nálad; a kürtölésnek esztendejéig szolgáljon nálad."
+        },
+        {
+          "number": 41,
+          "text": "Azután menjen el tőled ő és vele az ő gyermekei, és térjen vissza az ő nemzetségéhez, és térjen vissza az ő atyáinak örökségébe."
+        },
+        {
+          "number": 42,
+          "text": "Mert az én szolgáim ők, a kiket kihoztam Égyiptom földéről: nem adathatnak el, mint rabszolgák."
+        },
+        {
+          "number": 43,
+          "text": "Ne uralkodjál rajta kegyetlenül, hanem félj a te Istenedtől."
+        },
+        {
+          "number": 44,
+          "text": "Mind szolgád, mind szolgálóleányod, a kik lesznek néked, a körületek lévő népek közül legyenek: azokból vásárolj szolgát és szolgálóleányt;"
+        },
+        {
+          "number": 45,
+          "text": "Meg a zsellérek gyermekei közül is, a kik nálatok tartózkodnak, azokból is vásárolhattok, és azoknak nemzetségéből, a kik veletek vannak, a kiket a ti földeteken nemzettek; és legyenek a ti tulajdonotok."
+        },
+        {
+          "number": 46,
+          "text": "És örökül hagyhatjátok azokat a ti utánnatok való fiaitoknak, hogy örökségül bírják azokat, örökké dolgoztathattok velük; de a ti atyátokfiain, az Izráel fiain, egyik a másikán senki ne uralkodjék kegyetlenül."
+        },
+        {
+          "number": 47,
+          "text": "És ha a jövevény vagy zsellér vagyonra tesz szert melletted, a te atyádfia pedig elszegényedik mellette, és eladja magát a melletted lévő jövevénynek, zsellérnek, vagy jövevény nemzetségéből való sarjadéknak:"
+        },
+        {
+          "number": 48,
+          "text": "Mindamellett is, hogy eladta magát, megváltható legyen; akárki megválthassa azt az ő atyjafiai közül."
+        },
+        {
+          "number": 49,
+          "text": "Vagy nagybátyja, vagy nagybátyjának fia váltsa meg azt, vagy az ő nemzetségéből való vérrokona váltsa meg azt, vagy, ha módja van hozzá, maga váltsa meg őmagát."
+        },
+        {
+          "number": 50,
+          "text": "És vessen számot azzal, a ki megvette őt, attól az esztendőtől kezdve, a melyen eladta magát annak, a kürtölésnek esztendejéig, és az ő eladásának ára az esztendők száma szerint legyen, a béres ideje szerint legyen nála."
+        },
+        {
+          "number": 51,
+          "text": "Ha még sok esztendő van hátra, azokhoz képest térítse meg annak a váltságot az ő megvásárlásának árából."
+        },
+        {
+          "number": 52,
+          "text": "Ha pedig kevés esztendő van hátra a kürtölésnek esztendejéig, akkor is vessen számot vele, és az évek számához képest fizesse vissza az ő váltságát."
+        },
+        {
+          "number": 53,
+          "text": "Mint esztendőről esztendőre fogadott béres legyen nála; ne uralkodjék kegyetlenül rajta te előtted."
+        },
+        {
+          "number": 54,
+          "text": "Ha pedig ilyen módon meg nem váltatik, a kürtölésnek esztendejében szabaduljon fel: ő és vele az ő gyermekei."
+        },
+        {
+          "number": 55,
+          "text": "Mert az én szolgáim Izráel fiai, az én szolgáim ők, a kiket kihoztam Égyiptom földéről. Én vagyok az Úr, a ti Istenetek."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ne csináljatok magatoknak bálványokat, se faragott képet, se oszlopot ne emeljetek magatoknak, se kőszobrokat ne állítsatok fel a ti földeteken, hogy meghajoljatok előtte, mert én vagyok az Úr, a ti Istenetek."
+        },
+        {
+          "number": 2,
+          "text": "Az én szombatjaimat megtartsátok, és az én szenthelyemet tiszteljétek. Én vagyok az Úr."
+        },
+        {
+          "number": 3,
+          "text": "Ha az én rendeléseim szerint jártok, és az én parancsolataimat megtartjátok, és azokat megcselekszitek:"
+        },
+        {
+          "number": 4,
+          "text": "Esőt adok néktek idejében, és a föld megadja az ő termését, a mező fája is megtermi gyümölcsét."
+        },
+        {
+          "number": 5,
+          "text": "És a ti csépléstek ott éri a szüretet, és a szüret ott éri a vetést, és elégségig ehetitek kenyereteket, és bátorságosan lakhattok a ti földeteken."
+        },
+        {
+          "number": 6,
+          "text": "Mert békességet adok azon a földön, hogy mikor lefeküsztök, senki fel ne rettentsen; és kipusztítom az ártalmas vadat arról a földről, és fegyver sem megy át a ti földeteken."
+        },
+        {
+          "number": 7,
+          "text": "Sőt elűzitek ellenségeiteket, és elhullanak előttetek fegyver által."
+        },
+        {
+          "number": 8,
+          "text": "És közületek öten százat elűznek, és közületek százan elűznek tízezeret, és elhullanak előttetek a ti ellenségeitek fegyver által."
+        },
+        {
+          "number": 9,
+          "text": "És hozzátok fordulok, és megszaporítlak titeket, és megsokasítlak titeket és szövetségemet megerősítem veletek."
+        },
+        {
+          "number": 10,
+          "text": "És réginél régibbet ehettek, és az új elől is régit kell kihordanotok."
+        },
+        {
+          "number": 11,
+          "text": "És az én hajlékomat közétek helyezem, és meg nem útál titeket az én lelkem."
+        },
+        {
+          "number": 12,
+          "text": "És közöttetek járok, és a ti Istenetek leszek, ti pedig az én népem lesztek."
+        },
+        {
+          "number": 13,
+          "text": "Én vagyok az Úr, a ti Istenetek, a ki kihoztalak titeket Égyiptom földéről, hogy ne legyetek azoknak rabjai, és összetörtem a ti igátok szegeit, és egyenesen járattalak titeket."
+        },
+        {
+          "number": 14,
+          "text": "Ha pedig nem hallgattok reám, és mind e parancsolatokat meg nem cselekeszitek;"
+        },
+        {
+          "number": 15,
+          "text": "És ha megvetitek rendeléseimet, és ha az én végzéseimet megútálja a ti lelketek, azáltal, hogy nem cselekszitek meg minden én parancsolatomat, hanem felbontjátok az én szövetségemet:"
+        },
+        {
+          "number": 16,
+          "text": "Bizony azt cselekszem én veletek, hogy rettenetességet bocsátok reátok: a száraz betegséget és a forrólázt, a melyek szemeket égetnek és lelket epesztenek, és a ti magotokat hiába vetitek el, mert ellenségeitek emésztik meg azt."
+        },
+        {
+          "number": 17,
+          "text": "És kiontom haragomat reátok, hogy elhulljatok a ti ellenségeitek előtt, és uralkodjanak rajtatok a ti gyűlölőitek, és fussatok, mikor senki nem kerget is titeket."
+        },
+        {
+          "number": 18,
+          "text": "Ha pedig ezek után sem hallgattok reám, hétszerte keményebben megostorozlak titeket a ti bűneitekért;"
+        },
+        {
+          "number": 19,
+          "text": "És megtöröm a ti megátalkodott kevélységeteket, és olyanná teszem az eget felettetek, mint a vas, a földeteket pedig olyanná, mint a réz."
+        },
+        {
+          "number": 20,
+          "text": "És hiába fogy a ti erőtök, mert földetek nem adja meg az ő termését, s a föld fája sem adja meg az ő gyümölcsét."
+        },
+        {
+          "number": 21,
+          "text": "Ha mégis ellenemre jártok, és nem akartok reám hallgatni: hétszeres csapást borítok reátok a ti bűneitekért."
+        },
+        {
+          "number": 22,
+          "text": "És reátok bocsátom a mezei vadakat, hogy megfoszszanak titeket gyermekeitektől, kiirtsák barmaitokat, és elfogyaszszanak titeket, hogy pusztákká legyenek a ti útaitok."
+        },
+        {
+          "number": 23,
+          "text": "És ha ezek által sem jobbultok meg, hanem ellenemre jártok:"
+        },
+        {
+          "number": 24,
+          "text": "Én is bizony ellenetekre járok, és hétszeresen sújtalak titeket a ti bűneitekért."
+        },
+        {
+          "number": 25,
+          "text": "És hozok reátok bosszuló fegyvert, a mely bosszút álljon a szövetség megrontásáért. Ha városaitokba gyülekeztek össze, akkor döghalált bocsátok reátok, és az ellenség kezébe adattok."
+        },
+        {
+          "number": 26,
+          "text": "Mikor eltöröm nálatok a kenyérnek botját, tíz asszony süti majd a ti kenyereteket egy kemenczében, és megmérve viszik vissza a ti kenyereiteket, és esztek, de nem elégesztek meg."
+        },
+        {
+          "number": 27,
+          "text": "És ha e mellett sem hallgattok reám, hanem ellenemre jártok:"
+        },
+        {
+          "number": 28,
+          "text": "Én is ellenetekre járok búsult haragomban, és bizony hétszeresen megostorozlak titeket a ti bűneitekért."
+        },
+        {
+          "number": 29,
+          "text": "És megeszitek a ti fiaitok húsát, és megeszitek a ti leányaitok húsát."
+        },
+        {
+          "number": 30,
+          "text": "És lerontom a ti magaslataitokat, és kiirtom a ti nap-oszlopaitokat, és a ti holttesteiteket bálványaitok holttetemeire hányatom, és megútál titeket az én lelkem."
+        },
+        {
+          "number": 31,
+          "text": "És városaitokat sivataggá teszem; szenthelyeiteket is elpusztítom, és nem lesz kedves nékem a ti jóillatú áldozatotok."
+        },
+        {
+          "number": 32,
+          "text": "És elpusztítom ezt a földet, hogy álmélkodjanak rajta a ti ellenségeitek, a kik letelepednek ebbe."
+        },
+        {
+          "number": 33,
+          "text": "Titeket pedig elszélesztelek a pogány népek közé, és kivont fegyverrel űzetlek titeket, és pusztasággá lesz a ti földetek, városaitok pedig sivataggá."
+        },
+        {
+          "number": 34,
+          "text": "Akkor örül a föld az ő szombatjainak az ő pusztaságának egész ideje alatt, ti pedig a ti ellenségeitek földjén lesztek; akkor nyugodni fog a föld és örül az ő szombatjainak."
+        },
+        {
+          "number": 35,
+          "text": "Pusztaságának egész ideje alatt nyugodni fog, mivelhogy nem nyugodott a ti szombatjaitokon, mikor rajta laktatok."
+        },
+        {
+          "number": 36,
+          "text": "A kik pedig megmaradnak közületek, azoknak szívébe gyávaságot öntök az ő ellenségeiknek földén, és megkergeti őket a szállongó falevél zörrenése, és futnak, mintha fegyver elől futnának, és elhullanak, ha senki nem kergeti is őket."
+        },
+        {
+          "number": 37,
+          "text": "És egymásra hullanak, mint a fegyver előtt, pedig senki sem kergeti őket, és nem lesz megállásotok a ti ellenségeitek előtt."
+        },
+        {
+          "number": 38,
+          "text": "És elvesztek a pogány népek között, és a ti ellenségeitek földe megemészt titeket."
+        },
+        {
+          "number": 39,
+          "text": "A kik pedig megmaradnak közületek, elsenyvednek az ő hamisságuk miatt a ti ellenségeitek földén, sőt az ő atyáiknak hamissága miatt is azokkal együtt elsenyvednek."
+        },
+        {
+          "number": 40,
+          "text": "Akkor megvallják az ő hamisságukat, és atyáiknak hamisságát az ő hűtelenségökben, a melylyel hűtelenkedtek ellenem, és hogy mivel ellenemre jártak."
+        },
+        {
+          "number": 41,
+          "text": "Bizony én is ellenökre járok, és beviszem őket az ő ellenségeik földjére; akkor talán megalázódik az ő körülmetéletlen szívök, és akkor az ő bűnöknek büntetését békével szenvedik:"
+        },
+        {
+          "number": 42,
+          "text": "Én pedig megemlékezem Jákóbbal kötött szövetségemről, Izsákkal kötött szövetségemről is, Ábrahámmal kötött szövetségemről is megemlékezem, és e földről is megemlékezem."
+        },
+        {
+          "number": 43,
+          "text": "A föld tehát pusztán hagyatik tőlük, és örül az ő szombatjainak, a míg pusztán marad tőlük, ők pedig békével szenvedik bűnöknek büntetését, azért, mert megvetették az én ítéleteimet, és megútálta lelkök az én rendeléseimet."
+        },
+        {
+          "number": 44,
+          "text": "De mindamellett is, ha az ő ellenségeik földén lesznek is, akkor sem vetem meg őket, és nem útálom meg őket annyira, hogy mindenestől elveszítsem őket, felbontván velök való szövetségemet, mert én, az Úr, az ő Istenök vagyok."
+        },
+        {
+          "number": 45,
+          "text": "Sőt megemlékezem érettök az elődökkel kötött szövetségről, a kiket kihoztam Égyiptom földéről, a pogány népek láttára, hogy Istenök legyek nékik. Én vagyok az Úr."
+        },
+        {
+          "number": 46,
+          "text": "Ezek a rendelések, a végzések és a törvények, a melyeket szerzett az Úr ő maga között és Izráel fiai között a Sinai hegyen Mózes által."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szóla ismét az Úr Mózesnek, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Szólj Izráel fiainak, és mondd meg nékik: Ha valaki fogadásul a te becslésed szerint való személyeket szentel az Úrnak:"
+        },
+        {
+          "number": 3,
+          "text": "Akkor, ha férfit kell becslened, húsz esztendőstől hatvan esztendősig ötven ezüst siklusra becsüljed, a szent siklus szerint."
+        },
+        {
+          "number": 4,
+          "text": "Ha pedig asszony-személy az, harmincz siklusra becsüljed."
+        },
+        {
+          "number": 5,
+          "text": "Ha pedig öt esztendőstől húsz esztendősig való, akkor a fiúgyermeket húsz siklusra becsüljed, a leányt pedig tíz siklusra."
+        },
+        {
+          "number": 6,
+          "text": "Ha pedig egy hónapostól öt esztendősig való, akkor a fiút öt ezüst siklusra becsüld, a leányt pedig három ezüst siklusra."
+        },
+        {
+          "number": 7,
+          "text": "Ha pedig hatvan esztendős és azon felül való, ha férfi, akkor becsüljed tizenöt siklusra, az asszony-személyt pedig tíz siklusra."
+        },
+        {
+          "number": 8,
+          "text": "Ha pedig szegényebb az, mint te becsülted, akkor állassák a pap elé, és becsülje meg azt a pap; a szerint becsülje azt a pap, a milyen módja van a fogadást tevőnek."
+        },
+        {
+          "number": 9,
+          "text": "Ha pedig olyan barom az, a miből áldozni szoktak az Úrnak: mindaz, a mit az eféléből ád valaki az Úrnak, szent legyen."
+        },
+        {
+          "number": 10,
+          "text": "Ne adjon mást helyette, és ki ne cserélje azt: jót hitványért, vagy hitványat jóért; de ha mégis kicserélne barmot barommal: mind ez, mind az, a mivel kicserélte, szent legyen."
+        },
+        {
+          "number": 11,
+          "text": "Ha pedig valamely tisztátalan barom az, a melyből nem vihetnek áldozatot az Úrnak: állassák azt a barmot a pap elé."
+        },
+        {
+          "number": 12,
+          "text": "És becsülje meg azt a pap akár jó, akár hitvány, és a mint becsüli a pap, úgy legyen."
+        },
+        {
+          "number": 13,
+          "text": "Ha pedig meg akarja váltani, adja hozzá annak ötödrészét a te becsléseden felül."
+        },
+        {
+          "number": 14,
+          "text": "És ha valaki az ő házát szenteli az Úrnak szentségül, azt is becsülje meg a pap: akár jó, akár hitvány, és a mennyire a pap becsüli azt, úgy maradjon."
+        },
+        {
+          "number": 15,
+          "text": "Ha pedig az, a ki odaszentelte, megváltja az ő házát: akkor adja ahhoz a te becslésed szerint való árnak ötödrészét, és legyen az övé."
+        },
+        {
+          "number": 16,
+          "text": "És ha valaki az ő mezei birtokából szentel valamit az Úrnak, akkor a mag szerint becsüld meg, a mely abba megy: egy hómer árpa-mag után ötven ezüst siklusra."
+        },
+        {
+          "number": 17,
+          "text": "Ha a kürtölésnek esztendejétől szenteli oda az ő mezejét, a mint becsülted, úgy maradjon."
+        },
+        {
+          "number": 18,
+          "text": "Ha pedig a kürtölés esztendeje után szenteli oda az ő mezejét, a pap számítsa fel néki az árt az esztendők száma szerint, a melyek hátra vannak a kürtölés esztendejéig, és szállíttassék le a te becslésed."
+        },
+        {
+          "number": 19,
+          "text": "És ha meg akarja váltani a mezőt az, a ki odaszentelte, akkor adja ahhoz az általad becsült árnak ötödrészét, és maradjon az övé."
+        },
+        {
+          "number": 20,
+          "text": "Ha pedig nem váltja meg azt a mezőt, és ha eladja azt a mezőt más valakinek, többé meg nem válthatja azt."
+        },
+        {
+          "number": 21,
+          "text": "És az a föld, mikor a kürtölésnek esztendejében felszabadul, az Úrnak szenteltessék, mint valamely néki szentelt mező, papok birtokává legyen az."
+        },
+        {
+          "number": 22,
+          "text": "Ha pedig pénzen vett mezejét, a mi nem az ő birtokának mezejéből való, valaki az Úrnak szenteli:"
+        },
+        {
+          "number": 23,
+          "text": "Akkor számolja fel néki a pap a te becslésed szerint való összeget a kürtölés esztendejéig, és adja oda azt, a mire te becsülted, azon a napon szentségül az Úrnak."
+        },
+        {
+          "number": 24,
+          "text": "A kürtölésnek esztendejében visszaszáll a mező arra, a kitől vette azt, a kinek birtoka volt az a föld."
+        },
+        {
+          "number": 25,
+          "text": "Minden becslésed pedig a szent siklus szerint legyen; húsz géra legyen a siklus."
+        },
+        {
+          "number": 26,
+          "text": "Csak elsőszülöttet, a mely elsőszülött úgyis az Úré, azt ne szenteljen a baromféléből senki; akár borjú akár bárány, az Úré az."
+        },
+        {
+          "number": 27,
+          "text": "Ha pedig tisztátalan baromból való az, váltsa meg a te becslésed szerint, és adja hozzá annak ötödrészét; ha pedig nem váltják meg, adassék el a te becslésed szerint."
+        },
+        {
+          "number": 28,
+          "text": "De semmi, a mit valaki teljesen az Úrnak szentelt, mind abból a mije van, akár ember vagy barom, akár mezei birtokából való, el ne adassék, és meg se váltassék; minden, a mi teljesen néki szenteltetett, igen szentséges az Úrnak."
+        },
+        {
+          "number": 29,
+          "text": "Senki, a ki teljesen az Úrnak szenteltetett az emberek közül, meg ne váltassék, hanem halálra adassék bizonynyal."
+        },
+        {
+          "number": 30,
+          "text": "A földnek minden tizede, a föld vetéséből, a fa gyümölcséből az Úré; szentség az az Úrnak."
+        },
+        {
+          "number": 31,
+          "text": "És ha valaki meg akar valamit váltani az ő tizedéből: adja hozzá annak ötödrészét."
+        },
+        {
+          "number": 32,
+          "text": "És minden tizede a baromnak és juhnak, mindabból, a mi a vessző alatt átmegy, a tizedik az Úrnak legyen szentelve."
+        },
+        {
+          "number": 33,
+          "text": "Ne tudakozódjék, ha jó-e vagy hitvány, és el se cserélje azt; de ha mégis elcseréli azt, akkor az, és a mit cserébe adott azért, szent legyen, és meg se váltassék."
+        },
+        {
+          "number": 34,
+          "text": "Ezek azok a parancsolatok, a melyeket Mózes által parancsolt az Úr Izráel fiainak a Sinai hegyen."
+        }
+      ]
+    }
+  ]
+}

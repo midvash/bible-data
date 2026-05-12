@@ -1,0 +1,18 @@
+{
+  "slug": "elb1905",
+  "shortName": "ELB1905",
+  "name": "Elberfelder Bibel 1905",
+  "language": "de",
+  "year": 1905,
+  "license": "public-domain",
+  "licenseNote": "Public domain (1905 unrevised Elberfelder translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/elb1905",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

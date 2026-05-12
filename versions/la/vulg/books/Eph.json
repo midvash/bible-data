@@ -1,0 +1,659 @@
+{
+  "version": "vulg",
+  "book": "Eph",
+  "bookId": 49,
+  "englishName": "Ephesians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulus apostolus Christi Iesu per voluntatem Dei sanctis omnibus qui sunt Ephesi et fidelibus in Christo Iesu"
+        },
+        {
+          "number": 2,
+          "text": "gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo"
+        },
+        {
+          "number": 3,
+          "text": "benedictus Deus et Pater Domini nostri Iesu Christi qui benedixit nos in omni benedictione spiritali in caelestibus in Christo"
+        },
+        {
+          "number": 4,
+          "text": "sicut elegit nos in ipso ante mundi constitutionem ut essemus sancti et inmaculati in conspectu eius in caritate"
+        },
+        {
+          "number": 5,
+          "text": "qui praedestinavit nos in adoptionem filiorum per Iesum Christum in ipsum secundum propositum voluntatis suae"
+        },
+        {
+          "number": 6,
+          "text": "in laudem gloriae gratiae suae in qua gratificavit nos in dilecto"
+        },
+        {
+          "number": 7,
+          "text": "in quo habemus redemptionem per sanguinem eius remissionem peccatorum secundum divitias gratiae eius"
+        },
+        {
+          "number": 8,
+          "text": "quae superabundavit in nobis in omni sapientia et prudentia"
+        },
+        {
+          "number": 9,
+          "text": "ut notum faceret nobis sacramentum voluntatis suae secundum bonum placitum eius quod proposuit in eo"
+        },
+        {
+          "number": 10,
+          "text": "in dispensationem plenitudinis temporum instaurare omnia in Christo quae in caelis et quae in terra sunt in ipso"
+        },
+        {
+          "number": 11,
+          "text": "in quo etiam sorte vocati sumus praedestinati secundum propositum eius qui omnia operatur secundum consilium voluntatis suae"
+        },
+        {
+          "number": 12,
+          "text": "ut simus in laudem gloriae eius qui ante speravimus in Christo"
+        },
+        {
+          "number": 13,
+          "text": "in quo et vos cum audissetis verbum veritatis evangelium salutis vestrae in quo et credentes signati estis Spiritu promissionis Sancto"
+        },
+        {
+          "number": 14,
+          "text": "qui est pignus hereditatis nostrae in redemptionem adquisitionis in laudem gloriae ipsius"
+        },
+        {
+          "number": 15,
+          "text": "propterea et ego audiens fidem vestram quae est in Domino Iesu et dilectionem in omnes sanctos"
+        },
+        {
+          "number": 16,
+          "text": "non cesso gratias agens pro vobis memoriam vestri faciens in orationibus meis"
+        },
+        {
+          "number": 17,
+          "text": "ut Deus Domini nostri Iesu Christi Pater gloriae det vobis spiritum sapientiae et revelationis in agnitione eius"
+        },
+        {
+          "number": 18,
+          "text": "inluminatos oculos cordis vestri ut sciatis quae sit spes vocationis eius quae divitiae gloriae hereditatis eius in sanctis"
+        },
+        {
+          "number": 19,
+          "text": "et quae sit supereminens magnitudo virtutis eius in nos qui credidimus secundum operationem potentiae virtutis eius"
+        },
+        {
+          "number": 20,
+          "text": "quam operatus est in Christo suscitans illum a mortuis et constituens ad dexteram suam in caelestibus"
+        },
+        {
+          "number": 21,
+          "text": "supra omnem principatum et potestatem et virtutem et dominationem et omne nomen quod nominatur non solum in hoc saeculo sed et in futuro"
+        },
+        {
+          "number": 22,
+          "text": "et omnia subiecit sub pedibus eius et ipsum dedit caput supra omnia ecclesiae"
+        },
+        {
+          "number": 23,
+          "text": "quae est corpus ipsius plenitudo eius qui omnia in omnibus adimpletur"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et vos cum essetis mortui delictis et peccatis vestris"
+        },
+        {
+          "number": 2,
+          "text": "in quibus aliquando ambulastis secundum saeculum mundi huius secundum principem potestatis aeris huius spiritus qui nunc operatur in filios diffidentiae"
+        },
+        {
+          "number": 3,
+          "text": "in quibus et nos omnes aliquando conversati sumus in desideriis carnis nostrae facientes voluntates carnis et cogitationum et eramus natura filii irae sicut et ceteri"
+        },
+        {
+          "number": 4,
+          "text": "Deus autem qui dives est in misericordia propter nimiam caritatem suam qua dilexit nos"
+        },
+        {
+          "number": 5,
+          "text": "et cum essemus mortui peccatis convivificavit nos Christo gratia estis salvati"
+        },
+        {
+          "number": 6,
+          "text": "et conresuscitavit et consedere fecit in caelestibus in Christo Iesu"
+        },
+        {
+          "number": 7,
+          "text": "ut ostenderet in saeculis supervenientibus abundantes divitias gratiae suae in bonitate super nos in Christo Iesu"
+        },
+        {
+          "number": 8,
+          "text": "gratia enim estis salvati per fidem et hoc non ex vobis Dei enim donum est"
+        },
+        {
+          "number": 9,
+          "text": "non ex operibus ut ne quis glorietur"
+        },
+        {
+          "number": 10,
+          "text": "ipsius enim sumus factura creati in Christo Iesu in operibus bonis quae praeparavit Deus ut in illis ambulemus"
+        },
+        {
+          "number": 11,
+          "text": "propter quod memores estote quod aliquando vos gentes in carne qui dicimini praeputium ab ea quae dicitur circumcisio in carne manufacta"
+        },
+        {
+          "number": 12,
+          "text": "quia eratis illo in tempore sine Christo alienati a conversatione Israhel et hospites testamentorum promissionis spem non habentes et sine Deo in mundo"
+        },
+        {
+          "number": 13,
+          "text": "nunc autem in Christo Iesu vos qui aliquando eratis longe facti estis prope in sanguine Christi"
+        },
+        {
+          "number": 14,
+          "text": "ipse est enim pax nostra qui fecit utraque unum et medium parietem maceriae solvens inimicitiam in carne sua"
+        },
+        {
+          "number": 15,
+          "text": "legem mandatorum decretis evacuans ut duos condat in semet ipsum in unum novum hominem faciens pacem"
+        },
+        {
+          "number": 16,
+          "text": "et reconciliet ambos in uno corpore Deo per crucem interficiens inimicitiam in semet ipso"
+        },
+        {
+          "number": 17,
+          "text": "et veniens evangelizavit pacem vobis qui longe fuistis et pacem his qui prope"
+        },
+        {
+          "number": 18,
+          "text": "quoniam per ipsum habemus accessum ambo in uno Spiritu ad Patrem"
+        },
+        {
+          "number": 19,
+          "text": "ergo iam non estis hospites et advenae sed estis cives sanctorum et domestici Dei"
+        },
+        {
+          "number": 20,
+          "text": "superaedificati super fundamentum apostolorum et prophetarum ipso summo angulari lapide Christo Iesu"
+        },
+        {
+          "number": 21,
+          "text": "in quo omnis aedificatio constructa crescit in templum sanctum in Domino"
+        },
+        {
+          "number": 22,
+          "text": "in quo et vos coaedificamini in habitaculum Dei in Spiritu"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "huius rei gratia ego Paulus vinctus Christi Iesu pro vobis gentibus"
+        },
+        {
+          "number": 2,
+          "text": "si tamen audistis dispensationem gratiae Dei quae data est mihi in vobis"
+        },
+        {
+          "number": 3,
+          "text": "quoniam secundum revelationem notum mihi factum est sacramentum sicut supra scripsi in brevi"
+        },
+        {
+          "number": 4,
+          "text": "prout potestis legentes intellegere prudentiam meam in mysterio Christi"
+        },
+        {
+          "number": 5,
+          "text": "quod aliis generationibus non est agnitum filiis hominum sicuti nunc revelatum est sanctis apostolis eius et prophetis in Spiritu"
+        },
+        {
+          "number": 6,
+          "text": "esse gentes coheredes et concorporales et conparticipes promissionis in Christo Iesu per evangelium"
+        },
+        {
+          "number": 7,
+          "text": "cuius factus sum minister secundum donum gratiae Dei quae data est mihi secundum operationem virtutis eius"
+        },
+        {
+          "number": 8,
+          "text": "mihi omnium sanctorum minimo data est gratia haec in gentibus evangelizare ininvestigabiles divitias Christi"
+        },
+        {
+          "number": 9,
+          "text": "et inluminare omnes quae sit dispensatio sacramenti absconditi a saeculis in Deo qui omnia creavit"
+        },
+        {
+          "number": 10,
+          "text": "ut innotescat principibus et potestatibus in caelestibus per ecclesiam multiformis sapientia Dei"
+        },
+        {
+          "number": 11,
+          "text": "secundum praefinitionem saeculorum quam fecit in Christo Iesu Domino nostro"
+        },
+        {
+          "number": 12,
+          "text": "in quo habemus fiduciam et accessum in confidentia per fidem eius"
+        },
+        {
+          "number": 13,
+          "text": "propter quod peto ne deficiatis in tribulationibus meis pro vobis quae est gloria vestra"
+        },
+        {
+          "number": 14,
+          "text": "huius rei gratia flecto genua mea ad Patrem Domini nostri Iesu Christi"
+        },
+        {
+          "number": 15,
+          "text": "ex quo omnis paternitas in caelis et in terra nominatur"
+        },
+        {
+          "number": 16,
+          "text": "ut det vobis secundum divitias gloriae suae virtute corroborari per Spiritum eius in interiore homine"
+        },
+        {
+          "number": 17,
+          "text": "habitare Christum per fidem in cordibus vestris in caritate radicati et fundati"
+        },
+        {
+          "number": 18,
+          "text": "ut possitis conprehendere cum omnibus sanctis quae sit latitudo et longitudo et sublimitas et profundum"
+        },
+        {
+          "number": 19,
+          "text": "scire etiam supereminentem scientiae caritatem Christi ut impleamini in omnem plenitudinem Dei"
+        },
+        {
+          "number": 20,
+          "text": "ei autem qui potens est omnia facere superabundanter quam petimus aut intellegimus secundum virtutem quae operatur in nobis"
+        },
+        {
+          "number": 21,
+          "text": "ipsi gloria in ecclesia et in Christo Iesu in omnes generationes saeculi saeculorum amen"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "obsecro itaque vos ego vinctus in Domino ut digne ambuletis vocatione qua vocati estis"
+        },
+        {
+          "number": 2,
+          "text": "cum omni humilitate et mansuetudine cum patientia subportantes invicem in caritate"
+        },
+        {
+          "number": 3,
+          "text": "solliciti servare unitatem spiritus in vinculo pacis"
+        },
+        {
+          "number": 4,
+          "text": "unum corpus et unus spiritus sicut vocati estis in una spe vocationis vestrae"
+        },
+        {
+          "number": 5,
+          "text": "unus Dominus una fides unum baptisma"
+        },
+        {
+          "number": 6,
+          "text": "unus Deus et Pater omnium qui super omnes et per omnia et in omnibus nobis"
+        },
+        {
+          "number": 7,
+          "text": "unicuique autem nostrum data est gratia secundum mensuram donationis Christi"
+        },
+        {
+          "number": 8,
+          "text": "propter quod dicit ascendens in altum captivam duxit captivitatem dedit dona hominibus"
+        },
+        {
+          "number": 9,
+          "text": "quod autem ascendit quid est nisi quia et descendit primum in inferiores partes terrae"
+        },
+        {
+          "number": 10,
+          "text": "qui descendit ipse est et qui ascendit super omnes caelos ut impleret omnia"
+        },
+        {
+          "number": 11,
+          "text": "et ipse dedit quosdam quidem apostolos quosdam autem prophetas alios vero evangelistas alios autem pastores et doctores"
+        },
+        {
+          "number": 12,
+          "text": "ad consummationem sanctorum in opus ministerii in aedificationem corporis Christi"
+        },
+        {
+          "number": 13,
+          "text": "donec occurramus omnes in unitatem fidei et agnitionis Filii Dei in virum perfectum in mensuram aetatis plenitudinis Christi"
+        },
+        {
+          "number": 14,
+          "text": "ut iam non simus parvuli fluctuantes et circumferamur omni vento doctrinae in nequitia hominum in astutia ad circumventionem erroris"
+        },
+        {
+          "number": 15,
+          "text": "veritatem autem facientes in caritate crescamus in illo per omnia qui est caput Christus"
+        },
+        {
+          "number": 16,
+          "text": "ex quo totum corpus conpactum et conexum per omnem iuncturam subministrationis secundum operationem in mensuram uniuscuiusque membri augmentum corporis facit in aedificationem sui in caritate"
+        },
+        {
+          "number": 17,
+          "text": "hoc igitur dico et testificor in Domino ut iam non ambuletis sicut gentes ambulant in vanitate sensus sui"
+        },
+        {
+          "number": 18,
+          "text": "tenebris obscuratum habentes intellectum alienati a vita Dei per ignorantiam quae est in illis propter caecitatem cordis ipsorum"
+        },
+        {
+          "number": 19,
+          "text": "qui desperantes semet ipsos tradiderunt inpudicitiae in operationem inmunditiae omnis in avaritia"
+        },
+        {
+          "number": 20,
+          "text": "vos autem non ita didicistis Christum"
+        },
+        {
+          "number": 21,
+          "text": "si tamen illum audistis et in ipso edocti estis sicut est veritas in Iesu"
+        },
+        {
+          "number": 22,
+          "text": "deponere vos secundum pristinam conversationem veterem hominem qui corrumpitur secundum desideria erroris"
+        },
+        {
+          "number": 23,
+          "text": "renovamini autem spiritu mentis vestrae"
+        },
+        {
+          "number": 24,
+          "text": "et induite novum hominem qui secundum Deum creatus est in iustitia et sanctitate veritatis"
+        },
+        {
+          "number": 25,
+          "text": "propter quod deponentes mendacium loquimini veritatem unusquisque cum proximo suo quoniam sumus invicem membra"
+        },
+        {
+          "number": 26,
+          "text": "irascimini et nolite peccare sol non occidat super iracundiam vestram"
+        },
+        {
+          "number": 27,
+          "text": "nolite locum dare diabolo"
+        },
+        {
+          "number": 28,
+          "text": "qui furabatur iam non furetur magis autem laboret operando manibus quod bonum est ut habeat unde tribuat necessitatem patienti"
+        },
+        {
+          "number": 29,
+          "text": "omnis sermo malus ex ore vestro non procedat sed si quis bonus ad aedificationem oportunitatis ut det gratiam audientibus"
+        },
+        {
+          "number": 30,
+          "text": "et nolite contristare Spiritum Sanctum Dei in quo signati estis in die redemptionis"
+        },
+        {
+          "number": 31,
+          "text": "omnis amaritudo et ira et indignatio et clamor et blasphemia tollatur a vobis cum omni malitia"
+        },
+        {
+          "number": 32,
+          "text": "estote autem invicem benigni misericordes donantes invicem sicut et Deus in Christo donavit nobis"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "estote ergo imitatores Dei sicut filii carissimi"
+        },
+        {
+          "number": 2,
+          "text": "et ambulate in dilectione sicut et Christus dilexit nos et tradidit se ipsum pro nobis oblationem et hostiam Deo in odorem suavitatis"
+        },
+        {
+          "number": 3,
+          "text": "fornicatio autem et omnis inmunditia aut avaritia nec nominetur in vobis sicut decet sanctos"
+        },
+        {
+          "number": 4,
+          "text": "aut turpitudo aut stultiloquium aut scurrilitas quae ad rem non pertinent sed magis gratiarum actio"
+        },
+        {
+          "number": 5,
+          "text": "hoc enim scitote intellegentes quod omnis fornicator aut inmundus aut avarus quod est idolorum servitus non habet hereditatem in regno Christi et Dei"
+        },
+        {
+          "number": 6,
+          "text": "nemo vos seducat inanibus verbis propter haec enim venit ira Dei in filios diffidentiae"
+        },
+        {
+          "number": 7,
+          "text": "nolite ergo effici participes eorum"
+        },
+        {
+          "number": 8,
+          "text": "eratis enim aliquando tenebrae nunc autem lux in Domino ut filii lucis ambulate"
+        },
+        {
+          "number": 9,
+          "text": "fructus enim lucis est in omni bonitate et iustitia et veritate"
+        },
+        {
+          "number": 10,
+          "text": "probantes quid sit beneplacitum Deo"
+        },
+        {
+          "number": 11,
+          "text": "et nolite communicare operibus infructuosis tenebrarum magis autem et redarguite"
+        },
+        {
+          "number": 12,
+          "text": "quae enim in occulto fiunt ab ipsis turpe est et dicere"
+        },
+        {
+          "number": 13,
+          "text": "omnia autem quae arguuntur a lumine manifestantur omne enim quod manifestatur lumen est"
+        },
+        {
+          "number": 14,
+          "text": "propter quod dicit surge qui dormis et exsurge a mortuis et inluminabit tibi Christus"
+        },
+        {
+          "number": 15,
+          "text": "videte itaque fratres quomodo caute ambuletis non quasi insipientes sed ut sapientes"
+        },
+        {
+          "number": 16,
+          "text": "redimentes tempus quoniam dies mali sunt"
+        },
+        {
+          "number": 17,
+          "text": "propterea nolite fieri inprudentes sed intellegentes quae sit voluntas Domini"
+        },
+        {
+          "number": 18,
+          "text": "et nolite inebriari vino in quo est luxuria sed implemini Spiritu"
+        },
+        {
+          "number": 19,
+          "text": "loquentes vobismet ipsis in psalmis et hymnis et canticis spiritalibus cantantes et psallentes in cordibus vestris Domino"
+        },
+        {
+          "number": 20,
+          "text": "gratias agentes semper pro omnibus in nomine Domini nostri Iesu Christi Deo et Patri"
+        },
+        {
+          "number": 21,
+          "text": "subiecti invicem in timore Christi"
+        },
+        {
+          "number": 22,
+          "text": "mulieres viris suis subditae sint sicut Domino"
+        },
+        {
+          "number": 23,
+          "text": "quoniam vir caput est mulieris sicut Christus caput est ecclesiae ipse salvator corporis"
+        },
+        {
+          "number": 24,
+          "text": "sed ut ecclesia subiecta est Christo ita et mulieres viris suis in omnibus"
+        },
+        {
+          "number": 25,
+          "text": "viri diligite uxores sicut et Christus dilexit ecclesiam et se ipsum tradidit pro ea"
+        },
+        {
+          "number": 26,
+          "text": "ut illam sanctificaret mundans lavacro aquae in verbo"
+        },
+        {
+          "number": 27,
+          "text": "ut exhiberet ipse sibi gloriosam ecclesiam non habentem maculam aut rugam aut aliquid eiusmodi sed ut sit sancta et inmaculata"
+        },
+        {
+          "number": 28,
+          "text": "ita et viri debent diligere uxores suas ut corpora sua qui suam uxorem diligit se ipsum diligit"
+        },
+        {
+          "number": 29,
+          "text": "nemo enim umquam carnem suam odio habuit sed nutrit et fovet eam sicut et Christus ecclesiam"
+        },
+        {
+          "number": 30,
+          "text": "quia membra sumus corporis eius de carne eius et de ossibus eius"
+        },
+        {
+          "number": 31,
+          "text": "propter hoc relinquet homo patrem et matrem suam et adherebit uxori suae et erunt duo in carne una"
+        },
+        {
+          "number": 32,
+          "text": "sacramentum hoc magnum est ego autem dico in Christo et in ecclesia"
+        },
+        {
+          "number": 33,
+          "text": "verumtamen et vos singuli unusquisque suam uxorem sicut se ipsum diligat uxor autem ut timeat virum"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "filii oboedite parentibus vestris in Domino hoc enim est iustum"
+        },
+        {
+          "number": 2,
+          "text": "honora patrem tuum et matrem quod est mandatum primum in promissione"
+        },
+        {
+          "number": 3,
+          "text": "ut bene sit tibi et sis longevus super terram"
+        },
+        {
+          "number": 4,
+          "text": "et patres nolite ad iracundiam provocare filios vestros sed educate illos in disciplina et correptione Domini"
+        },
+        {
+          "number": 5,
+          "text": "servi oboedite dominis carnalibus cum timore et tremore in simplicitate cordis vestri sicut Christo"
+        },
+        {
+          "number": 6,
+          "text": "non ad oculum servientes quasi hominibus placentes sed ut servi Christi facientes voluntatem Dei ex animo"
+        },
+        {
+          "number": 7,
+          "text": "cum bona voluntate servientes sicut Domino et non hominibus"
+        },
+        {
+          "number": 8,
+          "text": "scientes quoniam unusquisque quodcumque fecerit bonum hoc percipiet a Domino sive servus sive liber"
+        },
+        {
+          "number": 9,
+          "text": "et domini eadem facite illis remittentes minas scientes quia et illorum et vester Dominus est in caelis et personarum acceptio non est apud eum"
+        },
+        {
+          "number": 10,
+          "text": "de cetero fratres confortamini in Domino et in potentia virtutis eius"
+        },
+        {
+          "number": 11,
+          "text": "induite vos arma Dei ut possitis stare adversus insidias diaboli"
+        },
+        {
+          "number": 12,
+          "text": "quia non est nobis conluctatio adversus carnem et sanguinem sed adversus principes et potestates adversus mundi rectores tenebrarum harum contra spiritalia nequitiae in caelestibus"
+        },
+        {
+          "number": 13,
+          "text": "propterea accipite armaturam Dei ut possitis resistere in die malo et omnibus perfectis stare"
+        },
+        {
+          "number": 14,
+          "text": "state ergo succincti lumbos vestros in veritate et induti loricam iustitiae"
+        },
+        {
+          "number": 15,
+          "text": "et calciati pedes in praeparatione evangelii pacis"
+        },
+        {
+          "number": 16,
+          "text": "in omnibus sumentes scutum fidei in quo possitis omnia tela nequissimi ignea extinguere"
+        },
+        {
+          "number": 17,
+          "text": "et galeam salutis adsumite et gladium Spiritus quod est verbum Dei"
+        },
+        {
+          "number": 18,
+          "text": "per omnem orationem et obsecrationem orantes omni tempore in Spiritu et in ipso vigilantes in omni instantia et obsecratione pro omnibus sanctis"
+        },
+        {
+          "number": 19,
+          "text": "et pro me ut detur mihi sermo in apertione oris mei cum fiducia notum facere mysterium evangelii"
+        },
+        {
+          "number": 20,
+          "text": "pro quo legatione fungor in catena ita ut in ipso audeam prout oportet me loqui"
+        },
+        {
+          "number": 21,
+          "text": "ut autem et vos sciatis quae circa me sunt quid agam omnia nota vobis faciet Tychicus carissimus frater et fidelis minister in Domino"
+        },
+        {
+          "number": 22,
+          "text": "quem misi ad vos in hoc ipsum ut cognoscatis quae circa nos sunt et consoletur corda vestra"
+        },
+        {
+          "number": 23,
+          "text": "pax fratribus et caritas cum fide a Deo Patre et Domino Iesu Christo"
+        },
+        {
+          "number": 24,
+          "text": "gratia cum omnibus qui diligunt Dominum nostrum Iesum Christum in incorruptione"
+        }
+      ]
+    }
+  ]
+}

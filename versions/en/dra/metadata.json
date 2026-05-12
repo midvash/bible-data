@@ -1,0 +1,18 @@
+{
+  "slug": "dra",
+  "shortName": "DRA",
+  "name": "Douay-Rheims American Edition",
+  "language": "en",
+  "year": 1899,
+  "license": "public-domain",
+  "licenseNote": "Public domain (1899 American edition of the Challoner revision).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1197,
+    "verses": 31438
+  },
+  "readerUrl": "https://midvash.com/dra",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

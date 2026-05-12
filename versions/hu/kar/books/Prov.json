@@ -1,0 +1,3820 @@
+{
+  "version": "kar",
+  "book": "Prov",
+  "bookId": 20,
+  "englishName": "Proverbs",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Salamonnak, Dávid fiának, Izráel királyának példabeszédei,"
+        },
+        {
+          "number": 2,
+          "text": "Bölcseség és erkölcsnek tanulására, értelmes beszédek megértésére;"
+        },
+        {
+          "number": 3,
+          "text": "Okos fenyítéknek, igazságnak és ítéletnek és becsületességnek megnyerésére;"
+        },
+        {
+          "number": 4,
+          "text": "Együgyűeknek eszesség, gyermeknek tudomány és meggondolás adására."
+        },
+        {
+          "number": 5,
+          "text": "Hallja a bölcs és öregbítse az ő tanulságát, és az értelmes szerezzen érett tanácsokat."
+        },
+        {
+          "number": 6,
+          "text": "Példabeszédnek és példázatnak, bölcsek beszédeinek és találós meséinek megértésére."
+        },
+        {
+          "number": 7,
+          "text": "Az Úrnak félelme feje a bölcseségnek; a bölcseséget és erkölcsi tanítást a bolondok megútálják."
+        },
+        {
+          "number": 8,
+          "text": "Hallgasd, fiam, a te atyádnak erkölcsi tanítását, és a te anyádnak oktatását el ne hagyd."
+        },
+        {
+          "number": 9,
+          "text": "Mert kedves ékesség lesz a te fejednek, és aranyláncz a te nyakadra."
+        },
+        {
+          "number": 10,
+          "text": "Fiam, ha a bűnösök el akarnak csábítani téged: ne fogadd beszédöket."
+        },
+        {
+          "number": 11,
+          "text": "Ha azt mondják: jere mi velünk, leselkedjünk vér után, rejtezzünk el az ártatlan ellen ok nélkül;"
+        },
+        {
+          "number": 12,
+          "text": "Nyeljük el azokat, mint a sír elevenen, és egészen, mint a kik mélységbe szállottak;"
+        },
+        {
+          "number": 13,
+          "text": "Minden drága marhát nyerünk, megtöltjük a mi házainkat zsákmánnyal;"
+        },
+        {
+          "number": 14,
+          "text": "Sorsodat vesd közénk; egy erszényünk legyen mindnyájunknak:"
+        },
+        {
+          "number": 15,
+          "text": "Fiam, ne járj egy úton ezekkel, tartóztasd meg lábaidat ösvényüktől;"
+        },
+        {
+          "number": 16,
+          "text": "Mert lábaik a gonoszra futnak, és sietnek a vérnek ontására."
+        },
+        {
+          "number": 17,
+          "text": "Mert hiába vetik ki a hálót minden szárnyas állat szemei előtt:"
+        },
+        {
+          "number": 18,
+          "text": "Ezek mégis vérök árán is ólálkodnak, lelkök árán is leselkednek;"
+        },
+        {
+          "number": 19,
+          "text": "Ilyen az útja minden kapzsi embernek: gazdájának életét veszi el."
+        },
+        {
+          "number": 20,
+          "text": "A bölcseség künn szerül-szerte kiált; az utczákon zengedezteti az ő szavát."
+        },
+        {
+          "number": 21,
+          "text": "Lármás utczafőkön kiált a kapuk bemenetelin, a városban szólja az ő beszédit."
+        },
+        {
+          "number": 22,
+          "text": "Míglen szeretitek, oh ti együgyűek az együgyűséget, és gyönyörködnek a csúfolók csúfolásban, és gyűlölik a balgatagok a tudományt?!"
+        },
+        {
+          "number": 23,
+          "text": "Térjetek az én dorgálásomhoz; ímé közlöm veletek az én lelkemet, tudtotokra adom az én beszédimet néktek."
+        },
+        {
+          "number": 24,
+          "text": "Mivelhogy hívtalak titeket, és vonakodtatok, kiterjesztém az én kezemet, és senki eszébe nem vette;"
+        },
+        {
+          "number": 25,
+          "text": "És elhagytátok minden én tanácsomat, és az én feddésemmel nem gondoltatok:"
+        },
+        {
+          "number": 26,
+          "text": "Én is a ti nyomorúságtokon nevetek, megcsúfollak, mikor eljő az, a mitől féltek."
+        },
+        {
+          "number": 27,
+          "text": "Mikor eljő, mint a vihar, az, a mitől féltek, és a ti nyomorúságtok, mint a forgószél elközelget: mikor eljő ti reátok a nyomorgatás és a szorongatás."
+        },
+        {
+          "number": 28,
+          "text": "Akkor segítségül hívnak engem, de nem hallgatom meg: keresnek engem, de meg nem találnak."
+        },
+        {
+          "number": 29,
+          "text": "Azért hogy gyűlölték a bölcseséget, és az Úrnak félelmét nem választották."
+        },
+        {
+          "number": 30,
+          "text": "Nem engedtek az én tanácsomnak; megvetették minden én feddésemet."
+        },
+        {
+          "number": 31,
+          "text": "Esznek azért az ő útjoknak gyümölcséből, és az ő tanácsokból megelégednek."
+        },
+        {
+          "number": 32,
+          "text": "Mert az együgyűeknek pártossága megöli őket, és a balgatagoknak szerencséje elveszti őket."
+        },
+        {
+          "number": 33,
+          "text": "A ki pedig hallgat engem, lakozik bátorságosan, és csendes lesz a gonosznak félelmétől."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiam! ha beveszed az én beszédimet, és az én parancsolatimat elrejted magadnál,"
+        },
+        {
+          "number": 2,
+          "text": "Ha figyelmeztetvén a bölcsességre a te füleidet, hajtod a te elmédet az értelemre,"
+        },
+        {
+          "number": 3,
+          "text": "Igen, ha a bölcseségért kiáltasz, és az értelemért a te szódat felemeled,"
+        },
+        {
+          "number": 4,
+          "text": "Ha keresed azt, mint az ezüstöt, és mint a kincseket kutatod azt:"
+        },
+        {
+          "number": 5,
+          "text": "Akkor megérted az Úrnak félelmét, és az Istennek ismeretére jutsz."
+        },
+        {
+          "number": 6,
+          "text": "Mert az Úr ád bölcseséget, az ő szájából tudomány és értelem származik."
+        },
+        {
+          "number": 7,
+          "text": "Az igazaknak valóságos jót rejteget, paizst a tökéletesen járóknak,"
+        },
+        {
+          "number": 8,
+          "text": "Hogy megőrizze az igazságnak útait, és kegyeseinek útját megtartja."
+        },
+        {
+          "number": 9,
+          "text": "Akkor megérted az igazságot, és törvényt és becsületességet, és minden jó útat."
+        },
+        {
+          "number": 10,
+          "text": "Mert bölcseség megy a te elmédbe, és a tudomány a te lelkedben gyönyörűséges lesz."
+        },
+        {
+          "number": 11,
+          "text": "Meggondolás őrködik feletted, értelem őriz téged,"
+        },
+        {
+          "number": 12,
+          "text": "Hogy megszabadítson téged a gonosznak útától, és a gonoszságszóló férfiútól;"
+        },
+        {
+          "number": 13,
+          "text": "A kik elhagyják az igazságnak útát, hogy járjanak a setétségnek útain."
+        },
+        {
+          "number": 14,
+          "text": "A kik örülnek gonoszt cselekedvén, vígadnak a gonosz álnokságokon."
+        },
+        {
+          "number": 15,
+          "text": "A kiknek ösvényeik görbék, és a kik az ő útaikban gonoszok."
+        },
+        {
+          "number": 16,
+          "text": "Hogy megszabadítson téged a nem hozzád tartozó asszonytól, az idegentől, a ki az ő beszédével hizelkedik,"
+        },
+        {
+          "number": 17,
+          "text": "A ki elhagyja az ő ifjúságának férjét, és az ő Istenének szövetségéről elfelejtkezik;"
+        },
+        {
+          "number": 18,
+          "text": "Mert a halálra hanyatlik az ő háza, és az ő ösvényei az élet nélkül valókhoz."
+        },
+        {
+          "number": 19,
+          "text": "Valakik mennek ahhoz, nem térnek meg, sem meg nem nyerhetik az életnek útait."
+        },
+        {
+          "number": 20,
+          "text": "Hogy járj a jóknak útjokon, és az igazaknak ösvényeit kövessed."
+        },
+        {
+          "number": 21,
+          "text": "Mert az igazak lakják a földet, és a tökéletesek maradnak meg rajta."
+        },
+        {
+          "number": 22,
+          "text": "A gonoszok pedig a földről kivágattatnak, és a hitetlenül cselekedők kiszaggattatnak abból."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiam! az én tanításomról el ne felejtkezzél, és az én parancsolatimat megőrizze a te elméd;"
+        },
+        {
+          "number": 2,
+          "text": "Mert napoknak hosszú voltát, és sok esztendős életet, és békességet hoznak néked bőven."
+        },
+        {
+          "number": 3,
+          "text": "Az irgalmasság és igazság ne hagyjanak el téged: kösd azokat a te nyakadra, írd be azokat a te szívednek táblájára;"
+        },
+        {
+          "number": 4,
+          "text": "Így nyersz kedvességet és jó értelmet Istennek és embernek szemei előtt."
+        },
+        {
+          "number": 5,
+          "text": "Bizodalmad legyen az Úrban teljes elmédből; a magad értelmére pedig ne támaszkodjál."
+        },
+        {
+          "number": 6,
+          "text": "Minden te útaidban megismered őt; akkor ő igazgatja a te útaidat."
+        },
+        {
+          "number": 7,
+          "text": "Ne légy bölcs a te magad ítélete szerint; féld az Urat, és távozzál el a gonosztól."
+        },
+        {
+          "number": 8,
+          "text": "Egészség lesz ez a te testednek, és megújulás a te csontaidnak."
+        },
+        {
+          "number": 9,
+          "text": "Tiszteld az Urat a te marhádból, a te egész jövedelmed zsengéjéből."
+        },
+        {
+          "number": 10,
+          "text": "Eképen megtelnek a te csűreid elégséggel, és musttal áradnak el sajtód válúi."
+        },
+        {
+          "number": 11,
+          "text": "Az Úrnak fenyítését fiam, ne útáld meg, se meg ne únd az ő dorgálását."
+        },
+        {
+          "number": 12,
+          "text": "Mert a kit szeret az Úr, megdorgálja, és pedig mint az atya az ő fiát, a kit kedvel."
+        },
+        {
+          "number": 13,
+          "text": "Boldog ember, a ki megnyerte a bölcseséget, és az ember, a ki értelmet szerez."
+        },
+        {
+          "number": 14,
+          "text": "Mert jobb ennek megszerzése az ezüstnek megszerzésénél, és a kiásott aranynál ennek jövedelme."
+        },
+        {
+          "number": 15,
+          "text": "Drágább a fényes kárbunkulusoknál, és minden te gyönyörűségeid nem hasonlíthatók hozzá."
+        },
+        {
+          "number": 16,
+          "text": "Napoknak hosszúsága van jobbjában, baljában gazdagság és tisztesség."
+        },
+        {
+          "number": 17,
+          "text": "Az ő útai gyönyörűséges útak, és minden ösvényei: békesség."
+        },
+        {
+          "number": 18,
+          "text": "Életnek fája ez azoknak, a kik megragadják, és a kik megtartják boldogok!"
+        },
+        {
+          "number": 19,
+          "text": "Az Úr bölcseséggel fundálta a földet, erősítette az eget értelemmel."
+        },
+        {
+          "number": 20,
+          "text": "Az ő tudománya által fakadtak ki a mélységből a vizek, és a felhők csepegnek harmatot,"
+        },
+        {
+          "number": 21,
+          "text": "Fiam, ne távozzanak el a te szemeidtől, őrizd meg az igaz bölcseséget, és a meggondolást!"
+        },
+        {
+          "number": 22,
+          "text": "És lesznek ezek élet a te lelkednek, és kedvesség a te nyakadnak."
+        },
+        {
+          "number": 23,
+          "text": "Akkor bátorsággal járod a te útadat, és a te lábadat meg nem ütöd."
+        },
+        {
+          "number": 24,
+          "text": "Mikor lefekszel, nem rettegsz; hanem lefekszel és gyönyörűséges lesz a te álmod."
+        },
+        {
+          "number": 25,
+          "text": "Ne félj a hirtelen való félelemtől, és a gonoszok pusztításától, ha eljő;"
+        },
+        {
+          "number": 26,
+          "text": "Mert az Úr lesz a te bizodalmad és megőrzi a te lábadat a fogságtól."
+        },
+        {
+          "number": 27,
+          "text": "Ne fogd meg a jótéteményt azoktól, a kiket illet, ha hatalmadban van annak megcselekedése."
+        },
+        {
+          "number": 28,
+          "text": "Ne mondd a te felebarátodnak: menj el, azután térj meg, és holnap adok; holott nálad van, a mit kér."
+        },
+        {
+          "number": 29,
+          "text": "Ne forralj a te felebarátod ellen gonoszt, holott ő együtt ül bátorságosan te veled."
+        },
+        {
+          "number": 30,
+          "text": "Ne háborogj egy emberrel is ok nélkül, ha nem illetett gonoszszal téged."
+        },
+        {
+          "number": 31,
+          "text": "Ne irígykedjél az erőszakos emberre, és néki semmi útát ne válaszd."
+        },
+        {
+          "number": 32,
+          "text": "Mert útálja az Úr az engedetlent; és az igazakkal van az ő titka."
+        },
+        {
+          "number": 33,
+          "text": "Az Úrnak átka van a gonosznak házán; de az igazaknak lakhelyét megáldja."
+        },
+        {
+          "number": 34,
+          "text": "Ha kik csúfolók, ő megcsúfolja azokat; a szelídeknek pedig ád kedvességet."
+        },
+        {
+          "number": 35,
+          "text": "A bölcsek tisztességet örökölnek; a bolondok pedig gyalázatot aratnak."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Halljátok meg, fiaim, atyátok erkölcsi tanítását, és figyelmezzetek az értelemnek megtudására."
+        },
+        {
+          "number": 2,
+          "text": "Mert jó tanulságot adok néktek; az én tudományomat el ne hagyjátok."
+        },
+        {
+          "number": 3,
+          "text": "Mert én atyámnak fia voltam, gyenge és egyetlenegy az én anyám előtt."
+        },
+        {
+          "number": 4,
+          "text": "Tehát tanított engem, és mondá nékem: tartsa meg az én beszédemet a te elméd, hogy megtartván az én parancsolatimat, élj;"
+        },
+        {
+          "number": 5,
+          "text": "Szerezz bölcseséget, szerezz eszességet; ne felejtkezzél el, se el ne hajolj az én számnak beszéditől."
+        },
+        {
+          "number": 6,
+          "text": "Ne hagyd el azt, és megtart téged; szeresd azt, és megőriz téged."
+        },
+        {
+          "number": 7,
+          "text": "A bölcseség kezdete ez: szerezz bölcseséget, és minden keresményedből szerezz értelmet."
+        },
+        {
+          "number": 8,
+          "text": "Magasztald fel azt, és felmagasztal téged; tiszteltté tesz téged, ha hozzád öleled azt."
+        },
+        {
+          "number": 9,
+          "text": "Ád a te fejednek kedvességnek koszorúját; igen szép ékes koronát ád néked."
+        },
+        {
+          "number": 10,
+          "text": "Hallgasd, fiam, és vedd be az én beszédimet; így sokasulnak meg néked a te életednek esztendei."
+        },
+        {
+          "number": 11,
+          "text": "Bölcseségnek útára tanítottalak téged, vezettelek téged az igazságnak ösvényin."
+        },
+        {
+          "number": 12,
+          "text": "Mikor jársz, semmi nem szorítja meg a te járásodat; és ha futsz, nem ütközöl meg."
+        },
+        {
+          "number": 13,
+          "text": "Ragaszkodjál az erkölcsi tanításhoz, ne hagyd el; őrizd meg azt, mert az a te életed."
+        },
+        {
+          "number": 14,
+          "text": "A hitetleneknek útjára ne menj, se ne járj a gonoszok ösvényén."
+        },
+        {
+          "number": 15,
+          "text": "Hagyd el, át ne menj rajta; térj el tőle, és menj tovább."
+        },
+        {
+          "number": 16,
+          "text": "Mert nem alhatnak azok, ha gonoszt nem cselekesznek: és kimegy szemükből az álom, ha mást romlásra nem juttatnak."
+        },
+        {
+          "number": 17,
+          "text": "Mert az istentelenségnek étkét eszik, és az erőszaktételnek borát iszszák."
+        },
+        {
+          "number": 18,
+          "text": "Az igazak ösvénye pedig olyan, mint a hajnal világossága, mely minél tovább halad, annál világosabb lesz, a teljes délig."
+        },
+        {
+          "number": 19,
+          "text": "Az istentelenek útja pedig olyan, mint a homály, nem tudják miben ütköznek meg."
+        },
+        {
+          "number": 20,
+          "text": "Fiam, az én szavaimra figyelmezz, az én beszédimre hajtsad füledet."
+        },
+        {
+          "number": 21,
+          "text": "Ne távozzanak el a te szemeidtől, tartsd meg ezeket a te elmédben."
+        },
+        {
+          "number": 22,
+          "text": "Mert életök ezek azoknak, a kik megnyerik, és egész testöknek egészség."
+        },
+        {
+          "number": 23,
+          "text": "Minden féltett dolognál jobban őrizd meg szívedet, mert abból indul ki minden élet."
+        },
+        {
+          "number": 24,
+          "text": "Vesd el tőled a száj hamisságát, és az ajkak álnokságát távoztasd el magadtól."
+        },
+        {
+          "number": 25,
+          "text": "A te szemeid előre nézzenek, és szemöldökid egyenest magad elé irányuljanak."
+        },
+        {
+          "number": 26,
+          "text": "Egyengesd el lábaid ösvényit, s minden te útaid állhatatosak legyenek."
+        },
+        {
+          "number": 27,
+          "text": "Ne térj jobbra, se balra, fordítsd el a te lábadat a gonosztól."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiam! az én bölcseségemre figyelmezz, az én értelmemre hajtsd a te füledet,"
+        },
+        {
+          "number": 2,
+          "text": "Hogy megtartsd a meggondolást, és a tudományt a te ajakid megőrizzék."
+        },
+        {
+          "number": 3,
+          "text": "Mert színmézet csepeg az idegen asszony ajka, és símább az olajnál az ő ínye."
+        },
+        {
+          "number": 4,
+          "text": "De annak vége keserű, mint az üröm, éles, mint a kétélű tőr."
+        },
+        {
+          "number": 5,
+          "text": "Az ő lábai a halálra mennek, az ő léptei a sírba törekszenek."
+        },
+        {
+          "number": 6,
+          "text": "Az életnek útát hogy ne követhesse, ösvényei változókká lettek, a nélkül, hogy ő eszébe venné."
+        },
+        {
+          "number": 7,
+          "text": "Most azért, fiaim, hallgassatok engem, és ne távozzatok el számnak beszéditől!"
+        },
+        {
+          "number": 8,
+          "text": "Távoztasd el attól útadat, és ne közelgess házának ajtajához,"
+        },
+        {
+          "number": 9,
+          "text": "Hogy másoknak ne add a te ékességedet, és esztendeidet a kegyetlennek;"
+        },
+        {
+          "number": 10,
+          "text": "Hogy ne az idegenek teljenek be a te marháiddal, és a te keresményed más házába ne jusson."
+        },
+        {
+          "number": 11,
+          "text": "Hogy nyögnöd kelljen életed végén, a mikor megemésztetik a te húsod és a te tested,"
+        },
+        {
+          "number": 12,
+          "text": "És azt kelljen mondanod: miképen gyűlöltem az erkölcsi tanítást, és a fenyítéket útálta az én elmém,"
+        },
+        {
+          "number": 13,
+          "text": "És nem hallgattam az én vezetőim szavát, és az én tanítóimhoz nem hajtottam fülemet!"
+        },
+        {
+          "number": 14,
+          "text": "Kevés híja volt, hogy minden gonoszságba nem merültem a gyülekezetnek és községnek közepette!"
+        },
+        {
+          "number": 15,
+          "text": "Igyál vizet a te kútadból, és a te forrásod közepiből folyóvizet."
+        },
+        {
+          "number": 16,
+          "text": "Kifolyjanak-é a te forrásid, az utczákra a te vized folyásai?"
+        },
+        {
+          "number": 17,
+          "text": "Egyedül tied legyenek, és nem az idegenekéi veled."
+        },
+        {
+          "number": 18,
+          "text": "Legyen a te forrásod áldott, és örvendezz a te ifjúságod feleségének."
+        },
+        {
+          "number": 19,
+          "text": "A szerelmes szarvas, és kedves zerge; az ő emlői elégítsenek meg téged minden időben, az ő szerelmében gyönyörködjél szüntelen."
+        },
+        {
+          "number": 20,
+          "text": "És miért bujdosnál, fiam, az idegen után, és ölelnéd keblét az idegennek?"
+        },
+        {
+          "number": 21,
+          "text": "Mert az Úrnak szemei előtt vannak mindenkinek útai, és minden ösvényeit ő rendeli."
+        },
+        {
+          "number": 22,
+          "text": "A maga álnokságai fogják meg az istentelent, és a saját bűnének köteleivel kötöztetik meg."
+        },
+        {
+          "number": 23,
+          "text": "Ő meghal fenyíték híján, és bolondságának sokasága miatt támolyog."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiam! ha kezes lettél a te barátodért, és kezedet adván, kötelezted magadat másért:"
+        },
+        {
+          "number": 2,
+          "text": "Szádnak beszédei által estél tőrbe, megfogattattál a te szádnak beszédivel."
+        },
+        {
+          "number": 3,
+          "text": "Ezt míveld azért fiam, és mentsd ki magadat, mert a te felebarátodnak kezébe jutottál; eredj, alázd meg magadat, és kényszerítsd felebarátodat."
+        },
+        {
+          "number": 4,
+          "text": "Még álmot se engedj szemeidnek, se szunnyadást szemöldökidnek,"
+        },
+        {
+          "number": 5,
+          "text": "Szabadítsd ki magadat, mint a zerge a vadász kezéből, és mint a madár a madarásznak kezéből."
+        },
+        {
+          "number": 6,
+          "text": "Eredj a hangyához, te rest, nézd meg az ő útait, és légy bölcs!"
+        },
+        {
+          "number": 7,
+          "text": "A kinek nincs vezére, igazgatója, vagy ura,"
+        },
+        {
+          "number": 8,
+          "text": "Nyárban szerzi meg az ő kenyerét, aratáskor gyűjti eledelét."
+        },
+        {
+          "number": 9,
+          "text": "Oh te rest, meddig fekszel? mikor kelsz fel a te álmodból?"
+        },
+        {
+          "number": 10,
+          "text": "Még egy kis álom, még egy kis szunnyadás, még egy kis kéz-összefonás, hogy pihenjek;"
+        },
+        {
+          "number": 11,
+          "text": "Így jő el, mint az útonjáró, a te szegénységed, és a te szűkölködésed, mint a paizsos férfiú!"
+        },
+        {
+          "number": 12,
+          "text": "Haszontalan ember, hamis férfiú, a ki álnok szájjal jár,"
+        },
+        {
+          "number": 13,
+          "text": "A ki hunyorgat szemeivel; lábaival is szól, és ujjaival jelt ád."
+        },
+        {
+          "number": 14,
+          "text": "Álnokság van az ő szívében, gonoszt forral minden időben, háborúságot indít."
+        },
+        {
+          "number": 15,
+          "text": "Annakokáért hirtelen eljő az ő nyomorúsága, gyorsan megrontatik, s nem lesz gyógyulása."
+        },
+        {
+          "number": 16,
+          "text": "E hat dolgot gyűlöli az Úr, és hét dolog útálat az ő lelkének:"
+        },
+        {
+          "number": 17,
+          "text": "A kevély szemek, a hazug nyelv, és az ártatlan vért ontó kezek,"
+        },
+        {
+          "number": 18,
+          "text": "Az álnok gondolatokat forraló elme, a gonoszra sietséggel futó lábak,"
+        },
+        {
+          "number": 19,
+          "text": "A hazugságlehelő hamis tanú, és a ki szerez háborúságokat az atyafiak között!"
+        },
+        {
+          "number": 20,
+          "text": "Őrizd meg, fiam, atyád parancsolatját, és anyád tanítását el ne hagyd."
+        },
+        {
+          "number": 21,
+          "text": "Kösd azokat szívedre mindenkor, fűzd a nyakadba."
+        },
+        {
+          "number": 22,
+          "text": "Valahová mégysz, vezérel téged, mikor aluszol, őriz téged, mikor felserkensz, beszélget te veled."
+        },
+        {
+          "number": 23,
+          "text": "Mert szövétnek a parancsolat, és a tudomány világosság, és életnek úta a tanító-feddések."
+        },
+        {
+          "number": 24,
+          "text": "Hogy a gonosz asszonytól téged megőrizzenek, az idegen asszony nyelvének hizelkedésétől."
+        },
+        {
+          "number": 25,
+          "text": "Ne kivánd az ő szépségét szivedben, és meg ne fogjon téged szemöldökeivel;"
+        },
+        {
+          "number": 26,
+          "text": "Mert a parázna asszony miatt jut az ember egy darab kenyérre, és más férfi felesége drága életet vadász!"
+        },
+        {
+          "number": 27,
+          "text": "Vehet-é valaki tüzet az ő kebelébe, hogy ruhái meg ne égnének?"
+        },
+        {
+          "number": 28,
+          "text": "Vagy járhat-é valaki elevenszénen, hogy lábai meg ne égnének?"
+        },
+        {
+          "number": 29,
+          "text": "Így van, valaki bemegy felebarátjának feleségéhez, nem marad büntetlen, valaki illeti azt!"
+        },
+        {
+          "number": 30,
+          "text": "Nem útálják meg a lopót, ha lop az ő kivánságának betöltésére, mikor éhezik;"
+        },
+        {
+          "number": 31,
+          "text": "És ha rajta kapatik, hétannyit kell adnia, az ő házának minden marháját érette adhatja;"
+        },
+        {
+          "number": 32,
+          "text": "A ki pedig asszonynyal paráználkodik, bolond; a ki magát el akarja veszteni, az cselekszi ezt!"
+        },
+        {
+          "number": 33,
+          "text": "Vereséget és gyalázatot nyer, és az ő gyalázatja el nem töröltetik."
+        },
+        {
+          "number": 34,
+          "text": "Mert a féltékenység a férfiú haragja, és nem cselekszik kegyelmességgel a bosszúállásnak napján."
+        },
+        {
+          "number": 35,
+          "text": "Nem gondol semmi váltsággal, nem nyugszik meg rajta, még ha nagy sok ajándékot adsz is néki."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fiam, tartsd meg az én beszédeimet, és az én parancsolataimat rejtsd el magadnál."
+        },
+        {
+          "number": 2,
+          "text": "Az én parancsolatimat tartsd meg, és élsz; és az én tanításomat mint a szemed fényét."
+        },
+        {
+          "number": 3,
+          "text": "Kösd azokat ujjaidra, írd fel azokat szíved táblájára."
+        },
+        {
+          "number": 4,
+          "text": "Mondd ezt a bölcseségnek: Én néném vagy te; és az eszességet ismerősödnek nevezd,"
+        },
+        {
+          "number": 5,
+          "text": "Hogy megőrizzen téged a nem hozzád tartozó asszonytól, és az ő beszédivel hizelkedő idegentől."
+        },
+        {
+          "number": 6,
+          "text": "Mert házam ablakán, a rács mögül néztem,"
+        },
+        {
+          "number": 7,
+          "text": "És láték a bolondok között, eszembe vevék a fiak között egy bolond ifjat,"
+        },
+        {
+          "number": 8,
+          "text": "A ki az utczán jár, annak szeglete mellett, a házához menő úton lépeget,"
+        },
+        {
+          "number": 9,
+          "text": "Alkonyatkor, nap estjén, és setét éjfélben."
+        },
+        {
+          "number": 10,
+          "text": "És ímé, egy asszony eleibe jő, paráznának öltözetében, álnok az ő elméjében."
+        },
+        {
+          "number": 11,
+          "text": "Mely csélcsap és vakmerő, a kinek házában nem maradhatnak meg az ő lábai."
+        },
+        {
+          "number": 12,
+          "text": "Néha az utczán, néha a tereken van, és minden szegletnél leselkedik."
+        },
+        {
+          "number": 13,
+          "text": "És megragadá őt és megcsókolá őt, és szemtelenségre vetemedvén, monda néki:"
+        },
+        {
+          "number": 14,
+          "text": "Hálaáldozattal tartoztam, ma adtam meg fogadásimat."
+        },
+        {
+          "number": 15,
+          "text": "Azért jövék ki elődbe, szorgalmatosan keresni a te orczádat, és reád találtam!"
+        },
+        {
+          "number": 16,
+          "text": "Paplanokkal megvetettem nyoszolyámat, égyiptomi szövésű szőnyegekkel."
+        },
+        {
+          "number": 17,
+          "text": "Beillatoztam ágyamat mirhával, áloessel és fahéjjal."
+        },
+        {
+          "number": 18,
+          "text": "No foglaljuk magunkat bőségesen mind virradtig a szeretetben; vígadjunk szerelmeskedésekkel."
+        },
+        {
+          "number": 19,
+          "text": "Mert nincs otthon a férjem, elment messze útra."
+        },
+        {
+          "number": 20,
+          "text": "Egy erszény pénzt vőn kezéhez; holdtöltére jő haza."
+        },
+        {
+          "number": 21,
+          "text": "És elhiteté őt az ő mesterkedéseinek sokaságával, ajkainak hizelkedésével elragadá őt."
+        },
+        {
+          "number": 22,
+          "text": "Utána megy; mint az ökör a vágóhídra, és mint a bolond, egyszer csak fenyítő békóba;"
+        },
+        {
+          "number": 23,
+          "text": "Mígnem átjárja a nyíl az ő máját. Miképen siet a madár a tőrre, és nem tudja, hogy az az ő élete ellen van."
+        },
+        {
+          "number": 24,
+          "text": "Annakokáért most, fiaim, hallgassatok engem, és figyelmezzetek az én számnak beszédeire."
+        },
+        {
+          "number": 25,
+          "text": "Ne hajoljon annak útaira a te elméd, és ne tévelyegj annak ösvényin."
+        },
+        {
+          "number": 26,
+          "text": "Mert sok sebesültet elejtett, és sokan vannak, a kik attól megölettek."
+        },
+        {
+          "number": 27,
+          "text": "Sírba vívő út az ő háza, a mely levisz a halálnak hajlékába."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Avagy a bölcsesség nem kiált-é, és az értelem nem bocsátja-é ki az ő szavát?"
+        },
+        {
+          "number": 2,
+          "text": "A magas helyeknek tetein az úton, sok ösvény összetalálkozásánál áll meg."
+        },
+        {
+          "number": 3,
+          "text": "A kapuk mellett a városnak bemenetelin, az ajtók bemenetelinél zeng."
+        },
+        {
+          "number": 4,
+          "text": "Tinéktek kiáltok, férfiak; és az én szóm az emberek fiaihoz van!"
+        },
+        {
+          "number": 5,
+          "text": "Értsétek meg ti együgyűek az eszességet, és ti balgatagok vegyétek eszetekbe az értelmet."
+        },
+        {
+          "number": 6,
+          "text": "Halljátok meg; mert jeles dolgokat szólok és az én számnak felnyitása igazság."
+        },
+        {
+          "number": 7,
+          "text": "Mert igazságot mond ki az én ínyem, és útálat az én ajkaimnak a gonoszság."
+        },
+        {
+          "number": 8,
+          "text": "Igaz én számnak minden beszéde, semmi sincs ezekben hamis, vagy elfordult dolog."
+        },
+        {
+          "number": 9,
+          "text": "Mind egyenesek az értelmesnek, és igazak azoknak, kik megnyerték a tudományt."
+        },
+        {
+          "number": 10,
+          "text": "Vegyétek az én tanításomat, és nem a pénzt; és a tudományt inkább, mint a választott aranyat."
+        },
+        {
+          "number": 11,
+          "text": "Mert jobb a bölcseség a drágagyöngyöknél; és semmi gyönyörűségek ehhez egyenlők nem lehetnek."
+        },
+        {
+          "number": 12,
+          "text": "Én bölcsesség lakozom az eszességben, és a megfontolás tudományát megnyerem."
+        },
+        {
+          "number": 13,
+          "text": "Az Úrnak félelme a gonosznak gyűlölése; a kevélységet és felfuvalkodást és a gonosz útat, és az álnok szájat gyűlölöm."
+        },
+        {
+          "number": 14,
+          "text": "Enyém a tanács és a valóság, én vagyok az eszesség, enyém az erő."
+        },
+        {
+          "number": 15,
+          "text": "Én általam uralkodnak a királyok, és az uralkodók végeznek igazságot."
+        },
+        {
+          "number": 16,
+          "text": "Én általam viselnek a fejedelmek fejedelemséget, és a nemesek, a földnek minden birái."
+        },
+        {
+          "number": 17,
+          "text": "Én az engem szeretőket szeretem, és a kik engem szorgalmasan keresnek, megtalálnak."
+        },
+        {
+          "number": 18,
+          "text": "Gazdagság és tisztesség van nálam, megmaradandó jó és igazság."
+        },
+        {
+          "number": 19,
+          "text": "Jobb az én gyümölcsöm a tiszta aranynál és színaranynál, és az én hasznom a válogatott ezüstnél."
+        },
+        {
+          "number": 20,
+          "text": "Az igazságnak útán járok, és az igazság ösvényének közepén."
+        },
+        {
+          "number": 21,
+          "text": "Hogy az engem szeretőknek valami valóságost adjak örökségül, és erszényeiket megtöltsem."
+        },
+        {
+          "number": 22,
+          "text": "Az Úr az ő útának kezdetéül szerzett engem; az ő munkái előtt régen."
+        },
+        {
+          "number": 23,
+          "text": "Örök időktől fogva felkenettem, kezdettől, a föld kezdetétől fogva."
+        },
+        {
+          "number": 24,
+          "text": "Még mikor semmi mélységek nem voltak, születtem vala; még mikor semmi források, vízzel teljesek nem voltak."
+        },
+        {
+          "number": 25,
+          "text": "Minekelőtte a hegyek leülepedtek volna, a halmoknak előtte születtem."
+        },
+        {
+          "number": 26,
+          "text": "Mikor még nem csinálta vala a földet és a mezőket, és a világ porának kezdetét."
+        },
+        {
+          "number": 27,
+          "text": "Mikor készíté az eget, ott valék; mikor felveté a mélységek színén a kerekséget;"
+        },
+        {
+          "number": 28,
+          "text": "Mikor megerősíté a felhőket ott fenn, mikor erősekké lőnek a mélységeknek forrásai;"
+        },
+        {
+          "number": 29,
+          "text": "Mikor felveté a tengernek határit, hogy a vizek át ne hágják az ő parancsolatját, mikor megállapítá e földnek fundamentomait:"
+        },
+        {
+          "number": 30,
+          "text": "Mellette valék mint kézmíves, és gyönyörűsége valék mindennap, játszva ő előtte minden időben."
+        },
+        {
+          "number": 31,
+          "text": "Játszva az ő földének kerekségén, és gyönyörűségemet lelve az emberek fiaiban."
+        },
+        {
+          "number": 32,
+          "text": "És most fiaim, hallgassatok engemet, és boldogok, a kik az én útaimat megtartják."
+        },
+        {
+          "number": 33,
+          "text": "Hallgassátok a tudományt és legyetek bölcsek, és magatokat el ne vonjátok!"
+        },
+        {
+          "number": 34,
+          "text": "Boldog ember, a ki hallgat engem, az én ajtóm előtt virrasztván minden nap, az én ajtóim félfáit őrizvén."
+        },
+        {
+          "number": 35,
+          "text": "Mert a ki megnyer engem, nyert életet, és szerzett az Úrtól jóakaratot."
+        },
+        {
+          "number": 36,
+          "text": "De a ki vétkezik ellenem, erőszakot cselekszik az ő lelkén; minden, valaki engem gyűlöl, szereti a halált!"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bölcseség megépítette az ő házát, annak hét oszlopát kivágván."
+        },
+        {
+          "number": 2,
+          "text": "Megölte vágnivalóit, kitöltötte borát, asztalát is elkészítette."
+        },
+        {
+          "number": 3,
+          "text": "Elbocsátá az ő leányit, hivogat a város magas helyeinek tetein."
+        },
+        {
+          "number": 4,
+          "text": "Ki tudatlan? térjen ide; az értelem nélkül valónak ezt mondja:"
+        },
+        {
+          "number": 5,
+          "text": "Jőjjetek, éljetek az én étkemmel, és igyatok a borból, melyet töltöttem."
+        },
+        {
+          "number": 6,
+          "text": "Hagyjátok el a bolondokat, hogy éljetek, járjatok az eszességnek útán."
+        },
+        {
+          "number": 7,
+          "text": "A ki tanítja a csúfolót, nyer magának szidalmat: és a ki feddi a latrot, szégyenére lesz."
+        },
+        {
+          "number": 8,
+          "text": "Ne fedd meg a csúfolót, hogy ne gyűlöljön téged; fedd meg a bölcset, és szeret téged."
+        },
+        {
+          "number": 9,
+          "text": "Adj a bölcsnek, és még bölcsebb lesz; tanítsd az igazat, és öregbíti a tanulságot."
+        },
+        {
+          "number": 10,
+          "text": "A bölcseségnek kezdete az Úrnak félelme; és a Szentnek ismerete az eszesség."
+        },
+        {
+          "number": 11,
+          "text": "Mert én általam sokasulnak meg a te napjaid, és meghosszabbítják néked életednek esztendeit."
+        },
+        {
+          "number": 12,
+          "text": "Ha bölcs vagy, bölcs vagy te magadnak; ha pedig csúfoló vagy, magad vallod kárát."
+        },
+        {
+          "number": 13,
+          "text": "Balgaság asszony fecsegő, bolond és semmit nem tud."
+        },
+        {
+          "number": 14,
+          "text": "És leült az ő házának ajtajába, székre a városnak magas helyein,"
+        },
+        {
+          "number": 15,
+          "text": "Hogy hívja az útonjárókat, a kik egyenesen mennek útjokon."
+        },
+        {
+          "number": 16,
+          "text": "Ki együgyű? térjen ide, és valaki esztelen, annak ezt mondja:"
+        },
+        {
+          "number": 17,
+          "text": "A lopott víz édes, és a titkon való étel gyönyörűséges!"
+        },
+        {
+          "number": 18,
+          "text": "És az nem tudja, hogy ott élet nélkül valók vannak; és a pokol mélyébe esnek az ő hivatalosai!"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Salamon bölcs mondásai. A bölcs fiú örvendezteti az ő atyját; a bolond fiú pedig szomorúsága az ő anyjának."
+        },
+        {
+          "number": 2,
+          "text": "Nem használnak a gonoszság kincsei; az igazság pedig megszabadít a halálból."
+        },
+        {
+          "number": 3,
+          "text": "Az Úr nem hagyja éhezni az igaznak lelkét; az istenteleneknek kivánságát pedig elveti."
+        },
+        {
+          "number": 4,
+          "text": "Szegénynyé lesz, a ki cselekszik rest kézzel; a gyors munkások keze pedig meggazdagít."
+        },
+        {
+          "number": 5,
+          "text": "Gyűjt nyárban az eszes fiú; álomba merül az aratás idején a megszégyenítő fiú."
+        },
+        {
+          "number": 6,
+          "text": "Áldások vannak az igaznak fején; az istentelenek szája pedig erőszaktételt fed be."
+        },
+        {
+          "number": 7,
+          "text": "Az igaznak emlékezete áldott; a hamisaknak neve pedig megrothad."
+        },
+        {
+          "number": 8,
+          "text": "A bölcs elméjű beveszi a parancsolatokat; a bolond ajkú pedig elveszti magát."
+        },
+        {
+          "number": 9,
+          "text": "A ki tökéletességben jár, bátorsággal jár; a ki pedig elferdíti az ő útát, kiismertetik."
+        },
+        {
+          "number": 10,
+          "text": "A ki szemmel hunyorgat, bántást szerez; és a bolond ajkú elesik."
+        },
+        {
+          "number": 11,
+          "text": "Életnek kútfeje az igaznak szája; az istenteleneknek szája pedig erőszaktételt fedez el."
+        },
+        {
+          "number": 12,
+          "text": "A gyűlölség szerez versengést; minden vétket pedig elfedez a szeretet."
+        },
+        {
+          "number": 13,
+          "text": "Az eszesek ajkain bölcseség találtatik; a vessző pedig a bolond hátának való."
+        },
+        {
+          "number": 14,
+          "text": "A bölcsek tudományt rejtegetnek; a bolondnak szája pedig közeli romlás."
+        },
+        {
+          "number": 15,
+          "text": "A gazdagnak marhája az ő megerősített városa; szűkölködőknek romlása az ő szegénységök."
+        },
+        {
+          "number": 16,
+          "text": "Az igaznak keresménye életre, az istentelennek jövedelme bűnre van."
+        },
+        {
+          "number": 17,
+          "text": "A bölcseség megőrizőnek útja életre van; a fenyítéket elhagyó pedig tévelyeg."
+        },
+        {
+          "number": 18,
+          "text": "A ki elfedezi a gyűlölséget, hazug ajkú az; és a ki szól gyalázatot, bolond az."
+        },
+        {
+          "number": 19,
+          "text": "A sok beszédben elmaradhatatlan a vétek; a ki pedig megtartóztatja ajkait, az értelmes."
+        },
+        {
+          "number": 20,
+          "text": "Választott ezüst az igaznak nyelve; a gonoszok elméje kevés érő."
+        },
+        {
+          "number": 21,
+          "text": "Az igaznak ajkai sokakat legeltetnek; a bolondok pedig esztelenségökben halnak meg."
+        },
+        {
+          "number": 22,
+          "text": "Az Úrnak áldása, az gazdagít meg, és azzal semmi nem szerez bántást."
+        },
+        {
+          "number": 23,
+          "text": "Miképen játék a bolondnak bűnt cselekedni, azonképen az eszes férfiúnak bölcsen cselekedni."
+        },
+        {
+          "number": 24,
+          "text": "A mitől retteg az istentelen, az esik ő rajta; a mit pedig kivánnak az igazak, meg lesz."
+        },
+        {
+          "number": 25,
+          "text": "A mint a forgószél ráfuvall, már oda van az istentelen; az igaznak pedig örökké való fundamentoma van."
+        },
+        {
+          "number": 26,
+          "text": "Minémű az eczet a fogaknak és a füst a szemeknek, olyan a rest azoknak, a kik azt elküldötték."
+        },
+        {
+          "number": 27,
+          "text": "Az Úrnak félelme hosszabbítja meg a napokat; az istenteleneknek pedig esztendeik megrövidülnek."
+        },
+        {
+          "number": 28,
+          "text": "Az igazaknak reménysége öröm; az istenteleneknek várakozása pedig elvész."
+        },
+        {
+          "number": 29,
+          "text": "Erősség a tökéletesnek az Úrnak úta: de romlás a hamisság cselekedőinek."
+        },
+        {
+          "number": 30,
+          "text": "Az igaz soha meg nem mozdul; de az istentelenek nem lakják a földet."
+        },
+        {
+          "number": 31,
+          "text": "Az igaznak szája bőségesen szól bölcsességet; a gonoszság nyelve pedig kivágatik."
+        },
+        {
+          "number": 32,
+          "text": "Az igaznak ajkai azt tudják, a mi kedves; az istenteleneknek szája pedig a gonoszságot."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az álnok font útálatos az Úrnál; az igaz mérték pedig kedves néki."
+        },
+        {
+          "number": 2,
+          "text": "Kevélység jő: gyalázat jő; az alázatosoknál pedig bölcseség van."
+        },
+        {
+          "number": 3,
+          "text": "Az igazakat tökéletességök vezeti; de a hitetleneket gonoszságuk elpusztítja."
+        },
+        {
+          "number": 4,
+          "text": "Nem használ a vagyon a haragnak idején; az igazság pedig kiragad a halálból."
+        },
+        {
+          "number": 5,
+          "text": "A tökéletesnek igazsága igazgatja az ő útát; de önnön istentelenségében esik el az istentelen."
+        },
+        {
+          "number": 6,
+          "text": "Az igazaknak igazságok megszabadítja őket; de az ő kivánságokban fogatnak meg a hitetlenek."
+        },
+        {
+          "number": 7,
+          "text": "Mikor meghal az istentelen ember, elvész az ő reménysége; a bűnösök várakozása is elvész."
+        },
+        {
+          "number": 8,
+          "text": "Az igaz a nyomorúságból megszabadul; az istentelen ő helyette beesik abba."
+        },
+        {
+          "number": 9,
+          "text": "Szájával rontja meg a képmutató felebarátját; de az igazak a tudomány által megszabadulnak."
+        },
+        {
+          "number": 10,
+          "text": "Az igazak javán örül a város; és mikor elvesznek az istentelenek, örvendezés van."
+        },
+        {
+          "number": 11,
+          "text": "Az igazaknak áldása által emelkedik a város; az istentelenek szája által pedig megromol."
+        },
+        {
+          "number": 12,
+          "text": "Megútálja felebarátját a bolond; az eszes férfiú pedig hallgat."
+        },
+        {
+          "number": 13,
+          "text": "A rágalmazó megjelenti a titkot; de a hűséges lelkű elfedezi a dolgot."
+        },
+        {
+          "number": 14,
+          "text": "A hol nincs vezetés, elvész a nép; a megmaradás pedig a sok tanácsos által van."
+        },
+        {
+          "number": 15,
+          "text": "Teljességgel megrontatik, a ki kezes lesz idegenért; a ki pedig gyűlöli a kezességet, bátorságos lesz."
+        },
+        {
+          "number": 16,
+          "text": "A kedves asszony megtartja a tiszteletet, a hatalmaskodók pedig megtartják a gazdagságot."
+        },
+        {
+          "number": 17,
+          "text": "Ő magával tesz jól a kegyes férfiú; a kegyetlen pedig öntestének okoz fájdalmat."
+        },
+        {
+          "number": 18,
+          "text": "Az istentelen munkál álnok keresményt; az igazságszerzőnek pedig jutalma valóságos."
+        },
+        {
+          "number": 19,
+          "text": "A ki őszinte az igazságban, az életére -, a ki pedig a gonoszt követi, az vesztére míveli azt."
+        },
+        {
+          "number": 20,
+          "text": "Útálatosok az Úrnál az álnok szívűek; kedvesek pedig ő nála, a kik az ő útjokban tökéletesek."
+        },
+        {
+          "number": 21,
+          "text": "Kézadással erősítem, hogy nem marad büntetlen a gonosz; az igazaknak pedig magva megszabadul."
+        },
+        {
+          "number": 22,
+          "text": "Mint a disznó orrában az aranyperecz, olyan a szép asszony, a kinek nincs okossága."
+        },
+        {
+          "number": 23,
+          "text": "Az igazaknak kivánsága csak jó, az istentelenek várakozása pedig harag."
+        },
+        {
+          "number": 24,
+          "text": "Van olyan, a ki bőven adakozik, és annál inkább gazdagodik; és a ki megtartóztatja a járandóságot, de ugyan szűkölködik."
+        },
+        {
+          "number": 25,
+          "text": "A mással jóltevő ember megkövéredik; és a ki mást felüdít, maga is üdül."
+        },
+        {
+          "number": 26,
+          "text": "A ki búzáját visszatartja, átkozza azt a nép; annak fején pedig, a ki eladja, áldás van."
+        },
+        {
+          "number": 27,
+          "text": "A ki jóra igyekezik, jóakaratot szerez: a ki pedig gonoszt keres, ő magára jő az."
+        },
+        {
+          "number": 28,
+          "text": "A ki bízik az ő gazdagságában, elesik; de mint a fa ága, az igazak kivirágoznak."
+        },
+        {
+          "number": 29,
+          "text": "A ki megháborítja az ő házát, annak öröksége szél lesz; és a bolond szolgája a bölcs elméjűnek."
+        },
+        {
+          "number": 30,
+          "text": "Az igaznak gyümölcse életnek fája; és lelkeket nyer meg a bölcs."
+        },
+        {
+          "number": 31,
+          "text": "Ímé, az igaz e földön megnyeri jutalmát; mennyivel inkább az istentelen és a bűnös!  A ki szereti a dorgálást, szereti a tudományt; a ki pedig gyűlöli a fenyítéket, oktalan az."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A jó ember jóakaratot nyer az Úrtól; de a gonosz embert kárhoztatja ő."
+        },
+        {
+          "number": 2,
+          "text": "Nem erősül meg ember az istentelenséggel; az igazaknak pedig gyökerök ki nem mozdul."
+        },
+        {
+          "number": 3,
+          "text": "A derék asszony koronája az ő férjének; de mint az ő csontjaiban való rothadás, olyan a megszégyenítő."
+        },
+        {
+          "number": 4,
+          "text": "Az igazaknak gondolatjaik igazak; az istentelenek tanácsa csalás."
+        },
+        {
+          "number": 5,
+          "text": "Az istenteleneknek beszédei leselkednek a vér után; az igazaknak pedig szája megszabadítja azokat."
+        },
+        {
+          "number": 6,
+          "text": "Leomlanak az istentelenek, és oda lesznek; az igazak háza pedig megáll."
+        },
+        {
+          "number": 7,
+          "text": "Az ő értelme szerint dicsértetik a férfiú; de az elfordult elméjű útálatos lesz."
+        },
+        {
+          "number": 8,
+          "text": "Jobb, a kit kevésre tartanak, és szolgája van, mint a ki magát felmagasztalja, és szűk kenyerű."
+        },
+        {
+          "number": 9,
+          "text": "Az igaz az ő barmának érzését is ismeri, az istentelenek szíve pedig kegyetlen."
+        },
+        {
+          "number": 10,
+          "text": "A ki míveli az ő földét, megelégedik eledellel; a ki pedig követ hiábavalókat, bolond az."
+        },
+        {
+          "number": 11,
+          "text": "Kivánja az istentelen a gonoszok prédáját; de az igaznak gyökere ád gyümölcsöt."
+        },
+        {
+          "number": 12,
+          "text": "Az ajkaknak vétkében gonosz tőr van, de kimenekedik a nyomorúságból az igaz."
+        },
+        {
+          "number": 13,
+          "text": "Az ő szájának gyümölcséből elégedik meg a férfi jóval; és az ő cselekedetének fizetését veszi az ember önmagának."
+        },
+        {
+          "number": 14,
+          "text": "A bolondnak úta helyes az ő szeme előtt, de a ki tanácscsal él, bölcs az."
+        },
+        {
+          "number": 15,
+          "text": "A bolondnak haragja azon napon megismertetik; elfedezi pedig a szidalmat az eszes ember."
+        },
+        {
+          "number": 16,
+          "text": "A ki igazán szól, megjelenti az igazságot, a hamis bizonyság pedig az álnokságot."
+        },
+        {
+          "number": 17,
+          "text": "Van olyan, a ki beszél hasonlókat a tőrszúrásokhoz; de a bölcseknek nyelve orvosság."
+        },
+        {
+          "number": 18,
+          "text": "Az igazmondó ajak megáll mind örökké; a hazugságnak pedig nyelve egy szempillantásig."
+        },
+        {
+          "number": 19,
+          "text": "Álnokság van a gonosz gondolóknak szívében; a békességnek tanácsosiban pedig vígasság."
+        },
+        {
+          "number": 20,
+          "text": "Nem vettetik az igaz semmi bántásba; az istentelenek pedig teljesek nyavalyával."
+        },
+        {
+          "number": 21,
+          "text": "Útálatosok az Úrnál a csalárd beszédek; a kik pedig cselekesznek hűségesen, kedvesek ő nála."
+        },
+        {
+          "number": 22,
+          "text": "Az eszes ember elfedezi a tudományt; a bolondok elméje pedig kikiáltja a bolondságot."
+        },
+        {
+          "number": 23,
+          "text": "A gyorsaknak keze uralkodik; a rest pedig adófizető lesz."
+        },
+        {
+          "number": 24,
+          "text": "A férfiúnak elméjében való gyötrelem megalázza azt; a jó szó pedig megvidámítja azt."
+        },
+        {
+          "number": 25,
+          "text": "Útba igazítja az ő felebarátját az igaz; de az istentelenek útja eltévelyíti őket."
+        },
+        {
+          "number": 26,
+          "text": "Nem süti meg a rest, a mit vadászásával fogott; de drága marhája az embernek serénysége."
+        },
+        {
+          "number": 27,
+          "text": "Az igazságnak útjában van élet; és az ő ösvényének úta halhatatlanság."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A bölcs fiú enged atyja intésének; de a csúfoló semmi dorgálásnak helyt nem ád."
+        },
+        {
+          "number": 2,
+          "text": "A férfi az ő szájának gyümölcséből él jóval; a hitetlenek lelke pedig bosszúságtétellel."
+        },
+        {
+          "number": 3,
+          "text": "A ki megőrzi az ő száját, megtartja önmagát; a ki felnyitja száját, romlása az annak."
+        },
+        {
+          "number": 4,
+          "text": "Kivánsággal felindul, de hiába, a restnek lelke; a gyorsak lelke pedig megkövéredik."
+        },
+        {
+          "number": 5,
+          "text": "A hamis dolgot gyűlöli az igaz; az istentelen pedig gyűlölségessé tesz és megszégyenít."
+        },
+        {
+          "number": 6,
+          "text": "Az igazság megőrzi azt, a ki útjában tökéletes; az istentelenség pedig elveszíti a bűnöst."
+        },
+        {
+          "number": 7,
+          "text": "Van, a ki hányja gazdagságát, holott semmije sincsen; viszont tetteti magát szegénynek, holott sok marhája van."
+        },
+        {
+          "number": 8,
+          "text": "Az ember életének váltsága lehet az ő gazdagsága; a szegény pedig nem hallja a fenyegetést."
+        },
+        {
+          "number": 9,
+          "text": "Az igazak világossága vígassággal ég; de az istenteleneknek szövétneke kialszik."
+        },
+        {
+          "number": 10,
+          "text": "Csak háborúság lesz a kevélységből: azoknál pedig, a kik a tanácsot beveszik, bölcseség van."
+        },
+        {
+          "number": 11,
+          "text": "A hiábavalóságból keresett marha megkisebbül; a ki pedig kezével gyűjt, megőregbíti azt."
+        },
+        {
+          "number": 12,
+          "text": "A halogatott reménység beteggé teszi a szívet; de a megadatott kivánság életnek fája."
+        },
+        {
+          "number": 13,
+          "text": "Az igének megútálója megrontatik; a ki pedig féli a parancsolatot, jutalmát veszi."
+        },
+        {
+          "number": 14,
+          "text": "A bölcsnek tanítása életnek kútfeje, a halál tőrének eltávoztatására."
+        },
+        {
+          "number": 15,
+          "text": "Jó értelem ád kedvességet; a hitetleneknek pedig útja kemény."
+        },
+        {
+          "number": 16,
+          "text": "Minden eszes cselekszik bölcseséggel; a bolond pedig kijelenti az ő bolondságát."
+        },
+        {
+          "number": 17,
+          "text": "Az istentelen követ bajba esik; a hívséges követ pedig gyógyulás."
+        },
+        {
+          "number": 18,
+          "text": "Szegénység és gyalázat lesz azon, a ki a fenyítéktől magát elvonja; a ki pedig megfogadja a dorgálást, tiszteltetik."
+        },
+        {
+          "number": 19,
+          "text": "A megnyert kivánság gyönyörűséges a léleknek, és útálatosság a bolondoknak eltávozniok a gonosztól."
+        },
+        {
+          "number": 20,
+          "text": "A ki jár a bölcsekkel, bölcs lesz; a ki pedig magát társul adja a bolondokhoz, megromol."
+        },
+        {
+          "number": 21,
+          "text": "A bűnösöket követi a gonosz; az igazaknak pedig jóval fizet Isten."
+        },
+        {
+          "number": 22,
+          "text": "A jó örökséget hágy unokáinak; a bűnösnek marhái pedig eltétetnek az igaz számára."
+        },
+        {
+          "number": 23,
+          "text": "Bő étele lesz a szegényeknek az új törésen; de van olyan, a ki igazságtalansága által vész el."
+        },
+        {
+          "number": 24,
+          "text": "A ki megtartóztatja az ő vesszejét, gyűlöli az ő fiát; a ki pedig szereti azt, megkeresi őt fenyítékkel."
+        },
+        {
+          "number": 25,
+          "text": "Az igaz eszik az ő kivánságának megelégedéséig; az istentelenek hasa pedig szűkölködik."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A bölcs asszony építi a maga házát; a bolond pedig önkezével rontja el azt."
+        },
+        {
+          "number": 2,
+          "text": "A ki igazán jár, féli az Urat; a ki pedig elfordult az ő útaiban, megútálja őt."
+        },
+        {
+          "number": 3,
+          "text": "A bolondnak szájában van kevélységnek pálczája; a bölcseknek pedig beszéde megtartja őket."
+        },
+        {
+          "number": 4,
+          "text": "Mikor nincsenek ökrök: tiszta a jászol; a gabonának bősége pedig az ökörnek erejétől van."
+        },
+        {
+          "number": 5,
+          "text": "A hűséges tanú nem hazud; a hamis tanú pedig hazugságot bocsát szájából."
+        },
+        {
+          "number": 6,
+          "text": "A csúfoló keresi a bölcseséget, és nincs; a tudomány pedig az eszesnek könnyű."
+        },
+        {
+          "number": 7,
+          "text": "Menj el a bolond férfiú elől; és nem ismerted meg a tudománynak beszédét."
+        },
+        {
+          "number": 8,
+          "text": "Az eszesnek bölcsesége az ő útának megértése; a bolondoknak pedig bolondsága csalás."
+        },
+        {
+          "number": 9,
+          "text": "A bolondokat megcsúfolja a bűnért való áldozat; az igazak között pedig jóakarat van."
+        },
+        {
+          "number": 10,
+          "text": "A szív tudja az ő lelke keserűségét; és az ő örömében az idegen nem részes."
+        },
+        {
+          "number": 11,
+          "text": "Az istenteleneknek háza elvész; de az igazaknak sátora megvirágzik."
+        },
+        {
+          "number": 12,
+          "text": "Van olyan út, mely helyesnek látszik az ember előtt, és vége a halálra menő út."
+        },
+        {
+          "number": 13,
+          "text": "Nevetés közben is fáj a szív; és végre az öröm fordul szomorúságra."
+        },
+        {
+          "number": 14,
+          "text": "Az ő útaiból elégszik meg az elfordult elméjű; önmagából pedig a jó férfiú."
+        },
+        {
+          "number": 15,
+          "text": "Az együgyű hisz minden dolognak; az eszes pedig a maga járására vigyáz."
+        },
+        {
+          "number": 16,
+          "text": "A bölcs félvén, eltávozik a gonosztól; a bolond pedig dühöngő és elbizakodott."
+        },
+        {
+          "number": 17,
+          "text": "A hirtelen haragú bolondságot cselekszik, és a cselszövő férfi gyűlölséges lesz."
+        },
+        {
+          "number": 18,
+          "text": "Bírják az esztelenek a bolondságot örökség szerint; az eszesek pedig fonják a tudománynak koszorúját."
+        },
+        {
+          "number": 19,
+          "text": "Meghajtják magokat a gonoszok a jók előtt, és a hamisak az igaznak kapujánál."
+        },
+        {
+          "number": 20,
+          "text": "Még az ő felebarátjánál is útálatos a szegény; a gazdagnak pedig sok a barátja."
+        },
+        {
+          "number": 21,
+          "text": "A ki megútálja az ő felebarátját, vétkezik; a ki pedig a szegényekkel kegyelmességet cselekszik, boldog az!"
+        },
+        {
+          "number": 22,
+          "text": "Nemde tévelyegnek, a kik gonoszt szereznek? kegyelmesség pedig és igazság a jó szerzőknek."
+        },
+        {
+          "number": 23,
+          "text": "Minden munkából nyereség lesz; de az ajkaknak beszédéből csak szűkölködés."
+        },
+        {
+          "number": 24,
+          "text": "A bölcseknek ékességök az ő gazdagságuk; a tudatlanok bolondsága pedig csak bolondság."
+        },
+        {
+          "number": 25,
+          "text": "Lelkeket szabadít meg az igaz bizonyság; hazugságokat szól pedig az álnok."
+        },
+        {
+          "number": 26,
+          "text": "Az Úrnak félelmében erős a bizodalom, és az ő fiainak lesz menedéke."
+        },
+        {
+          "number": 27,
+          "text": "Az Úrnak félelme az életnek kútfeje, a halál tőrének eltávoztatására."
+        },
+        {
+          "number": 28,
+          "text": "A nép sokasága a király dicsősége; a nép elfogyása pedig az uralkodó romlása."
+        },
+        {
+          "number": 29,
+          "text": "A haragra késedelmes bővelkedik értelemmel; a ki pedig elméjében hirtelenkedő, bolondságot szerez az."
+        },
+        {
+          "number": 30,
+          "text": "A szelíd szív a testnek élete; az irígység pedig a csontoknak rothadása."
+        },
+        {
+          "number": 31,
+          "text": "A ki elnyomja a szegényt, gyalázattal illeti annak teremtőjét; az pedig tiszteli, a ki könyörül a szűkölködőn."
+        },
+        {
+          "number": 32,
+          "text": "Az ő nyavalyájába ejti magát az istentelen; az igaznak pedig halála idején is reménysége van."
+        },
+        {
+          "number": 33,
+          "text": "Az eszesnek elméjében nyugszik a bölcseség; a mi pedig a tudatlanokban van, magát hamar megismerheti."
+        },
+        {
+          "number": 34,
+          "text": "Az igazság felmagasztalja a nemzetet; a bűn pedig gyalázatára van a népeknek."
+        },
+        {
+          "number": 35,
+          "text": "A királynak jóakaratja van az eszes szolgához; haragja pedig a megszégyenítőhöz."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az engedelmes felelet elfordítja a harag felgerjedését; a megbántó beszéd pedig támaszt haragot."
+        },
+        {
+          "number": 2,
+          "text": "A bölcsek nyelve beszél jó tudományt: a tudatlanoknak száján pedig bolondság buzog ki."
+        },
+        {
+          "number": 3,
+          "text": "Minden helyeken vannak az Úrnak szemei, nézvén a jókat és gonoszokat."
+        },
+        {
+          "number": 4,
+          "text": "A nyelv szelídsége életnek fája; az abban való hamisság pedig a léleknek gyötrelme."
+        },
+        {
+          "number": 5,
+          "text": "A bolond megútálja az ő atyjának tanítását; a ki pedig megbecsüli a dorgálást, igen eszes."
+        },
+        {
+          "number": 6,
+          "text": "Az igaznak házában nagy kincs van; az istentelennek jövedelmében pedig háborúság."
+        },
+        {
+          "number": 7,
+          "text": "A bölcseknek ajkaik hintegetnek tudományt; a bolondoknak pedig elméje nem helyes."
+        },
+        {
+          "number": 8,
+          "text": "Az istentelenek áldozatja gyűlölséges az Úrnak; az igazak könyörgése pedig kedves néki."
+        },
+        {
+          "number": 9,
+          "text": "Utálat az Úrnál az istentelennek úta; azt pedig, a ki követi az igazságot, szereti."
+        },
+        {
+          "number": 10,
+          "text": "Gonosz dorgálás jő arra, a ki útját elhagyja; a ki gyűlöli a fenyítéket, meghal."
+        },
+        {
+          "number": 11,
+          "text": "A sír és a pokol az Úr előtt vannak; mennyivel inkább az emberek szíve."
+        },
+        {
+          "number": 12,
+          "text": "Nem szereti a csúfoló a feddést, és a bölcsekhez nem megy."
+        },
+        {
+          "number": 13,
+          "text": "A vidám elme megvidámítja az orczát; de a szívnek bánatja miatt a lélek megszomorodik."
+        },
+        {
+          "number": 14,
+          "text": "Az eszesnek elméje keresi a tudományt; a tudatlanok szája pedig legel bolondságot."
+        },
+        {
+          "number": 15,
+          "text": "Minden napjai a szegénynek nyomorúságosak; a vidám elméjűnek pedig szüntelen lakodalma van."
+        },
+        {
+          "number": 16,
+          "text": "Jobb a kevés az Úrnak félelmével, mint a temérdek kincs, a hol háborúság van."
+        },
+        {
+          "number": 17,
+          "text": "Jobb a paréjnak étele, a hol szeretet van, mint a hízlalt ökör, a hol van gyűlölség."
+        },
+        {
+          "number": 18,
+          "text": "A haragos férfiú szerez háborúságot; a hosszútűrő pedig lecsendesíti a háborgást."
+        },
+        {
+          "number": 19,
+          "text": "A restnek útja olyan, mint a tövises sövény; az igazaknak pedig útja megegyengetett."
+        },
+        {
+          "number": 20,
+          "text": "A bölcs fiú örvendezteti az atyját; a bolond ember pedig megútálja az anyját."
+        },
+        {
+          "number": 21,
+          "text": "A bolondság öröme az esztelennek; de az értelmes férfiú igazán jár."
+        },
+        {
+          "number": 22,
+          "text": "Hiábavalók lesznek a gondolatok, mikor nincs tanács; de a tanácsosok sokaságában előmennek."
+        },
+        {
+          "number": 23,
+          "text": "Öröme van az embernek szája feleletében; és az idejében mondott beszéd, oh mely igen jó!"
+        },
+        {
+          "number": 24,
+          "text": "Az életnek úta felfelé van az értelmes ember számára, hogy eltávozzék a pokoltól, mely aláfelé van."
+        },
+        {
+          "number": 25,
+          "text": "A kevélyeknek házát kiszakgatja az Úr; megerősíti pedig az özvegynek határát."
+        },
+        {
+          "number": 26,
+          "text": "Útálatosak az Úrnak a gonosz gondolatok; de kedvesek a tiszta beszédek."
+        },
+        {
+          "number": 27,
+          "text": "Megháborítja az ő házát, a ki követi a telhetetlenséget; a ki pedig gyűlöli az ajándékokat, él az."
+        },
+        {
+          "number": 28,
+          "text": "Az igaznak elméje meggondolja, mit szóljon; az istenteleneknek pedig szája ontja a gonoszt."
+        },
+        {
+          "number": 29,
+          "text": "Messze van az Úr az istentelenektől; az igazaknak pedig könyörgését meghallgatja."
+        },
+        {
+          "number": 30,
+          "text": "A szemek világa megvidámítja a szívet; a jó hír megerősíti a csontokat."
+        },
+        {
+          "number": 31,
+          "text": "A mely fül hallgatja az életnek dorgálását, a bölcsek között lakik."
+        },
+        {
+          "number": 32,
+          "text": "A ki elvonja magát az erkölcsi tanítástól, megútálja az ő lelkét; a ki pedig hallgatja a feddést, értelmet szerez."
+        },
+        {
+          "number": 33,
+          "text": "Az Úrnak félelme a bölcseségnek tudománya, és a tisztességnek előtte jár az alázatosság."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az embernél vannak az elme gondolatjai; de az Úrtól van a nyelv felelete."
+        },
+        {
+          "number": 2,
+          "text": "Minden útai tiszták az embernek a maga szemei előtt; de a ki a lelkeket vizsgálja, az Úr az!"
+        },
+        {
+          "number": 3,
+          "text": "Bízzad az Úrra a te dolgaidat; és a te gondolatid véghez mennek."
+        },
+        {
+          "number": 4,
+          "text": "Mindent teremtett az Úr az ő maga czéljára; az istentelent is a büntetésnek napjára."
+        },
+        {
+          "number": 5,
+          "text": "Útálatos az Úrnak minden, a ki elméjében felfuvalkodott, kezemet adom rá, hogy nem marad büntetetlen."
+        },
+        {
+          "number": 6,
+          "text": "Könyörületességgel és igazsággal töröltetik el a bűn; és az Úrnak félelme által távozhatunk el a gonosztól."
+        },
+        {
+          "number": 7,
+          "text": "Mikor jóakarattal van az Úr valakinek útaihoz, még annak ellenségeit is jóakaróivá teszi."
+        },
+        {
+          "number": 8,
+          "text": "Jobb a kevés igazsággal, mint a gazdag jövedelem hamissággal."
+        },
+        {
+          "number": 9,
+          "text": "Az embernek elméje gondolja meg az ő útát; de az Úr igazgatja annak járását."
+        },
+        {
+          "number": 10,
+          "text": "Jósige van a király ajkain; az ítéletben ne szóljon hamisságot az ő szája."
+        },
+        {
+          "number": 11,
+          "text": "Az Úré az igaz mérték és mérőserpenyő, az ő műve minden mérőkő."
+        },
+        {
+          "number": 12,
+          "text": "Útálatos legyen a királyoknál istentelenséget cselekedni; mert igazsággal erősíttetik meg a királyiszék."
+        },
+        {
+          "number": 13,
+          "text": "Kedvesek a királyoknak az igaz beszédek; és az igazmondót szereti a király."
+        },
+        {
+          "number": 14,
+          "text": "A királynak felgerjedt haragja olyan, mint a halál követe; de a bölcs férfiú leszállítja azt."
+        },
+        {
+          "number": 15,
+          "text": "A királynak vidám orczájában élet van; jóakaratja olyan, mint a tavaszi eső fellege."
+        },
+        {
+          "number": 16,
+          "text": "Szerzeni bölcseséget, oh menynyivel jobb az aranynál; és szerzeni eszességet, kivánatosb az ezüstnél!"
+        },
+        {
+          "number": 17,
+          "text": "Az igazak országútja eltávozás a gonosztól; megtartja magát az, a ki megőrzi az ő útát."
+        },
+        {
+          "number": 18,
+          "text": "A megromlás előtt kevélység jár, és az eset előtt felfuvalkodottság."
+        },
+        {
+          "number": 19,
+          "text": "Jobb alázatos lélekkel lenni a szelídekkel, mint zsákmányon osztozni a kevélyekkel."
+        },
+        {
+          "number": 20,
+          "text": "A ki figyelmez az igére, jót nyer; és a ki bízik az Úrban, oh mely boldog az!"
+        },
+        {
+          "number": 21,
+          "text": "A ki elméjében bölcs, hívatik értelmesnek; a beszédnek pedig édessége neveli a tudományt."
+        },
+        {
+          "number": 22,
+          "text": "Életnek kútfeje az értelem annak, a ki bírja azt; de a bolondok fenyítéke bolondságuk."
+        },
+        {
+          "number": 23,
+          "text": "A bölcsnek elméje értelmesen igazgatja az ő száját, és az ő ajkain öregbíti a tudományt."
+        },
+        {
+          "number": 24,
+          "text": "Lépesméz a gyönyörűséges beszédek; édesek a léleknek, és meggyógyítói a tetemeknek."
+        },
+        {
+          "number": 25,
+          "text": "Van oly út, mely igaz az ember szeme előtt, de vége a halálnak úta."
+        },
+        {
+          "number": 26,
+          "text": "A munkálkodó lelke magának munkálkodik; mert az ő szája kényszeríti őt."
+        },
+        {
+          "number": 27,
+          "text": "A haszontalan ember gonoszt ás ki, és az ő ajkain mintegy égő tűz van;"
+        },
+        {
+          "number": 28,
+          "text": "A gonosz ember versengést szerez, és a susárló elválasztja a jó barátokat."
+        },
+        {
+          "number": 29,
+          "text": "Az erőszakos ember elhiteti az ő felebarátját, és nem jó úton viszi őt."
+        },
+        {
+          "number": 30,
+          "text": "A ki behúnyja szemeit, azért teszi, hogy álnokságot gondoljon; a ki összeszorítja ajkait, már véghez vitte a gonoszságot."
+        },
+        {
+          "number": 31,
+          "text": "Igen szép ékes korona a vénség, az igazságnak útában találtatik."
+        },
+        {
+          "number": 32,
+          "text": "Jobb a hosszútűrő az erősnél; és a ki uralkodik a maga indulatján, annál, a ki várost vesz meg."
+        },
+        {
+          "number": 33,
+          "text": "Az ember kebelében vetnek sorsot; de az Úrtól van annak minden ítélete."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jobb a száraz falat, melylyel van csendesség; mint a levágott barmokkal teljes ház, melyben háborúság van."
+        },
+        {
+          "number": 2,
+          "text": "Az értelmes szolga uralkodik a gyalázatos fiún, és az atyafiak között az örökségnek részét veszi."
+        },
+        {
+          "number": 3,
+          "text": "Az olvasztótégely az ezüst számára van, és a kemencze az aranyéra; a szívek vizsgálója pedig az Úr."
+        },
+        {
+          "number": 4,
+          "text": "A gonosztevő hallgat az álnok beszédekre, a csalárd hallgat a gonosz nyelvre."
+        },
+        {
+          "number": 5,
+          "text": "A ki megcsúfolja a szegényt, gyalázattal illeti annak Teremtőjét; a ki gyönyörködik másnak nyomorúságában, büntetlen nem lészen!"
+        },
+        {
+          "number": 6,
+          "text": "A véneknek ékessége az unokák, és a fiaknak ékessége az atyák."
+        },
+        {
+          "number": 7,
+          "text": "Nem illik a bolondnak az ékes beszéd; még kevésbbé a tisztességesnek a hazug beszéd."
+        },
+        {
+          "number": 8,
+          "text": "Drága kő az ajándék elfogadójának szemei előtt; mindenütt, a hova csak fordul, okosan cselekszik."
+        },
+        {
+          "number": 9,
+          "text": "Elfedezi a vétket, a ki keresi a szeretetet; a ki pedig ismétlen előhoz egy dolgot, elszakasztja egymástól a barátságosokat is."
+        },
+        {
+          "number": 10,
+          "text": "Foganatosb a dorgálás az eszesnél, mint ha megvernéd a bolondot százszor is."
+        },
+        {
+          "number": 11,
+          "text": "Csak ellenkezést keres a gonosz, végre kegyetlen követ bocsáttatik ellene."
+        },
+        {
+          "number": 12,
+          "text": "Találjon valakire a fiától megfosztott medve, csak ne a bolond az ő bolondságában."
+        },
+        {
+          "number": 13,
+          "text": "A ki fizet gonoszt a jóért, nem távozik el a gonosz annak házától."
+        },
+        {
+          "number": 14,
+          "text": "Mint a ki árvizet szabadít el, olyan a háborúság kezdete; azért minekelőtte kihatna, hagyd el a versengést."
+        },
+        {
+          "number": 15,
+          "text": "A ki igaznak mondja a bűnöst, és kárhoztatja az igazat, útálatos az Úrnak egyaránt mind a kettő."
+        },
+        {
+          "number": 16,
+          "text": "Miért van a vétel ára a bolondnak kezében a bölcseség megszerzésére, holott nincsen néki elméje?"
+        },
+        {
+          "number": 17,
+          "text": "Minden időben szeret, a ki igaz barát, és testvérül születik a nyomorúság idejére."
+        },
+        {
+          "number": 18,
+          "text": "Értelmetlen ember az, a ki kezét adja, fogadván kezességet barátja előtt."
+        },
+        {
+          "number": 19,
+          "text": "Szereti a gonoszt, a ki szereti a háborúságot; a ki magasbítja kapuját, romlást keres."
+        },
+        {
+          "number": 20,
+          "text": "Az elfordult szívű ember nem nyerhet jót, és a ki az ő nyelvével gonosz, esik nyomorúságba."
+        },
+        {
+          "number": 21,
+          "text": "A ki szül bolondot, szüli ő magának bánatra; és nem örvendez a bolondnak atyja."
+        },
+        {
+          "number": 22,
+          "text": "A vidám elme jó orvosságul szolgál; a szomorú lélek pedig megszáraztja a csontokat."
+        },
+        {
+          "number": 23,
+          "text": "A kebelből kivett ajándékot az istentelen elveszi, a törvény útának elfordítására."
+        },
+        {
+          "number": 24,
+          "text": "Az eszesnek orczájából kitetszik a bölcseség; a bolondnak pedig szemei országolnak a földnek végéig."
+        },
+        {
+          "number": 25,
+          "text": "Búsulása az ő atyjának a bolond fiú, és az ő szülőjének keserűsége."
+        },
+        {
+          "number": 26,
+          "text": "Még megbirságolni is az igazat nem jó, a tisztességest megverni igazságáért."
+        },
+        {
+          "number": 27,
+          "text": "A ki megtartóztatja beszédét, az tudós ember, és a ki higgadt lelkű, az értelmes férfiú."
+        },
+        {
+          "number": 28,
+          "text": "Még a bolond is, amikor hallgat, bölcsnek ítéltetik; mikor ajkait bezárja, eszesnek."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A maga kivánsága után megy az agyas ember, minden igaz bölcseség ellen dühösködik."
+        },
+        {
+          "number": 2,
+          "text": "Nem gyönyörködik a bolond az értelemben, hanem abban, hogy az ő elméje nyilvánvalóvá legyen."
+        },
+        {
+          "number": 3,
+          "text": "Mikor eljő az istentelen, eljő a megútálás; és a szidalommal a gyalázat."
+        },
+        {
+          "number": 4,
+          "text": "Mély víz az ember szájának beszéde, buzogó patak a bölcseségnek kútfeje."
+        },
+        {
+          "number": 5,
+          "text": "A gonosz személyének kedvezni nem jó, elfordítani az igazat az ítéletben."
+        },
+        {
+          "number": 6,
+          "text": "A bolondnak beszédei szereznek versengést, és az ő szája ütésekért kiált."
+        },
+        {
+          "number": 7,
+          "text": "A bolondnak szája az ő romlása, és az ő beszédei az ő életének tőre."
+        },
+        {
+          "number": 8,
+          "text": "A susárlónak beszédei hizelkedők; és azok a szív belsejét áthatják."
+        },
+        {
+          "number": 9,
+          "text": "A ki lágyan viseli magát az ő dolgában, testvére annak, a ki tönkre tesz."
+        },
+        {
+          "number": 10,
+          "text": "Erős torony az Úrnak neve, ahhoz folyamodik az igaz, és bátorságos lészen."
+        },
+        {
+          "number": 11,
+          "text": "A gazdagnak vagyona az ő erős városa, és mint a magas kőfal, az ő gondolatja szerint."
+        },
+        {
+          "number": 12,
+          "text": "A megromlás előtt felfuvalkodik az ember elméje; a tisztesség előtt pedig alázatosság van."
+        },
+        {
+          "number": 13,
+          "text": "A ki felel valamit, míg meg nem hallja, ez bolondság és gyalázatos rá nézve."
+        },
+        {
+          "number": 14,
+          "text": "A férfiú lelke elviseli a maga erőtlenségét; de a megtört lelket ki viseli el?"
+        },
+        {
+          "number": 15,
+          "text": "Az eszesnek elméje tudományt szerez, és a bölcseknek füle tudományt keres."
+        },
+        {
+          "number": 16,
+          "text": "Az embernek ajándéka szabad útat szerez néki, és a nagyoknak orczája elé viszi őt."
+        },
+        {
+          "number": 17,
+          "text": "Igaza van annak, a ki első a perben; mígnem eljő az ő peresfele, és megvizsgálja őt."
+        },
+        {
+          "number": 18,
+          "text": "A versengéseket megszünteti a sorsvetés, és az erőseket elválasztja."
+        },
+        {
+          "number": 19,
+          "text": "A felingerelt atyafiú erősb az erős városnál, és az ilyen versengések olyanok, mint a vár zárja."
+        },
+        {
+          "number": 20,
+          "text": "A férfi szájának hasznával elégedik meg az ő belseje; az ő beszédének jövedelmével lakik jól."
+        },
+        {
+          "number": 21,
+          "text": "Mind a halál, mind az élet a nyelv hatalmában van, és a miképen kiki szeret azzal élni, úgy eszi annak gyümölcsét."
+        },
+        {
+          "number": 22,
+          "text": "Megnyerte a jót, a ki talált feleséget, és vett jóakaratot az Úrtól!"
+        },
+        {
+          "number": 23,
+          "text": "Alázatos kérést szól a szegény; a gazdag pedig keményen felel."
+        },
+        {
+          "number": 24,
+          "text": "Az ember, a kinek sok barátja van, széttöretik; de van barát, a ki ragaszkodóbb a testvérnél."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jobb a tökéletesen járó szegény a gonosz nyelvűnél, a ki bolond."
+        },
+        {
+          "number": 2,
+          "text": "A lélek sem jó tudomány nélkül; és a ki csak a lábával siet, hibázik."
+        },
+        {
+          "number": 3,
+          "text": "Az embernek bolondsága fordítja el az ő útát, és az Úr ellen haragszik az ő szíve."
+        },
+        {
+          "number": 4,
+          "text": "A gazdagság szaporítja a sok barátot; a szegénytől pedig az ő barátja elválik."
+        },
+        {
+          "number": 5,
+          "text": "A hamis tanú büntetetlen nem marad, és a hazugságoknak szólója meg nem szabadul."
+        },
+        {
+          "number": 6,
+          "text": "Sokan hizelegnek a nemeslelkű embernek, és minden barát az adakozóé."
+        },
+        {
+          "number": 7,
+          "text": "A szegényt minden atyjafia gyűlöli, még barátai is eltávolodnak tőle; unszolja szavakkal, de ők eltünnek."
+        },
+        {
+          "number": 8,
+          "text": "A ki értelmet szerez, szereti az életét, a ki megőrzi az értelmességet, jót nyer."
+        },
+        {
+          "number": 9,
+          "text": "A hamis bizonyság nem marad büntetlen, és a ki hazugságokat beszél, elvész."
+        },
+        {
+          "number": 10,
+          "text": "Nem illik a bolondhoz a gyönyörködés; sokkal inkább nem illik a szolgának uralkodni a fejedelmeken."
+        },
+        {
+          "number": 11,
+          "text": "Az embernek értelme hosszútűrővé teszi őt; és ékességére van néki elhallgatni a vétket."
+        },
+        {
+          "number": 12,
+          "text": "Mint az ifjú oroszlánnak ordítása, olyan a királynak haragja; mint a harmat pedig a füvön, az ő jóakaratja."
+        },
+        {
+          "number": 13,
+          "text": "Romlása az ő atyjának a bolond fiú, és mint a szüntelen csepegés, az asszonynak zsémbelődése."
+        },
+        {
+          "number": 14,
+          "text": "A ház és marha atyától való örökség; az Úrtól van pedig az értelmes feleség."
+        },
+        {
+          "number": 15,
+          "text": "A restség álomba merít, és a lomha lélek megéhezik."
+        },
+        {
+          "number": 16,
+          "text": "A ki megtartja a parancsolatot, megtartja ő magát; a ki nem vigyáz útaira, meghal."
+        },
+        {
+          "number": 17,
+          "text": "Kölcsön ád az Úrnak, a ki kegyelmes a szegényhez; és az ő jótéteményét megfizeti néki."
+        },
+        {
+          "number": 18,
+          "text": "Fenyítsd meg a te fiadat, mert még van remény felőle; de annyira, hogy őt megöld, ne vigyen haragod."
+        },
+        {
+          "number": 19,
+          "text": "A nagy haragú ember büntetést szenvedjen, mert ha menteni akarod, még növeled haragját."
+        },
+        {
+          "number": 20,
+          "text": "Engedj a tanácsnak, és vedd be az erkölcsi oktatást; hogy bölcs légy végre."
+        },
+        {
+          "number": 21,
+          "text": "Sok gondolat van az ember elméjében; de csak az Úrnak tanácsa áll meg."
+        },
+        {
+          "number": 22,
+          "text": "A mit leginkább kell embernek kivánni, az irgalmasság az, és jobb a szegény a hazug férfiúnál."
+        },
+        {
+          "number": 23,
+          "text": "Az Úrnak félelme életre visz; és az ilyen megelégedve tölti az éjet, gonoszszal nem illettetik."
+        },
+        {
+          "number": 24,
+          "text": "Bemártja a rest az ő kezét a tálba, de már a szájához nem viszi vissza."
+        },
+        {
+          "number": 25,
+          "text": "Ha a csúfolót megvered, az együgyű lesz okosabb; és ha megdorgálod az eszest, megérti a tudományt."
+        },
+        {
+          "number": 26,
+          "text": "A ki atyjával erőszakoskodik, anyját elűzi: gyalázatos és megszégyenítő fiú az."
+        },
+        {
+          "number": 27,
+          "text": "Szünjél meg, fiam, hallgatni az olyan tanítást, mely téged arra visz, hogy a bölcseségnek igéjétől eltévedj."
+        },
+        {
+          "number": 28,
+          "text": "A semmirevaló bizonyság csúfolja a törvényt; az istentelenek szája elnyeli a gonoszságot."
+        },
+        {
+          "number": 29,
+          "text": "A csúfolóknak készíttettek a büntetések, és az ütések a bolondok hátának."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A bor csúfoló, a részegítő ital háborgó, és valaki abba beletéved, nem bölcs!"
+        },
+        {
+          "number": 2,
+          "text": "Mint a fiatal oroszlán ordítása, olyan a királynak rettentése; a ki azt haragra ingerli, vétkezik a maga élete ellen."
+        },
+        {
+          "number": 3,
+          "text": "Tisztesség az embernek elmaradni a versengéstől; valaki pedig bolond, patvarkodik."
+        },
+        {
+          "number": 4,
+          "text": "A hideg miatt nem szánt a rest; aratni akar majd, de nincs mit."
+        },
+        {
+          "number": 5,
+          "text": "Mély víz a férfiúnak elméjében a tanács; mindazáltal a bölcs ember kimeríti azt."
+        },
+        {
+          "number": 6,
+          "text": "A legtöbb ember talál valakit, a ki jó hozzá; de hű embert, azt ki találhat?"
+        },
+        {
+          "number": 7,
+          "text": "A ki az ő tökéletességében jár, igaz ember; boldogok az ő fiai ő utána!"
+        },
+        {
+          "number": 8,
+          "text": "A király, ha az ő ítélőszékiben ül, tekintetével minden gonoszt eltávoztat."
+        },
+        {
+          "number": 9,
+          "text": "Ki mondhatná azt: megtisztítottam szívemet, tiszta vagyok az én bűnömtől?"
+        },
+        {
+          "number": 10,
+          "text": "A kétféle font és a kétféle mérték, útálatos az Úrnál egyaránt mind a kettő."
+        },
+        {
+          "number": 11,
+          "text": "Az ő cselekedetiből ismerteti meg magát még a gyermek is, ha tiszta-é, és ha igaz-é az ő cselekedete."
+        },
+        {
+          "number": 12,
+          "text": "A halló fület és a látó szemet, az Úr teremtette egyaránt mindkettőt."
+        },
+        {
+          "number": 13,
+          "text": "Ne szeresd az álmot, hogy ne légy szegény; nyisd fel a te szemeidet, és megelégszel kenyérrel."
+        },
+        {
+          "number": 14,
+          "text": "Hitvány, hitvány, azt mondja a vevő; de mikor elmegy, akkor dicsekedik."
+        },
+        {
+          "number": 15,
+          "text": "Van arany és drágagyöngyök sokasága; de drága szer a tudománynyal teljes ajak."
+        },
+        {
+          "number": 16,
+          "text": "Vedd el ruháját, mert kezes lett másért, és az idegenért vedd el zálogát."
+        },
+        {
+          "number": 17,
+          "text": "Gyönyörűséges az embernek az álnokságnak kenyere; de annakutána betelik az ő szája kavicsokkal."
+        },
+        {
+          "number": 18,
+          "text": "A gondolatok tanácskozással erősek; és bölcs vezetéssel folytass hadakozást."
+        },
+        {
+          "number": 19,
+          "text": "Megjelenti a titkot, a ki rágalmazó; tehát a ki fecsegő szájú, azzal ne barátkozzál."
+        },
+        {
+          "number": 20,
+          "text": "A ki az ő atyját vagy anyját megátkozza, annak kialszik szövétneke a legnagyobb setétségben."
+        },
+        {
+          "number": 21,
+          "text": "A mely örökséget először siettetnek, annak vége meg nem áldatik."
+        },
+        {
+          "number": 22,
+          "text": "Ne mondd: bosszút állok rajta! Várjad az Urat, és megszabadít téged!"
+        },
+        {
+          "number": 23,
+          "text": "Útálatos az Úrnál a kétféle súly; és a hamis fontok nem jó dolgok."
+        },
+        {
+          "number": 24,
+          "text": "Az Úrtól vannak a férfi lépései; az ember pedig mit ért az ő útában?"
+        },
+        {
+          "number": 25,
+          "text": "Tőr az embernek meggondolatlanul mondani: szent, és a fogadástétel után megfontolni."
+        },
+        {
+          "number": 26,
+          "text": "Szétszórja a gonoszokat a bölcs király, és fordít reájok kereket."
+        },
+        {
+          "number": 27,
+          "text": "Az Úrtól való szövétnek az embernek lelke, a ki megvizsgálja a szívnek minden rejtekét."
+        },
+        {
+          "number": 28,
+          "text": "A kegyelmesség és az igazság megőrzik a királyt, megerősíti irgalmasság által az ő székét."
+        },
+        {
+          "number": 29,
+          "text": "Az ifjaknak ékessége az ő erejök; és a véneknek dísze az ősz haj."
+        },
+        {
+          "number": 30,
+          "text": "A kékek és a sebek távoztatják el a gonoszt, és a belső részekig ható csapások."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mint a vizeknek folyásai, olyan a királynak szíve az Úrnak kezében, valahová akarja, oda hajtja azt!"
+        },
+        {
+          "number": 2,
+          "text": "Az embernek minden úta igaz a maga szemei előtt; de a szívek vizsgálója az Úr."
+        },
+        {
+          "number": 3,
+          "text": "Az igazságnak és igaz ítéletnek gyakorlását inkább szereti az Úr az áldozatnál."
+        },
+        {
+          "number": 4,
+          "text": "A szemnek fenhéjázása és az elmének kevélysége: az istentelenek szántása, bűn."
+        },
+        {
+          "number": 5,
+          "text": "A szorgalmatosnak igyekezete csak gyarapodásra van; valaki pedig hirtelenkedik, csak szükségre jut."
+        },
+        {
+          "number": 6,
+          "text": "A hamisságnak nyelvével gyűjtött kincs elveszett hiábavalósága azoknak, a kik a halált keresik."
+        },
+        {
+          "number": 7,
+          "text": "Az istentelenek pusztítása magával ragadja őket; mert nem akartak igazságot cselekedni."
+        },
+        {
+          "number": 8,
+          "text": "Tekervényes a bűnös embernek úta; a tisztának cselekedete pedig igaz."
+        },
+        {
+          "number": 9,
+          "text": "Jobb a tető ormán lakni, mint háborgó asszonynyal, és közös házban."
+        },
+        {
+          "number": 10,
+          "text": "Az istentelennek lelke kiván gonoszt; és az ő szeme előtt nem talál könyörületre az ő felebarátja."
+        },
+        {
+          "number": 11,
+          "text": "Mikor a csúfolót büntetik, az együgyű lesz bölcs; mikor pedig a bölcset oktatják, ő veszi eszébe a tudományt."
+        },
+        {
+          "number": 12,
+          "text": "Nézi az igaz az istentelennek házát, hogy milyen veszedelembe jutottak az istentelenek."
+        },
+        {
+          "number": 13,
+          "text": "A ki bedugja fülét a szegény kiáltására; ő is kiált, de meg nem hallgattatik."
+        },
+        {
+          "number": 14,
+          "text": "A titkon adott ajándék elfordítja a haragot; és a kebelben való ajándék a kemény búsulást."
+        },
+        {
+          "number": 15,
+          "text": "Vígasság az igaznak igazat cselekedni; de ijedelem a hamisság cselekedőinek."
+        },
+        {
+          "number": 16,
+          "text": "Az ember, a ki eltévelyedik az értelemnek útáról, az élet nélkül valók gyülekezetiben nyugszik."
+        },
+        {
+          "number": 17,
+          "text": "Szűkölködő ember lesz, a ki szereti az örömet; a ki szereti a bort és az olajat, nem lesz gazdag!"
+        },
+        {
+          "number": 18,
+          "text": "Az igazért váltságdíj az istentelen, és az igazak helyett a hitetlen büntettetik meg."
+        },
+        {
+          "number": 19,
+          "text": "Jobb lakozni a pusztának földén, mint a feddődő és haragos asszonynyal."
+        },
+        {
+          "number": 20,
+          "text": "Kivánatos kincs és kenet van a bölcsnek házában; a bolond ember pedig eltékozolja azt."
+        },
+        {
+          "number": 21,
+          "text": "A ki követi az igazságot és az irgalmasságot, nyer életet, igazságot és tisztességet."
+        },
+        {
+          "number": 22,
+          "text": "A hősök városába felmegy a bölcs, és lerontja az ő bizodalmoknak erejét."
+        },
+        {
+          "number": 23,
+          "text": "A ki megőrzi száját és nyelvét, megtartja életét a nyomorúságtól."
+        },
+        {
+          "number": 24,
+          "text": "A kevély dölyfösnek csúfoló a neve, a ki haragjában kevélységet cselekszik."
+        },
+        {
+          "number": 25,
+          "text": "A restnek kivánsága megemészti őt; mert az ő kezei nem akarnak dolgozni."
+        },
+        {
+          "number": 26,
+          "text": "Egész nap kivánságtól gyötretik; az igaz pedig ád, és nem tartóztatja meg adományát."
+        },
+        {
+          "number": 27,
+          "text": "Az istentelenek áldozatja útálatos; kivált mikor gonosz tettért viszi."
+        },
+        {
+          "number": 28,
+          "text": "A hazug bizonyság elvész; a ki pedig jól figyelmez, örökké szól."
+        },
+        {
+          "number": 29,
+          "text": "Megkeményíti az istentelen ember az ő orczáját; az igaz pedig jól rendeli az ő útát."
+        },
+        {
+          "number": 30,
+          "text": "Nincs bölcseség, és nincs értelem, és nincs tanács az Úr ellen."
+        },
+        {
+          "number": 31,
+          "text": "Készen áll a ló az ütközetnek napjára; de az Úré a megtartás!"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kivánatosb a jó hírnév nagy gazdagságnál; ezüstnél és aranynál a kedvesség jobb."
+        },
+        {
+          "number": 2,
+          "text": "A gazdag és szegény összetalálkoznak, mindkettőt pedig az Úr szerzi."
+        },
+        {
+          "number": 3,
+          "text": "Az eszes meglátja a bajt és elrejti magát; a bolondok pedig neki mennek és kárát vallják."
+        },
+        {
+          "number": 4,
+          "text": "Az alázatosságnak bére az Úr félelme, gazdagság és tisztesség és élet."
+        },
+        {
+          "number": 5,
+          "text": "Tövisek és tőrök vannak a gonosznak útában; a ki megőrzi a maga lelkét, távol jár azoktól."
+        },
+        {
+          "number": 6,
+          "text": "Tanítsd a gyermeket az ő útjának módja szerint; még mikor megvénhedik is, el nem távozik attól."
+        },
+        {
+          "number": 7,
+          "text": "A gazdag a szegényeken uralkodik, és szolgája a kölcsönvevő a kölcsönadónak."
+        },
+        {
+          "number": 8,
+          "text": "A ki vet álnokságot, arat nyomorúságot; és az ő haragjának vesszeje megtöretik."
+        },
+        {
+          "number": 9,
+          "text": "Az irgalmas szemű ember megáldatik, mert adott az ő kenyeréből a szegénynek."
+        },
+        {
+          "number": 10,
+          "text": "Űzd el a csúfolót, és elmegy a háborgás is, és megszünik a patvarkodás és a szidalmazás."
+        },
+        {
+          "number": 11,
+          "text": "A ki szereti a szívnek tisztaságát, beszéde kedvesség: annak barátja a király."
+        },
+        {
+          "number": 12,
+          "text": "Az Úrnak szemei megőrzik a tudományt; a hitetlennek beszédét pedig felforgatja."
+        },
+        {
+          "number": 13,
+          "text": "A rest azt mondja: oroszlán van ottkin, az utczák közepén megölettetném."
+        },
+        {
+          "number": 14,
+          "text": "Mély verem az idegen asszonyoknak szája; a kire haragszik az Úr, oda esik."
+        },
+        {
+          "number": 15,
+          "text": "A gyermek elméjéhez köttetett a bolondság; de a fenyítés vesszeje messze elűzi ő tőle azt."
+        },
+        {
+          "number": 16,
+          "text": "A ki elnyomja a szegényt, hogy szaporítsa az ő marháját; a ki ád a gazdagnak: végre szűkölködésre jut."
+        },
+        {
+          "number": 17,
+          "text": "Hajtsd füledet, és hallgasd a bölcseknek beszédeit; és a te elmédet figyelmeztesd az én tudományomra."
+        },
+        {
+          "number": 18,
+          "text": "Mert gyönyörűséges lesz, ha megtartod azokat szívedben; legyenek együtt állandók a te ajkaidon!"
+        },
+        {
+          "number": 19,
+          "text": "Hogy az Úrban legyen a te bizodalmad, arra tanítottalak ma téged, igen, téged."
+        },
+        {
+          "number": 20,
+          "text": "Nem írtam-é néked drága szép tanulságokat, tanácsokban és tudományban?"
+        },
+        {
+          "number": 21,
+          "text": "Hogy tudtodra adjam néked az igazság beszédinek bizonyos voltát: hogy igaz beszédet vígy válaszul elküldőidnek."
+        },
+        {
+          "number": 22,
+          "text": "Ne rabold ki a szegényt, mert szegény ő; és meg ne rontsd a nyomorultat a kapuban;"
+        },
+        {
+          "number": 23,
+          "text": "Mert az Úr forgatja azoknak ügyét, és az ő kirablóik életét elragadja."
+        },
+        {
+          "number": 24,
+          "text": "Ne tarts barátságot a haragossal, és a dühösködővel ne menj;"
+        },
+        {
+          "number": 25,
+          "text": "Hogy el ne tanuld az ő útait, és tőrt ne keress tennen magadnak."
+        },
+        {
+          "number": 26,
+          "text": "Ne légy azok közt, a kik kézbe csapnak, a kik adósságért kezeskednek."
+        },
+        {
+          "number": 27,
+          "text": "Ha nincs néked miből megadnod; miért vegye el a te ágyadat te alólad?"
+        },
+        {
+          "number": 28,
+          "text": "Ne bontsd el a régi határt, melyet csináltak a te eleid."
+        },
+        {
+          "number": 29,
+          "text": "Láttál-é az ő dolgában szorgalmatos embert? A királyok előtt álland, nem marad meg az alsó rendűek között."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor leülsz enni az uralkodóval, szorgalmasan reá vigyázz, ki van előtted."
+        },
+        {
+          "number": 2,
+          "text": "És kést tégy a torkodra, ha mértékletlen vagy."
+        },
+        {
+          "number": 3,
+          "text": "Ne kivánd az ő csemegéit; mert ezek hazug étkek."
+        },
+        {
+          "number": 4,
+          "text": "Ne fáraszd magadat ebben, hogy meggazdagulj; ez ilyen testi eszességedtől szünjél meg."
+        },
+        {
+          "number": 5,
+          "text": "Avagy a te szemeidet veted-é arra? holott az semmi, mert olyan szárnyakat szerez magának nagy hamar, mint a saskeselyű, és az ég felé elrepül!"
+        },
+        {
+          "number": 6,
+          "text": "Ne egyél az irígy szeműnek étkéből, és ne kivánd az ő csemegéit;"
+        },
+        {
+          "number": 7,
+          "text": "Mert mint a ki számítgatja a falatot magában, olyan ő: egyél és igyál, azt mondja te néked; de azért nem jó akarattal van tehozzád."
+        },
+        {
+          "number": 8,
+          "text": "A te falatodat, a melyet megettél, kihányod; és a te ékes beszédidet csak hiába vesztegeted."
+        },
+        {
+          "number": 9,
+          "text": "A bolondnak hallására ne szólj; mert megútálja a te beszédidnek bölcseségét."
+        },
+        {
+          "number": 10,
+          "text": "Ne mozdítsd meg a régi határt, és az árváknak mezeibe ne kapj;"
+        },
+        {
+          "number": 11,
+          "text": "Mert az ő megváltójuk erős, az forgatja az ő ügyöket ellened!"
+        },
+        {
+          "number": 12,
+          "text": "Add a te elmédet az erkölcsi tanításra, és a te füleidet a bölcs beszédekre."
+        },
+        {
+          "number": 13,
+          "text": "Ne vond el a gyermektől a fenyítéket; ha megvered őt vesszővel, meg nem hal."
+        },
+        {
+          "number": 14,
+          "text": "Te vesszővel vered meg őt: és az ő lelkét a pokolból ragadod ki."
+        },
+        {
+          "number": 15,
+          "text": "Szerelmes fiam, ha bölcs lesz a te elméd, örvendez a lelkem nékem is."
+        },
+        {
+          "number": 16,
+          "text": "És vígadoznak az én veséim, a te ajkaidnak igazmondásán."
+        },
+        {
+          "number": 17,
+          "text": "Ne irígykedjék a te szíved a bűnösökre; hanem az Úr félelmében légy egész napon;"
+        },
+        {
+          "number": 18,
+          "text": "Mert ennek bizonyos vége van; a te várakozásod meg nem csalatkozik."
+        },
+        {
+          "number": 19,
+          "text": "Hallgass te, fiam, engem, hogy légy bölcs, és jártasd ez úton szívedet."
+        },
+        {
+          "number": 20,
+          "text": "Ne légy azok közül való, a kik borral dőzsölnek; azok közül, a kik hússal dobzódnak."
+        },
+        {
+          "number": 21,
+          "text": "Mert a részeges és dobzódó szegény lesz, és rongyokba öltöztet az aluvás."
+        },
+        {
+          "number": 22,
+          "text": "Hallgasd a te atyádat, a ki nemzett téged; és meg ne útáld a te anyádat, mikor megvénhedik."
+        },
+        {
+          "number": 23,
+          "text": "Szerezz igazságot, és el ne adj; bölcseséget és erkölcsöt és eszességet."
+        },
+        {
+          "number": 24,
+          "text": "Igen örül az igaznak atyja, és a bölcsnek szülője annak vígadoz."
+        },
+        {
+          "number": 25,
+          "text": "Vígadjon a te atyád és a te anyád, és örvendezzen a te szülőd."
+        },
+        {
+          "number": 26,
+          "text": "Adjad, fiam, a te szívedet nékem, és a te szemeid az én útaimat megőrizzék."
+        },
+        {
+          "number": 27,
+          "text": "Mert mély verem a tisztátalan asszony, és szoros kút az idegen asszony."
+        },
+        {
+          "number": 28,
+          "text": "És az, mint a tolvaj leselkedik, és az emberek közt a hitetleneket szaporítja."
+        },
+        {
+          "number": 29,
+          "text": "Kinek jaj? kinek oh jaj? kinek versengések? kinek panasz? kinek ok nélkül való sebek? kinek szemeknek veressége?"
+        },
+        {
+          "number": 30,
+          "text": "A bornál mulatóknak, a kik mennek a jó bor kutatására."
+        },
+        {
+          "number": 31,
+          "text": "Ne nézd a bort, mily veres színt játszik, mint mutatja a pohárban az ő csillogását; könnyen alá csuszamlik,"
+        },
+        {
+          "number": 32,
+          "text": "Végre, mint a kígyó, megmar, és mint a mérges kígyó, megcsíp."
+        },
+        {
+          "number": 33,
+          "text": "A te szemeid nézik az idegen asszonyt, és a te elméd gondol gonoszságot."
+        },
+        {
+          "number": 34,
+          "text": "És olyan leszel, mint a ki fekszik a tenger közepiben, és a ki fekszik az árbóczfának tetején."
+        },
+        {
+          "number": 35,
+          "text": "Ütöttek engem, nékem nem fájt; vertek, nem éreztem! Mikor ébredek fel? Akkor folytatom, ismét megkeresem azt."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ne irígykedjél a gonosztevőkre, se ne kivánj azokkal lenni."
+        },
+        {
+          "number": 2,
+          "text": "Mert pusztítást gondol az ő szívök, és bajt szólnak az ő ajkaik."
+        },
+        {
+          "number": 3,
+          "text": "Bölcseség által építtetik a ház, és értelemmel erősíttetik meg."
+        },
+        {
+          "number": 4,
+          "text": "És tudomány által telnek meg a kamarák minden drága és gyönyörűséges marhával."
+        },
+        {
+          "number": 5,
+          "text": "A bölcs férfiú erős, és a tudós ember nagy erejű."
+        },
+        {
+          "number": 6,
+          "text": "Mert az eszes tanácsokkal viselhetsz hadat hasznodra; és a megmaradás a tanácsosok sokasága által van."
+        },
+        {
+          "number": 7,
+          "text": "Magas a bolondnak a bölcseség; a kapuban nem nyitja meg az ő száját."
+        },
+        {
+          "number": 8,
+          "text": "A ki azon gondolkodik, hogy gonoszt cselekedjék, azt cselszövőnek hívják."
+        },
+        {
+          "number": 9,
+          "text": "A balgatag dolognak gondolása bűn; és a rágalmazó az ember előtt útálatos."
+        },
+        {
+          "number": 10,
+          "text": "Ha lágyan viselted magadat a nyomorúságnak idején: szűk a te erőd."
+        },
+        {
+          "number": 11,
+          "text": "Szabadítsd meg azokat, a kik a halálra vitetnek, és a kik a megöletésre tántorognak, tartóztasd meg!"
+        },
+        {
+          "number": 12,
+          "text": "Ha azt mondanád: ímé, nem tudtuk ezt; nemde, a ki vizsgálja az elméket, ő érti, és a ki őrzi a te lelkedet, ő tudja? és kinek-kinek az ő cselekedetei szerint fizet."
+        },
+        {
+          "number": 13,
+          "text": "Egyél, fiam, mézet, mert jó; és a színméz édes a te ínyednek."
+        },
+        {
+          "number": 14,
+          "text": "Ilyennek ismerd a bölcseséget a te lelkedre nézve: ha azt megtalálod, akkor lesz jó véged, és a te reménységed el nem vész!"
+        },
+        {
+          "number": 15,
+          "text": "Ne leselkedjél, oh te istentelen, az igaznak háza ellen, ne pusztítsd el az ő ágyasházát!"
+        },
+        {
+          "number": 16,
+          "text": "Mert ha hétszer elesik is az igaz, ugyan felkél azért; az istentelenek pedig csak egy nyavalyával is elvesznek."
+        },
+        {
+          "number": 17,
+          "text": "Mikor elesik a te ellenséged: ne örülj; és mikor megütközik: ne vígadjon a te szíved,"
+        },
+        {
+          "number": 18,
+          "text": "Hogy az Úr meg ne lássa és gonosz ne legyen szemeiben, és el ne fordítsa arról az ő haragját te reád."
+        },
+        {
+          "number": 19,
+          "text": "Ne gerjedj haragra a gonosztevők ellen, ne irígykedjél az istentelenekre;"
+        },
+        {
+          "number": 20,
+          "text": "Mert a gonosznak nem lesz jó vége, az istentelenek szövétneke kialszik."
+        },
+        {
+          "number": 21,
+          "text": "Féld az Urat, fiam, és a királyt; a pártütők közé ne elegyedjél."
+        },
+        {
+          "number": 22,
+          "text": "Mert hirtelenséggel feltámad az ő nyomorúságok, és e két rendbeliek büntetését ki tudja?"
+        },
+        {
+          "number": 23,
+          "text": "Ezek is a bölcsek szavai. Személyt válogatni az ítéletben nem jó."
+        },
+        {
+          "number": 24,
+          "text": "A ki azt mondja az istentelennek: igaz vagy, ezt megátkozzák a népek, megútálják a nemzetek."
+        },
+        {
+          "number": 25,
+          "text": "A kik pedig megfeddik a bűnöst, azoknak gyönyörűségökre lesz, és jó áldás száll reájok!"
+        },
+        {
+          "number": 26,
+          "text": "Ajkakat csókolgat az, a ki igaz beszédeket felel."
+        },
+        {
+          "number": 27,
+          "text": "Szerezd el kivül a te dolgodat, és készíts elő a te meződben; annakutána építsd a házadat."
+        },
+        {
+          "number": 28,
+          "text": "Ne légy bizonyság ok nélkül a te felebarátod ellen; avagy ámítanál-é valakit a te ajkaiddal?"
+        },
+        {
+          "number": 29,
+          "text": "Ne mondd ezt: a miképen cselekedett én velem, úgy cselekszem ő vele; megfizetek az embernek az ő cselekedete szerint."
+        },
+        {
+          "number": 30,
+          "text": "A rest embernek mezejénél elmenék, és az esztelennek szőleje mellett."
+        },
+        {
+          "number": 31,
+          "text": "És ímé, mindenütt felverte a tövis, és színét elfedte a gyom; és kőgyepüje elromlott vala."
+        },
+        {
+          "number": 32,
+          "text": "Melyet én látván gondolkodám, és nézvén, ezt a tanulságot vevém abból:"
+        },
+        {
+          "number": 33,
+          "text": "Egy kis álom, egy kis szunynyadás, egy kis kézösszetevés az alvásra,"
+        },
+        {
+          "number": 34,
+          "text": "És így jő el, mint az útonjáró, a te szegénységed, és a te szükséged, mint a paizsos férfiú."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Még ezek is Salamon példabeszédei, melyeket összeszedegettek Ezékiásnak, a Júda királyának emberei."
+        },
+        {
+          "number": 2,
+          "text": "Az Istennek tisztességére van a dolgot eltitkolni; a királyoknak pedig tisztességére van a dolgot kikutatni."
+        },
+        {
+          "number": 3,
+          "text": "Az ég magasságra, a föld mélységre, és a királyoknak szíve kikutathatatlan."
+        },
+        {
+          "number": 4,
+          "text": "Távolítsd el az ezüstből a salakot, és abból edény lesz az ötvösnek:"
+        },
+        {
+          "number": 5,
+          "text": "Távolítsd el a bűnöst a király elől, és megerősíttetik igazsággal az ő széke."
+        },
+        {
+          "number": 6,
+          "text": "Ne dicsekedjél a király előtt, és a nagyok helyére ne állj;"
+        },
+        {
+          "number": 7,
+          "text": "Mert jobb, ha azt mondják néked: jer ide fel; hogynem mint levettetned néked a tisztességes előtt, a kit láttak a te szemeid."
+        },
+        {
+          "number": 8,
+          "text": "Ne indulj fel a versengésre hirtelen, hogy azt ne kelljen kérdened, mit cselekedjél az után, mikor gyalázattal illet téged a te felebarátod."
+        },
+        {
+          "number": 9,
+          "text": "A te ügyedet végezd el felebarátoddal; de másnak titkát meg ne jelentsd;"
+        },
+        {
+          "number": 10,
+          "text": "Hogy ne gyalázzon téged, a ki hallja; és a te gyalázatod el ne távozzék."
+        },
+        {
+          "number": 11,
+          "text": "Mint az arany alma ezüst tányéron: olyan a helyén mondott ige!"
+        },
+        {
+          "number": 12,
+          "text": "Mint az arany függő és színarany ékesség: olyan a bölcs intő a szófogadó fülnél."
+        },
+        {
+          "number": 13,
+          "text": "Mint a havas hideg az aratásnak idején: olyan a hív követ azoknak, a kik őt elbocsátják; mert az ő urainak lelkét megvidámítja."
+        },
+        {
+          "number": 14,
+          "text": "Mint a felhő és szél, melyekben nincs eső: olyan a férfiú, a ki kérkedik hamis ajándékkal."
+        },
+        {
+          "number": 15,
+          "text": "Tűrés által engeszteltetik meg a fejedelem, és a szelíd beszéd megtöri a csontot."
+        },
+        {
+          "number": 16,
+          "text": "Ha mézet találsz, egyél a mennyi elég néked; de sokat ne egyél, hogy ki ne hányd azt."
+        },
+        {
+          "number": 17,
+          "text": "Ritkán tedd lábadat a te felebarátodnak házába; hogy be ne teljesedjék te veled, és meg ne gyűlöljön téged."
+        },
+        {
+          "number": 18,
+          "text": "Pőröly és kard és éles nyíl az olyan ember, a ki hamis bizonyságot szól felebarátja ellen."
+        },
+        {
+          "number": 19,
+          "text": "Mint a romlott fog és kimarjult láb: olyan a hitetlennek bizodalma a nyomorúság idején."
+        },
+        {
+          "number": 20,
+          "text": "Mint a ki leveti ruháját a hidegnek idején, mint az eczet a sziksón: olyan, a ki éneket mond a bánatos szívű ember előtt."
+        },
+        {
+          "number": 21,
+          "text": "Ha éhezik, a ki téged gyűlöl: adj enni néki kenyeret; és ha szomjúhozik: adj néki inni vizet;"
+        },
+        {
+          "number": 22,
+          "text": "Mert elevenszenet gyűjtesz az ő fejére, és az Úr megfizeti néked."
+        },
+        {
+          "number": 23,
+          "text": "Az északi szél esőt szül; és haragos ábrázatot a suttogó nyelv."
+        },
+        {
+          "number": 24,
+          "text": "Jobb lakni a tetőnek ormán, mint a háborgó asszonynyal, és közös házban."
+        },
+        {
+          "number": 25,
+          "text": "Mint a hideg víz a megfáradt embernek, olyan a messze földről való jó hírhallás."
+        },
+        {
+          "number": 26,
+          "text": "Mint a megháborított forrás és megromlott kútfő, olyan az igaz, a ki a gonosz előtt ingadozik."
+        },
+        {
+          "number": 27,
+          "text": "Igen sok mézet enni nem jó; hát a magunk dicsőségét keresni dicsőség?"
+        },
+        {
+          "number": 28,
+          "text": "Mint a megromlott és kerítés nélkül való város, olyan a férfi, a kinek nincsen birodalma az ő lelkén!"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mint a hó a nyárhoz és az eső az aratáshoz, úgy nem illik a bolondhoz a tisztesség."
+        },
+        {
+          "number": 2,
+          "text": "Miképen a madár elmegy és a fecske elrepül, azonképen az ok nélkül való átok nem száll az emberre."
+        },
+        {
+          "number": 3,
+          "text": "Ostor a lónak, fék a szamárnak; és vessző a bolondok hátának."
+        },
+        {
+          "number": 4,
+          "text": "Ne felelj meg a bolondnak az ő bolondsága szerint, hogy ne légy te is ő hozzá hasonlatos;"
+        },
+        {
+          "number": 5,
+          "text": "Felelj meg a bolondnak az ő bolondsága szerint, hogy ne legyen bölcs a maga szemei előtt."
+        },
+        {
+          "number": 6,
+          "text": "A ki bolond által izen valamit, lábait vagdalja el magának, és bosszúságot szenved."
+        },
+        {
+          "number": 7,
+          "text": "Mint a sántának lábai lógnak, úgy a bölcsmondás a bolondoknak szájában."
+        },
+        {
+          "number": 8,
+          "text": "Mint a ki követ köt a parittyába, úgy cselekszik, a ki a bolondnak tisztességet tesz."
+        },
+        {
+          "number": 9,
+          "text": "Mint a részeg ember kezébe akad a tövis, úgy akad az eszes mondás a bolondoknak szájába."
+        },
+        {
+          "number": 10,
+          "text": "Mint a lövöldöző, a ki mindent megsebez, olyan az, a ki bolondot fogad fel, és a ki csavargókat fogad fel."
+        },
+        {
+          "number": 11,
+          "text": "Mint az eb megtér a maga okádására, úgy a bolond megkettőzteti az ő bolondságát."
+        },
+        {
+          "number": 12,
+          "text": "Láttál-é oly embert, a ki a maga szemei előtt bölcs? A bolond felől jobb reménységed legyen, hogynem mint a felől!"
+        },
+        {
+          "number": 13,
+          "text": "Azt mondja a rest: ordító oroszlán van az úton! oroszlán van az utczákon!"
+        },
+        {
+          "number": 14,
+          "text": "Mint az ajtó forog az ő sarkán, úgy a rest az ő ágyában."
+        },
+        {
+          "number": 15,
+          "text": "Ha a rest az ő kezét a tálba nyujtotta, resteli azt csak szájához is vinni."
+        },
+        {
+          "number": 16,
+          "text": "Bölcsebb a rest a maga szemei előtt, mint hét olyan, a ki okos feleletet ád."
+        },
+        {
+          "number": 17,
+          "text": "Kóbor ebet ragad fülön, a ki felháborodik a perpatvaron, a mely őt nem illeti."
+        },
+        {
+          "number": 18,
+          "text": "Mint a balga, a ki tüzet, nyilakat és halálos szerszámokat lövöldöz,"
+        },
+        {
+          "number": 19,
+          "text": "Olyan az, a ki megcsalja az ő felebarátját, és azt mondja: csak tréfáltam!"
+        },
+        {
+          "number": 20,
+          "text": "Ha a fa elfogy, kialuszik a tűz; ha nincs súsárló, megszűnik a háborgás."
+        },
+        {
+          "number": 21,
+          "text": "Mint az elevenszénre a holtszén, és a fa a tűzre, olyan a háborúságszerző ember a patvarkodásnak felgyujtására."
+        },
+        {
+          "number": 22,
+          "text": "A fondorlónak beszédei hízelkedők, és azok áthatják a szív belsejét."
+        },
+        {
+          "number": 23,
+          "text": "Mint a meg nem tisztított ezüst, melylyel valami agyagedényt beborítottak, olyanok a gyulasztó ajkak a gonosz szív mellett."
+        },
+        {
+          "number": 24,
+          "text": "Az ő beszédeivel másnak tetteti magát a gyűlölő, holott az ő szívében gondol álnokságot."
+        },
+        {
+          "number": 25,
+          "text": "Mikor kedvesen szól, ne bízzál ő hozzá; mert hét iszonyatosság van szívében."
+        },
+        {
+          "number": 26,
+          "text": "Elfedeztethetik a gyűlölség csalással; de nyilvánvalóvá lesz az ő gonoszsága a gyülekezetben."
+        },
+        {
+          "number": 27,
+          "text": "A ki vermet ás másnak, abba belé esik; és a ki felhengeríti a követ, arra gurul vissza."
+        },
+        {
+          "number": 28,
+          "text": "A hazug nyelv gyűlöli az általa megrontott embert, és a hízelkedő száj romlást szerez."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ne dicsekedjél a holnapi nappal; mert nem tudod, mit hoz a nap tereád."
+        },
+        {
+          "number": 2,
+          "text": "Dicsérjen meg téged más, és ne a te szájad; az idegen, és ne a te ajkaid."
+        },
+        {
+          "number": 3,
+          "text": "Nehézség van a kőben, és teher a fövényben; de a bolondnak haragja nehezebb mind a kettőnél."
+        },
+        {
+          "number": 4,
+          "text": "A búsulásban kegyetlenség van, és a haragban áradás; de ki állhatna meg az irígység előtt?"
+        },
+        {
+          "number": 5,
+          "text": "Jobb a nyilvánvaló dorgálás a titkos szeretetnél."
+        },
+        {
+          "number": 6,
+          "text": "Jószándékból valók a barátságos embertől vett sebek; és temérdek a gyűlölőnek csókja."
+        },
+        {
+          "number": 7,
+          "text": "A jóllakott ember még a lépesmézet is megtapodja; de az éhes embernek minden keserű édes."
+        },
+        {
+          "number": 8,
+          "text": "Mint a madárka, ki elbujdosott fészkétől, olyan az ember, a ki elbujdosott az ő lakóhelyétől."
+        },
+        {
+          "number": 9,
+          "text": "Mint a kenet és jó illat megvídámítja a szívet: úgy az ő barátjának édes szavai is, melyek lelke tanácsából valók."
+        },
+        {
+          "number": 10,
+          "text": "A te barátodat, és a te atyádnak barátját el ne hagyd, és a te atyádfiának házába be ne menj nyomorúságodnak idején. Jobb a közel való szomszéd a messze való atyafinál."
+        },
+        {
+          "number": 11,
+          "text": "Légy bölcs fiam, és vídámítsd meg az én szívemet; hogy megfelelhessek annak, a ki engem ócsárol."
+        },
+        {
+          "number": 12,
+          "text": "Az eszes meglátja a bajt, elrejti magát; az esztelenek neki mennek, kárát vallják."
+        },
+        {
+          "number": 13,
+          "text": "Vedd el a ruháját, mert kezes lett másért, és az idegenért zálogold meg."
+        },
+        {
+          "number": 14,
+          "text": "A ki nagy hangon áldja az ő barátját, reggel jó idején felkelvén; átokul tulajdoníttatik néki."
+        },
+        {
+          "number": 15,
+          "text": "A sebes záporeső idején való szüntelen csepegés, és a morgó asszonyember hasonlók."
+        },
+        {
+          "number": 16,
+          "text": "Valaki el akarja azt rejteni, szelet rejt el, és az ő jobbja olajjal találkozik."
+        },
+        {
+          "number": 17,
+          "text": "Miképen egyik vassal a másikat élesítik, a képen az ember élesíti az ő barátjának orczáját."
+        },
+        {
+          "number": 18,
+          "text": "Mint a ki őrzi a fügét, eszik annak gyümölcséből, úgy a ki az ő urára vigyáz, tiszteltetik."
+        },
+        {
+          "number": 19,
+          "text": "Mint a vízben egyik orcza a másikat megmutatja, úgy egyik embernek szíve a másikat."
+        },
+        {
+          "number": 20,
+          "text": "Mint a sír és a pokol meg nem elégednek, úgy az embernek szemei meg nem elégednek."
+        },
+        {
+          "number": 21,
+          "text": "Mint az ezüst a tégelyben, és az arany a kemenczében próbáltatik meg, úgy az ember az ő híre-neve szerint."
+        },
+        {
+          "number": 22,
+          "text": "Ha megtörnéd is a bolondot mozsárban mozsártörővel a megtört gabona között, nem távoznék el ő tőle az ő bolondsága."
+        },
+        {
+          "number": 23,
+          "text": "Szorgalmasan megismerd a te juhaid külsejét, gondolj a nyájakra."
+        },
+        {
+          "number": 24,
+          "text": "Mert nem örökkévaló a gazdagság, és vajjon a korona nemzetségről nemzetségre lesz-é?"
+        },
+        {
+          "number": 25,
+          "text": "Mikor levágatott a szénafű, és megtetszett a sarjú, és begyűjtettek a hegyekről a fűvek:"
+        },
+        {
+          "number": 26,
+          "text": "Vannak juhaid a te ruházatodra, és kecskebakok mezőnek árául,"
+        },
+        {
+          "number": 27,
+          "text": "És elég kecsketej a te ételedre, a te házadnépének ételére, és szolgálóleányaidnak ételül."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Minden istentelen fut, ha senki nem üldözi is; az igazak pedig, mint az ifjú oroszlán, bátrak."
+        },
+        {
+          "number": 2,
+          "text": "Az ország bűne miatt sok annak a fejedelme; az eszes és tudós ember által pedig hosszabbodik fennállása."
+        },
+        {
+          "number": 3,
+          "text": "A szegény emberből támadott elnyomója a szegényeknek hasonló a pusztító esőhöz, mely nem hágy kenyeret."
+        },
+        {
+          "number": 4,
+          "text": "A kik elhagyják a törvényt, dicsérik a latrokat; de a kik megtartják a törvényt, harczolnak azokkal."
+        },
+        {
+          "number": 5,
+          "text": "A gonoszságban élő emberek nem értik meg az igazságot; a kik pedig keresik az Urat, mindent megértenek."
+        },
+        {
+          "number": 6,
+          "text": "Jobb a szegény, a ki jár tökéletesen, mint a kétfelé sántáló istentelen, a ki gazdag."
+        },
+        {
+          "number": 7,
+          "text": "A ki megőrzi a törvényt, eszes fiú az; a ki pedig társalkodik a dobzódókkal, gyalázattal illeti atyját."
+        },
+        {
+          "number": 8,
+          "text": "A ki öregbíti az ő marháját kamattal és uzsorával, annak gyűjt, a ki könyörül a szegényeken."
+        },
+        {
+          "number": 9,
+          "text": "Valaki elfordítja az ő fülét a törvénynek hallásától, annak könyörgése is útálatos."
+        },
+        {
+          "number": 10,
+          "text": "A ki elcsábítja az igazakat gonosz útra, vermébe maga esik bele; a tökéletesek pedig örökség szerint bírják a jót."
+        },
+        {
+          "number": 11,
+          "text": "Bölcs az ő maga szemei előtt a gazdag ember; de az eszes szegény megvizsgálja őt."
+        },
+        {
+          "number": 12,
+          "text": "Mikor örvendeznek az igazak, nagy ékesség az; mikor pedig az istentelenek feltámadnak, keresni kell az embert."
+        },
+        {
+          "number": 13,
+          "text": "A ki elfedezi az ő vétkeit, nem lesz jó dolga; a ki pedig megvallja és elhagyja, irgalmasságot nyer."
+        },
+        {
+          "number": 14,
+          "text": "Boldog ember, a ki szüntelen retteg; a ki pedig megkeményíti az ő szívét, bajba esik."
+        },
+        {
+          "number": 15,
+          "text": "Mint az ordító oroszlán és éhező medve, olyan a szegény népen uralkodó istentelen."
+        },
+        {
+          "number": 16,
+          "text": "Az értelemben szűkölködő fejedelem nagy elnyomó is; de a ki gyűlöli a hamis nyereséget, meghosszabbítja napjait."
+        },
+        {
+          "number": 17,
+          "text": "Az ember, a kit ember-vér terhel, a sírig fut; senki ne támogassa őt."
+        },
+        {
+          "number": 18,
+          "text": "A ki jár tökéletesen, megtartatik; a ki pedig álnokul két úton jár, egyszerre elesik."
+        },
+        {
+          "number": 19,
+          "text": "A ki munkálja az ő földét, megelégedik étellel; a ki pedig hiábavalóságok után futkos, megelégedik szegénységgel."
+        },
+        {
+          "number": 20,
+          "text": "A hivő ember bővelkedik áldásokkal; de a ki hirtelen akar gazdagulni, büntetlen nem marad."
+        },
+        {
+          "number": 21,
+          "text": "Személyt válogatni nem jó; mert még egy falat kenyérért is vétkezhetik az ember."
+        },
+        {
+          "number": 22,
+          "text": "Siet a marhakeresésre a gonosz szemű ember; és nem veszi észre, hogy szükség jő reá."
+        },
+        {
+          "number": 23,
+          "text": "A ki megfeddi az embert, végre is inkább kedvességet talál, mint a sima nyelvű."
+        },
+        {
+          "number": 24,
+          "text": "A ki megrabolja az atyját, és anyját és azt mondja: nem vétek! társa a romboló embernek."
+        },
+        {
+          "number": 25,
+          "text": "A telhetetlen lélek háborúságot szerez; a ki pedig bízik az Úrban, megerősödik."
+        },
+        {
+          "number": 26,
+          "text": "A ki bízik magában, bolond az; a ki pedig jár bölcsen, megszabadul."
+        },
+        {
+          "number": 27,
+          "text": "A ki ád a szegénynek, nem lesz néki szüksége; a ki pedig elrejti a szemét, megsokasulnak rajta az átkok."
+        },
+        {
+          "number": 28,
+          "text": "Mikor felemeltetnek az istentelenek, elrejti magát az ember; de mikor azok elvesznek, öregbülnek az igazak."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A ki a feddésekre is nyakas marad, egyszer csak összetörik, gyógyíthatatlanul."
+        },
+        {
+          "number": 2,
+          "text": "Mikor öregbülnek az igazak, örül a nép; mikor pedig uralkodik az istentelen, sóhajt a nép."
+        },
+        {
+          "number": 3,
+          "text": "A bölcseség-szerető ember megvidámítja az ő atyját; a ki pedig a paráznákhoz adja magát, elveszti a vagyont."
+        },
+        {
+          "number": 4,
+          "text": "A király igazsággal erősíti meg az országot; a ki pedig ajándékot vesz, elrontja azt."
+        },
+        {
+          "number": 5,
+          "text": "A férfiú, a ki hizelkedik barátjának, hálót vet annak lábai elé."
+        },
+        {
+          "number": 6,
+          "text": "A gonosz ember vétkében tőr van; az igaz pedig énekel és vígad."
+        },
+        {
+          "number": 7,
+          "text": "Megérti az igaz a szegényeknek ügyét; az istentelen pedig nem tudja megérteni."
+        },
+        {
+          "number": 8,
+          "text": "A csúfoló férfiak fellobbantják a várost; de a bölcsek elfordítják a haragot."
+        },
+        {
+          "number": 9,
+          "text": "Az eszes ember, ha vetekedik a bolonddal, akár felháborodik, akár nevet, nincs nyugodalom."
+        },
+        {
+          "number": 10,
+          "text": "A vérszomjasak gyűlölik a tökéletes embert; az igazak pedig oltalmazzák annak életét."
+        },
+        {
+          "number": 11,
+          "text": "Az ő egész indulatját előmutatja a bolond; de a bölcs végre megcsendesíti azt."
+        },
+        {
+          "number": 12,
+          "text": "A mely uralkodó a hamisságnak beszédire hallgat, annak minden szolgái latrok."
+        },
+        {
+          "number": 13,
+          "text": "A szegény és az uzsorás ember összetalálkoznak; mind a kettőnek pedig szemeit az Úr világosítja meg."
+        },
+        {
+          "number": 14,
+          "text": "A mely király hűségesen ítéli a szegényeket, annak széke mindörökké megáll."
+        },
+        {
+          "number": 15,
+          "text": "A vessző és dorgálás bölcseséget ád; de a szabadjára hagyott gyermek megszégyeníti az ő anyját."
+        },
+        {
+          "number": 16,
+          "text": "Mikor nevekednek az istentelenek, nevekedik a vétek; az igazak pedig azoknak esetét megérik."
+        },
+        {
+          "number": 17,
+          "text": "Fenyítsd meg a te fiadat, és nyugodalmat hoz néked, és szerez gyönyörűséget a te lelkednek."
+        },
+        {
+          "number": 18,
+          "text": "Mikor nincs mennyei látás, a nép elvadul; ha pedig megtartja a törvényt, oh mely igen boldog!"
+        },
+        {
+          "number": 19,
+          "text": "Csak beszéddel nem tanul meg a szolga, mert tudna, de még sem felel meg."
+        },
+        {
+          "number": 20,
+          "text": "Láttál-é beszédeiben hirtelenkedő embert? a bolond felől több reménység van, hogynem a felől!"
+        },
+        {
+          "number": 21,
+          "text": "A ki lágyan neveli gyermekségétől fogva az ő szolgáját, végre az lesz a fiú."
+        },
+        {
+          "number": 22,
+          "text": "A haragos háborgást szerez; és a dühösködőnek sok a vétke."
+        },
+        {
+          "number": 23,
+          "text": "Az embernek kevélysége megalázza őt; az alázatos pedig tisztességet nyer."
+        },
+        {
+          "number": 24,
+          "text": "A ki osztozik a lopóval, gyűlöli az magát; hallja az esküt, de nem vall."
+        },
+        {
+          "number": 25,
+          "text": "Az emberektől való félelem tőrt vet; de a ki bízik az Úrban, kiemeltetik."
+        },
+        {
+          "number": 26,
+          "text": "Sokan keresik a fejedelemnek orczáját; de az Úrtól van kinek-kinek ítélete."
+        },
+        {
+          "number": 27,
+          "text": "Iszonyat az igazaknak a hamis ember; és iszonyat az istentelennek az igaz úton járó."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Agurnak, a Jáké fiának beszédei, próféczia, melyet mondott a férfiú Itielnek, Itielnek és Ukálnak."
+        },
+        {
+          "number": 2,
+          "text": "Minden embernél tudatlanabb vagyok én, és nincs emberi értelem én bennem."
+        },
+        {
+          "number": 3,
+          "text": "És nem tanultam a bölcseséget, hogy a Szentnek ismeretét tudnám."
+        },
+        {
+          "number": 4,
+          "text": "Kicsoda ment fel az égbe, hogy onnan leszállott volna? Kicsoda fogta össze a szelet az ő markába? Kicsoda kötötte a vizet az ő köntösébe? Ki állapította meg a földnek minden határit? Kicsoda ennek neve? Avagy kicsoda ennek fiának neve, ha tudod?"
+        },
+        {
+          "number": 5,
+          "text": "Az Istennek teljes beszéde igen tiszta, és paizs az ahhoz folyamodóknak."
+        },
+        {
+          "number": 6,
+          "text": "Ne tégy az ő beszédéhez; hogy meg ne feddjen téged, és hazug ne légy."
+        },
+        {
+          "number": 7,
+          "text": "Kettőt kérek tőled; ne tartsd meg én tőlem, mielőtt meghalnék."
+        },
+        {
+          "number": 8,
+          "text": "A hiábavalóságot és a hazugságot messze távoztasd tőlem; szegénységet vagy gazdagságot ne adj nékem; táplálj engem hozzám illendő eledellel."
+        },
+        {
+          "number": 9,
+          "text": "Hogy megelégedvén, meg ne tagadjalak, és azt ne mondjam: kicsoda az Úr? Se pedig megszegényedvén, ne lopjak, és gonoszul ne éljek az én Istenem nevével!"
+        },
+        {
+          "number": 10,
+          "text": "Ne rágalmazd a szolgát az ő uránál, hogy meg ne átkozzon téged, és bűnhődnöd ne kelljen."
+        },
+        {
+          "number": 11,
+          "text": "Van oly nemzetség, a ki az ő atyját átkozza, és az ő anyját nem áldja."
+        },
+        {
+          "number": 12,
+          "text": "Van nemzetség, a ki a maga szemei előtt tiszta, pedig az ő rútságából ki nem tisztíttatott."
+        },
+        {
+          "number": 13,
+          "text": "Van kevély szemű nemzetség, és a kinek szemöldökei igen fellátnak!"
+        },
+        {
+          "number": 14,
+          "text": "Van olyan nemzetség, a kinek fogai fegyverek, és a kinek zápfogai kések; hogy a szegényeket kiemészszék e földről, és az emberek közül a szűkölködőket."
+        },
+        {
+          "number": 15,
+          "text": "A nadálynak két leánya van: addsza, addsza! E három nem elégszik meg; négyen nem mondják: elég;"
+        },
+        {
+          "number": 16,
+          "text": "A sír és a meddő asszony, a föld meg nem elégszik a vízzel, és a tűz nem mondja: elég!"
+        },
+        {
+          "number": 17,
+          "text": "A szemet, mely megcsúfolja atyját, vagy megútálja az anyja iránt való engedelmességet, kivágják a völgynek hollói, vagy megeszik a sasfiak."
+        },
+        {
+          "number": 18,
+          "text": "E három megfoghatatlan előttem, és e négy dolgot nem tudom:"
+        },
+        {
+          "number": 19,
+          "text": "A keselyűnek útát az égben, a kígyónak útát a kősziklán, a hajónak nyomát a mély tengerben, és a férfiúnak útát a leányzóval."
+        },
+        {
+          "number": 20,
+          "text": "Ilyen a paráználkodó asszonynak úta; eszik, azután megtörli száját és azt mondja: nem cselekedtem semmi gonoszt."
+        },
+        {
+          "number": 21,
+          "text": "Három dolog alatt indul meg a föld, és négyet nem szenvedhet el."
+        },
+        {
+          "number": 22,
+          "text": "A szolga alatt, mikor uralkodik, és a bolond alatt, mikor elég kenyere van,"
+        },
+        {
+          "number": 23,
+          "text": "A gyűlölt asszony alatt, ha mégis férjhez megy; és a szolgáló alatt, ha örököse lesz az ő asszonyának."
+        },
+        {
+          "number": 24,
+          "text": "E négy apró állata van a földnek, a melyek bölcsek, elmések:"
+        },
+        {
+          "number": 25,
+          "text": "A hangyák erőtlen nép, mégis megkeresik nyárban a magok eledelét;"
+        },
+        {
+          "number": 26,
+          "text": "A marmoták nem hatalmas nép, mégis kősziklán csinálják az ő házokat;"
+        },
+        {
+          "number": 27,
+          "text": "Királyuk nincs a sáskáknak, mindazáltal mindnyájan szép renddel mennek ki;"
+        },
+        {
+          "number": 28,
+          "text": "A pókot kézzel megfoghatod, mégis ott van a királyok palotáiban."
+        },
+        {
+          "number": 29,
+          "text": "Három állat van, a mely szépen jár, sőt négy, a mely jól jár."
+        },
+        {
+          "number": 30,
+          "text": "Az oroszlán, a hős a vadak között, mely el nem fut senki elől;"
+        },
+        {
+          "number": 31,
+          "text": "A harczra felékesített ló, vagy a kecskebak, és a király, a kinek senki nem mer ellene állani."
+        },
+        {
+          "number": 32,
+          "text": "Ha bolond voltál felfuvalkodásodban, vagy ha meggondoltad: kezedet szájadra vessed."
+        },
+        {
+          "number": 33,
+          "text": "Mert miképen a ki tejet köpül, vajat csinál; és a ki keményen fújja ki az ő orrát, vért hoz ki: úgy a ki a haragot ingerli, háborúságot szerez."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lemuel király beszédei, próféczia, melylyel tanította vala őt az anyja."
+        },
+        {
+          "number": 2,
+          "text": "Mit szóljak, fiam? mit, én méhem gyermeke? mit, én fogadásimnak gyermeke?"
+        },
+        {
+          "number": 3,
+          "text": "Ne add asszonyoknak a te erődet, és a te útaidat a királyok eltörlőinek."
+        },
+        {
+          "number": 4,
+          "text": "Távol legyen a királyoktól, oh Lemuel, távol legyen a királyoktól a bornak itala; és az uralkodóktól a részegítő ital keresése."
+        },
+        {
+          "number": 5,
+          "text": "Hogy mikor iszik, el ne felejtkezzék a törvényről, és el ne fordítsa valamely nyomorultnak igazságát."
+        },
+        {
+          "number": 6,
+          "text": "Adjátok a részegítő italt az elveszendőnek, és a bort a keseredett szívűeknek."
+        },
+        {
+          "number": 7,
+          "text": "Igyék, hogy felejtkezzék az ő szegénységéről, és az ő nyavalyájáról ne emlékezzék meg többé."
+        },
+        {
+          "number": 8,
+          "text": "Nyisd meg a te szádat a mellett, a ki néma, és azoknak dolgában, a kik adattak veszedelemre."
+        },
+        {
+          "number": 9,
+          "text": "Nyisd meg a te szádat, ítélj igazságot; forgasd ügyét a szegénynek és a szűkölködőnek!"
+        },
+        {
+          "number": 10,
+          "text": "Derék asszonyt kicsoda találhat? Mert ennek ára sokkal felülhaladja az igazgyöngyöket."
+        },
+        {
+          "number": 11,
+          "text": "Bízik ahhoz az ő férjének lelke, és annak marhája el nem fogy."
+        },
+        {
+          "number": 12,
+          "text": "Jóval illeti őt és nem gonosszal, az ő életének minden napjaiban."
+        },
+        {
+          "number": 13,
+          "text": "Keres gyapjat vagy lent, és megkészíti azokat kezeivel kedvvel."
+        },
+        {
+          "number": 14,
+          "text": "Hasonló a kereskedő hajókhoz, nagy messziről behozza az ő eledelét."
+        },
+        {
+          "number": 15,
+          "text": "Felkel még éjjel, eledelt ád az ő házának, és rendel ételt az ő szolgálóleányinak."
+        },
+        {
+          "number": 16,
+          "text": "Gondolkodik mező felől, és megveszi azt; az ő kezeinek munkájából szőlőt plántál."
+        },
+        {
+          "number": 17,
+          "text": "Az ő derekát felövezi erővel, és megerősíti karjait."
+        },
+        {
+          "number": 18,
+          "text": "Látja, hogy hasznos az ő munkálkodása; éjjel sem alszik el az ő világa."
+        },
+        {
+          "number": 19,
+          "text": "Kezeit veti a fonókerékre, és kezeivel fogja az orsót."
+        },
+        {
+          "number": 20,
+          "text": "Markát megnyitja a szegénynek, és kezeit nyújtja a szűkölködőnek."
+        },
+        {
+          "number": 21,
+          "text": "Nem félti az ő házanépét a hótól; mert egész házanépe karmazsinba öltözött."
+        },
+        {
+          "number": 22,
+          "text": "Szőnyegeket csinál magának; patyolat és bíbor az ő öltözete."
+        },
+        {
+          "number": 23,
+          "text": "Ismerik az ő férjét a kapukban, mikor ül a tartománynak véneivel."
+        },
+        {
+          "number": 24,
+          "text": "Gyolcsot sző, és eladja; és övet, melyet ád a kereskedőnek."
+        },
+        {
+          "number": 25,
+          "text": "Erő és ékesség az ő ruhája; és nevet a következő napnak."
+        },
+        {
+          "number": 26,
+          "text": "Az ő száját bölcsen nyitja meg, és kedves tanítás van nyelvén."
+        },
+        {
+          "number": 27,
+          "text": "Vigyáz a házanépe dolgára, és restségnek étkét nem eszi."
+        },
+        {
+          "number": 28,
+          "text": "Felkelnek az ő fiai, és boldognak mondják őt; az ő férje, és dicséri őt:"
+        },
+        {
+          "number": 29,
+          "text": "Sok leány munkálkodott serénységgel; de te meghaladod mindazokat!"
+        },
+        {
+          "number": 30,
+          "text": "Csalárd a kedvesség, és hiábavaló a szépség; a mely asszony féli az Urat, az szerez dicséretet magának!"
+        },
+        {
+          "number": 31,
+          "text": "Adjatok ennek az ő keze munkájának gyümölcséből, és dicsérjék őt a kapukban az ő cselekedetei!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3918 @@
+{
+  "version": "bg",
+  "book": "1Chr",
+  "bookId": 13,
+  "englishName": "1 Chronicles",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Adam, Set, Enos."
+        },
+        {
+          "number": 2,
+          "text": "Kienan, Mahalaleel, Jared."
+        },
+        {
+          "number": 3,
+          "text": "Eonch, Matusalem, Lamech."
+        },
+        {
+          "number": 4,
+          "text": "Noe, Sem, Cham, i Jafet."
+        },
+        {
+          "number": 5,
+          "text": "Synowie Jafetowi: Gomer, i Magog, i Madaj, i Jawan, i Tubal, i Mesech, i Tyras,"
+        },
+        {
+          "number": 6,
+          "text": "A synowie Gomerowi: Aschenaz, i Ryfat, i Togorma."
+        },
+        {
+          "number": 7,
+          "text": "Synowie też Jawanowi: Elisa, i Tarsys, Cytym, i Dodanin."
+        },
+        {
+          "number": 8,
+          "text": "Synowie Chamowi: Chus i Misraim, Put i Chanaan."
+        },
+        {
+          "number": 9,
+          "text": "A synowie Chusowi: Seba, i Hewila, i Sabta, i Regma, i Sabtacha; a synowie Regmy: Seba i Dedan."
+        },
+        {
+          "number": 10,
+          "text": "Spłodził też Chus Neroda; ten począł być możnym na ziemi."
+        },
+        {
+          "number": 11,
+          "text": "Misraim też spłodził Ludyma, i Hananima, i Laubima, i Naftuhyma,"
+        },
+        {
+          "number": 12,
+          "text": "I Patrusyma, i Chasłuchyma, (z których poszli Filistynowie) i Kaftoryma."
+        },
+        {
+          "number": 13,
+          "text": "Potem Chanaan spłodził Sydona, pierworodnego swego, i Hetejczyka."
+        },
+        {
+          "number": 14,
+          "text": "I Jebuzejczyka, i Amorejczyka, i Giergiezejczyka,"
+        },
+        {
+          "number": 15,
+          "text": "I Hewejczyka, i Archajczyka, i Symejczyka,"
+        },
+        {
+          "number": 16,
+          "text": "I Aradejczyka, i Samarejczyka, i Chamatejczyka."
+        },
+        {
+          "number": 17,
+          "text": "Synowie Semowi: Elam, i Assur, i Arfachsad, i Lud, i Aram, i Chus, i Hul, i Gieter, i Mesech."
+        },
+        {
+          "number": 18,
+          "text": "A Arfachsad spłodził Selecha, a Selech spłodził Hebera."
+        },
+        {
+          "number": 19,
+          "text": "A Heberowi urodzili się dwaj synowie, z których jednemu imię było Faleg, przeto, że za jego czasów rozdzielona jest ziemia; a imię brata jego Jektan."
+        },
+        {
+          "number": 20,
+          "text": "A Jektan spłodził Elmodada, i Salefa, i Hassarmota, i Jarecha,"
+        },
+        {
+          "number": 21,
+          "text": "I Adorama, i Uzala, i Dekla,"
+        },
+        {
+          "number": 22,
+          "text": "I Hebala, i Abimaela, i Sebaja,"
+        },
+        {
+          "number": 23,
+          "text": "I Ofira, i Hewila, i Jobaba. Ci wszyscy byli synowie Jektanowi."
+        },
+        {
+          "number": 24,
+          "text": "Sem, Arfachsad, Selech."
+        },
+        {
+          "number": 25,
+          "text": "Heber, Peleg, Rechu,"
+        },
+        {
+          "number": 26,
+          "text": "Sarug, Nachor, Tare,"
+        },
+        {
+          "number": 27,
+          "text": "Abram; ten jest Abraham."
+        },
+        {
+          "number": 28,
+          "text": "Synowie Abrahamowi: Izaak i Ismael."
+        },
+        {
+          "number": 29,
+          "text": "A teć są rodzaje ich: Pierworodny Ismaelowy Nebajot, i Kiedar, i Abdeel, i Mabsam."
+        },
+        {
+          "number": 30,
+          "text": "Masma, i Duma, Massa, Hadad, i Tema,"
+        },
+        {
+          "number": 31,
+          "text": "Jetur, Nafis i Kiedma. Cić są synowie Ismaelowi."
+        },
+        {
+          "number": 32,
+          "text": "A synowie Cetury, założnicy Abrahamowej, których porodziła: Zamram i Joksan, i Madan, i Midyjan, i Jesbok, i Suach. A synowie Joksanowi; Saba i Dedan."
+        },
+        {
+          "number": 33,
+          "text": "Synowie też Madyjanowi: Hefa, i Hefer, i Henoch, i Abida, i Eldaa. Cić wszyscy są synowie Cetury."
+        },
+        {
+          "number": 34,
+          "text": "I spłodził Abraham Izaaka. A synowie Izaakowi byli: Ezaw i Izrael."
+        },
+        {
+          "number": 35,
+          "text": "A synowie Ezawowi: Elifas, Rehuel, i Jehus, i Jelom, i Kore."
+        },
+        {
+          "number": 36,
+          "text": "Synowie Elifasowi: Teman i Omar, Sefo i Gaatan, Kienaz i syn Tamny, to jest, Amalek."
+        },
+        {
+          "number": 37,
+          "text": "Synowie Rehuelowi: Nahat, Zara, Samma, i Meza."
+        },
+        {
+          "number": 38,
+          "text": "A synowie Seirowi: Lotan, i Sobal, i Sebeon, i Hana, i Dysson, i Eser, i Dysan."
+        },
+        {
+          "number": 39,
+          "text": "A synowie Lotanowi: Chory, i Heman; a siostra Lotanowa była Tamna."
+        },
+        {
+          "number": 40,
+          "text": "Synowie Sobalowi: Halman, i Manaat, i Hewal, Sefo, i Onam; a synowie Sebeonowi: Ajai Ana."
+        },
+        {
+          "number": 41,
+          "text": "Synowie Ana: Dyson; a synowie Dysona: Hamdan, i Eseban, i Jetran, i Charan."
+        },
+        {
+          "number": 42,
+          "text": "Synowie Eserowi: Balaan, i Zawan, Akan. Synowie Dysanowi: Hus i Aran."
+        },
+        {
+          "number": 43,
+          "text": "Cić są królowie, którzy królowali w ziemi Edomskiej, przedtem niż królował król nad synami Izraelskimi: Bela, syn Beorowy, a imię miasta jego Dynhaba."
+        },
+        {
+          "number": 44,
+          "text": "A gdy umarł Bela, królował miasto niego Jobab, syn Zerachowy z Bosry."
+        },
+        {
+          "number": 45,
+          "text": "A gdy umarł Jobab, królował miasto niego Chusam z ziemi Temańskiej."
+        },
+        {
+          "number": 46,
+          "text": "A gdy umarł Chusam, królował miasto niego Hadad, syn Badadowy, który poraził Madyjańczyków na polu Moabskiem; a imię miasta jego Hawid."
+        },
+        {
+          "number": 47,
+          "text": "A gdy umarł Hadad, królował miasto niego Samla z Masreki."
+        },
+        {
+          "number": 48,
+          "text": "A gdy umarł Samla, królował miasto niego Saul z Rechobot nad rzeką"
+        },
+        {
+          "number": 49,
+          "text": "A gdy umarł Saul, królował miasto niego Balanan, syn Achoborowy."
+        },
+        {
+          "number": 50,
+          "text": "A gdy umarł Balanan, królował miasto niego Hadar; a imię miasta jego Pehu, imię też żony jego Mehetabel, córka Matredy, córki Mezaabowej."
+        },
+        {
+          "number": 51,
+          "text": "A gdy umarł Hadar, byli książętami w Edon: książę Tamna, książę Halwa, książę Jetet,"
+        },
+        {
+          "number": 52,
+          "text": "Książę Oolibama, książę Ela, książę Pinon,"
+        },
+        {
+          "number": 53,
+          "text": "Książę Kienaz, książę Teman, książę Mabsar,"
+        },
+        {
+          "number": 54,
+          "text": "Książę Magdyjel, książę Hyram. Toć byli książęta Edomscy."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cić są synowie Izraelowi: Ruben, Symeon, Lewi, i Juda, Isaschar i Zabulon,"
+        },
+        {
+          "number": 2,
+          "text": "Dan, Józef, i Benjamin, Neftali, Gad i Aser."
+        },
+        {
+          "number": 3,
+          "text": "Synowie Judy: Her, i Onan, i Sela. Ci trzej urodzili mu się z córki Sui Chananejskiej. Ale Her, pierworodny Judy, był złym przed oczyma Pańskiemi; przetoż go zabił."
+        },
+        {
+          "number": 4,
+          "text": "Tamar zasię, niewiastka jego, urodziła mu Faresa i Zarę. Wszystkich synów Judowych pięć."
+        },
+        {
+          "number": 5,
+          "text": "Synowie Faresowi: Hesron i Hamuel."
+        },
+        {
+          "number": 6,
+          "text": "Synowie zaś Zary: Zamry, i Etan, i Heman, i Chalkol, i Darda; wszystkich tych było pięć."
+        },
+        {
+          "number": 7,
+          "text": "Asynowie Zamrego: Charmi, wnuk Acharowy, który zamięszanie uczynił w Izraelu, zgrzeszywszy kradzieżą rzeczy przeklętych."
+        },
+        {
+          "number": 8,
+          "text": "Asynowie Etanowi: Azaryjasz."
+        },
+        {
+          "number": 9,
+          "text": "A synowie Esronowi, którzy mu się urodzili: Jerameel, i Ram, i Chalubaj."
+        },
+        {
+          "number": 10,
+          "text": "Ale Ram spłodził Aminadaba, a Aminadab spłodził Naasona, książęcia synów Judzkich."
+        },
+        {
+          "number": 11,
+          "text": "A Naason spłodził Salmona, a Salmon spłodził Booza."
+        },
+        {
+          "number": 12,
+          "text": "A Booz spłodził Obeda, a Obed spłodził Isajego."
+        },
+        {
+          "number": 13,
+          "text": "A Isaj spłodził pierworodnego swego Elijaba, i Abinadaba wtórego, i Samma trzeciego."
+        },
+        {
+          "number": 14,
+          "text": "Natanaela czwartego, Raddaja piątego."
+        },
+        {
+          "number": 15,
+          "text": "Ozema szóstego, Dawida siódmego."
+        },
+        {
+          "number": 16,
+          "text": "A siostry ich: Sareija, i Abigail; a synowie Sarwii: Abisaj, i Joab, i Asael, trzej."
+        },
+        {
+          "number": 17,
+          "text": "A Abigail urodziła Amazę, a ojciec Amazy był Jeter Ismaelczyk."
+        },
+        {
+          "number": 18,
+          "text": "A Kaleb, syn Hesronowy, spłodził z Azubą, małżonką swoją, i z Jeryjotą synów. A ci byli synowie jego: Jeser, i Sobab, i Ardon."
+        },
+        {
+          "number": 19,
+          "text": "A gdy umarła Azuba, pojął sobie Kaleb Esratę, która mu urodziła Hura."
+        },
+        {
+          "number": 20,
+          "text": "A Hur spłodził Ury, a Ury spłodził Besaleela."
+        },
+        {
+          "number": 21,
+          "text": "Potem wszedł Hesron do córki Machyra, ojca Galaadowego, a pojął ją, będąc w sześćdizesiąt lat; która mu urodziła Seguba."
+        },
+        {
+          "number": 22,
+          "text": "A Segub spłodził Jaira, który miał dwadzieścia trzy miast w ziemi Galaadskiej."
+        },
+        {
+          "number": 23,
+          "text": "Bo wziął Giessurytom, i Assyryjczykom wsi Jairowe, i Kanat z miasteczkami jego, sześćdziesiąt miast. To wszystko pobrali synowie Machyra, ojca Galaadowego."
+        },
+        {
+          "number": 24,
+          "text": "A gdy umarł Hesron w Kaleb Efrata, tedy żona Hesronowa Abija porodziła mu Assura, ojca Tekui."
+        },
+        {
+          "number": 25,
+          "text": "Byli też synowie Jerameelowi, pierworodnego Hesronowego: Pierworodny Ram, po nim Buana, i Oren, i Osem z Abii."
+        },
+        {
+          "number": 26,
+          "text": "Miał także drugą żonę Jerameel, imieniem Atara; ta jest matka Onamowa."
+        },
+        {
+          "number": 27,
+          "text": "Ale synowie Ramowi, pierworodnego Jerameelowego, byli: Maas, i Jamin, i Achar."
+        },
+        {
+          "number": 28,
+          "text": "Byli też synowie Onamowi: Semaj, i Jada, a synowie Semejego: Nadad i Abisur;"
+        },
+        {
+          "number": 29,
+          "text": "A imię żony Abisurowej Abihail, która mu urodziła Achobbana i Molida."
+        },
+        {
+          "number": 30,
+          "text": "Synowie Nadabowi: Saled i Affaim; lecz Saled umarł bez potomstwa."
+        },
+        {
+          "number": 31,
+          "text": "A synowie Affaimowi Jesy; a synowie Jesy Sesan, a córka Sesana Achialaj."
+        },
+        {
+          "number": 32,
+          "text": "A synowie Jady, brata Semejego, Jeter i Jonatan; ale Jeter umarł bez potomstwa."
+        },
+        {
+          "number": 33,
+          "text": "A synowie Jonatanowi: Falet i Zyza. Cić byli synowie Jerameelowi."
+        },
+        {
+          "number": 34,
+          "text": "Lecz nie miał Sesan synów, jedno córki; miał też Sesan sługę Egipczanina, imieniem Jeracha."
+        },
+        {
+          "number": 35,
+          "text": "I dał Sesan córkę Jerachowi, słudze swemu, za żonę, która mu urodziła Etaja."
+        },
+        {
+          "number": 36,
+          "text": "Etaj spłodził Natana, a Natan spłodził Zabada."
+        },
+        {
+          "number": 37,
+          "text": "A Zabad spłodził Efijala, a Efijal spłodził Obeda."
+        },
+        {
+          "number": 38,
+          "text": "A obed spłodził Jehu, a Jehu spłodził Azaryjasza."
+        },
+        {
+          "number": 39,
+          "text": "A Azaryjasz spłodził Helesa, a Heles spłodził Elasa."
+        },
+        {
+          "number": 40,
+          "text": "A Elas spłodził Sysmaja, a Sysmaj spłodził Selluma."
+        },
+        {
+          "number": 41,
+          "text": "A Sellum spłodził Ikamijasza, a Ikamijasz spłodził Elisama."
+        },
+        {
+          "number": 42,
+          "text": "A synowie Kaleba, brata Jerameelowego: Mesa pierworodny jego, który był ojcem Zyfejczyków i synów Maresy, ojca Hebrowowego."
+        },
+        {
+          "number": 43,
+          "text": "A synowie Hebronowi: Kore i Tafua, i Rechem, i Semma."
+        },
+        {
+          "number": 44,
+          "text": "A Semma spłodził Rahama, syna Jerkaamowego, a Rechem spłodził Sammajego."
+        },
+        {
+          "number": 45,
+          "text": "A Sammaj był synem Maonowym, a Maon był ojcem Betsurczyków."
+        },
+        {
+          "number": 46,
+          "text": "Efa też, założnica Kalebowa, urodziła Harana, i Moze, i Giezeza; a Haran spłodził Giezeza."
+        },
+        {
+          "number": 47,
+          "text": "A synowie Jachdajowi: Regiem, i Jotam, i Giesan, i Falet, i Efa, i Saaf,"
+        },
+        {
+          "number": 48,
+          "text": "Założnica zaś druga Kalebowa Maacha urodziła Sabera, i Tyrchana."
+        },
+        {
+          "number": 49,
+          "text": "A żona Saafowa urodziła ojca Madmeńczyków, i Sewa, ojca Machbeńczyków, i ojca Gabaończyków; a córka Kalebowa była Achsa."
+        },
+        {
+          "number": 50,
+          "text": "Cić byli synowie Kaleba, syna Hurowego, pierworodnego Efraty: Sobal, ojciec Karyjatyjarymczyków."
+        },
+        {
+          "number": 51,
+          "text": "Salma, ojciec Betlehemczyków, Charef, ojciec Betgaderczyków."
+        },
+        {
+          "number": 52,
+          "text": "Miał też synów Sobal, ojciec Karyjatyjarymczyków, który doglądał połowy Menuchoty."
+        },
+        {
+          "number": 53,
+          "text": "A domy Karyjatyjarymskie były Jetrejczycy, i Futejczycy, i Sematejczycy, i Maserejczycy, z których też poszli Saraitowie, o Estaolitowie."
+        },
+        {
+          "number": 54,
+          "text": "A synowie Salmy: Betlehemczycy, i Netofatczycy, ozdoby domu Joabowego, i połowa Manachaty, ojca Sorygo."
+        },
+        {
+          "number": 55,
+          "text": "A domy pisarzów mieszkających w Jabez: Tyryjatejczycy, Symatejczycy, Suchatejczycy. Cić są Cynejczycy, którzy poszli z Hemata, ojca domu Rechabowego."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cić są synowie Dawidowi, którzy mu się urodzili w Hebronie: Pierworodny Ammon z Achynoamy Jezreelitki; wtóry Danijel z Abigaili Karmelitki;"
+        },
+        {
+          "number": 2,
+          "text": "Trzeci Absalom, syn Maachy, córki Tolmaja, króla Giessur; czwarty Adonijasz, syn Haggity;"
+        },
+        {
+          "number": 3,
+          "text": "Piąty Sefatyjasz z Abitaili; szósty Jetraam z Egli, żony jego."
+        },
+        {
+          "number": 4,
+          "text": "Tych sześć urodziło mu się w Hebronie, kędy królował przez siedm lat, i przez sześć miesięcy; a trzydzieści i trzy lata królował w Jeruzalemie."
+        },
+        {
+          "number": 5,
+          "text": "A ci urodzili mu się w Jeruzalemie; Samna, i Sobab, i Natan, i Salomon, cztery synowie z Betsui, córki Ammielowej;"
+        },
+        {
+          "number": 6,
+          "text": "I Ibchar, i Elisama, i Elifet;"
+        },
+        {
+          "number": 7,
+          "text": "I Noge, i Nefeg, i Jafija;"
+        },
+        {
+          "number": 8,
+          "text": "I Elizama, i Elijada, i Elifelet, dziewięć synów."
+        },
+        {
+          "number": 9,
+          "text": "A cić wszyscy są synowie Dawidowi, oprócz synów z założnic; a Tamar była siostra ich."
+        },
+        {
+          "number": 10,
+          "text": "Syn Salomonowy Roboam; Abiam syn jego, Aza syn jego, Jozafat syn jego."
+        },
+        {
+          "number": 11,
+          "text": "Joram syn jego, Ochozyjasz syn jego, Joaz syn jego;"
+        },
+        {
+          "number": 12,
+          "text": "Amazyjasz syn jego, Azaryjasz syn jego, Joatam syn jego;"
+        },
+        {
+          "number": 13,
+          "text": "Achaz syn jego, Ezechyjasz syn jego, Manases syn jego;"
+        },
+        {
+          "number": 14,
+          "text": "Amon syn jego, Jozyjasz syn jego;"
+        },
+        {
+          "number": 15,
+          "text": "A synowie Jozyjaszowi: Pierworodny Johanan, wtóry Joakim, trzeci Sedekijasz, czwarty Sellum."
+        },
+        {
+          "number": 16,
+          "text": "A synowie Joakimowi: Jechonijasz syn jego, Sedekijasz syn jego."
+        },
+        {
+          "number": 17,
+          "text": "A synowie Jechonijasza więźnia: Salatyjel syn jego."
+        },
+        {
+          "number": 18,
+          "text": "A salatyjelowi: Malchiram, i Fadajasz, i Seneser, Jekiemija, Hosama, i Nadabija."
+        },
+        {
+          "number": 19,
+          "text": "A synowie Fadajaszowi: Zorobabel, i Semej; a syn Zorobabelowy Mesollam, i Hananijasz, i Selomit, siostra ich."
+        },
+        {
+          "number": 20,
+          "text": "A Mesollamowi: Hasuba, i Ohol, i Barachyjasz, i Hazadyjasz Josabchesed, pięć synów."
+        },
+        {
+          "number": 21,
+          "text": "A syn Hananijaszowy: Faltyjasz, i Jesajasz; synowie Rafajaszowi, synowie Arnanaszowi, synowie Obadyjaszowi, synowie Sechenijaszowi."
+        },
+        {
+          "number": 22,
+          "text": "A synowie Sechenijaszowi: Semejasz; a synowie Semejaszowi: Chattus, i Igal, i Baryja, i Naaryjasz, i Safat; sześć synów."
+        },
+        {
+          "number": 23,
+          "text": "A synowie Naaryjaszowi: Elijenaj, i Ezechyjasz, i Esrykam, trzej synowie."
+        },
+        {
+          "number": 24,
+          "text": "A synowie Elijenajego: Hodawijasz i Elijasub, i Felejasz, i Akkub, i Jochanan, i Dalajasz, i Anani, siedm synów."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Synowie Judowi: Fares, Hesron, i Charmi, i Hur, i Sobal."
+        },
+        {
+          "number": 2,
+          "text": "A Rejasz, syn Sobalowy spłodził Jahata, a Jahat spłodził Achuma, i Laada. Teć są rodzaje Zaratego."
+        },
+        {
+          "number": 3,
+          "text": "Ci też są z ojca Etama: Jezreel, i Jesema, i Idbas; a imię siostry ich Selelfuni."
+        },
+        {
+          "number": 4,
+          "text": "A Faunuel ojciec Giedory, i Ezer ojciec Hosy. Cić są synowie Hura, pierworodnego Efraty, ojca Betlehemczyków."
+        },
+        {
+          "number": 5,
+          "text": "A Assur, ojciec Tekui, miał dwie żony: Chelę i Naarę."
+        },
+        {
+          "number": 6,
+          "text": "I urodziła mu Naara Achusama, i Hefera, i Temana, i Achastara. Cić są synowie Naary."
+        },
+        {
+          "number": 7,
+          "text": "Synowie zasię Cheli: Seret, Jesochar, i Etnan."
+        },
+        {
+          "number": 8,
+          "text": "A Kos spłodził Anuba, i Hasoboba, i dom Acharchela, syna Harumy."
+        },
+        {
+          "number": 9,
+          "text": "A Jabes był zacniejszy nad braci swych, któremu matka jego dała imię Jabes, mówiąc: Bom go w boleści urodziła."
+        },
+        {
+          "number": 10,
+          "text": "I wzywał Jabes Boga Izraelskiego, mówięc: Jeźli błogosławiąc błogosławić mi będziesz, a rozszerzysz granice moje, a będzie ręka twoja ze mną, a wybawisz mię od złego, abym utrapiony nie był. I wypełnił to Bóg, o co go prosił."
+        },
+        {
+          "number": 11,
+          "text": "A Chelub, brat Sucha, spłodził Mechyra; ten jest ojcem Estona."
+        },
+        {
+          "number": 12,
+          "text": "A Eston spłodził Betrafa, i Paseacha, i Techynna, ojca miasta Nahas. Cić są mężowie Rechy."
+        },
+        {
+          "number": 13,
+          "text": "A synowie Kienazowi: Otonijel, i Seraja; a synowie Otonijelowi: Hatat i Meanataj."
+        },
+        {
+          "number": 14,
+          "text": "A Meanataj spłodził Ofra, a Serajasz spłodził Joaba, ojca w dolinie mieszkających rzemieślników; bo rzemieślnicy byli."
+        },
+        {
+          "number": 15,
+          "text": "Synowie zasię Kaleba, syna Jefumi: Hyru, Ela, i Nahain; a syn Ela jest Kienaz."
+        },
+        {
+          "number": 16,
+          "text": "A synowie Jehaleleela: Zyf i Zyfa, Tyryja, i Azarel."
+        },
+        {
+          "number": 17,
+          "text": "A synowie Ezry: Jeter, i Mered, i Efer, i Jalon; a żona Merodowa urodziła Miryjama, i Samaja, i Isbacha, ojca Estemoa."
+        },
+        {
+          "number": 18,
+          "text": "Żona też jego Judaja urodziła Jereda, ojca Giedor, i Hebera, ojca Socho, i Jekutyjela, ojca Zanoach. Cić są synowie Betii, córki Faraonowej, którą był pojął Mered."
+        },
+        {
+          "number": 19,
+          "text": "A synowie żony Hodyjaszowej, siostry Nahama, ojca Ceili: Garmi i Estemoa Mahatczyk."
+        },
+        {
+          "number": 20,
+          "text": "A synowie Symonowi: Amnon, i Rynna, Benchanan i Tylon; a synowie Isy: Zochet i Bensochet."
+        },
+        {
+          "number": 21,
+          "text": "Synowie Seli, syna Judowego: Her, ojciec Lecha i Laada, ojciec Maraa; i rodzaje domów tych, którzy robili około bisioru w domu Asbeat,"
+        },
+        {
+          "number": 22,
+          "text": "I Joakim i mężowie Chozeby, i Joaz i Saraf, którzy panowali w Moab, i Jasubi Lechem; ale te rzeczy są dawne."
+        },
+        {
+          "number": 23,
+          "text": "Cić są garncarze, którzy mieszkali w sadach i między płotami, którzy tam przy królu dla robót jego mieszkali."
+        },
+        {
+          "number": 24,
+          "text": "Synowie Symeonowi: Namuel, i Jamin, i Jaryb, Zera, Saul."
+        },
+        {
+          "number": 25,
+          "text": "Sallum syn jego, Mabsam syn jego, Misma syn jego."
+        },
+        {
+          "number": 26,
+          "text": "A synowie Mismy: Hamuel syn jego, Zachur syn jego, Semej syn jego."
+        },
+        {
+          "number": 27,
+          "text": "Ten Semej miał synów szesnaście, i córek sześć; ale bracia jego nie mieli wiele synów, tak, że wszystkiej rodziny ich nie było tak wiele, jako synów Judowych."
+        },
+        {
+          "number": 28,
+          "text": "I mieszkali w Beerseba i w Molada, i w Hasersual,"
+        },
+        {
+          "number": 29,
+          "text": "I w Bela, i w Asem, i w Etolad,"
+        },
+        {
+          "number": 30,
+          "text": "I w Betul, i w Horma, i w Sycelegu,"
+        },
+        {
+          "number": 31,
+          "text": "I w Bet Marchabot, i w Hasersusa, i w Betbirze, i w Saaraim. Te miasta ich były, póki królował Dawid."
+        },
+        {
+          "number": 32,
+          "text": "A wsi ich były: Etam, i Hain, Remnon, i Tochen i Asan przy tych pięciu miastach;"
+        },
+        {
+          "number": 33,
+          "text": "I wszystkie wsi ich, które były około tych miast aż do Baal; teć były mieszkaniem ich według narodu ich."
+        },
+        {
+          "number": 34,
+          "text": "A Mosobab, i Jamlech, i Josa, syn Amazyjaszowy;"
+        },
+        {
+          "number": 35,
+          "text": "I Joel, i Jehu, syn Josabijasza, syna Serajaszowego, syna Asyjelowego;"
+        },
+        {
+          "number": 36,
+          "text": "I Elichenaj, i Jakóba, i Jesochaja, i Asaja, i Adyjel, i Jesymijel, i Banajas;"
+        },
+        {
+          "number": 37,
+          "text": "I Sysa, syn Syfy, syna Allonowego, syna Jodajaszowego, syna Symry, i syna Semajaszowego."
+        },
+        {
+          "number": 38,
+          "text": "Ci mianowani postanowieni są za książęta w narodach swych, a domy ojców ich rozmnożyły się bardzo."
+        },
+        {
+          "number": 39,
+          "text": "Przetoż ruszyli się, aby szli do Gador, aż na wschód słońca onej doliny, aby szukali paszy bydłu swemu."
+        },
+        {
+          "number": 40,
+          "text": "I znaleźli obfite i wyborne pasze, a ziemię przestronną i spokojną i rodzajną; bo tam naród Chamów mieszkał przedtem."
+        },
+        {
+          "number": 41,
+          "text": "Przetoż przyszedłszy ci z imienia opisani za dni Ezechyjasza, króla Judzkiego, poburzyli namioty ich i przybytki ich, które tam były znalezione; a wymordoealiich, i nie masz ich aż do dnia tego, i osiedli miejsce ich; bo tam mieli paszy dla bydeł swoich."
+        },
+        {
+          "number": 42,
+          "text": "A z onych synów Symeonowych niektórzy szli na górę Seir, pięć set mężów, a Faltyjasz, i Necharyjasz, i Rafajasz, i Husel, synowie Isy, byli wodzami ich."
+        },
+        {
+          "number": 43,
+          "text": "I wymordowali ostatki, które były uszły z Amalekitów, a mieszkali tam aż po dziś dzień."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A synowie Rubena pierworodnego Izraelowego, (ten bowiem był pierworodny; ale gdy zgwałcił łoże ojca swego, dane jest pierworodztwo jego synom Józefa, syna Izraelowego, tak jednak, że go nie poczytano za pierworodnego:"
+        },
+        {
+          "number": 2,
+          "text": "Bo Judas był najmężniejsz między braćmi swymi, a książęciem między nimi; ale pierworodztwo należało Józefowi.)"
+        },
+        {
+          "number": 3,
+          "text": "Synowie mówię Rubena, pierworodnego Izraelowego, byli: Henoch i Fallu, Hesron i Charmi."
+        },
+        {
+          "number": 4,
+          "text": "Synowie Joelowi: Samajasz syn jego, Gog syn jego, Semej syn jego;"
+        },
+        {
+          "number": 5,
+          "text": "Michas syn jego, Reajasz syn jego, Baal syn jego;"
+        },
+        {
+          "number": 6,
+          "text": "Bera syn jego, którego wziął w niewolę Teglat Falasar, król Asyryjski; ten był książęciem Rubenitów."
+        },
+        {
+          "number": 7,
+          "text": "A bracia jego według domów swych, gdy byli policzeni według ich narodów, mieli książęta Jehiela i Zacharyjasza."
+        },
+        {
+          "number": 8,
+          "text": "A Bela, syn Azazowy, syna Semmy, syna Joelowego; ten mieszkał w Aroer aż ku Nebo i Baalmeon."
+        },
+        {
+          "number": 9,
+          "text": "Także i na wschód słońca mieszkał, aż kędy wchodzą na puszczę od rzeki Eufrates; albowiem stada ich rozmnożyły się w ziemi Galaadskiej."
+        },
+        {
+          "number": 10,
+          "text": "Ci za dni Saulowych walczyli z Agareńczykami, którzy porażeni są od ręki ich; a tak mieszkali w namiotach ich po wszystkiej krainie wschodniej ziemi Galaadskiej."
+        },
+        {
+          "number": 11,
+          "text": "A synowie Gadowi na przeciwko nich mieszkali w ziemi Bazan, aż do Selchy."
+        },
+        {
+          "number": 12,
+          "text": "Joel był przedniejszym ich, a Safam wtóry, a Janaj i Safat zostali w Bazan."
+        },
+        {
+          "number": 13,
+          "text": "A braci ich według domów ojców swych: Michael i Mesullam, i Seba, i Joraj, i Jachan, i Zyja, i Heber, siedm."
+        },
+        {
+          "number": 14,
+          "text": "(Cić są synowie Abihaila, syna Hurowego, syna Jaroachowego, syna, Galaadowego, syna Michaelowego, syna Jesysowego, syna Jachdowego, syna Buzowego;)"
+        },
+        {
+          "number": 15,
+          "text": "Achy, syn Abdyjela, syna Gunowego, książę w domu ojców ich."
+        },
+        {
+          "number": 16,
+          "text": "I mieszkali w Galaad, w Bazan, i w miasteczkach jego, i po wszystkich przedmieściach Saron aż do ich granic."
+        },
+        {
+          "number": 17,
+          "text": "Wszyscy ci policzeni byli za dni Jotama, króla Judzkiego, i za dni Jeroboama, króla Izraelskiego."
+        },
+        {
+          "number": 18,
+          "text": "Synów Rubenowych, i Gadowych, i połowy pokolenia Manasesowego, ludzi walecznych, mężów noszących tarczę i miecz, i ciągnących łuk, i ćwiczonych ku bojowi, czterdzieści i cztery tysiące, siedm set i sześćdziesiąt, wychodzących do bitwy."
+        },
+        {
+          "number": 19,
+          "text": "Ci wiedli wojnę z Agareńczykami, z Jeturejczykami, i z Nafejczykami, i Nodabczykami,"
+        },
+        {
+          "number": 20,
+          "text": "A mieli pomoc przeciwko nim. I podani są w rękę ich Agareńczycy ze wszystkim, co mieli, przeto iż do Boga wołali w bitwie, a on ich wysłuchał, iż ufali w nim."
+        },
+        {
+          "number": 21,
+          "text": "I zabrali dobytki ich, wielbłądów ich pięćdziesiąt tysięcy, a owiec dwieście i pięćdziesiąt tysięcy, osłów dwa tysiące, a ludzi sto tysięcy."
+        },
+        {
+          "number": 22,
+          "text": "Albowiem rannych wiele poległo, iż od Boga była ona porażka. I mieszkali na miejscu ich, aż ich zabrano w niewolę."
+        },
+        {
+          "number": 23,
+          "text": "Ale synowie połowy pokolenia Manasesowego mieszkali w onej ziemi od Bazan aż do Baal-Hermon i Sanir, które jest góra Hermon; bo i oni rozmnożeni byli."
+        },
+        {
+          "number": 24,
+          "text": "A cić są książęta domów ojców ich: Efer i Jesy, i Elijel, i Azryjel, i Jeremijasz, i Hodawijasz, i Jachdyjel, mężowie bardzo mocni, mężowie sławni, książęta domu ojców swoich."
+        },
+        {
+          "number": 25,
+          "text": "Ale gdy zgrzeszyli przeciw Bogu ojców swych i cudzołożyli naśladując bogów narodów onej ziemi, które wykorzenił Bóg przed twarzą ich:"
+        },
+        {
+          "number": 26,
+          "text": "Wzbudził Bóg Izraelski ducha Fula króla Assyryjskiego, i ducha Teglat Falasera, króla Assyryjskiego, i przeniósł ich: Rubenitów, i Gadydtów, i połowę pokolenia Manasesowego, a zawiódł ich do Hela, i Haboru, i do Ara, i do rzeki Gozan, aż do dnia tego."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Synowie Lewiego: Gerson, Kaat, i Merary."
+        },
+        {
+          "number": 2,
+          "text": "A synowie Kaatowi: Amram, Izaar, i Hebron, i Husyjel."
+        },
+        {
+          "number": 3,
+          "text": "A synowie Amramowi: Aaron, i Mojżesz, i córka Maryja; a synowie Aaronowi: Nadab, i Abiju, Eleazar, i Itamar."
+        },
+        {
+          "number": 4,
+          "text": "Eleazer spłodził Fineesa; Finees spłodził Abisua."
+        },
+        {
+          "number": 5,
+          "text": "Abissue spłodził Bokki, a Bokki spłodził Uzy."
+        },
+        {
+          "number": 6,
+          "text": "A Uzy spłodził Zerachyjasza, a Zerachyjasz spłodził Merajota."
+        },
+        {
+          "number": 7,
+          "text": "Merajot spłodził Amaryjasza, a Amaryjasz spłodził Achytoba."
+        },
+        {
+          "number": 8,
+          "text": "A Achytob spłodził Sadoka, a Sadok spłodził Achymaasa."
+        },
+        {
+          "number": 9,
+          "text": "Achymaas spłodził Azaryjasza, a Azaryjasz spłodzi× Johanana."
+        },
+        {
+          "number": 10,
+          "text": "A Johanan spłodził Azaryjasz; tenci jest, który kapłański urząd sprawował w domu, który zbudował Salomon w Jeruzalemie."
+        },
+        {
+          "number": 11,
+          "text": "Spłodził też Azaryjasz Amaryjasza, a Amaryjasz spłodził Achytoba."
+        },
+        {
+          "number": 12,
+          "text": "A Achytob spłodził Sadoka, a Sadok spłodził Salluma."
+        },
+        {
+          "number": 13,
+          "text": "A Sallum spłodził Helkijasza, a Helkijasz spłodził Azaryjasza."
+        },
+        {
+          "number": 14,
+          "text": "A Azaryjasz spłodził Sarajasza, a Sarajasz spłodził Jozedeka."
+        },
+        {
+          "number": 15,
+          "text": "Ale Jozedek poszedł w niewolę, gdy Pan przeniósł Judę i Jeruzalem przez Nabuchodonozora."
+        },
+        {
+          "number": 16,
+          "text": "Synowie Lewi: Gierson, Kaat, i Merary."
+        },
+        {
+          "number": 17,
+          "text": "A teć są imiona synów Giersonowych: Lobni i Semei."
+        },
+        {
+          "number": 18,
+          "text": "A synowie Kaatowi: Amram i Izaar, i Hebron, i Husyjel."
+        },
+        {
+          "number": 19,
+          "text": "Synowie Merarego: Macheli, i Muzy. A teć są domy Lewitów według ojców ich."
+        },
+        {
+          "number": 20,
+          "text": "Giersonowi: Lobni syn jego, Jachat syn jego, Zamma syn jego;"
+        },
+        {
+          "number": 21,
+          "text": "Joach syn jego, Iddo syn jego, Zara syn jego, Jetraj syn jego."
+        },
+        {
+          "number": 22,
+          "text": "Synowie Kaatowi: Aminadab syn jego, Kore syn jego, Aser syn jego."
+        },
+        {
+          "number": 23,
+          "text": "Elkana syn jego, i Abiazaf syn jego, i Assyr syn jego;"
+        },
+        {
+          "number": 24,
+          "text": "Tachat syn jego, Uryjel syn jego, Ozyjasz syn jego, i Saul syn jego."
+        },
+        {
+          "number": 25,
+          "text": "A synowie Elkamowi: Amasaj i Achymot."
+        },
+        {
+          "number": 26,
+          "text": "Elkana. Synowie Elkanowi: Sofaj syn jego, i Nahat syn jego;"
+        },
+        {
+          "number": 27,
+          "text": "Elijab syn jego, Jerobam syn jego, Elkana syn jego."
+        },
+        {
+          "number": 28,
+          "text": "A synowie Samuelowi: Pierworodny Wassni i Abijas."
+        },
+        {
+          "number": 29,
+          "text": "Synowie Merarego: Mahali; Lobni syn jego, Symej syn jego, Uza syn jego;"
+        },
+        {
+          "number": 30,
+          "text": "Symha syn jego, Haggijasz syn jego, Asajasz syn jego."
+        },
+        {
+          "number": 31,
+          "text": "Ci są, których postanowił do śpiewania w domu Pańskim, gdy tam postawiono skrzynię."
+        },
+        {
+          "number": 32,
+          "text": "I służyli przed przybytkiem namiotu zgromadzenia, śpiewając, aż zbudował Salomon dom Pański w Jeruzalemie, i stali według porządku swego na służbie swojej."
+        },
+        {
+          "number": 33,
+          "text": "A cić są, którzy stali i synowie ich z synów Kaatowych: Heman śpiewak syn Joela, syna Samuelowego,"
+        },
+        {
+          "number": 34,
+          "text": "Syna Elkanowego, syna Jerohamowego, syna Elijelowego, syna Tohu,"
+        },
+        {
+          "number": 35,
+          "text": "Syna Sufowego, syna Elkanowego, syna Machatowego, syna Amasajowego,"
+        },
+        {
+          "number": 36,
+          "text": "Syna Elkanowego, syna Joelowego, syna Azaryjaszowego, syna Sofonijaszowego,"
+        },
+        {
+          "number": 37,
+          "text": "Syna Tachatowego, syna Assyrowego, syna Abijasowego,"
+        },
+        {
+          "number": 38,
+          "text": "Syna Korego, syna Isarowego, syna Kaatowego, syna Lewiego, syna Izraelowego."
+        },
+        {
+          "number": 39,
+          "text": "A brat jego Asaf, który stawał po prawicy jego. Asaf, syn Barachyjaszowy, syna Samaowego,"
+        },
+        {
+          "number": 40,
+          "text": "Syna Michaelowego, syna Basejaszowego, syna Malchyjaszowego,"
+        },
+        {
+          "number": 41,
+          "text": "Syna Etny, syna Zerachowego, syna Adajowego,"
+        },
+        {
+          "number": 42,
+          "text": "Syna Etanowgo, syna Symmowego,"
+        },
+        {
+          "number": 43,
+          "text": "Syna Semejowego, syna Jachatowego, syna Giersonowego, syna Lewiego."
+        },
+        {
+          "number": 44,
+          "text": "A synowie Merarego i bracia ich stawali po lewej stronie: Etan, syn Kuzego, syna Abdego, syna Malluchowego,"
+        },
+        {
+          "number": 45,
+          "text": "Syna Hasabijaszowego, syna Amazyjaszowego, syna Helkijaszowego."
+        },
+        {
+          "number": 46,
+          "text": "Syna Amsego, syna Banego, syna Semmerowego,"
+        },
+        {
+          "number": 47,
+          "text": "Syna Moholi, syna Musego, syna Merarego, syna Lewiego."
+        },
+        {
+          "number": 48,
+          "text": "A bracia ich Lewitowie postawieni są ku wszelakiej posłudze przybytku domu Bożego."
+        },
+        {
+          "number": 49,
+          "text": "Ale Aaron i synowie jego palili na ołtarzu całopalenia, i na ołtarzu kadzenia przy każdej posłudze świątyni świętych, i ku oczyszczaniu Izraela podług wszystkiego, jako był przykazał Mojżesz, sługa Boży."
+        },
+        {
+          "number": 50,
+          "text": "A ci są synowie Aaronowi: Eleazar syn jego, Finees syn jego,"
+        },
+        {
+          "number": 51,
+          "text": "Abisua syn jego, Bokki syn jego, Uzy syn jego, Zerachyjasz syn jego,"
+        },
+        {
+          "number": 52,
+          "text": "Merajot syn jego, Amaryjasz syn jego, Achytob syn jego,"
+        },
+        {
+          "number": 53,
+          "text": "Sadok syn jego, Achymaas syn jego."
+        },
+        {
+          "number": 54,
+          "text": "A te są mieszkania ich, według pałaców ich w granicy ich, to jest, synów Aaronowych według rodzaju Kaatytów: bo to był ich los."
+        },
+        {
+          "number": 55,
+          "text": "Przetoż dali im Hebron w ziemi Judzkiej, i przedmieścia jego około niego;"
+        },
+        {
+          "number": 56,
+          "text": "Ale pole miejskie i wsi ich dali Kalebowi, synowie Jefunowemu."
+        },
+        {
+          "number": 57,
+          "text": "Synom zaś Aaronowym dali z miast Judzkich miasta ucieczki Hebron, i Lobne i przedmieścia jego, i Jeter, i Estemoa, i z przedmieściami jego;"
+        },
+        {
+          "number": 58,
+          "text": "I Holon i przedmieścia jego, i Dabir i przedmieścia jego;"
+        },
+        {
+          "number": 59,
+          "text": "I Asan i przedmieścia jego, i Betsemes i przedmieścia jego."
+        },
+        {
+          "number": 60,
+          "text": "A z pokolenia Benjaminowego: Gabae i przedmieścia jego, i Almat i przedmieścia jego, i Anatot i przedmieścia jego. Wszystkich miast ich trzynaście miast według domów ich."
+        },
+        {
+          "number": 61,
+          "text": "A synom Kaatowym, pozostałym z rodzaju tegoż pokolenia, dostało się w połowie pokolenia Manasesowego losem miast dziesięć."
+        },
+        {
+          "number": 62,
+          "text": "A synom Giersonowym według domów ich dostało się w pokoleniu Isascharowem, i w pokoleniu Aserowem, i w pokoleniu Neftalimowem, i w pokoleniu Manasesowem w Bazan miast trzynaście."
+        },
+        {
+          "number": 63,
+          "text": "Synom Merarego według domów ich dostało się w pokoleniu Rubenowem, i w pokoleniu Gadowem, i w pokoleniu Zabulonowem losem miast dwanaście."
+        },
+        {
+          "number": 64,
+          "text": "Dali też synowie Izraelscy Lewitom miasta i przedmieścia ich;"
+        },
+        {
+          "number": 65,
+          "text": "A dali je losem w pokoleniu synów Judowych, i w pokoleniu synów Symeonowych, i w pokoleniu synów Benjaminowych, miasta te, które nazwali imiony swemi."
+        },
+        {
+          "number": 66,
+          "text": "A tym, którzy byli z rodu synów Kaatowych, (a były miasta i granice ich w pokoleniu Efraim.)"
+        },
+        {
+          "number": 67,
+          "text": "Tym dali z miast ucieczki Sychem i przedmieścia jego na górze Efraim, i Gazer i przedmieścia jego."
+        },
+        {
+          "number": 68,
+          "text": "I Jekmaan i przedmieścia jego, i Betoron i przedmieścia jego;"
+        },
+        {
+          "number": 69,
+          "text": "I Ajalon i przedmieścia jego, i Gatrymon i przedmieścia jego."
+        },
+        {
+          "number": 70,
+          "text": "A w połowie pokolenia Manasesowego: Aner i przedmieścia jego, Balam i przedmieścia jego. To dali rodzajowi pozostałemu synów Kaatowych."
+        },
+        {
+          "number": 71,
+          "text": "Synom też Giersonowym z rodu połowy pokolenia Manasesowego dali Golan w Bazan i przedmieścia jego, i Astarot i przedmieścia jego;"
+        },
+        {
+          "number": 72,
+          "text": "A w pokoleniu Isascharowem Kades i przedmieścia jego, Daberet i przedmieścia jego."
+        },
+        {
+          "number": 73,
+          "text": "I Ramot i przedmieścia jego, i Anam i przedmieścia jego."
+        },
+        {
+          "number": 74,
+          "text": "A w pokoleniu Aserowem Masal i przedmieścia jego, i Abdon i przedmieścia jego,"
+        },
+        {
+          "number": 75,
+          "text": "I Hukok i przedmiescia jego, i Rohob i przedmieścia jego."
+        },
+        {
+          "number": 76,
+          "text": "A w pokoleniu Neftalimowem: Kades w Galilei, i przedmieścia jego, i Hammon i przedmieścia jego, i Kiryjataim i przedmieścia jego."
+        },
+        {
+          "number": 77,
+          "text": "Synom Merarego, pozostałym z pokolenia Zabulon, dane są Remmon i przedmieścia jego, Tabor i przedmieścia jego."
+        },
+        {
+          "number": 78,
+          "text": "A za Jordanem u Jerycha na wschód słońca od Jordanu, dane są w pokoleniu Rubenowem: Besor na puszczy, i przedmieścia jego, i Jahasa i przedmieścia jego."
+        },
+        {
+          "number": 79,
+          "text": "I Kiedemot i przedmieścia jego, i Mefaat i przedmieścia jego."
+        },
+        {
+          "number": 80,
+          "text": "A w pokoleniu Gadowem Ramot w Galaad i przedmieścia jego; i Mahanaim i przedmieścia jego."
+        },
+        {
+          "number": 81,
+          "text": "Hesebon i przedmieścia jego, i Jazer i przedmieścia jego."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A synowie Isascharowi: Tola i Fua, Jasub, i Semram, czterej."
+        },
+        {
+          "number": 2,
+          "text": "A synowie Tolego: Uzy, i Rafajasz, i Jeryjel, i Jachamaj, i Jebsam, i Samuel; a cić byli książętami według domów ojców swych, którzy poszli z Tole, mężowie bardzo duży według narodów swych; poczet ich był za dni Dawodowych dwadzieścia i dwa tysiące i sześć set."
+        },
+        {
+          "number": 3,
+          "text": "A synowie Uzego: Izrahyjasz; a synowie Izrahyjaszowi: Michael i Obadyjasz, i Joel, Jesyjasz; pięć książąt wszystkich."
+        },
+        {
+          "number": 4,
+          "text": "A z nimi w narodach ich, według domów ojców ich, poczet mężów walecznych trzydzieści i sześć tysięcy; bo mieli wiele żon i synów."
+        },
+        {
+          "number": 5,
+          "text": "A braci ich według wszystkich rodzajów Isascharowych, mężów dużych było ośmdziesiąt i siedm tysięcy, wszystkich policzonych."
+        },
+        {
+          "number": 6,
+          "text": "Synowie Benjaminowi: Bela i Bechor, i Jedyjael, trzej."
+        },
+        {
+          "number": 7,
+          "text": "Synowie zaś Belego: Esbon i Uzy, i Uzyjel, i Jerymot, i Iry; pięć książąt domów ojcowskich, mężów dużych; naliczono dwadzieścia i dwa tysiące, i trzydzieści i cztery."
+        },
+        {
+          "number": 8,
+          "text": "A synowie Bechorowi; Zamirai i Joaz, i Eliezer, i Elienaj, i Amry, i Jerymot, i Abijasz, i Anatot, i Alamat; wszyscy ci synowie Bechorowi."
+        },
+        {
+          "number": 9,
+          "text": "A naliczono ich według rodzajów ich, książąt domów ojców ich, mężów udatnych dwadzieścia tysięcy i dwieście."
+        },
+        {
+          "number": 10,
+          "text": "A synowie Jedyjaelowi: Bilan; a synowie Bilanowi: Jehus, i Banjamin, i Ehod, i Chanaan, i Zetan, i Tarsys, i Achysachar."
+        },
+        {
+          "number": 11,
+          "text": "Tych wszystkich synów Jadyjaelowych według książąt domów ojcowskich, mężów bardzo dużych siedmnaście tysięcy i dwieście, wychodzących na wojnę do bitwy;"
+        },
+        {
+          "number": 12,
+          "text": "Oprócz Suppim i Ofim, synów w domu zrodzonych, i Husym, i synów w obcym kraju zrodzonych."
+        },
+        {
+          "number": 13,
+          "text": "A synowie Neftalimowi: Jachsel, i Guni, i Jesser, i Selem, synowie Bali."
+        },
+        {
+          "number": 14,
+          "text": "A synowie Manasesowi: Asryjel, którego mu urodziła Zona, (a założnica jego Syryjanka urodziła Machyra, ojca Galaadowego."
+        },
+        {
+          "number": 15,
+          "text": "A Machyr wziął sobie za żonę siostrę Ofimową i Suppimową, której imię było Maacha;) a imię drugiego Salfaad, i miał Salfaad córki."
+        },
+        {
+          "number": 16,
+          "text": "A urodziła Maacha, żona Machyrowa, syna, i nazwała imię jego Fares; a imię brata jego Sares, a synowie jego Ulam i Rekiem."
+        },
+        {
+          "number": 17,
+          "text": "A synowie Ulamowi Bedon. Cić są synowie Galaada, syna Machyrowego, syna Manasesowego."
+        },
+        {
+          "number": 18,
+          "text": "A siostra jego Molechet urodzi×a Isoda, i Abiezera, i Machala."
+        },
+        {
+          "number": 19,
+          "text": "A synowie Semidowi byli Ahyjan, i Sechem, i Likchy, i Anijam."
+        },
+        {
+          "number": 20,
+          "text": "A synowie Efraimowi: Sutala, i Bered syn jego, i Tachat syn jego, i Elada syn jego, i Tachat syn jego;"
+        },
+        {
+          "number": 21,
+          "text": "I Zabad syn jego, i Sutala syn jego, i Eser, i Elad. A pobili ich mężowie z Get, co się byli zrodzili w onej ziemi; albowiem byli wtargnęli, aby pobrali dobytki ich."
+        },
+        {
+          "number": 22,
+          "text": "Przetoż płakał Efraim, ojciec ich, przez wiele dni; i przyszli bracia jego, aby go cieszyli."
+        },
+        {
+          "number": 23,
+          "text": "Córkę też jego Seerę, która pobudowała Betoron niższe i wyższe, i Uzenzeera;"
+        },
+        {
+          "number": 24,
+          "text": "I Refacha syna jego, i Resefa, i Telacha syna jego, i Techena syna jego;"
+        },
+        {
+          "number": 25,
+          "text": "I Laadana syna jego, Ammiuda syna jego, Elisama syna jego;"
+        },
+        {
+          "number": 26,
+          "text": "Nuna syna jego, Jozuego syna jego."
+        },
+        {
+          "number": 27,
+          "text": "A osiadłość ich i mieszkania ich, Betel i wsi jego; a na wschód słońca Naaran; a na zachód słońca Gazer i wsi jego, i Sychem i wsi jego, aż do Aza i wsi jego."
+        },
+        {
+          "number": 28,
+          "text": "A podle miejsc synów Manasesowych: Betsan, i wsi jego, Tanach i wsi jego, Magieddon i wsi jego, Dor i wsi jego. W tych mieszkali synowie Józefowi, syna Izraelowego."
+        },
+        {
+          "number": 29,
+          "text": "Synowie Aserowi: Jemna i Jesua, Iswy i Beryja, i Sera, siostra ich."
+        },
+        {
+          "number": 30,
+          "text": "A synowie Beryjaszowi: Heber i Melchyjel; ten jest ojciec Birsawitów,"
+        },
+        {
+          "number": 31,
+          "text": "A Heber spłodził Jafleta, i Somera, i Hotama, i Suę, siostrę ich."
+        },
+        {
+          "number": 32,
+          "text": "A synowie Jafletowi: Pasach i Bimhal i Aswat. Cić są synowie Jafletowi."
+        },
+        {
+          "number": 33,
+          "text": "A synowie Somerowi: Ahy i Rohaga, Jechuba i Aram."
+        },
+        {
+          "number": 34,
+          "text": "A synowie Helema, brata jego: Sofach, Jemna, i Seles, i Amal."
+        },
+        {
+          "number": 35,
+          "text": "Synowie Sofachowi: Suach, Harnefer, i Sual, i Bery, i Imra."
+        },
+        {
+          "number": 36,
+          "text": "Beser, i Hod, i Sema, i Silsa, i Jetram, i Bera."
+        },
+        {
+          "number": 37,
+          "text": "A synowie Jeterowi: Jefone, i Fispa, i Ara, i Ulla."
+        },
+        {
+          "number": 38,
+          "text": "A synowie Ullowi: Arach, i Haniel, i Rysyjasz."
+        },
+        {
+          "number": 39,
+          "text": "Ci wszyscy są synowie Aserowi, książęta domów rodzajów swych, wybrani i duży mężowie, przedniejsi z książąt, którzy policzeni są na wojnę do bitwy; poczet tych mężów dwadzieścia i sześć tysięcy."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A Benjamin spłodził Belę, pierworodnego swego, Asbela wtórego, i Abracha trzeciego."
+        },
+        {
+          "number": 2,
+          "text": "Nocha czwartego, a Rafajasza piątego."
+        },
+        {
+          "number": 3,
+          "text": "A synowie Beli byli Addar i Giera i Abihud."
+        },
+        {
+          "number": 4,
+          "text": "I Abisua i Noaman i Achoach."
+        },
+        {
+          "number": 5,
+          "text": "I Giera i Sufam i Churam."
+        },
+        {
+          "number": 6,
+          "text": "A cić są synowie Echudowi: ci są książętami narodów mieszkających w Gabaa, którzy je przenieśli do Manakat;"
+        },
+        {
+          "number": 7,
+          "text": "To jest Noaman, i Achija, i Giera; on je przeniósł, a spłodził Uzę, i Ahyhuda, i Sacharaima."
+        },
+        {
+          "number": 8,
+          "text": "A Sacharaim spłodził dzieci w krainie Moabskiej, gdy one był odprawił, z Chusymą, i Barą, żonami swemi."
+        },
+        {
+          "number": 9,
+          "text": "Spłodził tedy z Hodes, żoną swą, Jobaba, i Sebijasza, i Mezę, i Malchama."
+        },
+        {
+          "number": 10,
+          "text": "I Jehusa, i Sachyjasza, i Mirmę. Cić są synowiejego, książęta domów ojcowskich."
+        },
+        {
+          "number": 11,
+          "text": "A z Chysymą spłodził Abituba i Elfaala."
+        },
+        {
+          "number": 12,
+          "text": "A synowie Elfaalowi: Eber, i Misaam, i Samed, który zbudował Ono, i Lod i wsi jego."
+        },
+        {
+          "number": 13,
+          "text": "A Beryja i Sama byli książętami narodíw mieszkających w Ajalon; ci wygnali obywateli z Get."
+        },
+        {
+          "number": 14,
+          "text": "A Achyjo, Sesak i Jerymot,"
+        },
+        {
+          "number": 15,
+          "text": "I Zabadyjasz, i Arad, i Hader,"
+        },
+        {
+          "number": 16,
+          "text": "I MIchael, i Isfa, i Jocha, synowie Berajaszowi."
+        },
+        {
+          "number": 17,
+          "text": "A Zabadyjasz, i Mesullam, i Hyszki, i Heber,"
+        },
+        {
+          "number": 18,
+          "text": "I Ismaraj, i Islijasz, i Jobab, synowie Elfaalowi."
+        },
+        {
+          "number": 19,
+          "text": "A Jakim, i Zychry, i Zabdy,"
+        },
+        {
+          "number": 20,
+          "text": "I Elienaj, i Selataj, i Eliel,"
+        },
+        {
+          "number": 21,
+          "text": "I Adajasz, i Berajasz, i Symrat, synowie Synchy."
+        },
+        {
+          "number": 22,
+          "text": "A Isfan, i Eber, i Eliel,"
+        },
+        {
+          "number": 23,
+          "text": "I Abdon, i Zychry, i Chanan,"
+        },
+        {
+          "number": 24,
+          "text": "I Hananijasz, i Eleam, i Anatotyjasz,"
+        },
+        {
+          "number": 25,
+          "text": "I Ifdajasz, i Fanuel, synowie Sesakowi."
+        },
+        {
+          "number": 26,
+          "text": "I Samseraj, i Zecharyjasz, i Atalijasz,"
+        },
+        {
+          "number": 27,
+          "text": "I Jaresyjasz, i Elijasz, i Zychry, synowie Jerochamowi."
+        },
+        {
+          "number": 28,
+          "text": "Ci są książęta domów ojcowskich według rodzajów swych, a ci książęta mieszkali w Jeruzalemie."
+        },
+        {
+          "number": 29,
+          "text": "A w Gabaonie mieszkał ojciec Gabaończyków, a imię żony jego było Maacha."
+        },
+        {
+          "number": 30,
+          "text": "A syn jego pierworodny Abdon; po nim Sur, i Cys, i Baal, i Nadab."
+        },
+        {
+          "number": 31,
+          "text": "I Giedor, i Achyjo, i Zechar."
+        },
+        {
+          "number": 32,
+          "text": "Ale Michlot spłodził Symejasza; a ci także naprzeciwko braci swych mieszkali w Jeruzalemie z braćmi swymi."
+        },
+        {
+          "number": 33,
+          "text": "A Ner spłodził Cysa, a Cys spłodził Saula; Saul zaś spłodził Jonatana i Melchisuego, i Abinadaba i Esbaala."
+        },
+        {
+          "number": 34,
+          "text": "A syn Jonatanowy był Merybbaal, a Merybbaal spłodził Michasa."
+        },
+        {
+          "number": 35,
+          "text": "A synowie Michasowi: Fiton i Melech i Tarea i Achaz."
+        },
+        {
+          "number": 36,
+          "text": "A Achaz spłodził Joada, a Joada spłodził Alemeta i Asmaweta i Zymrego, a Zymry spłodził Mose;"
+        },
+        {
+          "number": 37,
+          "text": "A Mosa spłodził Binę; Refajasz syn jego, Elasa syn jego, Asel syn jego."
+        },
+        {
+          "number": 38,
+          "text": "Ten Asel miał sześć synów, a teć imiona ich: Asrykam, Bochru, i Ismael, i Searyjasz, i Obadyjasz, i Hanan; ci wszyscy synowie Aselowi."
+        },
+        {
+          "number": 39,
+          "text": "A syowie Eseka, brata jego: Ulam pierworodny jego. Jehus wtóry, i Elifelet trzeci."
+        },
+        {
+          "number": 40,
+          "text": "A synowie Ulamowi byli mężowie duży, i mocno łuk ciągnący, którzy mieli wiele synów i wnuków, aż do stu i pięćdziesiąt. Ci wszyscy poszli z synów Benjaminowych."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A tak wszyscy Izraelczycy obliczeni są; a oto zapisani są w księgach królów Izraelskich i Judzkich, a przeniesieni są do Babilonu dla przestępstwa swego."
+        },
+        {
+          "number": 2,
+          "text": "Lecz którzy pierwsi mieszkali w osiadłościach swych i w miastach swoich, Izraelczycy, kapłani, Lewitowie, i Netynejczycy."
+        },
+        {
+          "number": 3,
+          "text": "W Jeruzalemie mieszkali z synów Judowych, i z synów Benjaminowych, i z synów Efraimowych, i Manasesowych;"
+        },
+        {
+          "number": 4,
+          "text": "Uttaj, syn Ammiuda, syna Amry, syna Imry, syna Bonny, z synów Faresa, syna Judowego."
+        },
+        {
+          "number": 5,
+          "text": "A z Sylona: Asajasz pierworodny, i synowie jego."
+        },
+        {
+          "number": 6,
+          "text": "A z synów Zerachowych: Jehuel i braci ich sześć set i dziewięćdziesiąt."
+        },
+        {
+          "number": 7,
+          "text": "A z synów Benjaminowych: Salu, syn Mesullama, syna Hodowiego, syna Asenuowego."
+        },
+        {
+          "number": 8,
+          "text": "A Ibnijasz, syn Jerochamowy, i Ela, syn Uzego, syna Michry, i Mesullam, syn Sefatyjasza, syna Rehuelowego, syna Ibnijaszowego."
+        },
+        {
+          "number": 9,
+          "text": "Także braci ich według narodów ich było dziewięć set i pięćdziesiąt i sześć: ci wszyscy mężowie byli książętami rodzajów według domów ojców swoich."
+        },
+        {
+          "number": 10,
+          "text": "Z kapłanów zasię: Jedejasz, i Jechojaryk, i Jachyn,"
+        },
+        {
+          "number": 11,
+          "text": "I Azaryjasz, syn Helkijasza, syna Mesullamowego, syna Sadokowego, syna Merajatowego, syna Achytobowego, był książęciam domu Bożego."
+        },
+        {
+          "number": 12,
+          "text": "I Adajasz, syn Jerohama, syna Fassurowego, syna Melchyjaszowego, i Maasaj, syn Adyjela, syna Jechserowego, syna Mesulla,owego, syna Mesullemitowego, syna Immerowego."
+        },
+        {
+          "number": 13,
+          "text": "A braci ich książęt według domów ojców ich było tysiąc i siedm set i sześćdziesiąt, mążów dużych ku sprawowaniu posługi w domu Bożym."
+        },
+        {
+          "number": 14,
+          "text": "A z Lewitów: Semejasz, syn Hassuba, syna Asrykamowego, syna Hasabijaszowego, z synów Merarego;"
+        },
+        {
+          "number": 15,
+          "text": "I Bakkabar, Cheres, i Galal, i Matanijasz, syn Michy, syna Zychrego, syna Asafowego;"
+        },
+        {
+          "number": 16,
+          "text": "Obadyjasz też, syn Semahajasza, syna Galalowego, syna Jedytunowego, i Barachyjasz, syn Asy, syna Elkanowego, który mieszkał we wsiach Netofatyckich."
+        },
+        {
+          "number": 17,
+          "text": "A odźwierni: Sallum, i Akkub, i Talmon, i Ahyman, i nracia ich; Sallum książę między nimi."
+        },
+        {
+          "number": 18,
+          "text": "Który aż dotąd w bramie królewskiej stawał na wschód słońca; ci byli odźwiernymi według pocztów synów Lewiego."
+        },
+        {
+          "number": 19,
+          "text": "Ale Sallum, syn Korego, syna Abijazafowego, syna Korego, i bracia jego z domu ojca jego, Korytczycy byli ku odprawowaniu posługi, stróżami progów namiotu; a ojcowie ich byli nad obozem Pańskim stróżami wejścia."
+        },
+        {
+          "number": 20,
+          "text": "A Finees syn Eleazarowy, był książęciem nad nimi, a Pan był z nimi."
+        },
+        {
+          "number": 21,
+          "text": "Zacharyjasz zasię, syn Mesellemijaszowy, był odźwiernym drzwi u namiotu zgromadzenia."
+        },
+        {
+          "number": 22,
+          "text": "Cić wszyscy są obrani za odźwiernych do drzwi, dwieście osób i dwanaście: ci we wsiach swych policzeni są, których postanowił Dawid i Samuel widzący, dla wierności ich,"
+        },
+        {
+          "number": 23,
+          "text": "Aby oni i synowie ich byli we drzwiach domu Pańskiego, w domu namiotu na straży."
+        },
+        {
+          "number": 24,
+          "text": "I byli odźwierni po czterech stronach, na wschód, na zachód, na północy, i na południe."
+        },
+        {
+          "number": 25,
+          "text": "Bracia zasię ich byli we wsiach swych, przychodząc każdego siódmego dnia, od czasu aż do czasu odmieniając się z nimi."
+        },
+        {
+          "number": 26,
+          "text": "Albowiem pod sprawą tych czterech przedniejszych odźwiernych byli Lewitowie, a byli przełożeni nad gmachami i nad skarbami domu Bożego;"
+        },
+        {
+          "number": 27,
+          "text": "A około domu Bożego nocowali, gdyż im należała straż jego; a oni go na każdy poranek otwierali."
+        },
+        {
+          "number": 28,
+          "text": "A z nich niektórzy byli nad naczyniem ku posługiwaniu; albowiem pod liczbą wnosili je, i pod liczbą wynosili je."
+        },
+        {
+          "number": 29,
+          "text": "Niektózry zasię z nich byli postanowieni nad innem naczyniem, i nad wszystkiem naczyniem świątnicy, i nad mąką pszenną i winem, i oliwą, i kadzidłem, i nad rzeczami wonnemi."
+        },
+        {
+          "number": 30,
+          "text": "A niektórzy z synów kapłańskich sprawowali maści z rzeczy wonnych."
+        },
+        {
+          "number": 31,
+          "text": "Matatyjasz też z Lewitów, pierworodny Salluma Korytczyka, był przełożony nad rzeczami, które w panwiach smażono."
+        },
+        {
+          "number": 32,
+          "text": "A z synów Kaatowych z braci ich, byli niektórzy przełożonymi nad chlebami pokładnemi, aby je gotowali na każdy sabat."
+        },
+        {
+          "number": 33,
+          "text": "A z tych byli śpiewacy, przedniejsi z domów ojcowskich, między Lewitami mieszkający w gmachach, od inszych prac wolni; bo we dnie i w nocy powinności swej pilnować musieli."
+        },
+        {
+          "number": 34,
+          "text": "Ci przedniejsi z domów ojcowskich między Lewitami, według narodów swych przedniejsi; ci mieszkali w Jeruzalemie."
+        },
+        {
+          "number": 35,
+          "text": "A w Gabaonie mieszkali ojciec Gabaończyków Jehyjel, a imię żony jego Maacha;"
+        },
+        {
+          "number": 36,
+          "text": "A syn jego pierworodny Abdon, po nim Sur, i Cys, i Baal, i Neer, i Nadab,"
+        },
+        {
+          "number": 37,
+          "text": "I Giedeor, i Achyjo, i Zacharyjasz, i Michlot;"
+        },
+        {
+          "number": 38,
+          "text": "(A Michlot spłodził Symmama) a ci także przweciw braci swych mieszkali w Jeruzalemie z braćmi swymi."
+        },
+        {
+          "number": 39,
+          "text": "A Neer spłodził Cysa, a Cys spłodził Saula, a Saul spłodził Jonatana, i Melchisuego, i Abidanaba, i Esbaala."
+        },
+        {
+          "number": 40,
+          "text": "A syn Jonatana Merybbaal; a Merybbaal spłodził Michasa."
+        },
+        {
+          "number": 41,
+          "text": "Synowie zaś Michasowi: Fiton, i Melech, i Tarea, i Achaz."
+        },
+        {
+          "number": 42,
+          "text": "A Achaz spłodził Jarę; a Jara spłodził Alemeta, i Asmaweta, i Zynrego; a Zymry spłodził Mosę."
+        },
+        {
+          "number": 43,
+          "text": "A Mosa spłodził Binę; a Refajasz syn jego, Elasa syn jego, Asel syn jego."
+        },
+        {
+          "number": 44,
+          "text": "A Asel miał sześć synów; a teć imiona ich: Asrykam, i Bochru, i Ismael, i Searyjasz, i Obadyjasz, i Hanan. Cić są synowie Aselowi."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy Filistynowie walczyli z Izraelem, uciekli mężowie Izraelscy przed Filistynami a polegli, będąc porażeni na górze Gielboe."
+        },
+        {
+          "number": 2,
+          "text": "I gonili Filistynowie Saula i synów jego; i zabili Filistynowie Jonatana, i Abinadaba, i Melchisuego, synów Saulowych."
+        },
+        {
+          "number": 3,
+          "text": "A gdy się zmocniła bitwa przeciw Saulowi, trafili na niego strzelcy, i z łuku zraniony jest od strzelców."
+        },
+        {
+          "number": 4,
+          "text": "Rzekł tedy Saul do sługi swego, co za nim broń nosił: Dobądź miecza twego, a przebij mię nim, by snać nie przyszli ci nieobrzezańcy, a nie pośmiewali się ze mnie. Ale nie chciał sługa, który nosił broń jego; bo się bardzo bał. Przetoż porwawszy Saul miech, padł nań."
+        },
+        {
+          "number": 5,
+          "text": "A widząc sługa, co nosił broń jego, że umarł Saul, padłszy też i sam na miecz umarł."
+        },
+        {
+          "number": 6,
+          "text": "A tak umarł Saul, i trzej synowie jego, i wszystek dom jego z nim pospołu zginął."
+        },
+        {
+          "number": 7,
+          "text": "Co gdy ujrzeli wszyscy mężowie Izraelscy, którzy mieszkali na dolinie, iż uciekli Izraelczycy, a iż pomarli Saul i synowie jego, opuściwszy miasta swe także uciekli. I przyszli Filistynowie, i mieszkali w nich."
+        },
+        {
+          "number": 8,
+          "text": "A gdy nazajutrz przyszli Filistynowie brać łupy z pobitych, znaleźli Saula, i synów jego, leżących na górze Gielboe;"
+        },
+        {
+          "number": 9,
+          "text": "A złupiwszy go wzięli głowę jego, i zbroję jego, i posłali po ziemi Filistyńskiej w około, aby to ogłoszone było przed bałwany ich, i przed ludem."
+        },
+        {
+          "number": 10,
+          "text": "I położyli zbroję jego w domu boga swego, a głowę jego zawiesili w domu Dagonowym."
+        },
+        {
+          "number": 11,
+          "text": "Usłyszawszy tedy wszyscy mężowie Jabes Galaad wszystko, co uczynili Filistynowie Saulowi,"
+        },
+        {
+          "number": 12,
+          "text": "Powstali wszyscy mężowie mocni, i wzięli ciało Saulowe, i ciało synów jego, a przyniósłszy do Jabes pogrzebli kości ich pod dębem w Jabes, i pościli przez siedm dni."
+        },
+        {
+          "number": 13,
+          "text": "A tak umarł Saul dla przestępstwa swego, którem był wystąpił przeciwko Panu, i przeciwko słowu Pańskiemu, któego nie przestrzegał, iż się radził ducha wieszczego, pytając się go;"
+        },
+        {
+          "number": 14,
+          "text": "A iż się nie radził Pana, zabił go, a przeniósł królestwo na Dawida, syna Isajego."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zebrał się tedy wszystek Izrael do Dawida do Hebronu, mówiąc: Otośmy kość twoja i ciało twoje!"
+        },
+        {
+          "number": 2,
+          "text": "Jako i przedtem, gdy jeszcze był Saul królem, też wywodził i wwodził Izraela. Tak Pan, Bóg twój, rzekł tobie: Ty będziesz pasł lud mój Izraelski, a ty będziesz wodzem nad ludem moim Izraelskim."
+        },
+        {
+          "number": 3,
+          "text": "A tak przyszli wszyscy starsi Izraelscy do króla do Hebronu, i uczynił Dawid z nimi przymierze w Hebronie przed Panem, i pomazali Dawida za króla nad Izraelem według słowa Pańskiego, które powiedział przez Samuela."
+        },
+        {
+          "number": 4,
+          "text": "Jechał tedy Dawid ze wszystkim Izraelem do Jeruzalemu, które jest Jebus, gdzie byli Jebuzejczycy obywatelami ziemi."
+        },
+        {
+          "number": 5,
+          "text": "I rzekli obywatele Jebuzejscy do Dawida: Nie wnijdziesz sam. Ale Dawid wziął zamek Syoński, który jest miastem Dawidowem."
+        },
+        {
+          "number": 6,
+          "text": "Bo był rzekł Dawid: Ktobykolwiek poraził Jebuzejczzyka najpierwej, ten będzie skiążęciem i hetmanem. Przetoż wstąpił najpierw Joab, syn Sarwii, i został hetmanem."
+        },
+        {
+          "number": 7,
+          "text": "I mieszkał Dawid na onym zamku; dla tego nazwano go miastem Dawidowem."
+        },
+        {
+          "number": 8,
+          "text": "I zbudował miasto w około, od Mello aż w okrąg; a Joab pobudował ostatek miasta."
+        },
+        {
+          "number": 9,
+          "text": "A tak Dawid im dalej, tem więcej rozmnażał się, i rosł; albowiem Pan zastępów był z nim."
+        },
+        {
+          "number": 10,
+          "text": "A cić są najorzedniejsi rycerze, których miał Dawid, którzy się mężnie starali z nim o królestwo jego ze wszystkim Izraelem, aby go królem uczynili według słowa Pańskiego nad Izraelem."
+        },
+        {
+          "number": 11,
+          "text": "A tenci jest poczet rycerzy, których miał Dawid: Jasobam, syn Chachmonowy, przedniejszy między trzydziestoma; ten podniósłszy oszczep swój na trzystu, jednym razem ich zabił."
+        },
+        {
+          "number": 12,
+          "text": "A po nim Elezar, syn Dodonowy, Achochytczyk; ten był jednym między trzema mocarzami."
+        },
+        {
+          "number": 13,
+          "text": "Ten był z Dawidem w Pasdamim, gdzie się zebrali byli Filistynowie ku bitwie; a była ona część pola pełna jęczmienia, a lud był uciekł przed Filistynami."
+        },
+        {
+          "number": 14,
+          "text": "I stanęli w pośród onego pola, i obronili go, a porazili Filistynów: i wybawił Pan lud wybawieniem wielkiem."
+        },
+        {
+          "number": 15,
+          "text": "Ci także trzej ze trzydziestu przedniejszych wstąpili na skałę do Dawida do jaskini Odollam, gdyż wojsko Filistyńskie leżało obozem w dolinie Rafaim;"
+        },
+        {
+          "number": 16,
+          "text": "Albowiem Dawid natenczas mieszkał na zamku, a stanowisko Filistyńskie było natenczas w Betlehem."
+        },
+        {
+          "number": 17,
+          "text": "Pragnęł tedy Dawid: Oby mi się kto dał napić wody z studni Betlehemskiej, która jest u bramy!"
+        },
+        {
+          "number": 18,
+          "text": "Przetoż przebiwszy się ci trzej przez wojsko Filistyńskie, naczerpali wody z studni Betlehemskiej, która jest u bramy, a wziąwszy przynieśli do Dawida. Lecz jej nie chciał Dawid pić, ale ją wylał na ofiarę Panu."
+        },
+        {
+          "number": 19,
+          "text": "I rzekł: Nie daj mi tego, Boże mój, abym to uczynić miał! Izali krew tych mężów pić będą, którzy odważyli żywot swój? albowiem z odwagą żywota swego przynieśli ją; i nie chciał jej pić. Toć uczynili trzej oni mocarze."
+        },
+        {
+          "number": 20,
+          "text": "A Abisaj, brat Joabowy, był przedniejszy z onych trzech; tenże podniósł włócznię swą na trzysta ludu, które pobił, i otrzymał sławę między onymi trzema."
+        },
+        {
+          "number": 21,
+          "text": "Z tych trzech nad innych dwóch był sławniejszy, a był ich książęciem; jednak onych trzech pierwszych nie doszedł."
+        },
+        {
+          "number": 22,
+          "text": "Banajas też, syn Jojady, syn męża dużego, wielkich spraw, z Kabseela, ten zabił dwóch mocarzów Moabskich; ten też zszedłszy zabił lwa w pośród jamy, gdy był śnieg."
+        },
+        {
+          "number": 23,
+          "text": "Ten też zabił męża Egipczanina, męża, którego wzrost był na pięć łokci. A chociaż Egipczanin miał w ręku oszczep jako nawój tkacki, wszkże przyszedł do niego z kijem, i wydarł oszczep z ręki Egipczanina, i zabił go oszczepem jego."
+        },
+        {
+          "number": 24,
+          "text": "To uczynił Banajas, syn Jojady, który także sławnym został między onymi trzema mocarzami."
+        },
+        {
+          "number": 25,
+          "text": "A choć był między onymi trzydziestoma sławnym, wszakże nie doszedł onych trzech. I postanowił go Dawid nad drabantami swymi."
+        },
+        {
+          "number": 26,
+          "text": "A w wojsku co mocniejsi byli: Asael, brat Joabowy, Elkanan, syn Dodonowy z Betlehem;"
+        },
+        {
+          "number": 27,
+          "text": "Sammot Harodczyk, Heles Felonitczyk;"
+        },
+        {
+          "number": 28,
+          "text": "Hyra, syn Ikkiesowy, Tekuitczyk, Abiezer Anatotczyk;"
+        },
+        {
+          "number": 29,
+          "text": "Sybbechaj Husatczyk, Ilaj Ahohytczyk;"
+        },
+        {
+          "number": 30,
+          "text": "Maharaj Netofatczyk, Heled, syn Baamy, Netofatczyk;"
+        },
+        {
+          "number": 31,
+          "text": "Itaj, syna Rybajego, z Gabaat synów Benjaminowych, Banajas Faratończyk;"
+        },
+        {
+          "number": 32,
+          "text": "Hutaj od potoku Gaas; Abiel Arbatczyk;"
+        },
+        {
+          "number": 33,
+          "text": "Asmawet Bacharomczyk; Elijachba Salabończyk."
+        },
+        {
+          "number": 34,
+          "text": "Synowie Asema Gisończyka: Jonatan, syn Sagii, Hororczyk;"
+        },
+        {
+          "number": 35,
+          "text": "Ahijam, syn Zacharowy, Ararytczyk, Elifal, syn Urowy;"
+        },
+        {
+          "number": 36,
+          "text": "Hefer Mecheratczyk, Achijas Felonitczyk;"
+        },
+        {
+          "number": 37,
+          "text": "Hesro Karmelczyk, Naaraj, syn Ezbajowy;"
+        },
+        {
+          "number": 38,
+          "text": "Joel, brat Natanowy,Michbar, syn Gierego."
+        },
+        {
+          "number": 39,
+          "text": "Selek Ammonitczyk, Nacharaj Berotczyk, który nosił broń Koaba, syna Sarwii;"
+        },
+        {
+          "number": 40,
+          "text": "Hyra Itrejczyk, Gareb Itrejczyk;"
+        },
+        {
+          "number": 41,
+          "text": "Uryjasz Hetejczyk, Zabad, syn Achalajego."
+        },
+        {
+          "number": 42,
+          "text": "Adyna, syn Sysy, Rubenitczyk, książę Rubenitów, a z nim trzydzieści mężów."
+        },
+        {
+          "number": 43,
+          "text": "Hanan, syn Maachy, i Jozafat Mitnitczyk."
+        },
+        {
+          "number": 44,
+          "text": "Uzyjasz Asteratczyk, Sama i Jehijel, synowie Hotamy Aroerytczyka."
+        },
+        {
+          "number": 45,
+          "text": "Jedinael, syn Symry, i Jocha, brat jego, Tysytczyk."
+        },
+        {
+          "number": 46,
+          "text": "Eliel Machawimczyk, i Jerybaj, i Josawijasz, synowie Elnaamowi, i Itma Moabczyk."
+        },
+        {
+          "number": 47,
+          "text": "Eliel, i Obed, i Jaasyjel z Mezobaj."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A cić są, co byli przyszli do Dawida do Sycelegu, gdy się jeszcze krył przed Saulem, synem Cysowym; a ci byli między mocarzami posiłek dawający w bitwie,"
+        },
+        {
+          "number": 2,
+          "text": "Noszący łuk, a prawą i lewą ręką ciskający kamieńmi, i strzelający z łuku, a byli z braci Saulowych z pokolenia Benjaminowego:"
+        },
+        {
+          "number": 3,
+          "text": "Książe Achyjezer, i Joaz, synowie Semmai Gabatczyka, i Jezyjel, i Falet, synowie Azmawetowi, i Baracha, i Jehu Anatotczyk;"
+        },
+        {
+          "number": 4,
+          "text": "Ismajasz też Gabaończyk, mężny między trzydziestoma, a był przełożony nad trzydziestoma; i Jeremijasz, i Jahazyjel, Johanan, i Jozabad Gliederatczyk;"
+        },
+        {
+          "number": 5,
+          "text": "Eluzaj, i Jerymot, i Bealijasz, i Semaryjasz, i Sefatyjasz Harufitszyk;"
+        },
+        {
+          "number": 6,
+          "text": "Elkana, i Jesyjasz, i Asareel i Joezer, i Jasobam Korchytczyk;"
+        },
+        {
+          "number": 7,
+          "text": "I Joela, i Zebadyjasz, synowie Jerohamowi z Giedor."
+        },
+        {
+          "number": 8,
+          "text": "A z pokolenia Gadowego zbiegli byli do Dawida na miejsce obronne na puszczę mężowie duży, mężowie sposobni do boju, noszący tarcz i kopiję, których twarze były jako lwie tarze, a jako sarny po górach prędcy;"
+        },
+        {
+          "number": 9,
+          "text": "Eser przedniejszy, Obadyjasz wtóry, Elijab trzeci,"
+        },
+        {
+          "number": 10,
+          "text": "Mismanna czwarty, Jeremijasz piąty,"
+        },
+        {
+          "number": 11,
+          "text": "Ataj szósty, Eliel siódmy,"
+        },
+        {
+          "number": 12,
+          "text": "Jochanan ósmy, Elzebad dziewiąty,"
+        },
+        {
+          "number": 13,
+          "text": "Jeremijasz dziesiąty, Machbanajasz jedenasty."
+        },
+        {
+          "number": 14,
+          "text": "Cić byli z synów Gadowych, hetmani wojska, jeden nad stem mniejszy, a większy nad tysiącem."
+        },
+        {
+          "number": 15,
+          "text": "Cić są, którzy przeszli Jordan miesiąca pierwszego, który był wylał ze wszystkich brzegów swoich; i wygnali wszystkich mieszkających w dolinach na wschód i na zachód słońca."
+        },
+        {
+          "number": 16,
+          "text": "Przyszli także niektórzy z synów Benjaminowych i z Judowych, do miejsca obronnego, do Dawida."
+        },
+        {
+          "number": 17,
+          "text": "I wyszedł Dawid przeciwko nim a odpowiadając, rzekł im: Jeźliście spokojnie przyszli do mnie, abyście mię ratowali, serce też moje złączy się z wami; ale jeźliście przyszli, abyście mię wydali nieprzyjaciołom moim, (choć nie masz nieprawości przy mnie) niech w to wejrzy Bóg ojców naszych, a niech sądzi."
+        },
+        {
+          "number": 18,
+          "text": "Tedy Duch przyoblekł Amazyjasza, przedniejszego między hetmanami, i rzekł: Twoiśmy, o Dawidzie! a z tobą przestajemy, synu Isajego. Pokój, pokój tobie, i pokój pomocnikom twoim! gdyż ci pomaga Bóg twój. A tak przyjął ich Dawid, i postanowił ich hetmanami wojska."
+        },
+        {
+          "number": 19,
+          "text": "A z pokolenia Manasesowego odpadli niektórzy do Dawida, gdy ciągnął z Filistynami przeciwko Saulowi na wojnę; ale im nie byli na pomocy, gdyż naradziwszy się książęta Filistyńscy odesłali go, mówiąc: Ten z niebezpieczeństwem głów naszych odpadnie do Saula, pana swego."
+        },
+        {
+          "number": 20,
+          "text": "Gdy tedy szedł do Syceleu, uciekli do niego niektórzy z pokolenia Manasesowego: Adnach i Josabad, i Jediael, i Michael, i Jozabad i Elihu, i Sylletaj, i hetmani nad tysiącami w pokoleniu Manasesowem."
+        },
+        {
+          "number": 21,
+          "text": "A ci posiłkowali Dawida przeciw onemu hufowi; bo mężni byli wszyscy, przetoż byli hetmanami w wojsku jego."
+        },
+        {
+          "number": 22,
+          "text": "Nawet na każdy dzień ściągali się do Dawida na pomoc jemu, aż było wojsko wielkie jako wojsko Boże."
+        },
+        {
+          "number": 23,
+          "text": "A tać jest liczba przedniejszych gotowych do boju, którzy przyszli do Dawida do Hebronu, aby przenieśli królestwo Saulowe do niego według słowa Pańskiego."
+        },
+        {
+          "number": 24,
+          "text": "Z synów Judowych, noszących tarcz i włócznię, sześć tysięcy i ośm set gotowych do boju."
+        },
+        {
+          "number": 25,
+          "text": "Z synów Symeonowych, mężnych do boju, siedm tysięcy i sto."
+        },
+        {
+          "number": 26,
+          "text": "Z synów Lewiego cztery tysiące i sześć set."
+        },
+        {
+          "number": 27,
+          "text": "Jojada także przedniejszy z synów Aaronowych, a z nim trzy tysiące i siedm set."
+        },
+        {
+          "number": 28,
+          "text": "A Sadok młodzieniec, rycerz mężny, i z domu ojca jego książąt dwadzieścia i dwóch."
+        },
+        {
+          "number": 29,
+          "text": "A z synów Benjaminowych, braci Saulowych, trzy tysiące; bo jeszcze wielka część ich przestawała z domem Saulowym."
+        },
+        {
+          "number": 30,
+          "text": "A z synów Efraimowych dwadzieścia tysięcy i ośm set, ludzi mężnych, mężów sławnych w domach ojców ich."
+        },
+        {
+          "number": 31,
+          "text": "A z połowy pokolenia Manasesowego ośmnaście tysięcy, którzy byli mianowani według imion, aby przyszli i postanowili Dawida królem."
+        },
+        {
+          "number": 32,
+          "text": "A z synów Isascharowych, umiejących rozeznawać czasy, tak iż wiedzieli, co kiedy czynić miał Izrael, książąt ich dwieście; a wszyscy bracia ich przestawali na radzie ich."
+        },
+        {
+          "number": 33,
+          "text": "Z pokolenia Zabulonowego, którzy wychodzili na wojnę, gotowych do boju z każdym orężem wojennym, pięćdziesiąt tysięcy, stawających w szyku jednostajnem sercem."
+        },
+        {
+          "number": 34,
+          "text": "A z pokolenia Neftalimowego książąt tysiąc, a z nimi z tarczami i z kopijami trzydzieści i siedm tysięcy."
+        },
+        {
+          "number": 35,
+          "text": "A z pokolenia Danowego, gotowych do boju, dwadzieścia i ośm tysięcy i sześć set."
+        },
+        {
+          "number": 36,
+          "text": "A z pokolenia Aserowego, którzy wychodzili na wojnę, i umieli się szykować do bitwy, czterdzieści tysięcy."
+        },
+        {
+          "number": 37,
+          "text": "A z Za-Jordania z pokolenia Rubenowego i Gadowego, i z połowy pokolenia Manasesowego ze wszystkim orężemwojennym sto i dwadzieścia tysięcy."
+        },
+        {
+          "number": 38,
+          "text": "Ci wszyscy mężowie waleczni sprawni ku bitwie, sercem uprzejmem przyszl do Hebronu, aby postanowili Dawida królem nad wszystkim Izraelem. Nadto i wszyscy inni z Izraela jednego serca byli, aby postanowili królem Dawida."
+        },
+        {
+          "number": 39,
+          "text": "I byli tam z Dawidem przez trzy dni jedząc i pijąc: bo im byli nagotowali bracia ich."
+        },
+        {
+          "number": 40,
+          "text": "Także i którzy blisko ich byli aż do Isaschar i Zabulon i Neftalim, przynosili chleby na osłach, i na wielbłądach, i na mułach, i na wołach, potrawy, mąki, figi, rodzynki, i wino, i oliwę, i wołów, i owiec wielkim dostatkiem; bo była radość w Izraelu."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A Dawid wszedł w radę z hetmanami nad tysiącami, i z setnikami, i ze wszystkimi rotmistrzami."
+        },
+        {
+          "number": 2,
+          "text": "I mówił Dawid do wszystkiego zgromadzenia Izraelkskiego: Jeźli się wam podoba, i jeźli to jest od Pana Boga naszego, roześlijmy wszędy do braci naszych pozostałych po wszystkich krainach Izraelskich; przytem też do kapłanów i Lewitów po miastach i przedmieściach ich, a niech się zgromadzą do nas:"
+        },
+        {
+          "number": 3,
+          "text": "Abyśmy przeprowadzili skrzynię Boga naszego do nas; albowiem nie pytaliśmy się o niej za dni Saulowych."
+        },
+        {
+          "number": 4,
+          "text": "I rzekło wszystko zgromadzenie, aby się tak stało; bo się ta rzecz podobała wszystkiemu ludowi."
+        },
+        {
+          "number": 5,
+          "text": "Zebrał tedy Dawid wszystkiego Izraela od Nilu Egipskiego aż gdzie się chodzi do Emat, aby przyprowadzili skrzynię Bożą z Karyjatyjarym."
+        },
+        {
+          "number": 6,
+          "text": "A tak przyszedł Dawid, i wszystek Izrael do Baala w Karyjatyjarym, które jest w Judzie, aby przyprowadzili stamtąd skrzynię Pana Boga siedzącego nad Cherubinami, gdzie wzywane bywa imię jego."
+        },
+        {
+          "number": 7,
+          "text": "I wieźli skrzynię Bożą na wozie nowym z domu Abinadabowego, a Oza i Achyjo prowadzili wóz."
+        },
+        {
+          "number": 8,
+          "text": "Lecz Dawid i wszystek Izrael grali przed Bogiem ze wszystkiej mocy, i pieśniami, i na harfach, i na cytrach, i na bębnach, i na cymbałach, i na trąbach."
+        },
+        {
+          "number": 9,
+          "text": "A gdy przyszli na bojewisko Chydon, ściągnął Oza rękę swą, aby zadzierżał skrzynię; bo woły były wystąpiły z drogi."
+        },
+        {
+          "number": 10,
+          "text": "I rozgniewał się bardzo Pan na Ozę, i zabił go, przeto iż ściągnął rękę swą ku skrzyni; i umarł tamże przed Bogiem."
+        },
+        {
+          "number": 11,
+          "text": "I zafrasował się Dawid, iż to rozerwanie Pan uczynił w Ozie; a przetoż nazwał ono miejsce Peres Oza, aż do dnia tego."
+        },
+        {
+          "number": 12,
+          "text": "I uląkł się Dawid Boga dnia onego, a rzekł: Jakoż mam wprowadzić do siebie skrzynię Bożą?"
+        },
+        {
+          "number": 13,
+          "text": "Przetoż nie wprowadził Dawid skrzyni do siebie, do miasta Dawidowego; ale ją wprowadził do domu Obededoma Gietejczyka."
+        },
+        {
+          "number": 14,
+          "text": "I została skrzynia Boża między domownikami Obededomowymi w domu jego przez trzy miesiące. I błogosławił Pan domowi Obededomowemu i wszystkiemu, co miał."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Potem posłał Hiram, król Tyrski, posłów do Dawida, i drzewa cedrowe, i murarzy i cieśli, aby mu zbudowali dom."
+        },
+        {
+          "number": 2,
+          "text": "I poznał Dawid, iż go utwierdził Pam królem nad Izraelem, a iż wywyższył królestwo jego dla ludu swego Izraelskiego."
+        },
+        {
+          "number": 3,
+          "text": "(I pojął Dawid więcej żon w Jeruzalemie, a spłodził Dawid więcej synów i córek."
+        },
+        {
+          "number": 4,
+          "text": "A teć są imiona tych, którzy mu się urodzili w Jeruzalemie: Samna, i Sobab, Natan, i Salomon,"
+        },
+        {
+          "number": 5,
+          "text": "I Ibchar, i Elisua, i Elfalet,"
+        },
+        {
+          "number": 6,
+          "text": "I Noga, i Nefeg, i Jafija,"
+        },
+        {
+          "number": 7,
+          "text": "I Elisama, i Beelijada, i Elifelet.)"
+        },
+        {
+          "number": 8,
+          "text": "Wtem usłyszawszy Filistynowie, że był pomazany Dawid za króla nad wszystkim Izraelem, wyciągnęli wszyscy Filistynowie, aby szukali Dawida. Co gdy usłyszał Dawid, wyszedł przeciwko nim."
+        },
+        {
+          "number": 9,
+          "text": "Bo Filistynowie przyciągnąwszy rozpostarli się w dolinie Rafaim."
+        },
+        {
+          "number": 10,
+          "text": "I radził się Dawid Boga, mówiąc: Mamli iść przeciw Filistynom? a podaszli ich w ręce moje? I odpowiedział mu Pan: Idź a podam ich w ręce twoje."
+        },
+        {
+          "number": 11,
+          "text": "A gdy oni przyciągnęli do Baal Perazym, poraził ich tam Dawid, i rzekł Dawid: Rozerwał Bóg nieprzyjacioły moje przez rękę moję, jako się rozrywają wody; a przetoż nazwano imię miejsca onego Baal Perazym."
+        },
+        {
+          "number": 12,
+          "text": "I zostawili tam bogi swoje; a Dawid rozkazał, aby je spalono ogniem."
+        },
+        {
+          "number": 13,
+          "text": "Lecz zebrawszy się znowu Filistynowie rozpostarli się w dolinie."
+        },
+        {
+          "number": 14,
+          "text": "Przetoż radził się znowu Dawid Boga. I rzekł mu Bóg: Nie ciągnij za nimi, ale się odwróć od nich, abyś na nich natarł przeciwko morwom."
+        },
+        {
+          "number": 15,
+          "text": "A gdy usłyszysz szum idącego po wierzchach morwowych, tedy wynijdziesz do bitwy; bo wyszedł Bóg przed tobą, aby poraził wojska Filistyńskie."
+        },
+        {
+          "number": 16,
+          "text": "I uczynił Dawid, jako mu był rozkazał Bóg; i porazili wojska Filistyńskie od Gabaon aż do Gazer."
+        },
+        {
+          "number": 17,
+          "text": "A tak rozsławiło się imię Dawidowe po wszystkich ziemiach: i sprawił to Pan, że był straszny wszystkim narodom."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy sobie pobudował Dawid domy w mieście swojem, i nagotował miejsce skrzyni Bożej, i rozbił jej namiot,"
+        },
+        {
+          "number": 2,
+          "text": "Tedy rzekł Dawid: Niegodzi się nosić skrzyni Bożej jedno Lewitom. Tych bowiem obrał Pan, aby nosili skrzynię Bożą, i służyli mu aż na wieki."
+        },
+        {
+          "number": 3,
+          "text": "Przetoż zebrał Dawid wszystkiego Izraela do Jeruzalemu, aby przeniósł skrzynię Pańską na miejsce jej, które jej był zgotował."
+        },
+        {
+          "number": 4,
+          "text": "I zgromadził Dawid synów Aaronowych i Lewitów."
+        },
+        {
+          "number": 5,
+          "text": "Z synów Kaatowych: Uryjela przedniejszego, i braci jego sto i dwadzieścia,"
+        },
+        {
+          "number": 6,
+          "text": "Z synów Merarego: Asajasza przedniejszego, i braci jego dwieście i dwadzieścia."
+        },
+        {
+          "number": 7,
+          "text": "Z synów Giersonowych: Joela przedniejszego, i braci jego sto i trzydzieści."
+        },
+        {
+          "number": 8,
+          "text": "Z synów Elisafanowych: Semejasza przedniejszego, i braci jego dwieście."
+        },
+        {
+          "number": 9,
+          "text": "Z synów Hebronowych: Elijela przedniejszego, i braci jego ośmdziesiąt."
+        },
+        {
+          "number": 10,
+          "text": "Z synów Hasyjelowych: Aminadaba przedniejszego, i braci jego sto i dwanaście."
+        },
+        {
+          "number": 11,
+          "text": "Tedy wezwał Dawia Sadoka i Abijatara, kapłanów, także Lewitów Uryjela, Asajasza, i Joela, Semejasza, i Elijela, i Aminadaba;"
+        },
+        {
+          "number": 12,
+          "text": "I rzekł do nich: Wyście przedniejsi z domów ojcowskich między Lewitami; poświęćcież się i z braćmi swoimi, abyście przynieśli skrzynię Pana, Boga Izraelskiego, na miejsce, którem jej nagotował."
+        },
+        {
+          "number": 13,
+          "text": "Albowiem iżeście tego pierwej nie uczynili, uczynił rozerwanie Pan, Bóg nasz, między nami; bośmy go nie szukali według przystojności."
+        },
+        {
+          "number": 14,
+          "text": "Poświęcili się tedy kapłani i Lewitowie, aby przynieśli skrzynię Pana, Boga Izraelskiego."
+        },
+        {
+          "number": 15,
+          "text": "I niesli synowie Lewitów skrzynię Bożą, jako był rozkazał Mojżesz według słowa Pańskiego, na ramionach swych, na drążkach które przy niej były."
+        },
+        {
+          "number": 16,
+          "text": "I rzekł Dawid przedniejszym z Lewitów, aby postanowili z braci swoich śpiewaków z instrumentami muzycznemi, z lutniami, z cytrami, i z cymbałami, aby słyszany był wyniesiony głos z weselem."
+        },
+        {
+          "number": 17,
+          "text": "I postanowili Lewitowie Hemana, syna Joelowego, a z braci jego Asafa, syna Barachyjaszowego, a z synów Merarego, braci ich, Etana syna Chysajowego;"
+        },
+        {
+          "number": 18,
+          "text": "A z nimi braci ich w rzędzie wtórym: Zacharyjasza, Bena, i Jazyjela, i Semiramota, i Jechyjela, i Unni, Elijaba, i Benajasza, Maasejasza, i Matytyjasza, i Elifelego, i Miknejasza, i Obededoma, i Jehijela, odźwiernych."
+        },
+        {
+          "number": 19,
+          "text": "A śpiewacy Heman, Asaf, i Etan na cymbałach miedzianych głośno grali."
+        },
+        {
+          "number": 20,
+          "text": "A Zacharyjasz, i Jazyjel, i Semiramot, i Jechyjel, i Unni, i Elijab, i Maasejasz, i Benajasz grali na lutniach przy śpiewaniu wysokiem."
+        },
+        {
+          "number": 21,
+          "text": "A Matytyjasz, i Elifele, i Miknejasz, i Obededom, i Jechyjel, i Azazyjasz grali na cytrach przy śpiewaniu niskiem."
+        },
+        {
+          "number": 22,
+          "text": "A Kienanijasz, przedniejszy z Lewitów, którzy nieśli skrzynię, rozrządzał, jakoby nieść miano; bo był roztropny."
+        },
+        {
+          "number": 23,
+          "text": "Ale Bacharyjasz i Elkana byli odźwiernymi u skrzyni."
+        },
+        {
+          "number": 24,
+          "text": "A Sebanijasz i Jozafat, i Natanael, i Amasaj, i Zacharyjasz, i Benajasz, i Eliezer, kapłani, trąbili w trąby przed skrzynią Bożą; ale Obededom i Jechyjasz byli odźwiernymi u skrzyni."
+        },
+        {
+          "number": 25,
+          "text": "A tak Dawid i starsi Izraelscy, i hetmani nad tysiącami szli, aby przeprowadzili skrzynię przymierza Pańskiego z domu Obededomowego z weselem."
+        },
+        {
+          "number": 26,
+          "text": "I stało się, gdy Bóg wspomógł Lewitów, niosących skrzynię przymierza Pańskiego, że ofiarowali siedm wołów, i siedm baranów."
+        },
+        {
+          "number": 27,
+          "text": "A Dawid był obleczony w szatę bisiorową, także i wszyscy Lewitowie, którzy nieśli skrzynię, i śpiewacy, i Kienanijasz, rządca tych, co nieśli między śpiewakami; a Dawid miał na sobie efod lniany."
+        },
+        {
+          "number": 28,
+          "text": "A tak wszystek Izrael prowadził skrzynię przymierza PaOskiego z weselem, i z hukiem kornetu, i trąby, i cymbałów, grając na lutniach i na cytrach."
+        },
+        {
+          "number": 29,
+          "text": "I stało się, gdy skrzynia przymierza Pańskiego wchodziła do miasta Dawidowego, że Michol, córka Saulowa, wyglądając oknem ujrzała króla Dawida skaczącego, i grającego, i wzgardziła go w sercu swojem."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy przynieśli skrzynię Bożą, i postawili ją w pośród namiotu, który był Dawid rozbił, tedy sprawowali całopalenia i ofiary spokojne przed Bogiem."
+        },
+        {
+          "number": 2,
+          "text": "A gdy dokończył Dawid ofiarować całopalenia, i ofiar spokojnych, błogosławił ludowi w imię Pańskie."
+        },
+        {
+          "number": 3,
+          "text": "I rozdzielił wszystkim mężom Izraelskim, od męża aż do niewiasty, każdemu po bochenku chleba, i po sztuce mięsa, i po łagiewce wina."
+        },
+        {
+          "number": 4,
+          "text": "A postanowił przed skrzynią Pańską z Lewitów sługu, aby wspominali, i wyznawali, i chwalili Pana, Boga Izraelskiego."
+        },
+        {
+          "number": 5,
+          "text": "Asaf był przedniejszy, a wtóry po nim Zacharyjasz, Jehyjel, i Semiramot, i Jechyjel i Matytyjasz, i Elijab, i Benajasz, i Obededom, i Jechyjel; ci na instrumentach, na lutniach, na harfach, ale Asaf na cymbałach, grali."
+        },
+        {
+          "number": 6,
+          "text": "Benajasz zaś i Jachazyjel kapłani z trąbami ustawiczne byli przed skrzynią przymierza Bożego."
+        },
+        {
+          "number": 7,
+          "text": "Dopiero dnia onego najpierwej postanowił Dawid, aby tym psalmem chwalony był Pan przez Asafa i braci jego:"
+        },
+        {
+          "number": 8,
+          "text": "Wysławiajcie Pana, wzywajcie imienia jego, a opowiadajcie między narodami sprawy jego."
+        },
+        {
+          "number": 9,
+          "text": "Śpiewajcie mu, grajcie mu, rozmawiajcie o wszystkich cudach jego."
+        },
+        {
+          "number": 10,
+          "text": "Chlubcie się w imieniu świętem jego, a niech się rozraduje serce szukających Pana."
+        },
+        {
+          "number": 11,
+          "text": "Szukajcie Pana, i mocy jego; szukajcie oblicza jego zawżdy."
+        },
+        {
+          "number": 12,
+          "text": "Wspominajcie dziwne sprawy jego, które czynił, i cuda jego, i sądy ust jego."
+        },
+        {
+          "number": 13,
+          "text": "O nasienie Izraelskie, słudzy jego! O synowie Jakóbowi, wybrani jego!"
+        },
+        {
+          "number": 14,
+          "text": "On jest Pan, Bóg nasz; po wszystkiej ziemi sądy jego."
+        },
+        {
+          "number": 15,
+          "text": "Pamiętajcie aż na wieki na przymierze jego, na słowow, które przykazał do tysiącznego pokolenia;"
+        },
+        {
+          "number": 16,
+          "text": "Które postanowił z Abrahamem, i na przysięgę jego z Izaakiem;"
+        },
+        {
+          "number": 17,
+          "text": "I postanowił to Jakóbowi za prawo, a Izraelowi za przymierze wieczne,"
+        },
+        {
+          "number": 18,
+          "text": "Mówiąc: Tobie dam ziemię Chananejską za sznur dziedzictwa waszego."
+        },
+        {
+          "number": 19,
+          "text": "Choć was była mała liczba, a przez krótki czas byliście przychodniami w niej;"
+        },
+        {
+          "number": 20,
+          "text": "I przechodzili od narodu do narodu, i od królestwa do innego ludu:"
+        },
+        {
+          "number": 21,
+          "text": "Nie dopuścił nikomu, aby ich uciskać miał, i karał dla nich królów,"
+        },
+        {
+          "number": 22,
+          "text": "Mówiąc: Nie tykajcie pomazańców moich, a prorokom moim nie czyńcie nic złego."
+        },
+        {
+          "number": 23,
+          "text": "Śpiewajcie Panu wszystka ziemio; opowiadajcie ode dnia do dnia zbawienie jego."
+        },
+        {
+          "number": 24,
+          "text": "Opowiadajcie między narodami chwałę jego, i między wszystkimi ludźmi dziwne sprawy jego;"
+        },
+        {
+          "number": 25,
+          "text": "Bo wielki jest Pan, i chwalebny bardzo, i straszniejszy nad wszystkich bogów;"
+        },
+        {
+          "number": 26,
+          "text": "Gdyż bogowie pogańscy są bałwanami; ale Pan niebiosa uczynił."
+        },
+        {
+          "number": 27,
+          "text": "Sława i zacność przed nim, moc i wesele na miejscu jego."
+        },
+        {
+          "number": 28,
+          "text": "Przynieście Panu pokolenia narodów, przynieście Panu chwałę i moc."
+        },
+        {
+          "number": 29,
+          "text": "Przynieście Panu chwałę imienia jego, przynieście dary, a przychodźcie przed obliczności jego; kłaniajcie się Panu w ozdobie świętobliwości."
+        },
+        {
+          "number": 30,
+          "text": "Bójcie się oblicza jego wszystka ziemio, a będzie utwierdzony okrąg ziemi, aby się nie poruszył."
+        },
+        {
+          "number": 31,
+          "text": "Niech się rozradują niebiosa, a niech się rozweseli ziemia, a niech mówią w narodach: Pan króluje!"
+        },
+        {
+          "number": 32,
+          "text": "Niech zaszumi morze, i ze wszystkiem, co w niem jest; niech się rozraduje pole, i wszystko, co na niem jest."
+        },
+        {
+          "number": 33,
+          "text": "Tedy się rozweselą drzewa leśne przed Panem; albowiem przyszedł sądzić ziemię."
+        },
+        {
+          "number": 34,
+          "text": "Wysłwiajcie Pana; albowiem dobry, bo na wieki trwa miłosierdzie jego."
+        },
+        {
+          "number": 35,
+          "text": "A mówcie: Zachowaj nas, Boże zbawienia naszego! i zgromadź nas, a wyrwij nas od pogan, abyśmy wielbili imię święte twoje, i chlubili się w chwale twojej."
+        },
+        {
+          "number": 36,
+          "text": "Błogosławiony Pan, Bóg Izraelski, od wieków aż na wieki. I rzekł wszystek lud Amen, i chwalił Pana."
+        },
+        {
+          "number": 37,
+          "text": "I zostawił tam Dawid przed skrzynią przymierza Pańskiego Asafa i braci jego, aby służyli przed skrzynią ustawicznie według potrzeby dnia każdego."
+        },
+        {
+          "number": 38,
+          "text": "Lecz Obededoma i braci ich sześdziesiąt i ośm, Obededoma mówię, syna Jedytunowego, i Hosę, uczynił odźwiernymi."
+        },
+        {
+          "number": 39,
+          "text": "A Sadoka kapłana, i braci jego kapłanów postawił przed przybytkiem Pańskim na wyżynie, która była w Gabaon,"
+        },
+        {
+          "number": 40,
+          "text": "Aby ofiarowali całopalenia Panu na ołtarzu całopalenia ustawicznie rano i w wieczór, a to według wszystkiego, co napisano w zakonie Pańskim, który przykazał Izraelowi."
+        },
+        {
+          "number": 41,
+          "text": "A z nimi Hemana i Jedytuna, i innych na to obranych, którzy byli z imienia mianowani, aby chwalili Pana, przeto iż na wieki trwa miłosierdzie jego."
+        },
+        {
+          "number": 42,
+          "text": "A między nimi Heman i Jedytun, trąbili i grali na trąbach, na cymbałach, i na innych instrumentach muzycznych Bogu; ale synów Jedytunowych postawił u wrót."
+        },
+        {
+          "number": 43,
+          "text": "A tak rozszedł się wszystek lud, każdy do domu swego. Dawid się też wrócił, aby błogosławił domowi swemu."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stało się, gdy mieszkał Dawid w domu swym, że rzekł do Natana proroka: Oto ja mieszkam w domu cedrowym, a skrzynia przymierza Pańskiego pod kortynami."
+        },
+        {
+          "number": 2,
+          "text": "I rzekł Natan do Dawida: Cokolwiek jest w sercu twem, uczyń, gdyż Bóg jest z tobą."
+        },
+        {
+          "number": 3,
+          "text": "Potem onej nocy stało się słowo Boże do Natana, mówiąc:"
+        },
+        {
+          "number": 4,
+          "text": "Idź, a mów do Dawida, sługi mego: Tak mówi Pan: Nie ty mi będziesz budował domu do mieszkania;"
+        },
+        {
+          "number": 5,
+          "text": "Ponieważem nie mieszkał w domu ode dnia, któregom wywiódł synów Izraelskich, aż do dnia tego: alem się przechadzał z namiotu do namiotu, i z przybytku do przybytku."
+        },
+        {
+          "number": 6,
+          "text": "Wszędzie gdziemkolwiek chodził ze wszystkim Izraelem, izalim i słowo rzekł któremu z sędziów Izraelskich, którymem rozkazał, aby paśli lud mój, mówiąc: Przeczżeście mi nie zbudowali domu cedrowego?"
+        },
+        {
+          "number": 7,
+          "text": "Przetoż teraz tak powiesz słudze memu Dawidowi: Tak mówi Pan zastępów: Jam ciebie wziął z owczarni, gdyś chodził za trzodą, abyś był wodzem nad ludem moim Izraelskim;"
+        },
+        {
+          "number": 8,
+          "text": "I byłem z tobą wszędzie, gdzieśkolwiek chodził, a wygładziłem wszystkich nieprzyjaciół twoich przed twarzą twoją, i uczyniłem ci imię, jako imię wielkich ludzi, którzy są za ziemi."
+        },
+        {
+          "number": 9,
+          "text": "A postanowiłem miejsce ludowi memu Izraelskiemu, i wszczepiłem go; i będzie mieszkał na miejscu swem, a nie będzie więcej poruszowny, ani go więcej synowie nieprawości trapić, jako przedtem;"
+        },
+        {
+          "number": 10,
+          "text": "Zaraz ode dni, którychem postanowił sędziów nad ludem moim Izraelskim, i poniżyłem wszystkich nieprzyjaciół twoich, i oznajmiłem ci, żeć Pan dom zbuduje."
+        },
+        {
+          "number": 11,
+          "text": "A gdy się wypełnią dni twoje, abyś szedł za ojcami twoimi, wzbudzę nasienie twoje po tobie, które będzie z synów twoich, i umocnię królestwo jego."
+        },
+        {
+          "number": 12,
+          "text": "Ten mi zbuduje dom, i utwierdzę stolicę jego aż na wieki."
+        },
+        {
+          "number": 13,
+          "text": "Ja mu będę za ojca a on mi będzie za syna, a miłosierdzia mego nie odejmę od niego, jakom je odjął od tego, który był przed tobą;"
+        },
+        {
+          "number": 14,
+          "text": "Owszem postanowię go w domu moim, i w królestwie mojem aż na wieki, a stolica jego będzie trwała aż na wieki."
+        },
+        {
+          "number": 15,
+          "text": "Według tych wszystkich słów i według wszystkiego widzenia tego, tak mówił Natan do Dawida."
+        },
+        {
+          "number": 16,
+          "text": "Zatem wszedłszy król Dawid, siadł przed obliczem Pańskiem, i rzekł: Cóżem ja jest, Panie Boże! co jest dom mój, żeś mię przywiódł aż dotąd?"
+        },
+        {
+          "number": 17,
+          "text": "Lecz i to mało było przed oczyma twemi, o Boże! aleś też obietnicę uczynił o domie sługi twego na czas daleki, i wejrzałeś na mię według obyczaju ludzkiego, wywyższając mię, o Panie Boże!"
+        },
+        {
+          "number": 18,
+          "text": "Cóż jeszcze więcej ma mówić Dawid przed tobą o uwielbieniu sługi twego? albowiem ty znasz sługę twego."
+        },
+        {
+          "number": 19,
+          "text": "Panie! dla sługi twego i według serca twego uczyniłeś te wszystkie wielkie rzeczy, abyś znajome uczynił te wszystkie wielmożne sprawy."
+        },
+        {
+          "number": 20,
+          "text": "Panie! nie masz podobnego tobie, i nie masz Boga oprócz ciebie, wedle wszystkiego, cośmy słyszeli w uszy nasze."
+        },
+        {
+          "number": 21,
+          "text": "I któż jest jako lud twój, jako Izrael, naród jedyny na ziemi, dla któregoby Bóg szedł, aby go sobie odkupił za lud, a uczynił sobie imię, czyniąc wielkie rzeczy i straszne, wyganiając pogany przed twarzą ludu twego, któryś wykupił z Egiptu?"
+        },
+        {
+          "number": 22,
+          "text": "I uczyniłeś lud twój Izraelski sobie za lud aż na wieki, a ty Panie! stałeś się im za Boga."
+        },
+        {
+          "number": 23,
+          "text": "Przetoż teraz, o Panie! słowo, któreś powiedział o słudze twoim, i o domu jego, niech będzie stwierdzone aż na wieki, a uczyń, jakoś powiedział."
+        },
+        {
+          "number": 24,
+          "text": "Niechajże się tak stanie, i niechaj będzie uwielbione imię twoje aż na wieki, aby mówiono: Pan zastępów, Bóg Izraelski, Bogiem jest nad Izraelem; a dom Dawida, sługi twego, niechaj umocniony będzie przed twarzą twoją."
+        },
+        {
+          "number": 25,
+          "text": "Albowiemeś ty, Boże mój! objawił słudze twemu, iż mu zbudujesz dom; przetoż znalazł sługa twój u siebie, aby się modlił przed tobą."
+        },
+        {
+          "number": 26,
+          "text": "A tak o Panie! tyś sam Bóg, a mówiłeś to dobre o słudze swym."
+        },
+        {
+          "number": 27,
+          "text": "Teraz tedy począłeś błogosławić domowi sługi twego, aby trwał na wieki przed tobą; boś ty Panie! jemu błogosławił, a będzie ubłogosławiony na wieki."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stało się potem, że poraził Dawid Filistynów i poniżył ich, a wziął Get i wsi jego z rąk Filistynów."
+        },
+        {
+          "number": 2,
+          "text": "Poraził też Moabczyki, i byli Moabczyki sługami Dawidowymi, przynosząc mu hołd."
+        },
+        {
+          "number": 3,
+          "text": "Poraził też Dawid Hadarezera, króla Soby w Emat, gdy był wyjechał, aby rozprzestrzeniał państwo swoje nad rzeką Eufrates."
+        },
+        {
+          "number": 4,
+          "text": "Zabrał mu tedy Dawid tyziąc wozów, i siedm tysięcy jezdnych, i dwadzieścia tysięcy mężów pieszych, i poderznął Dawid żyły wszystkich woźników, zachowawszy z nich koni do sta wozów."
+        },
+        {
+          "number": 5,
+          "text": "Przyciągnęli też Syryjczycy z Damaszku na pomoc Hadarezerowi, królowi Soby; lecz poraził Dawid z Syryjczyków dwadzieścia i dwa tysiące mężów."
+        },
+        {
+          "number": 6,
+          "text": "Tedy Dawid osadził żołnierzem Syryję Damaską, a byli Syryjczycy sługami Dawidowymi, oddawając mu hołd; i zachowywał Pan Dwida, gdzie się kolwiek obrócił."
+        },
+        {
+          "number": 7,
+          "text": "Pobrał też Dawid tarcze złote, które mieli słudzy Hadarezerowi, i wniósł je do Jeruzalemu."
+        },
+        {
+          "number": 8,
+          "text": "Przytem z Tybchat i z Chun, miast Hadarezerowych, nabrał Dawid miedzi bardzo wiele, z której Salomon sprawił morze miedziane, i słupy, i naczynia miedziane."
+        },
+        {
+          "number": 9,
+          "text": "A gdy usłyszał Tohy, król Emat, że poraził Dawid wszystko wojsko Hadarezera, króla Soby."
+        },
+        {
+          "number": 10,
+          "text": "Posłał Adorama, syna swego, do króla Dawida, aby go pozdrowił w pokoju, i aby mu powinszował, przeto, że zwalczył Hadarezera, i poraził go; (albowiem walczył Tohy z Hadarezerem) który przyniósł z sobą wszelakie naczynie złote, i srebrne, i miedziane."
+        },
+        {
+          "number": 11,
+          "text": "Które też poświęcił król Dawid Panu z srebrem i ze złotem, które był pobrał od wszystkich narodów, od Edomczyków, i od Moabczyków, o od synów Ammonowych, i od Filistynów, i od Amalekitów."
+        },
+        {
+          "number": 12,
+          "text": "A Abisaj, syn Sarwii, poraził Edomczyków w dolinie solnej ośmnaście tysięcy."
+        },
+        {
+          "number": 13,
+          "text": "I osadził Edomską ziemię żołnierzem: a byli wszyscy Edomczycy sługami Dawidowymi: i zachowywał Pan Dawida wszędzie, gdzie się obrócił."
+        },
+        {
+          "number": 14,
+          "text": "A tak królował Dawid nad wszystkim Izraelem, czyniąc sąd i sprawiedliwość wszystkiemu ludowi swemu."
+        },
+        {
+          "number": 15,
+          "text": "A był Joab, syn Sarwii, nad wojskiem, a Jozafat, syn Ahiludowy, kanclerzem."
+        },
+        {
+          "number": 16,
+          "text": "A Sadok, syn Achitobowy, i Abimelech, syn Abijatara, byli kapłanami, a Susa był pisarzem."
+        },
+        {
+          "number": 17,
+          "text": "Benajasz też, syn Jojady, był przełożonym nad Cheretczykami i Feletczykami; a synowie Dawidowi byli pierwszymi przy boku królewskim."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stało się potem, że umarł Nahas, król synów Ammonowych, a syn jego królował miasto niego."
+        },
+        {
+          "number": 2,
+          "text": "Tedy rzekł Dawid: Uczynię miłosierdzie nad Hanonem, synem Nahasowym; bo ojciec jego uczynił miłosierdzie nademną. I posłał Dawid posłów, aby go cieszyli po ojcu jego; a tak przyszli słudzy Dawidowi do ziemi synów Ammonowych, do Hanona, aby go cieszyli."
+        },
+        {
+          "number": 3,
+          "text": "Ale rzekli książęta synów Ammonowych do Hanona: Mniemasz, żeby Dawid czynił uczciwość ojcu twemu, iż przysłał do ciebie tych, którzyby cię cieszyli; azaż nie dla tego, aby wypatrzyli i wyszpiegowali, i zburzyli tę ziemię, przyszli słudzy jego do ciebie?"
+        },
+        {
+          "number": 4,
+          "text": "Przetoż wziąwszy Hanon sługi Dawidowe, ogolił je, i pobrzynał szaty ich od połowy aż do zadków, i puścił ich."
+        },
+        {
+          "number": 5,
+          "text": "Poszli tedy niektórzy, i oznajmili Dawidowi o tych mężach. I posłał przeciwko nim, (ponieważ byli oni mężowie zelżeni bardzo,) i rzekł im król: Zostańcie w Jerycho, aż odrosną brody wasze, potem się wrócicie."
+        },
+        {
+          "number": 6,
+          "text": "A widząc synowie Ammonowi, że się obrzydłymi stali Dawidowi, posłał Hanon i synowie Ammonowi tysiąc talentów srebra, aby sobie najęli za te pieniądze z Mezopotamii i z Syryi Maacha, i z Soby wozy i jezdnych."
+        },
+        {
+          "number": 7,
+          "text": "I najęli sobie za one pieniądze trzydzieści i dwa tysiące wozów, i króla Maacha z ludem jego. Którzy przyciągnąwswzy położyli się obozem przeciw Medeba; a synowie Ammonowi zebrawszy się z miast swych, stawili się do bitwy."
+        },
+        {
+          "number": 8,
+          "text": "Co gdy usłyszał Dawid, posłał Joaba ze wszystkiem wojskiem ludu rycerskiego."
+        },
+        {
+          "number": 9,
+          "text": "A tak wyciągnąwszy synowie Ammonowi uszykowali się do bitwy przed bramą miejską. Królowie zasię, którzy byli przyszli na pomoc, osobno w polu byli."
+        },
+        {
+          "number": 10,
+          "text": "Przetoż widząc Joab uszykowane przeciwko sobie wojsko do bitwy z przodku i z tyłu, wybrał niektórych ze wszystkich przebranych z Izraela, i uszykował wojsko przeciw Syryjczykom."
+        },
+        {
+          "number": 11,
+          "text": "A ostatek ludu dał pod rękę Abisajemu, bratu swemu; i uszykowali się przeciw synom Ammonowym."
+        },
+        {
+          "number": 12,
+          "text": "I rzekł Joab: Jeźli mi będą silnymi Syryjczycy, przyjdziesz mi na pomoc, i jeźli tobie synowie Ammonowi będą silnymi, ja tobie dam pomoc."
+        },
+        {
+          "number": 13,
+          "text": "Zmacniej się, a bądźmy mążnymi za lud nasz, i za miasta Boga naszego, a Pan, co dobrego jest w oczach jego, niech uczyni."
+        },
+        {
+          "number": 14,
+          "text": "Nastąpił tedy Joab, i lud, który z ni był, do bitwy przeciwko Syryjczykom; ale oni uciekli przed nim."
+        },
+        {
+          "number": 15,
+          "text": "Tedy synowie Ammonowi ujrzawszy, że uciekali Syryjczycy, uciekli i oni przed Abisaim, bratem jego, i uszli do miasta; a Joab wrócił się do Jeruzalemu."
+        },
+        {
+          "number": 16,
+          "text": "A tak widząc Syryjczycy, iż byli porażeni od Izraela, wyprawili posłów, i wywiedli Syryjczyków, którzy byli za rzeką, a Sobach, hetman wojska Hadarezerowego, prowadził ich."
+        },
+        {
+          "number": 17,
+          "text": "I oznajmiono to Dawidowi, który zebrawszy wszystkiego Izraela przeprawił się przez Jordan, a przyciągnąwszy do nich uszykował wojsko przeciwko nim; a gdy uszykował wojsko Dawid przeciwko Syryjczykom ku bitwie, zwiedli z nim bitwę."
+        },
+        {
+          "number": 18,
+          "text": "Tedy uciekli Syryjczycy przed Izraelem, i poraził Dawid z Syryjczyków siedm tysięcy wozów, i czterdzieści tysięcy mężów pieszych, i Sobacha, hetmana wojska onego, zabił."
+        },
+        {
+          "number": 19,
+          "text": "Przetoż gdy ujrzeli słudzy Hadarezerowi, iż byli porażeni od Izraela, uczynili pokój z Dawidem, i służyli mu. I nie chcieli napotem Syryjczycy dawać pomocy synom Ammonowym."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stało się po roku tego czasu, gdy królowie zwykli wyjeżdżać na wojnę, iż wywiódł Joab co mężniejsze rycerstwo, i pustoszył ziemię synów Ammonowych, a przyciągnąwszy obległ Rabbę; (lecz Dawid zostawał w Jeruzalemie) i dobył Joab Rabby, i zburzył ją."
+        },
+        {
+          "number": 2,
+          "text": "I wziął Dawid koronę króla ich z głowy jego, a znalazł w niej talent złota, i kamienie bardzo drogie. I włożono ją na głowę Dawidową, i wywiózł łupów z miasta bardzo wiele."
+        },
+        {
+          "number": 3,
+          "text": "Lud też, który był w nim, wywiódł, i dał ich potrzeć piłami i wozami żelaznemi, i porąbać siekierami. Takci uczynił Dawid wszystkim miastom synów Ammonowych, i wrócił się Dawid ze wszystkim ludem do Jeruzalemu."
+        },
+        {
+          "number": 4,
+          "text": "Potem znowu gdy była wojna w Gazer z Filistynami, zabił Sobbochaj Husatczyk Syfę, który był z narodu olbrzymów; a tak Filistynowie poniżeni są."
+        },
+        {
+          "number": 5,
+          "text": "Była też jeszcze wojna z Filistynami, gdzie zabił Elchana, syn Jairowy, Lachmiego, brata Golijata Gietejczyka, którego drzewce u włóczni było nawój tkacki."
+        },
+        {
+          "number": 6,
+          "text": "Nadto jeszcze była wojna w Get, gdzie był mąż wzrostu wielkiego, mając po sześć palców, wszystkich dwadzieścia i cztery; a ten też był z narodu tegoż olbrzyma."
+        },
+        {
+          "number": 7,
+          "text": "Ten gdy urągał Izraelowi, zabił go Jonatan, syn Samaja, brata Dawidowego."
+        },
+        {
+          "number": 8,
+          "text": "Ci byli synowie jednego olbrzyma z Get, którzy polegli od ręki Dawidowej, i od ręki sług jego."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ale szatan powstał przeciw Izraelowi a pobudził Dawida, aby policzył Izraela."
+        },
+        {
+          "number": 2,
+          "text": "Przetoż rzekł Dawid do Joaba i do przełożonych nad ludem: Idźcie, obliczcie Izraela od Beerseba aż do Dan, a odnieście do mnie, żebym wiedział poczet ich."
+        },
+        {
+          "number": 3,
+          "text": "Ale rzekł Joab: Niech przymnoży Pan ludu swego, jako teraz jest, tyle sto kroć; izali królu, panie mój! nie są wszyscy oni sługami pana mego? Przeczże się tego dowiaduje pan mój? Przeczżeby to miało być na upadek Izraelowi?"
+        },
+        {
+          "number": 4,
+          "text": "Wszakże słowo królewskie przemogło Joaba; przetoż wyszedł Joab, a obszedłszy wszystkiego Izraela, wrócił się potem do Jeruzalem."
+        },
+        {
+          "number": 5,
+          "text": "I oddał Joab poczet porachowanego ludu Dawidowi. A było wszystkiego Izraela tysiąc tysięcy i sto tysięcy, mężów godnych ku bojowi; a z Judy było cztery kroć sto tysięcy, i siedmdziesięt tysięcy mężów walecznych."
+        },
+        {
+          "number": 6,
+          "text": "Lecz Lwitów i Benjamitów nie policzył między nich, gdyż przykre było rozkazanie królewskie Joabowi."
+        },
+        {
+          "number": 7,
+          "text": "Owszem nie podobała się Bogu ta rzecz; przetoż pokarał Izraela."
+        },
+        {
+          "number": 8,
+          "text": "I rzekł Dawid do Boga: Zgrzeszyłem bardzo, żem to uczynił; ale teraz oddal, proszę, nieprawość sługi twego; bom bardzo głupio uczynił."
+        },
+        {
+          "number": 9,
+          "text": "Zatem rzekł Pan do Gada, proroka Dawidowego, mówiąc:"
+        },
+        {
+          "number": 10,
+          "text": "Idź, powiedz Dawidowi, a rzecz: Tak mówi Pan: Trzyć rzeczy podaję; obierz sobie jednę z nich, abym ci czynił."
+        },
+        {
+          "number": 11,
+          "text": "Tedy przyszedł Gad do Dawida, i rzekł mu: Tak mówi Pan: Obierz sobie:"
+        },
+        {
+          "number": 12,
+          "text": "Albo przez trzy lata głód, albo żebyś przez trzy miesiące ginął od nieprzyjaciół twych, a miecz nieprzyjaciół twoich żeby cię ścigał, albo żeby przez trzy dni miecz Pański i mor był w ziemi, a Anioł Pański żeby niszczył wszystkie granice Izraelskie. Przetoż teraz uważ, co mam odpowiedzieć temu, który mię posłał."
+        },
+        {
+          "number": 13,
+          "text": "I rzekł Dawid do Gada: Bardzom ściśniony; niech wpadnę, proszę, w ręce Pańskie, gdyż bardzo wielkie są zlitowania jego, a w ręce ludzkie niechaj nie wpadam."
+        },
+        {
+          "number": 14,
+          "text": "Tedy przepuścił Pan powietrze morowe na Izraela. I poległo z Izraela siedmdziesiąt tysięcy mężów."
+        },
+        {
+          "number": 15,
+          "text": "Posłał też Bóg Anioła do Jeruzalemu, aby ich tracił. A gdy ich tracił, ujrzał Pan, i użalił się nad tem złem, i rzekł Aniołowi tracącemu: Dosyć już, zawściągnij rękę twą. A Anioł Pański stał podle bojewiska Ornana Jebuzejczyka."
+        },
+        {
+          "number": 16,
+          "text": "Wtem podniósłszy Dawid oczy swe ujrzał Anioła Pańskiego, który stał między ziemią i między niebem, a w ręce jego miecz jego dobyty, wyciągniony przeciw Jeruzalemowi. I upadł Dawid i starsi, oblekłszy się w wory, na twarze swoje."
+        },
+        {
+          "number": 17,
+          "text": "Zatem rzekł Dawid do Boga: Izalim nie ja rozkazał liczyć ludu? Jamci jest sam, którym zgrzeszył, i bardzo źle uczynił; ale te owce cóż uczyniły? Panie, Boże mój! niech się obróci, proszę, ręka twoja na mię i na dom ojca mego; ale przeciwko ludowi twemu niech się nie sroży ta plaga."
+        },
+        {
+          "number": 18,
+          "text": "Zatem Anioł Pański rzekł do Gada, aby mówił Dawidowi, żeby szedł i zbudował ołtarz Panu na bojewisku Ornana Jebuzejczyka."
+        },
+        {
+          "number": 19,
+          "text": "A tak szedł Dawid według słowa Gadowego, które mówił imieniem Pańskiem."
+        },
+        {
+          "number": 20,
+          "text": "Tedy obejrzawszy się Ornan ujrzał onego Anioła; a czterej synowie jego, którzy byli z nim, skryli się; a Ornan młócił pszenicę."
+        },
+        {
+          "number": 21,
+          "text": "Wtem przyszedł Dawid do Ornana; a spojrzawszy Ornan obaczył Dawida, i wyszedłszy z bojewiska, pokłonił się Dawidowi twarzą do ziemi."
+        },
+        {
+          "number": 22,
+          "text": "I rzekł Dawid do Ornana: Daj mi plac tego bojewiska, abym zbudował na nim ołtarz Panu; za słuszne pieniądze spuść mi je, a będzie odwrócona ta plaga od ludu."
+        },
+        {
+          "number": 23,
+          "text": "I rzekł Ornan do Dawida: Weźmij je sobie, a niech uczyni król, pan mój, co mu się dobrego widzi; otoć przydaję i woły na całopalenia, i wóz na drwa, i pszenicę na ofiarę śniedną: toć to wszystko daję."
+        },
+        {
+          "number": 24,
+          "text": "I rzekł król Dawid do Ornana: Nie tak, ale raczej kupię za słuszne pieniądze; bo nie wezmę co twego jest, ani będę ofiarował Panu całopalenia darowanego."
+        },
+        {
+          "number": 25,
+          "text": "A tak Dawid dał Ornanowi za on plac sześć syklów złota dobrej wagi."
+        },
+        {
+          "number": 26,
+          "text": "I zbudował tam Dawid ołtarz Panu, a ofiarował całopalenia i ofiary spokojne, i wzywał Pana, który go wysłuchał, spuściwszy ogień z nieba na ołtarz całopalenia."
+        },
+        {
+          "number": 27,
+          "text": "I rzekł Pan do Anioła, aby obrócił miecz swój w pochwy swoje."
+        },
+        {
+          "number": 28,
+          "text": "Onego czasu widząc Dawid, iż go wysłuchał Pan na bojewisku Ornana Jebuzejczyka, ofiarował tam ofiary."
+        },
+        {
+          "number": 29,
+          "text": "Albowiem przybytek Pański, który uczynił Mojżesz na puszczy, i ołtarz całopalenia, naonczas był na wyżynie w Gabaonie."
+        },
+        {
+          "number": 30,
+          "text": "A nie mógł Dawid iść do niego, aby się radził Boga; bo przestraszony był mieczem Anioła Pańskiego."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I rzekł Dawid: Toć jest miejsce domu Pana Boga, i to ołtarz na całopalenie Izraelowi."
+        },
+        {
+          "number": 2,
+          "text": "Przetoż rozkazał Dawid, aby zgromadzono cudzoziemców, którzy byli w ziemi Izraelskiej; i postanowił z nich kamienników, aby ciosali kamienie czworograniaste na budowanie domu Bożego."
+        },
+        {
+          "number": 3,
+          "text": "Żelaza taż bardzo wiele na gwoździe, i na drzwi w bramach, i na spajanie nagotował Dawid, i miedzi wagę niezliczoną."
+        },
+        {
+          "number": 4,
+          "text": "Drzewa taż cedrowego bez liczby, albowiem nawieźli Dawidowi Sydończycy i Tyryjczycy drzewa cedrowego bardzo wiele."
+        },
+        {
+          "number": 5,
+          "text": "Bo rzekł był Dawid: Salomon, syn mój, jest młodzieńczykiem małym, a dom ma być zbudowany Panu wielki i znamienity, któregoby imię i sława po wszystkiej ziemi była; przetoż teraz nagotuję mu potrzeb. I nagotował Dawid przed śmiercią swą bardzo wiele potrzeb."
+        },
+        {
+          "number": 6,
+          "text": "Tedy zawołał Salomona, syna swego, a przykazał mu, aby zbudował dom Panu, Bogu Izraelskiemu."
+        },
+        {
+          "number": 7,
+          "text": "I rzekł Dawid do Salomona: Synu mój! Umyśliłem był w sercu mojem, zbudować dom imieniowi Pana Boga mego."
+        },
+        {
+          "number": 8,
+          "text": "Ale się stało do mnie słowo Pańskie, mówiąc: Wieleś krwi rozlał, i wielkieś wojny prowadził; nie będziesz budował domu imieniowi memu, przeto żeś wiele krwi rozlał na ziemię przedemną,"
+        },
+        {
+          "number": 9,
+          "text": "Oto syn, któryć się urodzi, będzie mężem spokojnym; bo mu dam odpocznienie od wszystkich nieprzyjaciół jego zewsząd. Przetoż Salomon będzie imię jego; albowiem pokój i odpocznienie dam Izraelowi za dni jego."
+        },
+        {
+          "number": 10,
+          "text": "On zbuduje dom imieniowi memu; on mi będzie za syna, a ja mu będę za ojca, i utwierdzę stolicę królestwa jego nad Izraelem aż na wieki."
+        },
+        {
+          "number": 11,
+          "text": "Przetoż Pan będzie z tobą, synu mój! I będzieć się szczęściło, i zbudujesz dom Pana, Boga twego, jako mówił o tobie."
+        },
+        {
+          "number": 12,
+          "text": "Wszakże niech ci da Pan roztropność, i zmysł, a niech cię postanowi nad Izraelem, abyś strzegł zakonu Pana Boga twego."
+        },
+        {
+          "number": 13,
+          "text": "Tedy szczęśliwym będziesz, jeźli strzedz i czynić będziesz przykazania i sądy, które rozkazał Pan przez Mojżesza Izraelowi. Zmacniajże się, a bądź mężem, nie bój się ani się lękaj."
+        },
+        {
+          "number": 14,
+          "text": "A otom ja w utrapieniu mojem nagotował na dom Pański złota sto tysięcy talentów, i srebra tysiąc tysięcy talentów do tego miedzi i żelaza bez wagi, bo tego wiele jest: drzewa także, i kamienia nagotowałem, a ty do tego przyczynisz."
+        },
+        {
+          "number": 15,
+          "text": "Masz też u siebie wiele rzemieślników, kamiennikówi i murarzy, i cieśli, i wszelkich biegłych w każdem rzemieśle."
+        },
+        {
+          "number": 16,
+          "text": "Złota, srebra, i miedzi, i żelaza niemasz liczby; wstańże a czyń, a Pan będzie z tobą."
+        },
+        {
+          "number": 17,
+          "text": "I przykazał Dawid wszystkim książętom Izraelakim, aby pomagali Salomonowi synowi jego;"
+        },
+        {
+          "number": 18,
+          "text": "Mówiąc: Izali Pan Bóg wasz nie jest z wami, który wam dał odpocznienie zewsząd? Bo dał w rękę moję obywateli tej ziemi, i poddane jest ta ziemia Panu i ludowi jego."
+        },
+        {
+          "number": 19,
+          "text": "Teraz tedy oddajcie serce swe i duszę swoję, abyście szukali Pana, Boga waszego; i wstańcie, a budujcie świątnicę Panu Bogu, żebyście tam wnieśżli skrzynię przymierza Pańskiego, i naczynia święte Boże, do domu, który będzie zbudowany imieniowi Pańskiemu."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A tak Dawid będąc stary i pełen dni, postanowił królem Salomona, syna swego nad Izraelem."
+        },
+        {
+          "number": 2,
+          "text": "I zgromadził wszystkich książąt Izraelskich, i kapłanów, i Lewitów;"
+        },
+        {
+          "number": 3,
+          "text": "A policzono Lewitów od trzydziestu lat i wyżej; i był poczet ich według głów ich osób trzydzieści i ośm tysięcy."
+        },
+        {
+          "number": 4,
+          "text": "Z których postanowiono na posługę domu Pańskiego dwadzieścia i cztery tysiące, a przełożonych i sędziów sześć tysięcy."
+        },
+        {
+          "number": 5,
+          "text": "Nadto cztery tysiące odźwiernych, i cztery tysiące chwalących Pana na instrumentach, których nasprawiał Dawid ku chwaleniu Boga."
+        },
+        {
+          "number": 6,
+          "text": "I rozdzielił ich Dawid na pewne hufy według synów Lewiego, to jest, Giersona, Kaata, i Merarego."
+        },
+        {
+          "number": 7,
+          "text": "Z Giersona byli Laadam, i Semej."
+        },
+        {
+          "number": 8,
+          "text": "Synowie Laadanowi: przedniejszy Jachijel, i Zetam, i Joel, ci trzej."
+        },
+        {
+          "number": 9,
+          "text": "Synowie Semejowi: Salomit, i Hazyjel, i Haran, ci trzej. Cić byli przedniejsi domów ojcowskich z Laadana."
+        },
+        {
+          "number": 10,
+          "text": "A synowie Semejowi: Jachat, Zyna, i Jehus, i Baryjasz; cić synowie Semejowi czterej."
+        },
+        {
+          "number": 11,
+          "text": "A Jachat był pierwszym, a Zyza wtóry; ale Jehus i Baryjasz nie mieli wiele synów; przetoż byli w domu ojcowskim policzeni za jednę familiję."
+        },
+        {
+          "number": 12,
+          "text": "Synowie Kaatowi: Amram, Izaar, Hebron, i Husyjel, czterej."
+        },
+        {
+          "number": 13,
+          "text": "Synowie Amramowi: Aaron i Mojżesz. Lecz Aaron był odłączony, aby służył w świątnicy najświętszej, sam i synowie jego aż na wieki, i aby kadzili przed Panem, a służyli mu, i błogosławili w imieniu jego aż na wieki."
+        },
+        {
+          "number": 14,
+          "text": "Ale synowie Mojżesza, męża Bożego, policzeni są w pokoleniu Lewiego."
+        },
+        {
+          "number": 15,
+          "text": "Synowie Mojżeszowi: Gierson i Eliezer."
+        },
+        {
+          "number": 16,
+          "text": "Synowie Giersonowi: Sebujel pierwszy."
+        },
+        {
+          "number": 17,
+          "text": "A synowie Eliezerowi byli Rechabijasz pierwszy. I nie miał Eliezer synów innych; ale synowie Rechabijaszowi rozmnożyli się bardzo."
+        },
+        {
+          "number": 18,
+          "text": "Synowie Izaarowi: Salomit pierwszy."
+        },
+        {
+          "number": 19,
+          "text": "Synowie Hebronowi: Jeryjasz pierwszy, Amaryjasz wtóry, Jehazyjel trzeci, a Jekmaan czwarty."
+        },
+        {
+          "number": 20,
+          "text": "Synowie Husyjelowi: Micha pierwszy, a Jesyjasz wtóry."
+        },
+        {
+          "number": 21,
+          "text": "Synowie Merarego: Mahelin i Musy; a synowie Mahelego: Eleazar i Cys."
+        },
+        {
+          "number": 22,
+          "text": "I umarł Eleazar, a nie miał synów, tylko córki, które pojmowali synowie Cysowi, bracia ich."
+        },
+        {
+          "number": 23,
+          "text": "Synowie Musy: Maheli, i Eder, i Jerymot, trzej."
+        },
+        {
+          "number": 24,
+          "text": "Cić są synowie Lewiego według domów ojców swych, przedniejsi domów ojcowskich, którzy policzeni byli według pocztu imion i osób swych z osobna, którzy odprawowali prace usługiwania w domu Pańskim od dwudziestu lat i wyżej."
+        },
+        {
+          "number": 25,
+          "text": "Albowiem rzekł Dawid: Dał odpocznienie Pan, Bóg Izraelski, ludowi swemu, i będzie mieszkał w Jeruzalemie aż na wieki."
+        },
+        {
+          "number": 26,
+          "text": "Do tego i Lewitowie nie będą więcej nosić przybytku i wszystkiego naczynia jego ku posługiwaniu jego;"
+        },
+        {
+          "number": 27,
+          "text": "Ale według postanowienia Dawidowego ostatniego, byli policzeni synowie Lewiego od dwudziestu lat i wyżej;"
+        },
+        {
+          "number": 28,
+          "text": "Aby zostawali pod ręką synów Aaronowych ku usłudze domu Pańskiego w przysionkach i w gmachach, i ku oczyszczaniu wszelkich rzeczy poświęconych, i ku pracy około usługi domu Bożego;"
+        },
+        {
+          "number": 29,
+          "text": "I około chleba pokładnego, i około mąki na ofiarę, i około placków niekwaszonych, i około panewek, i około rzeczy smażonych, i około wszelkiej miary i odmierzania;"
+        },
+        {
+          "number": 30,
+          "text": "A iżby stali na każdy poranek ku wysławianiu, i ku chwaleniu Pana, także i w wieczór;"
+        },
+        {
+          "number": 31,
+          "text": "Nadto, przy każdem ofiarowaniu całopalenia Panu w sabaty, na nowiu miesiąca, i w uroczyste święta, według liczby i porządku ich ustawicznie przed Panem;"
+        },
+        {
+          "number": 32,
+          "text": "A tak aby pilnowali straży namiotu zgromadzenia, i straży świątnicy, i straży synów Aaronowych, braci swych, w usłudze domu Pańskiego."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A synowie Aaronowi tym sposobem rozdzieleni byli: Synowie Aaronowi byli Nedab i Abiju, Eleazar i Itamar;"
+        },
+        {
+          "number": 2,
+          "text": "Ale iż Nadab i Abiju umarli przed obliczem ojca swego, a synów nie mieli: przetoż odprawowali urząd kapłański Eleazar i Itamar."
+        },
+        {
+          "number": 3,
+          "text": "I podzielił ich Dawid, to jest Sadoka z synów Eleazarowych, i Achimelecha z synów Itamarrowych, według urzędu ich w usługach ich."
+        },
+        {
+          "number": 4,
+          "text": "I znalazło się synów Eleazarowych więcej przedniejszych mężów, niż synów Itamarowych, gdy ich podzielił. Z synów Eleazarowych było przedniejszych według domów ojcowskich szesnaście; ale synów Itamarowych według domów ojcowskich ośm."
+        },
+        {
+          "number": 5,
+          "text": "A rozdzieleni są losem jedni od drugich; bo byli przełożonymi nad świątnicą, i przedniejszymi przed Bogiem, tak z synów Eleazarowych, jako i z synów Itamarowych."
+        },
+        {
+          "number": 6,
+          "text": "A popisał ich Senejasz, syn Natanaelowy, pisarz, z pokolenia Lewiego, przed królem i psiążętami, i przed Sadokiem kapłanem, i Achimelechem, synem Abijatarowym, i przedniejszymi z domów ojcowskich, kapłanów i Lewitów; a naznaczono jeden dom ojcowsk i Eleazarowi, a drugi naznaczono Itamarowi."
+        },
+        {
+          "number": 7,
+          "text": "I padł los pierwszy na Jehojaryba, na Jedajasza wtóry;"
+        },
+        {
+          "number": 8,
+          "text": "Na Haryma trzeci, na Seoryma czwarty;"
+        },
+        {
+          "number": 9,
+          "text": "Na Malchyjasza piąty, na Mijamana szósty;"
+        },
+        {
+          "number": 10,
+          "text": "Na Akkosa siódmy, na Abijasza ósmy;"
+        },
+        {
+          "number": 11,
+          "text": "Na Jesuego dziewiąty, na Sechenijasza dziesiąty;"
+        },
+        {
+          "number": 12,
+          "text": "Na Eliasyba jedenasty, na Jakima dwunasty;"
+        },
+        {
+          "number": 13,
+          "text": "Na Huppa trzynasty, na Jesebaba czternasty;"
+        },
+        {
+          "number": 14,
+          "text": "Na Bilgę piętnasty, na Immera szesnasty;"
+        },
+        {
+          "number": 15,
+          "text": "Na Chezyra siedmnasty, na Happisesa ośmnasty;"
+        },
+        {
+          "number": 16,
+          "text": "Na Petachyjasza dziewiętnasty, na Ezechyjela dwudziesty;"
+        },
+        {
+          "number": 17,
+          "text": "Na Jachyna dwudziesty i pierwszy, na Gamuela dwudziesty i wtóry;"
+        },
+        {
+          "number": 18,
+          "text": "Na Delajasza dwudziesty i trzeci, na Maazyjasza dwudziesty i czwarty."
+        },
+        {
+          "number": 19,
+          "text": "Cić są sporządzeni w posługiwaniu swojem, aby wchodzili do domu Pańskiego w przemianach swych, jako zwykli pod rządem Aarona, ojca ich, jako mu był rozkazał Pan, Bóg Izraelski."
+        },
+        {
+          "number": 20,
+          "text": "A z synów Lewiego, którzy byli pozostali z synów Amramowych, Subajel; z synów Subajelowych Jechdejasz."
+        },
+        {
+          "number": 21,
+          "text": "Z Rechabijasza, z synów Rechabijaszowych był przednjiejszy Jesyjasz."
+        },
+        {
+          "number": 22,
+          "text": "Z Isaary Salomit, z synów Salomitowych Jachat."
+        },
+        {
+          "number": 23,
+          "text": "A synowie Jeryjaszowi: Amaryjasz wtóry, Jehazylej trzeci, Jekmaan czwarty."
+        },
+        {
+          "number": 24,
+          "text": "Synowie Husyjelowi Micha; z synów Michy Samir."
+        },
+        {
+          "number": 25,
+          "text": "Brat Michasowy Jesyjasz; z synów Jesyjaszowych Zacharyjasz."
+        },
+        {
+          "number": 26,
+          "text": "Synowie Merarego: Maheli i Musy: synowie Jahasyjaszowi Beno."
+        },
+        {
+          "number": 27,
+          "text": "Sunowie Merarego z Jahasyjasza: Beno, i Soam, i Zachur, i Hybry."
+        },
+        {
+          "number": 28,
+          "text": "Z Mahalego Eleazar, który nie miał synów."
+        },
+        {
+          "number": 29,
+          "text": "Z Cysa, synowie Cysowi Jerahmeel."
+        },
+        {
+          "number": 30,
+          "text": "A synowie Musy: Maheli i Eder, i Jerymot. Cić byli synowie Lewitów według domów ojców ich."
+        },
+        {
+          "number": 31,
+          "text": "I ci też miotali losy naprzeciwko braci swoich, synom Aaronowym, przed Dawidem królem, i Sadokiem, i Achimelechem, i przedniejszymi domów ojcowskich, z kapłanów i Lewitów, z domów ojcowskich, każdy przedniejszy przeciwko bratu swemu młodszemu."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I odłączył Dawid i hetmani wojska na posługiwanie synów Asafowych i Hemanowych, i Jedytunowych, którzy prorokowali przy cytrach, i przy harfach, i przy cymbałach. A była liczba ich, to jest mążów pracujących w usłudze swej:"
+        },
+        {
+          "number": 2,
+          "text": "Z synów Asafowych: Zachur, i Józef, i Natanijasz, i Asarela. Synowie Asafowi byli pod ręką Asafową, który prorokował na rozkazanie królewskie."
+        },
+        {
+          "number": 3,
+          "text": "Z Jedytuna: Synowie Jedytunowi: Godolijasz, i Zery, i Jesajasz, Hasabijasz, i Matytyjasz, i Symej, sześć, pod ręką ojca ich Jedytuna, który prorokował przy harfie, wyznawając i chwaląc Pana."
+        },
+        {
+          "number": 4,
+          "text": "Z Hemana: Synowie Hemanowi: Bukkijasz, Matanijasz, Husyjel, Zebuel, i Jerymot, Chananijasz,Chanani, Eliata, Gieddalty, i Romantyjeser, i Jasbekassa, Malloty, Hotyr, Machazyjot."
+        },
+        {
+          "number": 5,
+          "text": "Ci wszyscy byli synowie Hemana, widzącego królewskiego w słowach Bożych, ku wywyższeniu rogu: bo dał Bóg czternaście synów Hemanowych, i trzy córki."
+        },
+        {
+          "number": 6,
+          "text": "Ci wszyscy byli pod sprawą ojca swego przy śpiewaniu w domu Pańskim na cymbałach, na lutniach, i na cytrach ku służbie w domu Bożym, jako rozkazał król, i Asaf, Jedytun, i Heman."
+        },
+        {
+          "number": 7,
+          "text": "A był poczet ich z braci ich, którzy byli ćwiczonymi w pieśniach Pańskich, wszystkich mistrzów dwieście ośmdziesiąt i ośm."
+        },
+        {
+          "number": 8,
+          "text": "I miotali losy, straż przeciwko straży, tak mały jako i wielki, tak mistrz jako i uczeń."
+        },
+        {
+          "number": 9,
+          "text": "I padł los pierwszy w domu Asafowym na Józefa; na Godolijasza wtóry, z braćmi jego i z synami jego, których było dwanaście."
+        },
+        {
+          "number": 10,
+          "text": "Na Zachura trzeci, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 11,
+          "text": "Czwarty na Isrego, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 12,
+          "text": "Piąty na Natanijasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 13,
+          "text": "Szósty na Bukkijasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 14,
+          "text": "Siódmy na Jesarela, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 15,
+          "text": "Osmy na Jesajasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 16,
+          "text": "Dziewiąty na Matanijasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 17,
+          "text": "Dziesiąty na Symejasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 18,
+          "text": "Jedenasty na Asarela, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 19,
+          "text": "Dwunasty na Hasabijasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 20,
+          "text": "Trzynasty na Subajela, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 21,
+          "text": "Czternasty na Matytyjasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 22,
+          "text": "Piętnasty na Jerymota, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 23,
+          "text": "Szesnasty naChananijasza, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 24,
+          "text": "Siedemnasty na Jesbekassa, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 25,
+          "text": "Ośmnasty na Chananijego, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 26,
+          "text": "Dziewiętnasty na Mallotego, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 27,
+          "text": "Dwudziesty na Elijata, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 28,
+          "text": "Dwudziesty i pierwszy na Hotyra, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 29,
+          "text": "Dwudziesty i wtóry na Gieddaltego, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 30,
+          "text": "Dwudziesty i trzeci na Machazyjota, na synów jego i na braci jego dwanaście."
+        },
+        {
+          "number": 31,
+          "text": "Dwudziesty i czwarty na Romantyjesera, na synów jego i na braci jego dwanaście."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Roździały zaś odźwiernych były z Korejczyków: Meselemijasz, syn Korego, z synów Asafowych."
+        },
+        {
+          "number": 2,
+          "text": "A z Meselemijaszowych synów: Zacharyjasz pierworodny, Jadyjael wtóry, Zabadyjasz trzeci, Jatnijel czwarty."
+        },
+        {
+          "number": 3,
+          "text": "Elam piąty, Jachanan szósty, a Elienaj siódmy."
+        },
+        {
+          "number": 4,
+          "text": "A z Obededomowych synów: Semajasz pierworodny, Jozabad wtóry, Joach trzeci, i Sachar czwarty, a Natanael piąty,"
+        },
+        {
+          "number": 5,
+          "text": "Ammijel szósty, Isaschar siódmy, Pechulletaj ósmy; bo mu Bóg błogosławił."
+        },
+        {
+          "number": 6,
+          "text": "Semajaszowi też, synowi jego, zrodzili się synowie, którzy panowali w domu ojca swego; bo byli mężowie bardzo mocni."
+        },
+        {
+          "number": 7,
+          "text": "Synowie Semajaszowi: Otni, i Rafael i Obed, Elzabed, bracia jego, mężowie mocni, Elihu i Semachyjasz."
+        },
+        {
+          "number": 8,
+          "text": "Wszyscy ci z synów Obededomowych, sami i synowie ich, i bracia ich, każdy z nich bardzo mocny i sposobny ku posługiwaniu, sześdziesiąt i dwa wszystkich z Obededoma."
+        },
+        {
+          "number": 9,
+          "text": "A z Meselemijaszowych synów i braci, mężów mocnych, ośmnaście."
+        },
+        {
+          "number": 10,
+          "text": "A z Hosy, który był z synów Merarego, synowie byli: Semry przedniejszy; nie iżby był pierworodny, ale iż go ojciec jego uczynił przedniejszym;"
+        },
+        {
+          "number": 11,
+          "text": "Helkijasz wtóry, Tebalijasz trzeci, Zacharyjasz czwarty; wszystkich synów i braci trzynaście."
+        },
+        {
+          "number": 12,
+          "text": "Ci są rozdzieleni na odźwiernych, aby byli wrotnymi z mężów przedniejszych, trzymając straż na przemiany z braćmi swymi przy służbie w domu Pańskim."
+        },
+        {
+          "number": 13,
+          "text": "Albowiem miotali losy, tak mały jako wielki według domów ojców swych, o każdą bramę."
+        },
+        {
+          "number": 14,
+          "text": "I padł los na wschód słońca Selemijaszowy; Zacharyjaszowi także synowi jego, radcy mądremu, rzucili losy, i padł los jego na północy;"
+        },
+        {
+          "number": 15,
+          "text": "A Obededomowi na południe; ale synom jego na dom skarbów."
+        },
+        {
+          "number": 16,
+          "text": "Suppimowi i Hozie na zachód z bramą Zallechet, przy scieszce usypanej, idącej ku górze; a tak była straż na przeciwko straży."
+        },
+        {
+          "number": 17,
+          "text": "Na wschód słońca było Lewitów sześć, na północy na dzień czterech, na południe na dzień czterech, a przy domu skarbów dwóch a dwóch."
+        },
+        {
+          "number": 18,
+          "text": "Przy stronie zewnętrznej na zachód było czterech na drodze sypanej, a dwóch przy stronie zewnętrznej."
+        },
+        {
+          "number": 19,
+          "text": "Teć są roździeły odźwiernych z synów Korego, i z synów Merarego."
+        },
+        {
+          "number": 20,
+          "text": "A z drugich Lewitów Achyjasz był nad skarbami domu Bożego, to jest nad skarbami rzeczy poświęconych."
+        },
+        {
+          "number": 21,
+          "text": "Synowie Laadanowi, którzy byli z synów Giersonickich: z Laadana Giersończyka przedniejsi w domach ojcowskich, Jehyjel."
+        },
+        {
+          "number": 22,
+          "text": "A synowie Jehyjlowi byli Zetam, i Joel, brat jego; ci byli nad skarbami domu Pańskiego."
+        },
+        {
+          "number": 23,
+          "text": "Z Amramczyków, i z Izaarczyków, z Hebrończyków, i Hysyjelczyków."
+        },
+        {
+          "number": 24,
+          "text": "Był Sebuel, syn Giersona, syna Mojżeszowego, przełożony nad skarbami."
+        },
+        {
+          "number": 25,
+          "text": "Ale bracia jego z Eleazara byli Rechabijasz syn jego, i Jesajasz syn jego, i Joram syn jego, i Zychry syn jego, i Salomit syn jego."
+        },
+        {
+          "number": 26,
+          "text": "Ten Salomit i bracia jego byli na wszystkiemi skarbami rzeczy poświęconych, które był poświęcił Dawid król, i przedniejsi z domów ojcowskich, i półkownicy, i rotmistrze, i hetmani wojska."
+        },
+        {
+          "number": 27,
+          "text": "Bo z wojen i z łupów poświęcali na poprawę domu Pańskiego;"
+        },
+        {
+          "number": 28,
+          "text": "I wszystko, co był poświęcił Samuel widzący, i Saul, syn Cysowy, i Abner, syn Nera, i Joab, syn Sarwii, i ktokolwiek co poświęcał, oddawał do rąk Salomitowych i braci jego."
+        },
+        {
+          "number": 29,
+          "text": "Z Izaarytów: Kienanijasz i synowie jego nad robotą zewnętrzną w Izraelu, byli za urzędników i za sędziów."
+        },
+        {
+          "number": 30,
+          "text": "Z Hebrończyków: Hasabijasz i braci jego, mężów dużych, było tysiąc i siedm set przełożonych nad Izraelem za Jordanem na zachód słońca, w każdej robocie Pańskiej i w posłudze królewskiej."
+        },
+        {
+          "number": 31,
+          "text": "A z Hebrończyków był Jeryjasz przedniejszy nad Hebrończykami według narodów ich i domów ojcowskich. Bo roku czterdziestego królestwa Dawidowego szukano i znaleziono między nimi mężów bardzo mocnych w Jazer Galaadskiem."
+        },
+        {
+          "number": 32,
+          "text": "A braci jego, mężów godnych, było dwa tysiące i siedm set przedniejszych w domach ojcowskich. I postanowił ich Dawid król nad Rubeńczykami, i nad Gadczykami, i nad połową pokolenia Manasesowego, nad wszystkiemi sprawami Bożemi i sprawami królewskiemi."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A synów Izraelskich według liczby ich, przedniejszych w domach ojcowskich, i półkowników, i rotmistrzów, i przełożonych nad tymi, którzy służyli królowi we wszelkiej potrzebie, w podziałach swoich, przychodzących i odchodzących na każdy miesiąc przez wszystkie miesiące w roku; w każdym podziale było dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 2,
+          "text": "Nad hufem pierwszego miesiąca był Jasobeam, syn Sabdyjelowy, a w podziele jego było dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 3,
+          "text": "Ten był z synów Faresowych przedniejszym nad wszystkiemi przełożonymi w wojsku miesiąca pierwszego."
+        },
+        {
+          "number": 4,
+          "text": "A nad podziałem wtórego miesiąca był Dodaj Achochytczyk i z podziałem swym; po nim Michlot, książę, a w podziale jego było ludu dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 5,
+          "text": "Przełożony trzeci wojska miesiąca trzeciego był Banajas, syn Jojady kapłana, przedniejszym, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 6,
+          "text": "Ten Banajas był mocarz między trzydziestoma, i nad trzydziestoma, a nad podziałem jego był Ammisadab, syn jego."
+        },
+        {
+          "number": 7,
+          "text": "Czwarty czwartego miesiąca był Asael, brat Joabowy, a po nim Zabadyjasz, syn jego, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 8,
+          "text": "Piąty miesiąca piątego był przełożonym Samut Jezrahytczyk, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 9,
+          "text": "Szósty miesiąca szóstego był Hyra, syn Ikkiessa Tekuitczyka, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 10,
+          "text": "Siódmy miesiąca siódmego był Heles Felonitczyk z synów Efraimowych, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 11,
+          "text": "Osmy miesiąca ósmego był Sobochaj Husatczyk z Zarchejczyków, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 12,
+          "text": "Dziewiąty miesiąca dziewiątego był Abijezer Anatotczyk z synów Jemini, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 13,
+          "text": "Dziesiąty miesiąca dziesiątego był Mahary Netofatczyk z Zarchejczyków, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 14,
+          "text": "Jedenasty miesiąca jedenastego był Banajas Faratońszyk z synów Efraimowych, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 15,
+          "text": "Dwunasty miesiąca dwunastego był Haldaj Netofatczyk z Otonijela, a w podziale jego dwadzieścia i cztery tysiące."
+        },
+        {
+          "number": 16,
+          "text": "Nadto nad pokoleniem Izraelskiem byli: Nad Rubeńczykami był książęciem Elijezer, syn Zychrego; nad Symeończykami Sefatyjasz, syn Maachowy;"
+        },
+        {
+          "number": 17,
+          "text": "Nad pokoleniem Lewiego Chasabijasz, syn Chemuelowy; nad Aaronowem Sadok;"
+        },
+        {
+          "number": 18,
+          "text": "Nad Judowem Elihu z braci Dawidowych; nad Isascharowem Amry, syn Michaelowy;"
+        },
+        {
+          "number": 19,
+          "text": "Nad Zabulonowem Jesmajasz, syn Abdyjaszowy; nad Neftalimowem Jerymot, syn Asryjelowy;"
+        },
+        {
+          "number": 20,
+          "text": "Nad synami Efraimowymi Hosejasz, syn Azazyjaszowy; nad połową pokolenia Manasesowego Joel, syn Fadajaszowy;"
+        },
+        {
+          "number": 21,
+          "text": "Nad drugą połową pokolenia Manasesowego w Galaadzie Iddo, syn Zacharyjaszowy; nad Benjaminowem Jaasyjel, syn Abnerowy."
+        },
+        {
+          "number": 22,
+          "text": "Nad Danowem Azraeel, syn Jerohamowy. Cić są książęta pokoleń Izraelskich."
+        },
+        {
+          "number": 23,
+          "text": "A nie włożył Dawid w liczbę ich żadnego, co miał dwadzieścia lat i niżej; albowiem Pan był powiedział, iż miał rozmnożyć Izraela jako gwiazdy niebieskie."
+        },
+        {
+          "number": 24,
+          "text": "A Joab, syn Sarwii, począł był liczyć, ale nie dokończył, dlatego że był gniew przypadł na Izraela. I nie weszła ta liczba w liczbę kronik o sprawach króla Dawida."
+        },
+        {
+          "number": 25,
+          "text": "A nad skarbami królewskiemi był Asmawet, syn Abdyjelowy; a nad dochodami z pól, z miast, i ze wsi i z zamków był Jonatan, syn Uzyjaszowy;"
+        },
+        {
+          "number": 26,
+          "text": "A nad oraczami, którzy uprawiali ziemię, był Ezer, syn Chalubowy."
+        },
+        {
+          "number": 27,
+          "text": "A nad winnicami był Semejasz Ramatczyk; a nad urodzajami winnic i nad piwnicami winnemi Zabdyjasz Zyfmejczyk."
+        },
+        {
+          "number": 28,
+          "text": "A nad oliwnicami, i nad drzewami figowemi, które są w polach, był Balanan Giedertczyk, a nad piwnicami oliwnemi Joas."
+        },
+        {
+          "number": 29,
+          "text": "A nad bydłem, które paszono w Saron, Sytraj Saronitczyk; a nad bydłem po dolinach Safat, syn Adlajego."
+        },
+        {
+          "number": 30,
+          "text": "A nad wielbłądami był Obil Ismaelitczyk, a nad oślicami był Jechdejasz Merończyk."
+        },
+        {
+          "number": 31,
+          "text": "A nad drobnem bydłem Jazys Agiertczyk. Cić wszysct byli przełożonymi nad majętnościami króla Dawida."
+        },
+        {
+          "number": 32,
+          "text": "Ale Jonatan, stryj Dawidowy, był radcą, mąż mądry, i nauczony; ten, i Jehijel, syn Chachmonowy, był z synami królewskimi."
+        },
+        {
+          "number": 33,
+          "text": "Achitofel też był radcą królewskim, a Chusaj Archytczyk przyjacielem królewsskim."
+        },
+        {
+          "number": 34,
+          "text": "A po Achitofelu był Jojada, syn Banajasowy, i Abujatar. A Joab był hetmanem wojska królewskiego."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy zgromadził Dawid wszystkich książęt Izraelskich, i przedniejszych z każdego pokolenia, i przełożonych nad hyfcami, którzy służyli królowi, i półkowników, i rotmistrzów, i przełożonych nad wszystką majętnością i osiadłością królewską; synów też swoich z komornikami, i z innymi możnymi, i ze wszystkim ludem rycerskim do Jeruzalemu."
+        },
+        {
+          "number": 2,
+          "text": "A powstawszy król Dawid na nogi swoje, rzekł: Słuchajcie mię, bracia moi, i ludu mój! Jam był umyślił w sercu swem, budować dom, gdzieby odpoczywała skrzynia przymierza Paćskiego, i na podnóżek nóg Boga naszego, i zgotowałem był potrzeby ku budowaniu;"
+        },
+        {
+          "number": 3,
+          "text": "Ale Bóg rzekł do mnie: Nie będziesz budował domu imieniowi memu, przeto żeś mąż waleczny, i rozlewałeś krew."
+        },
+        {
+          "number": 4,
+          "text": "Ale obrał mię Pan, Bóg Izraelski, ze wszystkiego domu ojca mego, abym był królem nad Izraelem na wieki; bo z Judy obrał księcia, a z narodu Judzkiego dom ojca mego; i z synów ojca mego upodobał mię sobie za króla nad wszystkim Izraelem."
+        },
+        {
+          "number": 5,
+          "text": "A ze wszystkich synów moich (bo mi wiele synów Pan dał) obrał Salomona, syna mego, aby siedział na stolicy królestwa Pańskiego nad Izraelem."
+        },
+        {
+          "number": 6,
+          "text": "I mówił do mnie: Salomon, syn twój, ten zbydyje dom mój, i przysionki moje; albowiemem go sobie obrał za syna, a Ja mu będę za ojca."
+        },
+        {
+          "number": 7,
+          "text": "I umocnię królestwo jego aż na wieki, będzieli statecznym w pełnieniu przykazań moich i sądów moich, jako i dziś."
+        },
+        {
+          "number": 8,
+          "text": "Teraz tedy mówię wam pezed obliczem wszystkiego Izraela, zgromadzenia tego Pańskiego, gdzie słyszy Bóg nasz: Strzeżcie a szukajcie wszystkich rozkazań Pana, Boga waszego, abyście osiedli ziemię dobrą, i zostawili ją w dziedzictwo synom swoim po so bie aż na wieki."
+        },
+        {
+          "number": 9,
+          "text": "A ty Salomonie, synu mój! znaj Boga, ojca twojego, i służ mu sercem doskonałem, i umysłem dobrowolnym; bo wszystkie serca przegląda Pan, i wszystkie zamusły myśli zna. Jeźli go szukać bądziesz, znajdziesz go, a jeźli go opuścisz, odrzuci cię na wieki."
+        },
+        {
+          "number": 10,
+          "text": "Obaczże teraz, iż cię Pan obrał, abyś zbudował dom świątnicy; zmacniajże się a wykonaj to."
+        },
+        {
+          "number": 11,
+          "text": "Tedy oddał Dawid Salomonowi, synowi swemu, wizerunek przysionka, i gmachów jego, i komor jego, i sal jego, i wnętrznych pokojów jego, i domu ubłagalni."
+        },
+        {
+          "number": 12,
+          "text": "Przytem wizerunek wszystkiego, co był umyślił o sieni domu Paćskiego, i o wszystkich gmachach dla skarbów domu Bożego, i dla skarbów rzeczy świętych;"
+        },
+        {
+          "number": 13,
+          "text": "I dla pocztów kapłańskich, i Lewitów, i dla wszystkiej pracy w usłudze domu Pańskiego, i dla wszystkiego naczynia służby domu Pańskiego."
+        },
+        {
+          "number": 14,
+          "text": "Także złota pewną wagę na wszystkie naczynia złote, od wszystkiej usługi; srebra także na wszystkie naczynia srebrne pewną wagę, na wszystkie naczynia ku wszelakiej usłudze;"
+        },
+        {
+          "number": 15,
+          "text": "Mianowicie pewną wagę na świeczniki złote i na lampy ich złote według wagi każdego świecznika i lamp jego, i na świeczniki srebrne według wagi świecznika każdego i lamp jego, według potrzeby każdego świecznika."
+        },
+        {
+          "number": 16,
+          "text": "Także pewnąwagę złota na stoły chlebów pokładbych, na każdy stół, przytem srebra na stoły srebrne."
+        },
+        {
+          "number": 17,
+          "text": "A na widełki, i na kociołki, i na kadzielnice szczerego złota, i na czasze złote, pewnąwagę na każdą czaszę, i na czasze srebrne, pewną wagę na każdą czaszę."
+        },
+        {
+          "number": 18,
+          "text": "Takżw na ołtarz do kadzeania dał złota szczerego pewną wagę, i złota ku wystawieniu woza Cherubinów, którzyby rozciągnionemi skrzydłami okrywali skrzynię przymierza Pańskiego."
+        },
+        {
+          "number": 19,
+          "text": "To wszystko, rzekł Dawid, opisane z ręki Pańskiej mię doszło, abym zrozumiał wszystko, jako co urobić miano."
+        },
+        {
+          "number": 20,
+          "text": "A tak rzekł Dawid do Salomona, syna swego: Zmacniaj się, a bądź mężnym, czyń to; nie bój się, ani się lękaj; bo Pan Bóg, Bóg mój, będzie z tobą, nie opuści cię, ani cię odstąpi, aż dokończysz wszystkiej roboty służby domu Pańskiego."
+        },
+        {
+          "number": 21,
+          "text": "A oto poczty kapłanów i Lewitów do każdej posługi w domu Bożym bądą z tobą w każdej pracy; każdy ochotny i roztropny przy wszelkiej posłudze, także książęta, i wszystek lud staną na każde rozkazanie twoje."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Potem mówił król Dawid do wszystkoego zgromadzenia: Salomona, syn mego jedynego, obrał Bóg młodzieńczyka małego. Ale to wielka sprawa; do nie człowiekowi pałac ten, ale Panu Bogu będzie."
+        },
+        {
+          "number": 2,
+          "text": "Ja według najwyższego przemożenia mego nagotowałem na dom Boga mego złota, na naczynie złote, i srebra na srebrne, i miedzi na miedziane, żelaza na żelazne, i drzewa na drewniane, kamienia onychynowego na osadzanie, i kamienia karbunkułowego, i ro zlicznych farb, a wszelakiego kamienia drogiego, i kamienia marmurowego dostatek wielki."
+        },
+        {
+          "number": 3,
+          "text": "Nadto z chęci mojej ku domowi Boga mego osobne złoto i srebro, które mam, oddaję na dom Boga mego, oprócz tego wszystkiego, com zgotował na dom świątnicy;"
+        },
+        {
+          "number": 4,
+          "text": "To jest trzy tysiące talentów złota, złota z Ofir, i siedm tysięcy talentów srebra najczystszego na okrycie ścian gmachów;"
+        },
+        {
+          "number": 5,
+          "text": "Złota na naczynie złote, a srebra na srebrne, i na wszystkie roboty rąk rzemieślniczych; i jeźliby jeszcze kto chciał co dobrowolnie dziś ofiarować Panu?"
+        },
+        {
+          "number": 6,
+          "text": "Tedy dobrowolnie ofiarowali przedniejsi z domów i przedniejsi z pokoleń Izraelskich, i półkownicy, i rotmistrze, i przełożeni nad robotą królewską."
+        },
+        {
+          "number": 7,
+          "text": "I złożyli na usługą domu Bożego złota talentíw pięć tysięcy, i złotych dziesięć tysięcy, a srebra talentów dziesięć tysięcy, i midzi ośmnaście tysięcy talentów, a żelaza sto tysięcy talentów."
+        },
+        {
+          "number": 8,
+          "text": "Ci też co mieli drogie kamienie, dawali je do sksarbu domu Pańskiego, do rąk Jehijela Giersończyka."
+        },
+        {
+          "number": 9,
+          "text": "I weselił się lud, że tak ochotnie ofiaroweali. Albowiem sercem doskonałem chętnie ofiarowali Panu; także i król Dawid weselił się weselem wielkiem."
+        },
+        {
+          "number": 10,
+          "text": "Przetoż błogosławił Dawid Panu przed obliczem wszystkiego zgromadzenia, i rzekł: Błogosławionyś ty Panie, Boże Izraela, ojca naszego, od wieku aż na wieki."
+        },
+        {
+          "number": 11,
+          "text": "Twoja jest, Panie! wielmożność, i moc, i sława, i zwyciąstwo, i cześć, i wszystko na niebie i na ziemi; twoje jest, Panie! królestwo, a tyśjest wywższony nad wszelką zwierzchność."
+        },
+        {
+          "number": 12,
+          "text": "I bogactwa, i sława od ciebie są, a ty panujesz nad wszystkimi, a w rękach twych jest moc i siła, i w ręce twojej jest wywyższyć i utwierdzić wszystko."
+        },
+        {
+          "number": 13,
+          "text": "Teraz tedy, Boże nasz! wyznajemy cię, a chwalimy imię sławy twojej."
+        },
+        {
+          "number": 14,
+          "text": "Albowiem cużem ja, i co jest lud mój, żebyśmyto siły mieli, tobie to dobrowolnie ofiarować? gdyż od ciebie jest wszystko, a z rąk twoich wziąwszy daliśmy tobie."
+        },
+        {
+          "number": 15,
+          "text": "Bośmy my pielgrzymami i przychodniami przed tobą, jako i wszyscy ojcowie nasi; dni nasze na ziemi jako cień, a nie masz czego oczekiwać."
+        },
+        {
+          "number": 16,
+          "text": "O Panie, Boże nasz! ten wszystek dostatek któryśmy zgotowali tobie na budowanie domu imieniowi twemu świętemu, z ręki twojej jest, i twoje jest wszystko."
+        },
+        {
+          "number": 17,
+          "text": "Wiemci ja, Boże mój! iż ty doświadczasz serc a kochasz się w szczerości; przetoż ja w szczerości serca mego, ochotniem pofiarował to wszystko, nawet i lud twój, który się tu znalazł, widziałem z weselem i z ochotą ofiarujący tobie."
+        },
+        {
+          "number": 18,
+          "text": "Panie, Boże Abrahama, Izaaka, i Izraela, ojców naszych! zachowajże na wieki tę chęć, i umysł serca ludu twego, a przygotuj sobie serce ich."
+        },
+        {
+          "number": 19,
+          "text": "Salomonowi też, synowi memu daj serce doskonałe, aby strzegł przykazań twoich, świadectw twoich, i ustaw twoich, i czynił wszystko, i aby zbudował dom, dla któregom potrzebu zgotował."
+        },
+        {
+          "number": 20,
+          "text": "Potem mówił Dawid do wszystkiego zgromadzenia: Błogosławcież teraz Panu, Bogu waszemu. I błogosławiło wszystko zgromadzenie Panu, Bogu ojców sowich, a naczyliwszy się pokłonili się Panu i królowi."
+        },
+        {
+          "number": 21,
+          "text": "I zatem ofiarowali Panu ofiary. Ofiarowali też całopalenia Panu nazajutrz po onym dniu, wołów tysiąc, baranów tysiąc, baranków tysiąc z mokremi ofiarami ich, i inszych ofiar wielkie mnóstwo, za wszystkiego Izraela."
+        },
+        {
+          "number": 22,
+          "text": "I jedli a pili przed Panem dnia onego z weselem wielkiem, a postanowili powtóre królem Salomona, syna Dawidowego, i pomazali go Panu za księcia, a Sadoka za kapłana."
+        },
+        {
+          "number": 23,
+          "text": "A tak usiadł Salomon na stolicy Pańskiej za króla miasto Dawida, ojca swego, i szczęściło mu się, a był mu posłuszny wszystek Izrael."
+        },
+        {
+          "number": 24,
+          "text": "I wszyscy książęta, i możni, także i wszyscy synowie króla Dawida, dali ręce na poddaństwo Salomonowi królowi."
+        },
+        {
+          "number": 25,
+          "text": "I uwielbił Pan Salomona bardzo zacnie przed oczyma wszystkiego Izraela, a dał mu sławę królewskoą, jakiej żaden król przed nim nie miał w Izraelu."
+        },
+        {
+          "number": 26,
+          "text": "A tak Dawid, syn Isajego, królował nad wszystkim Izraelem."
+        },
+        {
+          "number": 27,
+          "text": "A dni, których królował nad Izraelem, było czterdzieści lat; w Hebronie królował siedm lat; a w Jeruzalemie królował trzydzieści i trzy lata."
+        },
+        {
+          "number": 28,
+          "text": "I umarł w starości dobrej, pełen dni, bogactw i sławy: a królował Salomon, syn jego, miasto niego."
+        },
+        {
+          "number": 29,
+          "text": "A sprawy króla Dawida pierwsze i ostatnie, oto są zapisane w księgach Samuela widzącego, i w księdze Natana proroka, i w skiędze Gada widzącego;"
+        },
+        {
+          "number": 30,
+          "text": "Ze wszystkiem królowaniem jego, i możnością jego, i z czasami, które za niego i za Izraela, i za wszystkich królestw ziemskich przeszły."
+        }
+      ]
+    }
+  ]
+}

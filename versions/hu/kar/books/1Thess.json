@@ -1,0 +1,390 @@
+{
+  "version": "kar",
+  "book": "1Thess",
+  "bookId": 52,
+  "englishName": "1 Thessalonians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pál, Silvánus és Timótheus a Thessalonikabeliek gyülekezetének, a mely van az Atya Istenben és az Úr Jézus Krisztusban: kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól."
+        },
+        {
+          "number": 2,
+          "text": "Hálát adunk az Istennek mindenkor mindnyájatokért, emlékezvén rólatok a mi imádságainkban;"
+        },
+        {
+          "number": 3,
+          "text": "Szüntelenül emlegetve a ti hitetek munkáját, és a ti szeretetetek fáradozását, és a mi Urunk Jézus Krisztus felől való reménységeteknek állhatatosságát, az Isten előtt, a mi Atyánk előtt:"
+        },
+        {
+          "number": 4,
+          "text": "Tudván, Istentől szeretett atyámfiai, hogy ti ki vagytok választva;"
+        },
+        {
+          "number": 5,
+          "text": "Hogy a mi evangyéliomunk ti nálatok nem áll csak szóban, hanem isteni erőkben is, Szent Lélekben is, sok bizodalomban is; a miképen tudjátok, hogy milyenek voltunk közöttetek ti érettetek."
+        },
+        {
+          "number": 6,
+          "text": "És ti a mi követőinkké lettetek és az Úréi, befogadván az ígét sokféle szorongattatás között, Szent Lélek örömével;"
+        },
+        {
+          "number": 7,
+          "text": "Úgy hogy példaképekké lettetek Maczedóniában és Akhájában minden hívőre nézve."
+        },
+        {
+          "number": 8,
+          "text": "Mert nemcsak Maczedóniában és Akhájában zendült ki tőletek az Úr beszéde, hanem minden helyen is híre terjedt a ti Istenben vetett hiteteknek, annyira, hogy szükségtelen arról valamit szólnunk."
+        },
+        {
+          "number": 9,
+          "text": "Mert azok magok hirdetik felőlünk, milyen volt a mi hozzátok való menetelünk, és miként tértetek meg az Istenhez a bálványoktól, hogy az élő és igaz Istennek szolgáljatok,"
+        },
+        {
+          "number": 10,
+          "text": "És várjátok az Ő Fiát az égből, a kit feltámasztott a halálból, a Jézust, a ki megszabadít minket amaz eljövendő haragtól."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mert magatok tudjátok, atyámfiai, hogy a mi ti hozzátok való menetelünk nem volt hiábavaló;"
+        },
+        {
+          "number": 2,
+          "text": "Sőt inkább, noha elébb már háborúságot és bosszúságot szenvedtünk volt Filippiben, a mint tudjátok, volt bátorságunk a mi Istenünkben, hogy közöttetek is hirdessük az Isten evangyéliomát sok tusakodással."
+        },
+        {
+          "number": 3,
+          "text": "Mert a mi buzdításunk nem hitetésből van, sem nem tisztátalanságból, sem nem álnokságból:"
+        },
+        {
+          "number": 4,
+          "text": "Hanem a miképen az Isten méltatott minket arra, hogy reánk bízza az evangyéliomot, akképen szólunk; nem úgy, hogy embereknek tessünk hanem az Istennek, a ki megvizsgálja a mi szívünket."
+        },
+        {
+          "number": 5,
+          "text": "Mert sem hízelkedő beszéddel, a mint tudjátok, sem telhetetlenség színében nem léptünk fel soha, Isten a bizonyság;"
+        },
+        {
+          "number": 6,
+          "text": "Sem emberektől való dicsőítést nem kerestünk, sem tőletek, sem másoktól, holott terhetekre lehettünk volna, mint Krisztus apostolai."
+        },
+        {
+          "number": 7,
+          "text": "De szívélyesek valánk ti közöttetek, a miként a dajka dajkálgatja az ő gyermekeit."
+        },
+        {
+          "number": 8,
+          "text": "Így felbuzdulva irántatok, készek valánk közleni veletek nemcsak az Isten evangyéliomát, hanem a mi magunk lelkét is, mivelhogy szeretteinkké lettetek nékünk."
+        },
+        {
+          "number": 9,
+          "text": "Emlékezhettek ugyanis atyámfiai a mi fáradozásunkra és bajlakodásunkra: mert éjjel-nappal munkálkodva hirdettük néktek az Isten evangyéliomát, csakhogy senkit meg ne terheljünk közületek."
+        },
+        {
+          "number": 10,
+          "text": "Ti vagytok bizonyságok és az Isten, milyen szentül, igazán és feddhetetlenül éltünk előttetek, a kik hisztek."
+        },
+        {
+          "number": 11,
+          "text": "Valamint tudjátok, hogy miként atya az ő gyermekeit, úgy intettünk és buzdítgattunk egyenként mindnyájatokat."
+        },
+        {
+          "number": 12,
+          "text": "És kérve kértünk, hogy Istenhez méltóan viseljétek magatokat, a ki az ő országába és dicsőségébe hív titeket."
+        },
+        {
+          "number": 13,
+          "text": "Ugyanazért mi is hálát adunk az Istennek szüntelenül, hogy ti befogadván az Istennek általunk hirdetett beszédét, nem úgy fogadtátok, mint emberek beszédét, hanem mint Isten beszédét (a minthogy valósággal az is), a mely munkálkodik is ti bennetek, a kik hisztek."
+        },
+        {
+          "number": 14,
+          "text": "Mert ti, atyámfiai, követői lettetek az Isten gyülekezeteinek, a melyek Júdeában vannak a Krisztus Jézusban, mivelhogy ugyanúgy szenvedtetek ti is a saját honfitársaitoktól, miként azok is a zsidóktól,"
+        },
+        {
+          "number": 15,
+          "text": "A kik megölték az Úr Jézust is és a saját prófétáikat, és minket is üldöznek, és az Istennek nem tetszenek, és minden embernek ellenségei;"
+        },
+        {
+          "number": 16,
+          "text": "A kik megtiltják nékünk, hogy a pogányoknak ne prédikáljunk hogy üdvözüljenek; hogy mindenkor betöltsék bűneiket; de végre utólérte őket az Isten haragja."
+        },
+        {
+          "number": 17,
+          "text": "Mi pedig, atyámfiai, a mint elszakasztatánk tőletek egy kevés ideig, arczra, nem szívre nézve, annál buzgóságosabban, nagy kívánsággal igyekeztünk, hogy szemtől-szemben láthassunk titeket."
+        },
+        {
+          "number": 18,
+          "text": "Azért menni is akartunk hozzátok, kiváltképen én Pál, egyszer is, kétszer is, de megakadályozott minket a Sátán."
+        },
+        {
+          "number": 19,
+          "text": "Mert kicsoda a mi reménységünk, örömünk és dicsekedésünk koronája? Avagy nem azok lesztek-é ti is a mi Urunk Jézus Krisztus előtt az ő eljövetelekor?"
+        },
+        {
+          "number": 20,
+          "text": "Bizony ti vagytok a mi dicsőségünk és örömünk."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Annakokáért, mivelhogy tovább már el nem tűrhetők, jónak ítélénk, hogy magunk maradjunk Athénében,"
+        },
+        {
+          "number": 2,
+          "text": "És elküldöttük Timótheust, a mi atyánkfiát és Istennek szolgáját és munkatársunkat a Krisztus evangyéliomának hirdetésében, hogy erősítsen titeket és intsen titeket a ti hitetek felől;"
+        },
+        {
+          "number": 3,
+          "text": "Hogy senki meg ne tántorodjék ama szorongattatások között; mert ti magatok tudjátok, hogy mi arra rendeltettünk."
+        },
+        {
+          "number": 4,
+          "text": "Mert mikor közöttetek valánk is, előre megmondtuk néktek, hogy szorongattatásnak leszünk kitéve; a mint meg is történt, és tudjátok."
+        },
+        {
+          "number": 5,
+          "text": "Annakokáért én is, mivelhogy tovább már nem tűrhetém, elküldék, hogy megismerjem a ti hiteteket, ha nem kísértett-é meg valami módon titeket a kísértő, és nem lett-é hiábavaló a mi fáradságunk?"
+        },
+        {
+          "number": 6,
+          "text": "Most pedig, a mikor megérkezett hozzánk Timótheus ti tőletek, és örömhírt hozott nékünk a ti hitetek és szeretetetek felől, és arról, hogy jó emlékezéssel vagytok irántunk, mindenkor kívánván látni minket, miképen mi is titeket;"
+        },
+        {
+          "number": 7,
+          "text": "Ezáltal megvígasztalódtunk reátok nézve, atyámfiai, minden mi szorongattatásunk és szükségünk mellett is, a ti hitetek által:"
+        },
+        {
+          "number": 8,
+          "text": "Mert szinte megelevenedünk, ha ti erősek vagytok az Úrban."
+        },
+        {
+          "number": 9,
+          "text": "Mert milyen hálával is fizethetünk az Istennek ti érettetek, mindazért az örömért, a melylyel örvendezünk miattatok a mi Istenünk előtt?!"
+        },
+        {
+          "number": 10,
+          "text": "Mikor éjjel-nappal nagy buzgón esedezünk, hogy megláthassuk a ti orczátokat, és kipótolhassuk a ti hitetek hiányait."
+        },
+        {
+          "number": 11,
+          "text": "Maga pedig az Isten és a mi Atyánk, és a mi Urunk a Jézus Krisztus egyengesse meg a mi útunkat ti hozzátok!"
+        },
+        {
+          "number": 12,
+          "text": "Titeket pedig gyarapítson az Úr és tegyen bőségesekké az egymás iránt és mindenki iránt való szeretetben, a milyenek vagyunk mi is ti irántatok;"
+        },
+        {
+          "number": 13,
+          "text": "Hogy erősekké tegye a ti szíveteket, feddhetetlenekké a szentségben, a mi Istenünk és Atyánk előtt, a mikor eljő a mi Urunk Jézus Krisztus minden ő szenteivel egyetemben."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Továbbá pedig kérünk titeket, atyámfiai, és intünk az Úr Jézusban, hogy a szerint, a mint tőlünk tanultátok, mimódon kell forgolódnotok és Istennek tetszenetek: mindinkább gyarapodjatok."
+        },
+        {
+          "number": 2,
+          "text": "Mert tudjátok, milyen parancsolatokat adtunk néktek az Úr Jézus által."
+        },
+        {
+          "number": 3,
+          "text": "Mert ez az Isten akaratja, a ti szentté lételetek, hogy magatokat a paráznaságtól megtartóztassátok;"
+        },
+        {
+          "number": 4,
+          "text": "Hogy mindenitek szentségben és tisztességben tudja bírni a maga edényét,"
+        },
+        {
+          "number": 5,
+          "text": "Nem kívánság gerjedelmével, mint a pogányok, a kik nem ismerik az Istent;"
+        },
+        {
+          "number": 6,
+          "text": "Hogy senki túl ne lépjen és meg ne károsítsa valamely dologban az ő atyjafiát: mert bosszút áll az Úr mindezekért, a mint elébb is mondottuk néktek és bizonyságot tettünk."
+        },
+        {
+          "number": 7,
+          "text": "Mert nem tisztátalanságra, hanem szentségre hívott el minket az Isten."
+        },
+        {
+          "number": 8,
+          "text": "A ki azért megveti ezeket, nem embert vet meg, hanem az Istent, a ki Szent Lelkét is közlé velünk."
+        },
+        {
+          "number": 9,
+          "text": "Az atyafiúi szeretetről pedig nem is szükség írnom néktek: mert titeket Isten maga tanított meg arra, hogy egymást szeressétek;"
+        },
+        {
+          "number": 10,
+          "text": "Sőt gyakoroljátok is azt mindamaz atyafiak iránt, a kik egész Maczedóniában vannak. Kérünk azonban titeket atyámfiai, hogy mindinkább gyarapodjatok;"
+        },
+        {
+          "number": 11,
+          "text": "És becsületbeli dolognak tartsátok, hogy csendes életet folytassatok, saját dolgaitoknak utána lássatok, és tulajdon kezeitekkel munkálkodjatok, a miként rendeltük néktek;"
+        },
+        {
+          "number": 12,
+          "text": "Hogy a kívülvalók iránt tisztességesen viselkedjetek, és semmi szükséget ne érezzetek."
+        },
+        {
+          "number": 13,
+          "text": "Nem akarom továbbá, atyámfiai, hogy tudatlanságban legyetek azok felől, a kik elaludtak, hogy ne bánkódjatok, mint a többiek, a kiknek nincsen reménységök."
+        },
+        {
+          "number": 14,
+          "text": "Mert ha hisszük, hogy Jézus meghalt és feltámadott, azonképen az Isten is előhozza azokat, a kik elaludtak, a Jézus által ő vele együtt."
+        },
+        {
+          "number": 15,
+          "text": "Mert ezt mondjuk néktek az Úr szavával, hogy mi, a kik élünk, a kik megmaradunk az Úr eljöveteléig, épen nem előzzük meg azokat, a kik elaludtak."
+        },
+        {
+          "number": 16,
+          "text": "Mert maga az Úr riadóval, arkangyal szózatával és isteni harsonával leszáll az égből: és feltámadnak először a kik meghaltak volt a Krisztusban;"
+        },
+        {
+          "number": 17,
+          "text": "Azután mi, a kik élünk, a kik megmaradunk, elragadtatunk azokkal együtt a felhőkön az Úr elébe a levegőbe; és ekképen mindenkor az Úrral leszünk."
+        },
+        {
+          "number": 18,
+          "text": "Annakokáért vígasztaljátok egymást e beszédekkel."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az időkről és időszakokról pedig, atyámfiai, nem szükség, hogy írjak néktek;"
+        },
+        {
+          "number": 2,
+          "text": "Mert igen jól tudjátok ti magatok, hogy az Úrnak napja úgy jő el, mint a tolvaj éjjel."
+        },
+        {
+          "number": 3,
+          "text": "Mert a mikor ezt mondják: Békesség és biztonság, akkor hirtelen veszedelem jön rájok, mint a szülési fájdalom a terhes asszonyra; és semmiképen meg nem menekednek."
+        },
+        {
+          "number": 4,
+          "text": "De ti, atyámfiai, nem vagytok sötétségben, hogy az a nap tolvaj módra lephetne meg titeket."
+        },
+        {
+          "number": 5,
+          "text": "Ti mindnyájan világosság fiai vagytok és nappal fiai; nem vagyunk az éjszakáé, sem a sötétségé!"
+        },
+        {
+          "number": 6,
+          "text": "Ne is aludjunk azért, mint egyebek, hanem legyünk éberek és józanok."
+        },
+        {
+          "number": 7,
+          "text": "Mert a kik alusznak, éjjel alusznak; és a kik részegek, éjjel részegednek meg."
+        },
+        {
+          "number": 8,
+          "text": "Mi azonban, a kik nappaliak vagyunk, legyünk éberek, felöltözvén a hitnek és szeretetnek mellvasába, és sisak gyanánt az üdvösségnek reménységébe."
+        },
+        {
+          "number": 9,
+          "text": "Mert nem haragra rendelt minket az Isten, hanem arra, hogy üdvösséget szerezzünk a mi Urunk Jézus Krisztus által,"
+        },
+        {
+          "number": 10,
+          "text": "A ki meghalt érettünk, hogy akár ébren vagyunk, akár aluszunk, együtt éljünk ő vele."
+        },
+        {
+          "number": 11,
+          "text": "Vígasztaljátok azért egymást, és építse egyik a másikat, a miképen cselekeszitek is."
+        },
+        {
+          "number": 12,
+          "text": "Kérünk továbbá titeket atyámfiai, hogy becsüljétek azokat, a kik fáradoznak közöttetek, és előljáróitok az Úrban, és intenek titeket;"
+        },
+        {
+          "number": 13,
+          "text": "És az ő munkájokért viseltessetek irántok megkülönböztetett szeretettel. Egymással békességben éljetek."
+        },
+        {
+          "number": 14,
+          "text": "Kérünk továbbá titeket, atyámfiai, intsétek a rendetleneket, bátorítsátok a félelmes szívűeket, gyámolítsátok az erőteleneket, türelmesek legyetek mindenki iránt."
+        },
+        {
+          "number": 15,
+          "text": "Vigyázzatok, hogy senki senkinek rosszért rosszal ne fizessen; hanem mindenkor jóra törekedjetek úgy egymás iránt, mint mindenki iránt."
+        },
+        {
+          "number": 16,
+          "text": "Mindenkor örüljetek."
+        },
+        {
+          "number": 17,
+          "text": "Szüntelen imádkozzatok."
+        },
+        {
+          "number": 18,
+          "text": "Mindenben hálákat adjatok; mert ez az Isten akarata a Krisztus Jézus által ti hozzátok."
+        },
+        {
+          "number": 19,
+          "text": "A Lelket meg ne oltsátok."
+        },
+        {
+          "number": 20,
+          "text": "A prófétálást meg ne vessétek,"
+        },
+        {
+          "number": 21,
+          "text": "Mindent megpróbáljatok; a mi jó, azt megtartsátok!"
+        },
+        {
+          "number": 22,
+          "text": "Mindentől, a mi gonosznak látszik, őrizkedjetek!"
+        },
+        {
+          "number": 23,
+          "text": "Maga pedig a békességnek Istene szenteljen meg titeket mindenestől; és a ti egész valótok, mind lelketek, mind testetek feddhetetlenül őriztessék meg a mi Urunk Jézus Krisztus eljövetelére."
+        },
+        {
+          "number": 24,
+          "text": "Hű az, a ki elhivott titeket és ő meg is cselekszi azt."
+        },
+        {
+          "number": 25,
+          "text": "Atyámfiai, imádkozzatok érettünk."
+        },
+        {
+          "number": 26,
+          "text": "Köszöntsétek az összes atyafiakat szent csókolással."
+        },
+        {
+          "number": 27,
+          "text": "Kényszerítlek titeket az Úrra, hogy olvastassék fel e levél minden szent atyafi előtt."
+        },
+        {
+          "number": 28,
+          "text": "A mi Urunk Jézus Krisztusnak kegyelme veletek! Ámen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "version": "darby-fr",
+  "book": "Eph",
+  "bookId": 49,
+  "englishName": "Ephesians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, apôtre de Jésus Christ par la volonté de Dieu, aux saints et fidèles dans le christ Jésus, qui sont à Éphèse :"
+        },
+        {
+          "number": 2,
+          "text": "Grâce et paix à vous, de la part de Dieu notre Père et du seigneur Jésus Christ !"
+        },
+        {
+          "number": 3,
+          "text": "Béni soit le Dieu et Père de notre seigneur Jésus Christ, qui nous a bénis de toute bénédiction spirituelle dans les lieux célestes en Christ ;"
+        },
+        {
+          "number": 4,
+          "text": "selon qu’il nous a élus en lui avant la fondation du monde, pour que nous soyons saints et irréprochables devant lui en amour,"
+        },
+        {
+          "number": 5,
+          "text": "nous ayant prédestinés pour nous adopter pour lui par Jésus Christ, selon le bon plaisir de sa volonté,"
+        },
+        {
+          "number": 6,
+          "text": "à la louange de la gloire de sa grâce dans laquelle il nous a rendus agréables dans le Bien-aimé ;"
+        },
+        {
+          "number": 7,
+          "text": "en qui nous avons la rédemption par son sang, la rémission des fautes selon les richesses de sa grâce :"
+        },
+        {
+          "number": 8,
+          "text": "laquelle il a fait abonder envers nous en toute sagesse et intelligence,"
+        },
+        {
+          "number": 9,
+          "text": "nous ayant fait connaître le mystère de sa volonté selon son bon plaisir, qu’il s’est proposé en lui-même"
+        },
+        {
+          "number": 10,
+          "text": "pour l’administration de la plénitude des temps, [savoir] de réunir en un toutes choses dans le Christ, les choses qui sont dans les cieux et les choses qui sont sur la terre, en lui,"
+        },
+        {
+          "number": 11,
+          "text": "en qui nous avons aussi été faits héritiers, ayant été prédestinés selon le propos de celui qui opère toutes choses selon le conseil de sa volonté,"
+        },
+        {
+          "number": 12,
+          "text": "afin que nous soyons à la louange de sa gloire, nous qui avons espéré à l’avance dans le Christ :"
+        },
+        {
+          "number": 13,
+          "text": "en qui vous aussi [vous avez espéré], ayant entendu la parole de la vérité, l’évangile de votre salut ; auquel aussi ayant cru, vous avez été scellés du Saint Esprit de la promesse,"
+        },
+        {
+          "number": 14,
+          "text": "qui est les arrhes de notre héritage, pour la rédemption de la possession acquise, à la louange de sa gloire."
+        },
+        {
+          "number": 15,
+          "text": "C’est pourquoi moi aussi, ayant entendu parler de la foi au seigneur Jésus qui est en vous, et de l’amour que [vous avez] pour tous les saints,"
+        },
+        {
+          "number": 16,
+          "text": "je ne cesse de rendre grâces pour vous, faisant mention [de vous] dans mes prières,"
+        },
+        {
+          "number": 17,
+          "text": "afin que le Dieu de notre seigneur Jésus Christ, le Père de gloire, vous donne [l’]esprit de sagesse et de révélation dans sa connaissance,"
+        },
+        {
+          "number": 18,
+          "text": "les yeux de votre cœur étant éclairés, pour que vous sachiez quelle est l’espérance de son appel, et quelles sont les richesses de la gloire de son héritage dans les saints,"
+        },
+        {
+          "number": 19,
+          "text": "et quelle est l’excellente grandeur de sa puissance envers nous qui croyons, selon l’opération de la puissance de sa force,"
+        },
+        {
+          "number": 20,
+          "text": "qu’il a opérée dans le Christ, en le ressuscitant d’entre les morts ; – (et il l’a fait asseoir à sa droite dans les lieux célestes,"
+        },
+        {
+          "number": 21,
+          "text": "au-dessus de toute principauté, et autorité, et puissance, et domination, et de tout nom qui se nomme, non seulement dans ce siècle, mais aussi dans celui qui est à venir ;"
+        },
+        {
+          "number": 22,
+          "text": "et il a assujetti toutes choses sous ses pieds, et l’a donné [pour être] chef sur toutes choses à l’assemblée,"
+        },
+        {
+          "number": 23,
+          "text": "qui est son corps, la plénitude de celui qui remplit tout en tous ;)"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "– et vous, lorsque vous étiez morts dans vos fautes et dans vos péchés,"
+        },
+        {
+          "number": 2,
+          "text": "(dans lesquels vous avez marché autrefois, selon le train de ce monde, selon le chef de l’autorité de l’air, de l’esprit qui opère maintenant dans les fils de la désobéissance ;"
+        },
+        {
+          "number": 3,
+          "text": "parmi lesquels, nous aussi, nous avons tous vécu autrefois dans les convoitises de notre chair, accomplissant les volontés de la chair et des pensées ; et nous étions par nature des enfants de colère, comme aussi les autres."
+        },
+        {
+          "number": 4,
+          "text": "Mais Dieu, qui est riche en miséricorde, à cause de son grand amour dont il nous a aimés,)"
+        },
+        {
+          "number": 5,
+          "text": "alors même que nous étions morts dans nos fautes, nous a vivifiés ensemble avec le Christ (vous êtes sauvés par [la] grâce),"
+        },
+        {
+          "number": 6,
+          "text": "et nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes dans le christ Jésus,"
+        },
+        {
+          "number": 7,
+          "text": "afin qu’il montre dans les siècles à venir les immenses richesses de sa grâce, dans sa bonté envers nous dans le christ Jésus."
+        },
+        {
+          "number": 8,
+          "text": "Car vous êtes sauvés par la grâce, par la foi, et cela ne vient pas de vous, c’est le don de Dieu ;"
+        },
+        {
+          "number": 9,
+          "text": "non pas sur le principe des œuvres, afin que personne ne se glorifie ;"
+        },
+        {
+          "number": 10,
+          "text": "car nous sommes son ouvrage, ayant été créés dans le christ Jésus pour les bonnes œuvres que Dieu a préparées à l’avance, afin que nous marchions en elles."
+        },
+        {
+          "number": 11,
+          "text": "C’est pourquoi souvenez-vous que vous, autrefois les nations dans la chair, qui étiez appelés incirconcision par ce qui est appelé la circoncision, faite de main dans la chair,"
+        },
+        {
+          "number": 12,
+          "text": "vous étiez en ce temps-là sans Christ, sans droit de cité en Israël et étrangers aux alliances de la promesse, n’ayant pas d’espérance, et étant sans Dieu dans le monde."
+        },
+        {
+          "number": 13,
+          "text": "Mais maintenant, dans le christ Jésus, vous qui étiez autrefois loin, vous avez été approchés par le sang du Christ."
+        },
+        {
+          "number": 14,
+          "text": "Car c’est lui qui est notre paix, qui des deux en a fait un et a détruit le mur mitoyen de clôture,"
+        },
+        {
+          "number": 15,
+          "text": "ayant aboli dans sa chair l’inimitié, la loi des commandements [qui consiste] en ordonnances, afin qu’il crée les deux en lui-même pour être un seul homme nouveau, en faisant la paix ;"
+        },
+        {
+          "number": 16,
+          "text": "et qu’il les réconcilie tous les deux en un seul corps à Dieu par la croix, ayant tué par elle l’inimitié."
+        },
+        {
+          "number": 17,
+          "text": "Et il est venu, et a annoncé la bonne nouvelle de la paix à vous qui étiez loin, et la [bonne nouvelle de la] paix à ceux qui étaient près ;"
+        },
+        {
+          "number": 18,
+          "text": "car par lui nous avons, les uns et les autres, accès auprès du Père par un seul Esprit."
+        },
+        {
+          "number": 19,
+          "text": "Ainsi donc vous n’êtes plus étrangers ni forains, mais vous êtes concitoyens des saints et gens de la maison de Dieu,"
+        },
+        {
+          "number": 20,
+          "text": "ayant été édifiés sur le fondement des apôtres et prophètes, Jésus Christ lui-même étant la maîtresse pierre du coin,"
+        },
+        {
+          "number": 21,
+          "text": "en qui tout l’édifice, bien ajusté ensemble, croît pour être un temple saint dans le Seigneur ;"
+        },
+        {
+          "number": 22,
+          "text": "en qui, vous aussi, vous êtes édifiés ensemble, pour être une habitation de Dieu par l’Esprit."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "C’est pour cela que moi, Paul, le prisonnier du christ Jésus pour vous, les nations"
+        },
+        {
+          "number": 2,
+          "text": "– (si du moins vous avez entendu parler de l’administration de la grâce de Dieu qui m’a été donnée envers vous :"
+        },
+        {
+          "number": 3,
+          "text": "comment, par révélation, le mystère m’a été donné à connaître (ainsi que je l’ai déjà écrit en peu de mots ;"
+        },
+        {
+          "number": 4,
+          "text": "d’après quoi, en le lisant, vous pouvez comprendre quelle est mon intelligence dans le mystère du Christ),"
+        },
+        {
+          "number": 5,
+          "text": "lequel, en d’autres générations, n’a pas été donné à connaître aux fils des hommes, comme il a été maintenant révélé à ses saints apôtres et prophètes par l’Esprit :"
+        },
+        {
+          "number": 6,
+          "text": "[savoir] que les nations seraient cohéritières et d’un même corps et coparticipantes de sa promesse dans le christ Jésus, par l’évangile ;"
+        },
+        {
+          "number": 7,
+          "text": "duquel je suis devenu serviteur, selon le don de la grâce de Dieu qui m’a été donné selon l’opération de sa puissance."
+        },
+        {
+          "number": 8,
+          "text": "À moi, qui suis moins que le moindre de tous les saints, cette grâce a été donnée d’annoncer parmi les nations les richesses insondables du Christ,"
+        },
+        {
+          "number": 9,
+          "text": "et de mettre en lumière devant tous quelle est l’administration du mystère caché dès les siècles en Dieu qui a créé toutes choses ;"
+        },
+        {
+          "number": 10,
+          "text": "afin que la sagesse si diverse de Dieu soit maintenant donnée à connaître aux principautés et aux autorités dans les lieux célestes, par l’assemblée,"
+        },
+        {
+          "number": 11,
+          "text": "selon le propos des siècles, lequel il a établi dans le christ Jésus notre Seigneur,"
+        },
+        {
+          "number": 12,
+          "text": "en qui nous avons hardiesse et accès en confiance, par la foi en lui."
+        },
+        {
+          "number": 13,
+          "text": "C’est pourquoi je [vous] prie de ne pas perdre courage à cause de mes afflictions pour vous, ce qui est votre gloire."
+        },
+        {
+          "number": 14,
+          "text": "– C’est pour cela que je fléchis mes genoux devant le Père [de notre seigneur Jésus Christ],"
+        },
+        {
+          "number": 15,
+          "text": "duquel est nommée toute famille dans les cieux et sur la terre ;"
+        },
+        {
+          "number": 16,
+          "text": "afin que, selon les richesses de sa gloire, il vous donne d’être fortifiés en puissance par son Esprit, quant à l’homme intérieur ;"
+        },
+        {
+          "number": 17,
+          "text": "de sorte que le Christ habite, par la foi, dans vos cœurs, [et que vous soyez] enracinés et fondés dans l’amour ;"
+        },
+        {
+          "number": 18,
+          "text": "afin que vous soyez capables de comprendre avec tous les saints quelle est la largeur et la longueur, et la profondeur et la hauteur,"
+        },
+        {
+          "number": 19,
+          "text": "– et de connaître l’amour du Christ qui surpasse toute connaissance ; afin que vous soyez remplis jusqu’à toute la plénitude de Dieu."
+        },
+        {
+          "number": 20,
+          "text": "Or, à celui qui peut faire infiniment plus que tout ce que nous demandons ou pensons, selon la puissance qui opère en nous,"
+        },
+        {
+          "number": 21,
+          "text": "à lui gloire dans l’assemblée dans le christ Jésus, pour toutes les générations du siècle des siècles ! Amen.)"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Je vous exhorte donc, moi, le prisonnier dans le Seigneur, à marcher d’une manière digne de l’appel dont vous avez été appelés,"
+        },
+        {
+          "number": 2,
+          "text": "avec toute humilité et douceur, avec longanimité, vous supportant l’un l’autre dans l’amour ;"
+        },
+        {
+          "number": 3,
+          "text": "vous appliquant à garder l’unité de l’Esprit par le lien de la paix."
+        },
+        {
+          "number": 4,
+          "text": "[Il y a] un seul corps et un seul Esprit, comme aussi vous avez été appelés pour une seule espérance de votre appel."
+        },
+        {
+          "number": 5,
+          "text": "[Il y a] un seul Seigneur, une seule foi, un seul baptême."
+        },
+        {
+          "number": 6,
+          "text": "[Il y a] un seul Dieu et Père de tous, qui est au-dessus de tout, et partout, et en nous tous."
+        },
+        {
+          "number": 7,
+          "text": "Mais à chacun de nous la grâce a été donnée selon la mesure du don de Christ."
+        },
+        {
+          "number": 8,
+          "text": "C’est pourquoi il dit : « Étant monté en haut, il a emmené captive la captivité, et a donné des dons aux hommes »."
+        },
+        {
+          "number": 9,
+          "text": "Or, qu’il soit monté, qu’est-ce, sinon qu’il est aussi descendu dans les parties inférieures de la terre ?"
+        },
+        {
+          "number": 10,
+          "text": "Celui qui est descendu est le même que celui qui est aussi monté au-dessus de tous les cieux, afin qu’il remplisse toutes choses ;"
+        },
+        {
+          "number": 11,
+          "text": "et lui, a donné les uns [comme] apôtres, les autres [comme] prophètes, les autres [comme] évangélistes, les autres [comme] pasteurs et docteurs ;"
+        },
+        {
+          "number": 12,
+          "text": "en vue du perfectionnement des saints, pour l’œuvre du service, pour l’édification du corps de Christ ;"
+        },
+        {
+          "number": 13,
+          "text": "jusqu’à ce que nous parvenions tous à l’unité de la foi et de la connaissance du Fils de Dieu, à l’état d’homme fait, à la mesure de la stature de la plénitude du Christ :"
+        },
+        {
+          "number": 14,
+          "text": "afin que nous ne soyons plus de petits enfants, ballottés et emportés çà et là par tout vent de doctrine dans la tromperie des hommes, dans leur habileté à user de voies détournées pour égarer ;"
+        },
+        {
+          "number": 15,
+          "text": "mais que, étant vrais dans l’amour, nous croissions en toutes choses jusqu’à lui qui est le chef, le Christ ;"
+        },
+        {
+          "number": 16,
+          "text": "duquel tout le corps, bien ajusté et lié ensemble par chaque jointure du fournissement, produit, selon l’opération de chaque partie dans sa mesure, l’accroissement du corps pour l’édification de lui-même en amour."
+        },
+        {
+          "number": 17,
+          "text": "Voici donc ce que je dis et témoigne dans le Seigneur, c’est que vous ne marchiez plus comme le reste des nations marche, dans la vanité de leurs pensées,"
+        },
+        {
+          "number": 18,
+          "text": "ayant leur entendement obscurci, étant étrangers à la vie de Dieu à cause de l’ignorance qui est en eux, à cause de l’endurcissement de leur cœur ;"
+        },
+        {
+          "number": 19,
+          "text": "et qui, ayant perdu tout sentiment moral, se sont livrés à la débauche, pour pratiquer avidement toute impureté."
+        },
+        {
+          "number": 20,
+          "text": "Mais vous n’avez pas ainsi appris le Christ,"
+        },
+        {
+          "number": 21,
+          "text": "si du moins vous l’avez entendu et avez été instruits en lui selon que la vérité est en Jésus :"
+        },
+        {
+          "number": 22,
+          "text": "[c’est-à-dire], en ce qui concerne votre première manière de vivre, d’avoir dépouillé le vieil homme qui se corrompt selon les convoitises trompeuses,"
+        },
+        {
+          "number": 23,
+          "text": "et d’être renouvelés dans l’esprit de votre entendement,"
+        },
+        {
+          "number": 24,
+          "text": "et d’avoir revêtu le nouvel homme, créé selon Dieu, en justice et sainteté de la vérité."
+        },
+        {
+          "number": 25,
+          "text": "C’est pourquoi, ayant dépouillé le mensonge, parlez la vérité chacun à son prochain ; car nous sommes membres les uns des autres."
+        },
+        {
+          "number": 26,
+          "text": "Mettez-vous en colère et ne péchez pas : que le soleil ne se couche pas sur votre irritation ;"
+        },
+        {
+          "number": 27,
+          "text": "et ne donnez pas occasion au diable."
+        },
+        {
+          "number": 28,
+          "text": "Que celui qui dérobait ne dérobe plus, mais plutôt qu’il travaille en faisant de ses propres mains ce qui est bon, afin qu’il ait de quoi donner à celui qui est dans le besoin."
+        },
+        {
+          "number": 29,
+          "text": "Qu’aucune parole déshonnête ne sorte de votre bouche, mais celle-là qui est bonne, [propre] à l’édification selon le besoin, afin qu’elle communique la grâce à ceux qui l’entendent."
+        },
+        {
+          "number": 30,
+          "text": "Et n’attristez pas le Saint Esprit de Dieu, par lequel vous avez été scellés pour le jour de la rédemption."
+        },
+        {
+          "number": 31,
+          "text": "Que toute amertume, et tout courroux, et toute colère, et toute crierie, et toute injure, soient ôtés du milieu de vous, de même que toute malice ;"
+        },
+        {
+          "number": 32,
+          "text": "mais soyez bons les uns envers les autres, compatissants, vous pardonnant les uns aux autres comme Dieu aussi, en Christ, vous a pardonné."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Soyez donc imitateurs de Dieu comme de bien-aimés enfants,"
+        },
+        {
+          "number": 2,
+          "text": "et marchez dans l’amour, comme aussi le Christ nous a aimés et s’est livré lui-même pour nous, comme offrande et sacrifice à Dieu, en parfum de bonne odeur."
+        },
+        {
+          "number": 3,
+          "text": "Mais que ni la fornication, ni aucune impureté ou cupidité, ne soient même nommées parmi vous, comme il convient à des saints ;"
+        },
+        {
+          "number": 4,
+          "text": "ni aucune chose honteuse, ni parole folle ou plaisanterie, lesquelles ne sont pas bienséantes, mais plutôt des actions de grâces."
+        },
+        {
+          "number": 5,
+          "text": "Cela en effet vous le savez, connaissant qu’aucun fornicateur, ou impur, ou cupide (qui est un idolâtre), n’a d’héritage dans le royaume du Christ et de Dieu."
+        },
+        {
+          "number": 6,
+          "text": "Que personne ne vous séduise par de vaines paroles ; car, à cause de ces choses, la colère de Dieu vient sur les fils de la désobéissance."
+        },
+        {
+          "number": 7,
+          "text": "N’ayez donc pas de participation avec eux ;"
+        },
+        {
+          "number": 8,
+          "text": "car vous étiez autrefois ténèbres, mais maintenant vous êtes lumière dans le Seigneur ; marchez comme des enfants de lumière"
+        },
+        {
+          "number": 9,
+          "text": "(car le fruit de la lumière [consiste] en toute bonté, et justice, et vérité),"
+        },
+        {
+          "number": 10,
+          "text": "éprouvant ce qui est agréable au Seigneur."
+        },
+        {
+          "number": 11,
+          "text": "Et n’ayez rien de commun avec les œuvres infructueuses des ténèbres, mais plutôt reprenez-les aussi ;"
+        },
+        {
+          "number": 12,
+          "text": "car les choses qu’ils font en secret, il est honteux même de les dire."
+        },
+        {
+          "number": 13,
+          "text": "Mais toutes choses, étant reprises par la lumière, sont manifestées ; car ce qui manifeste tout, c’est la lumière ;"
+        },
+        {
+          "number": 14,
+          "text": "c’est pourquoi il dit : « Réveille-toi, toi qui dors, et relève-toi d’entre les morts, et le Christ luira sur toi »."
+        },
+        {
+          "number": 15,
+          "text": "Prenez donc garde à marcher soigneusement, non pas comme étant dépourvus de sagesse, mais comme étant sages ;"
+        },
+        {
+          "number": 16,
+          "text": "saisissant l’occasion, parce que les jours sont mauvais."
+        },
+        {
+          "number": 17,
+          "text": "C’est pourquoi ne soyez pas sans intelligence, mais comprenez quelle est la volonté du Seigneur."
+        },
+        {
+          "number": 18,
+          "text": "Et ne vous enivrez pas de vin, en quoi il y a de la dissolution ; mais soyez remplis de l’Esprit,"
+        },
+        {
+          "number": 19,
+          "text": "vous entretenant par des psaumes et des hymnes et des cantiques spirituels, chantant et psalmodiant de votre cœur au Seigneur ;"
+        },
+        {
+          "number": 20,
+          "text": "rendant toujours grâces pour toutes choses, au nom de notre seigneur Jésus Christ, à Dieu le Père ;"
+        },
+        {
+          "number": 21,
+          "text": "étant soumis les uns aux autres dans la crainte de Christ."
+        },
+        {
+          "number": 22,
+          "text": "Femmes, soyez soumises à vos propres maris comme au Seigneur ;"
+        },
+        {
+          "number": 23,
+          "text": "parce que le mari est le chef de la femme, comme aussi le Christ est le chef de l’assemblée, lui, le sauveur du corps."
+        },
+        {
+          "number": 24,
+          "text": "Mais comme l’assemblée est soumise au Christ, ainsi que les femmes le soient aussi à leurs maris en toutes choses."
+        },
+        {
+          "number": 25,
+          "text": "Maris, aimez vos propres femmes, comme aussi le Christ a aimé l’assemblée et s’est livré lui-même pour elle,"
+        },
+        {
+          "number": 26,
+          "text": "afin qu’il la sanctifie, en la purifiant par le lavage d’eau par [la] parole ;"
+        },
+        {
+          "number": 27,
+          "text": "afin que lui se présente l’assemblée à lui-même, glorieuse, n’ayant ni tache, ni ride, ni rien de semblable, mais afin qu’elle soit sainte et irréprochable."
+        },
+        {
+          "number": 28,
+          "text": "De même aussi, les maris doivent aimer leurs propres femmes comme leurs propres corps ; celui qui aime sa propre femme s’aime lui-même."
+        },
+        {
+          "number": 29,
+          "text": "Car personne n’a jamais haï sa propre chair, mais il la nourrit et la chérit, comme aussi le Christ l’assemblée :"
+        },
+        {
+          "number": 30,
+          "text": "car nous sommes membres de son corps, – de sa chair et de ses os."
+        },
+        {
+          "number": 31,
+          "text": "« C’est pour cela que l’homme laissera son père et sa mère et sera joint à sa femme ; et les deux seront une seule chair »."
+        },
+        {
+          "number": 32,
+          "text": "Ce mystère est grand ; mais moi je parle relativement à Christ et à l’assemblée."
+        },
+        {
+          "number": 33,
+          "text": "Toutefois, que chacun de vous aussi en particulier aime sa propre femme comme lui-même ; et quant à la femme, qu’elle craigne son mari."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Enfants, obéissez à vos parents dans le Seigneur, car cela est juste."
+        },
+        {
+          "number": 2,
+          "text": "« Honore ton père et ta mère », (c’est le premier commandement avec promesse,)"
+        },
+        {
+          "number": 3,
+          "text": "« afin que tu prospères et que tu vives longtemps sur la terre »."
+        },
+        {
+          "number": 4,
+          "text": "Et vous, pères, ne provoquez pas vos enfants, mais élevez-les dans la discipline et sous les avertissements du Seigneur."
+        },
+        {
+          "number": 5,
+          "text": "Esclaves, obéissez à vos maîtres selon la chair avec crainte et tremblement, en simplicité de cœur, comme à Christ,"
+        },
+        {
+          "number": 6,
+          "text": "ne servant pas sous leurs yeux seulement, comme voulant plaire aux hommes, mais comme esclaves de Christ, faisant de cœur la volonté de Dieu,"
+        },
+        {
+          "number": 7,
+          "text": "servant joyeusement, comme asservis au Seigneur et non pas aux hommes,"
+        },
+        {
+          "number": 8,
+          "text": "sachant que chacun, soit esclave, soit homme libre, quelque bien qu’il fasse, le recevra du Seigneur."
+        },
+        {
+          "number": 9,
+          "text": "Et vous, maîtres, faites-en de même envers eux, renonçant aux menaces, sachant que et leur maître et le vôtre est dans les cieux, et qu’il n’y a pas d’acception de personnes auprès de lui."
+        },
+        {
+          "number": 10,
+          "text": "Au reste, mes frères, fortifiez-vous dans le Seigneur et dans la puissance de sa force ;"
+        },
+        {
+          "number": 11,
+          "text": "revêtez-vous de l’armure complète de Dieu, afin que vous puissiez tenir ferme contre les artifices du diable :"
+        },
+        {
+          "number": 12,
+          "text": "car notre lutte n’est pas contre le sang et la chair, mais contre les principautés, contre les autorités, contre les dominateurs de ces ténèbres, contre la [puissance] spirituelle de méchanceté qui est dans les lieux célestes."
+        },
+        {
+          "number": 13,
+          "text": "C’est pourquoi prenez l’armure complète de Dieu, afin que, au mauvais jour, vous puissiez résister, et, après avoir tout surmonté, tenir ferme."
+        },
+        {
+          "number": 14,
+          "text": "Tenez donc ferme, ayant ceint vos reins de [la] vérité, et ayant revêtu la cuirasse de la justice,"
+        },
+        {
+          "number": 15,
+          "text": "et ayant chaussé vos pieds de la préparation de l’évangile de paix ;"
+        },
+        {
+          "number": 16,
+          "text": "par-dessus tout, prenant le bouclier de la foi par lequel vous pourrez éteindre tous les dards enflammés du méchant."
+        },
+        {
+          "number": 17,
+          "text": "Prenez aussi le casque du salut, et l’épée de l’Esprit, qui est la parole de Dieu ;"
+        },
+        {
+          "number": 18,
+          "text": "priant par toutes sortes de prières et de supplications, en tout temps, par l’Esprit, et veillant à cela avec toute persévérance et des supplications pour tous les saints,"
+        },
+        {
+          "number": 19,
+          "text": "et pour moi, afin qu’il me soit donné de parler à bouche ouverte pour donner à connaître avec hardiesse le mystère de l’évangile,"
+        },
+        {
+          "number": 20,
+          "text": "pour lequel je suis un ambassadeur lié de chaînes, afin que j’use de hardiesse en lui, comme je dois parler."
+        },
+        {
+          "number": 21,
+          "text": "Mais afin que vous aussi vous sachiez ce qui me concerne, comment je me trouve, Tychique, le bien-aimé frère et fidèle serviteur dans le Seigneur, vous fera tout savoir :"
+        },
+        {
+          "number": 22,
+          "text": "je l’ai envoyé vers vous tout exprès, afin que vous connaissiez l’état de nos affaires, et qu’il console vos cœurs."
+        },
+        {
+          "number": 23,
+          "text": "Paix aux frères, et amour, avec la foi, de la part de Dieu le Père et du seigneur Jésus Christ !"
+        },
+        {
+          "number": 24,
+          "text": "Que la grâce soit avec tous ceux qui aiment notre seigneur Jésus Christ en pureté !"
+        }
+      ]
+    }
+  ]
+}

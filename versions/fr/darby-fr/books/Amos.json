@@ -1,0 +1,638 @@
+{
+  "version": "darby-fr",
+  "book": "Amos",
+  "bookId": 30,
+  "englishName": "Amos",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Les paroles d’Amos, qui était d’entre les bergers de Thekoa, qu’il a vues touchant Israël, aux jours d’Ozias, roi de Juda, et aux jours de Jéroboam, fils de Joas, roi d’Israël, deux ans avant le tremblement de terre."
+        },
+        {
+          "number": 2,
+          "text": "Et il dit : L’Éternel rugit de Sion, et de Jérusalem il fait entendre sa voix ; et les pâturages des bergers mènent deuil, et le sommet du Carmel est séché."
+        },
+        {
+          "number": 3,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions de Damas, et à cause de quatre, je ne révoquerai pas [mon arrêt] ; parce qu’ils ont foulé Galaad avec des traîneaux de fer."
+        },
+        {
+          "number": 4,
+          "text": "Et j’enverrai un feu dans la maison de Hazaël, et il dévorera les palais de Ben-Hadad ;"
+        },
+        {
+          "number": 5,
+          "text": "et je briserai la barre de Damas, et, de la vallée d’Aven je retrancherai l’habitant, et de Beth-Éden, celui qui tient le sceptre ; et le peuple de la Syrie ira en captivité à Kir, dit l’Éternel."
+        },
+        {
+          "number": 6,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions de Gaza, et à cause de quatre, je ne le révoquerai point, parce qu’ils ont emmené captive la captivité tout entière, pour la livrer à Édom ;"
+        },
+        {
+          "number": 7,
+          "text": "mais j’enverrai un feu dans les murs de Gaza, et il dévorera ses palais ;"
+        },
+        {
+          "number": 8,
+          "text": "et je retrancherai d’Asdod l’habitant, et d’Askalon celui qui tient le sceptre ; et je tournerai ma main contre Ékron, et le reste des Philistins périra, dit le Seigneur, l’Éternel."
+        },
+        {
+          "number": 9,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions de Tyr, et à cause de quatre, je ne le révoquerai point, parce qu’ils ont livré la captivité tout entière à Édom, et ne se sont pas souvenus de l’alliance fraternelle ;"
+        },
+        {
+          "number": 10,
+          "text": "mais j’enverrai un feu dans les murs de Tyr, et il dévorera ses palais."
+        },
+        {
+          "number": 11,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions d’Édom, et à cause de quatre, je ne le révoquerai point, parce qu’il a poursuivi son frère avec l’épée, et a étouffé la miséricorde, et que sa colère déchira sans fin, et qu’il garda sa fureur à toujours."
+        },
+        {
+          "number": 12,
+          "text": "Et j’enverrai un feu sur Théman, et il dévorera les palais de Botsra."
+        },
+        {
+          "number": 13,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions des fils d’Ammon, et à cause de quatre, je ne le révoquerai point, parce qu’ils ont fendu le ventre aux femmes enceintes de Galaad, afin d’élargir leurs frontières ;"
+        },
+        {
+          "number": 14,
+          "text": "et j’allumerai un feu dans les murs de Rabba, et il dévorera ses palais, au milieu des cris au jour de la bataille, au milieu de la tempête au jour du tourbillon ;"
+        },
+        {
+          "number": 15,
+          "text": "et leur roi ira en captivité, lui et ses princes ensemble, dit l’Éternel."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions de Moab, et à cause de quatre, je ne le révoquerai point, parce qu’il a brûlé, [réduit] en chaux les os du roi d’Édom ;"
+        },
+        {
+          "number": 2,
+          "text": "et j’enverrai un feu sur Moab, et il dévorera les palais de Kerijoth, et Moab mourra au milieu du tumulte, au milieu des cris, au son de la trompette,"
+        },
+        {
+          "number": 3,
+          "text": "et je retrancherai le juge du milieu de lui, et je tuerai tous ses princes avec lui, dit l’Éternel."
+        },
+        {
+          "number": 4,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions de Juda, et à cause de quatre, je ne le révoquerai point, parce qu’ils ont méprisé la loi de l’Éternel et n’ont pas gardé ses statuts, et que leurs mensonges, après lesquels leurs pères ont marché, les ont fait errer ;"
+        },
+        {
+          "number": 5,
+          "text": "et j’enverrai un feu dans Juda, et il dévorera les palais de Jérusalem."
+        },
+        {
+          "number": 6,
+          "text": "Ainsi dit l’Éternel : À cause de trois transgressions d’Israël, et à cause de quatre, je ne le révoquerai point, parce qu’ils ont vendu le juste pour de l’argent, et le pauvre pour une paire de sandales,"
+        },
+        {
+          "number": 7,
+          "text": "eux qui désirent ardemment [de voir] la poussière de la terre sur la tête des chétifs, et qui pervertissent le chemin des débonnaires ; et un homme et son père vont vers la [même] fille, pour profaner mon saint nom ;"
+        },
+        {
+          "number": 8,
+          "text": "et ils s’étendent à côté de chaque autel, sur des vêtements pris en gage, et boivent dans la maison de leur dieu le vin de ceux qui ont été mis à l’amende."
+        },
+        {
+          "number": 9,
+          "text": "Mais moi, j’ai détruit devant eux l’Amoréen, dont la taille était comme la hauteur des cèdres, et qui était fort comme les chênes ; et j’ai détruit son fruit en haut et ses racines en bas."
+        },
+        {
+          "number": 10,
+          "text": "Et moi, je vous ai fait monter du pays d’Égypte, et je vous ai fait marcher dans le désert 40 ans, pour posséder le pays de l’Amoréen."
+        },
+        {
+          "number": 11,
+          "text": "Et j’ai suscité des prophètes d’entre vos fils, et d’entre vos jeunes gens, des nazaréens. N’en est-il pas ainsi, fils d’Israël ? dit l’Éternel."
+        },
+        {
+          "number": 12,
+          "text": "Et vous avez fait boire du vin aux nazaréens, et vous avez commandé aux prophètes, disant : Ne prophétisez pas."
+        },
+        {
+          "number": 13,
+          "text": "Voici, je pèserai sur vous comme pèse le char plein de gerbes."
+        },
+        {
+          "number": 14,
+          "text": "Et la fuite manquera à celui qui est agile ; et le fort n’affermira pas sa force ; et l’homme vaillant ne sauvera pas sa vie ;"
+        },
+        {
+          "number": 15,
+          "text": "et celui qui manie l’arc ne tiendra pas ferme ; et celui qui a les pieds agiles n’échappera pas ; et celui qui monte le cheval ne sauvera pas sa vie ;"
+        },
+        {
+          "number": 16,
+          "text": "et celui qui a le cœur plein de courage parmi les hommes vaillants s’enfuira nu en ce jour-là, dit l’Éternel."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Écoutez cette parole que l’Éternel prononce sur vous, fils d’Israël, sur la famille entière que j’ai fait monter du pays d’Égypte, disant :"
+        },
+        {
+          "number": 2,
+          "text": "Je vous ai connus, vous seuls, de toutes les familles de la terre ; c’est pourquoi je visiterai sur vous toutes vos iniquités."
+        },
+        {
+          "number": 3,
+          "text": "Deux [hommes] peuvent-ils marcher ensemble s’ils ne sont pas d’accord ?"
+        },
+        {
+          "number": 4,
+          "text": "Le lion rugira-t-il dans la forêt s’il n’a pas de proie ? Le lionceau fera-t-il entendre sa voix de son repaire, s’il n’a pris quelque chose ?"
+        },
+        {
+          "number": 5,
+          "text": "L’oiseau tombera-t-il dans le piège sur la terre, quand il n’y a pas de filet [tendu] pour lui ? Le piège se lèvera-t-il du sol, s’il n’a rien pris du tout ?"
+        },
+        {
+          "number": 6,
+          "text": "Sonnera-t-on de la trompette dans une ville, et le peuple ne tremblera pas ? Y aura-t-il du mal dans une ville, et l’Éternel ne l’aura pas fait ?"
+        },
+        {
+          "number": 7,
+          "text": "Or le Seigneur, l’Éternel, ne fera rien, qu’il ne révèle son secret à ses serviteurs les prophètes."
+        },
+        {
+          "number": 8,
+          "text": "Le lion a rugi : qui n’aura peur ? Le Seigneur, l’Éternel, a parlé : qui ne prophétisera ?"
+        },
+        {
+          "number": 9,
+          "text": "Faites-le entendre dans les palais dans Asdod, et dans les palais dans le pays d’Égypte, et dites : Assemblez-vous sur les montagnes de Samarie, et voyez la grande confusion qui est au milieu d’elle, et les oppressions [qui ont lieu] dans son sein :"
+        },
+        {
+          "number": 10,
+          "text": "et ils ne savent pas faire ce qui est droit, dit l’Éternel, eux qui amassent la violence et la rapine dans leurs palais."
+        },
+        {
+          "number": 11,
+          "text": "C’est pourquoi, ainsi dit le Seigneur, l’Éternel : L’ennemi ! – et tout autour du pays ! Et il abattra ta force, et tes palais seront pillés."
+        },
+        {
+          "number": 12,
+          "text": "Ainsi dit l’Éternel : Comme le berger sauve de la gueule du lion deux jambes ou un bout d’oreille, ainsi seront sauvés les fils d’Israël qui sont assis à Samarie sur le coin d’un lit, et sur le damas d’un divan."
+        },
+        {
+          "number": 13,
+          "text": "Écoutez, et rendez témoignage dans la maison de Jacob, dit le Seigneur, l’Éternel, le Dieu des armées,"
+        },
+        {
+          "number": 14,
+          "text": "qu’au jour où je visiterai les transgressions d’Israël sur lui, je punirai les autels de Béthel, et les cornes de l’autel seront coupées et tomberont à terre."
+        },
+        {
+          "number": 15,
+          "text": "Et je frapperai la maison d’hiver avec la maison d’été, et les maisons d’ivoire périront, et beaucoup de maisons cesseront d’exister, dit l’Éternel."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Écoutez cette parole, vaches de Basan, qui êtes sur la montagne de Samarie, qui opprimez les chétifs, qui écrasez les pauvres, qui dites à vos maîtres : Apporte, afin que nous buvions !"
+        },
+        {
+          "number": 2,
+          "text": "Le Seigneur, l’Éternel, a juré par sa sainteté, que, voici, des jours viennent sur vous, où il vous enlèvera avec des hameçons, et votre postérité avec des haims de pêche."
+        },
+        {
+          "number": 3,
+          "text": "Et vous sortirez par les brèches, chacune droit devant elle, et vous serez lancées vers Harmon, dit l’Éternel."
+        },
+        {
+          "number": 4,
+          "text": "Venez à Béthel, et péchez ! À Guilgal, multipliez la transgression ! Apportez le matin vos sacrifices, tous les trois jours vos dîmes ;"
+        },
+        {
+          "number": 5,
+          "text": "et faites fumer du pain levé [en sacrifice] d’actions de grâces ; et publiez des offrandes volontaires, annoncez-[les] ! Car c’est ainsi que vous aimez [à faire], fils d’Israël, dit le Seigneur, l’Éternel."
+        },
+        {
+          "number": 6,
+          "text": "Et moi aussi, je vous ai donné les dents nettes dans toutes vos villes, et le manque de pain dans toutes vos demeures ; et vous n’êtes pas revenus à moi, dit l’Éternel."
+        },
+        {
+          "number": 7,
+          "text": "Et je vous ai aussi retenu la pluie quand il n’y avait que trois mois jusqu’à la moisson ; et j’ai fait pleuvoir sur une ville, et je n’ai pas fait pleuvoir sur une [autre] ville ; il y avait de la pluie sur un champ, et le champ sur lequel il n’y avait pas de pluie séchait ;"
+        },
+        {
+          "number": 8,
+          "text": "et deux [et] trois villes se rendaient dans une [autre] ville pour boire de l’eau, et ils n’ont pas été rassasiés ; et vous n’êtes pas revenus à moi, dit l’Éternel."
+        },
+        {
+          "number": 9,
+          "text": "Je vous ai frappés par la brûlure et la rouille [des blés] ; la chenille a dévoré la multitude de vos jardins, et de vos vignes, et de vos figuiers et de vos oliviers ; mais vous n’êtes pas revenus à moi, dit l’Éternel."
+        },
+        {
+          "number": 10,
+          "text": "J’ai envoyé parmi vous une peste à la façon de l’Égypte ; j’ai tué vos jeunes gens par l’épée, emmenant aussi vos chevaux ; et j’ai fait monter la puanteur de vos camps, et [cela] dans vos narines ; et vous n’êtes pas revenus à moi, dit l’Éternel."
+        },
+        {
+          "number": 11,
+          "text": "J’ai fait des renversements parmi vous, comme la subversion que Dieu a faite de Sodome et de Gomorrhe, et vous avez été comme un tison sauvé d’un incendie ; et vous n’êtes pas revenus à moi, dit l’Éternel."
+        },
+        {
+          "number": 12,
+          "text": "C’est pourquoi, je te ferai ainsi, Israël. Puisque je te ferai ceci, prépare-toi, Israël, à rencontrer ton Dieu."
+        },
+        {
+          "number": 13,
+          "text": "Car voici, celui qui forme les montagnes, et qui crée le vent, et qui déclare à l’homme quelle est sa pensée, qui de l’aube fait des ténèbres, et qui marche sur les lieux hauts de la terre, – l’Éternel, le Dieu des armées, est son nom !"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Écoutez cette parole, une complainte que j’élève sur vous, maison d’Israël !"
+        },
+        {
+          "number": 2,
+          "text": "Elle est tombée, elle ne se relèvera pas, la vierge d’Israël ; elle est étendue sur sa terre, il n’y a personne qui la relève."
+        },
+        {
+          "number": 3,
+          "text": "Car ainsi dit le Seigneur, l’Éternel : La ville qui allait en campagne avec 1 000, en aura 100 de reste ; et celle qui allait en campagne avec 100, en aura dix de reste, pour la maison d’Israël."
+        },
+        {
+          "number": 4,
+          "text": "Car ainsi dit l’Éternel à la maison d’Israël : Cherchez-moi, et vous vivrez ;"
+        },
+        {
+          "number": 5,
+          "text": "et ne cherchez pas Béthel, et n’allez pas à Guilgal, et ne passez pas à Beër-Shéba ; car Guilgal ira certainement en captivité, et Béthel sera réduite à rien."
+        },
+        {
+          "number": 6,
+          "text": "Cherchez l’Éternel, et vous vivrez, de peur qu’il n’envahisse comme le feu la maison de Joseph, et ne la dévore, et qu’il n’y ait personne à Béthel qui éteigne."
+        },
+        {
+          "number": 7,
+          "text": "Vous qui changez en absinthe le droit, et qui couchez par terre la justice,"
+        },
+        {
+          "number": 8,
+          "text": "[cherchez-le], lui qui a fait les Pléiades et Orion ; qui change en matin l’ombre de la mort, et transforme le jour en ténèbres de la nuit ; qui appelle les eaux de la mer, et les verse sur la face de la terre : l’Éternel est son nom."
+        },
+        {
+          "number": 9,
+          "text": "Il fait lever subitement la destruction sur le fort, et la destruction vient sur la forteresse."
+        },
+        {
+          "number": 10,
+          "text": "Ils haïssent celui qui reprend à la porte, et ont en abomination celui qui parle avec intégrité."
+        },
+        {
+          "number": 11,
+          "text": "C’est pourquoi, parce que vous foulez aux pieds le pauvre, et que vous prenez de lui des charges de blé : vous avez bâti des maisons de pierres de taille, mais vous n’y habiterez pas ; vous avez planté des vignes excellentes, et vous n’en boirez pas le vin ;"
+        },
+        {
+          "number": 12,
+          "text": "car je connais vos nombreuses transgressions et vos grands péchés : ils oppriment le juste, prennent des présents, et font fléchir à la porte le droit des pauvres."
+        },
+        {
+          "number": 13,
+          "text": "C’est pourquoi, en ce temps-ci, le sage gardera le silence, car c’est un temps mauvais."
+        },
+        {
+          "number": 14,
+          "text": "Recherchez le bien, et non le mal, afin que vous viviez ; et ainsi l’Éternel, le Dieu des armées, sera avec vous, comme vous le dites."
+        },
+        {
+          "number": 15,
+          "text": "Haïssez le mal, et aimez le bien, et établissez dans la porte le juste jugement ; peut-être l’Éternel, le Dieu des armées, usera-t-il de grâce envers le reste de Joseph."
+        },
+        {
+          "number": 16,
+          "text": "C’est pourquoi, ainsi dit l’Éternel, le Dieu des armées, le Seigneur : Dans toutes les places, la lamentation ! et dans toutes les rues, on dira : Hélas, hélas ! Et on appellera le laboureur au deuil, et à la lamentation ceux qui s’entendent aux chants de douleur."
+        },
+        {
+          "number": 17,
+          "text": "Et dans toutes les vignes, la lamentation ! car je passerai au milieu de toi, dit l’Éternel."
+        },
+        {
+          "number": 18,
+          "text": "Malheur à vous qui désirez le jour de l’Éternel ! À quoi vous [servira] le jour de l’Éternel ? Il sera ténèbres, et non lumière,"
+        },
+        {
+          "number": 19,
+          "text": "comme si un homme s’enfuyait de devant un lion, et qu’un ours le rencontre ; ou qu’il entre dans la maison et appuie sa main contre le mur, et qu’un serpent le morde."
+        },
+        {
+          "number": 20,
+          "text": "Le jour de l’Éternel n’est-il pas ténèbres, et non lumière ? et profonde obscurité, et non splendeur ?"
+        },
+        {
+          "number": 21,
+          "text": "Je hais, je méprise vos fêtes, et je ne flairerai pas [de bonne odeur] dans vos assemblées solennelles ;"
+        },
+        {
+          "number": 22,
+          "text": "si vous m’offrez des holocaustes et vos offrandes de gâteau, je ne les agréerai pas, et je ne regarderai pas le sacrifice de prospérités de vos bêtes grasses."
+        },
+        {
+          "number": 23,
+          "text": "Ôte de devant moi le bruit de tes cantiques ; et la musique de tes luths, je ne l’écouterai pas."
+        },
+        {
+          "number": 24,
+          "text": "Mais que le jugement roule comme des eaux, et la justice comme un fleuve qui ne tarit pas !"
+        },
+        {
+          "number": 25,
+          "text": "M’avez-vous offert des sacrifices et des offrandes dans le désert, pendant 40 ans, maison d’Israël ?"
+        },
+        {
+          "number": 26,
+          "text": "Mais vous avez porté le tabernacle de votre Moloc, et le Kiun de vos images, l’étoile de votre dieu, que vous vous êtes fait ;"
+        },
+        {
+          "number": 27,
+          "text": "et je vous transporterai au-delà de Damas, dit l’Éternel ; son nom est le Dieu des armées."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Malheur à ceux qui sont à l’aise en Sion, et à ceux qui vivent en sécurité sur la montagne de Samarie, les grands de la première des nations, auprès desquels vient la maison d’Israël !"
+        },
+        {
+          "number": 2,
+          "text": "Passez à Calné, et voyez ; et, de là, allez à Hamath la grande, et descendez à Gath des Philistins : sont-elles meilleures que ces royaumes-ci ? Est-ce que leur frontière est plus étendue que votre frontière ?"
+        },
+        {
+          "number": 3,
+          "text": "Vous qui éloignez le mauvais jour, et qui faites approcher le siège de la violence,"
+        },
+        {
+          "number": 4,
+          "text": "vous qui vous couchez sur des lits d’ivoire et qui vous étendez mollement sur vos divans, et qui mangez les agneaux du troupeau et les veaux gras de l’étable ;"
+        },
+        {
+          "number": 5,
+          "text": "qui chantez au son du luth, [et] inventez, comme David, à votre usage, des instruments pour le chant ;"
+        },
+        {
+          "number": 6,
+          "text": "qui buvez le vin dans des coupes, et vous oignez de la meilleure huile, et ne vous affligez pas de la brèche de Joseph."
+        },
+        {
+          "number": 7,
+          "text": "C’est pourquoi, maintenant ils iront en captivité à la tête de ceux qui vont en captivité, et les cris de ceux qui sont mollement couchés cesseront."
+        },
+        {
+          "number": 8,
+          "text": "Le Seigneur, l’Éternel, a juré par lui-même, dit l’Éternel, le Dieu des armées : J’ai en horreur l’orgueil de Jacob, et je hais ses palais ; et je livrerai la ville et tout ce qu’elle contient."
+        },
+        {
+          "number": 9,
+          "text": "Et il arrivera que, s’il reste dix hommes dans une maison, ils mourront ;"
+        },
+        {
+          "number": 10,
+          "text": "et le parent de [l’un d’eux], celui qui doit le brûler, prendra le mort pour sortir de la maison les os, et il dira à celui qui est dans l’intérieur de la maison : Y a-t-il encore quelqu’un auprès de toi ? Et il dira : Personne ! Et il dira : Silence ! car nous ne pouvons faire mention du nom de l’Éternel."
+        },
+        {
+          "number": 11,
+          "text": "Car voici, l’Éternel a commandé, et on frappera la grande maison de brèches, et la petite maison, de fentes."
+        },
+        {
+          "number": 12,
+          "text": "Les chevaux courront-ils sur un rocher, ou bien y labourera-t-on avec des bœufs ? Car vous avez changé le droit en poison, et en absinthe le fruit de la justice,"
+        },
+        {
+          "number": 13,
+          "text": "vous qui vous réjouissez en ce qui n’est rien, vous qui dites : Avec notre force, ne nous sommes-nous pas acquis de la puissance ?"
+        },
+        {
+          "number": 14,
+          "text": "Car voici, maison d’Israël, dit l’Éternel, le Dieu des armées, je suscite contre vous une nation, et ils vous opprimeront depuis l’entrée de Hamath jusqu’à la rivière de la plaine."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Ainsi m’a fait voir le Seigneur, l’Éternel, et voici, il forma des sauterelles, comme le regain commençait à pousser ; et voici, c’était le regain après la fauche du roi."
+        },
+        {
+          "number": 2,
+          "text": "Et il arriva, lorsqu’elles eurent entièrement mangé l’herbe de la terre, que je dis : Seigneur Éternel, pardonne, je te prie ! Comment Jacob se relèvera-t-il ? car il est petit."
+        },
+        {
+          "number": 3,
+          "text": "L’Éternel se repentit de cela : cela ne sera pas, dit l’Éternel."
+        },
+        {
+          "number": 4,
+          "text": "Ainsi m’a fait voir le Seigneur, l’Éternel ; et voici, le Seigneur, l’Éternel, appela pour juger par le feu ; et il dévora le grand abîme, et il dévora l’héritage."
+        },
+        {
+          "number": 5,
+          "text": "Et je dis : Seigneur Éternel, cesse, je te prie ! Comment Jacob se relèvera-t-il ? car il est petit."
+        },
+        {
+          "number": 6,
+          "text": "L’Éternel se repentit de cela : cela aussi ne sera pas, dit le Seigneur, l’Éternel."
+        },
+        {
+          "number": 7,
+          "text": "Ainsi il m’a fait voir ; et voici, le Seigneur se tenait sur un mur [bâti] d’aplomb, et il avait un plomb à sa main."
+        },
+        {
+          "number": 8,
+          "text": "Et l’Éternel me dit : Que vois-tu, Amos ? Et je dis : Un plomb. Et le Seigneur dit : Voici, je place un plomb au milieu de mon peuple Israël ; je ne passerai plus par-dessus lui."
+        },
+        {
+          "number": 9,
+          "text": "Et les hauts lieux d’Isaac seront désolés, et les sanctuaires d’Israël seront dévastés, et je me lèverai avec l’épée contre la maison de Jéroboam."
+        },
+        {
+          "number": 10,
+          "text": "Alors Amatsia, sacrificateur de Béthel, envoya à Jéroboam, roi d’Israël, disant : Amos a conspiré contre toi au milieu de la maison d’Israël ; le pays ne peut pas supporter toutes ses paroles."
+        },
+        {
+          "number": 11,
+          "text": "Car ainsi dit Amos : Jéroboam mourra par l’épée, et Israël sera certainement transporté de dessus sa terre."
+        },
+        {
+          "number": 12,
+          "text": "Et Amatsia dit à Amos : Voyant, va-t’en ; fuis au pays de Juda, et mange là du pain, et prophétise là,"
+        },
+        {
+          "number": 13,
+          "text": "mais ne prophétise plus à Béthel, car c’est le sanctuaire du roi et la maison du royaume."
+        },
+        {
+          "number": 14,
+          "text": "Et Amos répondit et dit à Amatsia : Je n’étais pas prophète, et je n’étais pas fils de prophète ; mais je gardais le bétail, et je cueillais le fruit des sycomores ;"
+        },
+        {
+          "number": 15,
+          "text": "et l’Éternel me prit quand je suivais le menu bétail, et l’Éternel me dit : Va, prophétise à mon peuple Israël."
+        },
+        {
+          "number": 16,
+          "text": "Et maintenant, écoute la parole de l’Éternel : Tu me dis : Ne prophétise pas contre Israël, et ne profère pas des paroles contre la maison d’Isaac."
+        },
+        {
+          "number": 17,
+          "text": "C’est pourquoi, ainsi dit l’Éternel : Ta femme se prostituera dans la ville, et tes fils et tes filles tomberont par l’épée, et ta terre sera partagée au cordeau, et tu mourras dans une terre impure, et Israël sera certainement transporté de dessus sa terre."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Ainsi m’a fait voir le Seigneur, l’Éternel, et voici, un panier de fruits d’été !"
+        },
+        {
+          "number": 2,
+          "text": "Et il dit : Que vois-tu, Amos ? Et je dis : Un panier de fruits d’été. Et l’Éternel me dit : La fin est venue pour mon peuple Israël ; je ne passerai plus par-dessus lui."
+        },
+        {
+          "number": 3,
+          "text": "Et, en ce jour-là, les cantiques du palais seront des hurlements, dit le Seigneur, l’Éternel. Les cadavres seront en grand nombre ; en tout lieu on les jettera dehors… Silence !"
+        },
+        {
+          "number": 4,
+          "text": "Écoutez ceci, vous qui êtes acharnés après les pauvres pour faire disparaître les débonnaires du pays,"
+        },
+        {
+          "number": 5,
+          "text": "disant : Quand sera passée la nouvelle lune, pour que nous vendions du blé ? et le sabbat, pour que nous ouvrions nos greniers ? faisant l’épha petit et le sicle grand, et falsifiant la balance pour frauder ;"
+        },
+        {
+          "number": 6,
+          "text": "afin d’acheter les chétifs pour de l’argent, et le pauvre pour une paire de sandales, et de vendre la criblure du grain."
+        },
+        {
+          "number": 7,
+          "text": "L’Éternel a juré par la gloire de Jacob : Si jamais j’oublie aucune de leurs œuvres !"
+        },
+        {
+          "number": 8,
+          "text": "Pour cela, le pays ne tremblera-t-il pas ? Et chacun de ses habitants ne mènera-t-il pas deuil ? Et il montera tout entier comme le Nil, et enflera ses flots, et s’abaissera comme le fleuve d’Égypte."
+        },
+        {
+          "number": 9,
+          "text": "Et il arrivera en ce jour-là, dit le Seigneur, l’Éternel, que je ferai coucher le soleil en plein midi, et que j’amènerai les ténèbres sur la terre en plein jour."
+        },
+        {
+          "number": 10,
+          "text": "Et je changerai vos fêtes en deuil, et toutes vos chansons en lamentation ; et sur tous les reins j’amènerai le sac, et chaque tête je la rendrai chauve ; et je ferai que ce sera comme le deuil d’un [fils] unique, et la fin sera comme un jour d’amertume."
+        },
+        {
+          "number": 11,
+          "text": "Voici, des jours viennent, dit le Seigneur, l’Éternel, où j’enverrai une famine dans le pays ; non une famine de pain, ni une soif d’eau, mais d’entendre les paroles de l’Éternel."
+        },
+        {
+          "number": 12,
+          "text": "Et ils erreront d’une mer à l’autre, et du nord au levant ; ils courront çà et là pour chercher la parole de l’Éternel, et ils ne la trouveront pas."
+        },
+        {
+          "number": 13,
+          "text": "En ce jour-là, les belles vierges et les jeunes gens défailliront de soif, –"
+        },
+        {
+          "number": 14,
+          "text": "ceux qui jurent par le péché de Samarie et qui disent : Dan, ton Dieu est vivant ! et : La voie de Beër-Shéba est vivante ! Et ils tomberont, et ne se relèveront jamais."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Je vis le Seigneur se tenant debout sur l’autel, et il dit : Frappe le linteau, afin que les seuils soient ébranlés, et brise-leur la tête à tous ; et ce qui restera d’eux, je le tuerai par l’épée. Celui d’entre eux qui s’enfuira, ne se sauvera pas par la fuite, et celui d’entre eux qui échappera, ne sera pas délivré."
+        },
+        {
+          "number": 2,
+          "text": "Quand ils pénétreraient jusque dans le shéol, de là ma main les prendra ; et quand ils monteraient dans les cieux, je les en ferai descendre ;"
+        },
+        {
+          "number": 3,
+          "text": "et quand ils se cacheraient au sommet du Carmel, je les y chercherai, et de là je les prendrai ; et quand ils se seraient cachés de devant mes yeux, au fond de la mer, là je commanderai au serpent, et il les mordra ;"
+        },
+        {
+          "number": 4,
+          "text": "et quand ils iraient en captivité devant leurs ennemis, là, je commanderai à l’épée, et elle les tuera ; et je mettrai mes yeux sur eux pour le mal et non pour le bien."
+        },
+        {
+          "number": 5,
+          "text": "Et le Seigneur, l’Éternel des armées, c’est lui qui touche le pays, et il fond ; et tous ceux qui y habitent mèneront deuil ; et il montera tout entier comme le Nil, et il s’abaissera comme le fleuve d’Égypte."
+        },
+        {
+          "number": 6,
+          "text": "C’est lui qui bâtit dans les cieux ses degrés, et qui a fondé sa voûte sur la terre ; qui appelle les eaux de la mer, et les verse sur la face de la terre ; l’Éternel est son nom."
+        },
+        {
+          "number": 7,
+          "text": "N’êtes-vous pas pour moi comme les fils des Éthiopiens, ô fils d’Israël ? dit l’Éternel. N’ai-je pas fait monter Israël du pays d’Égypte, et les Philistins de Caphtor, et les Syriens de Kir ?"
+        },
+        {
+          "number": 8,
+          "text": "Voici, les yeux du Seigneur, l’Éternel, sont sur le royaume pécheur, et je le détruirai de dessus la face de la terre ; seulement je ne détruirai pas entièrement la maison de Jacob, dit l’Éternel."
+        },
+        {
+          "number": 9,
+          "text": "Car voici, je commande, et je secouerai la maison d’Israël parmi toutes les nations, comme on secoue dans un crible, mais pas un grain ne tombera à terre."
+        },
+        {
+          "number": 10,
+          "text": "C’est par l’épée que mourront tous les pécheurs de mon peuple, qui disent : Le mal ne nous atteindra pas, et ne viendra pas jusqu’à nous."
+        },
+        {
+          "number": 11,
+          "text": "En ce jour-là, je relèverai le tabernacle de David, qui est tombé, et je fermerai ses brèches, et je relèverai ses ruines, et je le bâtirai comme aux jours d’autrefois,"
+        },
+        {
+          "number": 12,
+          "text": "afin qu’ils possèdent le reste d’Édom, et toutes les nations sur lesquelles mon nom est réclamé, dit l’Éternel qui fait cela."
+        },
+        {
+          "number": 13,
+          "text": "Voici, les jours viennent, dit l’Éternel, où celui qui laboure atteindra celui qui moissonne, et celui qui foule les raisins, celui qui répand la semence ; et les montagnes ruisselleront de moût, et toutes les collines se fondront."
+        },
+        {
+          "number": 14,
+          "text": "Et je rétablirai les captifs de mon peuple Israël, et ils bâtiront les villes dévastées et y habiteront, et ils planteront des vignes et en boiront le vin, et ils feront des jardins et en mangeront le fruit."
+        },
+        {
+          "number": 15,
+          "text": "Et je les planterai sur leur terre, et ils ne seront plus arrachés de dessus leur terre que je leur ai donnée, dit l’Éternel, ton Dieu."
+        }
+      ]
+    }
+  ]
+}

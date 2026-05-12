@@ -1,0 +1,18 @@
+{
+  "slug": "svd",
+  "shortName": "SVD",
+  "name": "الكتاب المقدس فان دايك (Smith-Van Dyck)",
+  "language": "ar",
+  "year": 1865,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Smith–Van Dyck Arabic translation, 1865).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31104
+  },
+  "readerUrl": "https://midvash.com/svd",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

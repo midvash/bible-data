@@ -1,0 +1,18 @@
+{
+  "slug": "tr",
+  "shortName": "TR",
+  "name": "Textus Receptus (Stephanus 1550)",
+  "language": "gr",
+  "year": 1550,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Stephanus 1550 / Scrivener 1894 Textus Receptus).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 27,
+    "chapters": 260,
+    "verses": 7957
+  },
+  "readerUrl": "https://midvash.com/tr",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

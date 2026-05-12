@@ -1,0 +1,659 @@
+{
+  "version": "diodati",
+  "book": "Eph",
+  "bookId": 49,
+  "englishName": "Ephesians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "PAOLO, apostolo di Gesù Cristo, per la volontà di Dio, a' santi che sono in Efeso, e fedeli in Cristo Gesù."
+        },
+        {
+          "number": 2,
+          "text": "Grazia a voi, e pace, da Dio, Padre nostro, e dal Signor Gesù Cristo."
+        },
+        {
+          "number": 3,
+          "text": "BENEDETTO [sia] Iddio, Padre del Signor nostro Gesù Cristo, il qual ci ha benedetti d'ogni benedizione spirituale nei [luoghi] celesti in Cristo."
+        },
+        {
+          "number": 4,
+          "text": "In lui ci ha Dio eletti avanti la fondazione del mondo, acciocchè siamo santi, ed irreprensibili nel suo cospetto, in carità;"
+        },
+        {
+          "number": 5,
+          "text": "avendoci predestinati ad adottarci per Gesù Cristo, a sè stesso, secondo il beneplacito della sua volontà,"
+        },
+        {
+          "number": 6,
+          "text": "alla lode della gloria della sua grazia, per la quale egli ci ha resi graditi [a sè], in colui che è l'amato."
+        },
+        {
+          "number": 7,
+          "text": "In cui noi abbiamo la redenzione per lo suo sangue, la remission de' peccati, secondo le ricchezze della sua grazia."
+        },
+        {
+          "number": 8,
+          "text": "Della quale egli [è] stato abbondante inverso noi in ogni sapienza, ed intelligenza;"
+        },
+        {
+          "number": 9,
+          "text": "avendoci dato a conoscere il misterio della sua volontà secondo il suo beneplacito, il quale egli avea determinato in sè stesso."
+        },
+        {
+          "number": 10,
+          "text": "[Che è] di raccogliere, nella dispensazione del compimento de' tempi, sotto un capo, in Cristo, tutte le cose, così quelle [che son] nei cieli, come quelle [che son] sopra la terra."
+        },
+        {
+          "number": 11,
+          "text": "In lui siamo stati fatti eredi, essendo stati predestinati secondo il proponimento di colui che opera tutte le cose secondo il consiglio della sua volontà;"
+        },
+        {
+          "number": 12,
+          "text": "acciocchè siamo alla lode della sua gloria, noi che prima abbiamo sperato in Cristo."
+        },
+        {
+          "number": 13,
+          "text": "In lui anche voi, avendo udita la parola della verità, l'evangelo della vostra salute; in lui [dico] anche voi, avendo creduto, siete stati suggellati con lo Spirito Santo della promessa."
+        },
+        {
+          "number": 14,
+          "text": "Il quale è l'arra della nostra eredità, [mentre aspettiamo] la redenzione di quelli che Dio si è acquistati, alla lode della gloria d'esso."
+        },
+        {
+          "number": 15,
+          "text": "Perciò, io ancora, udita la fede vostra nel Signor Gesù, e la carità [vostra] inverso tutti i santi,"
+        },
+        {
+          "number": 16,
+          "text": "non resto mai di render grazie per voi, facendo di voi memoria nelle mie orazioni."
+        },
+        {
+          "number": 17,
+          "text": "Acciocchè l'Iddio del Signor nostro Gesù Cristo, il Padre della gloria, vi dia lo Spirito di sapienza, e di rivelazione, per la conoscenza d'esso."
+        },
+        {
+          "number": 18,
+          "text": "Ed illumini gli occhi della mente vostra, acciocchè sappiate quale [è] la speranza della sua vocazione, e quali [son] le ricchezze della gloria della sua eredità, nè luoghi santi."
+        },
+        {
+          "number": 19,
+          "text": "E quale [è], inverso noi che crediamo, l'eccellente grandezza della sua potenza; secondo la virtù della forza della sua possanza."
+        },
+        {
+          "number": 20,
+          "text": "La quale egli ha adoperata in Cristo, avendolo suscitato da' morti, e fatto[lo] sedere alla sua destra ne' [luoghi] celesti;"
+        },
+        {
+          "number": 21,
+          "text": "di sopra ad ogni principato, e podestà, e potenza, e signoria, ed ogni nome che si nomina non solo in questo secolo, ma ancora nel [secolo] avvenire;"
+        },
+        {
+          "number": 22,
+          "text": "avendogli posta ogni cosa sotto a' piedi, ed avendolo dato per capo sopra ogni cosa, alla Chiesa;"
+        },
+        {
+          "number": 23,
+          "text": "la quale è il corpo d'esso, il compimento di colui che compie tutte le cose in tutti."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[E V'HA risuscitati] ancor voi, che eravate morti ne' falli, e ne' peccati."
+        },
+        {
+          "number": 2,
+          "text": "Ne' quali già camminaste, seguendo il secolo di questo mondo, secondo il principe della podestà dell'aria, dello spirito che opera al presente ne' figliuoli della disubbidienza."
+        },
+        {
+          "number": 3,
+          "text": "Fra i quali ancora noi tutti vivemmo già nelle concupiscenze della nostra carne, adempiendo le voglie della carne, e de' pensieri; ed eravam di natura figliuoli d'ira, come ancora gli altri."
+        },
+        {
+          "number": 4,
+          "text": "Ma Iddio, che è ricco in misericordia, per la sua molta carità, della quale ci ha amati;"
+        },
+        {
+          "number": 5,
+          "text": "eziandio mentre eravamo morti ne' falli, ci ha vivificati in Cristo (voi siete salvati per grazia);"
+        },
+        {
+          "number": 6,
+          "text": "e ci ha risuscitati con [lui], e con [lui] ci ha fatti sedere ne' [luoghi] celesti, in Cristo Gesù."
+        },
+        {
+          "number": 7,
+          "text": "Acciocchè mostrasse ne' secoli avvenire l'eccellenti ricchezze della sua grazia, in benignità inverso noi, in Cristo Gesù."
+        },
+        {
+          "number": 8,
+          "text": "Perciocchè voi siete salvati per la grazia, mediante la fede, e ciò non [è] da voi, [è] il dono di Dio."
+        },
+        {
+          "number": 9,
+          "text": "Non per opere, acciocchè niuno si glorii."
+        },
+        {
+          "number": 10,
+          "text": "Poichè noi siamo la fattura d'esso, essendo creati in Cristo Gesù a buone opere, le quali Iddio ha preparate, acciocchè camminiamo in esse."
+        },
+        {
+          "number": 11,
+          "text": "PERCIÒ, ricordatevi che già voi Gentili nella carne, che siete chiamati Incirconcisione da quella che è chiamata Circoncisione nella carne, fatta con la mano;"
+        },
+        {
+          "number": 12,
+          "text": "in quel tempo eravate senza Cristo, alieni dalla repubblica d'Israele, e stranieri de' patti della promessa, non avendo speranza, ed essendo senza Dio nel mondo."
+        },
+        {
+          "number": 13,
+          "text": "Ma ora, in Cristo Gesù, voi, che già eravate lontani, siete stati approssimati per il sangue di Cristo."
+        },
+        {
+          "number": 14,
+          "text": "Perciocchè egli è la nostra pace, il quale ha fatto de' due [popoli] uno; e avendo disfatta la parete di mezzo che facea la separazione,"
+        },
+        {
+          "number": 15,
+          "text": "ha nella sua carne annullata l'inimicizia, la legge de' comandamenti, [posta] in ordinamenti; acciocchè creasse in sè stesso i due in un uomo nuovo, facendo la pace;"
+        },
+        {
+          "number": 16,
+          "text": "e li riconciliasse amendue in un corpo a Dio, per la croce, avendo uccisa l'inimicizia in sè stesso."
+        },
+        {
+          "number": 17,
+          "text": "Ed essendo venuto, ha evangelizzato pace a voi che [eravate] lontani, e a quelli [che eran] vicini."
+        },
+        {
+          "number": 18,
+          "text": "Perciocchè per esso abbiamo gli uni e gli altri introduzione al Padre, in uno Spirito."
+        },
+        {
+          "number": 19,
+          "text": "Voi dunque non siete più forestieri, nè avveniticci; ma concittadini de' santi, e membri della famiglia di Dio."
+        },
+        {
+          "number": 20,
+          "text": "Essendo edificati sopra il fondamento degli apostoli e de'profeti, essendo Gesù Cristo stesso la pietra del capo del cantone;"
+        },
+        {
+          "number": 21,
+          "text": "in cui tutto l'edificio ben composto cresce in tempio santo nel Signore."
+        },
+        {
+          "number": 22,
+          "text": "Nel quale ancor voi siete insieme edificati, per [essere] un abitacolo di Dio, in Ispirito."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "PER questa cagione io Paolo, il prigione di Cristo Gesù per voi Gentili;"
+        },
+        {
+          "number": 2,
+          "text": "(Se pure avete udita la dispensazion della grazia di Dio, che mi è stata data inverso voi."
+        },
+        {
+          "number": 3,
+          "text": "Come per rivelazione egli mi ha fatto conoscere il misterio; siccome avanti in breve scrissi."
+        },
+        {
+          "number": 4,
+          "text": "A che potete, leggendo, conoscere [qual sia] la mia intelligenza nel misterio di Cristo."
+        },
+        {
+          "number": 5,
+          "text": "Il quale non fu dato a conoscere nell'altre età a' figliuoli degli uomini, come ora è stato rivelato a' santi apostoli, e profeti d'esso, in Ispirito;"
+        },
+        {
+          "number": 6,
+          "text": "acciocchè i Gentili sieno coeredi, e d'un medesimo corpo, e partecipi della promessa d'esso in Cristo, per l'evangelo."
+        },
+        {
+          "number": 7,
+          "text": "Del quale io sono stato fatto ministro, secondo il dono della grazia di Dio, che mi è stata data, secondo la virtù della sua potenza."
+        },
+        {
+          "number": 8,
+          "text": "A me, [dico], il minimo di tutti i santi, è stata data questa grazia d'evangelizzar fra i Gentili le non investigabili ricchezze di Cristo;"
+        },
+        {
+          "number": 9,
+          "text": "e di manifestare a tutti, quale [è] la dispensazion del misterio, il quale da' secoli è stato occulto in Dio, che ha create tutte le cose per Gesù Cristo;"
+        },
+        {
+          "number": 10,
+          "text": "acciocchè nel tempo presente sia data a conoscere ai principati, e alle podestà, ne' [luoghi] celesti, per la chiesa, la molto varia sapienza di Dio,"
+        },
+        {
+          "number": 11,
+          "text": "secondo il proponimento eterno, il quale egli ha fatto in Cristo Gesù, nostro Signore."
+        },
+        {
+          "number": 12,
+          "text": "In cui noi abbiamo la libertà, e l'introduzione in confidanza, per la fede d'esso."
+        },
+        {
+          "number": 13,
+          "text": "Per la qual cosa io richieggo che non veniate meno dell'animo per le mie tribolazioni, [che soffro] per voi; il che è la vostra gloria.)"
+        },
+        {
+          "number": 14,
+          "text": "Per questa cagione, [dico], io piego le mie ginocchia al Padre del Signor nostro Gesù Cristo;"
+        },
+        {
+          "number": 15,
+          "text": "dal quale è nominata tutta la famiglia, ne' cieli, e sopra la terra;"
+        },
+        {
+          "number": 16,
+          "text": "ch'egli vi dia, secondo le ricchezze della sua gloria, d'esser fortificati in virtù, per lo suo Spirito, nell'uomo interno;"
+        },
+        {
+          "number": 17,
+          "text": "[e] che Cristo abiti ne' vostri cuori per la fede."
+        },
+        {
+          "number": 18,
+          "text": "Acciocchè, essendo radicati, e fondati in carità, possiate comprendere, con tutti i santi, qual [sia] la larghezza, e la lunghezza, e la profondità, e l'altezza,"
+        },
+        {
+          "number": 19,
+          "text": "e conoscer la carità di Cristo, che sopravanza [ogni] conoscenza; acciocchè siate ripieni fino a tutta la pienezza di Dio."
+        },
+        {
+          "number": 20,
+          "text": "Or a colui che può, secondo la potenza che opera in noi, fare infinitamente sopra ciò che noi chieggiamo, o pensiamo;"
+        },
+        {
+          "number": 21,
+          "text": "a lui [sia] la gloria nella Chiesa, in Cristo Gesù, per tutte le generazioni del secolo de' secoli. Amen."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "IO adunque, il prigione, vi esorto nel Signore, che camminiate condegnamente alla vocazione, della quale siete stati chiamati;"
+        },
+        {
+          "number": 2,
+          "text": "con ogni umiltà, e mansuetudine; con pazienza, comportandovi gli uni gli altri in carità;"
+        },
+        {
+          "number": 3,
+          "text": "studiandovi di serbar l'unità dello Spirito per il legame della pace."
+        },
+        {
+          "number": 4,
+          "text": "[V'è] un corpo unico, e un unico Spirito; come ancora voi siete stati chiamati in un'unica speranza della vostra vocazione."
+        },
+        {
+          "number": 5,
+          "text": "[V'è] un unico Signore, una fede, un battesimo;"
+        },
+        {
+          "number": 6,
+          "text": "un Dio unico, e Padre di tutti, il quale [è] sopra tutte le cose, e fra tutte le cose, e in tutti voi."
+        },
+        {
+          "number": 7,
+          "text": "Ma a ciascun di noi è stata data la grazia, secondo la misura del dono di Cristo."
+        },
+        {
+          "number": 8,
+          "text": "Per la qual cosa dice: Essendo salito in alto, egli ha menata in cattività moltitudine di prigioni, e ha dati de' doni agli uomini."
+        },
+        {
+          "number": 9,
+          "text": "Or quello: È salito, che cosa è [altro], se non che prima ancora era disceso nelle parti più basse della terra?"
+        },
+        {
+          "number": 10,
+          "text": "Colui che è disceso è quello stesso, il quale ancora è salito di sopra a tutti i cieli, acciocchè empia tutte le cose."
+        },
+        {
+          "number": 11,
+          "text": "Ed egli stesso ha dati gli uni apostoli, e gli altri profeti, e gli altri evangelisti, e gli altri pastori, e dottori;"
+        },
+        {
+          "number": 12,
+          "text": "per lo perfetto adunamento de' santi, per l'opera del ministerio, per l'edificazione del corpo di Cristo;"
+        },
+        {
+          "number": 13,
+          "text": "finchè ci scontriamo tutti nell'unità della fede, e della conoscenza del Figliuol di Dio, in uomo compiuto, alla misura della statura perfetta del corpo di Cristo."
+        },
+        {
+          "number": 14,
+          "text": "Acciocchè non siam più bambini, fiottando e trasportati da ogni vento di dottrina, per la baratteria degli uomini, per la [loro] astuzia all'artificio, ed insidie dell'inganno."
+        },
+        {
+          "number": 15,
+          "text": "Ma che, seguitando verità in carità, cresciamo in ogni cosa in colui che è il capo, [cioè in] Cristo."
+        },
+        {
+          "number": 16,
+          "text": "Dal quale tutto il corpo ben composto, e commesso insieme per tutte le giunture di cui è fornito, secondo la virtù [che è] nella misura di ciascun membro, prende il suo accrescimento alla propria edificazione in carità."
+        },
+        {
+          "number": 17,
+          "text": "QUESTO dico adunque, e protesto nel Signore, che voi non camminiate più come camminano ancora gli altri Gentili, nella vanità della lor mente;"
+        },
+        {
+          "number": 18,
+          "text": "intenebrati nell'intelletto, alieni dalla vita di Dio, per l'ignoranza che [è] in loro, per l'induramento del cuor loro."
+        },
+        {
+          "number": 19,
+          "text": "I quali, essendo divenuti insensibili ad ogni dolore, si sono abbandonati alla dissoluzione, da operare ogni immondizia, con insaziabile cupidità."
+        },
+        {
+          "number": 20,
+          "text": "Ma voi non avete così imparato Cristo;"
+        },
+        {
+          "number": 21,
+          "text": "se pur l'avete udito, e siete stati in lui ammaestrati, secondo che la verità è in Gesù:"
+        },
+        {
+          "number": 22,
+          "text": "di spogliare, quant'è alla primiera condotta, l'uomo vecchio, il qual si corrompe nelle concupiscenze della seduzione;"
+        },
+        {
+          "number": 23,
+          "text": "e d'essere rinnovati per lo Spirito della vostra mente;"
+        },
+        {
+          "number": 24,
+          "text": "e d'esser vestiti dell'uomo nuovo, creato, secondo Iddio, in giustizia, e santità di verità."
+        },
+        {
+          "number": 25,
+          "text": "Perciò, deposta la menzogna, parlate in verità ciascuno col suo prossimo; poichè noi siam membra gli uni degli altri."
+        },
+        {
+          "number": 26,
+          "text": "Adiratevi, e non peccate; il sole non tramonti sopra il vostro cruccio."
+        },
+        {
+          "number": 27,
+          "text": "E non date luogo al diavolo."
+        },
+        {
+          "number": 28,
+          "text": "Chi rubava non rubi più; anzi più tosto fatichi, facendo qualche buona opera con le proprie mani, acciocchè abbia di che far parte a colui che ha bisogno."
+        },
+        {
+          "number": 29,
+          "text": "Niuna parola malvagia esca dalla vostra bocca; ma, se [ve n'è] alcuna buona ad edificazione, secondo il bisogno; acciocchè conferisca grazia agli ascoltanti."
+        },
+        {
+          "number": 30,
+          "text": "E non contristate lo Spirito Santo di Dio, col quale siete stati suggellati per il giorno della redenzione."
+        },
+        {
+          "number": 31,
+          "text": "Sia tolta via da voi ogni amaritudine, ed ira, e cruccio, e grido, e maldicenza, con ogni malizia."
+        },
+        {
+          "number": 32,
+          "text": "Ma siate gli uni inverso gli altri benigni, misericordiosi, perdonandovi gli uni gli altri, siccome ancora Iddio vi ha perdonati in Cristo."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Siate adunque imitatori di Dio, come figliuoli diletti."
+        },
+        {
+          "number": 2,
+          "text": "E camminate in carità, siccome ancora Cristo ci ha amati, e ha dato sè stesso per noi, in offerta e sacrificio a Dio, in odor soave."
+        },
+        {
+          "number": 3,
+          "text": "E come si conviene a santi, fornicazione, e niuna immondizia, ed avarizia, non sia pur nominata fra voi;"
+        },
+        {
+          "number": 4,
+          "text": "nè disonestà, nè stolto parlare, o buffoneria, le quali cose non si convengono; ma più tosto, ringraziamento."
+        },
+        {
+          "number": 5,
+          "text": "Poichè voi sapete questo: che niun fornicatore, nè immondo, nè avaro, il quale è idolatra, ha eredità nel regno di Cristo, e di Dio."
+        },
+        {
+          "number": 6,
+          "text": "Niuno vi seduca con vani ragionamenti; perciocchè per queste cose vien l'ira di Dio, sopra i figliuoli della disubbidienza."
+        },
+        {
+          "number": 7,
+          "text": "Non siate adunque loro compagni."
+        },
+        {
+          "number": 8,
+          "text": "Perciocchè già eravate tenebre, ma ora [siete] luce nel Signore; camminate come figliuoli di luce"
+        },
+        {
+          "number": 9,
+          "text": "(poichè il frutto dello Spirito[è] in ogni bontà, e giustizia, e verità),"
+        },
+        {
+          "number": 10,
+          "text": "provando ciò che è accettevole al Signore."
+        },
+        {
+          "number": 11,
+          "text": "E non partecipate le opere infruttuose delle tenebre, anzi più tosto ancora riprendetele."
+        },
+        {
+          "number": 12,
+          "text": "Perciocchè egli è disonesto pur di dire le cose che si fanno da coloro in occulto."
+        },
+        {
+          "number": 13,
+          "text": "Ma tutte le cose, che sono condannate sono manifestate dalla luce; perciocchè tutto ciò che è manifestato è luce."
+        },
+        {
+          "number": 14,
+          "text": "Perciò dice: Risvegliati, tu che dormi, e risorgi da' morti, e Cristo ti risplenderà."
+        },
+        {
+          "number": 15,
+          "text": "Riguardate adunque come voi camminate con diligente circospezione; non come stolti, ma come savi;"
+        },
+        {
+          "number": 16,
+          "text": "ricomperando il tempo, perciocchè i giorni sono malvagi."
+        },
+        {
+          "number": 17,
+          "text": "Perciocchè, non siate disavveduti, ma intendenti qual [sia] la volontà del Signore."
+        },
+        {
+          "number": 18,
+          "text": "[E] non v'inebbriate di vino, nel quale vi è dissoluzione; ma siate ripieni dello Spirito;"
+        },
+        {
+          "number": 19,
+          "text": "parlando a voi stessi con salmi, ed inni, e canzoni spirituali, cantando, e salmeggiando col cuor vostro al Signore."
+        },
+        {
+          "number": 20,
+          "text": "Rendendo del continuo grazie d'ogni cosa a Dio e Padre, nel nome del Signor nostro Gesù Cristo."
+        },
+        {
+          "number": 21,
+          "text": "Sottoponendovi gli uni agli altri nel timor di Cristo."
+        },
+        {
+          "number": 22,
+          "text": "MOGLI, siate soggette a' vostri mariti, come al Signore."
+        },
+        {
+          "number": 23,
+          "text": "Poichè il marito è capo della donna, siccome ancora Cristo [è] capo della Chiesa, ed egli stesso è Salvatore del corpo."
+        },
+        {
+          "number": 24,
+          "text": "Ma altresì, come la Chiesa è soggetta a Cristo, così le mogli [debbono esser soggette] a' lor mariti in ogni cosa."
+        },
+        {
+          "number": 25,
+          "text": "Mariti, amate le vostre mogli, siccome ancora Cristo ha amata la Chiesa, e ha dato sè stesso per lei;"
+        },
+        {
+          "number": 26,
+          "text": "acciocchè, avendo[la] purgata col lavacro dell'acqua, la santificasse per la parola;"
+        },
+        {
+          "number": 27,
+          "text": "per farla comparire davanti a sè, gloriosa, non avendo macchia, nè crespa, nè cosa alcuna tale; ma santa ed irreprensibile."
+        },
+        {
+          "number": 28,
+          "text": "Così debbono i mariti amare le loro mogli, come i lor propri corpi: chi ama la sua moglie ama sè stesso."
+        },
+        {
+          "number": 29,
+          "text": "Perciocchè niuno giammai ebbe in odio la sua carne, anzi la nudrisce, e la cura teneramente, siccome ancora il Signore la Chiesa."
+        },
+        {
+          "number": 30,
+          "text": "Poichè noi siamo membra del suo corpo, della sua carne, e delle sue ossa."
+        },
+        {
+          "number": 31,
+          "text": "Perciò, l'uomo lascerà suo padre, e sua madre, e si congiungerà con la sua moglie, e i due diverranno una stessa carne."
+        },
+        {
+          "number": 32,
+          "text": "Questo mistero è grande; or io dico, a riguardo di Cristo, e della Chiesa."
+        },
+        {
+          "number": 33,
+          "text": "Ma ciascun di voi così ami la sua moglie, come sè stesso; ed altresì la moglie riverisca il marito."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Figliuoli, ubbidite nel Signore a' vostri padri e madri, perciocchè ciò è giusto."
+        },
+        {
+          "number": 2,
+          "text": "Onora tuo padre, e tua madre (che è il primo comandamento con promessa),"
+        },
+        {
+          "number": 3,
+          "text": "acciocchè ti sia bene, e tu sii di lunga vita sopra la terra."
+        },
+        {
+          "number": 4,
+          "text": "E [voi], padri, non provocate ad ira i vostri figliuoli; ma allevateli in disciplina, ed ammonizion del Signore."
+        },
+        {
+          "number": 5,
+          "text": "Servi, ubbidite a' [vostri] signori secondo la carne, con timore, e tremore, nella semplicità del cuor vostro, come a Cristo."
+        },
+        {
+          "number": 6,
+          "text": "Non servendo all'occhio, come per piacere agli uomini; ma, come servi di Cristo, facendo il voler di Dio d'animo;"
+        },
+        {
+          "number": 7,
+          "text": "servendo con benivoglienza, come a Cristo, e non come agli uomini;"
+        },
+        {
+          "number": 8,
+          "text": "sapendo che del bene che ciascuno, o servo o franco ch'egli sia, avrà fatto, egli ne riceverà la retribuzion dal Signore."
+        },
+        {
+          "number": 9,
+          "text": "E [voi], signori, fate par pari inverso loro, rallentando le minacce; sapendo che il Signore, e vostro, e loro, è ne' cieli; e che dinanzi a lui non v' [è] riguardo alla qualità delle persone."
+        },
+        {
+          "number": 10,
+          "text": "NEL rimanente, fratelli miei, fortificatevi nel Signore, e nella forza della sua possanza."
+        },
+        {
+          "number": 11,
+          "text": "Vestite tutta l'armatura di Dio, per poter dimorar ritti, e fermi contro alle insidie del diavolo."
+        },
+        {
+          "number": 12,
+          "text": "Poichè noi non abbiamo il combattimento contro a sangue e carne; ma contro a' principati, contro alle podestà, contro a' rettori del mondo, e delle tenebre di questo secolo, contro agli spiriti maligni, ne' [luoghi] celesti."
+        },
+        {
+          "number": 13,
+          "text": "Perciò, prendete tutta l'armatura di Dio, acciocchè possiate contrastare nel giorno malvagio; e dopo aver compiuta ogni cosa, restar ritti in piè."
+        },
+        {
+          "number": 14,
+          "text": "Presentatevi adunque al combattimento, cinti di verità intorno a' lombi, e vestiti dell'usbergo della giustizia;"
+        },
+        {
+          "number": 15,
+          "text": "ed avendo i piedi calzati della preparazione dell'evangelo della pace."
+        },
+        {
+          "number": 16,
+          "text": "Sopra tutto, prendendo lo scudo della fede, col quale possiate spegnere tutti i dardi infocati del maligno."
+        },
+        {
+          "number": 17,
+          "text": "Pigliate ancora l'elmo della salute; e la spada dello Spirito, che è la parola di Dio."
+        },
+        {
+          "number": 18,
+          "text": "Orando in ogni tempo, con ogni maniera di preghiera, e supplicazione, in Ispirito; ed a questo stesso vegliando, con ogni perseveranza, ed orazione per tutti i santi."
+        },
+        {
+          "number": 19,
+          "text": "E per me ancora, acciocchè mi sia data parola con apertura di bocca, per far conoscere con libertà il misterio dell'evangelo."
+        },
+        {
+          "number": 20,
+          "text": "Per lo quale io sono ambasciatore in catena; acciocchè io l'annunzii francamente, come mi convien parlare."
+        },
+        {
+          "number": 21,
+          "text": "OR acciocchè ancora voi sappiate lo stato mio, e ciò che io fo, Tichico, il caro fratello, e fedel ministro nel Signore, vi farà assapere il tutto."
+        },
+        {
+          "number": 22,
+          "text": "Il quale io ho mandato a voi a questo stesso fine, acciocchè voi sappiate lo stato nostro, e ch'egli consoli i cuori vostri."
+        },
+        {
+          "number": 23,
+          "text": "Pace a' fratelli, e carità con fede, da Dio Padre, e dal Signor Gesù Cristo."
+        },
+        {
+          "number": 24,
+          "text": "La grazia [sia] con tutti quelli che amano il Signor nostro Gesù Cristo, in purità incorruttibile. Amen."
+        }
+      ]
+    }
+  ]
+}

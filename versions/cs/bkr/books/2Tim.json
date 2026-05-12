@@ -1,0 +1,361 @@
+{
+  "version": "bkr",
+  "book": "2Tim",
+  "bookId": 55,
+  "englishName": "2 Timothy",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pavel, apoštol Ježíše Krista, skrze vůli Boží, podle zaslíbení života, kterýž jest v Kristu Ježíši,"
+        },
+        {
+          "number": 2,
+          "text": "Timoteovi milému synu: Milost, milosrdenství a pokoj od Boha Otce a Krista Ježíše Pána našeho."
+        },
+        {
+          "number": 3,
+          "text": "Díky činím Bohu, jemuž sloužím, jako i předkové moji, v svědomí čistém, z toho, že mám na tě ustavičnou pamět na svých modlitbách ve dne i v noci,"
+        },
+        {
+          "number": 4,
+          "text": "Žádaje viděti tebe, zpomínaje na tvé slzy, abych radostí naplněn byl,"
+        },
+        {
+          "number": 5,
+          "text": "Rozpomínaje se na tu víru, kteráž v tobě jest bez pokrytství, kteráž byla nejprv v bábě tvé Loidě, a v matce tvé Eunice, a tak smyslím, že i v tobě."
+        },
+        {
+          "number": 6,
+          "text": "Pro kteroužto příčinu napomínám tebe, abys rozněcoval v sobě dar Boží, kterýžť jest dán skrze vzkládání rukou mých."
+        },
+        {
+          "number": 7,
+          "text": "Nebo nedal nám Bůh ducha bázně, ale moci, a milování, a mysli způsobné."
+        },
+        {
+          "number": 8,
+          "text": "Protož nestyď se za svědectví Pána našeho, ani za mne, vězně jeho, ale čitedlen buď úzkostí přicházejících pro evangelium podle moci Boží,"
+        },
+        {
+          "number": 9,
+          "text": "Kterýž spasil nás, a povolal povoláním svatým, ne podle skutků našich, ale podle uložení svého a milosti nám dané v Kristu Ježíši před časy věků,"
+        },
+        {
+          "number": 10,
+          "text": "Nyní pak teprv zjevené skrze příští Spasitele našeho Jezukrista, kterýž zahladil smrt, život pak na světlo vyvedl, i nesmrtelnost skrze evangelium,"
+        },
+        {
+          "number": 11,
+          "text": "Jehožto já ustanoven jsem kazatelem, a apoštolem, i učitelem pohanů."
+        },
+        {
+          "number": 12,
+          "text": "A pro tu příčinu toto všecko trpím, ale nestydímť se za to; nebo vím, komu jsem uvěřil, a jist jsem tím, že mocen jest toho, což jsem u něho složil, ostříhati až do onoho dne."
+        },
+        {
+          "number": 13,
+          "text": "Mějž jistý příklad zdravých řečí, kteréž jsi slýchal ode mne, u víře a v lásce, kteráž jest v Kristu Ježíši."
+        },
+        {
+          "number": 14,
+          "text": "Výborného toho pokladu ostříhej, skrze Ducha svatého přebývajícího v nás."
+        },
+        {
+          "number": 15,
+          "text": "Víš snad o tom, že se odvrátili ode mne všickni, kteříž jsou v Azii, z nichžto jest Fygellus a Hermogenes."
+        },
+        {
+          "number": 16,
+          "text": "Dejž milosrdenství Pán domu Oneziforovu; nebo často mi činil pohodlí, aniž se styděl za řetězy mé."
+        },
+        {
+          "number": 17,
+          "text": "Nýbrž přišed do Říma, pilně mne hledal, a nalezl."
+        },
+        {
+          "number": 18,
+          "text": "Dejž jemu Pán nalézti milosrdenství u Pána v onen den. A jak mi mnoho posluhoval v Efezu, ty výborně víš."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Protož ty, synu můj, zmocniž se v milosti, kteráž jest v Kristu Ježíši."
+        },
+        {
+          "number": 2,
+          "text": "A což jsi slyšel ode mne před mnohými svědky, svěřujž to lidem věrným, kteříž by způsobní byli i jiné učiti."
+        },
+        {
+          "number": 3,
+          "text": "A tak ty snášej protivenství, jako ctný rytíř Ježíše Krista."
+        },
+        {
+          "number": 4,
+          "text": "Žádný, kdož rytěřuje, neplete se v obecné živnosti, aby se svému hejtmanu líbil."
+        },
+        {
+          "number": 5,
+          "text": "A jestliže by kdo i bojoval, nebudeť korunován, leč by řádně bojoval."
+        },
+        {
+          "number": 6,
+          "text": "Pracovati musí i oráč, prve nežli užitku okusí."
+        },
+        {
+          "number": 7,
+          "text": "Rozuměj, coť pravím, a dejž tobě Pán ve všem smysl pravý."
+        },
+        {
+          "number": 8,
+          "text": "Pamatujž na to, že Ježíš Kristus vstal z mrtvých, jenž jest z semene Davidova, podle evangelium mého."
+        },
+        {
+          "number": 9,
+          "text": "V kterémžto protivenství trpím, až i vězení, jako bych zločinec byl, ale slovo Boží není u vězení."
+        },
+        {
+          "number": 10,
+          "text": "Protož všecko to snáším pro vyvolené Boží, aby i oni spasení došli, kteréžto jest v Kristu Ježíši, s slavou věčnou."
+        },
+        {
+          "number": 11,
+          "text": "Věrná jest tato řeč. Nebo jestližeť jsme s ním zemřeli, tedy také spolu s ním živi budeme."
+        },
+        {
+          "number": 12,
+          "text": "A trpíme-liť, budeme také spolu s ním kralovati; pakli ho zapíráme, i onť nás zapře."
+        },
+        {
+          "number": 13,
+          "text": "A jsme-liť nevěrní, onť zůstává věrný; zapříti sám sebe nemůže."
+        },
+        {
+          "number": 14,
+          "text": "Tyto věci připomínej, s osvědčováním před obličejem Páně, a ať se o slova nevadí, nebo to k ničemu není užitečné, ale jest ku podvrácení posluchačů."
+        },
+        {
+          "number": 15,
+          "text": "Pilně se snažuj vydati sebe Bohu milého dělníka, za nějž by se nebylo proč styděti, a kterýž by právě slovo pravdy rozděloval."
+        },
+        {
+          "number": 16,
+          "text": "Bezbožných pak těch křiků daremních varuj se, neboť velmi rozmnožují bezbožnost,"
+        },
+        {
+          "number": 17,
+          "text": "A řeč jejich jako rak rozjídá se. Z nichžto jest Hymeneus a Filétus,"
+        },
+        {
+          "number": 18,
+          "text": "Kteříž při pravdě pobloudili od cíle, pravíce, že by se již stalo vzkříšení, a převracejí víru některých."
+        },
+        {
+          "number": 19,
+          "text": "Ale pevný základ Boží stojí, maje znamení toto: Znáť Pán ty, kteříž jsou jeho, a opět: Odstup od nepravosti každý, kdož vzývá jméno Kristovo."
+        },
+        {
+          "number": 20,
+          "text": "V domu pak velikém netoliko jsou nádoby zlaté a stříbrné, ale také dřevěné i hliněné, a některé zajisté ke cti, některé pak ku potupě."
+        },
+        {
+          "number": 21,
+          "text": "Protož jestliže by se kdo očistil od těch věcí, bude nádobou ke cti, posvěcenou, a užitečnou Pánu, ke všelikému skutku dobrému hotovou."
+        },
+        {
+          "number": 22,
+          "text": "Mládenčích pak žádostí utíkej, ale následuj spravedlnosti, víry, lásky, pokoje, s těmi, kteříž vzývají Pána z srdce čistého."
+        },
+        {
+          "number": 23,
+          "text": "Bláznivých pak a nevzdělavatelných otázek varuj se, věda, že plodí sváry."
+        },
+        {
+          "number": 24,
+          "text": "Na služebníka pak Božího nesluší vaditi se, ale aby byl přívětivý ke všem, způsobný k učení, trpělivý,"
+        },
+        {
+          "number": 25,
+          "text": "Kterýž by v tichosti vyučoval ty, jenž se pravdě protiví, zda by někdy dal jim Bůh pokání ku poznání pravdy,"
+        },
+        {
+          "number": 26,
+          "text": "Aby sami k sobě přijdouce, dobyli se z osidla ďáblova, od něhož jsou zjímáni k vykonávání jeho vůle."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Toto pak věz, že v posledních dnech nastanou časové nebezpeční."
+        },
+        {
+          "number": 2,
+          "text": "Nebo nastanou lidé sami sebe milující, peníze milující, chlubní, pyšní, zlolejci, rodičů neposlušní, nevděční, bezbožní,"
+        },
+        {
+          "number": 3,
+          "text": "Nelítostiví, smluv nezdrželiví, utrhači, nestředmí, plaší, kterýmž nic dobrého milo není,"
+        },
+        {
+          "number": 4,
+          "text": "Zrádci, přívažčiví, nadutí, rozkoší milovníci více nežli Boha,"
+        },
+        {
+          "number": 5,
+          "text": "Mající způsob pobožnosti, ale moci její zapírajíce, a od takových se odvracuj."
+        },
+        {
+          "number": 6,
+          "text": "Nebo z těch jsou i ti, kteříž nacházejí do domů, a jímajíce, vodí ženky obtížené hříchy, jenž vedeny bývají rozličnými žádostmi,"
+        },
+        {
+          "number": 7,
+          "text": "Kteréž vždycky se učí, ale nikdy ku poznání pravdy přijíti nemohou."
+        },
+        {
+          "number": 8,
+          "text": "Jakož zajisté Jannes a Jambres zprotivili se Mojžíšovi, tak i tito protiví se pravdě, lidé na mysli porušení a při víře spletení."
+        },
+        {
+          "number": 9,
+          "text": "Ale nebudouť více prospívati. Nebo nemoudrost jejich zjevná bude všechněm, jako i oněchno byla."
+        },
+        {
+          "number": 10,
+          "text": "Ale ty jsi došel mého učení, způsobu života mého, úmyslu, víry, snášelivosti, lásky, trpělivosti,"
+        },
+        {
+          "number": 11,
+          "text": "Protivenství, utrpení, kteráž na mne přišla v Antiochii, v Ikonii, a v Lystře; kterážto protivenství snášel jsem, ale ze všech vysvobodil mne Pán."
+        },
+        {
+          "number": 12,
+          "text": "A takž i všickni, kteříž chtějí zbožně živi býti v Kristu Ježíši, protivenství míti budou."
+        },
+        {
+          "number": 13,
+          "text": "Zlí pak lidé a svůdcové prospívati budou ze zlého v horší, i jiné v blud uvodíce, i sami bludem pojati jsouce."
+        },
+        {
+          "number": 14,
+          "text": "Ale ty zůstávej v tom, čemužs se naučil a cožť jest svěřeno, věda, od kohos se naučil."
+        },
+        {
+          "number": 15,
+          "text": "A že hned od dětinství svatá Písma znáš, kteráž tě mohou moudrého učiniti k spasení skrze víru, kteráž jest v Kristu Ježíši."
+        },
+        {
+          "number": 16,
+          "text": "Všeliké zajisté Písmo od Boha jest vdechnuté, a užitečné k učení, k trestání, k napravování, k správě, kteráž náleží k spravedlnosti,"
+        },
+        {
+          "number": 17,
+          "text": "Aby byl dokonalý člověk Boží, ke všelikému skutku dobrému hotový."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Protož já osvědčuji před obličejem Božím a Pána Jezukrista, kterýž má souditi živé i mrtvé v den zjevení svého a království svého,"
+        },
+        {
+          "number": 2,
+          "text": "Kaž slovo Boží, ponoukej včas nebo nevčas, tresci, žehři, napomínej, ve vší tichosti a učení."
+        },
+        {
+          "number": 3,
+          "text": "Nebo přijde čas, že zdravého učení nebudou přijímati, ale majíce svrablavé uši, podle svých vlastních žádostí shromažďovati sami sobě budou učitele."
+        },
+        {
+          "number": 4,
+          "text": "A odvrátíť uši od pravdy, a k básněm obrátí."
+        },
+        {
+          "number": 5,
+          "text": "Ale ty ve všem buď bedliv, protivenství snášej, dílo kazatele konej, dokazuj toho dostatečně, že jsi věrný Kristův služebník."
+        },
+        {
+          "number": 6,
+          "text": "Neb já se již k tomu blížím, abych obětován byl, a čas rozdělení mého nastává."
+        },
+        {
+          "number": 7,
+          "text": "Boj výborný bojoval jsem, běh jsem dokonal, víru jsem zachoval."
+        },
+        {
+          "number": 8,
+          "text": "Již za tím odložena jest mi koruna spravedlnosti, kterouž dá mi v onen den Pán, ten spravedlivý soudce, a netoliko mně, ale i všechněm těm, kteříž milují příští jeho."
+        },
+        {
+          "number": 9,
+          "text": "Přičiň se k tomu, abys ke mně brzo přišel."
+        },
+        {
+          "number": 10,
+          "text": "Nebo Démas mne opustil, zamilovav tento svět, a šel do Tessaloniky, Krescens do Galacie, Titus do Dalmacie."
+        },
+        {
+          "number": 11,
+          "text": "Sám toliko Lukáš se mnou jest. Marka vezmi s sebou; nebo jest mi velmi potřebný k službě."
+        },
+        {
+          "number": 12,
+          "text": "Tychikať jsem poslal do Efezu."
+        },
+        {
+          "number": 13,
+          "text": "Truhličku, kteréž jsem nechal v Troadě u Karpa, když půjdeš, přines s sebou, i knihy, zvláště pergamén."
+        },
+        {
+          "number": 14,
+          "text": "Alexander kotlář mnoho mi zlého způsobil; odplatiž jemu Pán podle skutků jeho."
+        },
+        {
+          "number": 15,
+          "text": "Kteréhož i ty se vystříhej; nebo velmi se protivil řečem našim."
+        },
+        {
+          "number": 16,
+          "text": "Při prvním mém odpovídání žádný se mnou nebyl, ale všickni mne opustili. Nebudiž jim to počítáno za hřích."
+        },
+        {
+          "number": 17,
+          "text": "Pán pak byl se mnou a posilnil mne, aby skrze mne utvrzeno bylo kázání o Kristu, a aby je slyšeli všickni národové. I vytržen jsem byl z úst lva."
+        },
+        {
+          "number": 18,
+          "text": "A vysvobodíť mne Pán od každého skutku zlého a zachová k království svému nebeskému, jemuž sláva na věky věků. Amen."
+        },
+        {
+          "number": 19,
+          "text": "Pozdrav Prišky a Akvile, i Oneziforova domu."
+        },
+        {
+          "number": 20,
+          "text": "Erastus zůstal v Korintu, Trofima pak nechal jsem v Milétu nemocného."
+        },
+        {
+          "number": 21,
+          "text": "Pospěš před zimou přijíti ke mně. Pozdravuje tebe Eubulus a Pudens a Línus a Klaudia, i všickni bratří."
+        },
+        {
+          "number": 22,
+          "text": "Pán Ježíš Kristus budiž s duchem tvým. Milost Boží s vámi. Amen. List tento druhý psán jest z Říma k Timoteovi, (kterýž první v Efezu za biskupa skrze vzkládání rukou zřízen byl,) když Pavel opět po druhé se stavěl před císařem Neronem."
+        }
+      ]
+    }
+  ]
+}

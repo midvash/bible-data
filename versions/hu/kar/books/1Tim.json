@@ -1,0 +1,491 @@
+{
+  "version": "kar",
+  "book": "1Tim",
+  "bookId": 54,
+  "englishName": "1 Timothy",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pál, Jézus Krisztus apostola a mi megtartó Istenünknek, és Jézus Krisztusnak a mi reménységünknek rendelése szerint,"
+        },
+        {
+          "number": 2,
+          "text": "Timótheusnak, az én igaz fiamnak a hitben: Kegyelem, irgalmasság és békesség Istentől, a mi Atyánktól, és Krisztus Jézustól, a mi Urunktól."
+        },
+        {
+          "number": 3,
+          "text": "A miképpen Maczedóniába menetelemkor kértelek téged, hogy maradj Efézusban, hogy megmondjad némelyeknek, ne tanítsanak más tudományt,"
+        },
+        {
+          "number": 4,
+          "text": "Se mesékkel és végehossza nélkül való nemzetségi táblázatokkal ne foglalkozzanak, a melyek inkább versengéseket támasztanak, mint Istenben való épülést a hit által."
+        },
+        {
+          "number": 5,
+          "text": "A parancsolatnak vége pedig a tiszta szívből, jó lelkiismeretből és igaz hitből való szeretet:"
+        },
+        {
+          "number": 6,
+          "text": "Melyektől némelyek eltévelyedvén, hiábavaló beszédre hajlottak:"
+        },
+        {
+          "number": 7,
+          "text": "Kik törvénytanítók akarván lenni, nem értik, sem a miket beszélnek, sem a miket erősítgetnek."
+        },
+        {
+          "number": 8,
+          "text": "Tudjuk pedig, hogy a törvény jó, ha valaki törvényszerűen él vele,"
+        },
+        {
+          "number": 9,
+          "text": "Tudván azt, hogy a törvény nem az igazért van, hanem a törvénytaposókért és engedetlenekért, az istentelenekért és bűnösökért, a latrokért és fertelmesekért, az atya- és anyagyilkosokért, emberölőkért."
+        },
+        {
+          "number": 10,
+          "text": "Paráznákért, férfifertőztetőkért, emberrablókért, hazugokért, hamisan esküvőkért, és a mi egyéb csak az egészséges tudománynyal ellenkezik,"
+        },
+        {
+          "number": 11,
+          "text": "A boldog Isten dicsőségének evangyélioma szerint, mely reám bízatott."
+        },
+        {
+          "number": 12,
+          "text": "És hálát adok annak, a ki engem megerősített, a Krisztus Jézusnak, a mi Urunknak, hogy engem hívnek ítélt, rendelvén a szolgálatra,"
+        },
+        {
+          "number": 13,
+          "text": "Ki előbb istenkáromló, üldöző és erőszakoskodó valék: de könyörült rajtam, mert tudatlanul cselekedtem hitetlenségben;"
+        },
+        {
+          "number": 14,
+          "text": "Szerfelett megsokasodott pedig a mi Urunknak kegyelme a Krisztus Jézusban való hittel és szeretettel."
+        },
+        {
+          "number": 15,
+          "text": "Igaz beszéd ez és teljes elfogadásra méltó, hogy Krisztus Jézus azért jött e világra, hogy megtartsa a bűnösöket, a kik közül első vagyok én."
+        },
+        {
+          "number": 16,
+          "text": "De azért könyörült rajtam, hogy Jézus Krisztus bennem mutassa meg legelőbb a teljes hosszútűrését, példa gyanánt azoknak, a kik hiendenek ő benne az örök életre."
+        },
+        {
+          "number": 17,
+          "text": "Az örökkévaló királynak pedig, a halhatatlan, láthatatlan, egyedül bölcs Istennek tisztesség és dicsőség örökkön örökké! Ámen."
+        },
+        {
+          "number": 18,
+          "text": "Ezt a parancsolatot adom néked, fiam Timótheus, a rólad való korábbi jövendölések szerint, hogy vitézkedjél azokban ama jó vitézséggel,"
+        },
+        {
+          "number": 19,
+          "text": "Megtartván a hitet és jó lelkiismeretet, melyet némelyek elvetvén, a hit dolgában hajótörést szenvedtek;"
+        },
+        {
+          "number": 20,
+          "text": "Kik közül való Himenéus és Alexander, kiket átadtam a sátánnak, hogy megtanulják, hogy ne káromkodjanak."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Intelek azért mindenek előtt, hogy tartassanak könyörgések, imádságok, esedezések, hálaadások minden emberekért,"
+        },
+        {
+          "number": 2,
+          "text": "Királyokért és minden méltóságban levőkért, hogy csendes és nyugodalmas életet éljünk, teljes istenfélelemmel és tisztességgel."
+        },
+        {
+          "number": 3,
+          "text": "Mert ez jó és kedves dolog a mi megtartó Istenünk előtt,"
+        },
+        {
+          "number": 4,
+          "text": "A ki azt akarja, hogy minden ember idvezüljön és az igazság ismeretére eljusson."
+        },
+        {
+          "number": 5,
+          "text": "Mert egy az Isten, egy a közbenjáró is Isten és emberek között, az ember Krisztus Jézus,"
+        },
+        {
+          "number": 6,
+          "text": "A ki adta önmagát váltságul mindenekért, mint tanúbizonyság a maga idejében,"
+        },
+        {
+          "number": 7,
+          "text": "A mi végett rendeltettem én hirdetővé és apostollá (igazságot szólok a Krisztusban, nem hazudok), pogányok tanítójává hitben és igazságban."
+        },
+        {
+          "number": 8,
+          "text": "Akarom azért, hogy imádkozzanak a férfiak minden helyen, tiszta kezeket emelvén föl harag és versengés nélkül."
+        },
+        {
+          "number": 9,
+          "text": "Hasonlatosképen az asszonyok tisztességes öltözetben, szemérmetességgel és mértékletességgel ékesítsék magokat; nem hajfonatokkal és aranynyal vagy gyöngyökkel, vagy drága öltözékkel,"
+        },
+        {
+          "number": 10,
+          "text": "Hanem, a mint illik az istenfélelmet valló asszonyokhoz, jó cselekedetekkel."
+        },
+        {
+          "number": 11,
+          "text": "Az asszony csendességben tanuljon teljes engedelmességgel."
+        },
+        {
+          "number": 12,
+          "text": "A tanítást pedig nem engedem meg az asszonynak, sem hogy a férfin uralkodjék, hanem legyen csendességben."
+        },
+        {
+          "number": 13,
+          "text": "Mert Ádám teremtetett elsőnek, azután Éva."
+        },
+        {
+          "number": 14,
+          "text": "És Ádám nem csalattatott meg, hanem az asszony megcsalattatván, bűnbe esett:"
+        },
+        {
+          "number": 15,
+          "text": "Mindazáltal megtartatik a gyermekszüléskor, ha megmaradnak a hitben és szeretetben és a szent életben mértékletességgel."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Igaz ez a beszéd: Ha valaki püspökséget kiván, jó dolgot kíván."
+        },
+        {
+          "number": 2,
+          "text": "Szükséges annakokáért, hogy a püspök feddhetetlen legyen, egy feleségű férfiú, józan, mértékletes illedelmes, vendégszerető, a tanításra alkalmatos;"
+        },
+        {
+          "number": 3,
+          "text": "Nem borozó, nem verekedő, nem rút nyereségre vágyó; hanem szelíd, versengéstől ment, nem pénzsóvárgó;"
+        },
+        {
+          "number": 4,
+          "text": "Ki a maga házát jól igazgatja, gyermekeit engedelmességben tartja, minden tisztességgel;"
+        },
+        {
+          "number": 5,
+          "text": "(Mert ha valaki az ő tulajdon házát nem tudja igazgatni, mimódon visel gondot az Isten egyházára?)"
+        },
+        {
+          "number": 6,
+          "text": "Ne legyen új ember, nehogy felfuvalkodván, az ördög kárhozatába essék."
+        },
+        {
+          "number": 7,
+          "text": "Szükséges pedig, hogy jó bizonysága is legyen a kívülvalóktól; hogy gyalázatba és az ördög tőribe ne essék."
+        },
+        {
+          "number": 8,
+          "text": "Hasonlóképpen a diakónusok tisztességesek legyenek, nem kétnyelvűek, nem sok borivásba merültek, nem rút nyereségre vágyók;"
+        },
+        {
+          "number": 9,
+          "text": "Kiknél megvan a hit titka tiszta lelkiismerettel."
+        },
+        {
+          "number": 10,
+          "text": "És ezek is először megpróbáltassanak, azután szolgáljanak, ha feddhetetlenek."
+        },
+        {
+          "number": 11,
+          "text": "Feleségeik hasonlóképen tisztességesek, nem patvarkodók, józanok, mindenben hívek legyenek."
+        },
+        {
+          "number": 12,
+          "text": "A diakónusok egy feleségű férfiak legyenek, a kik gyermekeiket és tulajdon házaikat jól igazgatják."
+        },
+        {
+          "number": 13,
+          "text": "Mert a kik jól szolgálnak, szép tisztességet szereznek magoknak, és sok bizodalmat a Jézus Krisztusban való hitben."
+        },
+        {
+          "number": 14,
+          "text": "Ezeket írom néked, remélvén, hogy nem sokára hozzád megyek;"
+        },
+        {
+          "number": 15,
+          "text": "De ha késném, hogy tudd meg, mimódon kell forgolódni az Isten házában, mely az élő Istennek egyháza, az igazságnak oszlopa és erőssége."
+        },
+        {
+          "number": 16,
+          "text": "És minden versengés nélkül nagy a kegyességnek eme titka: Isten megjelent testben, megigazíttatott lélekben, megláttatott az angyaloktól, hirdettetett a pogányok közt, hittek benne a világon, felvitetett dicsőségbe."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A Lélek pedig nyilván mondja, hogy az utolsó időben némelyek elszakadnak a hittől, hitető lelkekre és gonosz lelkek tanításaira figyelmezvén."
+        },
+        {
+          "number": 2,
+          "text": "Hazug beszédűeknek képmutatása által, kik meg vannak bélyegezve a saját lelkiismeretökben."
+        },
+        {
+          "number": 3,
+          "text": "A kik tiltják a házasságot, sürgetik az eledelektől való tartózkodást, melyeket Isten teremtett hálaadással való élvezésre a hívőknek és azoknak, a kik megismerték az igazságot."
+        },
+        {
+          "number": 4,
+          "text": "Mert Istennek minden teremtett állata jó, és semmi sem megvetendő, ha hálaadással élnek azzal;"
+        },
+        {
+          "number": 5,
+          "text": "Mert megszenteltetik Istennek ígéje és könyörgés által."
+        },
+        {
+          "number": 6,
+          "text": "Ezeket ha eleikbe adod az atyafiaknak, Krisztus Jézusnak jó szolgája leszel, táplálkozván a hitnek és jó tudománynak beszédeivel, a melyet követtél;"
+        },
+        {
+          "number": 7,
+          "text": "A szentségtelen és vénasszonyos meséket pedig eltávoztasd. Hanem gyakorold magadat a kegyességre:"
+        },
+        {
+          "number": 8,
+          "text": "Mert a test gyakorlásának kevés haszna van; de a kegyesség mindenre hasznos, meglévén benne a jelenvaló és a jövő életnek ígérete."
+        },
+        {
+          "number": 9,
+          "text": "Igaz ez a beszéd, és méltó, hogy mindenképpen elfogadjuk."
+        },
+        {
+          "number": 10,
+          "text": "Mert azért fáradunk és szenvedünk szidalmakat, mivelhogy reménységünket vetettük az élő Istenben, a ki minden embernek megtartója, kiváltképen a hívőknek."
+        },
+        {
+          "number": 11,
+          "text": "Ezeket hirdessed és tanítsad."
+        },
+        {
+          "number": 12,
+          "text": "Senki a te ifjúságodat meg ne vesse, hanem légy példa a hívőknek a beszédben, a magaviseletben, a szeretetben, a lélekben, a hitben, a tisztaságban."
+        },
+        {
+          "number": 13,
+          "text": "A míg oda megyek, legyen gondod a felolvasásra, az intésre és a tanításra."
+        },
+        {
+          "number": 14,
+          "text": "Meg ne vesd a kegyelemnek benned való ajándékát, a mely adatott néked prófétálás által, a presbitérium kezeinek reád tevésével."
+        },
+        {
+          "number": 15,
+          "text": "Ezekről gondoskodjál, ezeken légy, hogy előhaladásod nyilvánvaló legyen mindenek előtt."
+        },
+        {
+          "number": 16,
+          "text": "Gondot viselj magadról és a tudományról; maradj meg azokban; mert ezt cselekedvén, mind magadat megtartod, mind a te hallgatóidat."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az idősb embert ne dorgáld meg, hanem intsed mint atyádat; az ifjabbakat mint atyádfiait;"
+        },
+        {
+          "number": 2,
+          "text": "Az idősb asszonyokat mint anyákat; az ifjabbakat mint nőtestvéreidet, teljes tisztasággal."
+        },
+        {
+          "number": 3,
+          "text": "Az özvegyasszonyokat, a kik valóban özvegyek, tiszteld."
+        },
+        {
+          "number": 4,
+          "text": "Ha pedig valamely özvegyasszonynak gyermekei vagy unokái vannak, tanulják meg, hogy első sorban a maguk háza iránt legyenek istenfélők, és adják meg szüleiknek a viszont tartozást; mert ez szép és kedves dolog Isten előtt."
+        },
+        {
+          "number": 5,
+          "text": "A valóban özvegy és magára hagyatott asszony pedig reménységét az Istenben veti, és foglalatos a könyörgésekben és imádságokban éjjel és nappal."
+        },
+        {
+          "number": 6,
+          "text": "A bujálkodó pedig élvén megholt."
+        },
+        {
+          "number": 7,
+          "text": "És ezeket hirdesd, hogy feddhetetlenek legyenek."
+        },
+        {
+          "number": 8,
+          "text": "Ha pedig valaki az övéiről és főképen az ő házanépéről gondot nem visel: a hitet megtagadta, és rosszabb a hitetlennél."
+        },
+        {
+          "number": 9,
+          "text": "Özvegyasszonyul hatvan éven alul levő meg ne választassék; egy férj felesége lett légyen,"
+        },
+        {
+          "number": 10,
+          "text": "A kinek jó cselekedetekről bizonysága van; ha gyermeket nevelt, ha vendéglátó volt, ha a szentek lábait mosta, ha a nyomorultakon segített, ha minden jó cselekedetben foglalatos vala."
+        },
+        {
+          "number": 11,
+          "text": "A fiatalabb özvegyasszonyokat pedig mellőzd; mert ha gerjedeznek Krisztus ellenére, férjhez akarnak menni:"
+        },
+        {
+          "number": 12,
+          "text": "Ezeknek ítélete megvan, mivelhogy az első hitet megvetették."
+        },
+        {
+          "number": 13,
+          "text": "Egyszersmind pedig dologkerülők lévén, megtanulják a házról-házra való járogatást; sőt nemcsak dologkerülők, hanem fecsegők is és más dolgába avatkozók, olyanokat szólván, a miket nem kellene."
+        },
+        {
+          "number": 14,
+          "text": "Akarom tehát, hogy a fiatalabbak férjhez menjenek, gyermekeket szűljenek, háztartást vigyenek, és semminemű alkalmat se adjanak az ellenségnek a szidalmazásra."
+        },
+        {
+          "number": 15,
+          "text": "Mert némelyek már elhajlottak a Sátánhoz."
+        },
+        {
+          "number": 16,
+          "text": "Ha valamely hívő férfinak vagy nőnek vannak özvegyei, segítse azokat, és ne terheltessék meg a gyülekezet; hogy azokat segíthesse, a kik valóban özvegyek."
+        },
+        {
+          "number": 17,
+          "text": "A jól forgolódó presbiterek kettős tisztességre méltattassanak, főképen a kik a beszédben és tanításban fáradoznak."
+        },
+        {
+          "number": 18,
+          "text": "Mert azt mondja az Írás: A nyomtató ökörnek ne kösd be a száját; és: Méltó a munkás a maga jutalmára."
+        },
+        {
+          "number": 19,
+          "text": "Presbiter ellen vádat ne fogadj el, hanem csak két vagy három tanúbizonyságra."
+        },
+        {
+          "number": 20,
+          "text": "A vétkeseket mindenek előtt fedd meg, hogy a többiek is megfélemljenek."
+        },
+        {
+          "number": 21,
+          "text": "Kérve kérlek az Istenre és Krisztus Jézusra és a kiválasztott angyalokra, hogy ezeket tartsd meg előítélet nélkül, semmit sem cselekedvén részrehajlásból."
+        },
+        {
+          "number": 22,
+          "text": "A kézrátevést el ne hirtelenkedd, se ne légy részes a más bűneiben; tenmagadat tisztán tartsd."
+        },
+        {
+          "number": 23,
+          "text": "Ne légy tovább vízivó, hanem élj egy kevés borral, gyomrodra és gyakori gyengélkedésedre való tekintetből."
+        },
+        {
+          "number": 24,
+          "text": "Némely embereknek a bűnei nyilvánvalók, előttök mennek az ítéletre; némelyeket pedig hátul követnek is."
+        },
+        {
+          "number": 25,
+          "text": "Hasonlóképen a jó cselekedetek is nyilvánvalók; és a melyek másképen vannak, azok sem titkolhatók el."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A kik iga alatt vannak mint szolgák, az ő uraikat minden tisztességre méltóknak tekintsék, hogy Isten neve és a tudomány ne káromoltassék."
+        },
+        {
+          "number": 2,
+          "text": "A kiknek pedig hívő uraik vannak, azokat meg ne vessék, mivelhogy atyafiak; hanem annál inkább szolgáljanak, mivelhogy hívők és szeretettek, kik a jótevésben buzgólkodnak. Ezekre taníts és ints."
+        },
+        {
+          "number": 3,
+          "text": "Ha valaki másképen tanít, és nem követi a mi Urunk Jézus Krisztus egészséges beszédeit és a kegyesség szerint való tudományt,"
+        },
+        {
+          "number": 4,
+          "text": "Az felfuvalkodott, a ki semmit sem ért, hanem vitatkozásokban és szóharczokban szenved, a melyekből származik irígység, viszálykodás, káromlások, rosszakaratú gyanúsítások,"
+        },
+        {
+          "number": 5,
+          "text": "Megbomlott elméjű és az igazságtól megfosztott embereknek hiábavaló torzsalkodásai a kik az istenfélelmet nyerekedésnek tekintik. Azoktól, a kik ilyenek, eltávozzál."
+        },
+        {
+          "number": 6,
+          "text": "De valóban nagy nyereség az Istenfélelem, megelégedéssel;"
+        },
+        {
+          "number": 7,
+          "text": "Mert semmit sem hoztunk a világra, világos, hogy ki sem vihetünk semmit;"
+        },
+        {
+          "number": 8,
+          "text": "De ha van élelmünk és ruházatunk, elégedjünk meg vele."
+        },
+        {
+          "number": 9,
+          "text": "A kik pedig meg akarnak gazdagodni, kísértetbe meg tőrbe és sok esztelen és káros kívánságba esnek, melyek az embereket veszedelembe és romlásba merítik."
+        },
+        {
+          "number": 10,
+          "text": "Mert minden rossznak gyökere a pénz szerelme: mely után sóvárogván némelyek eltévelyedtek a hittől, és magokat általszegezték sok fájdalommal."
+        },
+        {
+          "number": 11,
+          "text": "De te, óh Istennek embere, ezeket kerüld; hanem kövessed az igazságot, az istenfélelmet, a hitet, a szeretetet, a békességes tűrést, a szelídséget."
+        },
+        {
+          "number": 12,
+          "text": "Harczold meg a hitnek szép harczát, nyerd el az örök életet, a melyre hívattattál, és szép vallástétellel vallást tettél sok bizonyság előtt."
+        },
+        {
+          "number": 13,
+          "text": "Meghagyom néked Isten előtt, a ki megelevenít mindeneket, és Krisztus Jézus előtt, a ki bizonyságot tett Ponczius Pilátus alatt ama szép vallástétellel,"
+        },
+        {
+          "number": 14,
+          "text": "Hogy tartsd meg a parancsolatot mocsoktalanul, feddhetetlenül a mi Urunk Jézus Krisztus megjelenéséig,"
+        },
+        {
+          "number": 15,
+          "text": "A mit a maga idejében megmutat ama boldog és egyedül hatalmas, a királyoknak Királya és az uraknak Ura,"
+        },
+        {
+          "number": 16,
+          "text": "Kié egyedül a halhatatlanság, a ki hozzáférhetetlen világosságban lakozik; a kit az emberek közül senki nem látott, sem nem láthat: a kinek tisztesség és örökké való hatalom. Ámen."
+        },
+        {
+          "number": 17,
+          "text": "Azoknak, a kik gazdagok e világon, mondd meg, hogy ne fuvalkodjanak fel, se ne reménykedjenek a bizonytalan gazdagságban, hanem az élő Istenben, a ki bőségesen megad nékünk mindent a mi tápláltatásunkra;"
+        },
+        {
+          "number": 18,
+          "text": "Hogy jót tegyenek, legyenek gazdagok a jó cselekedetekben, legyenek szíves adakozók, közlők,"
+        },
+        {
+          "number": 19,
+          "text": "Kincset gyűjtvén magoknak jó alapul a jövőre, hogy elnyerjék az örök életet."
+        },
+        {
+          "number": 20,
+          "text": "Óh Timótheus, őrizd meg a mi rád van bízva, elfordulván a szentségtelen üres beszédektől és a hamis nevű ismeretnek ellenvetéseitől;"
+        },
+        {
+          "number": 21,
+          "text": "A melylyel némelyek kevélykedvén, a hit mellől eltévelyedtek. Kegyelem veled! Ámen."
+        }
+      ]
+    }
+  ]
+}

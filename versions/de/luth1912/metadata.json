@@ -1,0 +1,18 @@
+{
+  "slug": "luth1912",
+  "shortName": "LUTH1912",
+  "name": "Lutherbibel 1912",
+  "language": "de",
+  "year": 1912,
+  "license": "public-domain",
+  "licenseNote": "Public domain (1912 revision of the Luther Bible).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/luth1912",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

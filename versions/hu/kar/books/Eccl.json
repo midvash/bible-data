@@ -1,0 +1,933 @@
+{
+  "version": "kar",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A prédikátornak, Dávid fiának, Jeruzsálem királyának beszédei."
+        },
+        {
+          "number": 2,
+          "text": "Felette nagy hiábavalóság, azt mondja a prédikátor; felette nagy hiábavalóság! Minden hiábavalóság!"
+        },
+        {
+          "number": 3,
+          "text": "Micsoda haszna van az embernek minden ő munkájában, melylyel munkálkodik a nap alatt?"
+        },
+        {
+          "number": 4,
+          "text": "Egyik nemzetség elmegy, és a másik eljő; a föld pedig mindörökké megmarad."
+        },
+        {
+          "number": 5,
+          "text": "És a nap feltámad, és elnyugszik a nap; és az ő helyére siet, a hol ő ismét feltámad."
+        },
+        {
+          "number": 6,
+          "text": "Siet délre, és átmegy észak felé; körbe-körbe siet a szél, és a maga keringéséhez visszatér a szél."
+        },
+        {
+          "number": 7,
+          "text": "Minden folyóvíz siet a tengerbe; mindazáltal a tenger mégis meg nem telik: akármicsoda helyre a folyóvizek siessenek, ugyanazon helyre térnek vissza."
+        },
+        {
+          "number": 8,
+          "text": "Minden dolgok mint fáradoznak, senki ki nem mondhatja; nem elégednék meg a szem látván, sem be nem teljesednék hallásával a fül."
+        },
+        {
+          "number": 9,
+          "text": "A mi volt, ugyanaz, a mi ezután is lesz, és a mi történt, ugyanaz, a mi ezután is történik; és semmi nincs új dolog a nap alatt."
+        },
+        {
+          "number": 10,
+          "text": "Van valami, a miről mondják: nézd ezt, új ez; régen volt már száz esztendőkön át, melyek mi előttünk voltak."
+        },
+        {
+          "number": 11,
+          "text": "Nincs emlékezet az előbbiekről; azonképen az utolsó dolgokról is, melyek jövendők, nem lesz emlékezet azoknál, a kik azután lesznek."
+        },
+        {
+          "number": 12,
+          "text": "Én prédikátor, királya voltam Izráelnek Jeruzsálemben."
+        },
+        {
+          "number": 13,
+          "text": "És adám az én elmémet mindazok vizsgálására és bölcsen való tudakozására, melyek lesznek az ég alatt. Ez gonosz hiábavaló foglalatosság, melyet adott Isten az emberek fiainak, hogy gyötrődjenek vele."
+        },
+        {
+          "number": 14,
+          "text": "Láttam minden dolgokat, melyek lesznek a nap alatt, és ímé minden csak hiábavalóság, és a léleknek gyötrelme!"
+        },
+        {
+          "number": 15,
+          "text": "Az egyenetlen meg nem egyenesíthető, és a fogyatkozás meg nem számlálható."
+        },
+        {
+          "number": 16,
+          "text": "Szóltam az én elmémmel, mondván: ímé, én nagygyá lettem, és gyűjtöttem bölcseséget mindazok felett, a kik fők voltak én előttem Jeruzsálemben, és az én elmém bőven látott bölcseséget és tudományt!"
+        },
+        {
+          "number": 17,
+          "text": "Adtam annakfelette az én elmémet a bölcseségnek tudására, és az esztelenségnek és bolondságnak megtudására. Megtudtam, hogy ez is a lélek gyötrelme."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mert a bölcsességnek sokaságában sok búsulás van, és valaki öregbíti a tudományt, öregbíti a gyötrelmet."
+        },
+        {
+          "number": 2,
+          "text": "Mondék az én szívemben: no, megpróbállak téged a vígan való lakásban, hogy lásd meg, mi a jó! És ímé, az is hiábavalóság!"
+        },
+        {
+          "number": 3,
+          "text": "A nevetésről azt mondom: bolondság! a vígasságról pedig: mit használ az?"
+        },
+        {
+          "number": 4,
+          "text": "Elvégezém az én szívemben, hogy boritalra adom magamat, (pedig szívem a bölcseséget követé) és előveszem ezt a bolondságot, mígnem meglátom, hogy az emberek fiainak mi volna jó, a mit cselekedjenek az ég alatt, az életök napjainak száma szerint."
+        },
+        {
+          "number": 5,
+          "text": "Felette nagy dolgokat cselekedtem; építék magamnak házakat; ülteték magamnak szőlőket."
+        },
+        {
+          "number": 6,
+          "text": "Csinálék magamnak kerteket és ékességre való kerteket, és ülteték beléjök mindenféle gyümölcstermő fákat."
+        },
+        {
+          "number": 7,
+          "text": "Csinálék magamnak víztartó tavakat, hogy azokból öntözzem a fáknak sarjadó erdejét."
+        },
+        {
+          "number": 8,
+          "text": "Szerzék szolgákat és szolgálókat, házamnál nevekedett szolgáim is voltak nékem; öreg és apró barmoknak nyájaival is többel bírtam mindazoknál, a kik voltak én előttem Jeruzsálemben."
+        },
+        {
+          "number": 9,
+          "text": "Gyűjték magamnak ezüstöt és aranyat is, és királyok drágaságait és tartományokat; szerzék magamnak éneklő férfiakat és éneklő asszonyokat, és az emberek fiainak gyönyörűségit, asszonyt és asszonyokat."
+        },
+        {
+          "number": 10,
+          "text": "És nagygyá levék és megnevekedém mindazok felett, a kik előttem voltak Jeruzsálemben; az én bölcseségem is helyén volt."
+        },
+        {
+          "number": 11,
+          "text": "Valamit kivánnak vala az én szemeim: meg nem fogtam azoktól, meg sem tartóztattam az én szívemet semmi vígasságtól, hanem az én szívem örvendezett minden én munkámmal gyűjtött jókban; mivelhogy ez volt az én részem minden én munkáimból."
+        },
+        {
+          "number": 12,
+          "text": "És tekinték minden dolgaimra, melyeket cselekedtek vala az én kezeim, és az én munkámra, mit fáradsággal végeztem vala; és ímé, az mind hiábavalóság és a léleknek gyötrelme, és nincsen annak semmi haszna a nap alatt!"
+        },
+        {
+          "number": 13,
+          "text": "Azért fordulék én, hogy lássak bölcseséget és bolondságot és esztelenséget, az az hogy mit cselekesznek az emberek, a kik a király után következnek: azt, a mit régen cselekedtek."
+        },
+        {
+          "number": 14,
+          "text": "És látám, hogy hasznosb a bölcseség a bolondságnál, miképen hasznosb a világosság a setétségnél."
+        },
+        {
+          "number": 15,
+          "text": "A bölcsnek szemei vannak a fejében; a bolond pedig setétben jár; de ugyan én megismerém, hogy ugyanazon egy végök lesz mindezeknek."
+        },
+        {
+          "number": 16,
+          "text": "Annakokáért mondám az én elmémben: bolondnak állapotja szerint lesz az én állapotom is, miért valék tehát én is bölcsebb? és mondék az én elmémben: ez is hiábavalóság!"
+        },
+        {
+          "number": 17,
+          "text": "Mert nem lesz emlékezete sem a bölcsnek, sem a bolondnak mindörökké; mivelhogy a következendő időkben már mind elfelejtetnek: és miképen meghal a bölcs, azonképen meghal a bolond is."
+        },
+        {
+          "number": 18,
+          "text": "Azért gyűlöltem az életet; mert gonosznak látszék nékem a dolog, a mi történik a nap alatt; mert mindez hiábavalóság, és a léleknek gyötrelme!"
+        },
+        {
+          "number": 19,
+          "text": "Gyűlöltem én minden munkámat is, melyet munkálkodom a nap alatt; mivelhogy el kell hagynom azt oly embernek, a ki én utánam lesz."
+        },
+        {
+          "number": 20,
+          "text": "És ki tudja, ha bölcs lesz-é vagy bolond? és mégis uralkodik minden munkámon, a mit cselekedtem és bölcsen szerzettem a nap alatt! Ez is hiábavalóság!"
+        },
+        {
+          "number": 21,
+          "text": "Annakokáért elfordulék én, megfogván reménységtől az én szívemet minden munkám felől, melylyel munkálódtam a nap alatt."
+        },
+        {
+          "number": 22,
+          "text": "Mert van oly ember, a kinek munkája elvégeztetett bölcseséggel, tudománynyal és jó kimenetellel; és oly embernek adja azt örökségül, a ki abban semmit sem munkálkodott. Ez is hiábavalóság és nagy gonosz!"
+        },
+        {
+          "number": 23,
+          "text": "Mert micsoda marad meg az embernek minden ő munkájából és elméjének nyughatatlan fáradozásából, melylyel ő munkálódott a nap alatt?"
+        },
+        {
+          "number": 24,
+          "text": "Holott minden napja bánat, és búsulás az ő foglalatossága, még éjjel is nem nyugodott az ő elméje. Ez is hiábavalóság!"
+        },
+        {
+          "number": 25,
+          "text": "Nincsen csak e jó is az embernek hatalmában, hogy egyék, igyék, és azt cselekedje, hogy az ő szíve lakozzék gyönyörűséggel az ő munkájából; ezt is láttam én, hogy az Istennek kezében van."
+        },
+        {
+          "number": 26,
+          "text": "Mert kicsoda ehetnék és élhetne gyönyörűségére rajtam kivül?  Mert az embernek, a ki jó az ő szemei előtt, adott Isten bölcseséget és tudományt és örömöt; a bűnösnek pedig adott foglalatosságot az egybegyűjtésre és az egybehordásra, hogy adja annak, a ki jó az Isten előtt. Ez is hiábavalóság és az elmének gyötrelme!"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mindennek rendelt ideje van, és ideje van az ég alatt minden akaratnak."
+        },
+        {
+          "number": 2,
+          "text": "Ideje van a születésnek és ideje a meghalásnak; ideje az ültetésnek, ideje annak kiszaggatásának, a mi ültettetett."
+        },
+        {
+          "number": 3,
+          "text": "Ideje van a megölésnek és ideje a meggyógyításnak; ideje a rontásnak és ideje az építésnek."
+        },
+        {
+          "number": 4,
+          "text": "Ideje van a sírásnak és ideje a nevetésnek; ideje a jajgatásnak és ideje a szökdelésnek."
+        },
+        {
+          "number": 5,
+          "text": "Ideje van a kövek elhányásának és ideje a kövek egybegyűjtésének; ideje az ölelgetésnek és ideje az ölelgetéstől való eltávozásnak."
+        },
+        {
+          "number": 6,
+          "text": "Ideje van a keresésnek és ideje a vesztésnek; ideje a megőrzésnek és ideje az eldobásnak."
+        },
+        {
+          "number": 7,
+          "text": "Ideje van a szakgatásnak és ideje a megvarrásnak; ideje a hallgatásnak és ideje a szólásnak."
+        },
+        {
+          "number": 8,
+          "text": "Ideje van a szeretésnek és ideje a gyűlölésnek; ideje a hadakozásnak és ideje a békességnek."
+        },
+        {
+          "number": 9,
+          "text": "Micsoda haszna van a munkásnak abban, a miben ő munkálkodik?"
+        },
+        {
+          "number": 10,
+          "text": "Láttam a foglalatosságot, melyet adott Isten az emberek fiainak, hogy fáradozzanak benne."
+        },
+        {
+          "number": 11,
+          "text": "Mindent szépen csinált az ő idejében, e világot is adta az emberek elméjébe, csakhogy úgy, hogy az ember meg nem foghatja mindazt a dolgot, a mit az Isten cselekszik kezdettől fogva mindvégig."
+        },
+        {
+          "number": 12,
+          "text": "Megismertem, hogy nem tehetnek jobbat, mint hogy örvendezzen kiki, és hogy a maga javát cselekedje az ő életében."
+        },
+        {
+          "number": 13,
+          "text": "De még az is, hogy az ember eszik és iszik, és jól él az ő egész munkájából, az Istennek ajándéka."
+        },
+        {
+          "number": 14,
+          "text": "Tudom, hogy valamit Isten cselekszik, az lesz örökké, ahhoz nincs mit adni és abból nincs mit elvenni; és az Isten ezt a végre míveli, hogy az ő orczáját rettegjék."
+        },
+        {
+          "number": 15,
+          "text": "A mi most történik, régen megvan, és a mi következik, immár megvolt, és az Isten visszahozza, a mi elmult."
+        },
+        {
+          "number": 16,
+          "text": "Láttam annakfelette a nap alatt, hogy az ítéletnek helyén hamisság, és az igazságnak helyén latorság van."
+        },
+        {
+          "number": 17,
+          "text": "És mondék magamban: az igazat és a hamisat megítéli az Isten; mert minden ember akaratjának ideje van, és minden dolognak ő nála."
+        },
+        {
+          "number": 18,
+          "text": "Így szólék azért magamban: az emberek fiai miatt van ez így, hogy kiválogassa őket az Isten, és hogy meglássák, hogy ők magokban véve az oktalan állatokhoz hasonlók."
+        },
+        {
+          "number": 19,
+          "text": "Az emberek fiainak vége hasonló az oktalan állatnak végéhez, és egyenlő végök van azoknak; a mint meghal egyik, úgy meghal a másik is, és ugyanazon egy lélek van mindenikben; és az embernek nagyobb méltósága nincs az oktalan állatoknál, mert minden hiábavalóság."
+        },
+        {
+          "number": 20,
+          "text": "Mindenik ugyanazon egy helyre megy; mindenik a porból való, és mindenik porrá lesz."
+        },
+        {
+          "number": 21,
+          "text": "Vajjon kicsoda vette eszébe az ember lelkét, hogy felmegy-é; és az oktalan állat lelkét, hogy a föld alá megy-é?"
+        },
+        {
+          "number": 22,
+          "text": "Azért úgy láttam, hogy semmi sincs jobb, mint hogy az ember örvendezzen az ő dolgaiban, mivelhogy ez az ő része e világban: mert ki hozhatja őt vissza, hogy lássa, mi lesz ő utána?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Viszont látám én mind a nyomorgatásokat, a melyek a nap alatt történnek, és ímé, nyilván van azoknak, a kik nyomorgattatnak, könnyhullatások, és vígasztalójok nincs nékik; és az őket nyomorgatóknak kezekből erőszaktételt szenvednek, és vígasztalójuk nincs nékik."
+        },
+        {
+          "number": 2,
+          "text": "És dicsérém én a megholtakat, a kik már meghaltak vala, az élők felett, a kik még élnek;"
+        },
+        {
+          "number": 3,
+          "text": "De mind a kettőnél boldogabbnak azt, a ki még nem lett, a ki nem látta azt a gonosz dolgot, a mely a nap alatt történik."
+        },
+        {
+          "number": 4,
+          "text": "És látám én, hogy minden dolgát és minden ügyes cselekedetét az ember az ő felebarátja iránt való irígységből rendeli; annakokáért ez is hiábavalóság és lélek-fájdalom!"
+        },
+        {
+          "number": 5,
+          "text": "A bolond egybekapcsolja a kezeit, és megemészti a maga testét."
+        },
+        {
+          "number": 6,
+          "text": "Jobb egy teljes marok nyugalommal, mint mind a két maroknak teljessége nagy munkával és lelki gyötrelemmel."
+        },
+        {
+          "number": 7,
+          "text": "Viszont láték a nap alatt más hiábavalóságot."
+        },
+        {
+          "number": 8,
+          "text": "Van oly ember, a ki egymaga van és nincs vele másik, sem fia, sem atyjafia nincs; mindazáltal nincs vége minden ő fáradságának, és az ő szeme is meg nem elégszik gazdagsággal, hogy azt mondaná: vajjon kinek munkálkodom, hogy az én lelkemet minden jótól megfosztom? Ez is hiábavalóság és gonosz foglalatosság!"
+        },
+        {
+          "number": 9,
+          "text": "Sokkal jobban van dolga a kettőnek, hogynem az egynek; mert azoknak jó jutalmok vala az ő munkájokból."
+        },
+        {
+          "number": 10,
+          "text": "Mert ha elesnek is, az egyik felemeli a társát. Jaj pedig az egyedülvalónak, ha elesik, és nincsen, a ki őt felemelje."
+        },
+        {
+          "number": 11,
+          "text": "Hogyha együtt feküsznek is ketten, megmelegszenek; az egyedülvaló pedig mimódon melegedhetik meg?"
+        },
+        {
+          "number": 12,
+          "text": "Ha az egyiket megtámadja is valaki, ketten ellene állhatnak annak; és a hármas kötél nem hamar szakad el."
+        },
+        {
+          "number": 13,
+          "text": "Jobb a szűkölködő, de bölcs gyermek a vén és bolond királynál, a ki nem szenvedi el az intést többé."
+        },
+        {
+          "number": 14,
+          "text": "Mert az a fogságból is uralkodásra megy, holott ennek országában szegénységben született."
+        },
+        {
+          "number": 15,
+          "text": "Láttam a nap alatt járó minden élőket a második gyermek mellett; a ki amannak helyére lépendő vala."
+        },
+        {
+          "number": 16,
+          "text": "És hogy az egész sokaságnak nincs vége, mindazoknak, a kiknek ő élén volt; mindazáltal az utánok valók már semmit nem örvendeztek ő benne. Mert ez is hiábavalóság és lelki gyötrelem!"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Őrizd meg lábaidat, mikor az Istennek házához mégy, mert hallgatás végett közeledned jobb, hogynem a bolondok módja szerint áldozatot adni; mert ezek nem tudják, hogy gonoszt cselekesznek."
+        },
+        {
+          "number": 2,
+          "text": "Ne gyorsalkodjál a te száddal, és a te elméd ne siessen valamit szólni Isten előtt; mert az Isten mennyben van, te pedig e földön, azért a te beszéded kevés legyen;"
+        },
+        {
+          "number": 3,
+          "text": "Mert álom szokott következni a sok foglalatosságból; és a sok beszédből bolond beszéd."
+        },
+        {
+          "number": 4,
+          "text": "Mikor Istennek fogadást téssz, ne halogasd annak megadását; mert nem gyönyörködik a bolondokban. A mit fogadsz, megteljesítsd!"
+        },
+        {
+          "number": 5,
+          "text": "Jobb hogy ne fogadj, hogynem mint fogadj és ne teljesítsd be."
+        },
+        {
+          "number": 6,
+          "text": "Ne engedd a te szádnak, hogy bűnre kötelezze testedet, és ne mondd az angyal előtt, hogy tévedésből esett ez; hogy az Isten a te beszéded miatt fel ne háborodjék, és el ne veszesse a te kezeidnek munkáját."
+        },
+        {
+          "number": 7,
+          "text": "Mert a sok álomban a hiábavalóság is és a beszéd is sok; hanem az Istent féljed."
+        },
+        {
+          "number": 8,
+          "text": "Ha a szegényeknek nyomoríttatását, és a törvénynek és igazságnak elfordíttatását látod a tartományban: ne csudálkozzál e dolgon; mert egyik felsőrendű vigyáz a másik felsőrendűre, és ezek felett még felsőbbrendűek vannak."
+        },
+        {
+          "number": 9,
+          "text": "Az ország haszna pedig mindenekfelett a földmívelést kedvelő király."
+        },
+        {
+          "number": 10,
+          "text": "A ki szereti a pénzt, nem telik be pénzzel, és a ki szereti a sokaságot nem telik be jövedelemmel. Ez is hiábavalóság."
+        },
+        {
+          "number": 11,
+          "text": "Mikor megszaporodik a jószág, megszaporodnak annak megemésztői is; mi haszna van azért benne urának, hanem hogy csak reá néz szemeivel?"
+        },
+        {
+          "number": 12,
+          "text": "Édes az álom a munkásnak, akár sokat, akár keveset egyék; a gazdagnak pedig bővölködése nem hagyja őt aludni."
+        },
+        {
+          "number": 13,
+          "text": "Van gonosz nyavalya, a melyet láttam a nap alatt: az ő urának veszedelmére tartott gazdagság;"
+        },
+        {
+          "number": 14,
+          "text": "Ugyanis az a gazdagság elvész valami szerencsétlen eset miatt, és ha fia született néki, annak kezében nem lesz semmi."
+        },
+        {
+          "number": 15,
+          "text": "A mint kijött az ő anyjának méhéből, mezítelen megy ismét el, a mint jött vala: és semmit nem vesz el munkájáért, a mit kezében elvinne."
+        },
+        {
+          "number": 16,
+          "text": "Annakokáért ez is gonosz nyavalya, hogy a mint jött, a képen megy el. Mi haszna van néki abban, hogy a szélnek munkálkodott?"
+        },
+        {
+          "number": 17,
+          "text": "És hogy az ő teljes életében a setétben evett, sokszori haraggal, keserűséggel és búsulással?"
+        },
+        {
+          "number": 18,
+          "text": "Ez azért a jó, a melyet én láttam, hogy szép dolog enni és inni, és jól élni minden ő munkájából, a melylyel fárasztotta magát a nap alatt, az ő élete napjainak száma szerint, a melyeket adott néki az Isten; mert ez az ő része."
+        },
+        {
+          "number": 19,
+          "text": "És a mely embernek adott Isten gazdagságot és kincseket, és a kinek megengedte, hogy egyék abból és az ő részét elvegye, és örvendezzen az ő munkájának: ez az Istennek ajándéka!"
+        },
+        {
+          "number": 20,
+          "text": "Mert nem sokat emlékezik meg az ilyen az ő élete napjainak számáról, mivelhogy az ő szívének örömét az Isten kedveli."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Van egy gonosz, a melyet láttam a nap alatt, és nagy baj az az emberen;"
+        },
+        {
+          "number": 2,
+          "text": "Mikor valakinek az Isten ád gazdagságot és kincseket és tisztességet, és semmi nélkül nem szűkölködik, valamit kivánhat lelkének, és az Isten nem engedi néki, hogy éljen azzal, hanem más ember él azzal: ez hiábavalóság és gonosz nyavalya!"
+        },
+        {
+          "number": 3,
+          "text": "Ha száz gyermeket szül is valaki, és sok esztendeig él, úgy hogy az ő esztendeinek napja sok, de az ő lelke a jóval meg nem elégszik, és nem lesz temetése néki: azt mondom, hogy jobb annál az idétlen gyermek,"
+        },
+        {
+          "number": 4,
+          "text": "Mert hiábavalóságra jött, setétségben megy el, és setétséggel fedeztetik be neve,"
+        },
+        {
+          "number": 5,
+          "text": "A napot sem látta és nem ismerte; tűrhetőbb ennek állapotja, hogynem amannak."
+        },
+        {
+          "number": 6,
+          "text": "Hogyha kétezer esztendőt élt volna is, és a jóval nem élt: avagy nem ugyanazon egy helyre megy-é minden?"
+        },
+        {
+          "number": 7,
+          "text": "Az embernek minden munkája szájáért van; mindazáltal az ő kívánsága be nem telik."
+        },
+        {
+          "number": 8,
+          "text": "Mert miben különbözik a bölcs a bolondtól, és miben a szegény, a ki az élők előtt járni tud?"
+        },
+        {
+          "number": 9,
+          "text": "Jobb, a mit ember szemmel lát, hogynem a lélek kivánsága; ez is hiábavalóság és a léleknek gyötrelme!"
+        },
+        {
+          "number": 10,
+          "text": "Valami van, régen ráadatott nevezete, és bizonyos dolog, hogy mi lesz az ember, és nem perlekedhetik azzal, a ki hatalmasb nálánál."
+        },
+        {
+          "number": 11,
+          "text": "Mert van sok beszéd, a mely a hiábavalóságot szaporítja; és mi haszna van az embernek abban?"
+        },
+        {
+          "number": 12,
+          "text": "Mert kicsoda tudhatja, mi legyen az embernek jó e világon, az ő hiábavaló élete napjainak száma szerint, a melyeket mintegy árnyékot tölt el? Kicsoda az, a ki megmondhatná az embernek, mi következik ő utána a nap alatt?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jobb a jó hír a drága kenetnél; és a halálnak napja jobb az ő születésének napjánál."
+        },
+        {
+          "number": 2,
+          "text": "Jobb a siralmas házhoz menni, hogynem a lakodalomnak házához menni; mivelhogy minden embernek ez a vége, és az élő ember megemlékezik arról."
+        },
+        {
+          "number": 3,
+          "text": "Jobb a szomorúság a nevetésnél; mert az orczának szomorúsága által jobbá lesz a szív."
+        },
+        {
+          "number": 4,
+          "text": "A bölcseknek elméje a siralmas házban van, a bolondoknak pedig elméje a vígasságnak házában."
+        },
+        {
+          "number": 5,
+          "text": "Jobb a bölcsnek dorgálását hallani, hogynem valaki hallja a bolondoknak éneklését."
+        },
+        {
+          "number": 6,
+          "text": "Mert olyan a bolondnak nevetése, mint a tövisnek ropogása a fazék alatt; ez is hiábavalóság!"
+        },
+        {
+          "number": 7,
+          "text": "Mert a zsarolás megbolondítja a bölcs embert is, és az elmét elveszti az ajándék."
+        },
+        {
+          "number": 8,
+          "text": "Jobb akármi dolognak vége annak kezdetinél; jobb a tűrő, hogynem a kevély."
+        },
+        {
+          "number": 9,
+          "text": "Ne légy hirtelen a lelkedben a haragra; mert a harag a bolondok kebelében nyugszik."
+        },
+        {
+          "number": 10,
+          "text": "Ne mondd ezt: mi az oka, hogy a régi napok jobbak voltak ezeknél? mert nem bölcseségből származik az ilyen kérdés."
+        },
+        {
+          "number": 11,
+          "text": "Jó a bölcseség az örökséggel, és előmenetelökre van az embereknek, a kik a napot látják."
+        },
+        {
+          "number": 12,
+          "text": "Mert a bölcseségnek árnyéka alatt, és a gazdagságnak árnyéka alatt egyformán nyugszik az ember! de a tudomány hasznosb, mivelhogy a bölcseség életet ád az ő urainak."
+        },
+        {
+          "number": 13,
+          "text": "Tekintsd meg az Istennek cselekedetit; mert kicsoda teheti egyenessé, a mit ő görbévé tett?"
+        },
+        {
+          "number": 14,
+          "text": "A jó szerencsének idején élj a jóval; a gonosz szerencsének idején pedig jusson eszedbe, hogy ezt is, épen úgy, mint azt, Isten szerzette, a végre, hogy az ember semmit abból eszébe ne vegyen, a mi reá következik."
+        },
+        {
+          "number": 15,
+          "text": "Mindent láttam az én hiábavalóságomnak napjain: van oly igaz, a ki az ő igazságában elvész; és van gonosz ember, a ki az ő életének napjait meghosszabbítja az ő gonoszságában."
+        },
+        {
+          "number": 16,
+          "text": "Ne légy felettébb igaz, és felettébb ne bölcselkedjél; miért keresnél magadnak veszedelmet?"
+        },
+        {
+          "number": 17,
+          "text": "Ne légy felettébb gonosz, és ne légy balgatag; miért halnál meg időd előtt?"
+        },
+        {
+          "number": 18,
+          "text": "Jobb, hogy ezt megfogd, és amattól is a te kezedet meg ne vond; mert a ki az Istent féli, mind ezektől megszabadul!"
+        },
+        {
+          "number": 19,
+          "text": "A bölcseség megerősíti a bölcset inkább, mint tíz hatalmas, a kik a városban vannak."
+        },
+        {
+          "number": 20,
+          "text": "Mert nincs egy igaz ember is a földön, a ki jót cselekednék és nem vétkeznék."
+        },
+        {
+          "number": 21,
+          "text": "Ne figyelmezz minden beszédre, melyet mondanak, hogy meg ne halld szolgádat, hogy átkoz téged."
+        },
+        {
+          "number": 22,
+          "text": "Mert sok esetben tudja a te lelked is, hogy te is gonoszt mondottál egyebeknek."
+        },
+        {
+          "number": 23,
+          "text": "Mind ezeket megpróbáltam az én bölcseségem által. Mikor azt gondolám, hogy bölcs vagyok, én tőlem a bölcseség távol vala."
+        },
+        {
+          "number": 24,
+          "text": "Felette igen messze van, a mi van, és felette mélységes; kicsoda tudhatja meg azt?"
+        },
+        {
+          "number": 25,
+          "text": "Fordítám én magamat és az én szívemet a bölcseségnek és az okoskodásnak tudására, kutatására és keresésére; azonképen hogy megtudjam a bolondságnak gonoszságát, és a tévelygésnek balgatagságát."
+        },
+        {
+          "number": 26,
+          "text": "És találtam egy dolgot, mely keservesb a halálnál; tudniillik az olyan asszonyt, a kinek a szíve olyan, mint a tőr és a háló, kezei pedig olyanok, mint a kötelek. A ki Isten előtt kedves, megszabadul attól; a bűnös pedig megfogattatik attól."
+        },
+        {
+          "number": 27,
+          "text": "Lásd, ezt találtam, azt mondja a prédikátor; mikor gyakorta nagy szorgalmassággal keresém a megfejtést,"
+        },
+        {
+          "number": 28,
+          "text": "A mit az én lelkem folyton keresett, és nem találtam. Ezer közül egy embert találtam; de asszonyt mind ezekben nem találtam."
+        },
+        {
+          "number": 29,
+          "text": "Hanem lásd, ezt találtam, hogy az Isten teremtette az embert igaznak; ők pedig kerestek sok kigondolást."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kicsoda hasonló a bölcshöz, és ki tudja a dolgok magyarázatát? Az embernek bölcsesége megvilágosítja az ő orczáját; és az ő ábrázatjának erőssége megváltozik."
+        },
+        {
+          "number": 2,
+          "text": "Én mondom, hogy a királynak parancsolatját meg kell őrizni, és pedig az Istenre való esküvés miatt."
+        },
+        {
+          "number": 3,
+          "text": "Ne siess elmenni az ő orczája elől, ne állj rá a gonosz dologra; mert valamit akar, megcselekszi."
+        },
+        {
+          "number": 4,
+          "text": "Mivelhogy a király szava hatalmas; és kicsoda merné néki ezt mondani: mit mívelsz?"
+        },
+        {
+          "number": 5,
+          "text": "A ki megtartja a parancsolatot, nem ismer nyomorúságot, és a bölcsnek elméje megért mind időt, mind ítéletet;"
+        },
+        {
+          "number": 6,
+          "text": "Mert minden akaratnak van ideje és ítélete; mert az embernek nyomorúsága sok ő rajta;"
+        },
+        {
+          "number": 7,
+          "text": "Mert nem tudja azt, a mi következik; mert ki mondja meg néki, mimódon lesz az?"
+        },
+        {
+          "number": 8,
+          "text": "Egy ember sem uralkodhatik a szélen, hogy feltartsa a szelet; és semmi hatalmasság nincs a halálnak napja felett, és az ütközetben senkit el nem bocsátanak; és a gonoszság nem szabadítja meg azt, a ki azzal él."
+        },
+        {
+          "number": 9,
+          "text": "Mindezt láttam, és megfigyeltem minden dolgot, a mely történik a nap alatt, oly időben, a melyben uralkodik az ember az emberen maga kárára."
+        },
+        {
+          "number": 10,
+          "text": "És azután láttam, hogy a gonoszok eltemettettek és nyugalomra mentek; viszont a szent helyről kimentek, és elfelejttettek a városban olyanok, a kik becsületesen cselekedtek. Ez is hiábavalóság!"
+        },
+        {
+          "number": 11,
+          "text": "Mivelhogy hamar a szentenczia nem végeztetik el a gonoszságnak cselekedőjén, egészen arra van az emberek fiainak szíve ő bennök, hogy gonoszt cselekedjenek."
+        },
+        {
+          "number": 12,
+          "text": "Bár meghosszabbítja életét a bűnös, a ki százszor is vétkezik; mégis tudom én, hogy az istenfélőknek lészen jól dolgok, a kik az ő orczáját félik;"
+        },
+        {
+          "number": 13,
+          "text": "A hitetlennek pedig nem lesz jó dolga, és nem hosszabbítja meg az ő életét, olyan lesz, mint az árnyék, mert nem rettegi az Istennek orczáját."
+        },
+        {
+          "number": 14,
+          "text": "Van hiábavalóság, a mely e földön történik; az, hogy vannak oly igazak, a kiknek dolga a gonoszoknak cselekedetei szerint lesz; és vannak gonoszok, a kiknek dolga az igazaknak cselekedetei szerint lesz; mondám, hogy ez is hiábavalóság."
+        },
+        {
+          "number": 15,
+          "text": "Annakokáért dicsérem vala én a vígasságot, hogy nincsen embernek jobb e világon, hanem hogy egyék, igyék és vígadjon; és ez kisérje őt munkájában az ő életének napjaiban, a melyeket ád néki Isten a nap alatt."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor adám az én szívemet a bölcseségnek megtudására, és hogy megvizsgáljak minden fáradságot, a mely e földön történik, (mert sem éjjel, sem nappal az emberek szeme álmot nem lát):"
+        },
+        {
+          "number": 2,
+          "text": "Akkor eszembe vevém az Istennek minden dolgát, hogy az ember nem mehet végére a dolognak, a mely a nap alatt történik; mert fáradozik az ember, hogy annak végére menjen, de nem mehet végére: sőt ha azt mondja is a bölcs ember, hogy tudja, nem mehet végére."
+        },
+        {
+          "number": 3,
+          "text": "Mert mindezt szívemre vettem, és pedig azért, hogy megvizsgáljam mindezt: hogy az igazak és bölcsek és azoknak minden cselekedetei Isten kezében vannak; szeretet is, gyűlölet is, nem tudják az emberek, mind ez előttük van."
+        },
+        {
+          "number": 4,
+          "text": "Minden olyan, hogy mindenkit érhet, egyazon szerencséje van az igaznak és gonosznak, jónak vagy tisztának és tisztátalannak, mind annak, a ki áldozik, mind a ki nem áldozik, úgy a jónak, mint a bűnösnek, az esküvőnek úgy, mint a ki féli az esküvést."
+        },
+        {
+          "number": 5,
+          "text": "Mind az ég alatt való dolgokban e gonosz van, hogy mindeneknek egyenlő szerencséjök van; és az emberek fiainak szíve is teljes gonoszsággal, és elméjökben minden bolondság van, a míg élnek, azután pedig a halottak közé mennek."
+        },
+        {
+          "number": 6,
+          "text": "Mert akárkinek, valaki minden élők közé csatlakozik, van reménysége; mert jobb az élő eb, hogynem a megholt oroszlán."
+        },
+        {
+          "number": 7,
+          "text": "Mert az élők tudják, hogy meghalnak; de a halottak semmit nem tudnak, és azoknak semmi jutalmok nincs többé; mivelhogy emlékezetök elfelejtetett."
+        },
+        {
+          "number": 8,
+          "text": "Mind szeretetök, mind gyűlöletök, mind gerjedezésök immár elveszett; és többé semmi részök nincs semmi dologban, a mely a nap alatt történik."
+        },
+        {
+          "number": 9,
+          "text": "No azért egyed vígassággal a te kenyeredet, és igyad jó szívvel a te borodat; mert immár kedvesek Istennek a te cselekedetid!"
+        },
+        {
+          "number": 10,
+          "text": "A te ruháid mindenkor legyenek fejérek, és az olaj a te fejedről el ne fogyatkozzék."
+        },
+        {
+          "number": 11,
+          "text": "Éld életedet a te feleségeddel, a kit szeretsz, a te hiábavaló életednek minden napjaiban, a melyeket Isten adott néked a nap alatt, a te hiábavalóságodnak minden napjaiban; mert ez a te részed a te életedben és a te munkádban, melylyel munkálódol a nap alatt."
+        },
+        {
+          "number": 12,
+          "text": "Valamit hatalmadban van cselekedni erőd szerint, azt cselekedjed; mert semmi cselekedet, okoskodás, tudomány és bölcseség nincs a Seolban, a hová menendő vagy."
+        },
+        {
+          "number": 13,
+          "text": "Fordítván magamat látám a nap alatt, hogy nem a gyorsaké a futás, és nem az erőseké a viadal, és nem a bölcseké a kenyér, és nem az okosoké a gazdagság, és nem a tudósoké a kedvesség; hanem idő szerint és történetből lesznek mindezek."
+        },
+        {
+          "number": 14,
+          "text": "Mert nem is tudja az ember az ő idejét; mint a halak, melyek megfogatnak a gonosz hálóban, és mint a madarak, melyek megfogatnak a tőrben, miképen ezek, azonképen megfogatnak az emberek fiai a gonosznak idején, mikor az eljő reájok hirtelenséggel."
+        },
+        {
+          "number": 15,
+          "text": "Ezt is bölcseségnek láttam a nap alatt, és ez én előttem nagy volt."
+        },
+        {
+          "number": 16,
+          "text": "Tudniillik, hogy egy kicsiny város volt, és abban kevés ember volt, és eljött az ellen hatalmas király, és azt körülvette, és az ellen nagy erősségeket épített."
+        },
+        {
+          "number": 17,
+          "text": "És találtatott abban egy szegény ember, a ki bölcs volt, és az ő bölcseségével a várost megszabadította; de senki meg nem emlékezett arról a szegény emberről."
+        },
+        {
+          "number": 18,
+          "text": "Akkor én azt mondám: jobb a bölcseség az erősségnél; de a szegénynek bölcsesége útálatos, és az ő beszédit nem hallgatják meg.  A bölcseknek nyugodt beszédét inkább meghallgatják, mint a bolondok közt uralkodónak kiáltását. Jobb a bölcsesség a hadakozó szerszámoknál; és egy bűnös sok jót veszt el.    A megholt legyek a patikáriusnak kenetit megbüdösítik, megerjesztik; azonképen hathatósabb a bölcseségnél, tisztességnél egy kicsiny balgatagság.  A bölcs embernek szíve az ő jobbkezénél van; a bolondnak pedig szíve balkezénél.  A bolond, mikor az úton jár is, az ő elméje hiányos, és mindennek hirdeti, hogy ő bolond."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor a fejedelemnek haragja felgerjed te ellened, a te helyedet el ne hagyjad; mert a szelídség nagy bűnöket lecsendesít."
+        },
+        {
+          "number": 2,
+          "text": "Van egy gonosz, a melyet láttam a nap alatt, mintha tévedés volna, a mely a fejedelemtől származik."
+        },
+        {
+          "number": 3,
+          "text": "Hogy a bolondság nagy méltóságra helyeztetett, a gazdagok pedig alacsony sorsban ülnek."
+        },
+        {
+          "number": 4,
+          "text": "Láttam, hogy a szolgák lovakon ültek; a fejedelmek pedig gyalog mentek a földön, mint a szolgák."
+        },
+        {
+          "number": 5,
+          "text": "A ki vermet ás, abba beesik; és a ki a gyepűt elhányja, megmarja azt a kígyó."
+        },
+        {
+          "number": 6,
+          "text": "A ki a köveket helyökből kihányja, fájdalmat szenved azok miatt; a ki hasogatja a fát, veszedelemben forog a miatt."
+        },
+        {
+          "number": 7,
+          "text": "Ha a vas megtompul, és annak élit meg nem köszörüli az ember, akkor erejét kell megfeszíteni; a bölcseség pedig minden dolognak eligazítására nagy előmenetel."
+        },
+        {
+          "number": 8,
+          "text": "Ha megharap a kígyó, a míg meg nem varázsoltatott, azután semmi haszna nincsen a varázslónak."
+        },
+        {
+          "number": 9,
+          "text": "A bölcs ember szájának beszédei kedvesek; a bolondnak pedig ajkai elnyelik őt."
+        },
+        {
+          "number": 10,
+          "text": "Az ő szája beszédinek kezdete bolondság, és az ő szája beszédinek vége gonosz balgatagság."
+        },
+        {
+          "number": 11,
+          "text": "És a bolond szaporítja a szót, pedig nem tudja az ember, a mi következik, és a mi utána lesz, kicsoda mondja meg azt néki?"
+        },
+        {
+          "number": 12,
+          "text": "A bolondnak munkája elfárasztja őt, mert a városba sem tud menni."
+        },
+        {
+          "number": 13,
+          "text": "Jaj néked ország, kinek a te királyod gyermek; és a te fejedelmid reggel esznek."
+        },
+        {
+          "number": 14,
+          "text": "Boldog vagy te ország, kinek a te királyod nemes ember, és a te fejedelmid idejében esznek a testnek erejéért és nem az italért."
+        },
+        {
+          "number": 15,
+          "text": "A restség miatt elhanyatlik a házfedél, és a kezek restsége miatt csepeg a ház."
+        },
+        {
+          "number": 16,
+          "text": "Vígasságnak okáért szereznek lakodalmat, és a bor vídámítja meg az élőket: és a pénz szerzi meg mindezeket."
+        },
+        {
+          "number": 17,
+          "text": "Még a te gondolatodban is a királyt ne átkozd, és a te ágyasházadban is gonoszt a gazdagnak ne mondj: mert az égi madár is elviszi a szót, és a szárnyas állat is bevádolná a te beszédedet."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vesd a te kenyeredet a víz színére, mert sok nap mulva megtalálod azt."
+        },
+        {
+          "number": 2,
+          "text": "Adj részt hétnek vagy nyolcznak is; mert nem tudod, micsoda veszedelem következik a földre."
+        },
+        {
+          "number": 3,
+          "text": "Mikor a sűrű fellegek megtelnek, esőt adnak a földre; és ha leesik a fa délre vagy északra, a mely helyre leesik a fa, ott marad."
+        },
+        {
+          "number": 4,
+          "text": "A ki a szelet nézi, nem vet az; és a ki sűrű fellegre néz, nem arat."
+        },
+        {
+          "number": 5,
+          "text": "Miképen hogy nem tudod, melyik a szélnek útja, és miképen vannak a csontok a terhes asszony méhében; azonképen nem tudod az Istennek dolgát, a ki mindeneket cselekszik."
+        },
+        {
+          "number": 6,
+          "text": "Reggel vesd el a te magodat, és este se pihentesd kezedet; mert nem tudod, melyik jobb, ez-é vagy amaz, vagy ha mind a kettő jó lesz egyszersmind."
+        },
+        {
+          "number": 7,
+          "text": "Valóban, édes a világosság és jó a mi szemeinkkel néznünk a napot."
+        },
+        {
+          "number": 8,
+          "text": "Mert ha sok esztendeig él is az ember, mindazokban örvendezzen; és megemlékezzék a setétségnek napjairól, mert az sok lesz. Valami eljövendő, mind hiábavalóság."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Örvendezz a te ifjuságodban, és vídámítson meg téged a te szíved a te ifjúságodnak idejében, és járj a te szívednek útaiban, és szemeidnek látásiban; de megtudd, hogy mindezekért az Isten tégedet ítéletre von!"
+        },
+        {
+          "number": 2,
+          "text": "Vesd el a haragot a te szívedből, és vesd el a gonoszt a te testedből; mert az ifjúság és a hajnal hiábavalóság."
+        },
+        {
+          "number": 3,
+          "text": "És emlékezzél meg a te Teremtődről a te ifjúságodnak idejében, míg a veszedelemnek napjai el nem jőnek, és míg el nem jőnek az esztendők, melyekről azt mondod: nem szeretem ezeket!"
+        },
+        {
+          "number": 4,
+          "text": "A míg a nap meg nem setétedik, a világossággal, a holddal és csillagokkal egybe; és a sűrű felhők ismét visszatérnek az eső után."
+        },
+        {
+          "number": 5,
+          "text": "Az időben, mikor megremegnek a háznak őrizői, és megrogynak az erős férfiak, és megállanak az őrlő leányok, mert megkevesbedtek, és meghomályosodnak az ablakon kinézők."
+        },
+        {
+          "number": 6,
+          "text": "És az ajtók kivül bezáratnak, a mikor is a malom zúgása halkabbá lesz; és felkelnek a madár szóra, és halkabbakká lesznek minden éneklő leányok."
+        },
+        {
+          "number": 7,
+          "text": "Minden halmocskától is félnek, és mindenféle ijedelmek vannak az úton, és a mandolafa megvirágzik, és a sáska nehezen vonszolja magát, és kipattan a kapor; mert elmegy az ember az ő örökös házába, és az utczán körül járnak a sírók."
+        },
+        {
+          "number": 8,
+          "text": "Minekelőtte elszakadna az ezüst kötél és megromolna az arany palaczkocska, és a veder eltörnék a forrásnál, és beletörnék a kerék a kútba,"
+        },
+        {
+          "number": 9,
+          "text": "És a por földdé lenne, mint azelőtt volt; a lélek pedig megtérne Istenhez, a ki adta volt azt."
+        },
+        {
+          "number": 10,
+          "text": "Felette nagy hiábavalóságok, azt mondja a prédikátor, mindezek hiábavalóságok!"
+        },
+        {
+          "number": 11,
+          "text": "És azonfelül, hogy a prédikátor bölcs volt, még a népet is tudományra tanította, és fontolgatott, és tudakozott, és írt sok bölcs mondást."
+        },
+        {
+          "number": 12,
+          "text": "És igyekezett a prédikátor megtudni sok kivánságos beszédeket, igaz írást és igaz beszédeket."
+        },
+        {
+          "number": 13,
+          "text": "A bölcseknek beszédei hasonlatosak az ösztökéhez, és mint a szegek, erősen le vannak verve a gyülekezetek tanítóinak szavai; melyek egy pásztortól adattak."
+        },
+        {
+          "number": 14,
+          "text": "Mindezekből, fiam, intessél meg: a sok könyvek írásának nincs vége, és a sok tanulás fáradságára van a testnek."
+        },
+        {
+          "number": 15,
+          "text": "A dolognak summája, mindezeket hallván, ez: az Istent féljed, és az ő parancsolatit megtartsad; mert ez az embernek fődolga!"
+        },
+        {
+          "number": 16,
+          "text": "Mert minden cselekedetet az Isten ítéletre előhoz, minden titkos dologgal, akár jó, akár gonosz legyen az."
+        }
+      ]
+    }
+  ]
+}

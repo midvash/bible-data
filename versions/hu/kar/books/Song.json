@@ -1,0 +1,505 @@
+{
+  "version": "kar",
+  "book": "Song",
+  "bookId": 22,
+  "englishName": "Song of Solomon",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Énekek éneke, mely Salamoné."
+        },
+        {
+          "number": 2,
+          "text": "Csókoljon meg engem az ő szájának csókjaival; mert a te szerelmeid jobbak a bornál."
+        },
+        {
+          "number": 3,
+          "text": "A te drága kenetid jók illatozásra; a te neved kiöntött drága kenet; azért szeretnek téged a leányok."
+        },
+        {
+          "number": 4,
+          "text": "Vonj engemet te utánad, hadd fussunk! Bevitt engem a király az ő ágyasházába; örvendezünk és vígadunk te benned, előszámláljuk a te szerelmeidet, melyek jobbak a bornál, méltán szeretnek téged."
+        },
+        {
+          "number": 5,
+          "text": "Fekete vagyok, de szép, Jeruzsálem leányai; mint Kédár sátrai és Salamon szőnyegei."
+        },
+        {
+          "number": 6,
+          "text": "Ne nézzetek engem, hogy én fekete vagyok, hogy a nap lesütött engem; az én anyámnak fiai ellenem megharagudtak, a szőlőknek őrizőjévé tettek engem, – a magam szőlőjét nem őriztem."
+        },
+        {
+          "number": 7,
+          "text": "Mondd meg nékem, te, a kit az én lelkem szeret, hol legeltetsz, hol deleltetsz délben; mert miért legyek én olyan, mint a ki elfátyolozza magát, társaid nyájainál?"
+        },
+        {
+          "number": 8,
+          "text": "Mivelhogy nem tudod, oh asszonyok között legszebb! jőjj ki a nyájnak nyomdokain, és őrizd a te kecskéidet a pásztoroknak sátorai körül."
+        },
+        {
+          "number": 9,
+          "text": "A Faraó szekereiben való paripákhoz hasonlítlak téged, én mátkám."
+        },
+        {
+          "number": 10,
+          "text": "Szépek a te orczáid a halántékra valólánczokban, a te nyakad a gyöngysorokban."
+        },
+        {
+          "number": 11,
+          "text": "Arany lánczokat csinálunk néked, ezüstből csinált gyöngyökkel."
+        },
+        {
+          "number": 12,
+          "text": "Mikor a király az ő asztalánál ül, nárdusnak jóillatja származik én tőlem."
+        },
+        {
+          "number": 13,
+          "text": "Olyanaz én szerelmesem nékem, mint egy kötés mirha, mely az én kebeleim között hál."
+        },
+        {
+          "number": 14,
+          "text": "Mint az Engedi szőlőiben a cziprusfürt, olyannékem az én szerelmesem."
+        },
+        {
+          "number": 15,
+          "text": "Ímé, szép vagy én mátkám, ímé, szép vagy, a te szemeid olyanok, mint a galambok."
+        },
+        {
+          "number": 16,
+          "text": "Ímé, te is szép vagy én szerelmesem, gyönyörűséges, és a mi nyoszolyánk zöldellő."
+        },
+        {
+          "number": 17,
+          "text": "A mi házainknak gerendái czédrusfák, és a mi mennyezetünk cziprusfa."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Én Sáronnak rózsája vagyok, és a völgyek lilioma."
+        },
+        {
+          "number": 2,
+          "text": "Mint a liliom a tövisek közt, olyan az én mátkám a leányok közt."
+        },
+        {
+          "number": 3,
+          "text": "Mint az almafa az erdőnek fái közt, olyan az én szerelmesem az ifjak közt. Az ő árnyékában felette igen kivánok ülni; és az ő gyümölcse gyönyörűséges az én ínyemnek."
+        },
+        {
+          "number": 4,
+          "text": "Bevisz engem a borozó házba, és zászló felettem a szerelme."
+        },
+        {
+          "number": 5,
+          "text": "Erősítsetek engem szőlővel, üdítsetek fel engem almákkal; mert betege vagyok a szerelemnek."
+        },
+        {
+          "number": 6,
+          "text": "Az ő bal keze az én fejem alatt van, és jobb kezével megölel engem."
+        },
+        {
+          "number": 7,
+          "text": "Kényszerítlek titeket, Jeruzsálemnek leányai, a vadkecskékre és a mezőnek szarvasira: fel ne költsétek és fel ne serkentsétek a szerelmet addig, a míg akarja."
+        },
+        {
+          "number": 8,
+          "text": "Az én szerelmesemnek szavát hallom, ímé, ő jő, ugrálva a hegyeken, szökellve a halmokon!"
+        },
+        {
+          "number": 9,
+          "text": "Hasonlatos az én szerelmesem az őzhöz, vagy a szarvasoknak fiához. Ímé, ott áll a mi falunkon túl, néz az ablakon keresztül, tekintget a rostélyokon keresztül,"
+        },
+        {
+          "number": 10,
+          "text": "Szóla az én szerelmesem nékem, és monda: kelj fel én mátkám, én szépem, és jöszte."
+        },
+        {
+          "number": 11,
+          "text": "Mert ímé a tél elmult, az eső elmult, elment."
+        },
+        {
+          "number": 12,
+          "text": "Virágok láttatnak a földön, az éneklésnek ideje eljött, és a gerliczének szava hallatik a mi földünkön."
+        },
+        {
+          "number": 13,
+          "text": "A fügefa érleli első gyümölcsét, és a szőlők virágzásban vannak, jóillatot adnak; kelj fel én mátkám, én szépem, és jőjj hozzám!"
+        },
+        {
+          "number": 14,
+          "text": "Én galambom, a kősziklának hasadékiban, a magas kőszálnak rejtekében, mutasd meg nékem a te orczádat, hadd halljam a te szódat; mert a te szód gyönyörűséges, és a te tekinteted ékes!"
+        },
+        {
+          "number": 15,
+          "text": "Fogjátok meg nékünk a rókákat, a rókafiakat, a kik a szőlőket elpusztítják; mert a mi szőlőink virágban vannak."
+        },
+        {
+          "number": 16,
+          "text": "Az én szerelmesem enyém, és én az övé, a ki a liliomok közt legeltet."
+        },
+        {
+          "number": 17,
+          "text": "Míglen meghűsül a nap és az árnyékok elmúlnak: térj meg és légy hasonló, én szerelmesem, az őzhöz, vagy a szarvasoknak fiához a Béther hegyein."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Az én ágyasházamban éjjeleken keresém azt, a kit szeret az én lelkem, keresém őt, és meg nem találtam."
+        },
+        {
+          "number": 2,
+          "text": "Immár felkelek és eljárom a várost, a tereket és az utczákat, keresem azt, a kit szeret az én lelkem; keresém őt, és nem találám."
+        },
+        {
+          "number": 3,
+          "text": "Megtalálának engem az őrizők, a kik a várost kerülik. Mondék nékik: Láttátok-é azt, a kit az én lelkem szeret?"
+        },
+        {
+          "number": 4,
+          "text": "Alig mentem vala el azoktól, mikor megtaláltam azt, a kit az én lelkem szeret. Megragadám őt, el sem bocsátám, mígnem bevivém őt anyám házába, és az én szülőmnek ágyasházába."
+        },
+        {
+          "number": 5,
+          "text": "Kényszerítelek titeket, Jeruzsálemnek leányai, a vadkecskékre, és a mezőnek szarvasira, fel ne költsétek és fel ne serkentsétek a szerelmet, valamíg ő akarja."
+        },
+        {
+          "number": 6,
+          "text": "Kicsoda az, a ki feljő a pusztából, mint a füstnek oszlopa? Mirhától és tömjéntől illatos, a patikáriusnak minden jó illatú porától."
+        },
+        {
+          "number": 7,
+          "text": "Ímé, ez a Salamon gyaloghintaja, hatvan erős férfi van körülötte, Izráelnek erősei közül!"
+        },
+        {
+          "number": 8,
+          "text": "Mindnyájan fegyverfogók, hadakozásban bölcsek, kinek-kinek oldalán fegyvere, az éjszakának félelme ellen."
+        },
+        {
+          "number": 9,
+          "text": "Hálóágyat csinált magának Salamon király a Libánus fáiból."
+        },
+        {
+          "number": 10,
+          "text": "Oszlopait ezüstből csinálta, oldalát aranyból, ágyát biborból, belső része ki van rakva szeretettel, a Jeruzsálemnek leányi által."
+        },
+        {
+          "number": 11,
+          "text": "Jőjjetek ki, és nézzétek, Sionnak leányai, Salamon királyt a koronában, melylyel megkoronázta őt az anyja, az ő eljegyzésének napjára, és az ő szíve vígasságának napjára!"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ímé szép vagy, én mátkám, ímé szép vagy, a te szemeid galambok a te fátyolod mögött; a te hajad hasonló a kecskéknek nyájához, melyek a Gileád hegyéről szállanak alá."
+        },
+        {
+          "number": 2,
+          "text": "A te fogaid hasonlók a megnyirt juhoknyájához, melyek a fördőből feljőnek, melyek mind kettősöket ellenek, és nincsen azok között meddő."
+        },
+        {
+          "number": 3,
+          "text": "Mint a karmazsin czérna, a te ajkaid, és a te beszéded kedves, mint a pomagránátnak darabja, olyan a te vakszemed a te fátyolod alatt."
+        },
+        {
+          "number": 4,
+          "text": "Hasonló a te nyakad a Dávid tornyához, a mely építtetett fegyveres háznak, a melyben ezer paizs függesztetett fel, mind az erős vitézek paizsai."
+        },
+        {
+          "number": 5,
+          "text": "A te két emlőd olyan, mint két vadkecske, egy zergének kettős fia, a melyek a liliomok közt legelnek."
+        },
+        {
+          "number": 6,
+          "text": "Míg meghűsül a nap, és elmulnak az árnyékok, elmegyek a mirhának hegyére, és a tömjénnek halmára."
+        },
+        {
+          "number": 7,
+          "text": "Mindenestől szép vagy, én mátkám, és semmi szeplő nincs benned!"
+        },
+        {
+          "number": 8,
+          "text": "Én velem a Libánusról, én jegyesem, én velem a Libánusról eljőjj; nézz az Amanának hegyéről, a Sénirnek és Hermonnak tetejéről, az oroszlánoknak barlangjokból, a párduczoknak hegyeiről."
+        },
+        {
+          "number": 9,
+          "text": "Megsebesítetted az én szívemet, én húgom, jegyesem, megsebesítetted az én szívemet a te szemeidnek egy tekintésével, a te nyakadon való egy aranylánczczal!"
+        },
+        {
+          "number": 10,
+          "text": "Mely igen szépek a te szerelmeid, én húgom, jegyesem! mely igen jók a te szerelmeid! jobbak a bornál, és a te keneteidnek illatja minden fűszerszámnál!"
+        },
+        {
+          "number": 11,
+          "text": "Színmézet csepegnek a te ajkaid, én jegyesem, méz és tej van a te nyelved alatt, és a te ruháidnak illatja, mint a Libánusnak illatja."
+        },
+        {
+          "number": 12,
+          "text": "Olyan, mint a berekesztett kert az én húgom, jegyesem! mint a befoglaltatott forrás, bepecsételt kútfő!"
+        },
+        {
+          "number": 13,
+          "text": "A te csemetéid gránátalmás kert, édes gyümölcsökkel egybe, cziprusok nárdusokkal egybe."
+        },
+        {
+          "number": 14,
+          "text": "Nárdus és sáfrány, jóillatú nád és fahéj, mindenféle temjéntermő fákkal, mirha és áloes, minden drága fűszerszámokkal."
+        },
+        {
+          "number": 15,
+          "text": "Kerteknek forrása, élő vizeknek kútfeje, melyek folynak a Libánusról."
+        },
+        {
+          "number": 16,
+          "text": "Serkenj fel északi szél, és jőjj el déli szél, fújj az én kertemre, folyjanak annak drága illatú szerszámai, jőjjön el az én szerelmesem az ő kertébe, és egye annak drágalátos gyümölcsét."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bementem az én kertembe, én húgom, jegyesem, szedem az én mirhámat, az én balzsamommal, eszem az én lépesmézemet az én mézemmel, iszom az én boromat az én tejemmel. Egyetek barátim, igyatok, és részegedjetek meg, szerelmesim!"
+        },
+        {
+          "number": 2,
+          "text": "Én elaludtam, de lelkemben vigyázok vala, és ímé az én szerelmesemnek szava, a ki zörget, mondván: Nyisd meg nékem, én húgom, én mátkám, én galambom, én tökéletesem; mert az én fejem megrakodott harmattal, az én hajam az éjszakának harmatjával!"
+        },
+        {
+          "number": 3,
+          "text": "Felelék én: Levetettem ruhámat, hogy-hogy öltözhetném fel? Megmostam lábaimat, mi módon keverném azokat a porba?"
+        },
+        {
+          "number": 4,
+          "text": "Az én szerelmesem kezét benyujtá az ajtónakhasadékán, és az én belső részeim megindulának ő rajta."
+        },
+        {
+          "number": 5,
+          "text": "Felkelék én, hogy az én szerelmesemnek megnyissam, és az én kezeimről mirha csepeg vala, és az én ujjaimról folyó mirha a závár kilincsére."
+        },
+        {
+          "number": 6,
+          "text": "Megnyitám az én szerelmesemnek; de az én szerelmesem elfordult, elment; az én lelkem megindult az ő beszédén: keresém őt, de nem találám, kiáltám őt, de nem felele nékem!"
+        },
+        {
+          "number": 7,
+          "text": "Megtalálának engem az őrizők, a kik a várost kerülik, megverének engem, megsebesítének engem, elvevék az én felöltőmet tőlem a kőfalnak őrizői."
+        },
+        {
+          "number": 8,
+          "text": "Kényszerítelek titeket, Jeruzsálemnek leányai, ha megtaláljátok az én szerelmesemet, mit mondotok néki? hogy én a szerelem betege vagyok!"
+        },
+        {
+          "number": 9,
+          "text": "Micsoda a te szerelmesed egyéb szerelmesek felett, oh asszonyoknak szépe? Micsoda a te szerelmesed egyéb szerelmesek felett, hogy minket ilyen igen kényszerítesz?"
+        },
+        {
+          "number": 10,
+          "text": "Az én szerelmesem fejér és piros, tízezer közül is kitetszik."
+        },
+        {
+          "number": 11,
+          "text": "Az ő feje, mint a választott drága megtisztított arany; fodor haja fekete, mint a hollónak."
+        },
+        {
+          "number": 12,
+          "text": "Az ő szemei mint a vízfolyás mellett való galambok, melyek tejben fürödnek, szépteljesen helyheztettek."
+        },
+        {
+          "number": 13,
+          "text": "Az ő orczája hasonlatos a drága füveknek táblájához, a melyek illatos plántákat nevelnek; az ő ajkai liliomok, melyekről csepegő mirha foly."
+        },
+        {
+          "number": 14,
+          "text": "Az ő kezei aranyhengerek; melyek befoglaltattak topázba; az ő teste elefántcsontból való mű, zafirokkal megrakva."
+        },
+        {
+          "number": 15,
+          "text": "Az ő szárai márványoszlopok; melyek tiszta arany talpakra fundáltattak; az ő tekinteti, mint a Libánus; tetszetes mint a czédrusfa."
+        },
+        {
+          "number": 16,
+          "text": "Az ő ínye édességek, és ő mindenestől fogva kívánatos! Ez az én szerelmesem, és ez az én barátom, oh Jeruzsálemnek leányai! Hová ment a te szerelmesed, oh asszonyoknak szépe? hová fordult a te szerelmesed, hogy keressük őt veled együtt? Az én szerelmesem, elment az ő kertébe, a drága füveknek táblái közé, hogy lakozzék a kertekben, és liliomokat szedjen. Én az én szerelmesemé vagyok, és az én szerelmesem enyim, a ki a liliomok közt legeltet."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Szép vagy én mátkám, mint Tirsa városa, kedves, mint Jeruzsálem, rettenetes, mint a zászlós tábor."
+        },
+        {
+          "number": 2,
+          "text": "Fordítsd el a te szemeidet én tőlem, mert azok megzavarnak engem. A te hajad olyan, mint a kecskéknek nyája, melyek a Gileádról szállanak alá."
+        },
+        {
+          "number": 3,
+          "text": "A te fogaid hasonlók a juhok nyájához, melyek feljőnek a fördőből, melyek mind kettősöket ellenek, és meddő azok között nincsen."
+        },
+        {
+          "number": 4,
+          "text": "Mint a pomagránát darabja a te vakszemed, a te fátyolod alatt."
+        },
+        {
+          "number": 5,
+          "text": "Hatvanan vannak a királynék, és nyolczvanan az ágyasok és számtalan a leányzó."
+        },
+        {
+          "number": 6,
+          "text": "És az én galambom, az én tökéletesem, az ő anyjának egyetlenegye, az ő szülőjének választottja. Látják a leányok, és boldognak mondják őt, a királynéasszonyok és az ágyasok, és dicsérik őt."
+        },
+        {
+          "number": 7,
+          "text": "Kicsoda az, a ki úgy láttatik mintegy hajnal, szép, mint a hold, tiszta, mint a nap, rettenetes, mint a zászlós tábor?"
+        },
+        {
+          "number": 8,
+          "text": "A diófás kertekbe mentem vala alá, hogy a völgynek zöld fűveit lássam; hogy megnézzem, ha fakad-é a szőlő, és a pomagránátfák virágzanak-é?"
+        },
+        {
+          "number": 9,
+          "text": "Nem tudtam, hogy az én elmém ültete engem az én nemes népemnek díszhintajába."
+        },
+        {
+          "number": 10,
+          "text": "Térj meg, oh Sulamit! térj meg, térj meg, hogy nézzünk téged! Mit néztek Sulamiton? mintegy Machanaimbeli körtánczot!"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Oh mely szépek a te lépéseid a sarukban, oh fejedelem leánya! A te csípőd hajlásai olyanok, mint a kösöntyűk, mesteri kezeknek míve."
+        },
+        {
+          "number": 2,
+          "text": "A te köldököd, mint a kerekded csésze, nem szűkölködik nedvesség nélkül; a te hasad mint a gabonaasztag, liliomokkal körül kerítve."
+        },
+        {
+          "number": 3,
+          "text": "A te két emlőd, mintkét őzike, a vadkecskének kettős fiai."
+        },
+        {
+          "number": 4,
+          "text": "A te nyakad, mint az elefánttetemből csinált torony; a te szemeid, mint a Hesbonbeli halastók, a sok népű kapunál; a te orrod hasonló a Libánus tornyához, mely néz Damaskus felé."
+        },
+        {
+          "number": 5,
+          "text": "A te fejed hasonló rajtad a Kármelhez, és a te fejeden hajadnak fonatékja a biborhoz, a király is megköttetnék fürteid által!"
+        },
+        {
+          "number": 6,
+          "text": "Mely igen szép vagy és mely kedves, oh szerelem, a gyönyörűségek közt!"
+        },
+        {
+          "number": 7,
+          "text": "Ez a te termeted hasonló a pálmafához, és a te emlőid a szőlőgerézdekhez."
+        },
+        {
+          "number": 8,
+          "text": "Azt mondám: felhágok a pálmafára, megfogom annak ágait: és lesznek a te emlőid, mint a szőlőnek gerézdei, és a te orrodnak illatja, mint az almának."
+        },
+        {
+          "number": 9,
+          "text": "És a te ínyed, mint a legjobb bor, melyet szerelmesem kedvére szürcsöl, mely szóra nyitja az alvók ajkait."
+        },
+        {
+          "number": 10,
+          "text": "Én az én szerelmesemé vagyok, és engem kiván ő!"
+        },
+        {
+          "number": 11,
+          "text": "No, én szerelmesem, menjünk ki a mezőre, háljunk a falukban."
+        },
+        {
+          "number": 12,
+          "text": "Felkelvén menjünk a szőlőkbe, lássuk meg, ha fakad-é a szőlő, ha kinyílott-é virágja, ha virágzanak-é a gránátalmafák: ott közlöm az én szerelmimet veled."
+        },
+        {
+          "number": 13,
+          "text": "A mandragórák illatoznak, és a mi ajtónk előtt vannak minden drágalátos gyümölcsök, ók és újak, melyeket ohén szerelmesem, néked megtartottam!"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vajha lennél nékem én atyámfia, ki az én anyámnak emlőjét szopta, hogy téged kivül találván megcsókolnálak; még sem útálnának meg engem."
+        },
+        {
+          "number": 2,
+          "text": "Elvinnélek, bevinnélek anyámnak házába, te oktatgatnál engem, én meg borral itatnálak, fűszeressel, gránátalma borral."
+        },
+        {
+          "number": 3,
+          "text": "Az ő balkeze az én fejem alatt, és jobbkezével megölel engem."
+        },
+        {
+          "number": 4,
+          "text": "Kényszerítlek titeket, Jeruzsálemnek leányai, miért költenétek és miért serkentenétek fel a szerelmet, mígnem ő akarja?"
+        },
+        {
+          "number": 5,
+          "text": "Kicsoda ez a ki feljő a pusztából, a ki az ő szerelmeséhez támaszkodik? Az almafa alatt költöttelek fel téged, ott szült téged a te anyád, ott szült téged a te szülőd!"
+        },
+        {
+          "number": 6,
+          "text": "Tégy engem mintegy pecsétet a te szívedre, mintegy pecsétet a te karodra; mert erős a szeretet, mint a halál, kemény, mint a sír a buzgó szerelem; lángjai tűznek lángjai, az Úrnak lángjai."
+        },
+        {
+          "number": 7,
+          "text": "Sok vizek el nem olthatnák e szeretetet: a folyóvizek sem boríthatnák azt el: ha az ember minden házabeli marháját adná is e szeretetért, mégismegvetnék azt."
+        },
+        {
+          "number": 8,
+          "text": "Kicsiny húgunk van nékünk, a kinek nincsen még emlője; mit cselekedjünk a mi húgunk felől, a napon, melyen arról szót tesznek?"
+        },
+        {
+          "number": 9,
+          "text": "Ha ő kőfal, építünk azon ezüstből palotát; ha pedig ajtó ő, elrekesztjük őt czédrus-deszkával."
+        },
+        {
+          "number": 10,
+          "text": "Mikor én olyan leszek, minta kőfal, és az én emlőim, mint a tornyok; akkor olyan leszek ő előtte, mint a ki békességet nyer."
+        },
+        {
+          "number": 11,
+          "text": "Szőlője volt Salamonnak Baálhamonban, adta az ő szőlejét a pásztoroknak, kiki annak gyümölcséért hoz ezer-ezer ezüst siklust."
+        },
+        {
+          "number": 12,
+          "text": "Az én szőlőmre, mely én reám néz, nékem gondom lesz: az ezer siklus, Salamon, tiéd legyen, a kétszáz annak gyümölcsének őrizőié."
+        },
+        {
+          "number": 13,
+          "text": "Oh te, a ki lakol a kertekben! A te társaid a te szódra figyelmeznek; hadd halljam én is."
+        },
+        {
+          "number": 14,
+          "text": "Fuss én szerelmesem, és légy hasonló a vadkecskéhez, vagy a szarvasnak fiához, a drága füveknek hegyein!"
+        }
+      ]
+    }
+  ]
+}

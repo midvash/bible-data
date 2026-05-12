@@ -1,0 +1,18 @@
+{
+  "slug": "vdc",
+  "shortName": "VDC",
+  "name": "Biblia Cornilescu",
+  "language": "ro",
+  "year": 1924,
+  "license": "public-domain",
+  "licenseNote": "Public domain in most jurisdictions (Dumitru Cornilescu, 1924; d. 1975). Treated as freely redistributable; see SOURCES.md for jurisdictional notes.",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1188,
+    "verses": 31045
+  },
+  "readerUrl": "https://midvash.com/vdc",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

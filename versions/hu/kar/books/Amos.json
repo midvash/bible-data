@@ -1,0 +1,638 @@
+{
+  "version": "kar",
+  "book": "Amos",
+  "bookId": 30,
+  "englishName": "Amos",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ámós beszédei, a ki a Tékoabeli pásztorok közt volt, azokról, a miket Izráel felől látott Uzziásnak, Júda királyának idejében, és Jeroboámnak, a Jóás fiának, Izráel királyának idejében, két esztendővel a földindulás előtt."
+        },
+        {
+          "number": 2,
+          "text": "És mondá: A Sionról megharsan az Úr és Jeruzsálemből megzendül, és elhervadnak a pásztorok legelői, és megszárad a Kármel teteje."
+        },
+        {
+          "number": 3,
+          "text": "Így szól az Úr: Három bűne miatt Damaskusnak, sőt négy miatt, nem fordítom el, mert vas-cséplőkkel cséplették meg a Gileádot."
+        },
+        {
+          "number": 4,
+          "text": "Tüzet vetek azért Hazáel házára, és az emészti meg a Ben-Hadad palotáit."
+        },
+        {
+          "number": 5,
+          "text": "És összetöröm Damaskus zárját, és kivágom a lakót Avennek völgyéből és a királyi pálcza tartóját Beth-Édenből, és Aramnak népe Kirbe fogva vitetik, ezt mondja az Úr."
+        },
+        {
+          "number": 6,
+          "text": "Így szól az Úr: Három bűne miatt Gázának, sőt négy miatt, nem fordítom el, mert az egész népet rabságra vitték, hogy az Edomitáknak adják el őket."
+        },
+        {
+          "number": 7,
+          "text": "Tüzet vetek azért Gáza kőfalára, és az emészti meg az ő palotáit."
+        },
+        {
+          "number": 8,
+          "text": "És kivágom a lakót Asdódból, és a királyi pálcza tartóját Askelonból, és Akronra is majd rávetem kezemet és a Filiszteusok maradéka elvész, azt mondja az én Uram, az Úr."
+        },
+        {
+          "number": 9,
+          "text": "Így szól az Úr: Három bűne miatt Tírusnak, sőt négy miatt, nem fordítom el, mert az egész rabnépet Edomnak adták át, és nem emlékeztek meg a testvéri frigyről."
+        },
+        {
+          "number": 10,
+          "text": "Tüzet vetek azért Tírus kőfalára, és az emészti meg az ő palotáit."
+        },
+        {
+          "number": 11,
+          "text": "Így szól az Úr: Három bűne miatt Edomnak, sőt négy miatt, nem fordítom el, mert fegyverrel űzte saját atyjafiát, és elfojtá szívében az irgalmasságot, és haragja szüntelen tépett, és dühösködését mindvégig fentartotta."
+        },
+        {
+          "number": 12,
+          "text": "Tüzet vetek azért Témánra, és az emészti majd meg Boczra palotáit."
+        },
+        {
+          "number": 13,
+          "text": "Így szól az Úr: Három bűne miatt Ammon fiainak, sőt négy miatt, nem fordítom el; mert széthasogatták Gileád terhes asszonyait, hogy kiszélesíthessék az ő határokat."
+        },
+        {
+          "number": 14,
+          "text": "Tüzet vetek azért Rabba kőfalára, és az emészti meg az ő palotáit; harczi kiáltással a háború napján, pusztító viharral a szélvésznek napján."
+        },
+        {
+          "number": 15,
+          "text": "És számkivetésbe megy az ő királyuk; ő maga és vele fejedelmei is, ezt mondja az Úr!"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Így szól az Úr: Három bűne miatt a Moábnak, sőt négy miatt, nem fordítom el; mert mészszé égette Edom királyának csontjait!"
+        },
+        {
+          "number": 2,
+          "text": "Tüzet vetek azért Moábra, és az emészti meg Kerijjoth palotáit, és meghal Moáb a zajban, hadi lárma közt, a kürt zengése közben."
+        },
+        {
+          "number": 3,
+          "text": "Kivágom a birót közüle, és minden fejedelmit megölöm vele egyetemben, ezt mondja az Úr."
+        },
+        {
+          "number": 4,
+          "text": "Így szól az Úr: Három bűne miatt a Júdának, sőt négy miatt, nem fordítom el; mert megvetették az Úrnak törvényét és nem tartották meg rendeléseit. Eltévelyítették őket az ő hazugságaik, a melyeket az ő atyáik követtek."
+        },
+        {
+          "number": 5,
+          "text": "Tüzet vetek azért Júdára, és az emészti meg Jeruzsálem palotáit."
+        },
+        {
+          "number": 6,
+          "text": "Így szól az Úr: Három bűne miatt az Izráelnek, sőt négy miatt, nem fordítom el; mert pénzért adták el az igazat, a szegényt pedig egy öltő saruért."
+        },
+        {
+          "number": 7,
+          "text": "A kik a föld porát áhítják a szegények fejére, és a nyomorultak útját elfordítják. Fiú és az atyja egy leányhoz járnak, hogy megfertőztessék az én szent nevemet."
+        },
+        {
+          "number": 8,
+          "text": "Zálogos ruhákon nyujtózkodnak minden oltár mellett, és az elítéltek borát iszszák az ő istenök házában."
+        },
+        {
+          "number": 9,
+          "text": "Pedig én irtottam ki előlük az Emoreusokat, a kik magasak voltak, mint a czédrusok, erősek, mint a cserfák. Mégis kiirtottam gyümölcsét felül és gyökerét alul."
+        },
+        {
+          "number": 10,
+          "text": "És én hoztalak fel Égyiptom földéről, és negyven esztendeig én hordoztalak a pusztában titeket, hogy bírjátok az Emoreusok földét."
+        },
+        {
+          "number": 11,
+          "text": "És prófétákat támasztottam a ti fiaitok közül és nazirokat ifjaitok közül. Nem így van-é vajjon, Izráel fiai? ezt mondja az Úr."
+        },
+        {
+          "number": 12,
+          "text": "De a nazirokat borral itattátok, és a prófétákra ráparancsoltatok, mondván: Ne prófétáljatok!"
+        },
+        {
+          "number": 13,
+          "text": "Ímé, én is lenyomlak titeket, ott a hol vagytok, mint a cséplő szekér lenyomja a kévékkel teli szérűt."
+        },
+        {
+          "number": 14,
+          "text": "Elvész azért a futás a gyorstól, és nem erősíti meg az erőst az ő ereje, és a hős sem menekedhetik."
+        },
+        {
+          "number": 15,
+          "text": "Nem állja meg helyét az íjj-hordozó sem, nem menekülhet el még a gyorslábú sem, és a lovon ülő sem menekedhetik."
+        },
+        {
+          "number": 16,
+          "text": "És a bátor szívű is a hősök között meztelenül fut el azon a napon, ezt mondja az Úr."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Halljátok meg e beszédet, melyet az Úr szól ti felőletek, Izráel fiai; mindama nemzetség felől, a melyet felhoztam Égyiptom földéről, ezt mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Csak titeket választottalak magamnak e földnek minden nemzetségei közül; azért büntetlek meg titeket minden gonoszságtokért."
+        },
+        {
+          "number": 3,
+          "text": "Vajjon járnak-é ketten együtt, ha nem egyeztek meg egymással?"
+        },
+        {
+          "number": 4,
+          "text": "Ordít-é az oroszlán az erdőben, ha nincs mit ragadoznia? Hallatja-é hangját barlangjából a kölyök-oroszlán, ha semmit nem fogott?!"
+        },
+        {
+          "number": 5,
+          "text": "Tőrbe esik-é a madár a földön, ha nincs tőr vetve néki? Felpattan-é a tőr a földről, ha fogni nem fogott?"
+        },
+        {
+          "number": 6,
+          "text": "Ha megharsan a kürt a városban, nem riad-é meg a nép? Vajjon lehet-é baj a városban, a mit nem az Úr szerezne?"
+        },
+        {
+          "number": 7,
+          "text": "Mert semmit sem cselekszik az én Uram, az Úr, míg meg nem jelenti titkát az ő szolgáinak, a prófétáknak."
+        },
+        {
+          "number": 8,
+          "text": "Ordít az oroszlán: ki ne rettegne? Az én Uram, az Úr szólt: ki ne prófétálna?"
+        },
+        {
+          "number": 9,
+          "text": "Adjatok hírt Asdód palotáiban és az Égyiptom földében való palotákban, és így szóljatok: Gyűljetek össze Samariának hegyein, és lássátok meg benne a sok háborgást, és az elnyomottakat az ő keblében."
+        },
+        {
+          "number": 10,
+          "text": "Mert nem tudnak igazán cselekedni, azt mondja az Úr, ők, a kik halomra gyűjtik az erőszakosságot és zsarolást az ő palotáikban."
+        },
+        {
+          "number": 11,
+          "text": "Annakokáért ezt mondja az Úr Isten: Ellenség jön és körülveszi e földet; ledönti hatalmadat és feldúlatnak a te palotáid."
+        },
+        {
+          "number": 12,
+          "text": "Ezt mondja az Úr: A mint a pásztor az oroszlán szájából csak a két lábszárt menti meg, vagy a fül hegyét; akképen menekülnek meg Izráel fiai, a kik Samariában pamlag szegletében ülnek és a nyugágynak selymén."
+        },
+        {
+          "number": 13,
+          "text": "Halljátok meg és adjátok tudtára a Jákób házának, azt mondja az Úr Isten, a Seregek Istene,"
+        },
+        {
+          "number": 14,
+          "text": "Hogy a mely napon megbüntetem Izráelt az ő vétkeiért, Béth-El oltáraiért is büntetek, és letöretnek az oltár szarvai, és a földre omlanak."
+        },
+        {
+          "number": 15,
+          "text": "És ledöntöm a téli házat a nyári házzal együtt, és elpusztulnak az elefántcsont-házak is, megsemmisülnek a nagy házak, ezt mondja az Úr."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Halljátok meg e beszédet Básánnak ünői, a kik Samaria hegyén vagytok; a kik nyomorgatjátok a szegényeket, megrontjátok az ügyefogyottakat, a kik azt mondják az ő uroknak: Hozd elő, hadd igyunk!"
+        },
+        {
+          "number": 2,
+          "text": "Megesküdt az Úr Isten az ő szentségére, hogy ímé napok következnek reátok, a mikor szigonyokkal visznek el titeket, és a ti maradékotokat halászó horgokkal."
+        },
+        {
+          "number": 3,
+          "text": "És a réseken mentek ki, mindenikőtök egyenest; és a Hermónba vettettek, ezt mondja az Úr."
+        },
+        {
+          "number": 4,
+          "text": "Menjetek Béth-Elbe és vétkezzetek, szaporítsátok a vétkeket Gilgálban. Vigyétek fel reggelente áldozataitokat, és harmad-naponként tizedeiteket."
+        },
+        {
+          "number": 5,
+          "text": "Kovászosból gyújtsatok hálaáldozatot; ajánljatok önkéntes áldozatokat, híreszteljétek; mert így szeretitek, Izráel fiai, azt mondja az Úr Isten."
+        },
+        {
+          "number": 6,
+          "text": "De én is bocsátottam rátok fogak tisztaságát minden városaitokban és kenyérszükséget minden helységeitekben, és még sem tértetek vissza hozzám, ezt mondja az Úr."
+        },
+        {
+          "number": 7,
+          "text": "De én is megvontam tőletek az esőt, három hónappal az aratás előtt, és esőt adtam egy városra, más városra pedig nem adtam esőt. Az egyik rész esőt kapott, az a rész pedig, a melyre nem esett eső, megszáradott."
+        },
+        {
+          "number": 8,
+          "text": "És két-három város tántorgott egy-egy városba, vizet inni, de meg nem elégíttettek; és még sem tértetek vissza hozzám, ezt mondja az Úr."
+        },
+        {
+          "number": 9,
+          "text": "Megvertelek titeket szárazsággal és ragyával; kerteiteknek, szőlőiteknek, fügefáitoknak és olajfáitoknak nagy részét megette a sáska; és még sem tértetek vissza én hozzám, ezt mondja az Úr."
+        },
+        {
+          "number": 10,
+          "text": "Döghalált bocsátottam rátok, mint Égyiptomra; fegyverrel öltem ifjaitokat, fogságra vitettem lovaitokat; és táborotok bűzét egész orrotokig emeltem, és még sem tértetek vissza hozzám, ezt mondja az Úr."
+        },
+        {
+          "number": 11,
+          "text": "Felforgattam közületek többeket, a mint felforgatta Isten Sodomát és Gomorát, és olyanokká lettetek, mint a tűzből kikapott üszök; és még sem tértetek vissza hozzám, ezt mondja az Úr."
+        },
+        {
+          "number": 12,
+          "text": "Azért hát ekképen cselekeszem veled Izráel! Minthogy pedig ekképen cselekeszem veled, készülj Istened elé, oh Izráel!"
+        },
+        {
+          "number": 13,
+          "text": "Mert ímé, a ki hegyeket alkotott és a szelet teremtette, és a ki megjelenti az embernek az ő gondolatját, a ki a hajnalt sötétséggé változtatja és a föld magaslatain lépdel: az Úr ő, a Seregeknek Istene az ő neve."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Halljátok meg e beszédet, a melyet síródalként szólok ti rólatok, Izráelnek háza!"
+        },
+        {
+          "number": 2,
+          "text": "Elesett, nem kel fel többé Izráelnek szűze; végig terült az ő földén, és nincs, a ki felemelné."
+        },
+        {
+          "number": 3,
+          "text": "Bizony így szól az Úr Isten: A mely város ezerrel indult ki, százzal marad csak meg; a mely pedig százzal indult ki, tízzel marad csak meg Izráel házául."
+        },
+        {
+          "number": 4,
+          "text": "Bizony így szól az Úr az Izráel házához: Engem keressetek, és éltek!"
+        },
+        {
+          "number": 5,
+          "text": "És ne keressétek Béth-Elt; Gilgálba se menjetek; Beér-Sebába se menjetek át. Mert Gilgál fogságba megy. Béth-El pedig semmivé lesz."
+        },
+        {
+          "number": 6,
+          "text": "Keressétek az Urat, és éltek, különben reátör, mint a tűz, a József házára és megemészti Béth-Elt, és nem lesz, a ki megoltsa."
+        },
+        {
+          "number": 7,
+          "text": "A kik ürömmé változtatják az ítéletet és az igazságot földre tiporják."
+        },
+        {
+          "number": 8,
+          "text": "A ki a fiastyúkot és a kaszáscsillagot teremtette; a ki reggellé változtatja a homályt és a nappalt éjszakává sötétíti; a ki hívja a tenger vizeit és kiönti azokat a földnek színére: az Úr annak a neve."
+        },
+        {
+          "number": 9,
+          "text": "A ki pusztulással sujtja a hatalmasokat, és pusztulás száll az erősségekre."
+        },
+        {
+          "number": 10,
+          "text": "Gyűlölik azt, a ki feddőzik a kapuban, és útálják azt, a ki feddhetetlenül beszél."
+        },
+        {
+          "number": 11,
+          "text": "Annakokáért, mivelhogy tiportátok a szegényt és gabona-ajándékot vesztek tőle: bár faragott kőből építtetek házakat, de nem lakoztok azokban, bár gyönyörűséges szőlőket plántáltok, de nem isztok azoknak borából."
+        },
+        {
+          "number": 12,
+          "text": "Mert tudom, hogy sok a ti bűnötök, és nagyok a ti vétkeitek! Igazak nyomorgatói, váltságdíj-szedők vagytok; és elnyomják a szegényeket a kapuban!"
+        },
+        {
+          "number": 13,
+          "text": "Azért hallgat az eszes ebben az időben, mert gonosz idő ez."
+        },
+        {
+          "number": 14,
+          "text": "Keressétek a jót és ne a gonoszt, hogy éljetek, és akkor veletek lesz az Úr, a Seregek Istene, a mint mondjátok."
+        },
+        {
+          "number": 15,
+          "text": "Gyűlöljétek a gonoszt és szeressétek a jót; állítsátok vissza a kapuban az igazságot; talán megkegyelmez az Úr, a Seregek Istene a József maradékinak."
+        },
+        {
+          "number": 16,
+          "text": "Azt mondja azért az Úr, a Seregek Istene, az én Uram: Minden térségen siralom lesz és minden utczán ezt mondják: jaj, jaj! s a szántóvetőt is gyászra hívják, s a sírni tudókat siralomra;"
+        },
+        {
+          "number": 17,
+          "text": "És minden szőlőben siralom lesz, mert átmegyek te közötted, ezt mondja az Úr."
+        },
+        {
+          "number": 18,
+          "text": "Jaj azoknak, a kik kívánják az Úrnak napját! Mire való néktek az Úrnak napja? Sötétség az és nem világosság."
+        },
+        {
+          "number": 19,
+          "text": "Mintha valaki oroszlán elől szaladna, és medve bukkanna rá; vagy pedig bemenne a házba és kezét a falhoz támasztaná, és kígyó marná meg."
+        },
+        {
+          "number": 20,
+          "text": "Nem sötétség lesz-é az Úrnak napja és nem világosság?! Sötétség lesz az, s még hajnalfénye sem lesz."
+        },
+        {
+          "number": 21,
+          "text": "Gyűlölöm, megvetem a ti ünnepeiteket, és nem gyönyörködöm a ti összejöveteleitekben."
+        },
+        {
+          "number": 22,
+          "text": "Még ha égőáldozatokkal áldoztok is nékem, sőt ételáldozataitokat sem kedvelem; kövér hálaáldozataitokra rá se tekintek."
+        },
+        {
+          "number": 23,
+          "text": "Távoztasd el tőlem énekeid zaját, hárfáid pengését sem hallgathatom."
+        },
+        {
+          "number": 24,
+          "text": "Hanem folyjon az ítélet, mint a víz, és az igazság, mint a bővizű patak."
+        },
+        {
+          "number": 25,
+          "text": "Járultatok-é hozzám véres áldozatokkal s ételáldozatokkal a pusztában negyven éven át, oh Izráel háza?!"
+        },
+        {
+          "number": 26,
+          "text": "Majd viszitek hát Szikkútot, a ti királyotokat és Kijjunt, a ti képeiteket, a ti isteneitek csillagát, a melyet ti csináltatok magatoknak."
+        },
+        {
+          "number": 27,
+          "text": "És Damaskuson túlra száműzlek titeket, azt mondja az Úr, a kinek neve Seregeknek Istene."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jaj azoknak, a kik gondtalanul élnek a Sionon, és a kik elbizakodnak Samaria hegyén; a kik a népek elejének elei, és a kikhez jő az Izráelnek háza!"
+        },
+        {
+          "number": 2,
+          "text": "Menjetek át Kalnéba, és nézzetek szét; onnan pedig menjetek a nagy Hamátba, és szálljatok le a Filiszteusok Gáthjába; vajjon jobbak-é azok, mint ezek az országok, és vajjon szélesebb-é azoknak határa a ti határotoknál?"
+        },
+        {
+          "number": 3,
+          "text": "A kik a veszedelem napját messze gondoljátok, és az erőszaknak széket emeltek;"
+        },
+        {
+          "number": 4,
+          "text": "A kik elefántcsont pamlagon hevernek, és az ő nyoszolyáikban elnyújtózkodnak, és a nyáj legjavából és a kihízlalt borjakból lakmároznak;"
+        },
+        {
+          "number": 5,
+          "text": "A kik hárfa mellett dalolgatnak, és azt hiszik, hogy hangszereik a Dávidéi;"
+        },
+        {
+          "number": 6,
+          "text": "A kik a bort serlegekkel iszszák, és szín-olajjal kenegetőznek, és nem búsulnak a József romlásán:"
+        },
+        {
+          "number": 7,
+          "text": "Most azért is ők vitetnek el a száműzöttek élén, és vége szakad a nyújtózkodók dáridózásának."
+        },
+        {
+          "number": 8,
+          "text": "Megesküdt az Úr Isten az ő életére; ezt mondja az Úr, a Seregek Istene: Útálom a Jákób kevélységét és gyűlölöm az ő palotáit; azért prédára vetem a várost mindenestől."
+        },
+        {
+          "number": 9,
+          "text": "És ha egy házban tíz ember maradna is meg, még az is meghal;"
+        },
+        {
+          "number": 10,
+          "text": "És mikor felemeli őt az ő barátja és megégetője, hogy kivigye a holttetemeket a házból, azt mondja annak, a ki a ház belsejében lesz: Van-é még valaki veled? az pedig azt mondja: Nincs, és ezt is mondja: Csitt! mert nem szabad említeni az Úrnak nevét!"
+        },
+        {
+          "number": 11,
+          "text": "Mert ímé, parancsol az Úr és megveri a nagy házat repedezésekkel, és a kicsiny házat hasadozásokkal."
+        },
+        {
+          "number": 12,
+          "text": "Vajjon futhatnak-é a lovak a sziklán? felszánthatja-é azt valaki ökrökön? hogy az ítéletet bürökké tettétek, az igazság gyümölcsét pedig ürömmé?!"
+        },
+        {
+          "number": 13,
+          "text": "A kik örültök a hiábavaló dolognak, és a kik ezt mondjátok: Nem a magunk erejével szereztünk-é magunknak a szarvakat?"
+        },
+        {
+          "number": 14,
+          "text": "Ímé, bizony népet indítok ellened, oh Izráel háza, azt mondja az Úr, a Seregek Istene, és az sanyargat titeket a hámáti úttól az Arába patakjáig."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ily dolgot láttatott velem az Úr Isten; Ímé, teremte sáskát a sarjúfakadás kezdetén, és ímé sarjú vala a királyi kaszálás után!"
+        },
+        {
+          "number": 2,
+          "text": "És lőn, hogy a mint felemésztette a földnek füvét, azt mondám: Uram, Isten! légy kegyelmes, kérlek! Hogyan állhasson meg Jákób, hiszen kicsiny?!"
+        },
+        {
+          "number": 3,
+          "text": "Megengesztelődék az Úr e dologban: Nem lesz meg! mondá az Úr."
+        },
+        {
+          "number": 4,
+          "text": "Ily dolgot láttatott velem az Úr Isten: Ímé, tüzet híva elő ítéletre az Úr Isten, és megemészté az a nagy mélységet, és megemészté az országot."
+        },
+        {
+          "number": 5,
+          "text": "De mondám: Uram, Isten! hagyd abba, kérlek! Hogyan állhatna meg Jákób; hiszen kicsiny?!"
+        },
+        {
+          "number": 6,
+          "text": "Megengesztelődék az Úr e dologban: Ez sem lészen meg, mondá az Úr Isten!"
+        },
+        {
+          "number": 7,
+          "text": "Ily dolgot láttatott velem: Ímé, ott állott az Úr egy függőleges kőfalon, és a kezében mérő-zsinór vala."
+        },
+        {
+          "number": 8,
+          "text": "És monda az Úr nékem: Mit látsz Ámós? Én pedig mondám: Mérőzsinórt. És mondá az Úr: Ímé, mérőzsinórral mérek népemnek, az Izráelnek közepette, és nem bocsátok meg néki többé."
+        },
+        {
+          "number": 9,
+          "text": "Bizony elpusztulnak Izsáknak magaslatai, és romba dőlnek Izráel szent helyei; és fegyverrel támadok a Jeroboám háza ellen."
+        },
+        {
+          "number": 10,
+          "text": "És elkülde Amáziás, Béth-El papja Jeroboámhoz, Izráel királyához, ezt üzenvén: Pártot ütött ellened Ámós az Izráel házában; nem tűrheti az ország az ő mindenféle beszédét."
+        },
+        {
+          "number": 11,
+          "text": "Mert így beszél Ámós: Fegyver által hal meg Jeroboám, az Izráel pedig fogságba vitetik az ő földéről!"
+        },
+        {
+          "number": 12,
+          "text": "Ámósnak pedig így szólt Amáziás: Menj el, próféta! Fuss el a Júda földére; ott egyed kenyered és ottan prófétálj!"
+        },
+        {
+          "number": 13,
+          "text": "Béth-Elben pedig ne prófétálj többé; mert a király szenthelye és az ország székháza ez!"
+        },
+        {
+          "number": 14,
+          "text": "És felele Ámós, és mondá Amáziásnak: Nem vagyok próféta, sem prófétának fia; barom-pásztor vagyok és vad fügét szedek;"
+        },
+        {
+          "number": 15,
+          "text": "De elhívott engem az Úr a nyáj mellől, és mondá nékem az Úr: Menj el és prófétálj az én népemnek, az Izráelnek!"
+        },
+        {
+          "number": 16,
+          "text": "Most azért halld meg az Úrnak beszédét! Te azt mondod: Ne prófétálj az Izráel ellen, és ne szólj az Izsák háza ellen!"
+        },
+        {
+          "number": 17,
+          "text": "Azért így szól az Úr: Feleséged paráznává lesz a városban; fiaid és leányaid fegyver által hullnak el; földedet felosztják kötéllel, és te magad tisztátalan földön halsz meg; az Izráel pedig fogságba vitetik az ő földéről."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ily dolgot láttatott velem az Úr Isten: Ímé, egy kosár érett gyümölcs."
+        },
+        {
+          "number": 2,
+          "text": "És mondá: Mit látsz Ámós? És mondám: Egy kosár érett gyümölcsöt. És mondá az Úr nékem: Eljött vége az én népemnek, az Izráelnek; nem bocsátok meg néki többé!"
+        },
+        {
+          "number": 3,
+          "text": "Azon a napon jajjá változnak a templomi énekek, így szól az Úr Isten, és temérdek lesz a hulla; szó nélkül hányák mindenüvé."
+        },
+        {
+          "number": 4,
+          "text": "Halljátok meg ezt ti, kik a szegényre törtök, és e föld szegényeinek kipusztítására."
+        },
+        {
+          "number": 5,
+          "text": "Mondván: Mikor múlik el az újhold, hogy gabonát árulhassunk? és a szombat, hogy megnyithassuk a gabonás házat? hogy megkisebbítsük a vékát, és megnagyobbítsuk az árát, és hamis mértékkel csalhassunk?!"
+        },
+        {
+          "number": 6,
+          "text": "Hogy megvegyük a szegényeket pénzen, és a szűkölködőt egy öltő saruért, és eladhassuk a gabona hulladékát?!"
+        },
+        {
+          "number": 7,
+          "text": "Megesküdt az Úr a Jákób büszkeségére: Soha el nem felejtem semmi cselekedetöket!"
+        },
+        {
+          "number": 8,
+          "text": "Ne rendüljön-é meg e miatt a föld? És ne búsuljon-é annak minden lakosa?! Bizony felindul egészen, mint a folyam, és dagad és apad, mint Égyiptom folyója."
+        },
+        {
+          "number": 9,
+          "text": "És lészen azon a napon, azt mondja az Úr Isten: Lenyugtatom a napot délben, és besötétítem a földet fényes nappal."
+        },
+        {
+          "number": 10,
+          "text": "Ünnepeiteket búra változtatom; és minden dalotokat szomorú énekké! Gyászruhát borítok minden derékra, és kopaszságot minden fejre, és olyanná teszem, mint a ki egyetlen fiát siratja; a vége pedig, mint a keserűség napja!"
+        },
+        {
+          "number": 11,
+          "text": "Ímé, napok jőnek, azt mondja az Úr Isten, és éhséget bocsátok e földre; nem kenyér után való éhséget, sem víz után való szomjúságot, hanem az Úr beszédének hallgatása után."
+        },
+        {
+          "number": 12,
+          "text": "És vándorolni fognak tengertől tengerig és északtól fogva napkeletig. Futkosnak, hogy keressék az Úrnak beszédét, de nem találják meg."
+        },
+        {
+          "number": 13,
+          "text": "Azon a napon elepednek a deli szűzek, meg az ifjak is, a szomjúság miatt!"
+        },
+        {
+          "number": 14,
+          "text": "A kik Samaria bűnére esküsznek, és ezt mondják: Él a te istened, oh Dán: és él a te útad, oh Beérseba! Bizony elhullanak és nem kelnek fel többé!"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Látám az Urat állani az oltáron, és mondá: Üsd meg az oszlop fejét, hadd rendüljenek meg a küszöbök, és döntsd azokat mindnyájok fejére. A megmaradókat pedig fegyverrel ölöm meg. Nem fog elfutni közülök a futó, és nem menekül meg közülök a menekülő."
+        },
+        {
+          "number": 2,
+          "text": "Ha a Seolba ássák is be magokat, kezem onnan is kiragadja őket; és ha az égbe hágnának is fel, onnan is levonszom őket!"
+        },
+        {
+          "number": 3,
+          "text": "És ha a Kármel tetején rejtőznének is el, onnan is előkeresem és elhozom őket; és ha szemeim elől a tenger fenekére bújnának is, ott is parancsolok a kígyónak és megmarja őket."
+        },
+        {
+          "number": 4,
+          "text": "És ha fogságba mennek is ellenségeik előtt, ott is parancsolok a fegyvernek és megöli őket; és reájok fordítom szemeimet, vesztökre és nem javokra."
+        },
+        {
+          "number": 5,
+          "text": "Mert az Úr, a Seregek Ura az, a ki megérinti a földet és elolvad az, és jajgat annak minden lakója, és feldagad egészen, mint a folyam, meg elapad, mint Égyiptom folyója."
+        },
+        {
+          "number": 6,
+          "text": "A ki fenn az égben építé az ő boltozatát, és annak íveit a földre alapítá; a ki előhívja a tenger vizeit s kiönti azokat a földnek színére: az Úr az ő neve."
+        },
+        {
+          "number": 7,
+          "text": "Nem olyanok vagytok-é ti előttem, oh Izráel fiai, mint a Kusiták fiai?! ezt mondja az Úr. Nem én hoztam-é ki Izráelt Égyiptom földéről, és a Filiszteusokat Kaftorból, és a Siriabelieket Kirből?!"
+        },
+        {
+          "number": 8,
+          "text": "Ímé, az Úr Isten szemmel tartja a bűnös országot, és eltörlöm azt a földnek színéről. Mindazáltal még sem pusztítom el egészen a Jákóbnak házát, ezt mondja az Úr!"
+        },
+        {
+          "number": 9,
+          "text": "Mert ímé, én parancsolok és szétrázom Izráel házát minden népek között, a mint a rostával rázogatnak; de nem esik a földre egy szemecske sem."
+        },
+        {
+          "number": 10,
+          "text": "Fegyver által halnak meg az én népemnek minden bűnösei, a kik azt mondják: Nem ér el minket és nem jő reánk a veszedelem."
+        },
+        {
+          "number": 11,
+          "text": "Azon a napon felemelem a Dávid leomlott sátorát, és kijavítom repedezéseit, és felemelem omladékait, és megépítem azt, mint volt hajdanán."
+        },
+        {
+          "number": 12,
+          "text": "Hogy örökségképen bírják az Edom maradékát és mindama népeket, a kik az én nevemről neveztetnek, ezt mondja az Úr, a ki megcselekszi ezt!"
+        },
+        {
+          "number": 13,
+          "text": "Ímé, napok jőnek, ezt mondja az Úr, és ott éri a szántó az aratót, a szőlőtaposó a magvetőt. És a hegyek musttal csepegnek, a halmok pedig mind megáradnak."
+        },
+        {
+          "number": 14,
+          "text": "És hazahozom a fogságból az én népemet, az Izráelt, és fölépítik az elpusztult városokat, és lakoznak bennök. Szőlőket plántálnak és iszszák azok borát, és kerteket csinálnak és eszik azoknak gyümölcsét."
+        },
+        {
+          "number": 15,
+          "text": "És elplántálom őket az ő földjökbe; és nem szaggattatnak ki többé az ő földjökből, a melyet adtam nékik, azt mondja az Úr, a te Istened!"
+        }
+      ]
+    }
+  ]
+}

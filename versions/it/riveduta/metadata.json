@@ -1,0 +1,18 @@
+{
+  "slug": "riveduta",
+  "shortName": "RIV",
+  "name": "Bibbia Riveduta 1927",
+  "language": "it",
+  "year": 1927,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Luzzi translation; Luzzi d. 1930, work entered Italian public domain after 70 years).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/riveduta",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

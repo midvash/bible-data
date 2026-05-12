@@ -1,0 +1,1833 @@
+{
+  "version": "kar",
+  "book": "1Cor",
+  "bookId": 46,
+  "englishName": "1 Corinthians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pál, Jézus Krisztusnak Isten akaratából elhívott apostola, és Sosthenes, az atyafi."
+        },
+        {
+          "number": 2,
+          "text": "Az Isten gyülekezetének, a mely Korinthusban van, a Krisztus Jézusban megszentelteknek, elhívott szenteknek, mindazokkal egybe, a kik a mi Urunk Jézus Krisztus nevét segítségül hívják bármely helyen, a magokén és a miénken:"
+        },
+        {
+          "number": 3,
+          "text": "Kegyelem néktek és békesség Istentől, a mi Atyánktól, és az Úr Jézus Krisztustól."
+        },
+        {
+          "number": 4,
+          "text": "Hálát adok az én Istenemnek mindenkor ti felőletek az Isten ama kegyelméért, mely néktek a Krisztus Jézusban adatott,"
+        },
+        {
+          "number": 5,
+          "text": "Mivelhogy mindenben meggazdagodtatok ő benne, minden beszédben és minden ismeretben,"
+        },
+        {
+          "number": 6,
+          "text": "A mint megerősíttetett ti bennetek a Krisztus felől való bizonyságtétel."
+        },
+        {
+          "number": 7,
+          "text": "Úgy, hogy semmi kegyelmi ajándék nélkül nem szűkölködtök, várván a mi Urunk Jézus Krisztusnak megjelenését,"
+        },
+        {
+          "number": 8,
+          "text": "A ki meg is erősít titeket mindvégig feddhetetlenségben, a mi Urunk Jézus Krisztusnak napján."
+        },
+        {
+          "number": 9,
+          "text": "Hű az Isten, ki elhívott titeket az ő Fiával, a mi Urunk Jézus Krisztussal való közösségre,"
+        },
+        {
+          "number": 10,
+          "text": "Kérlek azonban titeket atyámfiai, a mi Urunk Jézus Krisztus nevére, hogy mindnyájan egyképen szóljatok és ne legyenek köztetek szakadások, de legyetek teljesen egyek ugyanazon értelemben és ugyanazon véleményben."
+        },
+        {
+          "number": 11,
+          "text": "Mert megtudtam felőletek atyámfiai a Kloé embereitől, hogy versengések vannak köztetek."
+        },
+        {
+          "number": 12,
+          "text": "Azt értem pedig, hogy mindenitek ezt mondja: Én Pálé vagyok, én meg Apollósé, én meg Kéfásé, én meg Krisztusé."
+        },
+        {
+          "number": 13,
+          "text": "Vajjon részekre osztatott-é a Krisztus? Vajjon Pál feszíttetett-é meg érettetek, vagy a Pál nevére kereszteltettetek-é meg?"
+        },
+        {
+          "number": 14,
+          "text": "Hálákat adok az Istennek, hogy senkit sem kereszteltem meg közületek, kivéve Krispust és Gájust,"
+        },
+        {
+          "number": 15,
+          "text": "Hogy valaki azt ne mondja, hogy a magam nevére kereszteltem."
+        },
+        {
+          "number": 16,
+          "text": "Megkereszteltem azonban Stefana házanépét is, ezenkívül nem tudom, hogy valakit mást kereszteltem volna."
+        },
+        {
+          "number": 17,
+          "text": "Mert nem azért küldött engem a Krisztus, hogy kereszteljek, hanem hogy az evangyéliomot hirdessem; de nem szólásban való bölcseséggel, hogy a Krisztus keresztje hiábavaló ne legyen."
+        },
+        {
+          "number": 18,
+          "text": "Mert a keresztről való beszéd bolondság ugyan azoknak, a kik elvesznek; de nekünk, kik megtartatunk, Istennek ereje."
+        },
+        {
+          "number": 19,
+          "text": "Mert meg van írva: Elvesztem a bölcseknek bölcseségét és az értelmeseknek értelmét elvetem."
+        },
+        {
+          "number": 20,
+          "text": "Hol a bölcs? hol az írástudó? hol e világnak vitázója? Nemde nem bolondsággá tette-é Isten e világnak bölcseségét?"
+        },
+        {
+          "number": 21,
+          "text": "Mert minekutána az Isten bölcseségében nem ismerte meg a világ a bölcseség által az Istent, tetszék az Istennek, hogy az igehirdetés bolondsága által tartsa meg a hívőket."
+        },
+        {
+          "number": 22,
+          "text": "Mert egyfelől a zsidók jelt kívánnak, másfelől a görögök bölcseséget keresnek."
+        },
+        {
+          "number": 23,
+          "text": "Mi pedig Krisztust prédikáljuk, mint megfeszítettet, a zsidóknak ugyan botránkozást, a görögöknek pedig bolondságot;"
+        },
+        {
+          "number": 24,
+          "text": "Ámde magoknak a hivatalosoknak, úgy zsidóknak, mint görögöknek Krisztust, Istennek hatalmát és Istennek bölcseségét."
+        },
+        {
+          "number": 25,
+          "text": "Mert az Isten bolondsága bölcsebb az embereknél, és az Isten erőtelensége erősebb az embereknél."
+        },
+        {
+          "number": 26,
+          "text": "Mert tekintsétek csak a ti hivatástokat, atyámfiai, hogy nem sokan hívattak bölcsek test szerint, nem sokan hatalmasak, nem sokan nemesek;"
+        },
+        {
+          "number": 27,
+          "text": "Hanem a világ bolondjait választotta ki magának az Isten, hogy megszégyenítse a bölcseket; és a világ erőtleneit választotta ki magának az Isten, hogy megszégyenítse az erőseket;"
+        },
+        {
+          "number": 28,
+          "text": "És a világ nemteleneit és megvetettjeit választotta ki magának az Isten, és a semmiket, hogy a valamiket megsemmisítse:"
+        },
+        {
+          "number": 29,
+          "text": "Hogy ne dicsekedjék ő előtte egy test sem."
+        },
+        {
+          "number": 30,
+          "text": "Tőle vagytok pedig ti a Krisztus Jézusban, ki bölcseségül lőn nékünk Istentől, és igazságul, szentségül és váltságul:"
+        },
+        {
+          "number": 31,
+          "text": "Hogy, a mint meg van írva: A ki dicsekedik, az Úrban dicsekedjék."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Én is, mikor hozzátok mentem, atyámfiai, nem mentem, hogy nagy ékesszólással, avagy bölcseséggel hirdessem néktek az Isten bizonyságtételét."
+        },
+        {
+          "number": 2,
+          "text": "Mert nem végeztem, hogy egyébről tudjak ti köztetek, mint a Jézus Krisztusról, még pedig mint megfeszítettről."
+        },
+        {
+          "number": 3,
+          "text": "És én erőtlenség, félelem és nagy rettegés közt jelentem meg ti köztetek."
+        },
+        {
+          "number": 4,
+          "text": "És az én beszédem és az én prédikálásom nem emberi bölcseségnek hitető beszédiben állott, hanem léleknek és erőnek megmutatásában:"
+        },
+        {
+          "number": 5,
+          "text": "Hogy a ti hitetek ne emberek bölcseségén, hanem Istennek erején nyugodjék."
+        },
+        {
+          "number": 6,
+          "text": "Bölcseséget pedig a tökéletesek között szólunk; ámde nem e világnak, sem e világ veszendő fejedelmeinek bölcseségét;"
+        },
+        {
+          "number": 7,
+          "text": "Hanem Istennek titkon való bölcseségét szóljuk, azt az elrejtetett, melyet öröktől fogva elrendelt az Isten a mi dicsőségünkre;"
+        },
+        {
+          "number": 8,
+          "text": "Melyet e világ fejedelmei közül senki sem ismert, mert ha megismerték volna, nem feszítették volna meg a dicsőség Urát:"
+        },
+        {
+          "number": 9,
+          "text": "Hanem, a mint meg van írva: A miket szem nem látott, fül nem hallott és embernek szíve meg se gondolt, a miket Isten készített az őt szeretőknek."
+        },
+        {
+          "number": 10,
+          "text": "Nekünk azonban az Isten kijelentette az ő Lelke által: mert a Lélek mindeneket vizsgál, még az Istennek mélységeit is."
+        },
+        {
+          "number": 11,
+          "text": "Mert kicsoda tudja az emberek közül az ember dolgait, hanemha az embernek lelke, a mely ő benne van? Azonképen az Isten dolgait sem ismeri senki, hanemha az Istennek Lelke."
+        },
+        {
+          "number": 12,
+          "text": "Mi pedig nem e világnak lelkét vettük, hanem az Istenből való Lelket; hogy megismerjük azokat, a miket Isten ajándékozott nékünk."
+        },
+        {
+          "number": 13,
+          "text": "Ezeket prédikáljuk is, nem oly beszédekkel, melyekre emberi bölcseség tanít, hanem a melyekre a Szent Lélek tanít; lelkiekhez lelkieket szabván."
+        },
+        {
+          "number": 14,
+          "text": "Érzéki ember pedig nem foghatja meg az Isten Lelkének dolgait: mert bolondságok néki; meg sem értheti, mivelhogy lelkiképen ítéltetnek meg."
+        },
+        {
+          "number": 15,
+          "text": "A lelki ember azonban mindent megítél, de ő senkitől sem ítéltetik meg."
+        },
+        {
+          "number": 16,
+          "text": "Mert ki érte fel az Úrnak értelmét, hogy megoktathatná őt? Bennünk pedig Krisztus értelme van."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Én sem szólhattam néktek, atyámfiai, mint lelkieknek, hanem mint testieknek, mint a Krisztusban kisdedeknek."
+        },
+        {
+          "number": 2,
+          "text": "Téjnek italával tápláltalak titeket és nem kemény eledellel, mert még nem bírtátok volna meg, sőt még most sem bírjátok meg:"
+        },
+        {
+          "number": 3,
+          "text": "Mert még testiek vagytok; mert a mikor írigykedés, versengés és visszavonás van köztetek, vajjon nem testiek vagytok-é és nem ember szerint jártok-é?"
+        },
+        {
+          "number": 4,
+          "text": "Mert mikor egyik ezt mondja: Én Pálé vagyok; a másik meg: Én Apollósé; nem testiek vagytok-é?"
+        },
+        {
+          "number": 5,
+          "text": "Hát kicsoda Pál és kicsoda Apollós? Csak szolgák, kik által hívőkké lettetek, és pedig a mint kinek-kinek az Úr adta."
+        },
+        {
+          "number": 6,
+          "text": "Én plántáltam, Apollós öntözött; de az Isten adja vala a növekedést."
+        },
+        {
+          "number": 7,
+          "text": "Azért sem a ki plántál, nem valami, sem a ki öntöz; hanem a növekedést adó Isten."
+        },
+        {
+          "number": 8,
+          "text": "A plántáló pedig és az öntöző egyek; de mindenik a maga jutalmát veszi a maga munkája szerint."
+        },
+        {
+          "number": 9,
+          "text": "Mert Isten munkatársai vagyunk: Isten szántóföldje, Isten épülete vagytok."
+        },
+        {
+          "number": 10,
+          "text": "Az Istennek nékem adott kegyelme szerint, mint bölcs építőmester, fundamentomot vetettem, de más épít reá. Kiki azonban meglássa mimódon épít reá."
+        },
+        {
+          "number": 11,
+          "text": "Mert más fundamentomot senki nem vethet azon kívül, a mely vettetett, mely a Jézus Krisztus."
+        },
+        {
+          "number": 12,
+          "text": "Ha pedig valaki aranyat, ezüstöt, drágaköveket, fát, szénát, pozdorját épít rá erre a fundamentomra;"
+        },
+        {
+          "number": 13,
+          "text": "Kinek-kinek munkája nyilván lészen: mert ama nap megmutatja, mivelhogy tűzben jelenik meg; és hogy kinek-kinek munkája minémű legyen, azt a tűz próbálja meg."
+        },
+        {
+          "number": 14,
+          "text": "Ha valakinek a munkája, a melyet ráépített, megmarad, jutalmát veszi."
+        },
+        {
+          "number": 15,
+          "text": "Ha valakinek a munkája megég, kárt vall. Ő maga azonban megmenekül, de úgy, mintha tűzön keresztül."
+        },
+        {
+          "number": 16,
+          "text": "Nem tudjátok-é, hogy ti Isten temploma vagytok, és az Isten Lelke lakozik bennetek?"
+        },
+        {
+          "number": 17,
+          "text": "Ha valaki az Isten templomát megrontja, megrontja azt az Isten. Mert az Istennek temploma szent, ezek vagytok ti."
+        },
+        {
+          "number": 18,
+          "text": "Senki se csalja meg magát. Ha valaki azt hiszi, hogy bölcs ti köztetek e világon, bolond legyen, hogy bölcscsé lehessen."
+        },
+        {
+          "number": 19,
+          "text": "Mert e világ bölcsesége bolondság az Isten előtt. Mert meg van írva: Megfogja a bölcseket az ő csalárdságukban."
+        },
+        {
+          "number": 20,
+          "text": "És ismét: Ismeri az Úr a bölcsek gondolatait, hogy hiábavalók."
+        },
+        {
+          "number": 21,
+          "text": "Azért senki se dicsekedjék emberekkel. Mert minden a tiétek."
+        },
+        {
+          "number": 22,
+          "text": "Akár Pál, akár Apollós, akár Kéfás, akár világ, akár élet, akár halál, akár jelenvalók, akár következendők, minden a tiétek.  Ti pedig Krisztusé, Krisztus pedig Istené."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Úgy tekintsen minket az ember, mint Krisztus szolgáit és Isten titkainak sáfárait."
+        },
+        {
+          "number": 2,
+          "text": "A mi pedig egyébiránt a sáfárokban megkívántatik, az, hogy mindenik hívnek találtassék."
+        },
+        {
+          "number": 3,
+          "text": "Rám nézve pedig igen csekély dolog, hogy ti tőletek ítéltessem meg, vagy emberi ítéletnaptól; sőt magam sem ítélem meg magamat."
+        },
+        {
+          "number": 4,
+          "text": "Mert semmit sem tudok magamra, de nem ebben vagyok megigazulva; a ki ugyanis engem megítél, az Úr az."
+        },
+        {
+          "number": 5,
+          "text": "Azért idő előtt semmit se ítéljetek, míg el nem jő az Úr, a ki egyrészt világra hozza a sötétségnek titkait, másrészt megjelenti a szíveknek tanácsait; és akkor mindenkinek az Istentől lészen a dícsérete."
+        },
+        {
+          "number": 6,
+          "text": "Ezeket pedig, atyámfiai, példában szabtam magamra és Apollósra ti érettetek, hogy rajtunk tanuljátok meg, hogy annakfelette a mi írva van, nem kell bölcselkedni; hogy senki se fuvalkodjék fel az egyikért a másik ellen."
+        },
+        {
+          "number": 7,
+          "text": "Mert kicsoda különböztet meg téged? Mid van ugyanis, a mit nem kaptál volna? Ha pedig úgy kaptad, mit dicsekedel, mintha nem kaptad volna?"
+        },
+        {
+          "number": 8,
+          "text": "Immár beteltetek, immár meggazdagodtatok, nálunk nélkül uralkodásra jutottatok; vajha csakugyan uralkodásra jutottatok volna, hogy mi is veletek egybe uralkodhatnánk."
+        },
+        {
+          "number": 9,
+          "text": "Mert úgy vélem, hogy az Isten minket, az apostolokat, utolsókul állított, mintegy halálra szántakul: mert látványossága lettünk a világnak, úgy angyaloknak, mint embereknek."
+        },
+        {
+          "number": 10,
+          "text": "Mi bolondok a Krisztusért, ti pedig bölcsek a Krisztusban; mi erőtlenek, ti pedig erősek; ti dicsőségesek, mi pedig gyalázatosak."
+        },
+        {
+          "number": 11,
+          "text": "Mindezideig éhezünk is, szomjúhozunk is, mezítelenkedünk is, bántalmaztatunk is, bujdosunk is,"
+        },
+        {
+          "number": 12,
+          "text": "Fáradozunk is, tulajdon kezünkkel munkálkodván; ha szidalommal illettetünk, jót kívánunk; ha háborúságot szenvedünk, békességgel tűrjük;"
+        },
+        {
+          "number": 13,
+          "text": "Ha gyaláztatunk, könyörgünk: szinte a világ szemetjévé lettünk, mindeneknek söpredékévé egész mostanig."
+        },
+        {
+          "number": 14,
+          "text": "Nem azért írom ezeket, hogy megszégyenítselek titeket, hanem mint szerelmes gyermekeimet intelek."
+        },
+        {
+          "number": 15,
+          "text": "Mert ha tízezer tanítómesteretek lenne is a Krisztusban, de nem sok atyátok; mert tőlem vagytok a Krisztus Jézusban az evangyéliom által."
+        },
+        {
+          "number": 16,
+          "text": "Kérlek azért titeket, legyetek az én követőim."
+        },
+        {
+          "number": 17,
+          "text": "Azért küldtem hozzátok Timótheust, ki nékem szeretett és hű fiam az Úrban, a ki eszetekbe juttatja néktek az én útaimat a Krisztusban, a mint mindenütt, minden gyülekezetben tanítok."
+        },
+        {
+          "number": 18,
+          "text": "De mintha el se mennék ti hozzátok, úgy felfuvalkodtak némelyek."
+        },
+        {
+          "number": 19,
+          "text": "Pedig elmegyek hamarosan hozzátok, ha az Úr akarándja; és megismerem a felfuvalkodottaknak nem a beszédjét, hanem az erejét."
+        },
+        {
+          "number": 20,
+          "text": "Mert nem beszédben áll az Istennek országa, hanem erőben."
+        },
+        {
+          "number": 21,
+          "text": "Mit akartok? Vesszővel menjek-é hozzátok, avagy szeretettel és szelídségnek lelkével?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Általában hallatszik köztetek paráznaság, még olyan paráznaság is, a milyen a pogányok között sem említtetik, hogy valaki atyjának feleségét elvegye."
+        },
+        {
+          "number": 2,
+          "text": "És ti fel vagytok fuvalkodva, és nem keseredtetek meg inkább, hogy kivettetnék közületek, a ki ezt a dolgot cselekedte."
+        },
+        {
+          "number": 3,
+          "text": "Mert én távol lévén ugyan testben, de jelen lévén lélekben, már elvégeztem, mintha jelen volnék, hogy azt, a ki ekként ezt cselekedte,"
+        },
+        {
+          "number": 4,
+          "text": "Ti és az én lelkem a mi Urunk Jézus Krisztusnak nevében egybegyűlvén, a mi Urunk Jézus Krisztus hatalmával"
+        },
+        {
+          "number": 5,
+          "text": "Átadjuk az ilyent a Sátánnak a testnek veszedelmére, hogy a lélek megtartassék az Úr Jézusnak ama napján."
+        },
+        {
+          "number": 6,
+          "text": "Nem jó a ti dicsekedéstek. Avagy nem tudjátok-é, hogy egy kicsiny kovász az egész tésztát megposhasztja."
+        },
+        {
+          "number": 7,
+          "text": "Tisztítsátok el azért a régi kovászt, hogy legyetek új tésztává, a minthogy kovász nélkül valók vagytok; mert hiszen a mi húsvéti bárányunk, a Krisztus, megáldoztatott érettünk."
+        },
+        {
+          "number": 8,
+          "text": "Azért ne régi kovászszal ünnepeljünk, sem rosszaságnak és gonoszságnak kovászával, hanem tisztaságnak és igazságnak kovásztalanságában."
+        },
+        {
+          "number": 9,
+          "text": "Azt írtam néktek ama levelemben, hogy paráznákkal ne társalkodjatok."
+        },
+        {
+          "number": 10,
+          "text": "De nem általában e világ paráznáival, vagy csalóival, vagy ragadozóival, vagy bálványimádóival; mert hiszen így ki kellene e világból mennetek."
+        },
+        {
+          "number": 11,
+          "text": "Most azért azt írom néktek, hogy ne társalkodjatok azzal, ha valaki atyafi létére parázna, vagy csaló, vagy bálványimádó, vagy szidalmazó, vagy részeges, vagy ragadozó. Az ilyennel még együtt se egyetek."
+        },
+        {
+          "number": 12,
+          "text": "Mert mi közöm ahhoz, hogy a kívülvalókról is ítéletet tegyek? avagy ti nem a belüllévők fölött tesztek-é ítéletet?"
+        },
+        {
+          "number": 13,
+          "text": "A kívülvalókat pedig majd az Isten ítéli meg. Vessétek ki azért a gonoszt magatok közül."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Merészel valaki ti közületek, ha peres dolga van a másikkal, az igaztalanok előtt törvénykezni, és nem a szentek előtt?"
+        },
+        {
+          "number": 2,
+          "text": "Nem tudjátok-é, hogy a szentek a világot ítélik meg? És ha ti ítélitek meg a világot, méltatlanok vagytok-é a legkisebb dolgokban való ítéletekre?"
+        },
+        {
+          "number": 3,
+          "text": "Nem tudjátok-é, hogy angyalokat fogunk ítélni, nemhogy életszükségre való dolgokat?"
+        },
+        {
+          "number": 4,
+          "text": "Azért ha életszükségre való dolgok felől van törvénykezéstek, a kik a gyülekezetben legalábbvalók, azokat ültessétek le."
+        },
+        {
+          "number": 5,
+          "text": "Megszégyenítéstekre mondom: Hát nincs ti köztetek egy bölcs ember sem, a ki ítéletet tehetne az ő atyjafiai között?"
+        },
+        {
+          "number": 6,
+          "text": "Hanem atyafi atyafival törvénykezik, még pedig hitetlenek előtt?"
+        },
+        {
+          "number": 7,
+          "text": "Egyáltalán már az is gyarlóság ti bennetek, hogy törvénykeztek egymással. Miért nem szenveditek inkább a bántalmazást? Miért nem tűritek inkább a kárt?"
+        },
+        {
+          "number": 8,
+          "text": "Sőt ti okoztok bántalmazást és kárt, még pedig atyátokfiainak."
+        },
+        {
+          "number": 9,
+          "text": "Avagy nem tudjátok-é, hogy igazságtalanok nem örökölhetik Istennek országát? Ne tévelyegjetek; se paráznák, se bálványimádók, se házasságtörők, se pulyák, se férfiszeplősítők,"
+        },
+        {
+          "number": 10,
+          "text": "Se lopók, se telhetetlenek, se részegesek, se szidalmazók, se ragadozók nem örökölhetik Isten országát."
+        },
+        {
+          "number": 11,
+          "text": "Ilyenek voltatok pedig némelyek, de megmosattattatok, de megszenteltettetek, de megigazíttattatok az Úr Jézusnak nevében és a mi Istenünk Lelke által."
+        },
+        {
+          "number": 12,
+          "text": "Minden szabad nékem, de nem minden használ; minden szabad nékem, de én nem adatom valakinek hatalma alá."
+        },
+        {
+          "number": 13,
+          "text": "Az eledelek a hasnak és a has az eledeleknek rendeltetett. Az Isten pedig mind ezt, mind amazokat eltörli. A test azonban nem a paráznaságnak rendeltetett, hanem az Úrnak, és az Úr a testnek."
+        },
+        {
+          "number": 14,
+          "text": "Az Isten pedig az Urat is feltámasztotta, minket is feltámaszt az ő hatalma által."
+        },
+        {
+          "number": 15,
+          "text": "Nem tudjátok-é, hogy a ti testeitek a Krisztusnak tagjai? Elszakítva hát a Krisztus tagjait, paráznának tagjaivá tegyem? Távol legyen."
+        },
+        {
+          "number": 16,
+          "text": "Avagy nem tudjátok-é, hogy a ki a paráznával egyesül, egy test vele? Mert ketten lesznek, úgymond, egy testté."
+        },
+        {
+          "number": 17,
+          "text": "A ki pedig az Úrral egyesül, egy lélek ő vele."
+        },
+        {
+          "number": 18,
+          "text": "Kerüljétek a paráznaságot. Minden bűn, melyet az ember cselekszik, a testen kívül van, de a ki paráználkodik, a maga teste ellen vétkezik."
+        },
+        {
+          "number": 19,
+          "text": "Avagy nem tudjátok-é, hogy a ti testetek a bennetek lakozó Szent Léleknek temploma, a melyet Istentől nyertetek; és nem a magatokéi vagytok?"
+        },
+        {
+          "number": 20,
+          "text": "Mert áron vétettetek meg; dicsőítsétek azért az Istent a ti testetekben és lelketekben, a melyek az Istenéi."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A mik felől pedig írtatok nékem, jó a férfiúnak asszonyt nem illetni."
+        },
+        {
+          "number": 2,
+          "text": "De a paráznaság miatt minden férfiúnak tulajdon felesége legyen, és minden asszonynak tulajdon férje."
+        },
+        {
+          "number": 3,
+          "text": "A feleségének adja meg a férj a köteles jóakaratot; hasonlóképen a feleség is a férjének."
+        },
+        {
+          "number": 4,
+          "text": "A feleség nem ura a maga testének, hanem a férje; hasonlóképen a férj sem ura a maga testének, hanem a felesége."
+        },
+        {
+          "number": 5,
+          "text": "Ne foszszátok meg egymást, hanemha egyenlő akaratból bizonyos ideig, hogy ráérjetek a bőjtölésre és az imádkozásra, azután ismét együvé térjetek, hogy a Sátán meg ne kísértsen titeket, mivelhogy magatokat meg nem tartóztathatjátok."
+        },
+        {
+          "number": 6,
+          "text": "Ezt pedig kedvezésképen mondom, nem parancsolat szerint."
+        },
+        {
+          "number": 7,
+          "text": "Mert szeretném, ha minden ember úgy volna, mint én magam is; de kinek kinek tulajdon kegyelmi ajándéka vagyon Istentől, egynek így, másnak pedig úgy."
+        },
+        {
+          "number": 8,
+          "text": "Mondom pedig a nem házasoknak és az özvegyasszonyoknak, hogy jó nékik, ha úgy maradhatnak, mint én is."
+        },
+        {
+          "number": 9,
+          "text": "De ha magukat meg nem tartóztathatják, házasságban éljenek: mert jobb házasságban élni, mint égni."
+        },
+        {
+          "number": 10,
+          "text": "Azoknak pedig, a kik házasságban vannak, hagyom nem én, hanem az Úr, hogy az asszony férjétől el ne váljék."
+        },
+        {
+          "number": 11,
+          "text": "Hogyha pedig elválik is, maradjon házasság nélkül, vagy béküljön meg férjével; és a férj se bocsássa el a feleségét."
+        },
+        {
+          "number": 12,
+          "text": "Egyebeknek pedig én mondom, nem az Úr: Ha valamely atyafinak hitetlen felesége van, és ez vele akar lakni, el ne bocsássa azt."
+        },
+        {
+          "number": 13,
+          "text": "És a mely asszonynak hitetlen férje van, és ez vele akar lakni, el ne bocsássa azt."
+        },
+        {
+          "number": 14,
+          "text": "Mert meg van szentelve a hitetlen férj az ő feleségében, és meg van szentelve a hitetlen asszony az ő férjében, mert különben a ti gyermekeitek tisztátalanok volnának, most pedig szentek."
+        },
+        {
+          "number": 15,
+          "text": "Ha pedig a hitetlen elválik, ám váljék el; nem vettetett szolgaság alá a keresztyén férfiú, vagy asszony az ilyen dolgokban. De békességre hívott minket az Isten."
+        },
+        {
+          "number": 16,
+          "text": "Mert mit tudod, te asszony, ha megmentheted-e a férjedet; vagy mit tudod, te férfiú, ha megmentheted-e a feleségedet?"
+        },
+        {
+          "number": 17,
+          "text": "Csak a mint kinek-kinek adta az Isten, a mint kit-kit elhívott az Úr, úgy járjon. És minden gyülekezetben ekképen rendelkezem."
+        },
+        {
+          "number": 18,
+          "text": "Körülmetélten hivatott el valaki? ne fedezze el azt; körülmetéletlenül hivatott el valaki? me metélkedjék körül."
+        },
+        {
+          "number": 19,
+          "text": "A körülmetélkedés semmi, a körülmetéletlenség is semmi; hanem Isten parancsolatainak megtartása."
+        },
+        {
+          "number": 20,
+          "text": "Kiki a mely hivatásban hívatott el, abban maradjon."
+        },
+        {
+          "number": 21,
+          "text": "Szolgai állapotban hivattattál el? Ne gondolj vele, sőt ha szabad lehetsz is, inkább élj azzal."
+        },
+        {
+          "number": 22,
+          "text": "Mert az Úrban elhívott szolga az Úrnak szabadosa; hasonlóképen a ki szabadságban hívatott el, Krisztusnak szolgája."
+        },
+        {
+          "number": 23,
+          "text": "Áron vétettetek meg, ne legyetek embereknek szolgái."
+        },
+        {
+          "number": 24,
+          "text": "Kiki a miben elhívatott, atyámfiai, abban maradjon meg az Isten előtt."
+        },
+        {
+          "number": 25,
+          "text": "A hajadonok felől nincs ugyan parancsolatom az Úrtól, de tanácsot adok úgy, mint a ki irgalmasságot nyertem az Úrtól, hogy hitelreméltó legyek."
+        },
+        {
+          "number": 26,
+          "text": "Úgy ítélem azért, hogy jó ez a jelenvaló szükség miatt, hogy tudniillik jó az embernek úgy maradni."
+        },
+        {
+          "number": 27,
+          "text": "Feleséghez köttettél? Ne keress elválást. Megszabadultál feleségedtől? Ne keress feleséget."
+        },
+        {
+          "number": 28,
+          "text": "De ha veszel is feleséget, nem vétkezel; és ha férjhez megy is a hajadon, nem vétkezik ; de az ilyeneknek háborúságuk lesz a testben. Én pedig kedveznék néktek."
+        },
+        {
+          "number": 29,
+          "text": "Ezt pedig azért mondom, atyámfiai, mert az idő rövidre van szabva ezentúl, azért a kiknek van is feleségök, úgy legyenek, mintha nem volna."
+        },
+        {
+          "number": 30,
+          "text": "És a kik sírnak, mintha nem sírnának; és a kik vígadnak, mintha nem vígadnának; a kik vesznek, mintha semmijök sem volna."
+        },
+        {
+          "number": 31,
+          "text": "És a kik élnek e világgal, mintha nem élnének: mert elmúlik e világnak ábrázatja."
+        },
+        {
+          "number": 32,
+          "text": "Azt akarnám pedig, hogy ti gond nélkül legyetek. A ki házasság nélkül van, arra visel gondot, a mi az Úré, mimódon kedveskedhessék az Úrnak;"
+        },
+        {
+          "number": 33,
+          "text": "A ki pedig feleséget vett, a világiakra visel gondot, mimódon kedveskedhessék a feleségének."
+        },
+        {
+          "number": 34,
+          "text": "Különbözik egymástól az asszony és a hajadon. A ki nem ment férjhez, az Úr dolgaira visel gondot, hogy szent legyen mind testében, mind lelkében; a ki pedig férjhez ment, a világiakra visel gondot, mimódon kedveskedhessék a férjének."
+        },
+        {
+          "number": 35,
+          "text": "Ezt pedig a ti hasznotokra mondom; nem hogy tőrt vessek néktek, hanem hogy illendőképen és állhatatosan ragaszkodjatok az Úrhoz háboríthatatlanul."
+        },
+        {
+          "number": 36,
+          "text": "De ha valaki szégyennek tartja az ő hajadon leányára, ha virágzó idejét múlja, és úgy kell történnie, a mit akar, azt cselekedje, nem vétkezik; menjenek férjhez."
+        },
+        {
+          "number": 37,
+          "text": "A ki pedig szilárdan áll a szívében és a szükség nem kényszeríti, hatalma pedig van a tulajdon akarata fölött, és azt végezte el szívében, hogy megtartja hajadon leányát, jól cselekszi."
+        },
+        {
+          "number": 38,
+          "text": "Azért, a ki férjhez adja, az is jól cselekszi, de a ki nem adja férjhez, még jobban cselekszi."
+        },
+        {
+          "number": 39,
+          "text": "Az asszonyt törvény köti, míg férje él, de ha férje meghal, szabadon férjhez mehet, a kihez akar, csakhogy az Úrban."
+        },
+        {
+          "number": 40,
+          "text": "De boldogabb, ha úgy marad, az én véleményem szerint; pedig hiszem, hogy bennem is Istennek lelke van."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A bálványáldozatok felől pedig tudjuk, hogy mindnyájunknak van ismeretünk. Az ismeret felfuvalkodottá tesz, a szeretet pedig épít."
+        },
+        {
+          "number": 2,
+          "text": "Ha pedig valaki azt hiszi, hogy tud valamit, még semmit sem ismer úgy, a mint ismernie kell."
+        },
+        {
+          "number": 3,
+          "text": "Hanem ha valaki az Istent szereti, az ismertetik ő tőle."
+        },
+        {
+          "number": 4,
+          "text": "Tehát a bálványáldozati hús evése felől tudjuk, hogy egy bálvány sincs a világon, és hogy Isten sincs senki más, hanem csak egy."
+        },
+        {
+          "number": 5,
+          "text": "Mert ha vannak is úgynevezett istenek akár az égben, akár a földön, a minthogy van sok isten és sok úr;"
+        },
+        {
+          "number": 6,
+          "text": "Mindazáltal nekünk egy Istenünk van, az Atya, a kitől van a mindenség, mi is ő benne; és egy Urunk, a Jézus Krisztus, a ki által van a mindenség, mi is ő általa."
+        },
+        {
+          "number": 7,
+          "text": "De nem mindenkiben van meg ez az ismeret; sőt némelyek a bálvány felől való lelkiismeretök szerint mind mai napig mint bálványáldozatot eszik, és az ő lelkiismeretök, mivelhogy erőtelen, megfertőztetik."
+        },
+        {
+          "number": 8,
+          "text": "Pedig az eledel nem tesz minket kedvesekké Isten előtt; mert ha eszünk is, nem leszünk gazdagabbak; ha nem eszünk is, nem leszünk szegényebbek."
+        },
+        {
+          "number": 9,
+          "text": "De meglássátok, hogy ez a ti szabadságtok valamiképen botránkozásukra ne legyen az erőteleneknek."
+        },
+        {
+          "number": 10,
+          "text": "Mert ha valaki meglát téged, a kinek ismereted van, hogy a bálványtemplomnál vendégeskedel, annak lelkiismerete, mivelhogy erőtelen, nem arra indíttatik-é, hogy megegye a bálványáldozatot?"
+        },
+        {
+          "number": 11,
+          "text": "És a te ismereted miatt elkárhozik a te erőtelen atyádfia, a kiért Krisztus meghalt."
+        },
+        {
+          "number": 12,
+          "text": "Így aztán, mikor az atyafiak ellen vétkeztek, és az ő erőtelen lelkiismeretüket megsértitek, a Krisztus ellen vétkeztek."
+        },
+        {
+          "number": 13,
+          "text": "Annakokáért, ha eledel botránkoztatja meg az én atyámfiát, inkább soha sem eszem húst, hogy az én atyámfiát meg ne botránkoztassam."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nem vagyok-é apostol? Nem vagyok-é szabad? Nem láttam-é Jézus Krisztust, a mi Urunkat? Nem az én munkám vagytok-é ti az Úrban?"
+        },
+        {
+          "number": 2,
+          "text": "Ha egyebeknek nem vagyok apostoluk, de bizony néktek az vagyok, mert az én apostolságomnak pecsétje az Úrban ti vagytok."
+        },
+        {
+          "number": 3,
+          "text": "Ez az én védelmem azok ellenében, a kik vádolnak engem."
+        },
+        {
+          "number": 4,
+          "text": "Nincsen-é arra jogunk, hogy együnk és igyunk?"
+        },
+        {
+          "number": 5,
+          "text": "Nincsen-é arra jogunk, hogy keresztyén feleségünket magunkkal hordozzuk, mint a többi apostolok is és az Úrnak atyjafiai és Kéfás?"
+        },
+        {
+          "number": 6,
+          "text": "Avagy csak nekem és Barnabásnak nincs-é jogunk, hogy ne dolgozzunk?"
+        },
+        {
+          "number": 7,
+          "text": "Kicsoda katonáskodik valaha a maga zsoldján? Kicsoda plántál szőlőt, és nem eszik annak gyümölcséből? Vagy kicsoda legeltet nyájat, és nem eszik a nyájnak tejéből?"
+        },
+        {
+          "number": 8,
+          "text": "Vajjon emberi módon beszélem-é ezeket? vagy nem ezeket mondja-é a törvény is?"
+        },
+        {
+          "number": 9,
+          "text": "Mert a Mózes törvényében meg van írva: Ne kösd fel a nyomtató ökörnek száját. Avagy az ökrökre van-é az Istennek gondja?"
+        },
+        {
+          "number": 10,
+          "text": "Avagy nem érettünk mondja-é általában? Mert mi érettünk íratott meg, hogy a ki szánt, reménység alatt kell szántania, és a ki csépel, az ő reménységében részesnek lennie reménység alatt."
+        },
+        {
+          "number": 11,
+          "text": "Ha mi néktek a lelkieket vetettük, nagy dolog-é, ha mi a ti testi javaitokat aratjuk?"
+        },
+        {
+          "number": 12,
+          "text": "Ha egyebek részesülnek a ti javaitokban, mért nem inkább mi? De mi nem éltünk e szabadsággal; hanem mindent eltűrünk, hogy valami akadályt ne gördítsünk a Krisztus evangyélioma elé."
+        },
+        {
+          "number": 13,
+          "text": "Nem tudjátok-é, hogy a kik a szent dolgokban munkálkodnak, a szent helyből élnek, és a kik az oltár körül forgolódnak, az oltárral együtt veszik el részüket?"
+        },
+        {
+          "number": 14,
+          "text": "Ekképen rendelte az Úr is, hogy a kik az evangyéliomot hirdetik, az evangyéliomból éljenek."
+        },
+        {
+          "number": 15,
+          "text": "De én ezek közül egygyel sem éltem. Nem azért írtam azonban ezeket, hogy velem is így történjék, mert jobb nékem meghalnom, hogysem valaki hiábavalóvá tegye az én dicsekedésemet."
+        },
+        {
+          "number": 16,
+          "text": "Mert ha az evangyéliomot hirdetem, nem dicsekedhetem, mert szükség kényszerít engem. Jaj ugyanis nékem, ha az evangyéliomot nem hirdetem."
+        },
+        {
+          "number": 17,
+          "text": "Mert ha akaratom szerint mívelem ezt, jutalmam van; ha pedig akaratom nélkül, sáfársággal bízattam meg."
+        },
+        {
+          "number": 18,
+          "text": "Micsoda tehát az én jutalmam? Hogy prédikálásommal ingyenvalóvá tegyem a Krisztus evangyéliomát, hogy ne használjam ki ama szabadságomat az evangyéliom hirdetésénél."
+        },
+        {
+          "number": 19,
+          "text": "Mert én, noha mindenkivel szemben szabad vagyok, magamat mindenkinek szolgájává tettem, hogy a többséget megnyerjem."
+        },
+        {
+          "number": 20,
+          "text": "És a zsidóknak zsidóvá lettem, hogy zsidókat nyerjek meg; a törvény alatt valóknak törvény alatt valóvá, hogy a törvény alatt valókat megnyerjem;"
+        },
+        {
+          "number": 21,
+          "text": "A törvény nélkül valóknak törvénynélkülivé, noha nem vagyok Isten törvénye nélkül, hanem Krisztus törvényében való, hogy törvény nélkül valókat nyerjek meg."
+        },
+        {
+          "number": 22,
+          "text": "Az erőtleneknek erőtelenné lettem, hogy az erőteleneket megnyerjem. Mindeneknek mindenné lettem, hogy minden módon megtartsak némelyeket."
+        },
+        {
+          "number": 23,
+          "text": "Ezt pedig az evangyéliomért mívelem, hogy részestárs legyek abban."
+        },
+        {
+          "number": 24,
+          "text": "Nem tudjátok-é, hogy a kik versenypályán futnak, mindnyájan futnak ugyan, de egy veszi el a jutalmat? Úgy fussatok, hogy elvegyétek."
+        },
+        {
+          "number": 25,
+          "text": "Mindaz pedig a ki pályafutásban tusakodik, mindenben magatűrtető; azok ugyan, hogy romlandó koszorút nyerjenek, mi pedig romolhatatlant."
+        },
+        {
+          "number": 26,
+          "text": "Én azért úgy futok, mint nem bizonytalanra; úgy viaskodom, mint a ki nem levegőt vagdos;"
+        },
+        {
+          "number": 27,
+          "text": "Hanem megsanyargatom testemet és szolgává teszem; hogy míg másoknak prédikálok, magam valami módon méltatlanná ne legyek."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nem akarom pedig, hogy ne tudjátok, atyámfiai, hogy a mi atyáink mindnyájan a felhő alatt voltak, és mindnyájan a tengeren mentek által;"
+        },
+        {
+          "number": 2,
+          "text": "És mindnyájan Mózesre keresztelkedtek meg a felhőben és a tengerben;"
+        },
+        {
+          "number": 3,
+          "text": "És mindnyájan egy lelki eledelt ettek;"
+        },
+        {
+          "number": 4,
+          "text": "És mindnyájan egy lelki italt ittak, mert ittak a lelki kősziklából, a mely követi vala őket, e kőszikla pedig a Krisztus volt."
+        },
+        {
+          "number": 5,
+          "text": "De azoknak többségét nem kedvelé az Isten, mert elhullának a pusztában."
+        },
+        {
+          "number": 6,
+          "text": "Ezek pedig példáink lőnek, hogy mi ne kívánjunk gonosz dolgokat, a miképen azok kívántak."
+        },
+        {
+          "number": 7,
+          "text": "Se bálványimádók ne legyetek, mint azok közül némelyek, a mint meg van írva: Leüle a nép enni és inni, és felkelének játszani."
+        },
+        {
+          "number": 8,
+          "text": "Se pedig ne paráználkodjunk mint azok közül paráználkodtak némelyek, és elestek egy napon huszonháromezeren."
+        },
+        {
+          "number": 9,
+          "text": "Se a Krisztust ne kísértsük, a mint közülök kísértették némelyek, és elveszének a kígyók miatt."
+        },
+        {
+          "number": 10,
+          "text": "Se pedig ne zúgolódjatok, miképen ő közülök zúgolódának némelyek, és elveszének a pusztító által."
+        },
+        {
+          "number": 11,
+          "text": "Mindezek pedig példaképen estek rajtok; megírattak pedig a mi tanulságunkra, a kikhez az időknek vége elérkezett."
+        },
+        {
+          "number": 12,
+          "text": "Azért a ki azt hiszi, hogy áll, meglássa, hogy el ne essék."
+        },
+        {
+          "number": 13,
+          "text": "Nem egyéb, hanem csak emberi kísértés esett rajtatok: de hű az Isten, a ki nem hágy titeket feljebb kísértetni, mint elszenvedhetitek; sőt a kísértéssel egyetemben a kimenekedést is megadja majd, hogy elszenvedhessétek."
+        },
+        {
+          "number": 14,
+          "text": "Azért szerelmeseim, kerüljétek a bálványimádást."
+        },
+        {
+          "number": 15,
+          "text": "Mint okosokhoz szólok, ítéljétek meg ti, a mit mondok."
+        },
+        {
+          "number": 16,
+          "text": "A hálaadásnak pohara, a melyet megáldunk, nem a Krisztus vérével való közösségünk-é? A kenyér, a melyet megszegünk, nem a Krisztus testével való közösségünk-é?"
+        },
+        {
+          "number": 17,
+          "text": "Mert egy a kenyér, egy test vagyunk sokan; mert mindnyájan az egy kenyérből részesedünk."
+        },
+        {
+          "number": 18,
+          "text": "Tekintsétek meg a test szerint való Izráelt! A kik az áldozatokat eszik, avagy nincsenek-é közösségben az oltárral?"
+        },
+        {
+          "number": 19,
+          "text": "Mit mondok tehát? Hogy a bálvány valami, vagy hogy a bálványáldozat valami?"
+        },
+        {
+          "number": 20,
+          "text": "Sőt, hogy a mit a pogányok áldoznak, ördögöknek áldozzák és nem Istennek; nem akarom pedig, hogy ti az ördögökkel legyetek közösségben."
+        },
+        {
+          "number": 21,
+          "text": "Nem ihatjátok az Úr poharát és az ördögök poharát; nem lehettek az Úr asztalának és az ördögök asztalának részesei."
+        },
+        {
+          "number": 22,
+          "text": "Vagy haragra ingereljük az Urat? avagy erősebbek vagyunk-é nálánál?"
+        },
+        {
+          "number": 23,
+          "text": "Minden szabad nékem, de nem minden használ; minden szabad nékem, de nem minden épít."
+        },
+        {
+          "number": 24,
+          "text": "Senki ne keresse, a mi az övé, hanem kiki azt, a mi a másé."
+        },
+        {
+          "number": 25,
+          "text": "Mindent, a mit a mészárszékben árulnak, megegyetek, semmit sem tudakozódván a lelkiismeret miatt."
+        },
+        {
+          "number": 26,
+          "text": "Mert az Úré a föld és annak teljessége."
+        },
+        {
+          "number": 27,
+          "text": "Ha pedig valaki meghív titeket a hitetlenek közül és el akartok menni, mindent, a mit elétek hoznak, megegyetek, semmit sem tudakozódván a lelkiismeret miatt."
+        },
+        {
+          "number": 28,
+          "text": "De ha valaki ezt mondja néktek: Ez bálványáldozati hús, ne egyétek meg a miatt, a ki megjelentette, és a lelkiismeretért; mert az Úré a föld és annak teljessége."
+        },
+        {
+          "number": 29,
+          "text": "De nem a tulajdon lelkiismeretet értem, hanem a másikét. Mert miért kárhoztassa az én szabadságomat a más lelkiismerete?"
+        },
+        {
+          "number": 30,
+          "text": "Ha pedig én hálaadással veszek részt, miért káromoltatom azért, a miért én hálákat adok?"
+        },
+        {
+          "number": 31,
+          "text": "Azért akár esztek, akár isztok, akármit cselekesztek, mindent az Isten dicsőségére míveljetek."
+        },
+        {
+          "number": 32,
+          "text": "Meg ne botránkoztassátok se a zsidókat, se a görögöket, se az Isten gyülekezetét."
+        },
+        {
+          "number": 33,
+          "text": "Miképen én is mindenkinek mindenben kedvében járok, nem keresvén a magam hasznát, hanem a sokaságét, hogy megtartassanak."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Legyetek az én követőim, mint én is a Krisztusé."
+        },
+        {
+          "number": 2,
+          "text": "Dícsérlek pedig titeket atyámfiai, hogy én rólam mindenben megemlékeztek, és a miképen meghagytam néktek, rendeléseimet megtartjátok."
+        },
+        {
+          "number": 3,
+          "text": "Akarom pedig, hogy tudjátok, hogy minden férfiúnak feje a Krisztus; az asszonynak feje pedig a férfiú; a Krisztusnak feje pedig az Isten."
+        },
+        {
+          "number": 4,
+          "text": "Minden férfiú, a ki befedett fővel imádkozik avagy prófétál, megcsúfolja az ő fejét."
+        },
+        {
+          "number": 5,
+          "text": "Minden asszony pedig, a ki befedetlen fővel imádkozik avagy prófétál, megcsúfolja az ő fejét, mert egy és ugyanaz, mintha megnyiretett volna."
+        },
+        {
+          "number": 6,
+          "text": "Mert ha az asszony nem fedi be fejét, nyiretkezzék is meg, hogy ha pedig éktelen dolog asszonynak megnyiretkezni, vagy megberetváltatni, fedezze be az ő fejét."
+        },
+        {
+          "number": 7,
+          "text": "Mert a férfiúnak nem kell befednie az ő fejét, mivel ő az Istennek képe és dicsősége; de az asszony a férfiú dicsősége."
+        },
+        {
+          "number": 8,
+          "text": "Mert nem a férfiú van az asszonyból, hanem az asszony a férfiúból."
+        },
+        {
+          "number": 9,
+          "text": "Mert nem is a férfiú teremtetett az asszonyért, hanem az asszony a férfiúért."
+        },
+        {
+          "number": 10,
+          "text": "Ezért kell az asszonynak hatalmi jelt viselni a fején az angyalok miatt."
+        },
+        {
+          "number": 11,
+          "text": "Mindazáltal sem férfiú nincs asszony nélkül, sem asszony férfiú nélkül az Úrban."
+        },
+        {
+          "number": 12,
+          "text": "Mert a miképen az asszony a férfiúból van, azonképen a férfiú is az asszony által, az egész pedig az Istentől."
+        },
+        {
+          "number": 13,
+          "text": "Magatokban ítéljétek meg: illendő dolog-é asszonynak fedetlen fővel imádni az Istent?"
+        },
+        {
+          "number": 14,
+          "text": "Avagy maga a természet is nem arra tanít-é titeket, hogy ha a férfiú nagy hajat visel, csúfsága az néki?"
+        },
+        {
+          "number": 15,
+          "text": "Az asszonynak pedig, ha nagy haja van, ékesség az néki; mert a haj fátyol gyanánt adatott néki."
+        },
+        {
+          "number": 16,
+          "text": "Ha pedig valakinek tetszik versengeni, nekünk olyan szokásunk nincsen, sem az Isten gyülekezeteinek."
+        },
+        {
+          "number": 17,
+          "text": "Ezt pedig tudtotokra adván, nem dícsérlek, hogy nem haszonnal, hanem kárral gyűltök egybe."
+        },
+        {
+          "number": 18,
+          "text": "Mert először is, mikor egybegyűltök a gyülekezetben, hallom, hogy szakadások vannak köztetek; és valami részben hiszem is."
+        },
+        {
+          "number": 19,
+          "text": "Mert szükség, hogy szakadások is legyenek köztetek, hogy a kipróbáltak nyilvánvalókká legyenek ti köztetek."
+        },
+        {
+          "number": 20,
+          "text": "Mikor tehát egybegyűltök egyazon helyre, nincs úrvacsorájával való élés:"
+        },
+        {
+          "number": 21,
+          "text": "Mert kiki az ő saját vacsoráját veszi elő az evésnél; és némely éhezik, némely pedig dőzsöl."
+        },
+        {
+          "number": 22,
+          "text": "Hát nincsenek-é házaitok az evésre és ivásra? Avagy az Isten gyülekezetét vetitek-é meg, és azokat szégyenítitek-é meg, a kiknek nincsen? Mit mondjak néktek? Dícsérjelek-é titeket ebben? Nem dícsérlek."
+        },
+        {
+          "number": 23,
+          "text": "Mert én az Úrtól vettem, a mit néktek előtökbe is adtam: hogy az Úr Jézus azon az éjszakán, melyen elárultaték, vette a kenyeret,"
+        },
+        {
+          "number": 24,
+          "text": "És hálákat adván, megtörte és ezt mondotta: Vegyétek, egyétek! Ez az én testem, mely ti érettetek megtöretik; ezt cselekedjétek az én emlékezetemre."
+        },
+        {
+          "number": 25,
+          "text": "Hasonlatosképen a pohárt is vette, minekutána vacsorált volna, ezt mondván: E pohár amaz új testamentom az én vérem által; ezt cselekedjétek, valamennyiszer isszátok az én emlékezetemre."
+        },
+        {
+          "number": 26,
+          "text": "Mert valamennyiszer eszitek e kenyeret és isszátok e pohárt, az Úrnak halálát hirdessétek, a míg eljövend."
+        },
+        {
+          "number": 27,
+          "text": "Azért a ki méltatlanul eszi e kenyeret, vagy issza az Úrnak poharát, vétkezik az Úr teste és vére ellen."
+        },
+        {
+          "number": 28,
+          "text": "Próbálja meg azért az ember magát, és úgy egyék abból a kenyérből, és úgy igyék abból a pohárból,"
+        },
+        {
+          "number": 29,
+          "text": "Mert a ki méltatlanul eszik és iszik, ítéletet eszik és iszik magának, mivelhogy nem becsüli meg az Úrnak testét."
+        },
+        {
+          "number": 30,
+          "text": "Ezért van ti köztetek sok erőtlen és beteg, és alusznak sokan."
+        },
+        {
+          "number": 31,
+          "text": "Mert ha mi ítélnők magunkat, nem ítéltetnénk el."
+        },
+        {
+          "number": 32,
+          "text": "De mikor ítéltetünk, az Úrtól taníttatunk, hogy a világgal együtt el ne kárhoztassunk."
+        },
+        {
+          "number": 33,
+          "text": "Azért atyámfiai, mikor egybegyűltök az evésre, egymást megvárjátok."
+        },
+        {
+          "number": 34,
+          "text": "Ha pedig valaki éhezik, otthon egyék, hogy ítéletre ne gyűljetek egybe. A többire nézve, majd ha hozzátok megyek, rendelkezem."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A lelki ajándékokra nézve pedig nem akarom, atyámfiai, hogy tudatlanok legyetek."
+        },
+        {
+          "number": 2,
+          "text": "Tudjátok, hogy pogányok voltatok, vitetvén, a mint vitettetek, a néma bálványokhoz."
+        },
+        {
+          "number": 3,
+          "text": "Azért tudtotokra adom néktek, hogy senki, a ki Istennek Lelke által szól, nem mondja Jézust átkozottnak; és senki sem mondhatja Úrnak Jézust, hanem csak a Szent Lélek által."
+        },
+        {
+          "number": 4,
+          "text": "A kegyelmi ajándékokban pedig különbség van, de ugyanaz a Lélek."
+        },
+        {
+          "number": 5,
+          "text": "A szolgálatokban is különbség van, de ugyanaz az Úr."
+        },
+        {
+          "number": 6,
+          "text": "És különbség van a cselekedetekben is, de ugyanaz az Isten, a ki cselekszi mindezt mindenkiben."
+        },
+        {
+          "number": 7,
+          "text": "Mindenkinek azonban haszonra adatik a Léleknek kijelentése."
+        },
+        {
+          "number": 8,
+          "text": "Némelyiknek ugyanis bölcseségnek beszéde adatik a Lélek által; másiknak pedig tudománynak beszéde ugyanazon Lélek szerint;"
+        },
+        {
+          "number": 9,
+          "text": "Egynek hit ugyanazon Lélek által; másnak pedig gyógyítás ajándékai azon egy Lélek által;"
+        },
+        {
+          "number": 10,
+          "text": "Némelyiknek csodatévő erőknek munkái; némelyiknek meg prófétálás; némelyiknek pedig lelkeknek megítélése; másiknak nyelvek nemei; másnak pedig nyelvek magyarázása;"
+        },
+        {
+          "number": 11,
+          "text": "De mindezeket egy és ugyanaz a Lélek cselekszi, osztogatván mindenkinek külön, a mint akarja."
+        },
+        {
+          "number": 12,
+          "text": "Mert a miképen a test egy és sok tagja van, az egy testnek tagjai pedig, noha sokan vannak, mind egy test, azonképen a Krisztus is."
+        },
+        {
+          "number": 13,
+          "text": "Mert hiszen egy Lélek által mi mindnyájan egy testté kereszteltettünk meg, akár zsidók, akár görögök, akár szolgák, akár szabadok; és mindnyájan egy Lélekkel itattattunk meg."
+        },
+        {
+          "number": 14,
+          "text": "Mert a test sem egy tag, hanem sok."
+        },
+        {
+          "number": 15,
+          "text": "Ha ezt mondaná a láb: mivelhogy nem kéz vagyok, nem vagyok a testből való; avagy nem a testből való-é azért?"
+        },
+        {
+          "number": 16,
+          "text": "És ha a fül ezt mondaná: mivelhogy nem vagyok szem, nem vagyok a testből való; avagy nem a testből való-é azért?"
+        },
+        {
+          "number": 17,
+          "text": "Ha az egész test szem, hol a hallás? ha az egész hallás, hol a szaglás?"
+        },
+        {
+          "number": 18,
+          "text": "Most pedig az Isten elhelyezte a tagokat a testben egyenként mindeniket, a mint akarta."
+        },
+        {
+          "number": 19,
+          "text": "Ha pedig az egész egy tag volna hol volna a test?"
+        },
+        {
+          "number": 20,
+          "text": "Így azonban sok tag van ugyan, de egy test."
+        },
+        {
+          "number": 21,
+          "text": "Nem mondhatja pedig a szem a kéznek: Nincs rád szükségem; vagy viszont a fej a lábaknak: Nem kelletek nékem."
+        },
+        {
+          "number": 22,
+          "text": "Sőt sokkal inkább, a melyek a test legerőtelenebb tagjainak látszanak, azok igen szükségesek:"
+        },
+        {
+          "number": 23,
+          "text": "És a melyeket a test tisztességtelenebb tagjainak tartunk, azoknak nagyobb tisztességet tulajdonítunk; és a melyek éktelenek bennünk, azok nagyobb ékességben részesülnek;"
+        },
+        {
+          "number": 24,
+          "text": "A melyek pedig ékesek bennünk, azoknak nincs erre szükségök. De az Isten szerkeszté egybe a testet, az alábbvalónak nagyobb tisztességet adván,"
+        },
+        {
+          "number": 25,
+          "text": "Hogy ne legyen hasonlás a testben, hanem ugyanarról gondoskodjanak egymásért a tagok."
+        },
+        {
+          "number": 26,
+          "text": "És akár szenved egy tag, vele együtt szenvednek a tagok mind; akár tisztességgel illettetik egy tag, vele együtt örülnek a tagok mind."
+        },
+        {
+          "number": 27,
+          "text": "Ti pedig a Krisztus teste vagytok, és tagjai rész szerint."
+        },
+        {
+          "number": 28,
+          "text": "És pedig némelyeket rendelt az Isten az anyaszentegyházban először apostolokul, másodszor prófétákul, harmadszor tanítókul; azután csodatévő erőket, aztán gyógyításnak ajándékait, gyámolokat, kormányokat, nyelvek nemeit."
+        },
+        {
+          "number": 29,
+          "text": "Avagy mindnyájan apostolok-é? Vagy mindnyájan próféták-é? Avagy mindnyájan tanítók-é? Vagy mindnyájan csodatévő erők-é?"
+        },
+        {
+          "number": 30,
+          "text": "Avagy mindnyájoknak van-é gyógyításra való ajándéka? Vagy mindnyájan szólnak-é nyelveken? Vagy mindnyájan magyaráznak-é?"
+        },
+        {
+          "number": 31,
+          "text": "Igyekezzetek pedig a hasznosabb ajándékokra. És ezenfelül még egy kiváltképen való útat mutatok néktek."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ha embereknek vagy angyaloknak nyelvén szólok is, szeretet pedig nincsen én bennem, olyanná lettem, mint a zengő ércz vagy pengő czimbalom."
+        },
+        {
+          "number": 2,
+          "text": "És ha jövendőt tudok is mondani, és minden titkot és minden tudományt ismerek is; és ha egész hitem van is, úgyannyira, hogy hegyeket mozdíthatok ki helyökről, szeretet pedig nincsen én bennem, semmi vagyok."
+        },
+        {
+          "number": 3,
+          "text": "És ha vagyonomat mind felétetem is, és ha testemet tűzre adom is, szeretet pedig nincsen én bennem, semmi hasznom abból."
+        },
+        {
+          "number": 4,
+          "text": "A szeretet hosszútűrő, kegyes; a szeretet nem irígykedik, a szeretet nem kérkedik, nem fuvalkodik fel."
+        },
+        {
+          "number": 5,
+          "text": "Nem cselekszik éktelenül, nem keresi a maga hasznát, nem gerjed haragra, nem rójja fel a gonoszt,"
+        },
+        {
+          "number": 6,
+          "text": "Nem örül a hamisságnak, de együtt örül az igazsággal;"
+        },
+        {
+          "number": 7,
+          "text": "Mindent elfedez, mindent hiszen, mindent remél, mindent eltűr."
+        },
+        {
+          "number": 8,
+          "text": "A szeretet soha el nem fogy: de legyenek bár jövendőmondások, eltöröltetnek; vagy akár nyelvek, megszünnek; vagy akár ismeret, eltöröltetik."
+        },
+        {
+          "number": 9,
+          "text": "Mert rész szerint van bennünk az ismeret, rész szerint a prófétálás:"
+        },
+        {
+          "number": 10,
+          "text": "De mikor eljő a teljesség, a rész szerint való eltöröltetik."
+        },
+        {
+          "number": 11,
+          "text": "Mikor gyermek valék, úgy szóltam, mint gyermek, úgy gondolkodtam, mint gyermek, úgy értettem, mint gyermek: minekutána pedig férfiúvá lettem, elhagytam a gyermekhez illő dolgokat."
+        },
+        {
+          "number": 12,
+          "text": "Mert most tükör által homályosan látunk, akkor pedig színről-színre; most rész szerint van bennem az ismeret, akkor pedig úgy ismerek majd, a mint én is megismertettem."
+        },
+        {
+          "number": 13,
+          "text": "Most azért megmarad a hit, remény, szeretet, e három; ezek között pedig legnagyobb a szeretet."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kövessétek a szeretetet, kívánjátok a lelki ajándékokat, leginkább pedig, hogy prófétáljatok."
+        },
+        {
+          "number": 2,
+          "text": "Mert a ki nyelveken szól, nem embereknek szól, hanem az Istennek; mert senki sem érti, hanem lélekben beszél titkos dolgokat."
+        },
+        {
+          "number": 3,
+          "text": "A ki pedig prófétál, embereknek beszél épülésre, intésre és vígasztalásra."
+        },
+        {
+          "number": 4,
+          "text": "A ki nyelveken szól, magát építi; de a ki prófétál, a gyülekezetet építi."
+        },
+        {
+          "number": 5,
+          "text": "Szeretném ugyan, ha mindnyájan szólnátok nyelveken, de inkább, hogy prófétálnátok; mert nagyobb a próféta, mint nyelveken szóló, kivévén, ha megmagyarázza, hogy a gyülekezet épüljön."
+        },
+        {
+          "number": 6,
+          "text": "Ha már most, atyámfiai, hozzátok megyek, és nyelveken szólok, mit használok néktek, ha vagy kijelentésben, vagy ismeretben, vagy prófétálásban, vagy tanításban nem szólok hozzátok?"
+        },
+        {
+          "number": 7,
+          "text": "Hiszen ha az élettelen hangszerek, akár fuvola, akár czitera, nem adnak megkülönböztethető hangokat, mimódon ismerjük meg, a mit fuvoláznak vagy cziteráznak?"
+        },
+        {
+          "number": 8,
+          "text": "Mert ha a trombita bizonytalan zengést tészen, kicsoda készül a harczra?"
+        },
+        {
+          "number": 9,
+          "text": "Azonképen ti is, ha érthető nyelven nem beszéltek, mimódon értik meg, a mit szóltok? Csak a levegőbe fogtok beszélni."
+        },
+        {
+          "number": 10,
+          "text": "Példa mutatja, oly sokféle szólás van a világon, és azok közül egy sem érthetetlen."
+        },
+        {
+          "number": 11,
+          "text": "Hogyha azért nem tudom a szónak értelmét, a beszélőnek idegen leszek, és a beszélő is idegen előttem."
+        },
+        {
+          "number": 12,
+          "text": "Azonképen ti is, minthogy lelki ajándékokat kívántok, a gyülekezet építésére igyekezzetek, hogy gyarapodjatok."
+        },
+        {
+          "number": 13,
+          "text": "Azért a ki nyelveken szól, imádkozzék, hogy megmagyarázza."
+        },
+        {
+          "number": 14,
+          "text": "Mert ha nyelvvel könyörgök, a lelkem könyörög, de értelmem gyümölcstelen."
+        },
+        {
+          "number": 15,
+          "text": "Hogy van hát? Imádkozom a lélekkel, de imádkozom az értelemmel is; énekelek a lélekkel, de énekelek az értelemmel is."
+        },
+        {
+          "number": 16,
+          "text": "Mert ha lélekkel mondasz áldást, az ott lévő avatatlan miképen fog a te hálaadásodra Áment mondani, mikor nem tudja, mit beszélsz?"
+        },
+        {
+          "number": 17,
+          "text": "Mert jóllehet, te szépen mondasz áldást, de más nem épül abból."
+        },
+        {
+          "number": 18,
+          "text": "Hálát adok az én Istenemnek, hogy mindnyájatoknál inkább tudok nyelveken szólni;"
+        },
+        {
+          "number": 19,
+          "text": "De a gyülekezetben inkább akarok öt szót szólani értelemmel, hogy egyebeket is tanítsak, hogy nem mint tízezer szót nyelveken."
+        },
+        {
+          "number": 20,
+          "text": "Atyámfiai, ne legyetek gyermekek értelemben; hanem a gonoszságban legyetek gyermekek, értelemben pedig érettek legyetek."
+        },
+        {
+          "number": 21,
+          "text": "A törvényben meg van írva: Idegen nyelveken és idegen ajkakkal szólok e népnek, és így sem hallgatnak rám, azt mondja az Úr."
+        },
+        {
+          "number": 22,
+          "text": "A nyelvek tehát jelül vannak, nem a hívőknek, hanem a hitetleneknek; a prófétálás pedig nem a hitetleneknek, hanem a hívőknek."
+        },
+        {
+          "number": 23,
+          "text": "Azért ha az egész gyülekezet egybegyűl és mindnyájan nyelveken szólnak, bemenvén az idegenek vagy hitetlenek, nem azt mondják-é, hogy őrjöngtök?"
+        },
+        {
+          "number": 24,
+          "text": "De ha mindnyájan prófétálnak és bemegy egy hitetlen, vagy avatatlan, az mindenektől megfeddetik, mindenektől megítéltetik,"
+        },
+        {
+          "number": 25,
+          "text": "És ilyen módon az ő szívének titkai nyilvánvalókká lesznek; és így arczra borulva imádja az Istent, hirdetvén, hogy bizonynyal az Isten lakik ti bennetek."
+        },
+        {
+          "number": 26,
+          "text": "Hogy van hát atyámfiai? Mikor egybegyűltök, mindeniteknek van zsoltára, tanítása, nyelve, kijelentése, magyarázata. Mindenek épülésre legyenek."
+        },
+        {
+          "number": 27,
+          "text": "Ha valaki nyelveken szól, kettő vagy legfeljebb három legyen, mégpedig egymás után; és egy magyarázza meg:"
+        },
+        {
+          "number": 28,
+          "text": "Ha pedig nincsen magyarázó, hallgasson a gyülekezetben; hanem magának szóljon és az Istennek."
+        },
+        {
+          "number": 29,
+          "text": "A próféták pedig ketten vagy hárman beszéljenek; és a többiek ítéljék meg."
+        },
+        {
+          "number": 30,
+          "text": "De ha egy másik ott ülő vesz kijelentést, az első hallgasson."
+        },
+        {
+          "number": 31,
+          "text": "Mert egyenként mindnyájan prófétálhattok, hogy mindenki tanuljon, és mindenki vígasztalást vegyen;"
+        },
+        {
+          "number": 32,
+          "text": "És a prófétalelkek engednek a prófétáknak;"
+        },
+        {
+          "number": 33,
+          "text": "Mert az Isten nem a visszavonásnak, hanem a békességnek Istene; miként a szentek minden gyülekezetében."
+        },
+        {
+          "number": 34,
+          "text": "A ti asszonyaitok hallgassanak a gyülekezetekben, mert nincsen megengedve nékik, hogy szóljanak; hanem engedelmesek legyenek, a mint a törvény is mondja."
+        },
+        {
+          "number": 35,
+          "text": "Hogyha pedig tanulni akarnak valamit, kérdezzék meg otthon az ő férjüket; mert éktelen dolog asszonynak szólni a gyülekezetben."
+        },
+        {
+          "number": 36,
+          "text": "Avagy ti tőletek származott-é az Isten beszéde, avagy csak hozzátok jutott el?"
+        },
+        {
+          "number": 37,
+          "text": "Ha valaki azt hiszi, hogy ő próféta, vagy lelki ajándék részese, vegye eszébe, hogy a miket néktek írok, az Úr rendeletei azok."
+        },
+        {
+          "number": 38,
+          "text": "A ki pedig tudatlan, legyen tudatlan."
+        },
+        {
+          "number": 39,
+          "text": "Azért atyámfiai törekedjetek prófétálásra, és a nyelveken szólást se tiltsátok."
+        },
+        {
+          "number": 40,
+          "text": "Mindenek ékesen és jó renddel legyenek."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eszetekbe juttatom továbbá, atyámfiai, az evangyéliomot, melyet hirdettem néktek, melyet be is vettetek, melyben állotok is,"
+        },
+        {
+          "number": 2,
+          "text": "A mely által üdvözültök is, ha megtartjátok, a minémű beszéddel hirdettem néktek, hacsak nem hiába lettetek hívőkké."
+        },
+        {
+          "number": 3,
+          "text": "Mert azt adtam előtökbe főképen, a mit én is úgy vettem, hogy a Krisztus meghalt a mi bűneinkért az írások szerint;"
+        },
+        {
+          "number": 4,
+          "text": "És hogy eltemettetett; és hogy feltámadott a harmadik napon az írások szerint;"
+        },
+        {
+          "number": 5,
+          "text": "És hogy megjelent Kéfásnak; azután a tizenkettőnek;"
+        },
+        {
+          "number": 6,
+          "text": "Azután megjelent több mint ötszáz atyafinak egyszerre, kik közül a legtöbben mind máig élnek, némelyek azonban el is aludtak;"
+        },
+        {
+          "number": 7,
+          "text": "Azután megjelent Jakabnak; azután mind az apostoloknak;"
+        },
+        {
+          "number": 8,
+          "text": "Legutolszor pedig mindenek között, mint egy idétlennek, nékem is megjelent."
+        },
+        {
+          "number": 9,
+          "text": "Mert én vagyok a legkisebb az apostolok között, ki nem vagyok méltó, hogy apostolnak neveztessem, mert háborgattam az Istennek anyaszentegyházát."
+        },
+        {
+          "number": 10,
+          "text": "De Isten kegyelme által vagyok, a mi vagyok; és az ő hozzám való kegyelme nem lőn hiábavaló; sőt többet munkálkodtam, mint azok mindnyájan de nem én, hanem az Istennek velem való kegyelme."
+        },
+        {
+          "number": 11,
+          "text": "Akár én azért, akár azok, így prédikálunk, és így lettetek ti hívőkké."
+        },
+        {
+          "number": 12,
+          "text": "Ha azért Krisztusról hirdettetik, hogy a halottak közül feltámadott, mimódon mondják némelyek ti köztetek, hogy nincsen halottak feltámadása?"
+        },
+        {
+          "number": 13,
+          "text": "Mert ha nincsen halottak feltámadása, akkor Krisztus sem támadott fel."
+        },
+        {
+          "number": 14,
+          "text": "Ha pedig Krisztus fel nem támadott, akkor hiábavaló a mi prédikálásunk, de hiábavaló a ti hitetek is."
+        },
+        {
+          "number": 15,
+          "text": "Sőt az Isten hamis bizonyságtevőinek is találtatunk, mivelhogy az Isten felől bizonyságot tettünk, hogy feltámasztotta a Krisztust; a kit nem támasztott fel, ha csakugyan nem támadnak fel a halottak."
+        },
+        {
+          "number": 16,
+          "text": "Mert ha a halottak fel nem támadnak, a Krisztus sem támadott fel."
+        },
+        {
+          "number": 17,
+          "text": "Ha pedig a Krisztus fel nem támadott, hiábavaló a ti hitetek; még bűneitekben vagytok."
+        },
+        {
+          "number": 18,
+          "text": "A kik a Krisztusban elaludtak, azok is elvesztek tehát."
+        },
+        {
+          "number": 19,
+          "text": "Ha csak ebben az életben reménykedünk a Krisztusban, minden embernél nyomorultabbak vagyunk."
+        },
+        {
+          "number": 20,
+          "text": "Ámde Krisztus feltámadott a halottak közül, zsengéjök lőn azoknak, kik elaludtak."
+        },
+        {
+          "number": 21,
+          "text": "Miután ugyanis ember által van a halál, szintén ember által van a halottak feltámadása is."
+        },
+        {
+          "number": 22,
+          "text": "Mert a miképen Ádámban mindnyájan meghalnak, azonképen a Krisztusban is mindnyájan megeleveníttetnek."
+        },
+        {
+          "number": 23,
+          "text": "Mindenki pedig a maga rendje szerint. Első zsenge a Krisztus; azután a kik a Krisztuséi, az ő eljövetelekor."
+        },
+        {
+          "number": 24,
+          "text": "Aztán a vég, mikor átadja az országot az Istennek és Atyának; a mikor eltöröl minden birodalmat és minden hatalmat és erőt."
+        },
+        {
+          "number": 25,
+          "text": "Mert addig kell néki uralkodnia, mígnem ellenségeit mind lábai alá veti."
+        },
+        {
+          "number": 26,
+          "text": "Mint utolsó ellenség töröltetik el a halál."
+        },
+        {
+          "number": 27,
+          "text": "Mert mindent az ő lábai alá vetett. Mikor pedig azt mondja, hogy minden alája van vetve, nyilvánvaló, hogy azon kívül, a ki neki mindent alávetett."
+        },
+        {
+          "number": 28,
+          "text": "Mikor pedig minden alája vettetett, akkor maga a Fiú is alávettetik annak, a ki neki mindent alávetett, hogy az Isten legyen minden mindenben."
+        },
+        {
+          "number": 29,
+          "text": "Különben mit cselekesznek azok, a kik a halottakért keresztelkednek meg, a halottak teljességgel nem támadnak fel? Miért is keresztelkednek meg a halottakért?"
+        },
+        {
+          "number": 30,
+          "text": "Mi is miért veszélyeztetjük magunkat minden pillanatban?"
+        },
+        {
+          "number": 31,
+          "text": "Naponként halál révén állok. A veletek való dicsekedésre mondom, mely van nékem a Krisztus Jézusban a mi Urunkban."
+        },
+        {
+          "number": 32,
+          "text": "Ha csak emberi módon viaskodtam Efézusban a fenevadakkal, mi a hasznom abból, ha a halottak fel nem támadnak? Együnk és igyunk, holnap úgyis meghalunk!"
+        },
+        {
+          "number": 33,
+          "text": "Ne tévelyegjetek. Jó erkölcsöt megrontanak gonosz társaságok."
+        },
+        {
+          "number": 34,
+          "text": "Serkenjetek fel igazán és ne vétkezzetek; mert némelyek nem ismerik Istent; megszégyenítéstekre mondom."
+        },
+        {
+          "number": 35,
+          "text": "De mondhatná valaki: Mi módon támadnak fel a halottak? és minémű testtel jönnek ki?"
+        },
+        {
+          "number": 36,
+          "text": "Balgatag! a mit te vetsz, nem elevenedik meg, hanemha megrothadánd."
+        },
+        {
+          "number": 37,
+          "text": "És abban, a mit elvetsz, nem azt a testet veted el, a mely majd kikél, hanem puszta magot, talán búzáét, vagy más egyébét."
+        },
+        {
+          "number": 38,
+          "text": "Az Isten pedig testet ád annak, a mint akarta, és pedig mindenféle magnak az ő saját testét."
+        },
+        {
+          "number": 39,
+          "text": "Nem minden test azon egy test, hanem más az embereknek teste, más a barmoknak teste, más a halaké, más a madaraké."
+        },
+        {
+          "number": 40,
+          "text": "És vannak mennyei testek és földi testek; de más a mennyeiek dicsősége, más a földieké."
+        },
+        {
+          "number": 41,
+          "text": "Más a napnak dicsősége és más a holdnak dicsősége és más a csillagok dicsősége; mert csillag a csillagtól különbözik dicsőségre nézve."
+        },
+        {
+          "number": 42,
+          "text": "Épenígy a halottak feltámadása is. Elvettetik romlandóságban, feltámasztatik romolhatatlanságban;"
+        },
+        {
+          "number": 43,
+          "text": "Elvettetik gyalázatosságban, feltámasztatik dicsőségben; elvettetik erőtelenségben, feltámasztatik erőben."
+        },
+        {
+          "number": 44,
+          "text": "Elvettetik érzéki test, feltámasztatik lelki test. Van érzéki test, és van lelki test is."
+        },
+        {
+          "number": 45,
+          "text": "Így is van megírva: Lőn az első ember, Ádám, élő lélekké; az utolsó Ádám megelevenítő szellemmé."
+        },
+        {
+          "number": 46,
+          "text": "De nem a lelki az első, hanem az érzéki, azután a lelki."
+        },
+        {
+          "number": 47,
+          "text": "Az első ember földből való, földi; a második ember, az Úr, mennyből való."
+        },
+        {
+          "number": 48,
+          "text": "A milyen ama földi, olyanok a földiek is; és a milyen ama mennyei, olyanok a mennyeiek is."
+        },
+        {
+          "number": 49,
+          "text": "És a miképen hordtuk a földinek ábrázatját, hordani fogjuk a mennyeinek ábrázatját is."
+        },
+        {
+          "number": 50,
+          "text": "Azt pedig állítom atyámfiai, hogy test és vér nem örökölheti Isten országát, sem a romlandóság nem örökli a romolhatatlanságot."
+        },
+        {
+          "number": 51,
+          "text": "Ímé titkot mondok néktek. Mindnyájan ugyan nem aluszunk el, de mindnyájan elváltozunk."
+        },
+        {
+          "number": 52,
+          "text": "Nagy hirtelen, egy szempillantásban, az utolsó trombitaszóra; mert trombita fog szólni, és a halottak feltámadnak romolhatatlanságban, és mi elváltozunk."
+        },
+        {
+          "number": 53,
+          "text": "Mert szükség, hogy ez a romlandó test romolhatatlanságot öltsön magára, és e halandó test halhatatlanságot öltsön magára."
+        },
+        {
+          "number": 54,
+          "text": "Mikor pedig ez a romlandó test romolhatatlanságba öltözik, és e halandó halhatatlanságba öltözik, akkor beteljesül amaz ige, mely meg vagyon írva: Elnyeletett a halál diadalra."
+        },
+        {
+          "number": 55,
+          "text": "Halál! hol a te fullánkod? Pokol! hol a te diadalmad?"
+        },
+        {
+          "number": 56,
+          "text": "A halál fullánkja pedig a bűn; a bűn ereje pedig a törvény."
+        },
+        {
+          "number": 57,
+          "text": "De hála az Istennek, a ki a diadalmat adja nékünk a mi Urunk Jézus Krisztus által."
+        },
+        {
+          "number": 58,
+          "text": "Azért szerelmes atyámfiai erősen álljatok, mozdíthatatlanul, buzgólkodván az Úrnak dolgában mindenkor, tudván, hogy a ti munkátok nem hiábavaló az Úrban."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ami a szentek számára való alamizsnát illeti, a miképen Galáczia gyülekezeteinek rendeltem, ti is azonképen cselekedjetek."
+        },
+        {
+          "number": 2,
+          "text": "A hétnek első napján mindenitek tegye félre magánál, a mit sikerül összegyűjtenie, hogy ne akkor történjék a gyűjtés, a mikor odamegyek."
+        },
+        {
+          "number": 3,
+          "text": "Mikor pedig megérkezem, a kiket javaltok leveleitek által, azokat küldöm el, hogy elvigyék Jeruzsálembe a ti ajándékotokat."
+        },
+        {
+          "number": 4,
+          "text": "Ha pedig méltó lesz, hogy én is elmenjek, velem együtt jönnek."
+        },
+        {
+          "number": 5,
+          "text": "Elmegyek pedig ti hozzátok, mikor Macedónián általmenéndek: mert Macedónián általmegyek,"
+        },
+        {
+          "number": 6,
+          "text": "Nálatok azonban talán megmaradok, vagy ott is telelek, hogy ti kísérjetek el, a hová menéndek."
+        },
+        {
+          "number": 7,
+          "text": "Mert nem akarlak titeket épen csak átmenet közben látni, de reménylem, hogy valami ideig nálatok maradok, ha az Úr engedi."
+        },
+        {
+          "number": 8,
+          "text": "Efézusban pedig pünkösdig maradok."
+        },
+        {
+          "number": 9,
+          "text": "Mert nagy kapu nyílott meg előttem és hasznos, az ellenség is sok."
+        },
+        {
+          "number": 10,
+          "text": "Hogyha pedig megérkezik Timótheus, meglássátok, hogy bátorságos maradása legyen nálatok; mert az Úrnak dolgát cselekszi, mint én is."
+        },
+        {
+          "number": 11,
+          "text": "Senki azért őt meg ne vesse: hanem bocsássátok el őt békességgel, hogy hozzám jöhessen; mert várom őt az atyafiakkal együtt."
+        },
+        {
+          "number": 12,
+          "text": "A mi pedig Apollós atyafit illeti, igen kértem őt, hogy menjen el hozzátok az atyafiakkal együtt: de semmiképpen sem volt kedve, hogy most elmenjen; de majd elmegy, mihelyt jó alkalmatossága lészen."
+        },
+        {
+          "number": 13,
+          "text": "Vigyázzatok, álljatok meg a hitben, legyetek férfiak, legyetek erősek!"
+        },
+        {
+          "number": 14,
+          "text": "Minden dolgotok szeretetben menjen végbe!"
+        },
+        {
+          "number": 15,
+          "text": "Intelek pedig titeket, atyámfiai, hiszen tudjátok, hogy Stefanásnak háznépe Akhája zsengéje, és ők a szenteknek való szolgálatra adták magukat."
+        },
+        {
+          "number": 16,
+          "text": "Hogy ti is engedelmeskedjetek az ilyeneknek, és mindenkinek, a ki velök szolgál és fárad."
+        },
+        {
+          "number": 17,
+          "text": "Örvendezek pedig a Stefanás, Fortunátus és Akhaikus eljövetelének; mert a bennetek való fogyatkozást ezek betöltötték."
+        },
+        {
+          "number": 18,
+          "text": "Mert megnyugtatták az én lelkemet és a tiéteket is. Megbecsüljétek azért az ilyeneket."
+        },
+        {
+          "number": 19,
+          "text": "Köszöntenek titeket Ázsia gyülekezetei; köszöntenek titeket az Úrban felette igen Akvila és Prisczilla, a házuknál levő gyülekezettel egybe."
+        },
+        {
+          "number": 20,
+          "text": "Köszöntenek titeket az atyafiak mindnyájan. Köszöntsétek egymást szent csókkal."
+        },
+        {
+          "number": 21,
+          "text": "A köszöntés a saját kezemmel, a Páléval."
+        },
+        {
+          "number": 22,
+          "text": "Ha valaki nem szereti az Úr Jézus Krisztust, legyen átkozott! Maran atha."
+        },
+        {
+          "number": 23,
+          "text": "Az Úr Jézus Krisztusnak kegyelme veletek!"
+        },
+        {
+          "number": 24,
+          "text": "Az én szeretetem mindnyájatokkal a Jézus Krisztusban! Ámen."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "version": "bkr",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Slova kazatele syna Davidova, krále v Jeruzalémě."
+        },
+        {
+          "number": 2,
+          "text": "Marnost nad marnostmi, řekl kazatel, marnost nad marnostmi, a všecko marnost."
+        },
+        {
+          "number": 3,
+          "text": "Jaký užitek má člověk ze všelijaké práce své, kterouž vede pod sluncem?"
+        },
+        {
+          "number": 4,
+          "text": "Věk pomíjí, a jiný věk nastává, ačkoli země na věky trvá."
+        },
+        {
+          "number": 5,
+          "text": "Vychází slunce, i zapadá slunce, a k místu svému chvátá, kdež vychází."
+        },
+        {
+          "number": 6,
+          "text": "Jde ku poledni, a obrací se na půlnoci, sem i tam se toče, chodí vítr, a okolky svými navracuje se vítr."
+        },
+        {
+          "number": 7,
+          "text": "Všecky řeky jdou do moře, a však se moře nepřeplňuje; do místa, do něhož tekou řeky, navracují se, aby zase odtud vycházely."
+        },
+        {
+          "number": 8,
+          "text": "Všecky věci jsou plné zaneprázdnění, aniž může člověk vymluviti; nenasytí se oko hleděním, aniž se naplní ucho slyšením."
+        },
+        {
+          "number": 9,
+          "text": "Což bylo, jest to, což býti má; a což se nyní děje, jest to, což se díti bude; aniž jest co nového pod sluncem."
+        },
+        {
+          "number": 10,
+          "text": "Jest-liž jaká věc, o níž by říci mohl: Pohleď, toť jest cosi nového? Ano již to bylo před věky, kteříž byli před námi."
+        },
+        {
+          "number": 11,
+          "text": "Není paměti prvních věcí, aniž také potomních, kteréž budou, památka zůstane u těch, jenž potom nastanou."
+        },
+        {
+          "number": 12,
+          "text": "Já kazatel byl jsem králem nad Izraelem v Jeruzalémě,"
+        },
+        {
+          "number": 13,
+          "text": "A přiložil jsem mysl svou k tomu, jak bych vyhledati a vystihnouti mohl rozumností svou všecko to, což se děje pod nebem. (Takové bídné zaměstknání dal Bůh synům lidským, aby se jím bědovali.)"
+        },
+        {
+          "number": 14,
+          "text": "Viděl jsem všecky skutky, dějící se pod sluncem, a aj, všecko jest marnost a trápení ducha."
+        },
+        {
+          "number": 15,
+          "text": "Což křivého jest, nemůže se zpřímiti, a nedostatkové nemohou sečteni býti."
+        },
+        {
+          "number": 16,
+          "text": "Protož tak jsem myslil v srdci svém, řka: Aj, já zvelebil jsem a rozšířil moudrost nade všecky, kteříž byli přede mnou v Jeruzalémě, a srdce mé dosáhlo množství moudrosti a umění."
+        },
+        {
+          "number": 17,
+          "text": "I přiložil jsem mysl svou, abych poznal moudrost a umění, nemoudrost i bláznovství, ale shledal jsem, že i to jest trápení ducha."
+        },
+        {
+          "number": 18,
+          "text": "Nebo kde jest mnoho moudrosti, tu mnoho hněvu; a kdož rozmnožuje umění, rozmnožuje bolest."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Řekl jsem opět srdci svému: Nuže nyní zkusím tě v veselí, užívejž tedy dobrých věcí. A hle, i to marnost."
+        },
+        {
+          "number": 2,
+          "text": "Smíchu jsem řekl: Blázníš, a veselí: Co to děláš?"
+        },
+        {
+          "number": 3,
+          "text": "Přemyšloval jsem v srdci svém, abych povoloval u víně tělu svému, srdce však své spravuje moudrostí, a přídržel se bláznovství dotud, až bych zkusil, co by lepšího bylo synům lidským, aby činili pod nebem v počtu dnů života svého."
+        },
+        {
+          "number": 4,
+          "text": "Veliké jsem skutky činil, vystavěl jsem sobě domy, štípil jsem sobě vinice."
+        },
+        {
+          "number": 5,
+          "text": "Vzdělal jsem sobě zahrady a štěpnice, a štípil jsem v nich stromy všelijakého ovoce."
+        },
+        {
+          "number": 6,
+          "text": "Nadělal jsem sobě rybníků, abych svlažoval jimi les plodící dříví."
+        },
+        {
+          "number": 7,
+          "text": "Najednal jsem sobě služebníků a děvek, a měl jsem čeled v domě svém; k tomu i stáda skotů a bravů veliká měl jsem nade všecky, kteříž byli přede mnou v Jeruzalémě."
+        },
+        {
+          "number": 8,
+          "text": "Nahromáždil jsem sobě také stříbra a zlata a klínotů od králů a krajin; způsobil jsem sobě zpěváky a zpěvakyně i jiné rozkoše synů lidských a nástroje muzické rozličné."
+        },
+        {
+          "number": 9,
+          "text": "A tak velikým jsem učiněn, a zrostl jsem nade všecky, kteříž přede mnou byli v Jeruzalémě; nadto moudrost má zůstávala při mně."
+        },
+        {
+          "number": 10,
+          "text": "A čehožkoli žádaly oči mé, nezbránil jsem jim, aniž jsem zbraňoval srdci svému jakého veselí; srdce mé zajisté veselilo se ze vší práce mé, a to byl podíl můj ze vší práce mé."
+        },
+        {
+          "number": 11,
+          "text": "Ale jakž jsem se ohlédl na všecky skutky své, kteréž činily ruce mé, a na práci úsilně vedenou, a aj, všecko marnost a trápení ducha, a že nic není užitečného pod sluncem."
+        },
+        {
+          "number": 12,
+          "text": "Pročež obrátil jsem se, abych spatřoval moudrost a nemoudrost, i bláznovství. (Nebo co by člověk spravil, chtěje následovati krále? To, což již jiní spravili.)"
+        },
+        {
+          "number": 13,
+          "text": "I viděl jsem, že jest užitečnější moudrost než bláznovství, tak jako jest užitečnější světlo nežli temnost."
+        },
+        {
+          "number": 14,
+          "text": "Moudrý má oči v hlavě své, blázen pak ve tmách chodí; a však poznal jsem, že jednostejné příhody všechněm se přiházejí."
+        },
+        {
+          "number": 15,
+          "text": "Protož jsem řekl v srdci svém: Máliť mi se tak díti, jako se děje bláznu, pročež jsem tedy moudrostí předčil? A tak řekl jsem v srdci svém: I to jest marnost."
+        },
+        {
+          "number": 16,
+          "text": "Nebo není památka moudrého jako i blázna na věky, proto že to, což nyní jest, ve dnech budoucích všecko v zapomenutí přichází, a že jakož umírá moudrý, tak i blázen."
+        },
+        {
+          "number": 17,
+          "text": "Pročež mrzí mne tento život; nebo semi nelíbí nic, což se děje pod sluncem, poněvadž všecky věci jsou marnost a trápení ducha."
+        },
+        {
+          "number": 18,
+          "text": "Ano mrzí mne i všecka práce má, kterouž jsem vedl pod sluncem proto že jí zanechati musím člověku, kterýž bude po mně."
+        },
+        {
+          "number": 19,
+          "text": "A kdo ví, bude-li moudrý, či blázen? A však panovati bude nade vší prací mou, kterouž jsem vedl, a v níž jsem moudrý byl pod sluncem. A i to marnost."
+        },
+        {
+          "number": 20,
+          "text": "I přišel jsem na to, abych pochybil v srdci svém o vší práci, kterouž jsem konal, a v níž jsem moudrý byl pod sluncem."
+        },
+        {
+          "number": 21,
+          "text": "Mnohý zajisté člověk pracuje moudře, uměle a spravedlivě, a však jinému, kterýž nepracoval o tom, nechává toho za podíl jemu, ješto i to jest marnost a bídná věc."
+        },
+        {
+          "number": 22,
+          "text": "Nebo co má člověk ze vší práce své a z kvaltování srdce svého, kteréž snáší pod sluncem,"
+        },
+        {
+          "number": 23,
+          "text": "Poněvadž všickni dnové jeho bolestní, a zaměstknání jeho hněv, tak že ani v noci neodpočívá srdce jeho? A i to marnost."
+        },
+        {
+          "number": 24,
+          "text": "Zdaliž není to chvalitebné při člověku, jísti a píti, a učiniti životu svému pohodlí z práce své? Ač i to také viděl jsem, že z ruky Boží pochází."
+        },
+        {
+          "number": 25,
+          "text": "Nebo kdož by jísti a užívati měl toho nežli já?"
+        },
+        {
+          "number": 26,
+          "text": "Èlověku zajisté, kterýž se líbí jemu, dává moudrost, umění a veselí; hříšníku pak dává trápení, aby shromažďoval a hrnul, čehož by zanechal tomu, kterýž se líbí Bohu. I to také jest marnost a trápení ducha."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Všeliká věc má jistý čas, a každé předsevzetí pod nebem svou chvíli."
+        },
+        {
+          "number": 2,
+          "text": "Jest čas rození i čas umírání, čas sázení a čas vykopání, což vsazeno bývá;"
+        },
+        {
+          "number": 3,
+          "text": "Èas mordování a čas hojení, čas boření a čas stavení;"
+        },
+        {
+          "number": 4,
+          "text": "Èas pláče a čas smíchu, čas smutku a čas proskakování;"
+        },
+        {
+          "number": 5,
+          "text": "Èas rozmítání kamení a čas shromažďování kamení, čas objímání a čas vzdálení se od objímání;"
+        },
+        {
+          "number": 6,
+          "text": "Èas hledání a čas ztracení, čas chování a čas zavržení;"
+        },
+        {
+          "number": 7,
+          "text": "Èas roztrhování a čas sšívání, čas mlčení a čas mluvení;"
+        },
+        {
+          "number": 8,
+          "text": "Èas milování a čas nenávidění, čas boje a čas pokoje."
+        },
+        {
+          "number": 9,
+          "text": "Co tedy má ten, kdo práci vede, z toho, o čemž pracuje?"
+        },
+        {
+          "number": 10,
+          "text": "Viděl jsem zaměstknání, kteréž dal Bůh synům lidským, aby se jím trápili."
+        },
+        {
+          "number": 11,
+          "text": "Sám všecko činí ušlechtile časem svým, nýbrž i žádost světa dal v srdce jejich, aby nestihal člověk díla toho, kteréž dělá Bůh, ani počátku ani konce."
+        },
+        {
+          "number": 12,
+          "text": "Odtud seznávám, že nic lepšího nemají, než aby se veselili, a činili dobře v životě svém,"
+        },
+        {
+          "number": 13,
+          "text": "Ač i to, když všeliký člověk jí a pije, a užívá dobrých věcí ze všelijaké práce své, jest dar Boží."
+        },
+        {
+          "number": 14,
+          "text": "Znám, že cožkoli činí Bůh, to trvá na věky; nemůže se k tomu nic přidati, ani od toho co odjíti. A činí to Bůh, aby se báli oblíčeje jeho."
+        },
+        {
+          "number": 15,
+          "text": "To, což bylo, i nyní jest, a což bude, již bylo; nebo Bůh obnovuje to, což pominulo."
+        },
+        {
+          "number": 16,
+          "text": "Přesto viděl jsem ještě pod sluncem na místě soudu bezbožnost, a na místě spravedlnosti nespravedlnost."
+        },
+        {
+          "number": 17,
+          "text": "I řekl jsem v srdci svém: Budeť Bůh spravedlivého i bezbožného souditi; nebo tam bude čas každému předsevzetí i každému skutku."
+        },
+        {
+          "number": 18,
+          "text": "Řekl jsem v srdci svém o způsobu synů lidských, že jim ukázal Bůh, aby viděli, že jsou podobni hovadům."
+        },
+        {
+          "number": 19,
+          "text": "Případnost synů lidských a případnost hovad jest případnost jednostejná. Jakož umírá ono, tak umírá i on, a dýchání jednostejné všickni mají, aniž co napřed má člověk před hovadem; nebo všecko jest marnost."
+        },
+        {
+          "number": 20,
+          "text": "Obé to jde k místu jednomu; obé jest z prachu, obé také zase navracuje se do prachu."
+        },
+        {
+          "number": 21,
+          "text": "Kdo to zná, že duch synů lidských vstupuje zhůru, a duch hovadí že sstupuje pod zemi?"
+        },
+        {
+          "number": 22,
+          "text": "Protož spatřil jsem, že nic není lepšího, než veseliti se člověku v skutcích svých, poněvadž to jest podíl jeho. Nebo kdo jej k tomu přivede, aby poznati mohl to, což jest budoucího po něm?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Opět obrátiv se, i viděl jsem všeliká ssoužení, kteráž se dějí pod sluncem, a aj, slzy křivdu trpících, ješto nemají potěšitele, ani moci k vyjití z ruky těch, kteříž je ssužují, a nemají potěšitele."
+        },
+        {
+          "number": 2,
+          "text": "Protož já chválil jsem mrtvé, kteříž již zemřeli, více nežli živé, kteříž jsou živi až po dnes."
+        },
+        {
+          "number": 3,
+          "text": "Nýbrž nad oba tyto šťastnější jest ten, kterýž ještě nebyl, a neviděl skutku zlého, dějícího se pod sluncem."
+        },
+        {
+          "number": 4,
+          "text": "Nebo spatřil jsem všelikou práci a každé dobré dílo, že jest k závisti jedněch druhým. I to také jest marnost a trápení ducha."
+        },
+        {
+          "number": 5,
+          "text": "Blázen skládá ruce své, a jí maso své, říkaje:"
+        },
+        {
+          "number": 6,
+          "text": "Lepší jest plná hrst s odpočinutím, nežli přehršlí plné s prací a trápením ducha."
+        },
+        {
+          "number": 7,
+          "text": "Opět obrátiv se, viděl jsem jinou marnost pod sluncem:"
+        },
+        {
+          "number": 8,
+          "text": "Jest samotný někdo, nemaje žádného, ani syna, ani bratra, a však není konce všeliké práci jeho, ani oči jeho nemohou se nasytiti bohatství. Nepomyslí: Komu já pracuji, tak že i životu svému ujímám pohodlí? I to také jest marnost a bídné zaneprázdnění."
+        },
+        {
+          "number": 9,
+          "text": "Lépeť jest dvěma než jednomu; mají zajisté dobrý užitek z práce své."
+        },
+        {
+          "number": 10,
+          "text": "Nebo padne-li který z nich, druhý pozdvihne tovaryše svého. Běda tedy samotnému, když by padl; nebo nemá druhého, aby ho pozdvihl."
+        },
+        {
+          "number": 11,
+          "text": "Také budou-li dva spolu ležeti, zahřejí se, ale jeden jak se zahřeje?"
+        },
+        {
+          "number": 12,
+          "text": "Ovšem, jestliže by se kdo jednoho zmocniti chtěl, dva postaví se proti němu; ano trojnásobní provázek nesnadně se přetrhne."
+        },
+        {
+          "number": 13,
+          "text": "Lepší jest dítě chudé a moudré, než král starý a blázen, kterýž neumí již ani napomenutí přijímati,"
+        },
+        {
+          "number": 14,
+          "text": "Ačkoli z žaláře vychází, aby kraloval, nýbrž i v království svém může na chudobu přijíti."
+        },
+        {
+          "number": 15,
+          "text": "Viděl jsem všecky živé, kteříž chodí pod sluncem, ani se přídrželi pacholete, potomka onoho, kterýž měl kralovati místo něho."
+        },
+        {
+          "number": 16,
+          "text": "Nebývalo konce té vrtkosti všeho lidu, jakž toho, kterýž byl před nimi, takž ani potomci nebudou se těšiti z něho. Protož i to jest marnost a trápení ducha."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ostříhej nohy své, když jdeš do domu Božího, a buď hotovější k slyšení nežli k dávání obětí bláznů; nebo oni neznají toho, že zle činí."
+        },
+        {
+          "number": 2,
+          "text": "Nebývej rychlý k mluvení, ani srdce tvé kvapné k vynášení slova před oblíčejem Božím, poněvadž Bůh jest na nebi, a ty na zemi; protož nechť jsou slova tvá nemnohá."
+        },
+        {
+          "number": 3,
+          "text": "Nebo jakož přichází sen z velikého pracování, tak hlas blázna z množství slov."
+        },
+        {
+          "number": 4,
+          "text": "Když bys učinil slib Bohu, neprodlévej ho splniti, nebo nemá líbosti v blázních. Cožkoli slíbíš, splň."
+        },
+        {
+          "number": 5,
+          "text": "Lépe jest, abys nesliboval, než abys slibě, neplnil."
+        },
+        {
+          "number": 6,
+          "text": "Nedopouštěj ústům svým, aby k hříchu přivodila tělo tvé, aniž říkej před andělem, že to jest poblouzení. Proč máš hněvati Boha řečí svou, kterýž by na zkázu přivedl dílo rukou tvých?"
+        },
+        {
+          "number": 7,
+          "text": "Nebo kdež jest mnoho snů, tu i marnosti a slova mnohá, ale ty Boha se boj."
+        },
+        {
+          "number": 8,
+          "text": "Jestliže bys nátisk chudého a zadržení soudu a spravedlnosti spatřil v krajině, nediv se té věci; nebo vyšší vysokého šetří, a ještě vyšší nad nimi."
+        },
+        {
+          "number": 9,
+          "text": "Zemský pak obchod u všech přední místo má; i král rolí slouží."
+        },
+        {
+          "number": 10,
+          "text": "Kdo miluje peníze, nenasytí se penězi; a kdo miluje hojnost, nebude míti užitku. I to jest marnost."
+        },
+        {
+          "number": 11,
+          "text": "Kde jest mnoho statku, mnoho bývá i těch, kteříž jedí jej. Jakýž tedy má užitek pán jeho? Jediné, že očima svýma hledí na něj."
+        },
+        {
+          "number": 12,
+          "text": "Sladký jest sen pracovitému, jez on málo neb mnoho, ale sytost bohatého nedopouští mu spáti."
+        },
+        {
+          "number": 13,
+          "text": "Jest přebídná věc, kterouž jsem viděl pod sluncem: Bohatství nachované tomu, kdož je má, k jeho zlému."
+        },
+        {
+          "number": 14,
+          "text": "Nebo hyne bohatství takové pro zlou správu; syn, kteréhož zplodí, nebude míti v ruce své ničeho."
+        },
+        {
+          "number": 15,
+          "text": "Jakž vyšel z života matky své nahý, tak zase odchází, jakž přišel, aniž čeho odnáší z práce své, což by vzal v ruku svou."
+        },
+        {
+          "number": 16,
+          "text": "A toť jest také přebídná věc, že rovně, jakž přišel, tak odjíti musí. Protož jaký užitek míti bude toho, že pracoval u vítr?"
+        },
+        {
+          "number": 17,
+          "text": "K tomu, že po všecky dny své v temnostech jídal, s mnohým zůřením, nemocí a hněvem?"
+        },
+        {
+          "number": 18,
+          "text": "Aj, toť jsem já spatřil, že dobrá a čistá jest věc jísti a píti a užívati pohodlí ze vší práce své, kterouž kdo vede pod sluncem v počtu dnů života svého, kteréž dal jemu Bůh, nebo to jest podíl jeho;"
+        },
+        {
+          "number": 19,
+          "text": "A že kterémukoli člověku dal Bůh bohatství a zboží, a dopustil, aby užíval jich, a bral díl svůj, a veselil se z práce své, to jest dar Boží."
+        },
+        {
+          "number": 20,
+          "text": "Nebo nebude mnoho pamatovati na dny života svého, proto že Bůh jemu přeje veselí srdce jeho."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jest bídná věc, kterouž jsem viděl pod sluncem, a lidem obyčejná:"
+        },
+        {
+          "number": 2,
+          "text": "Kterému člověku dal Bůh bohatství a zboží i slávu, tak že nemá nedostatku duše jeho v ničemž, čehokoli žádá, a však nedopouští mu Bůh užívati těch věcí, ale jiný leckdos sžíře to, a toť jest marnost a bídná věc."
+        },
+        {
+          "number": 3,
+          "text": "Zplodil-li by kdo sto synů, a byl by živ mnoho let, jakkoli rozmnoženi jsou dnové let jeho, nebyl-li život jeho nasycen dobrými věcmi, a neměl by ani pohřbu, pravím, že šťastnější jest nedochůdče nežli on."
+        },
+        {
+          "number": 4,
+          "text": "Nebo ono v zmaření přicházeje, do temností odchází, a jméno jeho temnostmi přikryto bývá."
+        },
+        {
+          "number": 5,
+          "text": "Nýbrž ani slunce nevídá, aniž čeho poznává, a tak odpočinutí má lepší nežli onen."
+        },
+        {
+          "number": 6,
+          "text": "A byť pak byl živ dva tisíce let, a pohodlí by neužil, zdaliž k jednomu místu všickni neodcházejí?"
+        },
+        {
+          "number": 7,
+          "text": "Všecka práce člověka jest pro ústa jeho, a však duše jeho nemůže se nasytiti."
+        },
+        {
+          "number": 8,
+          "text": "Nebo co má více moudrý nežli blázen? A co chudý, kterýž se umí chovati mezi lidmi?"
+        },
+        {
+          "number": 9,
+          "text": "Lépe jest viděti nežli žádati, ale i to jest marnost a trápení ducha."
+        },
+        {
+          "number": 10,
+          "text": "Èímžkoli jest, dávno jest tím nazván, a známé bylo, že člověk býti měl, a že se nebude moci souditi s silnějším, nežli jest sám."
+        },
+        {
+          "number": 11,
+          "text": "A poněvadž předsevzetí mnohá rozmnožují marnost, co na tom má člověk?"
+        },
+        {
+          "number": 12,
+          "text": "Nebo kdo ví, co by bylo dobrého člověku v tomto životě, v počtu dnů marného života jeho, kteříž pomíjejí jako stín? Aneb kdo oznámí člověku, co se díti bude po něm pod sluncem?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lepší jest jméno dobré nežli mast výborná, a den smrti než den narození člověka."
+        },
+        {
+          "number": 2,
+          "text": "Lépe jest jíti do domu zámutku, nežli jíti do domu hodování, pro dokonání každého člověka, a kdož jest živ, složí to v srdci svém."
+        },
+        {
+          "number": 3,
+          "text": "Lepší jest horlení nežli smích; nebo zůřivá tvář polepšuje srdce."
+        },
+        {
+          "number": 4,
+          "text": "Srdce moudrých v domě zámutku, ale srdce bláznů v domě veselí."
+        },
+        {
+          "number": 5,
+          "text": "Lépe jest slyšeti žehrání moudrého, nežli aby někdo poslouchal písně bláznů."
+        },
+        {
+          "number": 6,
+          "text": "Nebo jako praštění trní pod hrncem, tak smích blázna. A i to jest marnost."
+        },
+        {
+          "number": 7,
+          "text": "Ssužování zajisté k bláznovství přivodí moudrého, a dar oslepuje srdce."
+        },
+        {
+          "number": 8,
+          "text": "Lepší jest skončení věci nežli počátek její; lepší jest dlouho čekající nežli vysokomyslný."
+        },
+        {
+          "number": 9,
+          "text": "Nebuď kvapný v duchu svém k hněvu; nebo hněv v lůnu bláznů odpočívá."
+        },
+        {
+          "number": 10,
+          "text": "Neříkej: Èím jest to, že dnové první lepší byli nežli tito? Nebo bys se nemoudře na to vytazoval."
+        },
+        {
+          "number": 11,
+          "text": "Dobrá jest moudrost s statkem, a velmi užitečná těm, kteříž vidí slunce;"
+        },
+        {
+          "number": 12,
+          "text": "Nebo v stínu moudrosti a v stínu stříbra odpočívají. A však přednější jest umění moudrosti, přináší život těm, kdož ji mají."
+        },
+        {
+          "number": 13,
+          "text": "Hleď na skutky Boží. Nebo kdo může zpřímiti to, což on zkřivil?"
+        },
+        {
+          "number": 14,
+          "text": "V den dobrý užívej dobrých věcí, a v den zlý buď bedliv; nebo i to naproti onomu učinil Bůh z té příčiny, aby nenalezl člověk po něm ničeho."
+        },
+        {
+          "number": 15,
+          "text": "Všecko to viděl jsem za dnů marnosti své: Bývá spravedlivý, kterýž hyne s spravedlností svou; tolikéž bývá bezbožný, kterýž dlouho živ jest v zlosti své."
+        },
+        {
+          "number": 16,
+          "text": "Nebývej příliš spravedlivý, aniž buď příliš moudrý. Proč máš na zkázu přicházeti?"
+        },
+        {
+          "number": 17,
+          "text": "Nebuď příliš starostlivý, aniž bývej bláznem. Proč máš umírati dříve času svého?"
+        },
+        {
+          "number": 18,
+          "text": "Dobréť jest, abys se onoho přídržel, a tohoto se nespouštěl; nebo kdo se bojí Boha, ujde všeho toho."
+        },
+        {
+          "number": 19,
+          "text": "Moudrost posiluje moudrého nad desatero knížat, kteříž jsou v městě."
+        },
+        {
+          "number": 20,
+          "text": "Není zajisté člověka spravedlivého na zemi, kterýž by činil dobře a nehřešil."
+        },
+        {
+          "number": 21,
+          "text": "Také ne ke všechněm slovům, kteráž mluví lidé, přikládej mysli své, poněvadž nemáš dbáti, by i služebník tvůj zlořečil tobě."
+        },
+        {
+          "number": 22,
+          "text": "Neboť ví srdce tvé, že jsi i ty častokrát zlořečil jiným."
+        },
+        {
+          "number": 23,
+          "text": "Všeho toho zkusil jsem moudrostí, a řekl jsem: Budu moudrým, ale moudrost vzdálila se ode mne."
+        },
+        {
+          "number": 24,
+          "text": "Což pak vzdálené a velmi hluboké jest, kdož to najíti může?"
+        },
+        {
+          "number": 25,
+          "text": "Všecko jsem přeběhl myslí svou, abych poznal a vyhledal, i vynalezl moudrost a rozumnost, a abych poznal bezbožnost, bláznovství a nemoudrost i nesmyslnost."
+        },
+        {
+          "number": 26,
+          "text": "I našel jsem věc hořčejší nad smrt, ženu, jejíž srdce tenata, a ruce její okovy. Kdož se líbí Bohu, zachován bývá od ní, ale hříšník bývá od ní jat."
+        },
+        {
+          "number": 27,
+          "text": "Pohleď, to jsem shledal, (praví kazatel), jedno proti druhému stavěje, abych nalezl umění,"
+        },
+        {
+          "number": 28,
+          "text": "Èeho pak přesto hledala duše má, však jsem nenalezl: Muže jednoho z tisíce našel jsem, ale ženy mezi tolika jsem nenalezl."
+        },
+        {
+          "number": 29,
+          "text": "Obzvláštně pohleď i na to, což jsem nalezl: Že učinil Bůh člověka dobrého, ale oni následovali smyšlínek rozličných."
+        },
+        {
+          "number": 30,
+          "text": "Kdo se může vrovnati moudrému, a kdo může vykládati všelikou věc?"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Moudrost člověka osvěcuje oblíčej jeho, a nestydatost tváři jeho proměňuje."
+        },
+        {
+          "number": 2,
+          "text": "Jáť radím: Výpovědi královské ostříhej, a však podlé přísahy Boží."
+        },
+        {
+          "number": 3,
+          "text": "Nepospíchej odjíti od tváři jeho, aniž trvej v zpouře; nebo cožť by koli chtěl, učinil by."
+        },
+        {
+          "number": 4,
+          "text": "Nebo kde slovo královské, tu i moc jeho, a kdo dí jemu: Co děláš?"
+        },
+        {
+          "number": 5,
+          "text": "Kdo ostříhá přikázaní, nezví o ničem zlém. I čas i příčiny zná srdce moudrého."
+        },
+        {
+          "number": 6,
+          "text": "Nebo všeliké předsevzetí má čas a příčiny. Ale i to neštěstí veliké člověka se přídrží,"
+        },
+        {
+          "number": 7,
+          "text": "Že neví, co budoucího jest. Nebo jak se stane, kdo mu oznámí?"
+        },
+        {
+          "number": 8,
+          "text": "Není člověka, kterýž by moci měl nad životem, aby zadržel duši, aniž má moc nade dnem smrti; nemá ani braně v tom boji, aniž vysvobodí bezbožnost bezbožného."
+        },
+        {
+          "number": 9,
+          "text": "Ve všem tom viděl jsem, přiloživ mysl svou ke všemu tomu, co se děje pod sluncem, že časem panuje člověk nad člověkem k jeho zlému."
+        },
+        {
+          "number": 10,
+          "text": "A tehdáž viděl jsem bezbožné pohřbené, že se zase navrátili, ale kteříž z místa svatého odešli, v zapomenutí dáni jsou v městě tom, v kterémž dobře činili. I to také jest marnost."
+        },
+        {
+          "number": 11,
+          "text": "Nebo že ne i hned ortel dochází pro skutek zlý, protož vroucí jest k tomu srdce synů lidských, aby činili zlé věci."
+        },
+        {
+          "number": 12,
+          "text": "A ačkoli hříšník činí zle na stokrát, a vždy se mu odkládá, já však vím, že dobře bude bojícím se Boha, kteříž se bojí oblíčeje jeho."
+        },
+        {
+          "number": 13,
+          "text": "S bezbožným pak nedobře se díti bude, aniž se prodlí dnové jeho; minou jako stín, proto že jest bez bázně před oblíčejem Božím."
+        },
+        {
+          "number": 14,
+          "text": "Jest marnost, kteráž se děje na zemi: Že bývají spravedliví, jimž se však vede, jako by činili skutky bezbožných; zase bývají bezbožní, kterýmž se však vede, jako by činili skutky spravedlivých. Protož jsem řekl: I to také jest marnost."
+        },
+        {
+          "number": 15,
+          "text": "A tak chválil jsem veselí, proto že nic nemá lepšího člověk pod sluncem, jediné aby jedl a pil, a veselil se, a že to pozůstává jemu z práce jeho ve dnech života jeho, kteréž dal jemu Bůh pod sluncem."
+        },
+        {
+          "number": 16,
+          "text": "A ač jsem se vydal srdcem svým na to, abych moudrost vystihnouti mohl, a vyrozuměti bídě, kteráž bývá na zemi, pro kterouž ani ve dne ani v noci nespí,"
+        },
+        {
+          "number": 17,
+          "text": "A však viděl jsem při každém skutku Božím, že nemůže člověk vystihnouti skutku dějícího se pod sluncem. O čež pracuje člověk, vyhledati chtěje, ale nenalézá; nýbrž byť i myslil moudrý, že se doví, nebude moci nic najíti."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Všecko to zajisté rozvažoval jsem v srdci svém, abych vysvětlil všecko to, že spravedliví a moudří, i skutkové jejich jsou v rukou Božích. Jakož milosti, tak ani nenávisti nezná člověk ze všech věcí, kteréž jsou před oblíčejem jeho."
+        },
+        {
+          "number": 2,
+          "text": "Všecko se děje jednostejně při všech; jedna a táž případnost jest spravedlivého jako bezbožného, dobrého a čistého jako nečistého, obětujícího jako toho, kterýž neobětuje, tak dobrého jako hříšníka, přisahajícího jako toho, kterýž se přísahy bojí."
+        },
+        {
+          "number": 3,
+          "text": "A toť jest přebídná věc mezi vším tím, což se děje pod sluncem, že případnost jednostejná jest všechněch, ovšem pak že srdce synů lidských plné jest zlého, a že bláznovství přídrží se srdce jejich, pokudž živi jsou, potom pak umírají,"
+        },
+        {
+          "number": 4,
+          "text": "Ačkoli ten, kterýž tovaryší se všechněmi živými, má naději, an psu živému lépe jest nežli lvu mrtvému."
+        },
+        {
+          "number": 5,
+          "text": "Nebo živí vědí, že umříti mají, mrtví pak nevědí nic, aniž více mají odplaty, proto že v zapomenutí přišla památka jejich."
+        },
+        {
+          "number": 6,
+          "text": "Anobrž i milování jejich, i nenávist jejich, i závist jejich zahynula, a již více nemají dílu na věky v žádné věci, kteráž se děje pod sluncem."
+        },
+        {
+          "number": 7,
+          "text": "Nuže tedy jez s radostí chléb svůj, a pí s veselou myslí víno své, nebo již oblibuje Bůh skutky tvé."
+        },
+        {
+          "number": 8,
+          "text": "Každého času ať jest roucho tvé bílé, a oleje na hlavě tvé nechť není nedostatku."
+        },
+        {
+          "number": 9,
+          "text": "Živ buď s manželkou, kterouž jsi zamiloval, po všecky dny života marnosti své, kterýžť dán pod sluncem po všecky dny marnosti tvé; nebo to jest podíl tvůj v životě tomto a při práci tvé, kterouž vedeš pod sluncem."
+        },
+        {
+          "number": 10,
+          "text": "Všecko, což by před se vzala ruka tvá k činění, podlé možnosti své konej; nebo není práce ani důmyslu ani umění ani moudrosti v hrobě, do něhož se béřeš."
+        },
+        {
+          "number": 11,
+          "text": "A obrátiv se, spatřil jsem pod sluncem, že nezáleží běh na rychlých, ani boj na udatných, nýbrž ani živnost na moudrých, ani bohatství na opatrných, ani přízeň na umělých, ale podlé času a příhody přihází se všechněm."
+        },
+        {
+          "number": 12,
+          "text": "Nebo tak nezná člověk času svého jako ryby, kteréž loveny bývají sítí škodlivou, a jako ptáci polapeni bývají osídlem; tak zlapáni bývají synové lidští v čas zlý, když na ně připadá v náhle."
+        },
+        {
+          "number": 13,
+          "text": "Také i tuto moudrost viděl jsem pod sluncem, kteráž za velikou byla u mne:"
+        },
+        {
+          "number": 14,
+          "text": "Bylo město malé, a v něm lidí málo, k němuž přitáhl král mocný, a obehnav je, zdělal proti němu náspy veliké."
+        },
+        {
+          "number": 15,
+          "text": "I nalezen jest v něm muž chudý moudrý, kterýž vysvobodil to město moudrostí svou, ačkoli žádný nevzpomenul na muže toho chudého."
+        },
+        {
+          "number": 16,
+          "text": "Protož řekl jsem já: Lepší jest moudrost než síla, ačkoli moudrost chudého toho byla v pohrdání, a slov jeho neposlouchali."
+        },
+        {
+          "number": 17,
+          "text": "Slov moudrých pokojně poslouchati sluší, raději než křiku panujícího mezi blázny."
+        },
+        {
+          "number": 18,
+          "text": "Lepší jest moudrost než nástrojové váleční, ale nemoudrý jeden kazí mnoho dobrého."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Muchy mrtvé nasmrazují a nakažují mast apatekářskou; tak pro moudrost a slávu vzácného maličko bláznovství zohyžďuje."
+        },
+        {
+          "number": 2,
+          "text": "Srdce moudrého jest po pravici jeho, ale srdce blázna po levici jeho."
+        },
+        {
+          "number": 3,
+          "text": "I tehdáž, když blázen cestou jde, srdce jeho nedostatek trpí; nebo všechněm znáti dává, že blázen jest."
+        },
+        {
+          "number": 4,
+          "text": "Jestliže by duch toho, jenž panuje, povstal proti tobě, neopouštěj místa svého; nebo krotkost přítrž činí hříchům velikým."
+        },
+        {
+          "number": 5,
+          "text": "Jest zlá věc, kterouž jsem viděl pod sluncem, totiž neprozřetelnost, kteráž pochází od vrchnosti,"
+        },
+        {
+          "number": 6,
+          "text": "Že blázen postaven bývá v důstojnosti veliké, a bohatí že v nízkosti sedávají."
+        },
+        {
+          "number": 7,
+          "text": "Viděl jsem služebníky na koních, knížata pak, ana chodí pěšky jako služebníci."
+        },
+        {
+          "number": 8,
+          "text": "Kdo kopá jámu, upadá do ní; a kdo boří plot, ušťkne jej had."
+        },
+        {
+          "number": 9,
+          "text": "Kdo přenáší kamení, urazí se jím; a kdo štípá dříví, nebezpečenství bude míti od něho."
+        },
+        {
+          "number": 10,
+          "text": "Jestliže se ztupí železo, a nenabrousí-li ostří jeho, tedy síly přičiniti musí; ale mnohem lépe může to spraviti moudrost."
+        },
+        {
+          "number": 11,
+          "text": "Ušťkne-li had, než by zaklet byl, nic neprospějí slova zaklinače."
+        },
+        {
+          "number": 12,
+          "text": "Slova úst moudrého jsou příjemná, ale rtové blázna sehlcují jej."
+        },
+        {
+          "number": 13,
+          "text": "Počátek slov úst jeho jest nemoudrost, a ostatek mluvení jeho pouhé bláznovství."
+        },
+        {
+          "number": 14,
+          "text": "Nebo blázen mnoho mluví, ješto neví člověk ten, co budoucího jest. To zajisté, co bude po něm, kdo mu oznámí?"
+        },
+        {
+          "number": 15,
+          "text": "Práce bláznů k ustání je přivodí, nebo neumí ani do města trefiti."
+        },
+        {
+          "number": 16,
+          "text": "Běda tobě, země, když král tvůj dítě jest, a knížata tvá ráno hodují."
+        },
+        {
+          "number": 17,
+          "text": "Blahoslavená jsi ty země, když král tvůj jest syn šlechetných, a knížata tvá, když čas jest, jídají pro posilnění, a ne pro opilství."
+        },
+        {
+          "number": 18,
+          "text": "Ano pro lenost schází krov, a pro opuštění rukou kapává do domu."
+        },
+        {
+          "number": 19,
+          "text": "Pro obveselení strojívají hody, a víno obveseluje život, peníze pak ke všemu dopomáhají."
+        },
+        {
+          "number": 20,
+          "text": "Ani sám u sebe králi nezlořeč, ani v skrýších pokoje svého nezlořeč mocnějšímu; nebo pták nebeský donesl by hlas ten, a to, což křídla má, vyjevilo by řeč tvou."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pouštěj chléb svůj po vodě, nebo po mnohých dnech najdeš jej."
+        },
+        {
+          "number": 2,
+          "text": "Dej částku sedmi aneb i osmi, nebo nevíš, co zlého bude na zemi."
+        },
+        {
+          "number": 3,
+          "text": "Když se naplňují oblakové, déšť na zem vydávají; a když padá dřevo na poledne aneb na půlnoci, na kteréž místo padá to dřevo, tu zůstává."
+        },
+        {
+          "number": 4,
+          "text": "Kdo šetří větru, nebude síti; a kdo hledí na husté oblaky, nebude žíti."
+        },
+        {
+          "number": 5,
+          "text": "Jakož ty nevíš, která jest cesta větru, a jak rostou kosti v životě těhotné, tak neznáš díla Božího, kterýž činí všecko."
+        },
+        {
+          "number": 6,
+          "text": "Hned z jitra rozsívej símě své, a u večer nedávej odpočinutí ruce své; nebo ty nevíš, co jest lepšího, to-li či ono, čili obé jednostejně dobré jest."
+        },
+        {
+          "number": 7,
+          "text": "Příjemnéť jest zajisté světlo, a milá věc očima viděti slunce;"
+        },
+        {
+          "number": 8,
+          "text": "A však, by mnoho let živ jsa člověk, ve všech těch veselil by se, tedy rozpomenul-li by se na dny temnosti, jak jich mnoho bude, cožkoli přeběhlo, počte za marnost."
+        },
+        {
+          "number": 9,
+          "text": "Radujž se tedy, mládenče, v mladosti své, a nechť tě obveseluje srdce tvé ve dnech mladosti tvé, a choď po cestách srdce svého, a podlé žádosti očí svých, než věz, že tě s tím se vším přivede Bůh na soud."
+        },
+        {
+          "number": 10,
+          "text": "Anobrž odejmi hněv od srdce svého, a odvrať zlost od těla svého; nebo dětinství a mladost jest marnost."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A pamatuj na stvořitele svého ve dnech mladosti své, prvé než nastanou dnové zlí, a přiblíží se léta, o nichž díš: Nemám v nich zalíbení;"
+        },
+        {
+          "number": 2,
+          "text": "Prvé než se zatmí slunce a světlo, a měsíc i hvězdy, a navrátí se hustí oblakové po dešti;"
+        },
+        {
+          "number": 3,
+          "text": "V ten den, v kterémž se třísti budou strážní domu, a nakřiví se muži silní, a ustanou melící, proto že jich málo bude, a zatmí se ti, kteříž vyhlédají z oken,"
+        },
+        {
+          "number": 4,
+          "text": "A zavříny budou dvéře od ulice s slabým zvukem mlení, a povstanou k hlasu ptačímu, a přestanou všecky slibnosti zpěvu;"
+        },
+        {
+          "number": 5,
+          "text": "Ano i vysokosti báti se budou, a úrazu na cestě, a kvésti bude mandlový strom, tak že i kobylka těžká bude, a poruší se žádost; nebo béře se člověk do domu věčného, a choditi budou po ulici kvílící;"
+        },
+        {
+          "number": 6,
+          "text": "Prvé než se přetrhne provaz stříbrný, a než se rozrazí číše zlatá, a roztříští se věderce nad vrchovištěm, a roztrhne se kolo nad studnicí,"
+        },
+        {
+          "number": 7,
+          "text": "A navrátí se prach do země, jakž prvé byl, duch pak navrátí se k Bohu, kterýž jej dal."
+        },
+        {
+          "number": 8,
+          "text": "Marnost nad marnostmi, řekl kazatel, a všecko marnost."
+        },
+        {
+          "number": 9,
+          "text": "Èím pak byl kazatel moudřejší, tím více vyučoval lid umění, a rozvažoval, zpytoval, i složil množství přísloví."
+        },
+        {
+          "number": 10,
+          "text": "Snažovaltě se kazatel vyhledati věci nejžádostivější, a napsal, což pravého jest, a slova věrná."
+        },
+        {
+          "number": 11,
+          "text": "Slova moudrých podobná ostnům a hřebíkům vbitým, slova skladatelů, kteráž jsou vydána od pastýře jednoho."
+        },
+        {
+          "number": 12,
+          "text": "A tak tedy jimi, synu můj, hojně dosti osvícen býti můžeš. Dělání knih mnohých žádného konce není, a čísti mnoho jest zemdlení těla."
+        },
+        {
+          "number": 13,
+          "text": "Summa všeho, což jsi slyšel: Boha se boj, a přikázaní jeho ostříhej, nebo na tom všecko člověku záleží."
+        },
+        {
+          "number": 14,
+          "text": "Poněvadž všeliký skutek Bůh přivede na soud, i každou věc tajnou, buďto dobrou, buďto zlou."
+        }
+      ]
+    }
+  ]
+}

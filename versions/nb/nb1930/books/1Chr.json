@@ -1,0 +1,3922 @@
+{
+  "version": "nb1930",
+  "book": "1Chr",
+  "bookId": 13,
+  "englishName": "1 Chronicles",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Adam, Set, Enos,"
+        },
+        {
+          "number": 2,
+          "text": "Kenan, Mahalalel, Jared,"
+        },
+        {
+          "number": 3,
+          "text": "Enok, Metusalah, Lamek,"
+        },
+        {
+          "number": 4,
+          "text": "Noah, Sem, Kam og Jafet."
+        },
+        {
+          "number": 5,
+          "text": "Jafets sønner var Gomer og Magog og Madai og Javan og Tubal og Mesek og Tiras."
+        },
+        {
+          "number": 6,
+          "text": "Og Gomers sønner var Askenas og Difat og Togarma."
+        },
+        {
+          "number": 7,
+          "text": "Og Javans sønner var Elisa og Tarsisa, Kittim og Rodanim."
+        },
+        {
+          "number": 8,
+          "text": "Kams sønner var Kus og Misra'im, Put og Kana'an."
+        },
+        {
+          "number": 9,
+          "text": "Og Kus' sønner var Seba og Havila og Sabta og Raema og Sabteka; og Raemas sønner var Sjeba og Dedan."
+        },
+        {
+          "number": 10,
+          "text": "Og Kus fikk en sønn som hette Nimrod; han var den første som fikk velde på jorden."
+        },
+        {
+          "number": 11,
+          "text": "Og Misra'im var stamfar til luderne og anamerne og lehaberne og naftuherne"
+        },
+        {
+          "number": 12,
+          "text": "og patruserne og kasluherne, som filistrene stammer fra, og kaftorerne."
+        },
+        {
+          "number": 13,
+          "text": "Og Kana'an blev far til Sidon - det var hans førstefødte - og Het"
+        },
+        {
+          "number": 14,
+          "text": "og jebusittene og amorittene og girgasittene"
+        },
+        {
+          "number": 15,
+          "text": "og hevittene og arkittene og sinittene"
+        },
+        {
+          "number": 16,
+          "text": "og arvadittene og semarittene og hamatittene."
+        },
+        {
+          "number": 17,
+          "text": "Sems sønner var Elam og Assur og Arpaksad og Lud og Aram og Us og Hul og Geter og Mesek."
+        },
+        {
+          "number": 18,
+          "text": "Og Arpaksad fikk sønnen Salah, og Salah fikk Eber."
+        },
+        {
+          "number": 19,
+          "text": "Og Eber fikk to sønner; den ene hette Peleg, for i hans dager blev menneskene spredt over jorden, og hans bror hette Joktan."
+        },
+        {
+          "number": 20,
+          "text": "Og Joktan blev far til Almodad og Salef og Hasarmavet og Jarah"
+        },
+        {
+          "number": 21,
+          "text": "og Hadoram og Usal og Dikla"
+        },
+        {
+          "number": 22,
+          "text": "og Ebal og Abimael og Sjeba"
+        },
+        {
+          "number": 23,
+          "text": "og Ofir og Havila og Jobab; alle disse var Joktans sønner."
+        },
+        {
+          "number": 24,
+          "text": "Sem, Arpaksad, Salah,"
+        },
+        {
+          "number": 25,
+          "text": "Eber, Peleg, Re'u,"
+        },
+        {
+          "number": 26,
+          "text": "Serug, Nakor, Tarah,"
+        },
+        {
+          "number": 27,
+          "text": "Abram, det er Abraham."
+        },
+        {
+          "number": 28,
+          "text": "Abrahams sønner var Isak og Ismael."
+        },
+        {
+          "number": 29,
+          "text": "Dette er deres ætter: Nebajot, Ismaels førstefødte, og Kedar og Adbe'el og Mibsam."
+        },
+        {
+          "number": 30,
+          "text": "Misma og Duma, Massa, Hadad og Tema,"
+        },
+        {
+          "number": 31,
+          "text": "Jetur, Nafis og Kedma; dette var Ismaels venner."
+        },
+        {
+          "number": 32,
+          "text": "Og de sønner som Abrahams medhustru Ketura fødte, var: Simran og Joksan og Medan og Midian og Jisbak og Suah; og Joksans sønner var Sjeba og Dedan;"
+        },
+        {
+          "number": 33,
+          "text": "og Midians sønner var Efa og Efer og Hanok og Abida og Elda'a. Alle disse var Keturas sønner."
+        },
+        {
+          "number": 34,
+          "text": "Og Abraham fikk sønnen Isak. Isaks sønner var Esau og Israel."
+        },
+        {
+          "number": 35,
+          "text": "Esaus sønner var Elifas, Re'uel og Je'us og Jaelam og Korah."
+        },
+        {
+          "number": 36,
+          "text": "Elifas' sønner var Teman og Omar, Sefi og Gatam, Kenas og Timna og Amalek."
+        },
+        {
+          "number": 37,
+          "text": "Re'uels sønner var Nahat, Serah, Samma og Missa."
+        },
+        {
+          "number": 38,
+          "text": "Og Se'irs sønner var Lotan og Sobal og Sibeon og Ana og Dison og Eser og Disan."
+        },
+        {
+          "number": 39,
+          "text": "Og Lotans sønner var Hori og Homam; og Lotans søster var Timna."
+        },
+        {
+          "number": 40,
+          "text": "Sobals sønner var Aljan og Manahat og Ebal, Sefi og Onam; og Sibeons sønner var Aja og Ana."
+        },
+        {
+          "number": 41,
+          "text": "Anas sønn var Dison; og Disons sønner var Hamran og Esban og Jitran og Keran."
+        },
+        {
+          "number": 42,
+          "text": "Esers sønner var Bilhan og Sa'avan og Ja'akan; Disans sønner var Us og Aran."
+        },
+        {
+          "number": 43,
+          "text": "Og dette var de konger som regjerte i Edom-landet før det regjerte nogen konge over Israels barn: Bela, Beors sønn; hans by hette Dinhaba."
+        },
+        {
+          "number": 44,
+          "text": "Da Bela døde, blev Jobab, Serahs sønn, fra Bosra, konge i hans sted."
+        },
+        {
+          "number": 45,
+          "text": "Da Jobab døde, blev Husam fra temanittenes land konge i hans sted."
+        },
+        {
+          "number": 46,
+          "text": "Da Husam døde, blev Hadad, Bedads sønn, konge i hans sted; det var han som slo midianittene på Moabs mark; hans by hette Ajut."
+        },
+        {
+          "number": 47,
+          "text": "Da Hadad døde, blev Samla fra Masreka konge i hans sted."
+        },
+        {
+          "number": 48,
+          "text": "Da Samla døde, blev Saul fra Rehobot ved elven konge i hans sted."
+        },
+        {
+          "number": 49,
+          "text": "Da Saul døde, blev Ba'al-Hanan, Akbors sønn, konge i hans sted."
+        },
+        {
+          "number": 50,
+          "text": "Da Ba'al-Hanan døde, blev Hadad konge i hans sted; hans by hette Pa'i, og hans hustru hette Mehetabel, datter av Matred, Mesahabs datter."
+        },
+        {
+          "number": 51,
+          "text": "Og Hadad døde. Og Edoms stammefyrster var: stammefyrsten Timna, stammefyrsten Alja, stammefyrsten Jetet,"
+        },
+        {
+          "number": 52,
+          "text": "stammefyrsten Oholibama, stammefyrsten Ela, stammefyrsten Pinon,"
+        },
+        {
+          "number": 53,
+          "text": "stammefyrsten Kenas, stammefyrsten Teman, stammefyrsten Mibsar,"
+        },
+        {
+          "number": 54,
+          "text": "stammefyrsten Magdiel, stammefyrsten Iram; dette var Edoms stammefyrster."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette var Israels sønner: Ruben, Simeon, Levi og Juda, Issakar og Sebulon,"
+        },
+        {
+          "number": 2,
+          "text": "Dan, Josef og Benjamin, Naftali, Gad og Aser."
+        },
+        {
+          "number": 3,
+          "text": "Judas sønner var Er og Onan og Sela; disse tre fikk han med Suas datter, kana'anittinnen; men Er, Judas førstefødte, mishaget Herren, og han lot ham dø."
+        },
+        {
+          "number": 4,
+          "text": "Og hans sønnekone Tamar fødte ham Peres og Serah, så at Judas sønner i alt var fem."
+        },
+        {
+          "number": 5,
+          "text": "Peres' sønner var Hesron og Hamul."
+        },
+        {
+          "number": 6,
+          "text": "Og Serahs sønner var Simri og Etan og Heman og Kalkol og Dara, tilsammen fem."
+        },
+        {
+          "number": 7,
+          "text": "Og Karmis sønn var Akar, som førte Israel i ulykke, fordi han bar sig troløst at med det bannlyste gods."
+        },
+        {
+          "number": 8,
+          "text": "Og Etans sønn var Asarja."
+        },
+        {
+          "number": 9,
+          "text": "Og de sønner som Hesron fikk, var Jerahme'el og Ram og Kelubai."
+        },
+        {
+          "number": 10,
+          "text": "Og Ram fikk sønnen Amminadab, og Amminadab fikk sønnen Nahson, høvding for Judas barn,"
+        },
+        {
+          "number": 11,
+          "text": "og Nahson fikk sønnen Salma, og Salma fikk sønnen Boas,"
+        },
+        {
+          "number": 12,
+          "text": "og Boas fikk sønnen Obed, og Obed fikk sønnen Isai."
+        },
+        {
+          "number": 13,
+          "text": "Og Isai fikk Eliab, som var hans førstefødte sønn, og Abinadab, hans annen sønn, og Simea, den tredje,"
+        },
+        {
+          "number": 14,
+          "text": "Netanel, den fjerde, Raddai, den femte,"
+        },
+        {
+          "number": 15,
+          "text": "Osem, den sjette, David, den syvende."
+        },
+        {
+          "number": 16,
+          "text": "Og deres søstre var Seruja og Abiga'il. Og Serujas sønner var Absai og Joab og Asael, tre i tallet."
+        },
+        {
+          "number": 17,
+          "text": "Og Abiga'il fødte Amasa, og Amasas far var ismaelitten Jeter."
+        },
+        {
+          "number": 18,
+          "text": "Og Kaleb, Hesrons sønn, fikk barn med sin hustru Asuba og med Jeriot; og dette var hennes sønner: Jeser og Sobab og Ardon."
+        },
+        {
+          "number": 19,
+          "text": "Da Asuba døde, tok Kaleb Efrat til hustru, og med henne fikk han sønnen Hur,"
+        },
+        {
+          "number": 20,
+          "text": "og Hur fikk sønnen Uri, og Uri fikk sønnen Besalel."
+        },
+        {
+          "number": 21,
+          "text": "Siden giftet Hesron sig med en datter av Gileads far Makir; han tok henne til hustru da han var seksti år gammel, og fikk med henne sønnen Segub."
+        },
+        {
+          "number": 22,
+          "text": "Og Segub fikk sønnen Ja'ir; han hadde tre og tyve byer i Gileads land."
+        },
+        {
+          "number": 23,
+          "text": "Men gesurittene og arameerne tok Ja'irs byer fra dem og likeså Kenat med tilhørende landsbyer - i alt seksti byer. Alle disse var sønner av Gileads far Makir."
+        },
+        {
+          "number": 24,
+          "text": "Og efterat Hesron var død i Kaleb-Efrata, fødte hans hustru Abia ham Ashur, Tekoas far."
+        },
+        {
+          "number": 25,
+          "text": "Og sønnene til Jerahme'el, Hesrons førstefødte, var Ram, hans førstefødte, og Buna og Oren og Osem; dem hadde han med Akia."
+        },
+        {
+          "number": 26,
+          "text": "Jerahme'el hadde også en annen hustru, som hette Atara; hun var mor til Onam."
+        },
+        {
+          "number": 27,
+          "text": "Og sønnene til Ram, Jerahme'els førstefødte, var Ma'as og Jamin og Eker."
+        },
+        {
+          "number": 28,
+          "text": "Og Onams sønner var Sammai og Jada. Og Sammais sønner var Nadab og Abisur."
+        },
+        {
+          "number": 29,
+          "text": "Abisurs hustru hette Abiha'il, og med henne fikk han Akban og Molid."
+        },
+        {
+          "number": 30,
+          "text": "Og Nadabs sønner var Seled og Appa'im; Seled døde uten sønner."
+        },
+        {
+          "number": 31,
+          "text": "Og Appa'ims sønn var Jisi; og Jisis sønn var Sesan; og Sesans barn var Aklai."
+        },
+        {
+          "number": 32,
+          "text": "Og sønnene til Sammais bror Jada var Jeter og Jonatan. Jeter døde uten sønner."
+        },
+        {
+          "number": 33,
+          "text": "Og Jonatans sønner var Pelet og Sasa. Dette var Jerahme'els sønner."
+        },
+        {
+          "number": 34,
+          "text": "Sesan hadde ingen sønner, bare døtre. Men Sesan hadde en egyptisk tjener, som hette Jarha,"
+        },
+        {
+          "number": 35,
+          "text": "og han lot sin tjener Jarha få sin datter til hustru, og med henne fikk han sønnen Attai."
+        },
+        {
+          "number": 36,
+          "text": "Og Attai fikk sønnen Natan, og Natan fikk sønnen Sabad,"
+        },
+        {
+          "number": 37,
+          "text": "og Sabad fikk sønnen Eflal, og Eflal fikk sønnen Obed,"
+        },
+        {
+          "number": 38,
+          "text": "og Obed fikk sønnen Jehu, og Jehu fikk sønnen Asarja,"
+        },
+        {
+          "number": 39,
+          "text": "og Asarja fikk sønnen Hales, og Hales fikk sønnen Elasa,"
+        },
+        {
+          "number": 40,
+          "text": "og Elasa fikk sønnen Sismai, og Sismai fikk sønnen Sallum,"
+        },
+        {
+          "number": 41,
+          "text": "og Sallum fikk sønnen Jekamja, og Jekamja fikk sønnen Elisama."
+        },
+        {
+          "number": 42,
+          "text": "Og sønnene til Jerahme'els bror Kaleb var Mesa hans førstefødte - han var far til Sif - og sønnene til Hebrons far Maresa."
+        },
+        {
+          "number": 43,
+          "text": "Og Hebrons sønner var Korah og Tappuah og Rekem og Sema."
+        },
+        {
+          "number": 44,
+          "text": "Og Sema fikk sønnen Raham, far til Jorkeam, og Rekem fikk sønnen Sammai."
+        },
+        {
+          "number": 45,
+          "text": "Og Sammais sønn var Maon, og Maon var far til Betsur."
+        },
+        {
+          "number": 46,
+          "text": "Og Kalebs medhustru Efa fødte Haran og Mosa og Gases; og Haran fikk sønnen Gases."
+        },
+        {
+          "number": 47,
+          "text": "Og Jehdais sønner var Regem og Jotam og Gesan og Pelet og Efa og Sa'af."
+        },
+        {
+          "number": 48,
+          "text": "Kalebs medhustru Ma'aka fødte Seber og Tirhana;"
+        },
+        {
+          "number": 49,
+          "text": "hun fødte også Sa'af, far til Madmanna, og Seva, far til Makbena og Gibea; og Kalebs datter var Aksa."
+        },
+        {
+          "number": 50,
+          "text": "Dette var Kalebs sønner: Sobal, sønn til Efratas førstefødte sønn Hur og far til Kirjat-Jearim,"
+        },
+        {
+          "number": 51,
+          "text": "Salma, far til Betlehem, Haref, far til Betgader."
+        },
+        {
+          "number": 52,
+          "text": "Og sønnene til Kirjat-Jearims far Sobal var Haroe og halvdelen av Hammenuhot-ætten."
+        },
+        {
+          "number": 53,
+          "text": "Og Kirjat-Jearims ætter var jitrittene og putittene og sumatittene og misra'ittene; fra dem stammer soratittene og estaolittene."
+        },
+        {
+          "number": 54,
+          "text": "Salmas sønner var Betlehem og netofatittene, Atrot-Bet-Joab og halvdelen av manahtittene, sorittene."
+        },
+        {
+          "number": 55,
+          "text": "Og de skriftlærdes ætter, deres som bodde i Jabes, var tiratittene, simatittene, sukatittene; dette er de kinnitter som nedstammer fra Hammat, far til Rekabs hus."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette var Davids sønner som han fikk i Hebron: Den førstefødte, Amnon, fikk han med Akinoam fra Jisre'el; den annen, Daniel, med Abiga'il fra Karmel;"
+        },
+        {
+          "number": 2,
+          "text": "den tredje, Absalom, var sønn av Ma'aka, en datter av kongen i Gesur Talmai; den fjerde, Adonja, var sønn av Haggit;"
+        },
+        {
+          "number": 3,
+          "text": "den femte, Sefatja, fikk han med Abital; den sjette, Jitream, med sin hustru Egla."
+        },
+        {
+          "number": 4,
+          "text": "Disse seks fikk han i Hebron; der regjerte han i syv år og seks måneder, og i tre og tretti år regjerte han i Jerusalem."
+        },
+        {
+          "number": 5,
+          "text": "Dette er de sønner han fikk i Jerusalem: Simea og Sobab og Natan og Salomo - disse fire fikk han med Batsua, Ammiels datter -"
+        },
+        {
+          "number": 6,
+          "text": "og Jibhar og Elisama og Elifelet"
+        },
+        {
+          "number": 7,
+          "text": "og Nogah og Nefeg og Jafia"
+        },
+        {
+          "number": 8,
+          "text": "og Elisama og Eljada og Elifelet, ni i tallet."
+        },
+        {
+          "number": 9,
+          "text": "Alle disse var Davids sønner foruten de sønner han fikk med sine medhustruer; og Tamar var deres søster."
+        },
+        {
+          "number": 10,
+          "text": "Og Salomos sønn var Rehabeam; hans sønn Abia; hans sønn Asa; hans sønn Josafat;"
+        },
+        {
+          "number": 11,
+          "text": "hans sønn Joram; hans sønn Akasja; hans sønn Joas,"
+        },
+        {
+          "number": 12,
+          "text": "hans sønn Amasja; hans sønn Asarja; hans sønn Jotam;"
+        },
+        {
+          "number": 13,
+          "text": "hans sønn Akas; hans sønn Esekias; hans sønn Manasse;"
+        },
+        {
+          "number": 14,
+          "text": "hans sønn Amon; hans sønn Josias."
+        },
+        {
+          "number": 15,
+          "text": "Og Josias' sønner var Johanan, som var hans førstefødte sønn, Jojakim, hans annen sønn, Sedekias, den tredje, Sallum, den fjerde."
+        },
+        {
+          "number": 16,
+          "text": "Og Jojakims sønner var hans sønn Jekonja og hans sønn Sedekias."
+        },
+        {
+          "number": 17,
+          "text": "Og den fangne Jekonjas sønner var hans sønn Sealtiel"
+        },
+        {
+          "number": 18,
+          "text": "og Malkiram og Pedaja og Senassar, Jekamja, Hosama og Nedabja."
+        },
+        {
+          "number": 19,
+          "text": "Og Pedajas sønner var Serubabel og Sime'i; og Serubabels sønner var Mesullam og Hananja - deres søster var Selomit -"
+        },
+        {
+          "number": 20,
+          "text": "og Hasuba og Ohel og Berekja, Hasadja og Jusab-Hesed, fem i tallet."
+        },
+        {
+          "number": 21,
+          "text": "Og Hananjas sønner var Pelatja og Jesaja, Refajas sønner, Arnans sønner, Obadjas sønner og Sekanjas sønner."
+        },
+        {
+          "number": 22,
+          "text": "Og Sekanjas sønn var Semaja; og Semajas sønner var Hattus og Jigal og Bariah og Nearja og Safat, seks i tallet."
+        },
+        {
+          "number": 23,
+          "text": "Og Nearjas sønner var Eljoenai og Hiskia og Asrikam, tre i tallet."
+        },
+        {
+          "number": 24,
+          "text": "Og Eljoenais sønner var Hodaiva og Eljasib og Pelaja og Akkub og Johanan og Delaja og Anani, syv i tallet."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Judas sønner var Peres, Hesron og Karmi og Hur og Sobal."
+        },
+        {
+          "number": 2,
+          "text": "Og Reaja, Sobals sønn, fikk sønnen Jahat, og Jahat fikk sønnene Ahumai og Lahad; dette var soratittenes ætter."
+        },
+        {
+          "number": 3,
+          "text": "Og dette var Abi-Etams ætter: Jisre'el og Jisma og Jidbas, og deres søster hette Haslelponi."
+        },
+        {
+          "number": 4,
+          "text": "Og Pnuel var far til Gedor, og Eser var far til Husa; de var sønner av Hur, Efratas førstefødte sønn og far til Betlehem."
+        },
+        {
+          "number": 5,
+          "text": "Og Tekoas far Ashur hadde to hustruer, Hela og Na'ara."
+        },
+        {
+          "number": 6,
+          "text": "Med Na'ara fikk han Ahussam og Hefer og Temeni og Ahastari; dette var Na'aras sønner."
+        },
+        {
+          "number": 7,
+          "text": "Og Helas sønner var Seret, Jishar og Etnan."
+        },
+        {
+          "number": 8,
+          "text": "Og Kos blev far til Anub og Hassobeba og Aharhels, Harums sønns ætter."
+        },
+        {
+          "number": 9,
+          "text": "Jabes var æret fremfor sine brødre; hans mor gav ham navnet Jabes, idet hun sa: Jeg har født ham med smerte."
+        },
+        {
+          "number": 10,
+          "text": "Og Jabes påkalte Israels Gud og sa: Å, om du vilde velsigne mig og utvide mine landemerker og la din hånd være med mig, og om du vilde lage det så at det ingen ulykke kom, og jeg blev fri for smerte! Og Gud lot det komme som han hadde bedt om."
+        },
+        {
+          "number": 11,
+          "text": "Og Suhas bror Kelub fikk sønnen Mehir; han var far til Eston."
+        },
+        {
+          "number": 12,
+          "text": "Og Eston var far til Bet-Rafa og Paseah og Tehinna, Ir-Nahas' far dette var mennene fra Reka."
+        },
+        {
+          "number": 13,
+          "text": "Og Kenas' sønner var Otniel og Seraja, og Otniels sønn var Hatat."
+        },
+        {
+          "number": 14,
+          "text": "Og Meonotai fikk sønnen Ofra, og Seraja fikk sønnen Joab, som var far til ætten i Tømmermannsdalen; for de var tømmermenn."
+        },
+        {
+          "number": 15,
+          "text": "Og sønnene til Kaleb, Jefunnes sønn, var Iru, Ela og Na'am, og Elas sønn var Kenas."
+        },
+        {
+          "number": 16,
+          "text": "Og Jehallelels sønner var Sif og Sifa, Tirja og Asarel."
+        },
+        {
+          "number": 17,
+          "text": "Og Esras sønner var Jeter og Mered og Efer og Jalon; og hun blev fruktsommelig og fødte Mirjam og Sammai og Jisbah, far til Estemoa."
+        },
+        {
+          "number": 18,
+          "text": "Og hans jødiske hustru fødte Jered, far til Gedor, og Heber, far til Soko, og Jekutiel, far til Sanoah; men de andre var sønner av Faraos datter Bitja, som Mered hadde tatt til hustru."
+        },
+        {
+          "number": 19,
+          "text": "Og sønnene av Hodijas hustru, Nahams søster, var Ke'ilas far, garmitten, og Estemoa, ma'akatitten."
+        },
+        {
+          "number": 20,
+          "text": "Og Simons sønner var Amnon og Rinna, Ben-Hanan og Tulon; og Jisis sønner var Sohet og Sohets sønn."
+        },
+        {
+          "number": 21,
+          "text": "Sønnene til Sela, Judas sønn, var Er, far til Leka, og Lada, far til Maresa, og de ætter som tilhørte bomulls-arbeidernes hus av Asbeas ætt,"
+        },
+        {
+          "number": 22,
+          "text": "og Jokim og mennene i Koseba og Joas og Saraf, som rådet over Moab, og Jasubi-Lehem; men dette er gamle ting."
+        },
+        {
+          "number": 23,
+          "text": "Disse folk var pottemakere og bodde i Neta'im og Gedera; de bodde der hos kongen og var i hans arbeid."
+        },
+        {
+          "number": 24,
+          "text": "Simeons sønner var Nemuel og Jamin, Jarib, Serah og Saul;"
+        },
+        {
+          "number": 25,
+          "text": "hans sønn var Sallum; hans sønn Mibsam; hans sønn Misma."
+        },
+        {
+          "number": 26,
+          "text": "Og Mismas sønner var hans sønn Hammuel, hans sønn Sakkur og hans sønn Sime'i."
+        },
+        {
+          "number": 27,
+          "text": "Og Sime'i hadde seksten sønner og seks døtre; men hans brødre hadde ikke mange sønner, så hele deres ætt ikke øktes så sterkt som Judas sønner."
+        },
+        {
+          "number": 28,
+          "text": "De bodde i Be'erseba og Molada og Hasar-Sual"
+        },
+        {
+          "number": 29,
+          "text": "og i Bilha og i Esem og i Tolad"
+        },
+        {
+          "number": 30,
+          "text": "og i Betuel og i Horma og i Siklag"
+        },
+        {
+          "number": 31,
+          "text": "og i Bet-Markabot og i Hasar-Susim og i Bet-Biri og i Sa'ara'im - det var deres byer inntil David blev konge -"
+        },
+        {
+          "number": 32,
+          "text": "med tilhørende landsbyer, og i Etam og A'in, Rimmon og Token og Asan - fem byer -"
+        },
+        {
+          "number": 33,
+          "text": "og alle de landsbyer som lå rundt omkring disse byer helt til Ba'al; dette var deres bosteder, og de hadde sin egen ætteliste."
+        },
+        {
+          "number": 34,
+          "text": "Og Mesobab og Jamlek og Josa, Amasjas sønn,"
+        },
+        {
+          "number": 35,
+          "text": "og Joel og Jehu, sønn av Josibja, som var sønn av Asiels sønn Seraja,"
+        },
+        {
+          "number": 36,
+          "text": "og Eljoenai og Ja'akoba og Jesohaja og Asaja og Adiel og Jesimiel og Benaja"
+        },
+        {
+          "number": 37,
+          "text": "og Sisa, sønn av Sifi, som var sønn av Allon, som var sønn av Jedaja, som var sønn av Simri, som var sønn av Semaja -"
+        },
+        {
+          "number": 38,
+          "text": "disse som er nevnt her ved navn, var høvdinger i sine ætter, og deres familier utbredte sig sterkt."
+        },
+        {
+          "number": 39,
+          "text": "De drog avsted bortimot Gedor like til østsiden av dalen for å søke beite for sitt småfe;"
+        },
+        {
+          "number": 40,
+          "text": "og der fant de fett og godt beite, og landet var vidt og rummelig, og det var rolig og stille; for de som bodde der før, var av Kams ætt."
+        },
+        {
+          "number": 41,
+          "text": "Da kom i Judas konge Esekias' dager de som her er optegnet ved navn, og ødela deres telter og hugg ned de meunitter som fantes der, og slo dem med bann, så de nu ikke mere er til, og bosatte sig i deres land; for der var beite for deres småfe."
+        },
+        {
+          "number": 42,
+          "text": "Fem hundre mann av dem - av Simeons barn - drog til Se'irfjellene under anførsel av Pelatja og Nearja og Refaja og Ussiel, Jisis sønner;"
+        },
+        {
+          "number": 43,
+          "text": "og de slo ihjel resten av de amalekitter som hadde sloppet unda; så bosatte de sig der og bor der den dag idag."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Og sønnene til Ruben, Israels førstefødte - for han var den førstefødte, men fordi han vanhelliget sin fars seng, blev hans førstefødselsrett gitt til sønnene av Josef, Israels sønn, som dog ikke blev innført i ættelisten som den førstefødte;"
+        },
+        {
+          "number": 2,
+          "text": "for Juda blev den mektigste blandt sine brødre, og fyrsten skulde være en av hans efterkommere, men førstefødselsretten tilhørte Josef -"
+        },
+        {
+          "number": 3,
+          "text": "sønnene til Ruben, Israels førstefødte, var Hanok og Pallu, Hesron og Karmi."
+        },
+        {
+          "number": 4,
+          "text": "Joels sønner: hans sønn Semaja; hans sønn Gog; hans sønn Sime'i;"
+        },
+        {
+          "number": 5,
+          "text": "hans sønn var Mika; hans sønn Reaja; hans sønn Ba'al;"
+        },
+        {
+          "number": 6,
+          "text": "hans sønn Be'era, som kongen i Assyria Tilgat-Pilneser bortførte i fangenskap; han var høvding for rubenittene."
+        },
+        {
+          "number": 7,
+          "text": "Og hans brødre var efter sine ætter, da de blev optegnet efter sine ætt-ledd, Je'iel, den første, og Sakarja"
+        },
+        {
+          "number": 8,
+          "text": "og Bela, sønn av Asas, som var sønn av Joels sønn Sema; han bodde i Aroer og helt til Nebo og Ba'al-Meon,"
+        },
+        {
+          "number": 9,
+          "text": "og mot øst nådde hans bosteder til bortimot ørkenen som strekker sig fra elven Frat; for deres fe hadde øket sterkt i Gileads land."
+        },
+        {
+          "number": 10,
+          "text": "I Sauls dager førte de krig med hagarenerne, som blev undertvunget av dem; så bodde de i deres telter langs hele østsiden av Gilead."
+        },
+        {
+          "number": 11,
+          "text": "Og Gads barn hadde sine bosteder midt imot dem i Basans land helt til Salka:"
+        },
+        {
+          "number": 12,
+          "text": "Joel, den første, og Safan, den annen, og Janai og Safat i Basan."
+        },
+        {
+          "number": 13,
+          "text": "Og deres brødre var efter sine familier Mikael og Mesullam og Seba og Jorai og Jakan og Sia og Eber, syv i tallet."
+        },
+        {
+          "number": 14,
+          "text": "Disse var sønner av Abiha'il, sønn av Huri, sønn av Jaroah, sønn av Gilead, sønn av Mikael, sønn av Jesisai, sønn av Jahdo, sønn av Bus."
+        },
+        {
+          "number": 15,
+          "text": "Aki, sønn av Gunis sønn Abdiel, var deres familiehode."
+        },
+        {
+          "number": 16,
+          "text": "Og de bodde i Gilead i Basan og tilhørende byer og på alle Sarons jorder, sa langt de strakte sig."
+        },
+        {
+          "number": 17,
+          "text": "Alle disse blev innført i ættelistene i Judas konge Jotams dager og i Israels konge Jeroboams dager."
+        },
+        {
+          "number": 18,
+          "text": "Rubens barn og gadittene og halvdelen av Manasse stamme var djerve menn, menn som bar skjold og sverd og spente bue og var oplært til krig; de var fire og firti tusen, syv hundre og seksti stridsføre menn."
+        },
+        {
+          "number": 19,
+          "text": "De førte krig mot hagarenerne og Jetur og Nafis og Nodab,"
+        },
+        {
+          "number": 20,
+          "text": "og de fikk hjelp mot dem, så hagarenerne og alle som var med dem, blev gitt i deres hånd; for de ropte til Gud i striden, og han bønnhørte dem, fordi de satte sin lit til ham."
+        },
+        {
+          "number": 21,
+          "text": "Og de bortførte deres fe, femti tusen kameler og to hundre og femti tusen stykker småfe og to tusen asener, og dessuten hundre tusen mennesker."
+        },
+        {
+          "number": 22,
+          "text": "For mange var falt og drept; for denne krig var fra Gud. Og de bodde i deres bygder like til bortførelsen."
+        },
+        {
+          "number": 23,
+          "text": "Den halve Manasse stammes barn bodde i landet fra Basan til Ba'al-Hermon og Senir og Hermon-fjellet; de var tallrike."
+        },
+        {
+          "number": 24,
+          "text": "Og dette var deres familiehoder: Efer og Jisi og Eliel og Asriel og Jirmeja og Hodavja og Jahdiel, veldige stridsmenn, navnkundige menn, hoder for sine familier."
+        },
+        {
+          "number": 25,
+          "text": "Men de bar sig troløst at mot sine fedres Gud og holdt sig med de guder som folkene i landet dyrket, de folk som Gud hadde utryddet for dem."
+        },
+        {
+          "number": 26,
+          "text": "Da opegget Israels Gud assyrerkongen Ful og assyrerkongen Tilgat-Pilneser mot dem, og han bortførte dem, både rubenittene og gadittene og den halve Manasse stamme, og flyttet dem til Halah og Habor og Hara og Gosan-elven, og der er de den dag idag."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Levis sønner var Gerson, Kahat og Merari."
+        },
+        {
+          "number": 2,
+          "text": "Og Kahats sønner var Amram, Jishar og Hebron og Ussiel."
+        },
+        {
+          "number": 3,
+          "text": "Og Amrams barn var Aron og Moses og Mirjam; og Arons sønner var Nadab og Abihu, Eleasar og Itamar."
+        },
+        {
+          "number": 4,
+          "text": "Eleasar fikk sønnen Pinehas; Pinehas fikk sønnen Abisua,"
+        },
+        {
+          "number": 5,
+          "text": "og Abisua fikk sønnen Bukki, og Bukki fikk sønnen Ussi,"
+        },
+        {
+          "number": 6,
+          "text": "og Ussi fikk sønnen Serahja, og Serahja fikk sønnen Merajot;"
+        },
+        {
+          "number": 7,
+          "text": "Merajot fikk sønnen Amarja, og Amarja fikk sønnen Akitub,"
+        },
+        {
+          "number": 8,
+          "text": "og Akitub fikk sønnen Sadok, og Sadok fikk sønnen Akima'as,"
+        },
+        {
+          "number": 9,
+          "text": "og Akima'as fikk sønnen Asarja, og Asarja fikk sønnen Johanan,"
+        },
+        {
+          "number": 10,
+          "text": "Johanan fikk sønnen Asarja; det var han som gjorde prestetjeneste i det hus som Salomo hadde bygget i Jerusalem."
+        },
+        {
+          "number": 11,
+          "text": "Og Asarja fikk sønnen Amarja, og Amarja fikk sønnen Akitub,"
+        },
+        {
+          "number": 12,
+          "text": "og Akitub fikk sønnen Sadok, og Sadok fikk sønnen Sallum,"
+        },
+        {
+          "number": 13,
+          "text": "og Sallum fikk sønnen Hilkias, og Hilkias fikk sønnen Asarja,"
+        },
+        {
+          "number": 14,
+          "text": "og Asarja fikk sønnen Seraja, og Seraja fikk sønnen Josadak."
+        },
+        {
+          "number": 15,
+          "text": "Josadak drog med da Herren bortførte Juda og Jerusalem i fangenskap ved Nebukadnesar."
+        },
+        {
+          "number": 16,
+          "text": "Levis sønner var Gersom, Kahat og Merari."
+        },
+        {
+          "number": 17,
+          "text": "Og dette er navnene på Gersoms sønner: Libni og Sime'i."
+        },
+        {
+          "number": 18,
+          "text": "Og Kahats sønner var Amram og Jishar og Hebron og Ussiel."
+        },
+        {
+          "number": 19,
+          "text": "Meraris sønner var Mahli og Musi. Dette var levittenes ætter efter deres fedre."
+        },
+        {
+          "number": 20,
+          "text": "Gersoms sønner var: hans sønn Libni; hans sønn Jahat; hans sønn Simma;"
+        },
+        {
+          "number": 21,
+          "text": "hans sønn Joah; hans sønn Iddo; hans sønn Serah; hans sønn Jeatrai."
+        },
+        {
+          "number": 22,
+          "text": "Kahats sønner var: hans sønn Amminadab; hans sønn Korah; hans sønn Assir;"
+        },
+        {
+          "number": 23,
+          "text": "hans sønn Elkana og hans sønn Ebjasaf og hans sønn Assir;"
+        },
+        {
+          "number": 24,
+          "text": "hans sønn Tahat; hans sønn Uriel; hans sønn Ussia og hans sønn Saul."
+        },
+        {
+          "number": 25,
+          "text": "Og Elkanas sønner var Amasai Og Akimot;"
+        },
+        {
+          "number": 26,
+          "text": "hans sønn var Elkana; hans sønn var Sofai og hans sønn Nahat;"
+        },
+        {
+          "number": 27,
+          "text": "hans sønn Eliab; hans sønn Jeroham; hans sønn Elkana."
+        },
+        {
+          "number": 28,
+          "text": "Og Samuels sønner var Vasni, hans førstefødte, og Abia."
+        },
+        {
+          "number": 29,
+          "text": "Meraris sønn var Mahli; hans sønn var Libni; hans sønn Sime i; hans sønn Ussa;"
+        },
+        {
+          "number": 30,
+          "text": "hans sønn Simea; hans sønn Haggija; hans sønn Asaja."
+        },
+        {
+          "number": 31,
+          "text": "Dette var de som David satte til å sørge for sangen i Herrens hus efterat arken var kommet til ro,"
+        },
+        {
+          "number": 32,
+          "text": "og de gjorde tjeneste ved sangen foran sammenkomstens telt - tabernaklet - inntil Salomo bygget Herrens hus i Jerusalem, og de stod der og utførte sin tjeneste således som det var dem foreskrevet -"
+        },
+        {
+          "number": 33,
+          "text": "dette var de som stod der med sine sønner: Av kahatittenes sønner: sangeren Heman, sønn av Joel, sønn av Samuel,"
+        },
+        {
+          "number": 34,
+          "text": "sønn av Elkana, sønn av Jeroham, sønn av Eliel, sønn av Toah,"
+        },
+        {
+          "number": 35,
+          "text": "sønn av Sif, sønn av Elkana, sønn av Mahat, sønn av Amasai,"
+        },
+        {
+          "number": 36,
+          "text": "sønn av Elkana, sønn av Joel, sønn av Asarja, sønn av Sefanja,"
+        },
+        {
+          "number": 37,
+          "text": "sønn av Tahat, sønn av Assir, sønn av Ebjasaf, sønn av Korah,"
+        },
+        {
+          "number": 38,
+          "text": "sønn av Jishar, sønn av Kahat, sønn av Levi, Israels sønn."
+        },
+        {
+          "number": 39,
+          "text": "Og hans bror Asaf, som stod på hans høire side - Asaf, sønn av Berekja, sønn av Simea,"
+        },
+        {
+          "number": 40,
+          "text": "sønn av Mikael, sønn av Ba'aseja, sønn av Malkija,"
+        },
+        {
+          "number": 41,
+          "text": "sønn av Etni, sønn av Serah, sønn av Adaja,"
+        },
+        {
+          "number": 42,
+          "text": "sønn av Etan, sønn av Simma, sønn av Sime'i,"
+        },
+        {
+          "number": 43,
+          "text": "sønn av Jahat, sønn av Gersom, sønn av Levi."
+        },
+        {
+          "number": 44,
+          "text": "Og Meraris sønner, deres brødre, stod på venstre side: Etan, sønn av Kisi, sønn av Abdi, sønn av Malluk,"
+        },
+        {
+          "number": 45,
+          "text": "sønn av Hasabja, sønn av Amasja, sønn av Hilkias,"
+        },
+        {
+          "number": 46,
+          "text": "sønn av Amsi, sønn av Bani, sønn av Semer,"
+        },
+        {
+          "number": 47,
+          "text": "sønn av Mahli, sønn av Musi, sønn av Merari, sønn av Levi."
+        },
+        {
+          "number": 48,
+          "text": "Og deres brødre, de andre levitter, var gitt til å utføre alle slags tjeneste i tabernaklet - Guds hus."
+        },
+        {
+          "number": 49,
+          "text": "Men Aron og hans sønner ofret på brennoffer-alteret og på røkoffer-alteret og var satt til å utføre all tjeneste i det Aller-helligste og til å gjøre soning for Israel efter alt det som Guds tjener Moses hadde påbudt."
+        },
+        {
+          "number": 50,
+          "text": "Dette var Arons sønner: hans sønn Eleasar; hans sønn Pinehas; hans sønn Abisua;"
+        },
+        {
+          "number": 51,
+          "text": "hans sønn Bukki; hans sønn Ussi; hans sønn Serahja;"
+        },
+        {
+          "number": 52,
+          "text": "hans sønn Merajot; hans sønn Amarja; hans sønn Akitub;"
+        },
+        {
+          "number": 53,
+          "text": "hans sønn Saddok; hans sønn Akima'as."
+        },
+        {
+          "number": 54,
+          "text": "Dette var deres bosteder efter deres byer innenfor deres landemerker: Arons sønner av kahatittenes ætt, som loddet først kom ut for,"
+        },
+        {
+          "number": 55,
+          "text": "de fikk Hebron i Juda land med tilhørende jorder rundt omkring;"
+        },
+        {
+          "number": 56,
+          "text": "men byens mark og dens landsbyer fikk Kaleb, Jefunnes sønn."
+        },
+        {
+          "number": 57,
+          "text": "Arons sønner fikk altså tilfluktsstædene Hebron og Libna med tilhørende jorder og Jattir og Estemoa med jorder"
+        },
+        {
+          "number": 58,
+          "text": "og Hilen med jorder, Debir med jorder"
+        },
+        {
+          "number": 59,
+          "text": "Og Asan med jorder og Bet-Semes med jorder,"
+        },
+        {
+          "number": 60,
+          "text": "og av Benjamins stamme Geba med tilhørende jorder og Allemet med jorder og Anatot med jorder; deres byer var i alt tretten byer efter deres ætter."
+        },
+        {
+          "number": 61,
+          "text": "Men de andre Kahats barn av stammens ætt fikk ved loddkasting ti byer av den halve Manasse stammes halve del."
+        },
+        {
+          "number": 62,
+          "text": "Og Gersoms barn efter sine ætter fikk tretten byer av Issakars stamme og av Asers stamme Og av Naftali stamme og av Manasse stamme i Basan."
+        },
+        {
+          "number": 63,
+          "text": "Meraris barn efter sine ætter fikk ved loddkasting tolv byer av Rubens stamme og av Gads stamme og av Sebulons stamme."
+        },
+        {
+          "number": 64,
+          "text": "Således gav Israels barn levittene disse byer med tilhørende jorder."
+        },
+        {
+          "number": 65,
+          "text": "De gav dem ved loddkasting av Judas barns stamme og av Simeons barns stamme og av Benjamins barns stamme disse byer, som de nevnte ved navn."
+        },
+        {
+          "number": 66,
+          "text": "Og de andre av Kahats barns ætter fikk av Efra'ims stamme disse byer som skulde høre dem til:"
+        },
+        {
+          "number": 67,
+          "text": "tilfluktsstædene Sikem med tilhørende jorder i Efra'im-fjellene og Geser med jorder"
+        },
+        {
+          "number": 68,
+          "text": "og Jokmeam med jorder og Bet-Horon med jorder"
+        },
+        {
+          "number": 69,
+          "text": "og Ajalon med jorder og Gat-Rimmon med jorder,"
+        },
+        {
+          "number": 70,
+          "text": "og av den halve Manasse stamme Aner med tilhørende jorder og Bileam med jorder. Dette fikk de andre av Kahats barns ætt."
+        },
+        {
+          "number": 71,
+          "text": "Gersoms barn fikk av den halve Manasse stammes ætt Golan i Basan med tilhørende jorder og Astarot med jorder,"
+        },
+        {
+          "number": 72,
+          "text": "og av Issakars stamme Kedes med tilhørende jorder, Dobrat med jorder"
+        },
+        {
+          "number": 73,
+          "text": "og Ramot med jorder og Anem med jorder,"
+        },
+        {
+          "number": 74,
+          "text": "og av Asers stamme Masal med tilhørende jorder og Abdon med jorder"
+        },
+        {
+          "number": 75,
+          "text": "og Hukok med jorder og Rehob med jorder,"
+        },
+        {
+          "number": 76,
+          "text": "og av Naftali stamme Kedes i Galilea med tilhørende jorder og Hammon med jorder og Kirjata'im med jorder."
+        },
+        {
+          "number": 77,
+          "text": "Meraris barn - resten av levittene - fikk av Sebulons stamme Rimmono med tilhørende jorder og Tabor med jorder,"
+        },
+        {
+          "number": 78,
+          "text": "og på hin side Jordan ved Jeriko, østenfor Jordan, fikk de av Rubens stamme Beser i ørkenen med tilhørende jorder og Jahsa med jorder"
+        },
+        {
+          "number": 79,
+          "text": "og Kedemot med jorder og Mefa'at med jorder,"
+        },
+        {
+          "number": 80,
+          "text": "og av Gads stamme Ramot-Gilead med tilhørende jorder og Mahana'im med jorder"
+        },
+        {
+          "number": 81,
+          "text": "og Hesbon med jorder og Jaser med jorder."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Issakars sønner var Tola og Pua, Jasib og Simron, fire i tallet."
+        },
+        {
+          "number": 2,
+          "text": "Og Tolas sønner var Ussi og Refaja og Jeriel og Jahmai og Jibsam og Samuel, hoder for sine familier, som stammet fra Tola, veldige stridsmenn i sine ætter; deres tall var i Davids dager to og tyve tusen og seks hundre."
+        },
+        {
+          "number": 3,
+          "text": "Og Ussis sønner var Jisrahja og Jisrahjas sønner Mikael og Obadja og Joel og Jissija, fem i tallet, alle sammen familiehoder."
+        },
+        {
+          "number": 4,
+          "text": "Til dem hørte, efter deres ætter og fedrenehuser, krigsrustede flokker, seks og tretti tusen mann; for de hadde mange hustruer og barn."
+        },
+        {
+          "number": 5,
+          "text": "Og deres brødre i alle Issakars ætter var veldige stridsmenn; i alt var de syv og åtti tusen mann som var opskrevet."
+        },
+        {
+          "number": 6,
+          "text": "Benjamins sønner var Bela og Beker og Jediael, tre i tallet."
+        },
+        {
+          "number": 7,
+          "text": "Og Belas sønner var Esbon og Ussi og Ussiel og Jerimot og Iri, fem i tallet, familiehoder, veldige stridsmenn; i deres ætteliste stod det to og tyve tusen og fire og tretti mann."
+        },
+        {
+          "number": 8,
+          "text": "Og Bekers sønner var Semira og Joas og Elieser og Eljoenai og Omri og Jeremot og Abia og Anatot og Alemet; alle disse var Bekers sønner,"
+        },
+        {
+          "number": 9,
+          "text": "og efter deres ættelister, hvor deres ætter og deres familiehoder, veldige stridsmenn, var opskrevet, var de tyve tusen og to hundre mann."
+        },
+        {
+          "number": 10,
+          "text": "Og Jediaels sønner var Bilhan og Bilhans sønner Je'is og Benjamin og Ehud og Kena'ana og Setan og Tarsis og Akisahar;"
+        },
+        {
+          "number": 11,
+          "text": "alle disse var Jediaels sønner, familiehoder. veldige stridsmenn, sytten tusen og to hundre som krigsrustet drog ut i strid."
+        },
+        {
+          "number": 12,
+          "text": "Enn videre Suppim og Huppim, Irs sønner, og Hussim, som stammet fra Aker."
+        },
+        {
+          "number": 13,
+          "text": "Naftalis sønner var Jahsiel og Guni og Jeser og Sallum, Bilhas sønner."
+        },
+        {
+          "number": 14,
+          "text": "Manasses sønner var Asriel, som stammet fra hans syriske medhustru; hun fødte Makir, far til Gilead."
+        },
+        {
+          "number": 15,
+          "text": "Og Makir tok til hustru en søster av Huppim og Suppim, og hans søster hette Ma'aka; og den annen sønn hette Selofhad, og Selofhad hadde bare døtre."
+        },
+        {
+          "number": 16,
+          "text": "Og Makirs hustru Ma'aka fødte en sønn og kalte ham Peres, og hans bror hette Seres, og hans sønner var Ulam og Rekem."
+        },
+        {
+          "number": 17,
+          "text": "Og Ulams sønn var Bedan. Disse var sønner av Gilead, sønn av Makir, sønn av Manasse."
+        },
+        {
+          "number": 18,
+          "text": "Og hans søster var Hammoleket; hun fødte Ishod og Abieser og Mahla."
+        },
+        {
+          "number": 19,
+          "text": "Og Semidas sønner var Akjan og Sekem og Likhi og Aniam."
+        },
+        {
+          "number": 20,
+          "text": "Og Efra'ims sønner var Sutelah - hans sønn var Bered og hans sønn Tahat og hans sønn Elada og hans sønn Tahat"
+        },
+        {
+          "number": 21,
+          "text": "og hans sønn Sabad og hans sønn Sutelah - og Eser og Elad; de blev drept av menn fra Gat som var født der i landet, fordi de hadde draget ned for å røve deres fe,"
+        },
+        {
+          "number": 22,
+          "text": "Og deres far Efra'im sørget i lang tid, og hans brødre kom for å trøste ham."
+        },
+        {
+          "number": 23,
+          "text": "Og han gikk inn til sin hustru, og hun blev fruktsommelig og fødte en sønn; og han gav ham navnet Beria, fordi der hadde vært ulykke i hans hus."
+        },
+        {
+          "number": 24,
+          "text": "Hans datter var Se'era; hun bygget Nedre- og Øvre-Bet-Horon og Ussen-Se'era."
+        },
+        {
+          "number": 25,
+          "text": "Hans sønn var Refa, og hans sønner var Resef og Telah, og hans sønn var Tahan,"
+        },
+        {
+          "number": 26,
+          "text": "hans sønn Ladan, hans sønn Ammihud, hans sønn Elisama,"
+        },
+        {
+          "number": 27,
+          "text": "hans sønn Non, hans sønn Josva."
+        },
+        {
+          "number": 28,
+          "text": "Deres eiendom og deres bosteder var Betel med tilhørende småbyer og mot øst Na'aran og mot vest Geser med tilhørende småbyer og Sikem med tilhørende småbyer like til Gasa med tilhørende småbyer."
+        },
+        {
+          "number": 29,
+          "text": "Manasses barn eide Bet-Sean med tilhørende småbyer, Ta'anak med tilhørende småbyer, Megiddo med tilhørende småbyer og Dor med tilhørende småbyer. I disse byer bodde Josefs, Israels sønns barn."
+        },
+        {
+          "number": 30,
+          "text": "Asers sønner var Jimna og Jisva og Jisvi og Beria, og Serah var deres søster."
+        },
+        {
+          "number": 31,
+          "text": "Og Berias sønner var Heber og Malkiel; han var far til Birsot."
+        },
+        {
+          "number": 32,
+          "text": "Og Heber blev far til Jaflet og Somer og Hotam og deres søster Sua."
+        },
+        {
+          "number": 33,
+          "text": "Og Jaflets sønner var Pasak og Bimhal og Asvat; dette var Jaflets sønner."
+        },
+        {
+          "number": 34,
+          "text": "Og Semers sønner var Aki og Rohga, Jehubba og Aram."
+        },
+        {
+          "number": 35,
+          "text": "Og hans bror Helems sønner var Sofah og Jimna og Seles og Amal."
+        },
+        {
+          "number": 36,
+          "text": "Sofahs sønner var Suah og Harnefer og Sual og Beri og Jimra,"
+        },
+        {
+          "number": 37,
+          "text": "Beser og Hod og Samma og Silsa og Jitran og Be'era."
+        },
+        {
+          "number": 38,
+          "text": "Og Jeters sønner var Jefunne og Pispa og Ara."
+        },
+        {
+          "number": 39,
+          "text": "Og Ullas sønner var Arah og Hanniel og Risja."
+        },
+        {
+          "number": 40,
+          "text": "Alle disse var sønner av Aser, hoder for sine familier, utvalgte veldige stridsmenn, høvdinger blandt fyrstene, og de menn som stod i deres ætteliste som dugelige til krigstjeneste, var seks og tyve tusen i tallet."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Benjamin var far til Bela, som var hans førstefødte, Asbel, som var hans annen sønn, og Akrah, den tredje,"
+        },
+        {
+          "number": 2,
+          "text": "Noka, den fjerde, og Rafa, den femte."
+        },
+        {
+          "number": 3,
+          "text": "Og Bela hadde sønnene Addar og Gera og Abihud"
+        },
+        {
+          "number": 4,
+          "text": "og Abisua og Na'aman og Akoah"
+        },
+        {
+          "number": 5,
+          "text": "og Gera og Sefufan og Huram."
+        },
+        {
+          "number": 6,
+          "text": "Og dette var Ehuds sønner, som var familiehoder blandt Gebas innbyggere, og som blev bortført til Manahat"
+        },
+        {
+          "number": 7,
+          "text": "- det var Na'aman som sammen med Akia og Gera førte dem bort - han fikk sønnene Ussa og Akihud."
+        },
+        {
+          "number": 8,
+          "text": "Og Sahara'im fikk barn i Moabs land efterat han hadde sendt sine hustruer Husim og Ba'ara bort."
+        },
+        {
+          "number": 9,
+          "text": "Og med sin hustru Hodes fikk han Jobab og Sibja og Mesa og Malkam"
+        },
+        {
+          "number": 10,
+          "text": "og Je'us og Sokja og Mirma; dette var hans sønner; de var familiehoder."
+        },
+        {
+          "number": 11,
+          "text": "Med Husim fikk han Abitub og Elpa'al."
+        },
+        {
+          "number": 12,
+          "text": "Og Elpa'als sønner var Eber og Mis'am og Semer - han bygget Ono og Lod med tilhørende byer -"
+        },
+        {
+          "number": 13,
+          "text": "og Beria og Sema; de var familiehodene blandt Ajalons innbyggere; de drev Gats innbyggere på flukt."
+        },
+        {
+          "number": 14,
+          "text": "Ahjo, Sasak og Jeremot"
+        },
+        {
+          "number": 15,
+          "text": "og Sebadia og Arad og Eder"
+        },
+        {
+          "number": 16,
+          "text": "og Mikael og Jispa og Johavar Berias sønner;"
+        },
+        {
+          "number": 17,
+          "text": "og Sebadja og Mesullam og Hiski og Heber"
+        },
+        {
+          "number": 18,
+          "text": "og Jismerai og Jislia og Jobab har Elpa'als sønner."
+        },
+        {
+          "number": 19,
+          "text": "Og Jakim og Sikri og Sabdi"
+        },
+        {
+          "number": 20,
+          "text": "og Elienai og Silletai og Eliel"
+        },
+        {
+          "number": 21,
+          "text": "og Adaja og Beraja og Simrat var Sime'is sønner."
+        },
+        {
+          "number": 22,
+          "text": "Og Jispan og Eber og Eliel"
+        },
+        {
+          "number": 23,
+          "text": "og Abdon og Sikri og Hanan"
+        },
+        {
+          "number": 24,
+          "text": "og Hananja og Elam og Antotija"
+        },
+        {
+          "number": 25,
+          "text": "og Jifdeja og Pniel var Sasaks sønner."
+        },
+        {
+          "number": 26,
+          "text": "Og Samserai og Seharja og Atalja"
+        },
+        {
+          "number": 27,
+          "text": "og Ja'aresja og Elia og Sikri var Jerohams sønner."
+        },
+        {
+          "number": 28,
+          "text": "Alle disse var familiehoder, hoder for sine ætter; de bodde i Jerusalem."
+        },
+        {
+          "number": 29,
+          "text": "I Gibeon bodde Gibeons far; hans hustru hette Ma'aka."
+        },
+        {
+          "number": 30,
+          "text": "Og hans førstefødte sønn var Abdon; så var det Sur og Kis og Ba'al og Nadab"
+        },
+        {
+          "number": 31,
+          "text": "og Gedor og Ahjo og Seker."
+        },
+        {
+          "number": 32,
+          "text": "Og Miklot fikk sønnen Simea. Også disse bodde midt imot sine brødre i Jerusalem, sammen med sine brødre."
+        },
+        {
+          "number": 33,
+          "text": "Og Ner fikk sønnen Kis, og Kis var far til Saul, og Saul fikk sønnene Jonatan og Malkisua og Abinadab og Esba'al."
+        },
+        {
+          "number": 34,
+          "text": "Og Jonatans sønn var Meribba'al, og Meribba'al fikk sønnen Mika."
+        },
+        {
+          "number": 35,
+          "text": "Og Mikas sønner var Piton og Melek og Tarea og Akas."
+        },
+        {
+          "number": 36,
+          "text": "Og Akas fikk sønnen Joadda, og Joadda fikk Alemet og Asmavet og Simri, og Simri fikk Mosa."
+        },
+        {
+          "number": 37,
+          "text": "Og Mosa fikk sønnen Bina hans sønn var Rafa; hans sønn Elasa hans sønn Asel."
+        },
+        {
+          "number": 38,
+          "text": "Og Asel hadde seks sønner, og dette var deres navn: Asrikam, Bokeru og Ismael og Searja og Obadja og Hanan; alle disse var sønner av Asel."
+        },
+        {
+          "number": 39,
+          "text": "Og hans bror Eseks sønner var Ulam, hans førstefødte, Je'us, den annen, og Elifelet, den tredje."
+        },
+        {
+          "number": 40,
+          "text": "Ulams sønner var veldige stridsmenn, dyktige bueskyttere; de hadde mange sønner og sønnesønner - hundre og femti. Alle disse var av Benjamins barn."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Alle Israels menn blev innført i ættelister og finnes opskrevet i Israels kongers bok; og Juda blev bortført i fangenskap til Babel for sin troløshets skyld."
+        },
+        {
+          "number": 2,
+          "text": "De tidligere innbyggere, som bodde på sin eiendom, i sine byer, var vanlige israelitter, prester, levitter og tempeltjenere."
+        },
+        {
+          "number": 3,
+          "text": "I Jerusalem bodde nogen av Judas barn og av Benjamins barn og av Efra'ims og Manasses barn:"
+        },
+        {
+          "number": 4,
+          "text": "Utai, sønn av Ammihud, sønn av Omri, sønn av Imri, sønn av Bani, av Judas sønn Peres' barn;"
+        },
+        {
+          "number": 5,
+          "text": "og av silonittene: Asaja, den førstefødte, og hans sønner;"
+        },
+        {
+          "number": 6,
+          "text": "og av Serahs sønner: Je'uel og deres brødre, seks hundre og nitti i tallet;"
+        },
+        {
+          "number": 7,
+          "text": "og av Benjamins barn: Sallu, sønn av Mesullam, sønn av Hodavja, sønn av Hassenua,"
+        },
+        {
+          "number": 8,
+          "text": "og Jibneja, sønn av Jeroham, og Ela, sønn av Ussi, sønn av Mikri, og Mesullam, sønn av Sefatja, sønn av Re'uel, sønn av Jibnija,"
+        },
+        {
+          "number": 9,
+          "text": "og deres brødre efter sine ætter, ni hundre og seks og femti i tallet; alle disse menn var overhoder for sine familier."
+        },
+        {
+          "number": 10,
+          "text": "Og av prestene: Jedaja og Jojarib og Jakin"
+        },
+        {
+          "number": 11,
+          "text": "og Asarja, sønn av Hilkias, sønn av Mesullam, sønn av Sadok, sønn av Merajot, sønn av Akitub - han var forstander for Guds hus -"
+        },
+        {
+          "number": 12,
+          "text": "og Adaja, sønn av Jeroham, sønn av Pashur, sønn av Malkia, og Masai, sønn av Adiel, sønn av Jahsera, sønn av Mesullam, sønn av Mesillemit, sønn av Immer,"
+        },
+        {
+          "number": 13,
+          "text": "og deres brødre, overhoder for sine familier, tusen og syv hundre og seksti i tallet, dyktige menn i arbeidet ved tjenesten i Guds hus."
+        },
+        {
+          "number": 14,
+          "text": "Og av levittene: Semaja, sønn av Hassub, sønn av Asrikam, sønn av Hasabja, av Meraris barn,"
+        },
+        {
+          "number": 15,
+          "text": "og Bakbakkar, Heres og Galal og Mattanja, sønn av Mika, sønn av Sikri, sønn av Asaf,"
+        },
+        {
+          "number": 16,
+          "text": "og Obadja, sønn av Semaja, sønn av Galal, sønn av Jedutun, og Berekja, sønn av Asa, sønn av Elkana, som bodde i netofatittenes landsbyer."
+        },
+        {
+          "number": 17,
+          "text": "Og portnerne: Sallum og Akkub og Talmon og Akiman og deres brødre; Sallum var deres overhode,"
+        },
+        {
+          "number": 18,
+          "text": "og like til nu står de ved Kongeporten, mot øst. Dette var portnerne i Levis barns leire."
+        },
+        {
+          "number": 19,
+          "text": "Sallum, sønn av Kore, sønn av Ebjasaf, sønn av Korah, og hans brødre, de som var av hans familie, korahittene, hadde som sin tjenestegjerning å være voktere ved teltets dørtreskler, fordi deres fedre hadde vært voktere ved inngangen til Herrens leir."
+        },
+        {
+          "number": 20,
+          "text": "Og Pinehas, Eleasars sønn, hadde fordum vært deres forstander; Herren var med ham."
+        },
+        {
+          "number": 21,
+          "text": "Sakarja, Meselemjas sønn, var portner ved inngangen til sammenkomstens telt."
+        },
+        {
+          "number": 22,
+          "text": "Alle disse som var utvalgt til portnere ved dørtresklene, var to hundre og tolv i tallet; de var innført i ættelister efter sine landsbyer; David og seeren Samuel hadde innsatt dem som menn de hadde tillit til."
+        },
+        {
+          "number": 23,
+          "text": "De og deres sønner stod ved portene til Herrens hus, telthuset, og holdt vakt."
+        },
+        {
+          "number": 24,
+          "text": "Efter de fire verdenshjørner hadde portnerne sin plass: mot øst, vest, nord og syd."
+        },
+        {
+          "number": 25,
+          "text": "Og deres brødre, som bodde i sine landsbyer, skulde fra tid til annen komme og hjelpe dem for syv dager ad gangen."
+        },
+        {
+          "number": 26,
+          "text": "For de fire forstandere for portnerne var betrodde menn; de var levitter; de hadde også opsyn over kammerne og over skattkammerne i Guds hus."
+        },
+        {
+          "number": 27,
+          "text": "Om natten holdt de sig rundt omkring Guds hus; for det pålå dem å holde vakt, og de skulde lukke op portene hver morgen."
+        },
+        {
+          "number": 28,
+          "text": "Nogen av levittene hadde tilsyn med de redskaper som bruktes ved tjenesten; de tellet dem, både når de bar dem inn, og når de bar dem ut."
+        },
+        {
+          "number": 29,
+          "text": "Og nogen av dem var satt til å ha tilsyn med de andre redskaper - alle helligdommens redskaper - og med melet og vinen og oljen og viraken og krydderiene."
+        },
+        {
+          "number": 30,
+          "text": "Og nogen av prestenes sønner laget kryddersalven."
+        },
+        {
+          "number": 31,
+          "text": "Og Mattitja, en av levittene, korahitten Sallums førstefødte sønn, var betrodd å tillage bakverket."
+        },
+        {
+          "number": 32,
+          "text": "Og nogen av deres brødre kahatittenes barn hadde tilsyn med skuebrødene og skulde legge dem til rette hver sabbat."
+        },
+        {
+          "number": 33,
+          "text": "Dette var sangerne, familiehoder blandt levittene; de holdt til i kammerne og var fri for annen tjeneste; for de var dag og natt optatt med sitt eget arbeid."
+        },
+        {
+          "number": 34,
+          "text": "Alle disse var familiehoder blandt levittene efter sine ætter - overhoder; de bodde i Jerusalem."
+        },
+        {
+          "number": 35,
+          "text": "I Gibeon bodde Gibeons far Je'uel; hans hustru hette Ma'aka."
+        },
+        {
+          "number": 36,
+          "text": "Og hans førstefødte sønn var Abdon; så var det Sur og Kis og Ba'al og Ner og Nadab"
+        },
+        {
+          "number": 37,
+          "text": "og Gedor og Ahjo og Sakarja og Miklot."
+        },
+        {
+          "number": 38,
+          "text": "Og Miklot fikk sønnen Simeam; også disse bodde midt imot sine brødre i Jerusalem, sammen med sine brødre."
+        },
+        {
+          "number": 39,
+          "text": "Og Ner fikk sønnen Kis, og Kis var far til Saul, og Saul fikk sønnene Jonatan og Malkisua og Abinadab og Esba'al."
+        },
+        {
+          "number": 40,
+          "text": "Og Jonatans sønn var Meribba'al, og Meribba'al fikk sønnen Mika."
+        },
+        {
+          "number": 41,
+          "text": "Og Mikas sønner var Piton og Melek og Tahrea."
+        },
+        {
+          "number": 42,
+          "text": "Og Akas fikk sønnen Jara, og Jara fikk Alemet og Asmavet og Simri, og Simri fikk Mosa."
+        },
+        {
+          "number": 43,
+          "text": "Og Mosa fikk sønnen Bina, og hans sønn var Refaja; hans sønn Elasa; hans sønn Asel."
+        },
+        {
+          "number": 44,
+          "text": "Og Asel hadde seks sønner, og dette var deres navn: Asrikam, Bokeru og Ismael og Searja og Obadja og Hanan; dette var Asels sønner."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Filistrene stred mot Israel, og Israels menn flyktet for filistrene, og det lå mange falne på Gilboa-fjellet."
+        },
+        {
+          "number": 2,
+          "text": "Og filistrene var like i hælene på Saul og hans sønner, og de drepte Jonatan og Abinadab og Malkisua, Sauls sønner."
+        },
+        {
+          "number": 3,
+          "text": "Og striden blev hård der hvor Saul stod; og bueskytterne kom over ham, og han blev grepet av redsel for skytterne."
+        },
+        {
+          "number": 4,
+          "text": "Da sa Saul til sin våbensvenn: Dra ditt sverd og gjennembor mig med det, så ikke disse uomskårne skal komme og fare ille med mig! Men våbensvennen vilde ikke; han var for redd. Da tok Saul sitt sverd og styrtet sig i det."
+        },
+        {
+          "number": 5,
+          "text": "Og da våbensvennen så at Saul var død, styrtet også han sig i sitt sverd og døde."
+        },
+        {
+          "number": 6,
+          "text": "Således døde Saul og hans tre sønner og hele hans hus; de døde alle sammen."
+        },
+        {
+          "number": 7,
+          "text": "Og da alle israelittene i dalen så at de var flyktet, og at Saul og hans sønner var døde, forlot de sine byer og flyktet; og filistrene kom og bosatte sig i dem."
+        },
+        {
+          "number": 8,
+          "text": "Dagen efter kom filistrene for å plyndre de falne; da fant de Saul og hans sønner liggende på Gilboa-fjellet."
+        },
+        {
+          "number": 9,
+          "text": "De plyndret ham og tok hans hode og hans våben og sendte bud rundt omkring i filistrenes land for å forkynne det glade budskap for sine avguder og for folket."
+        },
+        {
+          "number": 10,
+          "text": "Og hans våben la de i sin guds hus, og hans hjerneskall hengte de op i Dagons hus."
+        },
+        {
+          "number": 11,
+          "text": "Da hele Jabes i Gilead fikk høre alt det filistrene hadde gjort med Saul,"
+        },
+        {
+          "number": 12,
+          "text": "drog alle våbenføre menn avsted og tok Sauls og hans sønners kropper og førte dem til Jabes; og de begravde deres ben under terebinten i Jabes og holdt faste i syv dager."
+        },
+        {
+          "number": 13,
+          "text": "Således døde Saul for den troløshets skyld som han hadde vist mot Herren, fordi han ikke hadde holdt sig efter Herrens ord, og likeledes fordi han hadde søkt til dødningemanere for å spørre dem til råds."
+        },
+        {
+          "number": 14,
+          "text": "Men han spurte ikke Herren; derfor lot han ham dø og førte kongedømmet over til David, Isais sønn."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Så kom hele Israel sammen hos David i Hebron og sa: Vi er jo av samme kjød og blod som du."
+        },
+        {
+          "number": 2,
+          "text": "Allerede for lenge siden, ennu mens Saul var konge, var det du som førte Israel ut og inn, og Herren din Gud sa til dig: Du skal vokte mitt folk Israel, og du skal være fyrste over mitt folk Israel."
+        },
+        {
+          "number": 3,
+          "text": "Og alle Israels eldste kom til kongen i Hebron, og David gjorde en pakt med dem i Hebron for Herrens åsyn; og de salvet David til konge over Israel efter Herrens ord ved Samuel."
+        },
+        {
+          "number": 4,
+          "text": "Så drog David og hele Israel til Jerusalem, det er Jebus; der bodde jebusittene, landets oprinnelige innbyggere."
+        },
+        {
+          "number": 5,
+          "text": "Og innbyggerne i Jebus sa til David: Du kommer aldri inn her. Men David inntok Sions borg - det er Davids stad."
+        },
+        {
+          "number": 6,
+          "text": "Og David sa: Den som først slår jebusittene, skal bli høvding og fører. Og Joab, Serujas sønn, steg først op og blev høvding."
+        },
+        {
+          "number": 7,
+          "text": "David tok sin bolig i borgen; derfor kaltes den Davids stad."
+        },
+        {
+          "number": 8,
+          "text": "Og han bygget byen rundt omkring, fra Millo og rundt omkring, og Joab bygget resten av byen op igjen."
+        },
+        {
+          "number": 9,
+          "text": "David blev større og større, og Herren, hærskarenes Gud, var med ham."
+        },
+        {
+          "number": 10,
+          "text": "Dette er de ypperste blandt Davids helter, som sammen med hele Israel kraftig støtet ham i hans kongedømme for å gjøre ham til konge efter Herrens ord om Israel."
+        },
+        {
+          "number": 11,
+          "text": "Dette er Davids helter, så mange de var: Jasobam, Hakmonis sønn, høvedsmann for drabantene; han svang sitt spyd over tre hundre falne på en gang."
+        },
+        {
+          "number": 12,
+          "text": "Efter ham kom Eleasar, sønn av ahohitten Dodo; han var en av de tre helter."
+        },
+        {
+          "number": 13,
+          "text": "Han var med David i Pas-Dammim da filistrene hadde samlet sig der til strid. Der var et jorde som var fullt av bygg, og da folket flyktet for filistrene,"
+        },
+        {
+          "number": 14,
+          "text": "stilte de sig midt på jordet og berget det og slo filistrene; og Herren gav dem en stor seier."
+        },
+        {
+          "number": 15,
+          "text": "Engang drog tre av de tretti høvdinger ned efter berget til David, som var i hulen ved Adullam. Filistrenes hær lå da i leir i Refa'im dalen."
+        },
+        {
+          "number": 16,
+          "text": "David var dengang selv i borgen, og filistrenes forpost var i Betlehem."
+        },
+        {
+          "number": 17,
+          "text": "Så kom det en brå lyst over David, og han sa: Hvem lar mig få vann å drikke av den brønn som er ved porten i Betlehem?"
+        },
+        {
+          "number": 18,
+          "text": "Da brøt de tre sig igjennem filistrenes leir og øste vann op av brønnen ved Betlehems port og tok det med sig og kom til David med det; men David vilde ikke drikke det - han øste det ut for Herren."
+        },
+        {
+          "number": 19,
+          "text": "Og han sa: Min Gud, la det være langt fra mig å gjøre dette! Skulde jeg drikke disse menns blod, som har satt sitt liv i fare? For med fare for sitt liv har de båret det hit. Og han vilde ikke drikke det. Dette gjorde de tre helter."
+        },
+        {
+          "number": 20,
+          "text": "Så var det Absai, bror til Joab; han var fører for de tre. Han svang sitt spyd over tre hundre falne; og han hadde et navn blandt de tre."
+        },
+        {
+          "number": 21,
+          "text": "Fremfor de tre var han dobbelt æret og blev deres høvding; men til de tre nådde han ikke op."
+        },
+        {
+          "number": 22,
+          "text": "Så var det Benaja, sønn av Jojada, som var sønn av en djerv seierrik stridsmann fra Kabse'el; han slo Moabs to løvehelter. En dag det hadde snedd, steg han ned i en brønn og slo en løve ihjel."
+        },
+        {
+          "number": 23,
+          "text": "Likeledes slo han ihjel en egypter, en mann som var fem alen lang; egypteren hadde et spyd som en veverstang i hånden; men han gikk ned mot ham med sin stav og rev spydet ut av hånden på egypteren og drepte ham med hans eget spyd."
+        },
+        {
+          "number": 24,
+          "text": "Dette gjorde Benaja, Jojadas sønn; han hadde et navn blandt de tre helter."
+        },
+        {
+          "number": 25,
+          "text": "Fremfor de tretti var han æret, men til de tre nådde han ikke op. David gav ham plass blandt sine fortrolige rådgivere."
+        },
+        {
+          "number": 26,
+          "text": "De djerveste i hæren var: Asael, bror til Joab; Elhanan, Dodos sønn, fra Betlehem;"
+        },
+        {
+          "number": 27,
+          "text": "haroritten Sammot; pelonitten Heles;"
+        },
+        {
+          "number": 28,
+          "text": "teko'itten Ira, sønn av Ikkes; anatotitten Abieser;"
+        },
+        {
+          "number": 29,
+          "text": "husatitten Sibbekai; ahohitten Ilai;"
+        },
+        {
+          "number": 30,
+          "text": "netofatitten Maharai; netofatitten Heled, sønn av Ba'ana;"
+        },
+        {
+          "number": 31,
+          "text": "Itai, Ribais sønn, fra Gibea i Benjamins stamme; piratonitten Benaja;"
+        },
+        {
+          "number": 32,
+          "text": "Hurai fra Ga'as-dalene; arbatitten Abiel;"
+        },
+        {
+          "number": 33,
+          "text": "baharumitten Asmavet; sa'albonitten Eljahba;"
+        },
+        {
+          "number": 34,
+          "text": "gisonitten Bene-Hasem; hararitten Jonatan, sønn av Sage;"
+        },
+        {
+          "number": 35,
+          "text": "hararitten Akiam, sønn av Sakar; Elifal, sønn av Ur;"
+        },
+        {
+          "number": 36,
+          "text": "mekeratitten Hefer; pelonitten Akia;"
+        },
+        {
+          "number": 37,
+          "text": "karmelitten Hesro; Na'arai, sønn av Esbai;"
+        },
+        {
+          "number": 38,
+          "text": "Joel, bror til Natan; Mibhar, sønn av Hagri;"
+        },
+        {
+          "number": 39,
+          "text": "ammonitten Selek; berotitten Nahrai, Joabs, Serujas sønns våbensvenn;"
+        },
+        {
+          "number": 40,
+          "text": "jitritten Ira; jitritten Gareb;"
+        },
+        {
+          "number": 41,
+          "text": "hetitten Uria; Sabad, sønn av Ahlai;"
+        },
+        {
+          "number": 42,
+          "text": "rubenitten Adina, sønn av Sisa, overhode for rubenittene, og foruten ham tretti;"
+        },
+        {
+          "number": 43,
+          "text": "Hanan, sønn av Ma'aka, og mitnitten Josafat;"
+        },
+        {
+          "number": 44,
+          "text": "asteratitten Ussia; Sama og Je'uel, sønner av aroeritten Hotam;"
+        },
+        {
+          "number": 45,
+          "text": "Jediael, sønn av Simri, og hans bror Joha, tisitten;"
+        },
+        {
+          "number": 46,
+          "text": "Eliel Hammahavim og Jeribai og Josavja, sønner av Elna'am, og moabitten Jitma;"
+        },
+        {
+          "number": 47,
+          "text": "Eliel og Obed og Ja'asiel Hammesobaja."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette er de som kom til David i Siklag mens han ennu måtte holde sig der av frykt for Saul, Kis' sønn. De hørte til de helter som hjalp ham i krigen;"
+        },
+        {
+          "number": 2,
+          "text": "de var væbnet med bue og opøvd i å slynge stener og skyte piler med buen, både med høire og venstre hånd; de hørte til Sauls stammefrender, til benjaminittene."
+        },
+        {
+          "number": 3,
+          "text": "Det var Akieser, den øverste av dem, og Joas, sønner av gibeatitten Sema'a, og Jesuel og Pelet, sønner av Asmavet, og Beraka og anatotitten Jehu"
+        },
+        {
+          "number": 4,
+          "text": "og gibeonitten Jismaja, en av de tretti helter og høvding over de tretti, og Jirmeja og Jahasiel og Johanan og gederatitten Josabad,"
+        },
+        {
+          "number": 5,
+          "text": "Elusai og Jerimot og Bealja og Semarja og harusitten Sefatja,"
+        },
+        {
+          "number": 6,
+          "text": "koharittene Elkana og Jissija og Asarel og Joeser og Jasobam,"
+        },
+        {
+          "number": 7,
+          "text": "og Joela og Sebadja, sønner av Jeroham, fra Gedor."
+        },
+        {
+          "number": 8,
+          "text": "Og av gadittene gikk nogen over til David i fjellborgen i ørkenen, djerve helter, krigsvante stridsmenn væbnet med skjold og spyd; de var å se til som løver, og de var snare som rådyr på fjellene."
+        },
+        {
+          "number": 9,
+          "text": "Eser var den første, Obadja den annen, Eliab den tredje,"
+        },
+        {
+          "number": 10,
+          "text": "Mismanna den fjerde, Jirmeja den femte,"
+        },
+        {
+          "number": 11,
+          "text": "Attai den sjette, Eliel den syvende,"
+        },
+        {
+          "number": 12,
+          "text": "Johanan den åttende, Elsabad den niende,"
+        },
+        {
+          "number": 13,
+          "text": "Jirmeja den tiende, Makbannai den ellevte."
+        },
+        {
+          "number": 14,
+          "text": "Disse hørte til Gads barn og var høvedsmenn i hæren; den ringeste av dem var over hundre og den største over tusen."
+        },
+        {
+          "number": 15,
+          "text": "Det var disse som gikk over Jordan i den første måned, da elven gikk over alle sine bredder, og som drev alle dalboerne på flukt både mot øst og mot vest."
+        },
+        {
+          "number": 16,
+          "text": "Det kom også nogen av Benjamins og Judas barn til David, helt til fjellborgen."
+        },
+        {
+          "number": 17,
+          "text": "David gikk ut til dem og tok til orde og sa til dem: Kommer I til mig med fred og vil hjelpe mig, da skal mitt hjerte høre eder til, og vi skal holde sammen; men kommer I for å forråde mig til mine fiender, skjønt det ingen urett er i mine hender, da se vare fedres Gud dertil og straffe det!"
+        },
+        {
+          "number": 18,
+          "text": "Da kom Ånden over Amasai, høvedsmannen for de tretti, og han sa: Dine er vi, David, og med dig holder vi fred, du Isais sønn! Fred være med dig, og fred være med dine hjelpere! For din Gud hjelper dig. Da tok David imot dem og satte dem til høvedsmenn for sin krigerflokk."
+        },
+        {
+          "number": 19,
+          "text": "Av Manasse gikk nogen over til David da han sammen med filistrene drog ut i strid mot Saul, uten at han dog kom til å hjelpe dem; for filistrenes høvdinger hadde holdt råd og så sendt ham bort, idet de sa: Det vil koste oss våre hoder, om han nu går over til sin herre Saul."
+        },
+        {
+          "number": 20,
+          "text": "Da han så drog til Siklag, gikk nogen av Manasse over til ham; det var Adna og Josabad og Jedial og Mikael og Josabad og Elihu og Silletai, høvedsmennene for de tusener som hørte til Manasse."
+        },
+        {
+          "number": 21,
+          "text": "Disse hjalp David mot røverflokken; for de var alle djerve stridsmenn, og de blev høvedsmenn i hæren."
+        },
+        {
+          "number": 22,
+          "text": "For dag efter dag kom det folk til David for å hjelpe ham, inntil det blev til en stor hær, som en Guds hær."
+        },
+        {
+          "number": 23,
+          "text": "Dette er tallet på de krigsvæbnede flokker som kom til David i Hebron for å føre Sauls kongedømme over til ham efter Herrens ord:"
+        },
+        {
+          "number": 24,
+          "text": "Judas barn som bar skjold og spyd, seks tusen og åtte hundre, væbnet til strid;"
+        },
+        {
+          "number": 25,
+          "text": "av Simeons barn djerve krigsvante stridsmenn, syv tusen og ett hundre;"
+        },
+        {
+          "number": 26,
+          "text": "av Levis barn fire tusen og seks hundre,"
+        },
+        {
+          "number": 27,
+          "text": "og dessuten Jojada, høvdingen for Arons ætt, og med ham tre tusen og syv hundre,"
+        },
+        {
+          "number": 28,
+          "text": "og likeså Sadok, en ung djerv stridsmann med sin familie, to og tyve høvedsmenn;"
+        },
+        {
+          "number": 29,
+          "text": "og av Benjamins barn, Sauls stammefrender, tre tusen; for inntil den tid hadde den største del av dem holdt sig til Sauls hus;"
+        },
+        {
+          "number": 30,
+          "text": "og av Efra'ims barn tyve tusen og åtte hundre, djerve stridsmenn, navnkundige menn i sine familier;"
+        },
+        {
+          "number": 31,
+          "text": "og av den halve Manasse stamme atten tusen navngitte menn, som var utvalgt til å dra avsted og gjøre David til konge;"
+        },
+        {
+          "number": 32,
+          "text": "og av Issakars barn menn som forstod sig på tidene, så de visste hvad Israel hadde å gjøre; deres høvedsmenn var to hundre, og alle deres stammefrender rettet sig efter deres ord;"
+        },
+        {
+          "number": 33,
+          "text": "av Sebulon menn som drog ut i strid og var rustet til krig med alle slags krigsvåben, femti tusen; de fylket sig til slag med hjerter uten svik;"
+        },
+        {
+          "number": 34,
+          "text": "og av Naftaii tusen høvedsmenn og med dem syv og tretti tusen mann med skjold og spyd;"
+        },
+        {
+          "number": 35,
+          "text": "og av danittene menn som var rustet til krig, åtte og tyve tusen og seks hundre;"
+        },
+        {
+          "number": 36,
+          "text": "og av Aser menn som drog ut i strid for å fylke sig til slag, firti tusen;"
+        },
+        {
+          "number": 37,
+          "text": "og fra hin side Jordan, av rubenittene og gadittene og den halve Manasse stamme, menn som var rustet med alle slags krigsvåben, hundre og tyve tusen."
+        },
+        {
+          "number": 38,
+          "text": "Alle disse krigsmenn kom i ordnet fylking til Hebron med opriktig hjerte for å gjøre David til konge over hele Israel; også hele resten av Israel var enig om å gjøre David til konge."
+        },
+        {
+          "number": 39,
+          "text": "Og de var der hos David i tre dager og åt og drakk; for deres landsmenn hadde laget til måltid for dem."
+        },
+        {
+          "number": 40,
+          "text": "Også de som bodde dem nærmest, like til Issakar og Sebulon og Naftali, kom med mat på asener og kameler og mulesler og okser: mel, fikenkaker og rosinkaker og vin og olje og storfe og småfe i mengde; for det var glede i Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Og David holdt råd med høvedsmennene over tusen og over hundre, med alle høvdingene."
+        },
+        {
+          "number": 2,
+          "text": "Og David sa til hele Israels menighet: Dersom det tykkes eder godt, og det kommer fra Herren vår Gud, så la oss sende bud til alle kanter til våre andre brødre i alle Israels land, og dessuten til prestene og levittene i de byer de har med jorder omkring, at de skal samle sig hos oss,"
+        },
+        {
+          "number": 3,
+          "text": "og la oss så flytte vår Guds ark hit til oss! For i Sauls dager spurte vi ikke efter den."
+        },
+        {
+          "number": 4,
+          "text": "Da sa hele menigheten at så burde gjøres; for hele folket syntes det var rett."
+        },
+        {
+          "number": 5,
+          "text": "Så samlet David hele Israel fra Sihor i Egypten til bortimot Hamat for å hente Guds ark fra Kirjat-Jearim."
+        },
+        {
+          "number": 6,
+          "text": "Og David og hele Israel drog op til Ba'ala, til Kirjat-Jearim, som hører til Juda, for å føre op derfra Gud Herrens ark, han som troner på kjerubene, hvor hans navn nevnes."
+        },
+        {
+          "number": 7,
+          "text": "Og de satte Guds ark på en ny vogn og førte den bort fra Abinadabs hus, og Ussa og Ahjo kjørte vognen."
+        },
+        {
+          "number": 8,
+          "text": "Og David og hele Israel lekte for Guds åsyn av all makt både til sanger og citarer og harper og trommer og cymbler og trompeter."
+        },
+        {
+          "number": 9,
+          "text": "Da de kom til Kidons treskeplass, rakte Ussa sin hånd ut for å ta fatt i arken; for oksene var blitt ustyrlige."
+        },
+        {
+          "number": 10,
+          "text": "Da optendtes Herrens vrede mot Ussa, og han slo ham fordi han hadde rakt sin hånd ut mot arken, så han døde der for Guds åsyn."
+        },
+        {
+          "number": 11,
+          "text": "Men David blev ille til mote fordi Herren hadde slått Ussa ned; derfor er dette sted blitt kalt Peres-Ussa like til denne dag."
+        },
+        {
+          "number": 12,
+          "text": "Den dag blev David opfylt av frykt for Gud og sa: Hvorledes skulde jeg kunne føre Guds ark inn til mig?"
+        },
+        {
+          "number": 13,
+          "text": "Og David flyttet ikke arken inn til sig i Davids stad, men lot den føre bort til gititten Obed-Edoms hus."
+        },
+        {
+          "number": 14,
+          "text": "Guds ark blev stående hos Obed-Edoms familie i hans hus i tre måneder; og Herren velsignet Obed-Edoms hus og alt hvad hans var."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kongen i Tyrus Hiram skikket sendemenn til David med sedertre, og han sendte stenhuggere og tømmermenn til å bygge et hus for ham."
+        },
+        {
+          "number": 2,
+          "text": "Og David forstod at Herren hadde stadfestet hans kongedømme over Israel; for hans rike var blitt hevet høit for hans folk Israels skyld."
+        },
+        {
+          "number": 3,
+          "text": "David tok ennu flere hustruer i Jerusalem, og han fikk ennu flere sønner og døtre."
+        },
+        {
+          "number": 4,
+          "text": "Dette er navnene på de sønner han fikk i Jerusalem: Sammua og Sobab, Natan og Salomo"
+        },
+        {
+          "number": 5,
+          "text": "og Jibhar og Elisua og Elpelet"
+        },
+        {
+          "number": 6,
+          "text": "og Nogah og Nefeg og Jafia"
+        },
+        {
+          "number": 7,
+          "text": "og Elisama og Be'eljada og Elifelet."
+        },
+        {
+          "number": 8,
+          "text": "Da filistrene hørte at David var salvet til konge over hele Israel, drog alle filistrene ut for å søke efter David; og da David hørte det, drog han ut imot dem."
+        },
+        {
+          "number": 9,
+          "text": "Og filistrene kom og spredte sig utover i Refa'im-dalen."
+        },
+        {
+          "number": 10,
+          "text": "Da spurte David Gud: Skal jeg dra ut mot filistrene, og vil du gi dem i min hånd? Og Herren svarte: Dra ut! Så vil jeg gi dem i din hånd."
+        },
+        {
+          "number": 11,
+          "text": "Så drog de op til Ba'al-Perasim, og der slo David dem, og David sa: Gud har brutt igjennem mine fiender ved min hånd, som vannene bryter igjennem. Derfor blev dette sted kalt Ba'al-Perasim."
+        },
+        {
+          "number": 12,
+          "text": "Der lot de efter sig sine guder, og David bød at de skulde brennes op med ild."
+        },
+        {
+          "number": 13,
+          "text": "Men filistrene kom igjen og spredte sig utover i dalen."
+        },
+        {
+          "number": 14,
+          "text": "Og David spurte atter Gud, og Gud sa til ham: Du skal ikke dra op efter dem; vend dig fra dem og ta en omvei, så du kommer over dem midt for bakatrærne,"
+        },
+        {
+          "number": 15,
+          "text": "og når du hører lyden av skritt i bakatrærnes topper, da skal du dra ut i striden; for Gud har draget ut foran dig for å slå filistrenes hær."
+        },
+        {
+          "number": 16,
+          "text": "David gjorde som Gud hadde befalt ham, og de slo filistrenes hær og forfulgte dem fra Gibeon og like til Geser."
+        },
+        {
+          "number": 17,
+          "text": "og Davids navn kom ut i alle landene, og Herren lot frykt for ham komme over alle folkene."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Siden bygget han sig huser i Davids stad og gjorde i stand et sted for Guds ark og reiste et telt for den."
+        },
+        {
+          "number": 2,
+          "text": "Da sa David: Ingen skal bære Guds ark uten levittene; for dem har Herren utvalgt til å bære Guds ark og til å tjene ham for alle tider."
+        },
+        {
+          "number": 3,
+          "text": "Så samlet David hele Israel til Jerusalem for å føre Herrens ark op til det sted som han hadde gjort i stand for den."
+        },
+        {
+          "number": 4,
+          "text": "Og David kalte Arons barn og levittene sammen:"
+        },
+        {
+          "number": 5,
+          "text": "av Kahats barn Uriel, den øverste, og hans brødre, hundre og tyve,"
+        },
+        {
+          "number": 6,
+          "text": "av Meraris barn Asaja, den øverste, og hans brødre, to hundre og tyve,"
+        },
+        {
+          "number": 7,
+          "text": "av Gersoms barn Joel, den øverste, og hans brødre, hundre og tretti,"
+        },
+        {
+          "number": 8,
+          "text": "av Elisafans barn Semaja, den øverste, og hans brødre, to hundre,"
+        },
+        {
+          "number": 9,
+          "text": "av Hebrons barn Eliel, den øverste, og hans brødre, åtti."
+        },
+        {
+          "number": 10,
+          "text": "av Ussiels barn Amminadab, den øverste, og hans brødre, hundre og tolv."
+        },
+        {
+          "number": 11,
+          "text": "Så kalte David til sig prestene Sadok og Ebjatar og levittene Uriel, Asaja og Joel, Semaja og Eliel og Amminadab."
+        },
+        {
+          "number": 12,
+          "text": "Og han sa til dem: I familiehoder for levittene, hellige eder, både I og eders brødre, og før Herrens, Israels Guds ark op til det sted jeg har gjort i stand for den!"
+        },
+        {
+          "number": 13,
+          "text": "Det var fordi I ikke var med første gang at Herren vår Gud brøt inn iblandt oss; for vi søkte ham ikke på rette måte."
+        },
+        {
+          "number": 14,
+          "text": "Da helliget prestene og levittene sig for å føre Herrens. Israels Guds ark op."
+        },
+        {
+          "number": 15,
+          "text": "Og levittenes barn bar Guds ark på sine skuldrer ved hjelp av bærestengene, således som Moses hadde påbudt efter Herrens ord."
+        },
+        {
+          "number": 16,
+          "text": "Så bød David de øverste blandt levittene at de skulde stille sine brødre sangerne frem med musikkinstrumenter, harper og citarer og cymbler, som de skulde spille på, idet de lot gledesangen tone."
+        },
+        {
+          "number": 17,
+          "text": "Da stilte levittene frem Heman, sønn av Joel, og av hans brødre Asaf, sønn av Berekja, og av deres brødre Meraris barn Etan, sønn av Kusaja,"
+        },
+        {
+          "number": 18,
+          "text": "og sammen med dem deres brødre av annen rang, Sakarja, Ben og Ja'asiel og Semiramot og Jehiel og Unni, Eliab og Benaja og Ma'aseja og Mattitja og Eliflehu og Mikneja og Obed-Edom og Je'iel, dørvokterne."
+        },
+        {
+          "number": 19,
+          "text": "Sangerne Heman, Asaf og Etan skulde slå på kobbercymbler;"
+        },
+        {
+          "number": 20,
+          "text": "Sakarja og Asiel og Semiramot og Jehiel og Unni og Eliab og Ma'aseja og Benaja skulde spille på harper efter Alamot,"
+        },
+        {
+          "number": 21,
+          "text": "og Mattitja og Eliflehu og Mikneja og Obed-Edom og Je'iel og Asasja på citarer efter Sjeminit for å lede sangen."
+        },
+        {
+          "number": 22,
+          "text": "Kenanja, levittenes sangmester, underviste i sangen; for han var kyndig i det."
+        },
+        {
+          "number": 23,
+          "text": "Berekja og Elkana var dørvoktere ved arken."
+        },
+        {
+          "number": 24,
+          "text": "Prestene Sebaina og Josafat og Netanel og Amasai og Sakarja og Benaja og Elieser blåste i trompeter foran Guds ark, og Obed-Edom og Jehia var dørvoktere ved arken."
+        },
+        {
+          "number": 25,
+          "text": "Så gikk David og Israels eldste og høvedsmennene over tusen avsted for å hente Herrens pakts-ark op fra Obed-Edoms hus under jubel."
+        },
+        {
+          "number": 26,
+          "text": "Og da nu Gud hjalp levittene som bar Herrens pakts-ark, ofret de syv okser og syv værer."
+        },
+        {
+          "number": 27,
+          "text": "David var klædd i en kåpe av hvitt bomullstøi, og likeså alle de levitter som bar arken, og sangerne og Kenanja, sangmesteren, som ledet sangen; dessuten hadde David en livkjortel av lerret på."
+        },
+        {
+          "number": 28,
+          "text": "Og hele Israel førte Herrens pakts-ark op med fryderop og med basunklang og med trompeter og cymbler, under harpe- og citarspill."
+        },
+        {
+          "number": 29,
+          "text": "Men da Herrens pakts-ark kom inn i Davids stad, da så Mikal, Sauls datter, ut gjennem vinduet, og hun så kong David hoppe og danse, og hun foraktet ham i sitt hjerte."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Så førte de Guds ark inn og satte den midt i det telt som David hadde reist for den, og de bar frem brennoffer og takkoffer for Guds åsyn."
+        },
+        {
+          "number": 2,
+          "text": "Og da David var ferdig med å ofre brennofferet og takkofferne, velsignet han folket i Herrens navn."
+        },
+        {
+          "number": 3,
+          "text": "Og han utdelte til hver enkelt i Israel, både mann og kvinne, et brød og et stykke kjøtt og en rosinkake."
+        },
+        {
+          "number": 4,
+          "text": "Og han satte nogen av levittene til å gjøre tjeneste foran Herrens ark og til å prise og takke og love Herren, Israels Gud:"
+        },
+        {
+          "number": 5,
+          "text": "Asaf var den øverste, næst efter ham kom Sakarja og så Je'iel og Semiramot og Jehiel og Mattitja og Eliab og Benaja og Obed-Edom og Je'iel med harper og citarer; Asaf skulde slå på cymblene"
+        },
+        {
+          "number": 6,
+          "text": "og prestene Benaja og Jahasiel stadig blåse i trompetene foran Guds pakts-ark."
+        },
+        {
+          "number": 7,
+          "text": "Den dag satte David første gang Asaf og hans brødre til å synge Herrens pris:"
+        },
+        {
+          "number": 8,
+          "text": "Pris Herren, påkall hans navn, kunngjør blandt folkene hans store gjerninger!"
+        },
+        {
+          "number": 9,
+          "text": "Syng for ham, lovsyng ham, grund på alle hans undergjerninger!"
+        },
+        {
+          "number": 10,
+          "text": "Ros eder av hans hellige navn! Deres hjerte glede sig som søker Herren!"
+        },
+        {
+          "number": 11,
+          "text": "Spør efter Herren og hans makt, søk hans åsyn all tid!"
+        },
+        {
+          "number": 12,
+          "text": "Kom i hu hans undergjerninger som han har gjort, hans under og hans munns dommer,"
+        },
+        {
+          "number": 13,
+          "text": "I, hans tjener Israels avkom, Jakobs barn, hans utvalgte!"
+        },
+        {
+          "number": 14,
+          "text": "Han er Herren vår Gud; hans dommer er over all jorden."
+        },
+        {
+          "number": 15,
+          "text": "Kom evindelig hans pakt i hu, det ord han fastsatte for tusen slekter,"
+        },
+        {
+          "number": 16,
+          "text": "den pakt han gjorde med Abraham, og hans ed til Isak!"
+        },
+        {
+          "number": 17,
+          "text": "Han stadfestet den som en rett for Jakob, som en evig pakt for Israel,"
+        },
+        {
+          "number": 18,
+          "text": "idet han sa: Dig vil jeg gi Kana'ans land til arvelodd,"
+        },
+        {
+          "number": 19,
+          "text": "da I var en liten flokk, få og fremmede der."
+        },
+        {
+          "number": 20,
+          "text": "Og de vandret fra folk til folk og fra et rike til et annet folk."
+        },
+        {
+          "number": 21,
+          "text": "Han tillot ikke nogen å gjøre vold imot dem, og han straffet konger for deres skyld:"
+        },
+        {
+          "number": 22,
+          "text": "Rør ikke ved mine salvede, og gjør ikke mine profeter noget ondt!"
+        },
+        {
+          "number": 23,
+          "text": "Syng for Herren, all jorden! Forkynn fra dag til dag hans frelse!"
+        },
+        {
+          "number": 24,
+          "text": "Fortell blandt hedningene hans ære, blandt alle folkene hans undergjerninger!"
+        },
+        {
+          "number": 25,
+          "text": "For stor er Herren og høilovet, og forferdelig er han over alle guder."
+        },
+        {
+          "number": 26,
+          "text": "For alle folkenes guder er intet; men Herren har gjort himmelen."
+        },
+        {
+          "number": 27,
+          "text": "Høihet og herlighet er for hans åsyn, styrke og glede er på hans sted."
+        },
+        {
+          "number": 28,
+          "text": "Gi Herren, I folkeslekter, gi Herren ære og makt!"
+        },
+        {
+          "number": 29,
+          "text": "Gi Herren hans navns ære, bær frem gaver og kom for hans åsyn, tilbed Herren i hellig prydelse!"
+        },
+        {
+          "number": 30,
+          "text": "Bev for hans åsyn, all jorden! Jorderike står fast, det rokkes ikke."
+        },
+        {
+          "number": 31,
+          "text": "Himmelen glede sig, og jorden fryde Sig, og de skal si iblandt hedningene: Herren er blitt konge."
+        },
+        {
+          "number": 32,
+          "text": "Havet bruse og alt som fyller det! Marken fryde sig og alt som er på den!"
+        },
+        {
+          "number": 33,
+          "text": "Da jubler trærne i skogen for Herrens åsyn; for han kommer for å dømme jorden."
+        },
+        {
+          "number": 34,
+          "text": "Lov Herren! For han er god, hans miskunnhet varer evindelig."
+        },
+        {
+          "number": 35,
+          "text": "Og si: Frels oss, du vår frelses Gud, og samle oss og utfri oss fra hedningene til å love ditt hellige navn, rose oss av å kunne prise dig!"
+        },
+        {
+          "number": 36,
+          "text": "Lovet være Herren, Israels Gud, fra evighet og til evighet! Og alt folket sa amen og lovet Herren."
+        },
+        {
+          "number": 37,
+          "text": "Så lot han Asaf og hans brødre bli der foran Herrens pakts-ark for stadig å gjøre tjeneste foran arken, hver dag det som skulde gjøres på den dag,"
+        },
+        {
+          "number": 38,
+          "text": "og Obed-Edom og deres brødre, åtte og seksti, Obed-Edom, sønn av Jeditun, og Hosa som dørvoktere."
+        },
+        {
+          "number": 39,
+          "text": "Men presten Sadok og hans brødre prestene lot han bli foran Herrens tabernakel på haugen i Gibeon."
+        },
+        {
+          "number": 40,
+          "text": "forat de stadig skulde ofre Herren brennoffer på brennofferalteret morgen og aften og gjøre alt det som skrevet står i den lov som Herren hadde gitt Israel,"
+        },
+        {
+          "number": 41,
+          "text": "og sammen med dem Heman og Jedutun og de andre utvalgte, som var nevnt ved navn, forat de skulde love Herren, fordi hans miskunnhet varer evindelig,"
+        },
+        {
+          "number": 42,
+          "text": "og hos dem - Heman og Jedutun - var der trompeter og cymbler til bruk for dem som skulde spille, og likeledes andre instrumenter til sangen ved gudstjenesten. Og Jedutuns sønner var dørvoktere."
+        },
+        {
+          "number": 43,
+          "text": "Derefter drog alt folket hver til sitt, og David vendte hjem for å velsigne sitt hus."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Som nu David bodde i sitt hus, sa han til profeten Natan: Se, jeg bor i et hus av sedertre mens Herrens pakts-ark bor under telttepper."
+        },
+        {
+          "number": 2,
+          "text": "Natan sa til David: Gjør du alt det du har i sinne! For Gud er med dig."
+        },
+        {
+          "number": 3,
+          "text": "Men samme natt kom Guds ord til Natan, og det lød således:"
+        },
+        {
+          "number": 4,
+          "text": "Gå og si til min tjener David: Så sier Herren: Ikke skal du bygge mig det hus jeg skal bo i."
+        },
+        {
+          "number": 5,
+          "text": "Jeg har jo ikke bodd i hus fra den dag jeg førte Israel op, og til denne dag, men jeg vandret fra telt til telt og fra tabernakel til tabernakel."
+        },
+        {
+          "number": 6,
+          "text": "Hvor jeg så vandret om i hele Israel, har jeg vel nogensinne talt således til nogen av Israels dommere, som jeg satte til å vokte mitt folk: Hvorfor har I ikke bygget mig et hus av sedertre?"
+        },
+        {
+          "number": 7,
+          "text": "Og nu skal du si så til min tjener David: Så sier Herren, hærskarenes Gud: Jeg tok dig fra havnegangen, hvor du gikk bak fårene, forat du skulde være fyrste over mitt folk Israel."
+        },
+        {
+          "number": 8,
+          "text": "Og jeg var med dig overalt hvor du gikk, og utryddet alle dine fiender for dig, og jeg har latt dig vinne et navn så stort som de størstes på jorden."
+        },
+        {
+          "number": 9,
+          "text": "Og jeg har gjort i stand et bosted for mitt folk Israel, og jeg har plantet det der, så det bor i sitt hjem og ikke uroes mere, og urettferdige mennesker ikke herjer det lenger som før,"
+        },
+        {
+          "number": 10,
+          "text": "like fra den tid jeg satte dommere over mitt folk Israel, og jeg har ydmyket alle dine fiender. Og nu forkynner jeg dig at Herren vil bygge dig et hus."
+        },
+        {
+          "number": 11,
+          "text": "Når dine dagers tall er fullt, og du går til dine fedre, da vil jeg efter dig opreise din ætt, en av dine sønner, og jeg vil grunnfeste hans kongedømme."
+        },
+        {
+          "number": 12,
+          "text": "Han skal bygge mig et hus, og jeg vil trygge hans trone til evig tid."
+        },
+        {
+          "number": 13,
+          "text": "Jeg vil være hans far, og han skal være min sønn, og min miskunnhet vil jeg ikke la vike fra ham, således som jeg lot den vike fra ham som var før dig,"
+        },
+        {
+          "number": 14,
+          "text": "men jeg vil la ham bli i mitt hus og i mitt rike til evig tid, og hans trone skal være grunnfestet til evig tid."
+        },
+        {
+          "number": 15,
+          "text": "Alle disse ord og hele dette syn bar Natan frem for David."
+        },
+        {
+          "number": 16,
+          "text": "Da gikk kong David inn og blev der inne for Herrens åsyn, og han sa: Hvem er jeg, Herre Gud, og hvad er mitt hus, at du har ført mig hertil?"
+        },
+        {
+          "number": 17,
+          "text": "Og enda var dette for lite dine øine, Gud, og du talte om din tjeners hus langt frem i tiden, og du har sett til mig på menneskers vis, sa du kunde ophøie mig, Herre Gud!"
+        },
+        {
+          "number": 18,
+          "text": "Hvad skal så David mere si til dig om den ære du har vist din tjener? Du kjenner jo din tjener."
+        },
+        {
+          "number": 19,
+          "text": "Herre! For din tjeners skyld og efter ditt hjerte har du gjort alt dette store og forkynt alle disse store ting."
+        },
+        {
+          "number": 20,
+          "text": "Herre! Det er ingen som du, og det er ingen Gud foruten dig, efter alt det vi har hørt med våre ører."
+        },
+        {
+          "number": 21,
+          "text": "Og hvor er det på jorden et eneste folk som ditt folk Israel, et folk som Gud kom og fridde ut, så det skulde være hans eget folk, for å gjøre dig et navn ved store og forferdelige gjerninger, ved å drive ut hedningefolk for ditt folks skyld, som du fridde ut fra Egypten?"
+        },
+        {
+          "number": 22,
+          "text": "Og du satte ditt folk Israel til å være ditt folk til evig tid, og du, Herre, er blitt deres Gud."
+        },
+        {
+          "number": 23,
+          "text": "Så la nu, Herre, det ord du har talt om din tjener og om hans hus, stå fast til evig tid, og gjør som du har sagt!"
+        },
+        {
+          "number": 24,
+          "text": "Ja, la det stå fast! Da skal ditt navn bli stort til evig tid, så folk skal si: Herren, hærskarenes Gud, Israels Gud, er Gud for Israel! Og din tjener Davids hus skal være grunnfestet for ditt åsyn."
+        },
+        {
+          "number": 25,
+          "text": "For du, min Gud, har åpenbaret for din tjener at du vil bygge ham et hus. Derfor har din tjener fått frimodighet til å bede for ditt åsyn."
+        },
+        {
+          "number": 26,
+          "text": "Og nu, Herre, du er Gud, og du har lovt din tjener denne lykke."
+        },
+        {
+          "number": 27,
+          "text": "Så la det nu behage dig å velsigne din tjeners hus, så det må bli stående for ditt åsyn til evig tid! For det som du, Herre, velsigner, er velsignet i all evighet."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Derefter slo David filistrene og ydmyket dem, og han tok Gat med tilhørende småbyer ut av filistrenes hender."
+        },
+        {
+          "number": 2,
+          "text": "Han slo også moabittene, og moabittene blev Davids tjenere og måtte svare ham skatt."
+        },
+        {
+          "number": 3,
+          "text": "Likeledes slo David kongen i Soba Hadareser ved Hamat, da han drog avsted for å styrke sitt herredømme ved Frat-elven."
+        },
+        {
+          "number": 4,
+          "text": "Og David tok fra ham tusen vognhester og syv tusen hestfolk og tyve tusen mann fotfolk; og David lot skjære fotsenene over på alle vognhestene; bare hundre vognhester sparte han."
+        },
+        {
+          "number": 5,
+          "text": "Syrerne fra Damaskus kom for å hjelpe Hadareser, kongen i Soba; men David slo to og tyve tusen mann av dem."
+        },
+        {
+          "number": 6,
+          "text": "Og David la krigsmannskap i det damaskenske Syria, og syrerne blev Davids tjenere og måtte svare ham skatt. Således hjalp Herren David overalt hvor han drog frem."
+        },
+        {
+          "number": 7,
+          "text": "David tok de gullskjold som Hadaresers tjenere hadde båret, og førte dem til Jerusalem."
+        },
+        {
+          "number": 8,
+          "text": "Og fra Hadaresers byer Tibhat og Kun tok David en stor mengde kobber; av det gjorde Salomo kobberhavet og søilene og kobberkarene."
+        },
+        {
+          "number": 9,
+          "text": "Da kongen i Hamat To'u hørte at David hadde slått hele Soba-kongen Hadaresers hær,"
+        },
+        {
+          "number": 10,
+          "text": "sendte han sin sønn Hadoram til kong David for å hilse på ham og ønske ham til lykke, fordi han hadde stridt mot Hadareser og slått ham; for Hadareser hadde jevnlig ført krig mot To'u. Han sendte også alle slags gullkar og sølvkar og kobberkar."
+        },
+        {
+          "number": 11,
+          "text": "Også dem helliget kong David til Herren sammen med det sølv og gull han hadde tatt fra alle hedningefolkene: fra Edom og fra Moab og fra Ammons barn og fra filistrene og fra amalekittene."
+        },
+        {
+          "number": 12,
+          "text": "Det var Absai, Serujas sønn, som slo edomittene i Saltdalen, atten tusen mann."
+        },
+        {
+          "number": 13,
+          "text": "Så la han krigsmannskap i Edom, og alle edomittene blev Davids tjenere. Således hjalp Herren David overalt hvor han drog frem."
+        },
+        {
+          "number": 14,
+          "text": "Så regjerte nu David over hele Israel, og han gjorde rett og rettferdighet mot hele sitt folk."
+        },
+        {
+          "number": 15,
+          "text": "Joab, Serujas sønn, var høvding over hæren, og Josafat, Akiluds sønn, historieskriver;"
+        },
+        {
+          "number": 16,
+          "text": "Sadok, Akitubs sønn, og Abimelek, Ebjatars sønn, var prester og Savsa statsskriver;"
+        },
+        {
+          "number": 17,
+          "text": "Benaja, Jojadas sønn, var høvding over livvakten, og Davids sønner var de første ved kongens side."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Så hendte det at Nahas, Ammons barns konge, døde, og hans sønn blev konge i hans sted."
+        },
+        {
+          "number": 2,
+          "text": "Da sa David: Jeg vil vise Hanun, Nahas' sønn, vennskap, for hans far viste mig vennskap. Og David sendte bud for å trøste ham i hans sorg over faren. Så kom da Davids tjenere til Ammons barns land, til Hanun for å trøste ham."
+        },
+        {
+          "number": 3,
+          "text": "Da sa Ammons barns høvdinger til Hanun: Tror du det er for å ære din far at David har sendt folk som skal trøste dig? Mon det ikke heller er for å utforske og ødelegge og utspeide landet at hans tjenere er kommet til dig?"
+        },
+        {
+          "number": 4,
+          "text": "Da tok Hanun Davids tjenere og lot dem rake og skar av deres klær midt på like til setet og lot dem så fare."
+        },
+        {
+          "number": 5,
+          "text": "Og det kom nogen og meldte David hvad som hadde hendt hans menn; da sendte han folk som skulde møte dem; for de var grovelig vanæret; og kongen lot si: Bli i Jeriko til eders skjegg er vokset ut igjen, og kom så tilbake!"
+        },
+        {
+          "number": 6,
+          "text": "Da nu Ammons barn så at de hadde gjort sig forhatt hos David, sendte Hanun og Ammons barn tusen talenter sølv for å leie sig vogner og hestfolk fra Mesopotamia og fra syrerne i Ma'aka og fra Soba."
+        },
+        {
+          "number": 7,
+          "text": "Så leide de sig da to og tretti tusen vogner og kongen i Ma'aka og hans folk, og de kom og leiret sig foran Medba; men også Ammons barn samlet sig fra sine byer og drog ut til strid."
+        },
+        {
+          "number": 8,
+          "text": "Da David hørte dette, sendte han Joab avsted med hele hæren, de krigsvante menn."
+        },
+        {
+          "number": 9,
+          "text": "Og Ammons barn rykket ut og stilte sig i fylking foran inngangen til byen; men kongene som var kommet dit, stod for sig selv på marken."
+        },
+        {
+          "number": 10,
+          "text": "Da Joab så at han hadde fienden mot sig både foran og bak, valgte han ut en del av alt det utvalgte mannskap i Israel og stilte dem op mot syrerne."
+        },
+        {
+          "number": 11,
+          "text": "Men resten av folket overgav han til sin bror Absai, og de stilte sig i fylking mot Ammons barn."
+        },
+        {
+          "number": 12,
+          "text": "Og han sa: Dersom syrerne blir mig for sterke, skal du komme mig til hjelp, og dersom Ammons barn blir dig for sterke, skal jeg hjelpe dig."
+        },
+        {
+          "number": 13,
+          "text": "Vær modig, og la oss vise oss modige for vårt folk og for var Guds byer, så lar Herren gjøre hvad. godt er i hans øine!"
+        },
+        {
+          "number": 14,
+          "text": "Så rykket Joab frem med sine folk til strid mot syrerne, og de flyktet for ham."
+        },
+        {
+          "number": 15,
+          "text": "Og da Ammons barn så at syrerne flyktet, så flyktet også de for hans bror Absai og drog sig inn i byen. Da drog Joab tilbake til Jerusalem."
+        },
+        {
+          "number": 16,
+          "text": "Da syrerne så at de var blitt slått av Israel, sendte de bud at de syrere som bodde på hin side av elven, skulde dra ut; og Sofak, høvdingen over Hadaresers hær, førte dem."
+        },
+        {
+          "number": 17,
+          "text": "Da dette blev meldt David, samlet han hele Israel og gikk over Jordan, og da han kom frem til dem, stilte han sig op imot dem - han fylket sin hær mot syrerne, og de stred mot ham."
+        },
+        {
+          "number": 18,
+          "text": "Men syrerne flyktet for Israel, og David drepte blandt syrerne mannskapet på syv tusen vogner og firti tusen mann fotfolk; også hærføreren Sofak drepte han."
+        },
+        {
+          "number": 19,
+          "text": "Da Hadaresers menn så at de var blitt slått av Israel, gjorde de fred med David og blev hans tjenere; og syrerne vilde ikke mere hjelpe Ammons barn."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Året efter, ved den tid da kongene pleier å dra ut i krig, tok Joab ut med krigshæren og herjet Ammons barns land, og da han kom til Rabba, kringsatte han det; men David blev i Jerusalem; og Joab tok Rabba og ødela byen."
+        },
+        {
+          "number": 2,
+          "text": "Og David tok deres konges krone fra hans hode; det viste sig at den veide en talent gull, og der var på den en kostbar sten; nu kom den på Davids hode. Og det store hærfang han hadde tatt i byen, førte han med sig bort."
+        },
+        {
+          "number": 3,
+          "text": "Og folket som bodde der, førte han ut og skar dem over med sager og treskesleder av jern eller hugg dem sønder med økser. Så gjorde David med alle Ammons barns byer. Derefter vendte David og alt folket tilbake til Jerusalem."
+        },
+        {
+          "number": 4,
+          "text": "Siden kom det til et slag med filistrene ved Geser; da slo husatitten Sibbekai Sippai, som hørte til Rafas barn, og de blev ydmyket."
+        },
+        {
+          "number": 5,
+          "text": "Så kom det atter til strid med filistrene; og Elhanan, Ja'urs sønn, slo Lahmi, en bror av gittitten Goliat, som hadde et spyd hvis skaft var som en veverstang."
+        },
+        {
+          "number": 6,
+          "text": "Ennu en gang kom det til strid ved Gat. Der var en høivoksen mann, som hadde seks fingrer på hver hånd og seks tær på hver fot - i alt fire og tyve fingrer og tær; han var og en efterkommer av Rafa."
+        },
+        {
+          "number": 7,
+          "text": "Han hånte Israel; men Jonatan, sønn av Davids bror Simea, hugg ham ned."
+        },
+        {
+          "number": 8,
+          "text": "Disse var efterkommere av Rafa i Gat, og de falt for Davids og hans menns hånd."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Men Satan stod op imot Israel og egget David til å telle Israel."
+        },
+        {
+          "number": 2,
+          "text": "Da sa David til Joab og folkets høvedsmenn: Gå avsted og tell Israel fra Be'erseba like til Dan og kom så til mig med melding, så jeg kan få vite tallet på dem."
+        },
+        {
+          "number": 3,
+          "text": "Da sa Joab: Herren legge hundre ganger så mange til sitt folk som de er nu! Er de ikke, herre konge, alle sammen min herres tjenere? Hvorfor krever min herre dette? Hvorfor skal det bli til skyld for Israel?"
+        },
+        {
+          "number": 4,
+          "text": "Men kongen holdt fast ved sin befaling og gav ikke efter for Joab. Så tok da Joab ut og drog omkring i hele Israel og kom så tilbake til Jerusalem."
+        },
+        {
+          "number": 5,
+          "text": "Og Joab opgav for David det tall som var utkommet ved folkemønstringen. I hele Israel var det elleve hundre tusen mann som kunde dra sverd, og i Juda fire hundre og sytti tusen."
+        },
+        {
+          "number": 6,
+          "text": "Men Levi og Benjamin hadde han ikke mønstret sammen med de andre; for kongens ord var en vederstyggelighet for Joab."
+        },
+        {
+          "number": 7,
+          "text": "Det som var skjedd, var ondt i Guds øine, og han slo Israel."
+        },
+        {
+          "number": 8,
+          "text": "Da sa David til Gud: Jeg har syndet storlig ved å gjøre dette; men tilgi nu din tjeners misgjerning, for jeg har båret mig meget uforstandig at."
+        },
+        {
+          "number": 9,
+          "text": "Men Herren talte til Gad, Davids seer, og sa:"
+        },
+        {
+          "number": 10,
+          "text": "Gå og tal til David og si: Så sier Herren: Tre ting forelegger jeg dig; velg en av dem, sa vil jeg gjøre så mot dig!"
+        },
+        {
+          "number": 11,
+          "text": "Da kom Gad til David og sa til ham: Så sier Herren: Velg nu"
+        },
+        {
+          "number": 12,
+          "text": "enten hungersnød i tre år eller å ligge under for dine motstandere i tre måneder, så du ikke kan undfly dine fienders sverd, eller at Herrens sverd og pest skal komme over landet i tre dager, og Herrens engel skal volde ødeleggelse i hele Israels landemerke! Tenk nu efter hvad jeg skal svare ham som har sendt mig!"
+        },
+        {
+          "number": 13,
+          "text": "David sa til Gad: Jeg er i stor angst; la mig da helst falle i Herrens hånd! For hans barmhjertighet er stor, men i menneskers hånd vil jeg nødig falle."
+        },
+        {
+          "number": 14,
+          "text": "Så lot Herren det komme en pest i Israel, og det falt sytti tusen mann av Israel."
+        },
+        {
+          "number": 15,
+          "text": "Og Gud sendte en engel til Jerusalem for å ødelegge det. Men da han holdt på med å ødelegge, så Herren det, og han angret det onde og sa til engelen som gjorde ødeleggelse: Det er nok; dra nu din hånd tilbake! Herrens engel stod da ved jebusitten Ornans treskeplass."
+        },
+        {
+          "number": 16,
+          "text": "Som nu David så op, fikk han se Herrens engel, som stod mellem jorden og himmelen med draget sverd i sin hånd og rakte det ut mot Jerusalem. Da falt David og de eldste ned på sitt ansikt, klædd i sekk."
+        },
+        {
+          "number": 17,
+          "text": "Og David sa til Gud: Var det ikke jeg som bød at folket skulde telles? Det er jeg som har syndet og gjort ille; men denne min hjord, hvad har de gjort? Herre min Gud, la heller din hånd komme over mig og over min fars hus, men ikke over ditt folk, så det blir hjemsøkt!"
+        },
+        {
+          "number": 18,
+          "text": "Da bød Herrens engel Gad å si til David at han skulde gå op og reise et alter for Herren på jebusitten Ornans treskeplass."
+        },
+        {
+          "number": 19,
+          "text": "Så gikk David dit op efter det ord som Gad hadde talt i Herrens navn."
+        },
+        {
+          "number": 20,
+          "text": "Da nu Ornan vendte sig om, fikk han se engelen, og hans fire sønner, som var med ham, skjulte sig; Ornan holdt just på med å treske hvete."
+        },
+        {
+          "number": 21,
+          "text": "Da David kom til Ornan, så Ornan ut og fikk se David; så gikk han ut av treskeplassen og kastet sig ned for David med ansiktet mot orden."
+        },
+        {
+          "number": 22,
+          "text": "Og David sa til Ornan: La mig få det sted hvor du har din treskeplass, så jeg kan bygge et alter for Herren der! La mig få det for dets fulle pris, forat hjemsøkelsen kan stanse og vike fra folket!"
+        },
+        {
+          "number": 23,
+          "text": "Da sa Ornan til David: Ta det bare! Min herre kongen må gjøre hvad han finner for godt! Her gir jeg dig oksene til brennofferne og treskesledene til ved og hveten til matofferet; alt sammen gir jeg som gave."
+        },
+        {
+          "number": 24,
+          "text": "Men kong David svarte: Nei, jeg vil kjøpe det for full pris; jeg vil ikke ta til Herren det som ditt er, og ofre brennoffere som jeg har fått for intet."
+        },
+        {
+          "number": 25,
+          "text": "Så gav David Ornan for stedet seks hundre sekel gull efter vekt."
+        },
+        {
+          "number": 26,
+          "text": "Og David bygget der et alter for Herren og ofret brennoffere og takkoffere; og han ropte til Herren, og han svarte ham med ild fra himmelen på brennoffer-alteret."
+        },
+        {
+          "number": 27,
+          "text": "Og Herren bød engelen at han skulde stikke sitt sverd i skjeden igjen."
+        },
+        {
+          "number": 28,
+          "text": "Da David så at Herren hadde bønnhørt ham på jebusitten Ornans treskeplass, så ofret han der på den tid."
+        },
+        {
+          "number": 29,
+          "text": "Herrens tabernakel, som Moses hadde latt gjøre i ørkenen, og brennoffer-alteret stod dengang på haugen i Gibeon;"
+        },
+        {
+          "number": 30,
+          "text": "men David torde ikke gå ditt for å søke Gud; så forferdet var han for Herrens engels sverd."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Og David sa: Her skal Herren Guds hus stå, og her skal brennofferalteret for Israel være."
+        },
+        {
+          "number": 2,
+          "text": "Og David bød at de fremmede som bodde i Israels land, skulde kalles sammen, og han satte stenhuggere til å hugge til stenene som Guds hus skulde bygges av."
+        },
+        {
+          "number": 3,
+          "text": "Og David samlet jern i mengde til nagler i portdørene og til kramper og en slik mengde kobber at det ikke kunde veies,"
+        },
+        {
+          "number": 4,
+          "text": "og så meget sedertre at det ikke var tall på det; for sidonierne og tyrierne førte sedertre i mengde til David."
+        },
+        {
+          "number": 5,
+          "text": "For David tenkte: Min sønn Salomo er ung og vek, og huset som skal bygges for Herren, må gjøres overmåte stort, så det kan være til pris og ære for ham i alle land; jeg vil derfor samle forråd for ham! Så samlet David forråd i mengde, før han døde."
+        },
+        {
+          "number": 6,
+          "text": "Og han kalte sin sønn Salomo til sig og bød ham bygge et hus for Herren, Israels Gud."
+        },
+        {
+          "number": 7,
+          "text": "Og David sa til sin sønn Salomo: Jeg hadde i sinne å bygge et hus for Herrens, min Guds navn."
+        },
+        {
+          "number": 8,
+          "text": "Men Herrens ord kom til mig, og det lød så: Du har utøst meget blod og ført store kriger; du skal ikke bygge et hus for mitt navn, for du har utøst meget blod på jorden for mitt åsyn."
+        },
+        {
+          "number": 9,
+          "text": "Men du skal få en sønn; han skal være en fredens mann, og jeg vil la ham få fred for alle sine fiender rundt omkring; for Salomo skal være hans navn, og jeg vil la Israel ha fred og ro i hans dager."
+        },
+        {
+          "number": 10,
+          "text": "Han skal bygge et hus for mitt navn, og han skal være min sønn, og jeg skal være hans far, og jeg skal trygge hans kongetrone over Israel for all tid."
+        },
+        {
+          "number": 11,
+          "text": "Så være nu Herren med dig, min sønn, og vær lykkelig og bygg Herrens, din Guds hus, således som han har lovt om dig!"
+        },
+        {
+          "number": 12,
+          "text": "Bare Herren vil gi dig visdom og forstand og sette dig over Israel, og du må holde Herrens, din Guds lov."
+        },
+        {
+          "number": 13,
+          "text": "Da skal du ha lykke med dig, når du akter vel på å gjøre efter de bud og lover som Herren bød Moses å pålegge Israel; vær frimodig og sterk, frykt ikke og reddes ikke!"
+        },
+        {
+          "number": 14,
+          "text": "Her har jeg med megen møie samlet hundre tusen talenter gull og tusen ganger tusen talenter sølv til Herrens hus, dessuten mere kobber og jern enn at det kan veies; så meget er det; tre og sten har jeg og samlet, og mere kan du selv legge til."
+        },
+        {
+          "number": 15,
+          "text": "Arbeidere har du også i mengde, stenhuggere og murere og tømmermenn og dessuten alle slags folk som er kyndige i alle andre slags arbeid."
+        },
+        {
+          "number": 16,
+          "text": "Av gull, sølv, kobber og jern er det så meget at det ikke er tall på det. Så ta da fatt på verket, og Herren være med dig!"
+        },
+        {
+          "number": 17,
+          "text": "Og David bød alle Israels høvdinger å hjelpe Salomo, hans sønn, og sa:"
+        },
+        {
+          "number": 18,
+          "text": "Herren eders Gud er jo med eder og har gitt eder ro på alle kanter. For han har gitt landets innbyggere i min hånd, og landet er lagt under Herren og hans folk."
+        },
+        {
+          "number": 19,
+          "text": "Vend nu eders hjerte og sjel til å søke Herren eders Gud, og gjør eder rede og bygg Gud Herrens helligdom, så I kan føre Herrens pakts-ark og Guds hellige kar inn i det hus som skal bygges for Herrens navn!"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Da David var blitt gammel og mett av dager, gjorde han sin sønn Salomo til konge over Israel."
+        },
+        {
+          "number": 2,
+          "text": "Og han samlet alle Israels høvdinger og prestene og levittene."
+        },
+        {
+          "number": 3,
+          "text": "Og levittene blev tellet fra tyveårsalderen og opover, og tallet på dem - en for en, alle som var av mannkjønn - var åtte og tretti tusen."
+        },
+        {
+          "number": 4,
+          "text": "Av disse sa David skal fire og tyve tusen forestå arbeidet på Herrens hus, og seks tusen skal være tilsynsmenn og dommere,"
+        },
+        {
+          "number": 5,
+          "text": "og fire tusen skal være dørvoktere, og fire tusen skal lovsynge Herren til de instrumenter jeg har latt gjøre til lovsangen."
+        },
+        {
+          "number": 6,
+          "text": "Og David delte dem i skifter efter Levis sønner, Gerson, Kahat og Merari."
+        },
+        {
+          "number": 7,
+          "text": "Til gersonittene hørte Ladan og Sime'i."
+        },
+        {
+          "number": 8,
+          "text": "Ladans sønner var Jehiel, overhodet, så Setam og Joel - tre i tallet."
+        },
+        {
+          "number": 9,
+          "text": "Sime'is sønner var Selomot og Hasiel og Haran - tre i tallet; dette var overhodene for Ladans familier."
+        },
+        {
+          "number": 10,
+          "text": "Og Sime'is sønner var Jahat, Sisa og Je'us og Beria; dette var Sime'is sønner - fire i tallet."
+        },
+        {
+          "number": 11,
+          "text": "Jahat var overhodet, og Sisa den annen; men Je'us og Beria hadde ikke mange sønner, og de utgjorde derfor bare en familie, en embedsklasse."
+        },
+        {
+          "number": 12,
+          "text": "Kahats sønner var Amram, Jishar, Hebron og Ussiel - fire i tallet."
+        },
+        {
+          "number": 13,
+          "text": "Amrams sønner var Aron og Moses. Aron blev utskilt for å helliges som høihellig, både han og hans sønner gjennem alle tider, så de skulde brenne røkelse for Herren og tjene ham og velsigne i hans navn til evig tid."
+        },
+        {
+          "number": 14,
+          "text": "Men sønnene til den Guds mann Moses regnes til Levi stamme."
+        },
+        {
+          "number": 15,
+          "text": "Moses' sønner var Gersom og Elieser."
+        },
+        {
+          "number": 16,
+          "text": "Av Gersoms sønner var Sebuel overhodet."
+        },
+        {
+          "number": 17,
+          "text": "Og av Eliesers barn var Rehabja overhodet; Elieser hadde ikke andre sønner, men Rehabjas sønner var overmåte tallrike."
+        },
+        {
+          "number": 18,
+          "text": "Av Jishars sønner var Selomit overhodet."
+        },
+        {
+          "number": 19,
+          "text": "Av Hebrons sønner var Jerija overhodet, Amarja den annen, Jahasiel den tredje og Jekamam den fjerde."
+        },
+        {
+          "number": 20,
+          "text": "Av Ussiels sønner var Mika overhodet, og Jissija den annen."
+        },
+        {
+          "number": 21,
+          "text": "Meraris sønner var Mahli og Musi. Mahlis sønner var Eleasar og Kis."
+        },
+        {
+          "number": 22,
+          "text": "Da Eleasar døde, var det ingen sønner efter ham, men bare døtre, og dem tok deres frender Kis' sønner til ekte."
+        },
+        {
+          "number": 23,
+          "text": "Musis sønner var Mahli og Eder og Jeremot - tre i tallet."
+        },
+        {
+          "number": 24,
+          "text": "Dette var Levis sønner efter sine familier, overhodene for familiene, så mange av dem som blev mønstret, efter sine navn, en for en, de som gjorde arbeidet ved tjenesten i Herrens hus, fra tyveårsalderen og opover."
+        },
+        {
+          "number": 25,
+          "text": "For David sa: Herren, Israels Gud, har gitt sitt folk ro og har nu sin bolig i Jerusalem til evig tid;"
+        },
+        {
+          "number": 26,
+          "text": "derfor har heller ikke levittene lenger nødig å bære tabernaklet og alle de til tjenesten der hørende redskaper."
+        },
+        {
+          "number": 27,
+          "text": "For det var efter Davids siste ord at Levis barn blev tellet fra tyveårsalderen og opover."
+        },
+        {
+          "number": 28,
+          "text": "Og de blev satt til å gå Arons sønner til hånde ved tjenesten i Herrens hus; de skulde ha tilsyn med forgårdene og kammerne og sørge for rengjøringen av alt det hellige og utføre arbeidet ved tjenesten i Guds hus,"
+        },
+        {
+          "number": 29,
+          "text": "både med skuebrødene og det fine mel til matofferet og med de usyrede brødleiver og med hellene og med det mel som skulde knaes, og med alle hulmål og lengdemål;"
+        },
+        {
+          "number": 30,
+          "text": "hver morgen skulde de stå og love og prise Herren, og likeså hver aften,"
+        },
+        {
+          "number": 31,
+          "text": "og de skulde hjelpe til ved enhver ofring av brennoffer til Herren på sabbatene, på nymåne-dagene og på høitidene, i fastsatt tall, således som det var foreskrevet for dem - all tid for Herrens åsyn."
+        },
+        {
+          "number": 32,
+          "text": "Således skulde de da ta vare på hvad som var å vareta ved sammenkomstens telt, og hvad som var å vareta ved helligdommen, og hvad som var å vareta for deres brødre Arons sønner ved tjenesten i Herrens hus."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vedkommende Arons sønner, så var deres skifter de som nu skal nevnes: Arons sønner var Nadab og Abihu, Eleasar og Itamar."
+        },
+        {
+          "number": 2,
+          "text": "Men Nadab og Abihu døde før sin far; de hadde ingen sønner, og bare Eleasar og Itamar blev prester."
+        },
+        {
+          "number": 3,
+          "text": "Sammen med Sadok av Eleasars sønner og Akimelek av Itamars sønner inndelte David dem efter deres embede i tjeneste-klasser."
+        },
+        {
+          "number": 4,
+          "text": "Da det viste sig at Eleasars sønner hadde flere overhoder enn Itamars sønner, inndelte de dem således at Eleasars sønner fikk seksten overhoder for sine familier og Itamars sønner åtte for sine familier."
+        },
+        {
+          "number": 5,
+          "text": "Og de inndelte dem ved loddkasting, begge ætter; for det fantes fyrster for helligdommen og Guds fyrster både blandt Eleasars sønner og blandt Itamars sønner."
+        },
+        {
+          "number": 6,
+          "text": "Skriveren Semaja, Netanels sønn, av Levi stamme, skrev dem op, mens kongen og høvdingene og presten Sadok og Akimelek, Ebjatars sønn, og familiehodene for prestene og levittene så på det; de tok ut en familie for Eleasar og derefter skiftevis en for Itamar."
+        },
+        {
+          "number": 7,
+          "text": "Det første lodd kom ut for Jojarib, det annet for Jedaja,"
+        },
+        {
+          "number": 8,
+          "text": "det tredje for Harim, det fjerde for Seorim,"
+        },
+        {
+          "number": 9,
+          "text": "det femte for Malkia, det sjette for Mijamin,"
+        },
+        {
+          "number": 10,
+          "text": "det syvende for Hakkos, det åttende for Abia,"
+        },
+        {
+          "number": 11,
+          "text": "det niende for Jesua, det tiende for Sekanja,"
+        },
+        {
+          "number": 12,
+          "text": "det ellevte for Eljasib, det tolvte for Jakim,"
+        },
+        {
+          "number": 13,
+          "text": "det trettende for Huppa, det fjortende for Jesebab,"
+        },
+        {
+          "number": 14,
+          "text": "det femtende for Bilga, det sekstende for Immer,"
+        },
+        {
+          "number": 15,
+          "text": "det syttende for Hesir, det attende for Happisses,"
+        },
+        {
+          "number": 16,
+          "text": "det nittende for Petahja, det tyvende for Esekiel,"
+        },
+        {
+          "number": 17,
+          "text": "det en og tyvende for Jakin, det to og tyvende for Gamul,"
+        },
+        {
+          "number": 18,
+          "text": "det tre og tyvende for Delaja, det fire og tyvende for Ma'asja."
+        },
+        {
+          "number": 19,
+          "text": "Dette var den orden som de skulde gjøre tjeneste i, når de gikk inn i Herrens hus, således som det var foreskrevet dem av Aron, deres far, efter den befaling Herren, Israels Gud, hadde gitt ham."
+        },
+        {
+          "number": 20,
+          "text": "Vedkommende Levis andre barn, så hørte til Amrams sønner Subael, til Subaels sønner Jehdeja."
+        },
+        {
+          "number": 21,
+          "text": "Av Rehabjas sønner var Jissia overhodet."
+        },
+        {
+          "number": 22,
+          "text": "Til jisharittene hørte Selomot, til Selomots sønner Jahat."
+        },
+        {
+          "number": 23,
+          "text": "Og Hebrons sønner var Jeria, Amarja - hans annen sønn - Jahasiel, den tredje, Jekamam, den fjerde."
+        },
+        {
+          "number": 24,
+          "text": "Ussiels sønn var Mika; til Mikas sønner hørte Samur."
+        },
+        {
+          "number": 25,
+          "text": "Jissia var Mikas bror; til Jissias sunner hørte Sakarja."
+        },
+        {
+          "number": 26,
+          "text": "Meraris sønner var Mahli og Musi, sønner av hans sønn Ja'asia."
+        },
+        {
+          "number": 27,
+          "text": "Meraris sønner gjennem hans sønn Ja'asia var også Soham og Sakkur og Ibri."
+        },
+        {
+          "number": 28,
+          "text": "Mahlis sønn var Eleasar; men han hadde ingen sønner."
+        },
+        {
+          "number": 29,
+          "text": "Til Kis, det er Kis' sønner, hørte Jerahme'el."
+        },
+        {
+          "number": 30,
+          "text": "Musis sønner var Mahli og Eder og Jerimot. Dette var levittenes sønner efter sine familier."
+        },
+        {
+          "number": 31,
+          "text": "De kastet og lodd likesom deres brødre Arons sønner, mens kong David og Sadok og Akimelek og prestenes og levittenes familiehoder var til stede - overhodene for familiene like så vel som deres yngste brødre."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Så skilte David og hærførerne ut til gudstjenesten Asafs og Hemans og Jedutuns sønner, som i profetisk begeistring spilte på citarer, harper og cymbler. Dette er listen over de menn som denne tjeneste var pålagt:"
+        },
+        {
+          "number": 2,
+          "text": "Av Asafs barn Sakkur og Josef og Netanja og Asarela, Asafs sønner, under ledelse av Asaf, som spilte i profetisk begeistring efter kongens forskrift;"
+        },
+        {
+          "number": 3,
+          "text": "av Jedutun, det er Jedutuns sønner: Gedalja og Seri og Jesaja, Hasabja og Mattitja, seks i tallet, med citarer, under ledelse av deres far Jedutun, som spilte i profetisk begeistring til Herrens lov og pris;"
+        },
+        {
+          "number": 4,
+          "text": "av Heman, det er Hemans sønner: Bukkia, Mattanja, Ussiel, Sebuel og Jerimot, Hananja, Hanani, Eliata, Giddalti og Romamti-Eser, Josbekasa, Malloti, Hotir, Mahasiot;"
+        },
+        {
+          "number": 5,
+          "text": "alle disse var sønner av Heman, kongens seer i Guds ord; for å ophøie hans horn gav Gud Heman fjorten sønner og tre døtre."
+        },
+        {
+          "number": 6,
+          "text": "Alle disse stod under sin fars ledelse ved sangen i Herrens hus; de spilte på cymbler, harper og citarer ved tjenesten i Guds hus, under ledelse av kongen, Asaf og Jedutun og Heman."
+        },
+        {
+          "number": 7,
+          "text": "Og tallet på dem og deres brødre som var oplært i sangen for Herren, alle dem som var kyndige deri, var to hundre og åtte og åtti."
+        },
+        {
+          "number": 8,
+          "text": "Og de kastet lodd om hvad de skulde ivareta, den minste så vel som den største, læreren så vel som lærlingen."
+        },
+        {
+          "number": 9,
+          "text": "Det første lodd kom ut for Asaf, det vil si for Josef; Gedalja blev den annen, han selv med sine brødre og sønner, tolv i tallet;"
+        },
+        {
+          "number": 10,
+          "text": "den tredje blev Sakkur med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 11,
+          "text": "det fjerde lodd kom ut for Jisri, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 12,
+          "text": "den femte blev Netanja med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 13,
+          "text": "den sjette blev Bukkia med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 14,
+          "text": "den syvende blev Jesarela med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 15,
+          "text": "den åttende blev Jesaia med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 16,
+          "text": "den niende blev Mattanja med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 17,
+          "text": "den tiende blev Sime'i med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 18,
+          "text": "den ellevte blev Asarel med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 19,
+          "text": "det tolvte lodd kom ut for Hasabja, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 20,
+          "text": "den trettende blev Subael med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 21,
+          "text": "den fjortende blev Mattitja med sine sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 22,
+          "text": "det femtende lodd kom ut for Jeremot, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 23,
+          "text": "det sekstende for Hananja, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 24,
+          "text": "det syttende for Josbekasa, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 25,
+          "text": "det attende for Hanani, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 26,
+          "text": "det nittende for Malloti, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 27,
+          "text": "det tyvende for Eliata, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 28,
+          "text": "det en og tyvende for Hotir, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 29,
+          "text": "det to og tyvende for Giddalti, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 30,
+          "text": "det tre og tyvende for Mahasiot, med hans sønner og brødre, tolv i tallet;"
+        },
+        {
+          "number": 31,
+          "text": "det fire og tyvende for Romamti-Eser, med hans sønner og brødre, tolv i tallet."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vedkommende dørvokternes skifter, så hørte til korahittene Meselemja, Kores sønn, av Asafs barn."
+        },
+        {
+          "number": 2,
+          "text": "Og Meselemjas sønner var: Sakarja, den førstefødte, Jediael, den annen, Sebadja, den tredje, Jatniel, den fjerde,"
+        },
+        {
+          "number": 3,
+          "text": "Elam, den femte, Johanan, den sjette, Eljoenai, den syvende."
+        },
+        {
+          "number": 4,
+          "text": "Obed-Edoms sønner var: Semaja, den førstefødte, Josabad, den annen, Joah, den tredje, og Sakar, den fjerde, og Netanel, den femte,"
+        },
+        {
+          "number": 5,
+          "text": "Ammiel, den sjette, Issakar, den syvende, Pe'ulletai, den åttende; for Gud hadde velsignet ham."
+        },
+        {
+          "number": 6,
+          "text": "Hans sønn Semaja fikk og sønner, som blev de rådende i sin ætt; for de var dyktige menn."
+        },
+        {
+          "number": 7,
+          "text": "Semajas sønner var: Otni og Refael og Obed, Elsabad og hans brødre, dyktige menn, Elihu og Semakja."
+        },
+        {
+          "number": 8,
+          "text": "Alle disse var efterkommere av Obed-Edom, både de og deres sønner og brødre, dyktige og sterke menn til tjenesten - i alt to og seksti efterkommere av Obed-Edom."
+        },
+        {
+          "number": 9,
+          "text": "Meselemja hadde også sønner og brødre, dyktige menn - i alt atten."
+        },
+        {
+          "number": 10,
+          "text": "Sønnene til Hosa, som hørte til Meraris barn, var: Simri, overhodet - for vel var han ikke den førstefødte, men hans far satte ham til å være overhode -"
+        },
+        {
+          "number": 11,
+          "text": "Hilkia, den annen, Tebalja, den tredje, Sakarja, den fjerde; Hosas sønner og brødre var i alt tretten."
+        },
+        {
+          "number": 12,
+          "text": "Disse dørvokter-skifter, det vil si deres overhoder, pålå det å gjøre vakttjeneste i Herrens hus sammen med sine brødre."
+        },
+        {
+          "number": 13,
+          "text": "Og de kastet lodd om hver port, den minste som den største, efter sine familier."
+        },
+        {
+          "number": 14,
+          "text": "Loddet mot øst falt på Selemja; også for hans sønn Sakarja, en klok rådgiver, kastet de lodd, og hans lodd kom ut mot nord."
+        },
+        {
+          "number": 15,
+          "text": "For Obed-Edom falt loddet mot syd, og for hans sønner falt det ved forrådshuset."
+        },
+        {
+          "number": 16,
+          "text": "For Suppim og Hosa falt loddet mot vest ved Salleket-porten på allfarveien som går opover, den ene vaktpost ved den andre."
+        },
+        {
+          "number": 17,
+          "text": "Mot øst stod seks levitter, mot nord hver dag fire, mot syd hver dag fire, og ved forrådshuset to og to."
+        },
+        {
+          "number": 18,
+          "text": "Ved Parbar mot vest stod fire ved veien og to ved selve Parbar."
+        },
+        {
+          "number": 19,
+          "text": "Dette var dørvokternes skifter av korahittenes barn og av Meraris barn."
+        },
+        {
+          "number": 20,
+          "text": "Av levittene hadde Akia opsyn over skattene i Guds hus og over de til Herren helligede ting."
+        },
+        {
+          "number": 21,
+          "text": "Ladans sønner, gersonittenes efterkommere gjennem Ladan, overhodene for gersonitten Ladans familier, var jehielittene."
+        },
+        {
+          "number": 22,
+          "text": "Jehielittenes sønner Setam og hans bror Joel hadde opsyn over skattene i Herrens hus."
+        },
+        {
+          "number": 23,
+          "text": "Vedkommende amramittene, jisharittene, hebronittene, ossielittene,"
+        },
+        {
+          "number": 24,
+          "text": "så var Sebuel, sønn av Moses' sønn Gersom, overopsynsmann over skattene."
+        },
+        {
+          "number": 25,
+          "text": "Og hans frender av Eliesers ætt var Eliesers sønn Rehabja Og hans sønn Jesaja og hans sønn Joram Og hans sønn Sikri Og hans sønn Selomot."
+        },
+        {
+          "number": 26,
+          "text": "Denne Selomot Og hans brødre hadde opsyn over alle de til Herren helligede ting, som kong David og familiehodene blandt høvedsmennene over tusen og over hundre og hærførerne hadde helliget;"
+        },
+        {
+          "number": 27,
+          "text": "efter krigene hadde de helliget det av hærfanget for å sette Herrens hus i stand."
+        },
+        {
+          "number": 28,
+          "text": "Og alt det seeren Samuel og Saul, Kis' sønn, og Abner, Ners sønn, og Joab, Serujas sønn, hadde helliget - alt som nogen hadde helliget - var under opsyn av Selomit og hans brødre."
+        },
+        {
+          "number": 29,
+          "text": "Blandt jisharittene var Kenanja og hans sønner satt til å røkte de verdslige gjøremål i Israel som tilsynsmenn og dommere."
+        },
+        {
+          "number": 30,
+          "text": "Blandt hebronittene var Hasabja og hans brødre, dyktige menn, tusen og syv hundre i tallet, satt over Israel i landet på vestsiden av Jordan i alt som vedkom Herrens gjerning og kongens tjeneste."
+        },
+        {
+          "number": 31,
+          "text": "Til hebronittene hørte Jerija, overhodet for hebronittene efter deres ætter og familier; i det firtiende år av Davids regjering blev det foretatt undersøkelse blandt dem, og det fantes blandt dem dyktige krigsmenn i Jaser i Gilead."
+        },
+        {
+          "number": 32,
+          "text": "Hans frender, dyktige menn, var to tusen og syv hundre, som alle var familiehoder; dem satte kong David over rubenittene og gadittene og den halve Manasse stamme i alle Guds saker og kongens saker."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette er Israels barn efter deres tall, med deres familiehoder og høvedsmennene over tusen og over hundre og deres tilsynsmenn, som tjente kongen i alt som vedkom hær-delingene; disse hær-delinger tiltrådte og fratrådte skiftevis hver måned gjennem hele året, og hver deling var på fire og tyve tusen mann."
+        },
+        {
+          "number": 2,
+          "text": "Over den første hær-deling, som gjorde tjeneste i den første måned, stod Jasobam, Sabdiels sønn, og til hans deling hørte fire og tyve tusen mann;"
+        },
+        {
+          "number": 3,
+          "text": "han var en av Peres' efterkommere, den øverste av alle hærførerne som gjorde tjeneste i den første måned."
+        },
+        {
+          "number": 4,
+          "text": "Over den hær-deling som gjorde tjeneste i den annen måned, stod ahohitten Dodai; ved hans deling var fyrsten Miklot, og til hans deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 5,
+          "text": "Den tredje hærfører, som gjorde tjeneste i den tredje måned, var Benaja, presten Jojadas sønn, som var den øverste, og til hans deling hørte fire og tyve tusen mann;"
+        },
+        {
+          "number": 6,
+          "text": "denne Benaja var en helt blandt de tretti og stod over de tretti, og ved hans hær-deling var hans sønn Ammisabad."
+        },
+        {
+          "number": 7,
+          "text": "Den fjerde, som gjorde tjeneste i den fjerde måned, var Asael, Joabs bror, og efter ham hans sønn Sebadja, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 8,
+          "text": "Den femte, som gjorde tjeneste i den femte måned, var høvdingen Samhut, jisrahitten, og til hans hærdeling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 9,
+          "text": "Den sjette, som gjorde tjeneste i den sjette måned, var Ira, Ikkes' sønn, fra Tekoa, og til hans hærdeling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 10,
+          "text": "Den syvende, som gjorde tjeneste i den syvende måned, var pelonitten Heles av Efra'ims barn, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 11,
+          "text": "Den åttende, som gjorde tjeneste i den åttende måned, var husatitten Sibbekai av serahittenes ætt, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 12,
+          "text": "Den niende, som gjorde tjeneste i den niende måned, var Abieser fra Anatot, av Benjamins stamme, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 13,
+          "text": "Den tiende, som gjorde tjeneste i den tiende måned, var Maharai fra Netofa, av serahittenes ætt, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 14,
+          "text": "Den ellevte, som gjorde tjeneste i den ellevte måned, var Benaja fra Piraton, av Efra'ims barn, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 15,
+          "text": "Den tolvte, som gjorde tjeneste i den tolvte måned, var Heldai fra Netofa, av Otrliels ætt, og til hans hær-deling hørte fire og tyve tusen mann."
+        },
+        {
+          "number": 16,
+          "text": "Israels stammefyrster var: for rubenittene Elieser, Sikris sønn, for simeonittene Sefatja, Ma'akas sønn,"
+        },
+        {
+          "number": 17,
+          "text": "for Levi Hasabja, Kemuels sønn, for Arons ætt Sadok,"
+        },
+        {
+          "number": 18,
+          "text": "for Juda Elihu, en av Davids brødre, for Issakar Omri, Mikaels sønn,"
+        },
+        {
+          "number": 19,
+          "text": "for Sebulon Jismaja, Obadjas sønn, for Naftali Jerimot, Asriels sønn,"
+        },
+        {
+          "number": 20,
+          "text": "for Efra'ims barn Hosea, Asasjas sønn, for den halve Manasse stamme Joel, Pedajas sønn,"
+        },
+        {
+          "number": 21,
+          "text": "for den halve Manasse stamme i Gilead Jiddo, Sakarjas sønn, for Benjamin Ja'asiel, Abners sønn,"
+        },
+        {
+          "number": 22,
+          "text": "for Dan Asar'el, Jerohams sønn. Dette var høvdingene for Israels stammer."
+        },
+        {
+          "number": 23,
+          "text": "Men David tok ikke tall på dem som var under tyve år; for Herren hadde sagt at han vilde gjøre Israel tallrikt som himmelens stjerner."
+        },
+        {
+          "number": 24,
+          "text": "Joab, Serujas sønn, begynte å telle, men fullendte det ikke, og Guds vrede kom over Israel for dette, og tallet blev ikke opført i manntallet i kong Davids krønike."
+        },
+        {
+          "number": 25,
+          "text": "Opsynet over kongens skatter hadde Asmavet, Adiels sønn, over forrådene på marken, i byene og landsbyene og i festningstårnene Jonatan, Ussias sønn,"
+        },
+        {
+          "number": 26,
+          "text": "over dem som arbeidet på marken og dyrket jorden, Esri, Kelubs sønn,"
+        },
+        {
+          "number": 27,
+          "text": "over vingårdene Sime'i fra Rama, over vinforrådene i vingårdene sifmitten Sabdi,"
+        },
+        {
+          "number": 28,
+          "text": "over oljetrærne og morbærtrærne i lavlandet Ba'al-Hanan fra Geder, over oljeforrådene Joas,"
+        },
+        {
+          "number": 29,
+          "text": "over storfeet som beitet i Saron, Sitrai fra Saron, over storfeet i dalene Safat, Adlais sønn,"
+        },
+        {
+          "number": 30,
+          "text": "over kamelene ismaelitten Obil, over aseninnene Jehdeja fra Meronot"
+        },
+        {
+          "number": 31,
+          "text": "og over småfeet hagaritten Jasi; alle disse var opsynsmenn over kong Davids eiendeler."
+        },
+        {
+          "number": 32,
+          "text": "Davids farbror Jonatan var hans rådgiver; han var en forstandig og skriftlærd mann. Jehiel, Hakmonis sønn, var hos kongens sønner."
+        },
+        {
+          "number": 33,
+          "text": "Akitofel var kongens rådgiver, og arkitten Husai var kongens venn."
+        },
+        {
+          "number": 34,
+          "text": "Efter Akitofel kom Jojada, Benajas sønn, og Ebjatar. Joab var kongens hærfører."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Og David kalte alle Israels høvdinger sammen til Jerusalem, både stammenes høvdinger og høvdingene over de hær-delinger som var i kongens tjeneste, og høvedsmennene over tusen og over hundre og opsynsmennene over alle kongens og hans sønners eiendeler og hjorder og dessuten hoffmennene og heltene og alle andre gjæve menn."
+        },
+        {
+          "number": 2,
+          "text": "Og kong David reiste sig fra sitt sete og sa: Hør på mig, mine brødre og mitt folk! Jeg hadde i sinne å bygge et hus til hvilested for Herrens pakts-ark og for vår Guds fotskammel, og jeg har samlet forråd til å bygge;"
+        },
+        {
+          "number": 3,
+          "text": "men Gud sa til mig: Du skal ikke bygge hus for mitt navn, for du er krigsmann og har utøst blod."
+        },
+        {
+          "number": 4,
+          "text": "Herren, Israels Gud, har av hele min fars hus utvalgt mig til å være konge over Israel for all tid; for Juda utvalgte han til å være fyrste, og av Judas hus min fars hus, og blandt min fars sønner hadde han behag i mig, så han gjorde mig til konge over hele Israel."
+        },
+        {
+          "number": 5,
+          "text": "Og av alle mine sønner - for Herren har gitt mig mange sønner - utvalgte han min sønn Salomo til å sitte på Herrens kongetrone og råde over Israel."
+        },
+        {
+          "number": 6,
+          "text": "Og han sa til mig: Din sønn Salomo, han er den som skal bygge mitt hus og mine forgårder; for jeg har utvalgt ham til å være min sønn, og jeg vil være hans far,"
+        },
+        {
+          "number": 7,
+          "text": "og jeg vil grunnfeste hans kongedømme til evig tid, dersom han trofast blir ved å holde mine bud og mine lover, således som han nu gjør."
+        },
+        {
+          "number": 8,
+          "text": "Og nu står jeg her, hvor hele Israel, Herrens menighet, ser mig, og vår Gud hører mig, og jeg sier: Hold alle Herrens, eders Guds bud og gransk dem vel, så I kan få eie dette gode land og la det gå i arv til eders barn efter eder til evig tid!"
+        },
+        {
+          "number": 9,
+          "text": "Og du, min sønn Salomo, lær din fars Gud å kjenne og tjen ham med udelt hjerte og med villig sjel! For Herren ransaker alle hjerter og forstår alle menneskers tanker og råd; dersom du søker ham, skal han la sig finne av dig, men dersom du forlater ham, skal han forkaste dig for alltid."
+        },
+        {
+          "number": 10,
+          "text": "Så se nu til, for Herren har utvalgt dig til å bygge et hus til helligdom; vær frimodig og gå til verket!"
+        },
+        {
+          "number": 11,
+          "text": "Så gav David sin sønn Salomo et billede av forhallen og tempelbygningene, skattkammerne, loftsrummene, de indre rum og rummet for nådestolen,"
+        },
+        {
+          "number": 12,
+          "text": "og et billede av alt det som i ånden stod for ham, av forgårdene til Herrens hus og alle kammerne rundt omkring for skattene som hørte til Guds hus, og for de helligede ting"
+        },
+        {
+          "number": 13,
+          "text": "og for prestenes og levittenes skifter og for alt arbeid ved tjenesten i Herrens hus og for alle kar til tjenesten i Herrens hus,"
+        },
+        {
+          "number": 14,
+          "text": "og et billede av det som skulde være av gull, med opgave over gullets vekt, av alle de kar som hørte til hver enkelt tjeneste, og av alle sølvkarene efter vekt, av alle de kar som hørte til hver enkelt tjeneste."
+        },
+        {
+          "number": 15,
+          "text": "Og han opgav ham vekten på gull-lysestakene med tilhørende lamper av gull - vekten på hver enkelt lysestake med tilhørende lamper - og på sølvlysestakene - vekten på hver enkelt lysestake med tilhørende lamper - alt efter det hver lysestake skulde brukes til,"
+        },
+        {
+          "number": 16,
+          "text": "og vekten på gullet til skuebrøds-bordene - til hvert enkelt bord - og på sølvet til sølvbordene."
+        },
+        {
+          "number": 17,
+          "text": "Og han gav ham et billede av gaflene og skålene til å sprenge blod med og kannene av rent gull og av gullbegerne efter hvert begers vekt og av sølvbegerne efter hvert begers vekt"
+        },
+        {
+          "number": 18,
+          "text": "og av røkoffer-alteret av renset gull efter vekt og et billede av vognen, det vil si kjerubene av gull, som holdt vingene utbredt og dekket over Herrens pakts-ark."
+        },
+        {
+          "number": 19,
+          "text": "Om alt dette sa David, om alt som skal gjøres efter billedet, har Herren oplyst mig ved et skrift fra sin hånd."
+        },
+        {
+          "number": 20,
+          "text": "Så sa David til sin sønn Salomo: Vær frimodig og sterk og gå til verket, frykt ikke og vær ikke redd! For Gud Herren, min Gud, er med dig; han vil ikke slippe dig og ikke forlate dig, før alt arbeid for tjenesten ved Herrens hus er fullført."
+        },
+        {
+          "number": 21,
+          "text": "Se, her er prestenes og levittenes skifter, som skal utføre all tjeneste i Guds hus, og til alt arbeid har du folk hos dig som alle er villige og kyndige i alt slags arbeid, og høvdingene og hele folket er rede til å gjøre alt det du sier."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Derefter sa kong David til alle dem som var kommet sammen: Salomo, min sønn, den eneste som Gud har utvalgt, er ung og vek, og arbeidet er stort; for den herlige bygning skal ikke være for et menneske, men for Herren Gud."
+        },
+        {
+          "number": 2,
+          "text": "Av all min kraft har jeg samlet sammen for min Guds hus gull til det som skal være av gull, og sølv til det som skal være av sølv, og kobber til det som skal være av kobber, og jern til det som skal være av jern, og tre til det som skal være av tre, dessuten onyks-stener og andre edelstener, stener til innfatning, sorte glansstener og brokete stener - alle slags dyre stener og en mengde marmorstener."
+        },
+        {
+          "number": 3,
+          "text": "Og fordi jeg har min Guds hus kjært, vil jeg også gi hvad jeg eier av gull og sølv, til min Guds hus - foruten alt det jeg har samlet sammen til det hellige hus,"
+        },
+        {
+          "number": 4,
+          "text": "tre tusen talenter gull, gull fra Ofir, og syv tusen talenter renset sølv til å klæ tempelrummenes vegger med,"
+        },
+        {
+          "number": 5,
+          "text": "så der kan være gull og sølv til alt det som skal være av gull og av sølv, og til alle slags arbeid av kunstneres hender. Hvem er nu villig til idag å fylle sin hånd med gaver til Herren?"
+        },
+        {
+          "number": 6,
+          "text": "Da kom de villig med gaver, både familienes overhoder og Israels stammehøvdinger og høvedsmennene over tusen og over hundre og opsynsmennene over kongens arbeid:"
+        },
+        {
+          "number": 7,
+          "text": "Fem tusen talenter og ti tusen dariker gull og ti tusen talenter sølv og atten tusen talenter kobber og hundre tusen talenter jern gav de til arbeidet på Guds hus;"
+        },
+        {
+          "number": 8,
+          "text": "og de som eide edelstener, gav dem til skatten i Herrens hus, som gersonitten Jehiel hadde opsyn over."
+        },
+        {
+          "number": 9,
+          "text": "Og folket gledet sig over at de gav så villig; for med udelt hjerte gav de frivillig sine gaver til Herren; kong David gledet sig også storlig."
+        },
+        {
+          "number": 10,
+          "text": "Og David lovet Herren i hele forsamlingens påhør, og han sa: Lovet være du, Herre, vår far Israels Gud, fra evighet og til evighet!"
+        },
+        {
+          "number": 11,
+          "text": "Dig, Herre, tilhører storheten og makten og æren og herligheten og majesteten, ja alt i himmelen og på jorden; ditt, Herre, er riket, og du er ophøiet over alt og har alt i din makt."
+        },
+        {
+          "number": 12,
+          "text": "Rikdom og ære kommer fra dig, og du råder over alle ting; i din hånd er styrke og makt, og i din hånd står det å gjøre hvad som helst stort og sterkt."
+        },
+        {
+          "number": 13,
+          "text": "Så priser vi nu dig, vår Gud, og lover ditt herlige navn."
+        },
+        {
+          "number": 14,
+          "text": "For hvem er vel jeg, og hvad er mitt folk, at vi skulde være i stand til å gi en frivillig gave som denne. Fra dig kommer det alt sammen, og av det som din hånd har gitt oss, har vi gitt dig."
+        },
+        {
+          "number": 15,
+          "text": "For vi er fremmede for ditt åsyn og gjester, som alle våre fedre; som en skygge er våre dager på jorden og uten håp."
+        },
+        {
+          "number": 16,
+          "text": "Herre vår Gud! Alle disse rikdommer som vi har samlet sammen for å bygge dig et hus for ditt hellige navn, de kommer fra din hånd, og ditt er det alt sammen."
+        },
+        {
+          "number": 17,
+          "text": "Jeg vet, min Gud, at du ransaker hjerter og har behag i opriktighet; av et opriktig hjerte har jeg villig gitt dig alt dette, og med glede har jeg nu sett hvorledes ditt folk som står her, frivillig har gitt dig sine gaver."
+        },
+        {
+          "number": 18,
+          "text": "Herre, du Abrahams, Isaks og Israels, våre fedres Gud! La dette alltid være ditt folks hjertelag og tanker, og vend deres hjerte til dig!"
+        },
+        {
+          "number": 19,
+          "text": "Og gi min sønn Salomo et udelt hjerte til å holde dine bud, dine vidnesbyrd og dine lover og utføre det alt sammen og bygge den herlige bygning som jeg har samlet forråd til."
+        },
+        {
+          "number": 20,
+          "text": "Derefter sa David til hele forsamlingen: Lov Herren eders Gud! Og hele forsamlingen lovet Herren, sine fedres Gud, og bøide sig og kastet sig ned for Herren og for kongen."
+        },
+        {
+          "number": 21,
+          "text": "Så bar de slaktoffere frem for Herren; og dagen efter ofret de brennoffere til Herren: tusen okser, tusen værer, tusen lam, med tilhørende drikkoffere, og slaktoffere i mengde for hele Israel."
+        },
+        {
+          "number": 22,
+          "text": "Og den dag åt og drakk de for Herrens åsyn med stor glede, og de gjorde annen gang Davids sønn Salomo til konge og salvet ham til en Herrens fyrste og Sadok til prest."
+        },
+        {
+          "number": 23,
+          "text": "Og Salomo satt på Herrens trone som konge i sin far Davids sted; han hadde lykken med sig, og hele Israel var ham lydig,"
+        },
+        {
+          "number": 24,
+          "text": "og alle høvdingene og heltene og likeså alle kong Davids sønner hyldet kong Salomo."
+        },
+        {
+          "number": 25,
+          "text": "Og Herren lot Salomo bli overmåte stor for hele Israels øine og gav ham en kongelig herlighet som ingen konge i Israel før ham hadde hatt."
+        },
+        {
+          "number": 26,
+          "text": "David, Isais sønn, hadde vært konge over hele Israel."
+        },
+        {
+          "number": 27,
+          "text": "Den tid han var konge over Israel, var firti år; i Hebron regjerte han i syv år, og i Jerusalem regjerte han i tre og tretti år."
+        },
+        {
+          "number": 28,
+          "text": "Og han døde i høi alder, mett av dager, rikdom og ære, og hans sønn Salomo blev konge i hans sted."
+        },
+        {
+          "number": 29,
+          "text": "Hvad som er å fortelle om kong David, både i hans første og i hans senere dager, det er opskrevet i seeren Samuels krønike og i profeten Natans krønike og i seeren Gads krønike;"
+        },
+        {
+          "number": 30,
+          "text": "der er og fortalt om hele hans regjering og hans store gjerninger og om de tider som kom over ham og Israel og over alle andre land og riker."
+        }
+      ]
+    }
+  ]
+}

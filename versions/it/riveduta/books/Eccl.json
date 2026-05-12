@@ -1,0 +1,957 @@
+{
+  "version": "riveduta",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Parole dell’Ecclesiaste, figliuolo di Davide, re di Gerusalemme."
+        },
+        {
+          "number": 2,
+          "text": "Vanità delle vanità, dice l’Ecclesiaste;"
+        },
+        {
+          "number": 3,
+          "text": "vanità delle vanità; tutto è vanità. Che profitto ha l’uomo di tutta la fatica che dura sotto il sole?"
+        },
+        {
+          "number": 4,
+          "text": "Una generazione se ne va, un’altra viene, e la terra sussiste in perpetuo."
+        },
+        {
+          "number": 5,
+          "text": "Anche il sole si leva, poi tramonta, e s’affretta verso il luogo donde si leva di nuovo."
+        },
+        {
+          "number": 6,
+          "text": "Il vento soffia verso il mezzogiorno, poi gira verso settentrione; va girando, girando continuamente, per ricominciare gli stessi giri."
+        },
+        {
+          "number": 7,
+          "text": "Tutti i fiumi corrono al mare, eppure il mare non s’empie; al luogo dove i fiumi si dirigono, tornano a dirigersi sempre."
+        },
+        {
+          "number": 8,
+          "text": "Ogni cosa è in travaglio, più di quel che l’uomo possa dire; l’occhio non si sazia mai di vedere, e l’orecchio non è mai stanco d’udire."
+        },
+        {
+          "number": 9,
+          "text": "Quello ch’è stato è quel che sarà; quel che s’è fatto è quel che si farà; non v’è nulla di nuovo sotto il sole."
+        },
+        {
+          "number": 10,
+          "text": "V’ha egli qualcosa della quale si dica: “Guarda questo è nuovo?” Quella cosa esisteva già nei secoli che ci hanno preceduto."
+        },
+        {
+          "number": 11,
+          "text": "Non rimane memoria delle cose d’altri tempi; e di quel che succederà in seguito non rimarrà memoria fra quelli che verranno più tardi."
+        },
+        {
+          "number": 12,
+          "text": "Io, l’Ecclesiaste, sono stato re d’Israele a Gerusalemme,"
+        },
+        {
+          "number": 13,
+          "text": "ed ho applicato il cuore a cercare e ad investigare con sapienza tutto ciò che si fa sotto il cielo: occupazione penosa, che Dio ha data ai figliuoli degli uomini perché vi si affatichino."
+        },
+        {
+          "number": 14,
+          "text": "Io ho veduto tutto ciò che si fa sotto il sole: ed ecco tutto è vanità e un correr dietro al vento."
+        },
+        {
+          "number": 15,
+          "text": "Ciò che è storto non può essere raddrizzato, ciò che manca non può esser contato."
+        },
+        {
+          "number": 16,
+          "text": "Io ho detto, parlando in cuor mio: “Ecco io ho acquistato maggior sapienza di tutti quelli che hanno regnato prima di me in Gerusalemme”; sì, il mio cuore ha posseduto molta sapienza e molta scienza."
+        },
+        {
+          "number": 17,
+          "text": "Ed ho applicato il cuore a conoscer la sapienza, e a conoscere la follia e la stoltezza, ed ho riconosciuto che anche questo è un correr dietro al vento."
+        },
+        {
+          "number": 18,
+          "text": "Poiché dov’è molta sapienza v’è molto affanno, e chi accresce la sua scienza accresce il suo dolore."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Io ho detto in cuor mio: “Andiamo! Io ti voglio mettere alla prova con la gioia, e tu godrai il piacere!” Ed ecco che anche questo è vanità."
+        },
+        {
+          "number": 2,
+          "text": "Io ho detto del riso: “E’ una follia”; e della gioia: “A che giova?”"
+        },
+        {
+          "number": 3,
+          "text": "Io presi in cuor mio la risoluzione di abbandonar la mia carne alle attrattive del vino, e, pur lasciando che il mio cuore mi guidasse saviamente, d’attenermi alla follia, finch’io vedessi ciò ch’è bene che gli uomini facciano sotto il cielo, durante il numero de’ giorni della loro vita."
+        },
+        {
+          "number": 4,
+          "text": "Io intrapresi de’ grandi lavori; mi edificai delle case; mi piantai delle vigne;"
+        },
+        {
+          "number": 5,
+          "text": "mi feci de’ giardini e dei parchi, e vi piantai degli alberi fruttiferi d’ogni specie;"
+        },
+        {
+          "number": 6,
+          "text": "mi costrussi degli stagni per adacquare con essi il bosco dove crescevano gli alberi;"
+        },
+        {
+          "number": 7,
+          "text": "comprai servi e serve, ed ebbi de’ servi nati in casa; ebbi pure greggi ed armenti, in gran numero, più di tutti quelli ch’erano stati prima di me a Gerusalemme;"
+        },
+        {
+          "number": 8,
+          "text": "accumulai argento, oro, e le ricchezze dei re e delle province; mi procurai dei cantanti e delle cantanti, e ciò che fa la delizia de’ figliuoli degli uomini, delle donne in gran numero."
+        },
+        {
+          "number": 9,
+          "text": "Così divenni grande, e sorpassai tutti quelli ch’erano stati prima di me a Gerusalemme; e la mia sapienza rimase pur sempre meco."
+        },
+        {
+          "number": 10,
+          "text": "Di tutto quello che i miei occhi desideravano io nulla rifiutai loro; non privai il cuore d’alcuna gioia; poiché il mio cuore si rallegrava d’ogni mia fatica, ed è la ricompensa che m’è toccata d’ogni mia fatica."
+        },
+        {
+          "number": 11,
+          "text": "Poi considerai tutte le opere che le mie mani avevano fatte, e la fatica che avevo durata a farle, ed ecco che tutto era vanità e un correr dietro al vento, e che non se ne trae alcun profitto sotto il sole."
+        },
+        {
+          "number": 12,
+          "text": "Allora mi misi ad esaminate la sapienza, la follia e la stoltezza. Che farà l’uomo che succederà al re? Quello ch’è già stato fatto."
+        },
+        {
+          "number": 13,
+          "text": "E vidi che la sapienza ha un vantaggio sulla stoltezza, come la luce ha un vantaggio sulle tenebre."
+        },
+        {
+          "number": 14,
+          "text": "Il savio ha gli occhi in testa, mentre lo stolto cammina nelle tenebre; ma ho riconosciuto pure che tutti e due hanno la medesima sorte."
+        },
+        {
+          "number": 15,
+          "text": "Ond’io ho detto in cuor mio: “La sorte che tocca allo stolto toccherà anche a me; perché dunque essere stato così savio?” E ho detto in cuor mio che anche questo è vanità."
+        },
+        {
+          "number": 16,
+          "text": "Poiché tanto del savio quanto dello stolto non rimane ricordo eterno; giacché, nei giorni a venire, tutto sarà da tempo dimenticato. Pur troppo il savio muore, al pari dello stolto!"
+        },
+        {
+          "number": 17,
+          "text": "Perciò io ho odiata la vita, perché tutto ciò che si fa sotto il sole m’è divenuto odioso, poiché tutto è vanità e un correr dietro al vento."
+        },
+        {
+          "number": 18,
+          "text": "Ed ho odiata ogni fatica che ho durata sotto il sole, e di cui debbo lasciare il godimento a colui che verrà dopo di me."
+        },
+        {
+          "number": 19,
+          "text": "E chi sa s’egli sarà savio o stolto? Eppure sarà padrone di tutto il lavoro che io ho compiuto con fatica e con saviezza sotto il sole. Anche questo è vanità."
+        },
+        {
+          "number": 20,
+          "text": "Così sono arrivato a far perdere al mio cuore ogni speranza circa tutta la fatica che ho durato sotto il sole."
+        },
+        {
+          "number": 21,
+          "text": "Poiché, ecco un uomo che ha lavorato con saviezza, con intelligenza e con successo e lascia il frutto del suo lavoro in eredità a un altro, che non v’ha speso intorno alcuna fatica! Anche questo è vanità, e un male grande."
+        },
+        {
+          "number": 22,
+          "text": "Difatti, che profitto trae l’uomo da tutto il suo lavoro, dalle preoccupazioni del suo cuore, da tutto quel che gli è costato tanta fatica sotto il sole?"
+        },
+        {
+          "number": 23,
+          "text": "Tutti i suoi giorni non sono che dolore, la sua occupazione non è che fastidio; perfino la notte il suo cuore non ha posa. Anche questo è vanità."
+        },
+        {
+          "number": 24,
+          "text": "Non v’è nulla di meglio per l’uomo del mangiare, del bere, e del far godere all’anima sua il benessere in mezzo alla fatica ch’ei dura; ma anche questo ho veduto che viene dalla mano di Dio."
+        },
+        {
+          "number": 25,
+          "text": "Difatti, chi, senza di lui, può mangiare o godere?"
+        },
+        {
+          "number": 26,
+          "text": "Poiché Iddio dà all’uomo ch’egli gradisce, sapienza, intelligenza e gioia; ma al peccatore dà la cura di raccogliere, d’accumulare, per lasciar poi tutto a colui ch’è gradito agli occhi di Dio. Anche questo è vanità e un correre dietro al vento."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Per tutto v’è il suo tempo, v’è il suo momento per ogni cosa sotto il cielo:"
+        },
+        {
+          "number": 2,
+          "text": "un tempo per nascere e un tempo per morire; un tempo per piantare e un tempo per svellere ciò ch’è piantato;"
+        },
+        {
+          "number": 3,
+          "text": "un tempo per uccidere e un tempo per guarire; un tempo per demolire e un tempo per costruire;"
+        },
+        {
+          "number": 4,
+          "text": "un tempo per piangere e un tempo per ridere; un tempo per far cordoglio e un tempo per ballare;"
+        },
+        {
+          "number": 5,
+          "text": "un tempo per gettar via pietre e un tempo per raccoglierle; un tempo per abbracciare e un tempo per astenersi dagli abbracciamenti;"
+        },
+        {
+          "number": 6,
+          "text": "un tempo per cercare e un tempo per perdere; un tempo per conservare e un tempo per buttar via;"
+        },
+        {
+          "number": 7,
+          "text": "un tempo per strappare e un tempo per cucire; un tempo per tacere e un tempo per parlare;"
+        },
+        {
+          "number": 8,
+          "text": "un tempo per amare e un tempo per odiare; un tempo per la guerra e un tempo per la pace."
+        },
+        {
+          "number": 9,
+          "text": "Che profitto trae dalla sua fatica colui che lavora?"
+        },
+        {
+          "number": 10,
+          "text": "Io ho visto le occupazioni che Dio dà agli uomini perché vi si affatichino."
+        },
+        {
+          "number": 11,
+          "text": "Dio ha fatto ogni cosa bella al suo tempo; egli ha perfino messo nei loro cuori il pensiero della eternità, quantunque l’uomo non possa comprendere dal principio alla fine l’opera che Dio ha fatta."
+        },
+        {
+          "number": 12,
+          "text": "Io ho riconosciuto che non v’è nulla di meglio per loro del rallegrarsi e del procurarsi del benessere durante la loro vita,"
+        },
+        {
+          "number": 13,
+          "text": "ma che se uno mangia, beve e gode del benessere in mezzo a tutto il suo lavoro, è un dono di Dio."
+        },
+        {
+          "number": 14,
+          "text": "Io ho riconosciuto che tutto quello che Dio fa è per sempre; niente v’è da aggiungervi, niente da togliervi; e che Dio fa così perché gli uomini lo temano."
+        },
+        {
+          "number": 15,
+          "text": "Ciò che è, è già stato prima, e ciò che sarà è già stato, e Dio riconduce ciò ch’è passato."
+        },
+        {
+          "number": 16,
+          "text": "Ho anche visto sotto il sole che nel luogo stabilito per giudicare v’è della empietà, e che nel luogo stabilito per la giustizia v’è della empietà,"
+        },
+        {
+          "number": 17,
+          "text": "e ho detto in cuor mio: “Iddio giudicherà il giusto e l’empio poiché v’è un tempo per il giudicio di qualsivoglia azione e, nel luogo fissato, sarà giudicata ogni opera”."
+        },
+        {
+          "number": 18,
+          "text": "Io ho detto in cuor mio: “Così è, a motivo dei figliuoli degli uomini perché Dio li metta alla prova, ed essi stessi riconoscano che non sono che bestie”."
+        },
+        {
+          "number": 19,
+          "text": "Poiché la sorte de’ figliuoli degli uomini è la sorte delle bestie; agli uni e alle altre tocca la stessa sorte; come muore l’uno, così muore l’altra; hanno tutti un medesimo soffio, e l’uomo non ha superiorità di sorta sulla bestia; poiché tutto è vanità."
+        },
+        {
+          "number": 20,
+          "text": "Tutti vanno in un medesimo luogo; tutti vengon dalla polvere, e tutti ritornano alla polvere."
+        },
+        {
+          "number": 21,
+          "text": "Chi sa se il soffio dell’uomo sale in alto, e se il soffio della bestia scende in basso nella terra?"
+        },
+        {
+          "number": 22,
+          "text": "Io ho dunque visto che non v’è nulla di meglio per l’uomo del rallegrarsi, nel compiere il suo lavoro; tale è la sua parte; poiché chi lo farà tornare per godere di ciò che verrà dopo di lui?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mi son messo poi a considerare tutte le oppressioni che si commettono sotto il sole; ed ecco, le lacrime degli oppressi, i quali non hanno chi li consoli e dal lato dei loro oppressori la violenza, mentre quelli non hanno chi li consoli."
+        },
+        {
+          "number": 2,
+          "text": "Ond’io ho stimato i morti, che son già morti, più felici de’ vivi che son vivi tuttora;"
+        },
+        {
+          "number": 3,
+          "text": "è più felice degli uni e degli altri, colui che non è ancora venuto all’esistenza, e non ha ancora vedute le azioni malvage che si commettono sotto il sole."
+        },
+        {
+          "number": 4,
+          "text": "E ho visto che ogni fatica e ogni buona riuscita nel lavoro provocano invidia dell’uno contro l’altro. Anche questo è vanità e un correr dietro al vento."
+        },
+        {
+          "number": 5,
+          "text": "Lo stolto incrocia le braccia e mangia la sua propria carne."
+        },
+        {
+          "number": 6,
+          "text": "Val meglio una mano piena di riposo, che ambo le mani piene di travaglio e di corsa dietro al vento."
+        },
+        {
+          "number": 7,
+          "text": "E ho visto anche un’altra vanità sotto il sole:"
+        },
+        {
+          "number": 8,
+          "text": "un tale è solo, senz’alcuno che gli stia da presso; non ha né figlio né fratello, e nondimeno s’affatica senza fine, e i suoi occhi non si sazian mai di ricchezze. E non riflette: Ma per chi dunque m’affatico e privo l’anima mia d’ogni bene? Anche questa è una vanità e un’ingrata occupazione."
+        },
+        {
+          "number": 9,
+          "text": "Due valgon meglio d’un solo, perché sono ben ricompensati della loro fatica."
+        },
+        {
+          "number": 10,
+          "text": "Poiché, se l’uno cade, l’altro rialza il suo compagno; ma guai a colui ch’è solo, e cade senz’avere un altro che lo rialzi!"
+        },
+        {
+          "number": 11,
+          "text": "Così pure, se due dormono assieme, si riscaldano; ma chi è solo, come farà a riscaldarsi?"
+        },
+        {
+          "number": 12,
+          "text": "E se uno tenta di sopraffare colui ch’è solo, due gli terranno testa; una corda a tre capi non si rompe così presto."
+        },
+        {
+          "number": 13,
+          "text": "Meglio un giovinetto povero e savio, d’un re vecchio e stolto che non sa più ricevere ammonimenti."
+        },
+        {
+          "number": 14,
+          "text": "E’ uscito di prigione per esser re: egli, ch’era nato povero nel suo futuro regno."
+        },
+        {
+          "number": 15,
+          "text": "Io ho visto tutti i viventi che vanno e vengono sotto il sole unirsi al giovinetto, che dovea succedere al re e regnare al suo posto."
+        },
+        {
+          "number": 16,
+          "text": "Senza fine eran tutto il popolo, tutti quelli alla testa dei quali ei si trovava. Eppure, quelli che verranno in seguito non si rallegreranno di lui! Anche questo è vanità e un correr dietro al vento."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bada ai tuoi passi quando vai alla casa di Dio, e appressati per ascoltare, anziché per offrire il sacrifizio degli stolti, i quali non sanno neppure che fanno male."
+        },
+        {
+          "number": 2,
+          "text": "Non esser precipitoso nel parlare, e il tuo cuore non s’affretti a proferir verbo davanti a Dio; perché Dio è in cielo e tu sei sulla terra; le tue parole sian dunque poche;"
+        },
+        {
+          "number": 3,
+          "text": "poiché colla moltitudine delle occupazioni vengono i sogni, e colla moltitudine delle parole, i ragionamenti insensati."
+        },
+        {
+          "number": 4,
+          "text": "Quand’hai fatto un voto a Dio, non indugiare ad adempierlo; poich’egli non si compiace degli stolti; adempi il voto che hai fatto."
+        },
+        {
+          "number": 5,
+          "text": "Meglio è per te non far voti, che farne e poi non adempierli."
+        },
+        {
+          "number": 6,
+          "text": "Non permettere alla tua bocca di render colpevole la tua persona; e non dire davanti al messaggero di Dio: “E’ stato uno sbaglio.” Perché Iddio s’adirerebbe egli per le tue parole, e distruggerebbe l’opera delle tue mani?"
+        },
+        {
+          "number": 7,
+          "text": "Poiché, se vi son delle vanità nella moltitudine de’ sogni, ve ne sono anche nella moltitudine delle parole; perciò temi Iddio!"
+        },
+        {
+          "number": 8,
+          "text": "Se vedi nella provincia l’oppressione del povero e la violazione del diritto e della giustizia, non te ne maravigliare; poiché sopra un uomo in alto veglia uno che sta più in alto e sovr’essi, sta un Altissimo."
+        },
+        {
+          "number": 9,
+          "text": "Ma vantaggioso per un paese è, per ogni rispetto, un re, che si faccia servo de’ campi."
+        },
+        {
+          "number": 10,
+          "text": "Chi ama l’argento non è saziato con l’argento; e chi ama le ricchezze non ne trae profitto di sorta. Anche questo è vanità."
+        },
+        {
+          "number": 11,
+          "text": "Quando abbondano i beni, abbondano anche quei che li mangiano; e che pro ne viene ai possessori, se non di veder quei beni coi loro occhi?"
+        },
+        {
+          "number": 12,
+          "text": "Dolce è il sonno del lavoratore, abbia egli poco o molto da mangiare; ma la sazietà del ricco non lo lascia dormire."
+        },
+        {
+          "number": 13,
+          "text": "V’è un male grave ch’io ho visto sotto il sole; delle ricchezze conservate dal loro possessore, per sua sventura."
+        },
+        {
+          "number": 14,
+          "text": "Queste ricchezze vanno perdute per qualche avvenimento funesto; e se ha generato un figliuolo, questi resta con nulla in mano."
+        },
+        {
+          "number": 15,
+          "text": "Uscito ignudo dal seno di sua madre, quel possessore se ne va com’era venuto; e di tutta la sua fatica non può prender nulla da portar seco in mano."
+        },
+        {
+          "number": 16,
+          "text": "Anche questo è un male grave: ch’ei se ne vada tal e quale era venuto; e qual profitto gli viene dall’aver faticato per il vento?"
+        },
+        {
+          "number": 17,
+          "text": "E per di più, durante tutta la vita egli mangia nelle tenebre, e ha molti fastidi, malanni e crucci."
+        },
+        {
+          "number": 18,
+          "text": "Ecco quello che ho veduto: buona e bella cosa è per l’uomo mangiare, bere, godere del benessere in mezzo a tutta la fatica ch’ei dura sotto il sole, tutti i giorni di vita che Dio gli ha dati; poiché questa è la sua parte."
+        },
+        {
+          "number": 19,
+          "text": "E ancora se Dio ha dato a un uomo delle ricchezze e dei tesori, e gli ha dato potere di goderne, di prenderne la sua parte e di gioire della sua fatica, è questo un dono di Dio;"
+        },
+        {
+          "number": 20,
+          "text": "poiché un tal uomo non si ricorderà troppo dei giorni della sua vita, giacché Dio gli concede gioia nel cuore."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "V’è un male che ho veduto sotto il sole e che grava di frequente sugli uomini:"
+        },
+        {
+          "number": 2,
+          "text": "eccone uno a cui Dio dà ricchezze, tesori e gloria, in guisa che nulla manca all’anima sua di tutto ciò che può desiderare, ma Dio non gli dà il potere di goderne; ne gode uno straniero. Ecco una vanità e un male grave."
+        },
+        {
+          "number": 3,
+          "text": "Se uno generasse cento figliuoli, vivesse molti anni sì che i giorni de’ suoi anni si moltiplicassero, se l’anima sua non si sazia di beni ed ei non ha sepoltura, io dico che un aborto è più felice di lui;"
+        },
+        {
+          "number": 4,
+          "text": "poiché l’aborto nasce invano, se ne va nelle tenebre, e il suo nome resta coperto di tenebre;"
+        },
+        {
+          "number": 5,
+          "text": "non ha neppur visto né conosciuto il sole e nondimeno ha più riposo di quell’altro."
+        },
+        {
+          "number": 6,
+          "text": "Quand’anche questi vivesse due volte mille anni, se non gode benessere, a che pro? Non va tutto a finire in un medesimo luogo?"
+        },
+        {
+          "number": 7,
+          "text": "Tutta la fatica dell’uomo è per la sua bocca, e nondimeno l’appetito suo non è mai sazio."
+        },
+        {
+          "number": 8,
+          "text": "Che vantaggio ha il savio sopra lo stolto? O che vantaggio ha il povero che sa come condursi in presenza de’ viventi?"
+        },
+        {
+          "number": 9,
+          "text": "Veder con gli occhi val meglio del lasciar vagare i propri desideri. Anche questo è vanità e un correr dietro al vento."
+        },
+        {
+          "number": 10,
+          "text": "Ciò che esiste è già stato chiamato per nome da tempo, ed è noto che cosa l’uomo è, e che non può contendere con Colui ch’è più forte di lui."
+        },
+        {
+          "number": 11,
+          "text": "Moltiplicar le parole è moltiplicare la vanità; che pro ne viene all’uomo?"
+        },
+        {
+          "number": 12,
+          "text": "Poiché chi sa ciò ch’è buono per l’uomo nella sua vita, durante tutti i giorni della sua vita vana, ch’egli passa come un’ombra? E chi sa dire all’uomo quel che sarà dopo di lui sotto il sole?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Una buona reputazione val meglio dell’olio odorifero; e il giorno della morte, meglio del giorno della nascita."
+        },
+        {
+          "number": 2,
+          "text": "E’ meglio andare in una casa di duolo, che andare in una casa di convito; poiché là è la fine d’ogni uomo, e colui che vive vi porrà mente."
+        },
+        {
+          "number": 3,
+          "text": "La tristezza val meglio del riso; poiché quando il viso è mesto, il cuore diventa migliore."
+        },
+        {
+          "number": 4,
+          "text": "Il cuore del savio è nella casa del duolo; ma il cuore degli stolti è nella casa della gioia."
+        },
+        {
+          "number": 5,
+          "text": "Meglio vale udire la riprensione del savio, che udire la canzone degli stolti."
+        },
+        {
+          "number": 6,
+          "text": "Poiché qual è lo scoppiettio de’ pruni sotto una pentola, tal è il riso dello stolto. Anche questo è vanità."
+        },
+        {
+          "number": 7,
+          "text": "Certo, l’oppressione rende insensato il savio, e il dono fa perdere il senno."
+        },
+        {
+          "number": 8,
+          "text": "Meglio vale la fine d’una cosa, che il suo principio; e lo spirito paziente val meglio dello spirito altero."
+        },
+        {
+          "number": 9,
+          "text": "Non t’affrettare a irritarti nello spirito tuo, perché l’irritazione riposa in seno agli stolti."
+        },
+        {
+          "number": 10,
+          "text": "Non dire: “Come mai i giorni di prima eran migliori di questi?” poiché non è per sapienza che tu chiederesti questo."
+        },
+        {
+          "number": 11,
+          "text": "La sapienza è buona quanto un’eredità, e anche di più, per quelli che vedono il sole."
+        },
+        {
+          "number": 12,
+          "text": "Poiché la sapienza offre un riparo, come l’offre il danaro; ma l’eccellenza della scienza sta in questo, che la sapienza fa vivere quelli che la possiedono."
+        },
+        {
+          "number": 13,
+          "text": "Considera l’opera di Dio; chi potrà raddrizzare ciò che egli ha ricurvo?"
+        },
+        {
+          "number": 14,
+          "text": "Nel giorno della prosperità godi del bene, e nel giorno dell’avversità rifletti. Dio ha fatto l’uno come l’altro, affinché l’uomo non scopra nulla di ciò che sarà dopo di lui."
+        },
+        {
+          "number": 15,
+          "text": "Io ho veduto tutto questo nei giorni della mia vanità. V’è tal giusto che perisce per la sua giustizia, e v’è tal empio che prolunga la sua vita con la sua malvagità."
+        },
+        {
+          "number": 16,
+          "text": "Non esser troppo giusto, e non ti far savio oltremisura; perché ti distruggeresti?"
+        },
+        {
+          "number": 17,
+          "text": "Non esser troppo empio, né essere stolto; perché morresti tu prima del tempo?"
+        },
+        {
+          "number": 18,
+          "text": "E’ bene che tu t’attenga fermamente a questo, e che tu non ritragga la mano da quello; poiché chi teme Iddio evita tutte queste cose."
+        },
+        {
+          "number": 19,
+          "text": "La sapienza dà al savio più forza che non facciano dieci capi in una città."
+        },
+        {
+          "number": 20,
+          "text": "Certo, non v’è sulla terra alcun uomo giusto che faccia il bene e non pecchi mai."
+        },
+        {
+          "number": 21,
+          "text": "Non porre dunque mente a tutte le parole che si dicono, per non sentirti maledire dal tuo servo;"
+        },
+        {
+          "number": 22,
+          "text": "poiché il tuo cuore sa che sovente anche tu hai maledetto altri."
+        },
+        {
+          "number": 23,
+          "text": "Io ho esaminato tutto questo con sapienza. Ho detto: “Voglio acquistare sapienza”; ma la sapienza è rimasta lungi da me."
+        },
+        {
+          "number": 24,
+          "text": "Una cosa ch’è tanto lontana e tanto profonda chi la potrà trovare?"
+        },
+        {
+          "number": 25,
+          "text": "Io mi sono applicato nel cuor mio a riflettere, a investigare, a cercare la sapienza e la ragion delle cose, e a riconoscere che l’empietà è una follia e la stoltezza una pazzia;"
+        },
+        {
+          "number": 26,
+          "text": "e ho trovato una cosa più amara della morte: la donna ch’è tutta tranelli, il cui cuore non è altro che reti, e le cui mani sono catene; colui ch’è gradito a Dio le sfugge, ma il peccatore riman preso da lei."
+        },
+        {
+          "number": 27,
+          "text": "Ecco, questo ho trovato, dice l’Ecclesiaste, dopo aver esaminato le cose una ad una per afferrarne la ragione;"
+        },
+        {
+          "number": 28,
+          "text": "ecco quello che l’anima mia cerca ancora, senza ch’io l’abbia trovato: un uomo fra mille, l’ho trovato, ma una donna fra tutte, non l’ho trovata."
+        },
+        {
+          "number": 29,
+          "text": "Questo soltanto ho trovato: che Dio ha fatto l’uomo retto, ma gli uomini hanno cercato molti sotterfugi."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chi è come il savio? e chi conosce la spiegazione delle cose? La sapienza d’un uomo gli fa risplendere la faccia, e la durezza del suo volto n’è mutata."
+        },
+        {
+          "number": 2,
+          "text": "Io ti dico: “Osserva gli ordini del re”; e questo, a motivo del giuramento che hai fatto dinanzi a Dio."
+        },
+        {
+          "number": 3,
+          "text": "Non t’affrettare ad allontanarti dalla sua presenza, e non persistere in una cosa cattiva; poich’egli può fare tutto quello che gli piace,"
+        },
+        {
+          "number": 4,
+          "text": "perché la parola del re è potente; e chi gli può dire: “Che fai?”"
+        },
+        {
+          "number": 5,
+          "text": "Chi osserva il comandamento non conosce disgrazia, e il cuore dell’uomo savio sa che v’è un tempo e un giudizio;"
+        },
+        {
+          "number": 6,
+          "text": "perché per ogni cosa v’è un tempo e un giudizio; giacché la malvagità dell’uomo pesa grave addosso a lui."
+        },
+        {
+          "number": 7,
+          "text": "L’uomo, infatti, non sa quel che avverrà; poiché chi gli dirà come andranno le cose?"
+        },
+        {
+          "number": 8,
+          "text": "Non v’è uomo che abbia potere sul vento per poterlo trattenere, o che abbia potere sul giorno della morte; non v’è congedo in tempo di guerra, e l’iniquità non può salvare chi la commette."
+        },
+        {
+          "number": 9,
+          "text": "Io ho veduto tutto questo, ed ho posto mente a tutto quello che si fa sotto il sole, quando l’uomo signoreggia sugli uomini per loro sventura."
+        },
+        {
+          "number": 10,
+          "text": "Ed ho veduto allora degli empi ricever sepoltura ed entrare nel loro riposo, e di quelli che s’eran condotti con rettitudine andarsene lungi dal luogo santo, ed esser dimenticati nella città. Anche questo è vanità."
+        },
+        {
+          "number": 11,
+          "text": "Siccome la sentenza contro una mala azione non si eseguisce prontamente, il cuore dei figliuoli degli uomini è pieno della voglia di fare il male."
+        },
+        {
+          "number": 12,
+          "text": "Quantunque il peccatore faccia cento volte il male e pur prolunghi i suoi giorni, pure io so che il bene è per quelli che temono Dio, che provan timore nel suo cospetto."
+        },
+        {
+          "number": 13,
+          "text": "Ma non v’è bene per l’empio, ed ei non prolungherà i suoi giorni come fa l’ombra che s’allunga; perché non prova timore nel cospetto di Dio."
+        },
+        {
+          "number": 14,
+          "text": "V’è una vanità che avviene sulla terra; ed è che vi son dei giusti i quali son trattati come se avessero fatto l’opera degli empi, e vi son degli empi i quali son trattati come se avessero fatto l’opera de’ giusti. Io ho detto che anche questo è vanità."
+        },
+        {
+          "number": 15,
+          "text": "Così io ho lodata la gioia, perché non v’è per l’uomo altro bene sotto il sole, fuori del mangiare, del bere e del gioire; questo è quello che lo accompagnerà in mezzo al suo lavoro, durante i giorni di vita che Dio gli dà sotto il sole."
+        },
+        {
+          "number": 16,
+          "text": "Quand’io ho applicato il mio cuore a conoscere la sapienza e a considerare le cose che si fanno sulla terra perché gli occhi dell’uomo non godono sonno né giorno né notte,"
+        },
+        {
+          "number": 17,
+          "text": "allora ho mirato tutta l’opera di Dio, e ho veduto che l’uomo è impotente a spiegare quello che si fa sotto il sole; egli ha un bell’affaticarsi a cercarne la spiegazione; non riesce a trovarla; e anche se il savio pretende di saperla, non però può trovarla."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sì, io ho applicato a tutto questo il mio cuore, e ho cercato di chiarirlo: che cioè i giusti e i savi e le loro opere sono nelle mani di Dio; l’uomo non sa neppure se amerà o se odierà; tutto è possibile."
+        },
+        {
+          "number": 2,
+          "text": "Tutto succede ugualmente a tutti; la medesima sorte attende il giusto e l’empio, il buono e puro e l’impuro, chi offre sacrifizi e chi non li offre; tanto è il buono quanto il peccatore, tanto è colui che giura quanto chi teme di giurare."
+        },
+        {
+          "number": 3,
+          "text": "Questo è un male fra tutto quello che si fa sotto il sole: che tutti abbiano una medesima sorte; e così il cuore dei figliuoli degli uomini è pieno di malvagità e hanno la follia nel cuore mentre vivono; poi, se ne vanno ai morti."
+        },
+        {
+          "number": 4,
+          "text": "Per chi è associato a tutti gli altri viventi c’è speranza; perché un cane vivo val meglio d’un leone morto."
+        },
+        {
+          "number": 5,
+          "text": "Difatti, i viventi sanno che morranno; ma i morti non sanno nulla, e non v’è più per essi alcun salario; poiché la loro memoria è dimenticata."
+        },
+        {
+          "number": 6,
+          "text": "E il loro amore come il loro odio e la loro invidia sono da lungo tempo periti, ed essi non hanno più né avranno mai alcuna parte in tutto quello che si fa sotto il sole."
+        },
+        {
+          "number": 7,
+          "text": "Va’, mangia il tuo pane con gioia, e bevi il tuo vino con cuore allegro, perché Dio ha già gradito le tue opere."
+        },
+        {
+          "number": 8,
+          "text": "Siano le tue vesti bianche in ogni tempo, e l’olio non manchi mai sul tuo capo."
+        },
+        {
+          "number": 9,
+          "text": "Godi la vita con la moglie che ami, durante tutti i giorni della vita della tua vanità, che Dio t’ha data sotto il sole per tutto il tempo della tua vanità; poiché questa è la tua parte nella vita, in mezzo a tutta la fatica che duri sotto il sole."
+        },
+        {
+          "number": 10,
+          "text": "Tutto quello che la tua mano trova da fare, fallo con tutte le tue forze; poiché nel soggiorno de’ morti dove vai, non v’è più né lavoro, né pensiero, né scienza, né sapienza."
+        },
+        {
+          "number": 11,
+          "text": "Io mi son rimesso a considerare che sotto il sole, per correre non basta esser agili, né basta per combattere esser valorosi, né esser savi per aver del pane, né essere intelligenti per aver delle ricchezze, né esser abili per ottener favore; poiché tutti dipendono dal tempo e dalle circostanze."
+        },
+        {
+          "number": 12,
+          "text": "Poiché l’uomo non conosce la sua ora; come i pesci che son presi nella rete fatale, e come gli uccelli che son còlti nel laccio, così i figliuoli degli uomini son presi nel laccio al tempo dell’avversità, quando essa piomba su loro improvvisa."
+        },
+        {
+          "number": 13,
+          "text": "Ho visto sotto il sole anche questo esempio di sapienza che m’è parsa grande."
+        },
+        {
+          "number": 14,
+          "text": "C’era una piccola città, con entro pochi uomini; un gran re le marciò contro, la cinse d’assedio, e le costruì contro de’ grandi bastioni."
+        },
+        {
+          "number": 15,
+          "text": "Ora in essa si trovò un uomo povero e savio, che con la sua sapienza salvò la città. Eppure nessuno conservò ricordo di quell’uomo povero."
+        },
+        {
+          "number": 16,
+          "text": "Allora io dissi: “La sapienza val meglio della forza; ma la sapienza del povero è disprezzata, e le sue parole non sono ascoltate”."
+        },
+        {
+          "number": 17,
+          "text": "Le parole de’ savi, udite nella quiete, valgon meglio delle grida di chi domina fra gli stolti."
+        },
+        {
+          "number": 18,
+          "text": "La sapienza val meglio degli strumenti di guerra; ma un solo peccatore distrugge un gran bene."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le mosche morte fanno puzzare e imputridire l’olio del profumiere; un po’ di follia guasta il pregio della sapienza e della gloria."
+        },
+        {
+          "number": 2,
+          "text": "Il savio ha il cuore alla sua destra, ma lo stolto l’ha alla sua sinistra."
+        },
+        {
+          "number": 3,
+          "text": "Anche quando lo stolto va per la via, il senno gli manca e mostra a tutti ch’è uno stolto."
+        },
+        {
+          "number": 4,
+          "text": "Se il sovrano sale in ira contro di te, non lasciare il tuo posto; perché la dolcezza previene grandi peccati."
+        },
+        {
+          "number": 5,
+          "text": "C’è un male che ho veduto sotto il sole, un errore che procede da chi governa:"
+        },
+        {
+          "number": 6,
+          "text": "che, cioè la stoltezza occupa posti altissimi, e i ricchi seggono in luoghi bassi."
+        },
+        {
+          "number": 7,
+          "text": "Ho veduto degli schiavi a cavallo, e de’ principi camminare a piedi come degli schiavi."
+        },
+        {
+          "number": 8,
+          "text": "Chi scava una fossa vi cadrà dentro, e chi demolisce un muro sarà morso dalla serpe."
+        },
+        {
+          "number": 9,
+          "text": "Chi smuove le pietre ne rimarrà contuso, e chi spacca le legna corre un pericolo."
+        },
+        {
+          "number": 10,
+          "text": "Se il ferro perde il taglio e uno non l’arrota, bisogna che raddoppi la forza; ma la sapienza ha il vantaggio di sempre riuscire."
+        },
+        {
+          "number": 11,
+          "text": "Se il serpente morde prima d’essere incantato, l’incantatore diventa inutile."
+        },
+        {
+          "number": 12,
+          "text": "Le parole della bocca del savio son piene di grazia; ma le labbra dello stolto son causa della sua rovina."
+        },
+        {
+          "number": 13,
+          "text": "Il principio delle parole della sua bocca è stoltezza, e la fine del suo dire è malvagia pazzia."
+        },
+        {
+          "number": 14,
+          "text": "Lo stolto moltiplica le parole; eppure l’uomo non sa quel che gli avverrà; e chi gli dirà quel che succederà dopo di lui?"
+        },
+        {
+          "number": 15,
+          "text": "La fatica dello stolto lo stanca, perch’egli non sa neppur la via della città."
+        },
+        {
+          "number": 16,
+          "text": "Guai a te, o paese, il cui re è un fanciullo, e i cui principi mangiano fin dal mattino!"
+        },
+        {
+          "number": 17,
+          "text": "Beato te, o paese, il cui re è di nobile lignaggio, ed i cui principi si mettono a tavola al tempo convenevole, per ristorare le forze e non per ubriacarsi!"
+        },
+        {
+          "number": 18,
+          "text": "Per la pigrizia sprofonda il soffitto; per la rilassatezza delle mani piove in casa."
+        },
+        {
+          "number": 19,
+          "text": "Il convito è fatto per gioire, il vino rende gaia la vita, e il danaro risponde a tutto."
+        },
+        {
+          "number": 20,
+          "text": "Non maledire il re, neppur col pensiero; e non maledire il ricco nella camera ove tu dormi; poiché un uccello del cielo potrebbe spargerne la voce, e un messaggero alato pubblicare la cosa."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Getta il tuo pane sulle acque, perché dopo molto tempo tu lo ritroverai."
+        },
+        {
+          "number": 2,
+          "text": "Fanne parte a sette, ed anche a otto, perché tu non sai che male può avvenire sulla terra."
+        },
+        {
+          "number": 3,
+          "text": "Quando le nuvole son piene di pioggia, la riversano sulla terra; e se un albero cade verso il sud o verso il nord, dove cade, quivi resta."
+        },
+        {
+          "number": 4,
+          "text": "Chi bada al vento non seminerà; chi guarda alle nuvole non mieterà."
+        },
+        {
+          "number": 5,
+          "text": "Come tu non conosci la via del vento, né come si formino le ossa in seno alla donna incinta, così non conosci l’opera di Dio, che fa tutto."
+        },
+        {
+          "number": 6,
+          "text": "Fin dal mattino semina la tua semenza, e la sera non dar posa alle tue mani; poiché tu non sai quale dei due lavori riuscirà meglio: se questo o quello, o se ambedue saranno ugualmente buoni."
+        },
+        {
+          "number": 7,
+          "text": "La luce è dolce, ed è cosa piacevole agli occhi vedere il sole."
+        },
+        {
+          "number": 8,
+          "text": "Se dunque un uomo vive molti anni, si rallegri tutti questi anni, e pensi ai giorni delle tenebre, che saran molti; tutto quello che avverrà è vanità."
+        },
+        {
+          "number": 9,
+          "text": "(H12-1) Rallegrati pure, o giovane, durante la tua adolescenza, e gioisca pure il cuor tuo durante i giorni della tua giovinezza; cammina pure nelle vie dove ti mena il cuore e seguendo gli sguardi degli occhi tuoi; ma sappi che, per tutte queste cose, Iddio ti chiamerà in giudizio!"
+        },
+        {
+          "number": 10,
+          "text": "(H12-2) Bandisci dal tuo cuore la tristezza, e allontana dalla tua carne la sofferenza; poiché la giovinezza e l’aurora sono vanità."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "(H12-3) Ma ricordati del tuo Creatore nei giorni della tua giovinezza, prima che vengano i cattivi giorni e giungano gli anni dei quali dirai: “Io non ci ho più alcun piacere”;"
+        },
+        {
+          "number": 2,
+          "text": "(H12-4) prima che il sole, la luce, la luna e le stelle s’oscurino, e le nuvole tornino dopo la pioggia:"
+        },
+        {
+          "number": 3,
+          "text": "(H12-5) prima dell’età in cui i guardiani della casa tremano, gli uomini forti si curvano, le macinatrici si fermano perché son ridotte a poche, quelli che guardan dalle finestre si oscurano,"
+        },
+        {
+          "number": 4,
+          "text": "(H12-6) e i due battenti della porta si chiudono sulla strada perché diminuisce il rumore della macina; in cui l’uomo si leva al canto dell’uccello, tutte le figlie del canto s’affievoliscono,"
+        },
+        {
+          "number": 5,
+          "text": "(H12-7) in cui uno ha paura delle alture, ha degli spaventi mentre cammina, in cui fiorisce il mandorlo, la locusta si fa pesante, e il cappero non fa più effetto perché l’uomo se ne va alla sua dimora eterna e i piagnoni percorrono le strade;"
+        },
+        {
+          "number": 6,
+          "text": "(H12-8) prima che il cordone d’argento si stacchi, il vaso d’oro si spezzi, la brocca si rompa sulla fonte, la ruota infranta cada nel pozzo;"
+        },
+        {
+          "number": 7,
+          "text": "(H12-9) prima che la polvere torni alla terra com’era prima, e lo spirito torni a Dio che l’ha dato."
+        },
+        {
+          "number": 8,
+          "text": "(H12-10) Vanità delle vanità, dice l’Ecclesiaste, tutto è vanità."
+        },
+        {
+          "number": 9,
+          "text": "(H12-11) L’Ecclesiaste, oltre ad essere un savio, ha anche insegnato al popolo la scienza, e ha ponderato, scrutato e messo in ordine un gran numero di sentenze."
+        },
+        {
+          "number": 10,
+          "text": "(H12-12) L’Ecclesiaste s’è applicato a trovare delle parole gradevoli; esse sono state scritte con dirittura, e sono parole di verità."
+        },
+        {
+          "number": 11,
+          "text": "(H12-13) Le parole dei savi son come degli stimoli, e le collezioni delle sentenze sono come de’ chiodi ben piantati; esse sono date da un solo pastore."
+        },
+        {
+          "number": 12,
+          "text": "(H12-14) Del resto, figliuol mio, sta’ in guardia: si fanno de’ libri in numero infinito; e molto studiare è una fatica per il corpo."
+        },
+        {
+          "number": 13,
+          "text": "(H12-15) Ascoltiamo dunque la conclusione di tutto il discorso: Temi Dio e osserva i suoi comandamenti, perché questo e il tutto dell’uomo."
+        },
+        {
+          "number": 14,
+          "text": "(H12-16) Poiché Dio farà venire in giudizio ogni opera, tutto ciò ch’è occulto, sia bene, sia male."
+        }
+      ]
+    }
+  ]
+}

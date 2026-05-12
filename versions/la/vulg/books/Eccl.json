@@ -1,0 +1,957 @@
+{
+  "version": "vulg",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "verba Ecclesiastes filii David regis Hierusalem"
+        },
+        {
+          "number": 2,
+          "text": "vanitas vanitatum dixit Ecclesiastes vanitas vanitatum omnia vanitas"
+        },
+        {
+          "number": 3,
+          "text": "quid habet amplius homo de universo labore suo quod laborat sub sole"
+        },
+        {
+          "number": 4,
+          "text": "generatio praeterit et generatio advenit terra vero in aeternum stat"
+        },
+        {
+          "number": 5,
+          "text": "oritur sol et occidit et ad locum suum revertitur ibique renascens"
+        },
+        {
+          "number": 6,
+          "text": "gyrat per meridiem et flectitur ad aquilonem lustrans universa circuitu pergit spiritus et in circulos suos regreditur"
+        },
+        {
+          "number": 7,
+          "text": "omnia flumina intrant mare et mare non redundat ad locum unde exeunt flumina revertuntur ut iterum fluant"
+        },
+        {
+          "number": 8,
+          "text": "cunctae res difficiles non potest eas homo explicare sermone non saturatur oculus visu nec auris impletur auditu"
+        },
+        {
+          "number": 9,
+          "text": "quid est quod fuit ipsum quod futurum est quid est quod factum est ipsum quod fiendum est"
+        },
+        {
+          "number": 10,
+          "text": "nihil sub sole novum nec valet quisquam dicere ecce hoc recens est iam enim praecessit in saeculis quae fuerunt ante nos"
+        },
+        {
+          "number": 11,
+          "text": "non est priorum memoria sed nec eorum quidem quae postea futura sunt erit recordatio apud eos qui futuri sunt in novissimo"
+        },
+        {
+          "number": 12,
+          "text": "ego Ecclesiastes fui rex Israhel in Hierusalem"
+        },
+        {
+          "number": 13,
+          "text": "et proposui in animo meo quaerere et investigare sapienter de omnibus quae fiunt sub sole hanc occupationem pessimam dedit Deus filiis hominum ut occuparentur in ea"
+        },
+        {
+          "number": 14,
+          "text": "vidi quae fiunt cuncta sub sole et ecce universa vanitas et adflictio spiritus"
+        },
+        {
+          "number": 15,
+          "text": "perversi difficile corriguntur et stultorum infinitus est numerus"
+        },
+        {
+          "number": 16,
+          "text": "locutus sum in corde meo dicens ecce magnus effectus sum et praecessi sapientia omnes qui fuerunt ante me in Hierusalem et mens mea contemplata est multa sapienter et didicit"
+        },
+        {
+          "number": 17,
+          "text": "dedique cor meum ut scirem prudentiam atque doctrinam erroresque et stultitiam et agnovi quod in his quoque esset labor et adflictio spiritus"
+        },
+        {
+          "number": 18,
+          "text": "eo quod in multa sapientia multa sit indignatio et qui addit scientiam addat et laborem"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "dixi ego in corde meo vadam et affluam deliciis et fruar bonis et vidi quod hoc quoque esset vanitas"
+        },
+        {
+          "number": 2,
+          "text": "risum reputavi errorem et gaudio dixi quid frustra deciperis"
+        },
+        {
+          "number": 3,
+          "text": "cogitavi in corde meo abstrahere a vino carnem meam ut animum meum transferrem ad sapientiam devitaremque stultitiam donec viderem quid esset utile filiis hominum quod facto opus est sub sole numero dierum vitae suae"
+        },
+        {
+          "number": 4,
+          "text": "magnificavi opera mea aedificavi mihi domos plantavi vineas"
+        },
+        {
+          "number": 5,
+          "text": "feci hortos et pomeria et consevi ea cuncti generis arboribus"
+        },
+        {
+          "number": 6,
+          "text": "extruxi mihi piscinas aquarum ut inrigarem silvam lignorum germinantium"
+        },
+        {
+          "number": 7,
+          "text": "possedi servos et ancillas multamque familiam habui armenta quoque et magnos ovium greges ultra omnes qui fuerunt ante me in Hierusalem"
+        },
+        {
+          "number": 8,
+          "text": "coacervavi mihi argentum et aurum et substantias regum ac provinciarum feci mihi cantores et cantrices et delicias filiorum hominum scyphos et urceos in ministerio ad vina fundenda"
+        },
+        {
+          "number": 9,
+          "text": "et supergressus sum opibus omnes qui fuerunt ante me in Hierusalem sapientia quoque perseveravit mecum"
+        },
+        {
+          "number": 10,
+          "text": "et omnia quae desideraverunt oculi mei non negavi eis nec prohibui cor quin omni voluptate frueretur et oblectaret se in his quae paraveram et hanc ratus sum partem meam si uterer labore meo"
+        },
+        {
+          "number": 11,
+          "text": "cumque me convertissem ad universa opera quae fecerant manus meae et ad labores in quibus frustra sudaveram vidi in omnibus vanitatem et adflictionem animi et nihil permanere sub sole"
+        },
+        {
+          "number": 12,
+          "text": "transivi ad contemplandam sapientiam erroresque et stultitiam quid est inquam homo ut sequi possit regem factorem suum"
+        },
+        {
+          "number": 13,
+          "text": "et vidi quia tantum praecederet sapientia stultitiam quantum differt lux tenebris"
+        },
+        {
+          "number": 14,
+          "text": "sapientis oculi in capite eius stultus in tenebris ambulat et didici quod unus utriusque esset interitus"
+        },
+        {
+          "number": 15,
+          "text": "et dixi in corde meo si unus et stulti et meus occasus erit quid mihi prodest quod maiorem sapientiae dedi operam locutusque cum mente mea animadverti quod hoc quoque esset vanitas"
+        },
+        {
+          "number": 16,
+          "text": "non enim erit memoria sapientis similiter ut stulti in perpetuum et futura tempora oblivione cuncta pariter obruent moritur doctus similiter et indoctus"
+        },
+        {
+          "number": 17,
+          "text": "et idcirco taeduit me vitae meae videntem mala esse universa sub sole et cuncta vanitatem atque adflictionem spiritus"
+        },
+        {
+          "number": 18,
+          "text": "rursum detestatus sum omnem industriam meam quae sub sole studiosissime laboravi habiturus heredem post me"
+        },
+        {
+          "number": 19,
+          "text": "quem ignoro utrum sapiens an stultus futurus sit et dominabitur in laboribus meis quibus desudavi et sollicitus fui et est quicquam tam vanum"
+        },
+        {
+          "number": 20,
+          "text": "unde cessavi renuntiavitque cor meum ultra laborare sub sole"
+        },
+        {
+          "number": 21,
+          "text": "nam cum alius laboret in sapientia et doctrina et sollicitudine homini otioso quaesita dimittit et hoc ergo vanitas et magnum malum"
+        },
+        {
+          "number": 22,
+          "text": "quid enim proderit homini de universo labore suo et adflictione spiritus qua sub sole cruciatus est"
+        },
+        {
+          "number": 23,
+          "text": "cuncti dies eius doloribus et aerumnis pleni sunt nec per noctem mente requiescit et haec non vanitas est"
+        },
+        {
+          "number": 24,
+          "text": "nonne melius est comedere et bibere et ostendere animae suae bona de laboribus suis et hoc de manu Dei est"
+        },
+        {
+          "number": 25,
+          "text": "quis ita vorabit et deliciis affluet ut ego"
+        },
+        {
+          "number": 26,
+          "text": "homini bono in conspectu suo dedit Deus sapientiam et scientiam et laetitiam peccatori autem dedit adflictionem et curam superfluam ut addat et congreget et tradat ei qui placuit Deo sed et hoc vanitas et cassa sollicitudo mentis"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "omnia tempus habent et suis spatiis transeunt universa sub caelo"
+        },
+        {
+          "number": 2,
+          "text": "tempus nascendi et tempus moriendi tempus plantandi et tempus evellendi quod plantatum est"
+        },
+        {
+          "number": 3,
+          "text": "tempus occidendi et tempus sanandi tempus destruendi et tempus aedificandi"
+        },
+        {
+          "number": 4,
+          "text": "tempus flendi et tempus ridendi tempus plangendi et tempus saltandi"
+        },
+        {
+          "number": 5,
+          "text": "tempus spargendi lapides et tempus colligendi tempus amplexandi et tempus longe fieri a conplexibus"
+        },
+        {
+          "number": 6,
+          "text": "tempus adquirendi et tempus perdendi tempus custodiendi et tempus abiciendi"
+        },
+        {
+          "number": 7,
+          "text": "tempus scindendi et tempus consuendi tempus tacendi et tempus loquendi"
+        },
+        {
+          "number": 8,
+          "text": "tempus dilectionis et tempus odii tempus belli et tempus pacis"
+        },
+        {
+          "number": 9,
+          "text": "quid habet amplius homo de labore suo"
+        },
+        {
+          "number": 10,
+          "text": "vidi adflictionem quam dedit Deus filiis hominum ut distendantur in ea"
+        },
+        {
+          "number": 11,
+          "text": "cuncta fecit bona in tempore suo et mundum tradidit disputationi eorum ut non inveniat homo opus quod operatus est Deus ab initio usque ad finem"
+        },
+        {
+          "number": 12,
+          "text": "et cognovi quod non esset melius nisi laetari et facere bene in vita sua"
+        },
+        {
+          "number": 13,
+          "text": "omnis enim homo qui comedit et bibit et videt bonum de labore suo hoc donum Dei est"
+        },
+        {
+          "number": 14,
+          "text": "didici quod omnia opera quae fecit Deus perseverent in perpetuum non possumus eis quicquam addere nec auferre quae fecit Deus ut timeatur"
+        },
+        {
+          "number": 15,
+          "text": "quod factum est ipsum permanet quae futura sunt iam fuerunt et Deus instaurat quod abiit"
+        },
+        {
+          "number": 16,
+          "text": "vidi sub sole in loco iudicii impietatem et in loco iustitiae iniquitatem"
+        },
+        {
+          "number": 17,
+          "text": "et dixi in corde meo iustum et impium iudicabit Deus et tempus omni rei tunc erit"
+        },
+        {
+          "number": 18,
+          "text": "dixi in corde meo de filiis hominum ut probaret eos Deus et ostenderet similes esse bestiis"
+        },
+        {
+          "number": 19,
+          "text": "idcirco unus interitus est hominis et iumentorum et aequa utriusque condicio sicut moritur homo sic et illa moriuntur similiter spirant omnia et nihil habet homo iumento amplius cuncta subiacent vanitati"
+        },
+        {
+          "number": 20,
+          "text": "et omnia pergunt ad unum locum de terra facta sunt et in terram pariter revertentur"
+        },
+        {
+          "number": 21,
+          "text": "quis novit si spiritus filiorum Adam ascendat sursum et si spiritus iumentorum descendat deorsum"
+        },
+        {
+          "number": 22,
+          "text": "et deprehendi nihil esse melius quam laetari hominem in opere suo et hanc esse partem illius quis enim eum adducet ut post se futura cognoscat"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "verti me ad alia et vidi calumnias quae sub sole geruntur et lacrimas innocentum et consolatorem neminem nec posse resistere eorum violentiae cunctorum auxilio destitutos"
+        },
+        {
+          "number": 2,
+          "text": "et laudavi magis mortuos quam viventes"
+        },
+        {
+          "number": 3,
+          "text": "et feliciorem utroque iudicavi qui necdum natus est nec vidit mala quae sub sole fiunt"
+        },
+        {
+          "number": 4,
+          "text": "rursum contemplatus omnes labores hominum et industrias animadverti patere invidiae proximi et in hoc ergo vanitas et cura superflua est"
+        },
+        {
+          "number": 5,
+          "text": "stultus conplicat manus suas et comedit carnes suas dicens"
+        },
+        {
+          "number": 6,
+          "text": "melior est pugillus cum requie quam plena utraque manus cum labore et adflictione animi"
+        },
+        {
+          "number": 7,
+          "text": "considerans repperi et aliam vanitatem sub sole"
+        },
+        {
+          "number": 8,
+          "text": "unus est et secundum non habet non filium non fratrem et tamen laborare non cessat nec satiantur oculi eius divitiis nec recogitat dicens cui laboro et fraudo animam meam bonis in hoc quoque vanitas est et adflictio pessima"
+        },
+        {
+          "number": 9,
+          "text": "melius ergo est duos simul esse quam unum habent enim emolumentum societatis suae"
+        },
+        {
+          "number": 10,
+          "text": "si unus ceciderit ab altero fulcietur vae soli quia cum ruerit non habet sublevantem"
+        },
+        {
+          "number": 11,
+          "text": "et si dormierint duo fovebuntur mutuo unus quomodo calefiet"
+        },
+        {
+          "number": 12,
+          "text": "et si quispiam praevaluerit contra unum duo resistent ei funiculus triplex difficile rumpitur"
+        },
+        {
+          "number": 13,
+          "text": "melior est puer pauper et sapiens rege sene et stulto qui nescit providere in posterum"
+        },
+        {
+          "number": 14,
+          "text": "quod et de carcere catenisque interdum quis egrediatur ad regnum et alius natus in regno inopia consumatur"
+        },
+        {
+          "number": 15,
+          "text": "vidi cunctos viventes qui ambulant sub sole cum adulescente secundo qui consurgit pro eo"
+        },
+        {
+          "number": 16,
+          "text": "infinitus numerus est populi omnium qui fuerunt ante eum et qui postea futuri sunt non laetabuntur in eo sed et hoc vanitas et adflictio spiritus"
+        },
+        {
+          "number": 17,
+          "text": "custodi pedem tuum ingrediens domum Dei multo enim melior est oboedientia quam stultorum victimae qui nesciunt quid faciant mali"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ne temere quid loquaris neque cor tuum sit velox ad proferendum sermonem coram Deo Deus enim in caelo et tu super terram idcirco sint pauci sermones tui"
+        },
+        {
+          "number": 2,
+          "text": "multas curas sequuntur somnia et in multis sermonibus invenitur stultitia"
+        },
+        {
+          "number": 3,
+          "text": "si quid vovisti Deo ne moreris reddere displicet enim ei infidelis et stulta promissio sed quodcumque voveris redde"
+        },
+        {
+          "number": 4,
+          "text": "multoque melius est non vovere quam post votum promissa non conplere"
+        },
+        {
+          "number": 5,
+          "text": "ne dederis os tuum ut peccare faciat carnem tuam neque dicas coram angelo non est providentia ne forte iratus Deus super sermone tuo dissipet cuncta opera manuum tuarum"
+        },
+        {
+          "number": 6,
+          "text": "ubi multa sunt somnia plurimae vanitates et sermones innumeri tu vero Deum time"
+        },
+        {
+          "number": 7,
+          "text": "si videris calumnias egenorum et violenta iudicia et subverti iustitiam in provincia non mireris super hoc negotio quia excelso alius excelsior est et super hos quoque eminentiores sunt alii"
+        },
+        {
+          "number": 8,
+          "text": "et insuper universae terrae rex imperat servienti"
+        },
+        {
+          "number": 9,
+          "text": "avarus non implebitur pecunia et qui amat divitias fructus non capiet ex eis et hoc ergo vanitas"
+        },
+        {
+          "number": 10,
+          "text": "ubi multae sunt opes multi et qui comedant eas et quid prodest possessori nisi quod cernit divitias oculis suis"
+        },
+        {
+          "number": 11,
+          "text": "dulcis est somnus operanti sive parum sive multum comedat saturitas autem divitis non sinit dormire eum"
+        },
+        {
+          "number": 12,
+          "text": "est et alia infirmitas pessima quam vidi sub sole divitiae conservatae in malum domini sui"
+        },
+        {
+          "number": 13,
+          "text": "pereunt enim in adflictione pessima generavit filium qui in summa egestate erit"
+        },
+        {
+          "number": 14,
+          "text": "sicut egressus est nudus de utero matris suae sic revertetur et nihil auferet secum de labore suo"
+        },
+        {
+          "number": 15,
+          "text": "miserabilis prorsus infirmitas quomodo venit sic revertetur quid ergo prodest ei quod laboravit in ventum"
+        },
+        {
+          "number": 16,
+          "text": "cunctis diebus vitae suae comedit in tenebris et in curis multis et in aerumna atque tristitia"
+        },
+        {
+          "number": 17,
+          "text": "hoc itaque mihi visum est bonum ut comedat quis et bibat et fruatur laetitia ex labore suo quod laboravit ipse sub sole numerum dierum vitae suae quos dedit ei Deus et haec est pars illius"
+        },
+        {
+          "number": 18,
+          "text": "et omni homini cui dedit Deus divitias atque substantiam potestatemque ei tribuit ut comedat ex eis et fruatur parte sua et laetetur de labore suo hoc est donum Dei"
+        },
+        {
+          "number": 19,
+          "text": "non enim satis recordabitur dierum vitae suae eo quod Deus occupet deliciis cor eius"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "est et aliud malum quod vidi sub sole et quidem frequens apud homines"
+        },
+        {
+          "number": 2,
+          "text": "vir cui dedit Deus divitias et substantiam et honorem et nihil deest animae eius ex omnibus quae desiderat nec tribuit ei potestatem Deus ut comedat ex eo sed homo extraneus vorabit illud hoc vanitas et magna miseria est"
+        },
+        {
+          "number": 3,
+          "text": "si genuerit quispiam centum et vixerit multos annos et plures dies aetatis habuerit et anima illius non utatur bonis substantiae suae sepulturaque careat de hoc ego pronuntio quod melior illo sit abortivus"
+        },
+        {
+          "number": 4,
+          "text": "frustra enim venit et pergit ad tenebras et oblivione delebitur nomen eius"
+        },
+        {
+          "number": 5,
+          "text": "non vidit solem neque cognovit distantiam boni et mali"
+        },
+        {
+          "number": 6,
+          "text": "etiam si duobus milibus annis vixerit et non fuerit perfruitus bonis nonne ad unum locum properant omnia"
+        },
+        {
+          "number": 7,
+          "text": "omnis labor hominis in ore eius sed anima illius non impletur"
+        },
+        {
+          "number": 8,
+          "text": "quid habet amplius sapiens ab stulto et quid pauper nisi ut pergat illuc ubi est vita"
+        },
+        {
+          "number": 9,
+          "text": "melius est videre quod cupias quam desiderare quod nescias sed et hoc vanitas est et praesumptio spiritus"
+        },
+        {
+          "number": 10,
+          "text": "qui futurus est iam vocatum est nomen eius et scitur quod homo sit et non possit contra fortiorem se in iudicio contendere"
+        },
+        {
+          "number": 11,
+          "text": "verba sunt plurima multa in disputando habentia vanitatem"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "quid necesse est homini maiora se quaerere cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suae et tempore quo velut umbra praeterit aut quis ei poterit indicare quid post eum futurum sub sole sit"
+        },
+        {
+          "number": 2,
+          "text": "melius est nomen bonum quam unguenta pretiosa et dies mortis die nativitatis"
+        },
+        {
+          "number": 3,
+          "text": "melius est ire ad domum luctus quam ad domum convivii in illa enim finis cunctorum admonetur hominum et vivens cogitat quid futurum sit"
+        },
+        {
+          "number": 4,
+          "text": "melior est ira risu quia per tristitiam vultus corrigitur animus delinquentis"
+        },
+        {
+          "number": 5,
+          "text": "cor sapientium ubi tristitia est et cor stultorum ubi laetitia"
+        },
+        {
+          "number": 6,
+          "text": "melius est a sapiente corripi quam stultorum adulatione decipi"
+        },
+        {
+          "number": 7,
+          "text": "quia sicut sonitus spinarum ardentium sub olla sic risus stulti sed et hoc vanitas"
+        },
+        {
+          "number": 8,
+          "text": "calumnia conturbat sapientem et perdet robur cordis illius"
+        },
+        {
+          "number": 9,
+          "text": "melior est finis orationis quam principium melior est patiens arrogante"
+        },
+        {
+          "number": 10,
+          "text": "ne velox sis ad irascendum quia ira in sinu stulti requiescit"
+        },
+        {
+          "number": 11,
+          "text": "ne dicas quid putas causae est quod priora tempora meliora fuere quam nunc sunt stulta est enim huiuscemodi interrogatio"
+        },
+        {
+          "number": 12,
+          "text": "utilior est sapientia cum divitiis et magis prodest videntibus solem"
+        },
+        {
+          "number": 13,
+          "text": "sicut enim protegit sapientia sic protegit pecunia hoc autem plus habet eruditio et sapientia quod vitam tribuunt possessori suo"
+        },
+        {
+          "number": 14,
+          "text": "considera opera Dei quod nemo possit corrigere quem ille despexerit"
+        },
+        {
+          "number": 15,
+          "text": "in die bona fruere bonis et malam diem praecave sicut enim hanc sic et illam fecit Deus ut non inveniat homo contra eum iustas querimonias"
+        },
+        {
+          "number": 16,
+          "text": "haec quoque vidi in diebus vanitatis meae iustus perit in iustitia sua et impius multo vivit tempore in malitia sua"
+        },
+        {
+          "number": 17,
+          "text": "noli esse iustus multum neque plus sapias quam necesse est ne obstupescas"
+        },
+        {
+          "number": 18,
+          "text": "ne impie agas multum et noli esse stultus ne moriaris in tempore non tuo"
+        },
+        {
+          "number": 19,
+          "text": "bonum est te sustentare iustum sed et ab illo ne subtrahas manum tuam quia qui Deum timet nihil neglegit"
+        },
+        {
+          "number": 20,
+          "text": "sapientia confortabit sapientem super decem principes civitatis"
+        },
+        {
+          "number": 21,
+          "text": "non est enim homo iustus in terra qui faciat bonum et non peccet"
+        },
+        {
+          "number": 22,
+          "text": "sed et cunctis sermonibus qui dicuntur ne accommodes cor tuum ne forte audias servum tuum maledicentem tibi"
+        },
+        {
+          "number": 23,
+          "text": "scit enim tua conscientia quia et tu crebro maledixisti aliis"
+        },
+        {
+          "number": 24,
+          "text": "cuncta temptavi in sapientia dixi sapiens efficiar et ipsa longius recessit a me"
+        },
+        {
+          "number": 25,
+          "text": "multo magis quam erat et alta profunditas quis inveniet eam"
+        },
+        {
+          "number": 26,
+          "text": "lustravi universa animo meo ut scirem et considerarem et quaererem sapientiam et rationem et ut cognoscerem impietatem stulti et errorem inprudentium"
+        },
+        {
+          "number": 27,
+          "text": "et inveni amariorem morte mulierem quae laqueus venatorum est et sagena cor eius vincula sunt manus illius qui placet Deo effugiet eam qui autem peccator est capietur ab illa"
+        },
+        {
+          "number": 28,
+          "text": "ecce hoc inveni dicit Ecclesiastes unum et alterum ut invenirem rationem"
+        },
+        {
+          "number": 29,
+          "text": "quam adhuc quaerit anima mea et non inveni virum de mille unum repperi mulierem ex omnibus non inveni"
+        },
+        {
+          "number": 30,
+          "text": "solummodo hoc inveni quod fecerit Deus hominem rectum et ipse se infinitis miscuerit quaestionibus quis talis ut sapiens est et quis cognovit solutionem verbi"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "sapientia hominis lucet in vultu eius et potentissimus faciem illius commutavit"
+        },
+        {
+          "number": 2,
+          "text": "ego os regis observo et praecepta iuramenti Dei"
+        },
+        {
+          "number": 3,
+          "text": "ne festines recedere a facie eius neque permaneas in opere malo quia omne quod voluerit faciet"
+        },
+        {
+          "number": 4,
+          "text": "et sermo illius potestate plenus est nec dicere ei quisquam potest quare ita facis"
+        },
+        {
+          "number": 5,
+          "text": "qui custodit praeceptum non experietur quicquam mali tempus et responsionem cor sapientis intellegit"
+        },
+        {
+          "number": 6,
+          "text": "omni negotio tempus est et oportunitas et multa hominis adflictio"
+        },
+        {
+          "number": 7,
+          "text": "quia ignorat praeterita et ventura nullo scire potest nuntio"
+        },
+        {
+          "number": 8,
+          "text": "non est in hominis dicione prohibere spiritum nec habet potestatem in die mortis nec sinitur quiescere ingruente bello neque salvabit impietas impium"
+        },
+        {
+          "number": 9,
+          "text": "omnia haec consideravi et dedi cor meum in cunctis operibus quae fiunt sub sole interdum dominatur homo homini in malum suum"
+        },
+        {
+          "number": 10,
+          "text": "vidi impios sepultos qui etiam cum adviverent in loco sancto erant et laudabantur in civitate quasi iustorum operum sed et hoc vanitas est"
+        },
+        {
+          "number": 11,
+          "text": "etenim quia non profertur cito contra malos sententia absque ullo timore filii hominum perpetrant mala"
+        },
+        {
+          "number": 12,
+          "text": "attamen ex eo quod peccator centies facit malum et per patientiam sustentatur ego cognovi quod erit bonum timentibus Deum qui verentur faciem eius"
+        },
+        {
+          "number": 13,
+          "text": "non sit bonum impio nec prolongentur dies eius sed quasi umbra transeant qui non timent faciem Dei"
+        },
+        {
+          "number": 14,
+          "text": "est et alia vanitas quae fit super terram sunt iusti quibus multa proveniunt quasi opera egerint impiorum et sunt impii qui ita securi sunt quasi iustorum facta habeant sed et hoc vanissimum iudico"
+        },
+        {
+          "number": 15,
+          "text": "laudavi igitur laetitiam quod non esset homini bonum sub sole nisi quod comederet et biberet atque gauderet et hoc solum secum auferret de labore suo in diebus vitae quos dedit ei Deus sub sole"
+        },
+        {
+          "number": 16,
+          "text": "et adposui cor meum ut scirem sapientiam et intellegerem distentionem quae versatur in terra est homo qui diebus ac noctibus somnum oculis non capit"
+        },
+        {
+          "number": 17,
+          "text": "et intellexi quod omnium operum Dei nullam possit homo invenire rationem eorum quae fiunt sub sole et quanto plus laboraverit ad quaerendum tanto minus inveniat etiam si dixerit sapiens se nosse non poterit repperire"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "omnia haec tractavi in corde meo ut curiose intellegerem sunt iusti atque sapientes et opera eorum in manu Dei et tamen nescit homo utrum amore an odio dignus sit"
+        },
+        {
+          "number": 2,
+          "text": "sed omnia in futuro servantur incerta eo quod universa aeque eveniant iusto et impio bono et malo mundo et inmundo immolanti victimas et sacrificia contemnenti sicut bonus sic et peccator ut periurus ita et ille qui verum deierat"
+        },
+        {
+          "number": 3,
+          "text": "hoc est pessimum inter omnia quae sub sole fiunt quia eadem cunctis eveniunt unde et corda filiorum hominum implentur malitia et contemptu in vita sua et post haec ad inferos deducentur"
+        },
+        {
+          "number": 4,
+          "text": "nemo est qui semper vivat et qui huius rei habeat fiduciam melior est canis vivens leone mortuo"
+        },
+        {
+          "number": 5,
+          "text": "viventes enim sciunt se esse morituros mortui vero nihil noverunt amplius nec habent ultra mercedem quia oblivioni tradita est memoria eorum"
+        },
+        {
+          "number": 6,
+          "text": "amor quoque et odium et invidia simul perierunt nec habent partem in hoc saeculo et in opere quod sub sole geritur"
+        },
+        {
+          "number": 7,
+          "text": "vade ergo et comede in laetitia panem tuum et bibe cum gaudio vinum tuum quia Deo placent opera tua"
+        },
+        {
+          "number": 8,
+          "text": "omni tempore sint vestimenta tua candida et oleum de capite tuo non deficiat"
+        },
+        {
+          "number": 9,
+          "text": "perfruere vita cum uxore quam diligis cunctis diebus vitae instabilitatis tuae qui dati sunt tibi sub sole omni tempore vanitatis tuae haec est enim pars in vita et in labore tuo quod laboras sub sole"
+        },
+        {
+          "number": 10,
+          "text": "quodcumque potest manus tua facere instanter operare quia nec opus nec ratio nec scientia nec sapientia erunt apud inferos quo tu properas"
+        },
+        {
+          "number": 11,
+          "text": "verti me alio vidique sub sole nec velocium esse cursum nec fortium bellum nec sapientium panem nec doctorum divitias nec artificum gratiam sed tempus casumque in omnibus"
+        },
+        {
+          "number": 12,
+          "text": "nescit homo finem suum sed sicut pisces capiuntur hamo et sicut aves conprehenduntur laqueo sic capiuntur homines tempore malo cum eis extemplo supervenerit"
+        },
+        {
+          "number": 13,
+          "text": "hanc quoque vidi sub sole sapientiam et probavi maximam"
+        },
+        {
+          "number": 14,
+          "text": "civitas parva et pauci in ea viri venit contra eam rex magnus et vallavit eam extruxitque munitiones per gyrum et perfecta est obsidio"
+        },
+        {
+          "number": 15,
+          "text": "inventusque in ea vir pauper et sapiens liberavit urbem per sapientiam suam et nullus deinceps recordatus est hominis illius pauperis"
+        },
+        {
+          "number": 16,
+          "text": "et dicebam ego meliorem esse sapientiam fortitudine quomodo ergo sapientia pauperis contempta est et verba eius non sunt audita"
+        },
+        {
+          "number": 17,
+          "text": "verba sapientium audiuntur in silentio plus quam clamor principis inter stultos"
+        },
+        {
+          "number": 18,
+          "text": "melior est sapientia quam arma bellica et qui in uno peccaverit multa bona perdet"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "muscae morientes perdunt suavitatem unguenti pretiosior est sapientia et gloria parva ad tempus stultitia"
+        },
+        {
+          "number": 2,
+          "text": "cor sapientis in dextera eius et cor stulti in sinistra illius"
+        },
+        {
+          "number": 3,
+          "text": "sed et in via stultus ambulans cum ipse insipiens sit omnes stultos aestimat"
+        },
+        {
+          "number": 4,
+          "text": "si spiritus potestatem habentis ascenderit super te locum tuum ne dimiseris quia curatio cessare faciet peccata maxima"
+        },
+        {
+          "number": 5,
+          "text": "est malum quod vidi sub sole quasi per errorem egrediens a facie principis"
+        },
+        {
+          "number": 6,
+          "text": "positum stultum in dignitate sublimi et divites sedere deorsum"
+        },
+        {
+          "number": 7,
+          "text": "vidi servos in equis et principes ambulantes quasi servos super terram"
+        },
+        {
+          "number": 8,
+          "text": "qui fodit foveam incidet in eam et qui dissipat sepem mordebit eum coluber"
+        },
+        {
+          "number": 9,
+          "text": "qui transfert lapides adfligetur in eis et qui scindit ligna vulnerabitur ab eis"
+        },
+        {
+          "number": 10,
+          "text": "si retunsum fuerit ferrum et hoc non ut prius sed hebetatum erit multo labore exacuatur et post industriam sequitur sapientia"
+        },
+        {
+          "number": 11,
+          "text": "si mordeat serpens in silentio nihil eo minus habet qui occulte detrahit"
+        },
+        {
+          "number": 12,
+          "text": "verba oris sapientis gratia et labia insipientis praecipitabunt eum"
+        },
+        {
+          "number": 13,
+          "text": "initium verborum eius stultitia et novissimum oris illius error pessimus"
+        },
+        {
+          "number": 14,
+          "text": "stultus verba multiplicat ignorat homo quid ante se fuerit et quod post futurum est quis illi poterit indicare"
+        },
+        {
+          "number": 15,
+          "text": "labor stultorum adfliget eos qui nesciunt in urbem pergere"
+        },
+        {
+          "number": 16,
+          "text": "vae tibi terra cuius rex est puer et cuius principes mane comedunt"
+        },
+        {
+          "number": 17,
+          "text": "beata terra cuius rex nobilis est et cuius principes vescuntur in tempore suo ad reficiendum et non ad luxuriam"
+        },
+        {
+          "number": 18,
+          "text": "in pigritiis humiliabitur contignatio et in infirmitate manuum perstillabit domus"
+        },
+        {
+          "number": 19,
+          "text": "in risu faciunt panem ac vinum ut epulentur viventes et pecuniae oboedient omnia"
+        },
+        {
+          "number": 20,
+          "text": "in cogitatione tua regi ne detrahas et in secreto cubiculi tui ne maledixeris diviti quia avis caeli portabit vocem tuam et qui habet pinnas adnuntiabit sententiam"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "mitte panem tuum super transeuntes aquas quia post multa tempora invenies illum"
+        },
+        {
+          "number": 2,
+          "text": "da partem septem necnon et octo quia ignoras quid futurum sit mali super terram"
+        },
+        {
+          "number": 3,
+          "text": "si repletae fuerint nubes imbrem super terram effundent si ceciderit lignum ad austrum aut ad aquilonem in quocumque loco ceciderit ibi erit"
+        },
+        {
+          "number": 4,
+          "text": "qui observat ventum non seminat et qui considerat nubes numquam metet"
+        },
+        {
+          "number": 5,
+          "text": "quomodo ignoras quae sit via spiritus et qua ratione conpingantur ossa in ventre praegnatis sic nescis opera Dei qui fabricator est omnium"
+        },
+        {
+          "number": 6,
+          "text": "mane semina sementem tuam et vespere ne cesset manus tua quia nescis quid magis oriatur hoc an illud et si utrumque simul melius erit"
+        },
+        {
+          "number": 7,
+          "text": "dulce lumen et delectabile est oculis videre solem"
+        },
+        {
+          "number": 8,
+          "text": "si annis multis vixerit homo et in omnibus his laetatus fuerit meminisse debet tenebrosi temporis et dierum multorum qui cum venerint vanitatis arguentur praeterita"
+        },
+        {
+          "number": 9,
+          "text": "laetare ergo iuvenis in adulescentia tua et in bono sit cor tuum in diebus iuventutis tuae et ambula in viis cordis tui et in intuitu oculorum tuorum et scito quod pro omnibus his adducet te Deus in iudicium"
+        },
+        {
+          "number": 10,
+          "text": "aufer iram a corde tuo et amove malitiam a carne tua adulescentia enim et voluptas vana sunt"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "memento creatoris tui in diebus iuventutis tuae antequam veniat tempus adflictionis et adpropinquent anni de quibus dicas non mihi placent"
+        },
+        {
+          "number": 2,
+          "text": "antequam tenebrescat sol et lumen et luna et stellae et revertantur nubes post pluviam"
+        },
+        {
+          "number": 3,
+          "text": "quando commovebuntur custodes domus et nutabuntur viri fortissimi et otiosae erunt molentes inminuto numero et tenebrescent videntes per foramina"
+        },
+        {
+          "number": 4,
+          "text": "et claudent ostia in platea in humilitate vocis molentis et consurgent ad vocem volucris et obsurdescent omnes filiae carminis"
+        },
+        {
+          "number": 5,
+          "text": "excelsa quoque timebunt et formidabunt in via florebit amigdalum inpinguabitur lucusta et dissipabitur capparis quoniam ibit homo in domum aeternitatis suae et circumibunt in platea plangentes"
+        },
+        {
+          "number": 6,
+          "text": "antequam rumpatur funis argenteus et recurrat vitta aurea et conteratur hydria super fontem et confringatur rota super cisternam"
+        },
+        {
+          "number": 7,
+          "text": "et revertatur pulvis in terram suam unde erat et spiritus redeat ad Deum qui dedit illum"
+        },
+        {
+          "number": 8,
+          "text": "vanitas vanitatum dixit Ecclesiastes omnia vanitas"
+        },
+        {
+          "number": 9,
+          "text": "cumque esset sapientissimus Ecclesiastes docuit populum et enarravit quae fecerit et investigans conposuit parabolas multas"
+        },
+        {
+          "number": 10,
+          "text": "quaesivit verba utilia et conscripsit sermones rectissimos ac veritate plenos"
+        },
+        {
+          "number": 11,
+          "text": "verba sapientium sicut stimuli et quasi clavi in altum defixi quae per magistrorum concilium data sunt a pastore uno"
+        },
+        {
+          "number": 12,
+          "text": "his amplius fili mi ne requiras faciendi plures libros nullus est finis frequensque meditatio carnis adflictio est"
+        },
+        {
+          "number": 13,
+          "text": "finem loquendi omnes pariter audiamus Deum time et mandata eius observa hoc est enim omnis homo"
+        },
+        {
+          "number": 14,
+          "text": "et cuncta quae fiunt adducet Deus in iudicium pro omni errato sive bonum sive malum sit"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "version": "dutch1917",
+  "book": "Lam",
+  "bookId": 25,
+  "englishName": "Lamentations",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Aleph. Hoe zit die stad zo eenzaam, die vol volks was, zij is als een weduwe geworden, zij, die groot was onder de heidenen, een vorstin onder de landschappen, is cijnsbaar geworden."
+        },
+        {
+          "number": 2,
+          "text": "Beth. Zij weent steeds des nachts, en haar tranen lopen over haar kinnebakken; zij heeft geen trooster onder al haar liefhebbers; al haar vrienden hebben trouwelooslijk met haar gehandeld, zij zijn haar tot vijanden geworden."
+        },
+        {
+          "number": 3,
+          "text": "Gimel. Juda is in gevangenis gegaan vanwege de ellende, en vanwege de veelheid der dienstbaarheid; zij woont onder de heidenen, zij vindt geen rust; al haar vervolgers achterhalen ze tussen de engten."
+        },
+        {
+          "number": 4,
+          "text": "Daleth. De wegen Sions treuren, omdat niemand op het feest komt; al haar poorten zijn woest, haar priesters zuchten: haar jonkvrouwen zijn bedroefd, en zij zelve is in bitterheid."
+        },
+        {
+          "number": 5,
+          "text": "He. Haar tegenpartijders zijn ten hoofd geworden, haar vijanden zijn gerust; omdat haar de HEERE bedroefd heeft, vanwege de veelheid harer overtredingen; haar kinderkens gaan henen in de gevangenis voor het aangezicht des tegenpartijders."
+        },
+        {
+          "number": 6,
+          "text": "Vau. En van de dochter Sions is al haar sieraad weggegaan; haar vorsten zijn als de herten, die geen weide vinden, en zij gaan krachteloos henen voor het aangezicht des vervolgers."
+        },
+        {
+          "number": 7,
+          "text": "Zain. Jeruzalem is, in de dagen harer ellende en harer veelvuldige ballingschap, indachtig aan al haar gewenste dingen, die zij van oude dagen af gehad heeft; dewijl haar volk door de hand des tegenpartijders valt, en zij geen helper heeft; de tegenpartijders zien haar aan, zij spotten met haar rustdagen."
+        },
+        {
+          "number": 8,
+          "text": "Cheth. Jeruzalem heeft zwaarlijk gezondigd, daarom is zij als een afgezonderde vrouw geworden; allen, die haar eerden, achten haar onwaard, dewijl zij haar naaktheid gezien hebben; zij zucht ook, en zij is achterwaarts gekeerd."
+        },
+        {
+          "number": 9,
+          "text": "Teth. Haar onreinheid is in haar zomen, zij heeft niet gedacht aan haar uiterste, daarom is zij wonderbaarlijk omlaag gedaald; zij heeft geen trooster. HEERE, zie mijn ellende aan, want de vijand maakt zich groot."
+        },
+        {
+          "number": 10,
+          "text": "Jod. De tegenpartijder heeft zijn hand aan al haar gewenste dingen uitgebreid; immers heeft zij aangezien, dat de heidenen in haar heiligdom gingen, waarvan Gij geboden hadt, dat zij in Uw gemeente niet komen zouden."
+        },
+        {
+          "number": 11,
+          "text": "Caph. Al haar volk zucht, brood zoekende, zij hebben hun gewenste dingen voor spijs gegeven, om de ziel te verkwikken. Zie, HEERE, en aanschouw, dat ik onwaard geworden ben."
+        },
+        {
+          "number": 12,
+          "text": "Lamed. Gaat het ulieden niet aan, gij allen, die over weg gaat? Schouwt het aan en ziet, of er een smart zij gelijk mijn smart, die mij aangedaan is, waarmede de HEERE mij bedroefd heeft ten dage der hittigheid Zijns toorns."
+        },
+        {
+          "number": 13,
+          "text": "Mem. Van de hoogte heeft Hij een vuur in mijn beenderen gezonden, waarover Hij geheerst heeft; Hij heeft voor mijn voeten een net uitgebreid, Hij heeft mij achterwaarts doen keren, Hij heeft mij woest en ziek gemaakt den gansen dag."
+        },
+        {
+          "number": 14,
+          "text": "Nun. Het juk mijner overtredingen is aangebonden door Zijn hand, zij zijn samengevlochten, zij zijn op mijn hals geklommen; Hij heeft mijn kracht doen vervallen; de HEERE heeft mij in hun handen gegeven, ik kan niet opstaan."
+        },
+        {
+          "number": 15,
+          "text": "Samech. De Heere heeft al mijn sterken in het midden van mij vertreden; Hij heeft een bijeenkomst over mij uitgeroepen, om mijn jongelingen te verbreken; de Heere heeft de wijnpers der jonkvrouw, der dochter van Juda, aangetreden."
+        },
+        {
+          "number": 16,
+          "text": "Ain. Om dezer dingen wille ween ik; mijn oog, mijn oog vliet af van water, omdat de trooster, die mijn ziel zou verkwikken, verre van mij is; mijn kinderen zijn verwoest, omdat de vijand de overhand heeft."
+        },
+        {
+          "number": 17,
+          "text": "Pe. Sion breidt haar handen uit, daar is geen trooster voor haar; de HEERE heeft van Jakob geboden, dat die rondom hem zijn, zijn tegenpartijders zouden zijn; Jeruzalem is als een afgezonderde vrouw onder hen."
+        },
+        {
+          "number": 18,
+          "text": "Tsade. De HEERE is rechtvaardig, want ik ben Zijn mond wederspannig geweest; hoort toch, alle gij volken, en ziet mijn smart; mijn jonkvrouwen en mijn jongelingen zijn in de gevangenis gegaan."
+        },
+        {
+          "number": 19,
+          "text": "Koph. Ik riep tot mijn liefhebbers, maar zij hebben mij bedrogen; mijn priesters en mijn oudsten hebben in de stad den geest gegeven, als zij spijze voor zich zochten, opdat zij hun ziel mochten verkwikken."
+        },
+        {
+          "number": 20,
+          "text": "Resch. Aanzie, HEERE, want mij is bange; mijn ingewand is beroerd, mijn hart heeft zich omgekeerd in het binnenste van mij, want ik ben zeer wederspannig geweest; van buiten heeft mij het zwaard van kinderen beroofd, van binnen is als de dood."
+        },
+        {
+          "number": 21,
+          "text": "Schin. Zij horen, dat ik zucht, maar ik heb geen trooster; al mijn vijanden horen mijn kwaad; en zij zijn vrolijk, dat Gij het gedaan hebt; als Gij den dag zult voortgebracht hebben, dien Gij uitgeroepen hebt, zo zullen zij zijn, gelijk ik ben."
+        },
+        {
+          "number": 22,
+          "text": "Thau. Laat al hun kwaad voor Uw aangezicht komen, en doe hun, gelijk als Gij mij gedaan hebt vanwege al mijn overtredingen; want mijn zuchtingen zijn vele, en mijn hart is mat."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Aleph. Hoe heeft de Heere de dochter Sions in Zijn toorn bewolkt? Hij heeft de heerlijkheid van Israel van den hemel op de aarde nedergeworpen; en Hij heeft aan de voetbank Zijner voeten niet gedacht in den dag Zijns toorns."
+        },
+        {
+          "number": 2,
+          "text": "Beth. De Heere heeft al de woningen Jakobs verslonden, en heeft ze niet verschoond; Hij heeft de vastigheden der dochter van Juda afgebroken in Zijn verbolgenheid, Hij heeft gemaakt, dat zij de aarde raken; Hij heeft het koninkrijk en deszelfs vorsten ontheiligd."
+        },
+        {
+          "number": 3,
+          "text": "Gimel. Hij heeft, in ontsteking des toorns, den gehelen hoorn Israels afgehouwen; Hij heeft Zijn rechterhand achterwaarts getrokken, toen de vijand kwam, en Hij is tegen Jakob ontstoken als een vlammend vuur, dat rondom verteert."
+        },
+        {
+          "number": 4,
+          "text": "Daleth. Hij heeft Zijn boog gespannen als een vijand; Hij heeft zich met Zijn rechterhand gesteld als een tegenpartijder, dat Hij doodde al de begeerlijke dingen der ogen; Hij heeft Zijn grimmigheid in de tent der dochter Sions uitgestort als een vuur."
+        },
+        {
+          "number": 5,
+          "text": "He. De Heere is geworden als een vijand; Hij heeft Israel verslonden, Hij heeft al haar paleizen verslonden. Hij heeft deszelfs vastigheden verdorven; en Hij heeft bij de dochter van Juda het klagen en kermen vermenigvuldigd."
+        },
+        {
+          "number": 6,
+          "text": "Vau. En Hij heeft Zijn hut met geweld afgerukt, als een hof, Hij heeft Zijn vergaderplaats verdorven; de HEERE heeft in Sion doen vergeten den hoogtijd en den sabbat, en Hij heeft in de gramschap Zijns toorns den koning en den priester smadelijk verworpen."
+        },
+        {
+          "number": 7,
+          "text": "Zain. De Heere heeft Zijn altaar verstoten. Hij heeft Zijn heiligdom te niet gedaan, Hij heeft de muren harer paleizen in des vijands hand overgegeven; zij hebben in het huis des HEEREN een stem verheven als op den dag eens gezetten hoogtijds."
+        },
+        {
+          "number": 8,
+          "text": "Cheth. De HEERE heeft gedacht te verderven den muur der dochter Sions; Hij heeft het richtsnoer daarover getogen, Hij heeft Zijn hand niet afgewend, dat Hij ze niet verslonde; en Hij heeft den voormuur en den muur te zamen treurig gemaakt, zij zijn verzwakt."
+        },
+        {
+          "number": 9,
+          "text": "Teth. Haar poorten zijn in de aarde verzonken; Hij heeft haar grendelen verdorven en gebroken; haar koning en haar vorsten zijn onder de heidenen; er is geen wet; haar profeten vinden ook geen gezicht van den HEERE."
+        },
+        {
+          "number": 10,
+          "text": "Jod. De oudsten der dochter Sions zitten op de aarde, zij zwijgen stil, zij werpen stof op hun hoofd, zij hebben zakken aangegord; de jonge dochters van Jeruzalem laten haar hoofd ter aarde hangen."
+        },
+        {
+          "number": 11,
+          "text": "Caph. Mijn ogen zijn verteerd door tranen, mijn ingewand wordt beroerd; mijn lever is ter aarde uitgeschud, vanwege de breuk der dochter mijns volks; omdat het kind en de zuigeling op de straten der stad in onmacht zinken;"
+        },
+        {
+          "number": 12,
+          "text": "Lamed. Als zij tot hun moeders zeggen: Waar is koren en wijn, als zij op de straten der stad in onmacht zinken, als de verslagenen; als zich hun ziel uitschudt in den schoot hunner moeders."
+        },
+        {
+          "number": 13,
+          "text": "Mem. Wat getuigen zal ik u brengen, wat zal ik bij u vergelijken, gij dochter Jeruzalems? Wat zal ik bij u vergelijken, dat ik u trooste, gij jonkvrouw, dochter Sions, want uw breuk is zo groot als de zee, wie kan u helen?"
+        },
+        {
+          "number": 14,
+          "text": "Nun. Uw profeten hebben u ijdelheid en ongerijmdheid gezien, en zij hebben u uw ongerechtigheid niet geopenbaard, om uw gevangenis af te wenden, maar zij hebben voor u gezien ijdele lasten en uitstotingen."
+        },
+        {
+          "number": 15,
+          "text": "Samech. Allen, die over weg gaan, klappen met de handen over u, zij fluiten en schudden hun hoofd over de dochter Jeruzalems, zeggende: Is dit die stad, waar men van zeide, dat zij volkomen van schoonheid was, een vreugde der ganse aarde?"
+        },
+        {
+          "number": 16,
+          "text": "Pe. Al uw vijanden sperren hun mond op over u, zij fluiten en knersen met de tanden, zij zeggen: Wij hebben haar verslonden; dit is immers de dag, dien wij verwacht hebben, wij hebben hem gevonden, wij hebben hem gezien."
+        },
+        {
+          "number": 17,
+          "text": "Ain. De HEERE heeft gedaan, wat Hij gedacht had, Hij heeft Zijn woord vervuld, dat Hij bevolen had van oude dagen; Hij heeft afgebroken en niet gespaard; en Hij heeft den vijand over u verblijd, Hij heeft den hoorn uwer tegenpartijders verhoogd."
+        },
+        {
+          "number": 18,
+          "text": "Tsade. Hun hart schreeuwde tot den Heere: O gij muur der dochter Sions, laat dag en nacht tranen afvlieten als een beek; geef uzelve geen rust, uw oogappel houde niet op!"
+        },
+        {
+          "number": 19,
+          "text": "Koph. Maak u op, maak geschrei des nachts in het begin der nachtwaken, stort uw hart uit voor het aangezicht des Heeren als water; hef uw handen tot Hem op voor de ziel uwer kinderkens, die in onmacht gevallen zijn van honger, vooraan op alle straten."
+        },
+        {
+          "number": 20,
+          "text": "Resch. Zie, HEERE, aanschouw toch, aan wien Gij alzo gedaan hebt; zullen dan de vrouwen haar vrucht eten, de kinderkens, die men op de handen draagt? Zullen dan de profeet en de priester in het heiligdom des HEEREN gedood worden?"
+        },
+        {
+          "number": 21,
+          "text": "Schin. De jongen en de ouden liggen op de aarde op de straten; mijn jonkvrouwen en mijn jongelingen zijn door het zwaard gevallen; Gij hebt ze in den dag Uws toorns gedood, Gij hebt ze geslacht en niet verschoond."
+        },
+        {
+          "number": 22,
+          "text": "Thau. Gij hebt mijn verschrikkingen van rondom geroepen, als tot een dag eens gezetten hoogtijds; en er is niemand aan den dag des toorns des HEEREN ontkomen of overgebleven; die ik op de handen gedragen en opgetogen heb, die heeft mijn vijand omgebracht."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Aleph. Ik ben de man, die ellende gezien heeft door de roede Zijner verbolgenheid."
+        },
+        {
+          "number": 2,
+          "text": "Aleph. Hij heeft mij geleid en gevoerd in de duisternis, en niet in het licht."
+        },
+        {
+          "number": 3,
+          "text": "Aleph. Hij heeft Zich immers tegen mij gewend, Hij heeft Zijn hand den gansen dag veranderd."
+        },
+        {
+          "number": 4,
+          "text": "Beth. Hij heeft mijn vlees en mijn huid oud gemaakt, Hij heeft mijn beenderen gebroken."
+        },
+        {
+          "number": 5,
+          "text": "Beth. Hij heeft tegen mij gebouwd, en Hij heeft mij met galle en moeite omringd."
+        },
+        {
+          "number": 6,
+          "text": "Beth. Hij heeft mij gezet in duistere plaatsen, als degenen, die over lang dood zijn."
+        },
+        {
+          "number": 7,
+          "text": "Gimel. Hij heeft mij toegemuurd, dat ik er niet uit gaan kan; Hij heeft mijn koperen boeien verzwaard."
+        },
+        {
+          "number": 8,
+          "text": "Gimel. Ook wanneer ik roep en schreeuw, sluit Hij de oren voor mijn gebed."
+        },
+        {
+          "number": 9,
+          "text": "Gimel. Hij heeft mij wegen toegemuurd met uitgehouwen stenen, Hij heeft mijn paden verkeerd."
+        },
+        {
+          "number": 10,
+          "text": "Daleth. Hij is mij een loerende beer, een leeuw in verborgen plaatsen."
+        },
+        {
+          "number": 11,
+          "text": "Daleth. Hij heeft mijn wegen afgewend; en Hij heeft mij in stukken gebroken; Hij heeft mij woest gemaakt."
+        },
+        {
+          "number": 12,
+          "text": "Daleth. Hij heeft Zijn boog gespannen, en Hij heeft mij den pijl als ten doel gesteld."
+        },
+        {
+          "number": 13,
+          "text": "He. Hij heeft Zijn pijlen in mijn nieren doen ingaan."
+        },
+        {
+          "number": 14,
+          "text": "He. Ik ben al mijn volk tot belaching geworden, hun snarenspel den gansen dag."
+        },
+        {
+          "number": 15,
+          "text": "He. Hij heeft mij met bitterheden verzadigd, Hij heeft mij met alsem dronken gemaakt."
+        },
+        {
+          "number": 16,
+          "text": "Vau. Hij heeft mijn tanden met zandsteentjes verbrijzeld, Hij heeft mij in de as nedergedrukt."
+        },
+        {
+          "number": 17,
+          "text": "Vau. En Gij hebt mijn ziel verre van den vrede verstoten, ik heb het goede vergeten."
+        },
+        {
+          "number": 18,
+          "text": "Vau. Toen zeide ik: Mijn sterkte is vergaan, en mijn hoop van den HEERE."
+        },
+        {
+          "number": 19,
+          "text": "Zain. Gedenk aan mijn ellende en aan mijn ballingschap, aan den alsem en galle."
+        },
+        {
+          "number": 20,
+          "text": "Zain. Mijn ziel gedenkt er wel terdege aan, en zij bukt zich neder in mij."
+        },
+        {
+          "number": 21,
+          "text": "Zain. Dit zal ik mij ter harte nemen, daarom zal ik hopen;"
+        },
+        {
+          "number": 22,
+          "text": "Cheth. Het zijn de goedertierenheden des HEEREN, dat wij niet vernield zijn, dat Zijn barmhartigheden geen einde hebben;"
+        },
+        {
+          "number": 23,
+          "text": "Cheth. Zij zijn allen morgen nieuw, Uw trouw is groot."
+        },
+        {
+          "number": 24,
+          "text": "Cheth. De HEERE is mijn Deel, zegt mijn ziel, daarom zal ik op Hem hopen."
+        },
+        {
+          "number": 25,
+          "text": "Teth. De HEERE is goed dengenen, die Hem verwachten, der ziele, die Hem zoekt."
+        },
+        {
+          "number": 26,
+          "text": "Teth. Het is goed, dat men hope, en stille zij op het heil des HEEREN."
+        },
+        {
+          "number": 27,
+          "text": "Teth. Het is goed voor een man, dat hij het juk in zijn jeugd draagt."
+        },
+        {
+          "number": 28,
+          "text": "Jod. Hij zitte eenzaam, en zwijge stil, omdat Hij het hem opgelegd heeft."
+        },
+        {
+          "number": 29,
+          "text": "Jod. Hij steke zijn mond in het stof, zeggende: Misschien is er verwachting."
+        },
+        {
+          "number": 30,
+          "text": "Jod. Hij geve zijn wang dien, die hem slaat, hij worde zat van smaad."
+        },
+        {
+          "number": 31,
+          "text": "Caph. Want de Heere zal niet verstoten in eeuwigheid."
+        },
+        {
+          "number": 32,
+          "text": "Caph. Maar als Hij bedroefd heeft, zo zal Hij Zich ontfermen, naar de grootheid Zijner goedertierenheden."
+        },
+        {
+          "number": 33,
+          "text": "Caph. Want Hij plaagt of bedroeft des mensen kinderen niet van harte."
+        },
+        {
+          "number": 34,
+          "text": "Lamed. Dat men al de gevangenen der aarde onder Zijn voeten verbrijzelt;"
+        },
+        {
+          "number": 35,
+          "text": "Lamed. Dat men het recht eens mans buigt voor het aangezicht des Allerhoogsten;"
+        },
+        {
+          "number": 36,
+          "text": "Lamed. Dat men een mens verongelijkt in zijn twistzaak; zou het de Heere niet zien?"
+        },
+        {
+          "number": 37,
+          "text": "Mem. Wie zegt wat, hetwelk geschiedt, zo het de Heere niet beveelt?"
+        },
+        {
+          "number": 38,
+          "text": "Mem. Gaat niet uit den mond des Allerhoogsten het kwade en het goede?"
+        },
+        {
+          "number": 39,
+          "text": "Mem. Wat klaagt dan een levend mens? Een ieder klage vanwege zijn zonden."
+        },
+        {
+          "number": 40,
+          "text": "Nun. Laat ons onze wegen onderzoeken en doorzoeken, en laat ons wederkeren tot den HEERE."
+        },
+        {
+          "number": 41,
+          "text": "Nun. Laat ons onze harten opheffen, mitsgaders de handen, tot God in den hemel, zeggende:"
+        },
+        {
+          "number": 42,
+          "text": "Nun. Wij hebben overtreden, en wij zijn wederspannig geweest, daarom hebt Gij niet gespaard."
+        },
+        {
+          "number": 43,
+          "text": "Samech. Gij hebt ons met toorn bedekt, en Gij hebt ons vervolgd; Gij hebt ons gedood. Gij hebt niet verschoond."
+        },
+        {
+          "number": 44,
+          "text": "Samech. Gij hebt U met een wolk bedekt, zodat er geen gebed doorkwam."
+        },
+        {
+          "number": 45,
+          "text": "Samech. Gij hebt ons tot een uitvaagsel en wegwerpsel gesteld, in het midden der volken."
+        },
+        {
+          "number": 46,
+          "text": "Pe. Al onze vijanden hebben hun mond tegen ons opgesperd."
+        },
+        {
+          "number": 47,
+          "text": "Pe. De vreze en de kuil zijn over ons gekomen, de verwoesting en de verbreking."
+        },
+        {
+          "number": 48,
+          "text": "Pe. Met waterbeken loopt mijn oog neder, vanwege de breuk der dochter mijns volks."
+        },
+        {
+          "number": 49,
+          "text": "Ain. Mijn oog vliet, en kan niet ophouden, omdat er geen rust is;"
+        },
+        {
+          "number": 50,
+          "text": "Ain. Totdat het de HEERE van den hemel aanschouwe, en het zie."
+        },
+        {
+          "number": 51,
+          "text": "Ain. Mijn oog doet mijn ziele moeite aan, vanwege al de dochteren mijner stad."
+        },
+        {
+          "number": 52,
+          "text": "Tsade. Die mijn vijanden zijn zonder oorzaak, hebben mij als een vogeltje dapperlijk gejaagd."
+        },
+        {
+          "number": 53,
+          "text": "Tsade. Zij hebben mijn leven in een kuil uitgeroeid, en zij hebben een steen op mij geworpen."
+        },
+        {
+          "number": 54,
+          "text": "Tsade. De wateren zwommen over mijn hoofd; ik zeide: Ik ben afgesneden!"
+        },
+        {
+          "number": 55,
+          "text": "Koph. HEERE! Ik heb Uw Naam aangeroepen uit den ondersten kuil."
+        },
+        {
+          "number": 56,
+          "text": "Koph. Gij hebt mijn stem gehoord, verberg Uw oor niet voor mijn zuchten, voor mijn roepen."
+        },
+        {
+          "number": 57,
+          "text": "Koph. Gij hebt U genaderd ten dage, als ik U aanriep; Gij hebt gezegd: Vrees niet!"
+        },
+        {
+          "number": 58,
+          "text": "Resch. HEERE! Gij hebt de twistzaken mijner ziel getwist, Gij hebt mijn leven verlost."
+        },
+        {
+          "number": 59,
+          "text": "Resch. HEERE! Gij hebt gezien de verkeerdheid, die men mij aangedaan heeft, oordeel mijn rechtzaak."
+        },
+        {
+          "number": 60,
+          "text": "Resch. Gij hebt al hun wraak gezien, al hun gedachten tegen mij."
+        },
+        {
+          "number": 61,
+          "text": "Schin. HEERE! Gij hebt hun smaden gehoord, en al hun gedachten tegen mij;"
+        },
+        {
+          "number": 62,
+          "text": "Schin. De lippen dergenen, die tegen mij opstaan, en hun dichten tegen mij den gansen dag."
+        },
+        {
+          "number": 63,
+          "text": "Schin. Aanschouw hun zitten en opstaan; ik ben hun snarenspel."
+        },
+        {
+          "number": 64,
+          "text": "Thau. HEERE! geef hun weder die vergelding, naar het werk hunner handen."
+        },
+        {
+          "number": 65,
+          "text": "Thau. Geef hun een deksel des harten; Uw vloek zij over hen!"
+        },
+        {
+          "number": 66,
+          "text": "Thau. Vervolg ze met toorn, en verdelg ze van onder den hemel des HEEREN."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Aleph. Hoe is het goud zo verdonkerd, het goede fijne goud zo veranderd! Hoe zijn de stenen des heiligdoms vooraan op alle straten verworpen!"
+        },
+        {
+          "number": 2,
+          "text": "Beth. De kostelijke kinderen Sions, tegen fijn goud geschat, hoe zijn zij nu gelijk gerekend aan de aarden flessen, het werk van de handen eens pottenbakkers!"
+        },
+        {
+          "number": 3,
+          "text": "Gimel. Zelfs laten de zeekalveren de borsten neder, zij zogen hun welpen; maar de dochter mijns volks is als een wrede geworden, gelijk de struisen in de woestijn."
+        },
+        {
+          "number": 4,
+          "text": "Daleth. De tong van het zoogkind kleeft aan zijn gehemelte van dorst; de kinderkens eisen brood, er is niemand, die het hun mededeelt."
+        },
+        {
+          "number": 5,
+          "text": "He. Die lekkernijen aten, versmachten nu op de straten; die in karmozijn opgetrokken zijn, omhelzen den drek."
+        },
+        {
+          "number": 6,
+          "text": "Vau. En de ongerechtigheid der dochter mijns volks is groter dan de zonden van Sodom, dat als in een ogenblik omgekeerd werd, en geen handen hadden arbeid over haar."
+        },
+        {
+          "number": 7,
+          "text": "Zain. Haar bijzondersten waren reiner dan de sneeuw, zij waren witter dan melk; zij waren roder van lichaam dan robijnen, gladder dan een saffier."
+        },
+        {
+          "number": 8,
+          "text": "Cheth. Maar nu is hun gedaante verduisterd van zwartigheid, men kent hen niet op de straten; hun huid kleeft aan hun beenderen, zij is verdord, zij is geworden als een hout."
+        },
+        {
+          "number": 9,
+          "text": "Teth. De verslagenen van het zwaard zijn gelukkiger dan de verslagenen van den honger; want die vlieten daarhenen, als doorstoken zijnde, omdat er geen vruchten der velden zijn."
+        },
+        {
+          "number": 10,
+          "text": "Jod. De handen der barmhartige vrouwen hebben haar kinderen gekookt; zij zijn haar tot spijze geworden in de verbreking der dochter mijns volks."
+        },
+        {
+          "number": 11,
+          "text": "Caph. De HEERE heeft Zijn grimmigheid volbracht, Hij heeft de hittigheid Zijns toorns uitgestort; en Hij heeft te Sion een vuur aangestoken, hetwelk haar fondamenten verteerd heeft."
+        },
+        {
+          "number": 12,
+          "text": "Lamed. De koningen der aarde zouden het niet geloofd hebben, noch al de inwoners der wereld, dat de tegenpartijder en vijand tot de poorten van Jeruzalem zou ingaan."
+        },
+        {
+          "number": 13,
+          "text": "Mem. Het is vanwege de zonden harer profeten, en de misdaden harer priesteren, die in het midden van haar het bloed der rechtvaardigen vergoten hebben."
+        },
+        {
+          "number": 14,
+          "text": "Nun. Zij zwierven als blinden op de straten, zij waren met bloed besmet, zodat men niet kon zien, of men raakte hun klederen aan."
+        },
+        {
+          "number": 15,
+          "text": "Samech. Zij riepen tot hen: Wijkt, hier is een onreine, wijkt, wijkt, roert niet aan! Zekerlijk, zij zijn weggevlogen, ja, weggezworven; zij zeiden onder de heidenen: Zij zullen er niet langer wonen."
+        },
+        {
+          "number": 16,
+          "text": "Pe. Des HEEREN aangezicht heeft ze verdeeld. Hij zal ze voortaan niet meer aanzien; zij hebben het aangezicht der priesteren niet geeerd, zij hebben den ouden geen genade bewezen."
+        },
+        {
+          "number": 17,
+          "text": "Ain. Nog bezweken ons onze ogen, ziende naar onze ijdele hulp; wij gaapten met ons gapen op een volk, dat niet kon verlossen."
+        },
+        {
+          "number": 18,
+          "text": "Tsade. Zij hebben onze gangen nagespeurd, dat wij op onze straten niet gaan konden; ons einde is genaderd, onze dagen zijn vervuld, ja, ons einde is gekomen."
+        },
+        {
+          "number": 19,
+          "text": "Koph. Onze vervolgers zijn sneller geweest dan de arenden des hemels; zij hebben ons op de bergen hittiglijk vervolgd, in de woestijn hebben zij ons lagen gelegd."
+        },
+        {
+          "number": 20,
+          "text": "Resch. De adem onzer neuzen, de gezalfde des HEEREN, is gevangen in hun groeven; van welken wij zeiden: Wij zullen onder zijn schaduw leven onder de heidenen!"
+        },
+        {
+          "number": 21,
+          "text": "Schin. Wees vrolijk, en verblijd u, gij dochter Edoms, die in het land Uz woont! doch de beker zal ook tot u komen, gij zult dronken worden, en ontbloot worden."
+        },
+        {
+          "number": 22,
+          "text": "Thau. Uw ongerechtigheid heeft een einde, o gij dochter Sions! Hij zal u niet meer gevankelijk doen wegvoeren; maar uw ongerechtigheid, o gij dochter Edoms! zal Hij bezoeken; Hij zal uw zonden ontdekken."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Gedenk, HEERE, wat ons geschied is, aanschouw het, en zie onzen smaad aan."
+        },
+        {
+          "number": 2,
+          "text": "Ons erfdeel is tot de vreemdelingen gewend, onze huizen tot de uitlanders."
+        },
+        {
+          "number": 3,
+          "text": "Wij zijn wezen zonder vader, onze moeders zijn als de weduwen."
+        },
+        {
+          "number": 4,
+          "text": "Ons water moeten wij voor geld drinken; ons hout komt ons op prijs te staan."
+        },
+        {
+          "number": 5,
+          "text": "Wij lijden vervolging op onze halzen; zijn wij woede, men laat ons geen rust."
+        },
+        {
+          "number": 6,
+          "text": "Wij hebben den Egyptenaar de hand gegeven, en den Assyrier, om met brood verzadigd te worden."
+        },
+        {
+          "number": 7,
+          "text": "Onze vaders hebben gezondigd, en zijn niet meer, en wij dragen hun ongerechtigheden."
+        },
+        {
+          "number": 8,
+          "text": "Knechten heersen over ons; er is niemand, die ons uit hun hand rukke."
+        },
+        {
+          "number": 9,
+          "text": "Wij moeten ons brood met gevaar onzes levens halen, vanwege het zwaard der woestijn."
+        },
+        {
+          "number": 10,
+          "text": "Onze huid is zwart geworden gelijk een oven, vanwege den geweldigen storm des hongers."
+        },
+        {
+          "number": 11,
+          "text": "Zij hebben de vrouwen te Sion verkracht, en de jonge dochters in de steden van Juda."
+        },
+        {
+          "number": 12,
+          "text": "De vorsten zijn door hunlieder hand opgehangen; de aangezichten der ouden zijn niet geeerd geweest."
+        },
+        {
+          "number": 13,
+          "text": "Zij hebben de jongelingen weggenomen, om te malen, en de jongens struikelen onder het hout."
+        },
+        {
+          "number": 14,
+          "text": "De ouden houden op van de poort, de jongelingen van hun snarenspel."
+        },
+        {
+          "number": 15,
+          "text": "De vreugde onzes harten houdt op, onze rei is in treurigheid veranderd."
+        },
+        {
+          "number": 16,
+          "text": "De kroon onzes hoofds is afgevallen; o wee nu onzer, dat wij zo gezondigd hebben!"
+        },
+        {
+          "number": 17,
+          "text": "Daarom is ons hart mat, om deze dingen zijn onze ogen duister geworden."
+        },
+        {
+          "number": 18,
+          "text": "Om des bergs Sions wil, die verwoest is, waar de vossen op lopen."
+        },
+        {
+          "number": 19,
+          "text": "Gij, o HEERE, zit in eeuwigheid, Uw troon is van geslacht tot geslacht."
+        },
+        {
+          "number": 20,
+          "text": "Waarom zoudt Gij ons steeds vergeten? Waarom zoudt Gij ons zo langen tijd verlaten?"
+        },
+        {
+          "number": 21,
+          "text": "HEERE, bekeer ons tot U, zo zullen wij bekeerd zijn; vernieuw onze dagen als van ouds."
+        },
+        {
+          "number": 22,
+          "text": "Want zoudt Gij ons ganselijk verwerpen? Zoudt Gij zozeer tegen ons verbolgen zijn?"
+        }
+      ]
+    }
+  ]
+}

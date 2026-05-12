@@ -1,0 +1,18 @@
+{
+  "slug": "kar",
+  "shortName": "KAR",
+  "name": "Károli Biblia",
+  "language": "hu",
+  "year": 1908,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Károli Gáspár translation, 1908 revision).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31126
+  },
+  "readerUrl": "https://midvash.com/kar",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

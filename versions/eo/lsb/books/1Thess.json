@@ -1,0 +1,390 @@
+{
+  "version": "lsb",
+  "book": "1Thess",
+  "bookId": 52,
+  "englishName": "1 Thessalonians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paŭlo kaj Silvano kaj Timoteo al la eklezio de la Tesalonikanoj en Dio, la Patro, kaj la Sinjoro Jesuo Kristo: Graco al vi kaj paco."
+        },
+        {
+          "number": 2,
+          "text": "Ni ĉiam dankas Dion pri vi ĉiuj, memorigante pri vi en niaj preĝoj;"
+        },
+        {
+          "number": 3,
+          "text": "memorante senĉese vian laboron de fido kaj penadon de amo kaj paciencon de espero al nia Sinjoro Jesuo Kristo, antaŭ nia Dio kaj Patro;"
+        },
+        {
+          "number": 4,
+          "text": "sciante, fratoj, amataj de Dio, vian elekton,"
+        },
+        {
+          "number": 5,
+          "text": "ĉar nia evangelio venis al vi ne nur parole, sed ankaŭ kun potenco kaj kun la Sankta Spirito kaj plena certigo; vi scias, kiaj homoj ni ĉe vi montriĝis pro vi."
+        },
+        {
+          "number": 6,
+          "text": "Kaj vi fariĝis imitantoj de ni kaj de la Sinjoro, ricevinte la vorton en multe da aflikto, kun ĝojo de la Sankta Spirito;"
+        },
+        {
+          "number": 7,
+          "text": "tiel, ke vi fariĝis modelo por ĉiuj kredantoj en Makedonujo kaj en la Aĥaja lando."
+        },
+        {
+          "number": 8,
+          "text": "Ĉar de vi la vorto de la Sinjoro estas diseĥita ne nur en Makedonujo kaj la Aĥaja lando, sed en ĉiu loko via fido al Dio disvastiĝis, tiel, ke ni ne bezonas diri ion."
+        },
+        {
+          "number": 9,
+          "text": "Ĉar ili mem pri ni rakontas, kian alvenon ni havis ĉe vi; kaj kiel vi vin turnis al Dio for de idoloj, por servi vivantan kaj veran Dion,"
+        },
+        {
+          "number": 10,
+          "text": "kaj atendi Lian Filon el la ĉielo, la Filon, kiun Li levis el la mortintoj, Jesuon, kiu nin savas de la estonta kolerego."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ĉar vi mem scias, fratoj, ke nia alveno al vi ne montriĝis senfrukta;"
+        },
+        {
+          "number": 2,
+          "text": "sed suferinte kaj insultite en Filipi, kiel vi scias, ni kuraĝiĝis en nia Dio prediki al vi la evangelion de Dio meze de granda konflikto."
+        },
+        {
+          "number": 3,
+          "text": "Ĉar nia instruado ne devenis de eraro, nek de malpureco, kaj ĝi ne estas kun ruzo;"
+        },
+        {
+          "number": 4,
+          "text": "sed kiel Dio nin aprobis, por konfidi al ni la evangelion, tiel ni parolas, por plaĉi ne al homoj, sed al Dio, kiu esploras niajn korojn."
+        },
+        {
+          "number": 5,
+          "text": "Ĉar, kiel vi scias, ni neniam troviĝis kun vortoj flataj, nek kun avideca preteksto (Dio estas atestanto),"
+        },
+        {
+          "number": 6,
+          "text": "nek celante homan gloron ĉe vi aŭ ĉe iu alia, kvankam ni povis esti al vi ŝarĝaj, kiel apostoloj de Kristo."
+        },
+        {
+          "number": 7,
+          "text": "Sed ni estis mildaj inter vi, kiel vartistino, fleganta siajn proprajn infanojn;"
+        },
+        {
+          "number": 8,
+          "text": "tiel same ni, sentante por vi koran inklinon, volonte tiam dividus kun vi, ne nur la evangelion de Dio, sed ankaŭ niajn proprajn animojn, ĉar vi fariĝis por ni tre karaj."
+        },
+        {
+          "number": 9,
+          "text": "Ĉar vi memoras, fratoj, nian penadon kaj laboregon: nokte kaj tage laborante, por ke ni ne fariĝu ŝarĝo por iu el vi, ni predikadis al vi la evangelion de Dio."
+        },
+        {
+          "number": 10,
+          "text": "Vi estas atestantoj, kaj Dio ankaŭ, kiel sankte kaj juste kaj senkulpe ni kondutis ĉe vi kredantoj;"
+        },
+        {
+          "number": 11,
+          "text": "kiel vi scias, ke por ĉiu el vi ni estis kiel patro ĉe siaj infanoj, vin admonante kaj kuraĝigante, kaj petegante,"
+        },
+        {
+          "number": 12,
+          "text": "ke vi iradu inde je Dio, kiu vin vokas en Sian regnon kaj gloron."
+        },
+        {
+          "number": 13,
+          "text": "Pro ĉi tio ankaŭ ni senĉese dankas Dion, ke ricevinte per nia parolo la vorton de Dio, vi akceptis ne la homan vorton, sed, kiel ĝi vere estas, la Dian vorton, kiu ankaŭ energias en vi, kiuj kredas."
+        },
+        {
+          "number": 14,
+          "text": "Ĉar vi, fratoj, fariĝis imitantoj de la eklezioj de Dio en Kristo Jesuo, kiuj estas en Judujo; ĉar tiajn samajn suferojn vi ankaŭ spertis ĉe viaj samlandanoj, kiajn tiuj ĉe la Judoj,"
+        },
+        {
+          "number": 15,
+          "text": "kiuj mortigis la Sinjoron Jesuo kaj la profetojn, kaj nin elpelis, kaj ne plaĉas al Dio, kaj estas kontraŭuloj al ĉiuj homoj;"
+        },
+        {
+          "number": 16,
+          "text": "ili malhelpis al ni prediki al la nacianoj, por ke ili saviĝu, por kompletigi ĉiam la sumon de siaj pekoj; kaj sur ilin venis la kolero ĝis ekstrema mezuro."
+        },
+        {
+          "number": 17,
+          "text": "Sed, fratoj, ni, senigite je vi dum kelka tempo, persone, ne kore, des pli fervore klopodis vidi vian vizaĝon kun multa sopiro;"
+        },
+        {
+          "number": 18,
+          "text": "ĉar ni deziris veni al vi; mi, Paŭlo, tion deziris pli ol unufoje; sed malhelpis nin Satano."
+        },
+        {
+          "number": 19,
+          "text": "Ĉar kio estas nia espero, aŭ ĝojo, aŭ krono de singratulado? Ĉu ĝi ja ne estas vi, antaŭ nia Sinjoro Jesuo Kristo ĉe lia alveno?"
+        },
+        {
+          "number": 20,
+          "text": "Ĉar vi estas nia gloro kaj nia ĝojo."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kiam do ni jam ne povis resti trankvilaj, ni decidis esti lasitaj solaj en Ateno;"
+        },
+        {
+          "number": 2,
+          "text": "kaj ni sendis Timoteon, nian fraton kaj servanton de Dio en la evangelio de Kristo, por firmigi vin kaj konsoli vin pri via fido,"
+        },
+        {
+          "number": 3,
+          "text": "por ke neniu estu ŝancelita de tiuj afliktoj; ĉar vi mem scias, ke ili apartenas al nia sorto."
+        },
+        {
+          "number": 4,
+          "text": "Ĉar kiam ni estis ĉe vi, ni antaŭdiris al vi, ke ni nepre suferos; kaj tio efektive okazis, kiel vi ja scias."
+        },
+        {
+          "number": 5,
+          "text": "Pro tio mi ankaŭ, kiam mi jam ne povis resti trankvila, sendis, por ke mi certiĝu pri via fido, pro timo, ke eble la tentanto vin tentis kaj ke nia laboro fariĝos senutila."
+        },
+        {
+          "number": 6,
+          "text": "Sed kiam Timoteo, ĵus veninte al ni de vi, donis al ni bonajn sciigojn pri via fido kaj via amo, kaj ke vi ĉiam memoras nin bonkore, sopirante vidi nin, kiel ni ankaŭ vin,"
+        },
+        {
+          "number": 7,
+          "text": "pro tio ni konsoliĝis, fratoj, pri vi, en ĉia nia malĝojo kaj aflikto, per via fido;"
+        },
+        {
+          "number": 8,
+          "text": "ĉar nun ni vivas, se vi staras firme en la Sinjoro."
+        },
+        {
+          "number": 9,
+          "text": "Ĉar kian dankon ni povas repagi al Dio pri vi, pro la tuta ĝojo, per kiu ni ĝojas pro vi antaŭ Dio;"
+        },
+        {
+          "number": 10,
+          "text": "nokte kaj tage preĝante fervore, ke ni povu vidi vian vizaĝon kaj perfektigi la mankojn de via fido?"
+        },
+        {
+          "number": 11,
+          "text": "Nia Dio kaj Patro mem kaj nia Sinjoro Jesuo direktu nian vojon al vi;"
+        },
+        {
+          "number": 12,
+          "text": "kaj la Sinjoro pligrandigu kaj abundigu ĉe vi la amon de unu al la alia kaj al ĉiuj, kiel ni amas vin;"
+        },
+        {
+          "number": 13,
+          "text": "por ke li faru viajn korojn senkulpaj kaj sanktaj antaŭ nia Dio kaj Patro, ĉe la alveno de nia Sinjoro Jesuo kun ĉiuj liaj sanktuloj."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fine do, fratoj, ni petegas kaj admonas vin en la Sinjoro Jesuo, ke kiamaniere vi lernis de ni, kiel vi devus iradi kaj plaĉi al Dio (kaj vi ja tiel iradas), tiamaniere vi pli kaj pli abunde agu."
+        },
+        {
+          "number": 2,
+          "text": "Ĉar vi scias, kian admonon ni donis al vi en la Sinjoro Jesuo."
+        },
+        {
+          "number": 3,
+          "text": "Ĉar jen estas la volo de Dio, via sanktiĝo, ke vi vin detenu de malĉasteco;"
+        },
+        {
+          "number": 4,
+          "text": "ke ĉiu el vi sciu preni al si sian propran aĵon en sankteco kaj honoro,"
+        },
+        {
+          "number": 5,
+          "text": "ne en la pasio de volupto, kiel la nacianoj, kiuj ne konas Dion;"
+        },
+        {
+          "number": 6,
+          "text": "ke neniu peku kaj trompu sian fraton en ĉi tio; ĉar la Eternulo estas venĝanto en ĉio tio, kiel ankaŭ ni antaŭavertis vin kaj atestis."
+        },
+        {
+          "number": 7,
+          "text": "Ĉar Dio nin vokis ne por malpureco, sed por sanktiĝo."
+        },
+        {
+          "number": 8,
+          "text": "Tiu do, kiu malakceptas, malakceptas ne homon, sed Dion, kiu donas al vi Sian Sanktan Spiriton."
+        },
+        {
+          "number": 9,
+          "text": "Sed pri amo al la frataro, vi ne bezonas, ke oni skribu al vi, ĉar vi mem estas instruitaj de Dio ami unu la alian;"
+        },
+        {
+          "number": 10,
+          "text": "ĉar vi ja tion faras al ĉiuj fratoj, kiuj estas en la tuta Makedonujo. Sed ni admonas vin, fratoj, ke vi amu pli kaj pli abunde,"
+        },
+        {
+          "number": 11,
+          "text": "kaj ke vi celu esti kvietaj, kaj fari viajn proprajn aferojn, kaj labori per viaj manoj, ĝuste kiel ni al vi ordonis;"
+        },
+        {
+          "number": 12,
+          "text": "por ke vi iradu konvene antaŭ tiuj, kiuj estas ekstere, kaj por ke nenio al vi manku."
+        },
+        {
+          "number": 13,
+          "text": "Sed ni ne volas, fratoj, ke vi ne sciu pri tiuj, kiuj endormiĝis; por ke vi ne malĝoju, kiel la ceteraj, kiuj havas nenian esperon."
+        },
+        {
+          "number": 14,
+          "text": "Ĉar se ni kredas, ke Jesuo mortis kaj releviĝis, tiel ankaŭ tiujn, kiuj endormiĝis en Jesuo, Dio venigos kun li."
+        },
+        {
+          "number": 15,
+          "text": "Ĉar ni diras al vi per la vorto de la Sinjoro, ke ni, kiuj estos vivaj, restantaj ĝis la alveno de la Sinjoro, tute ne havos lokon antaŭ la endormiĝintoj."
+        },
+        {
+          "number": 16,
+          "text": "Ĉar la Sinjoro mem malsupreniros de la ĉielo, kun signalkrio, kun la voĉo de la ĉefanĝelo, kaj kun la trumpeto de Dio; kaj la mortintoj en Kristo leviĝos la unuaj;"
+        },
+        {
+          "number": 17,
+          "text": "poste ni, kiuj vivas, ankoraŭ restantaj, estos kune kun ili suprenkaptitaj en la nubojn, por renkonti la Sinjoron en la aero; kaj tiel ni estos por ĉiam kun la Sinjoro."
+        },
+        {
+          "number": 18,
+          "text": "Tial per tiuj vortoj konsolu unu la alian."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sed pri la tempoj kaj okazoj, fratoj, vi ne bezonas, ke oni skribu al vi."
+        },
+        {
+          "number": 2,
+          "text": "Ĉar vi mem tute bone scias, ke la tago de la Sinjoro venas, kiel ŝtelisto en la nokto."
+        },
+        {
+          "number": 3,
+          "text": "Dum oni diras: Paco kaj sendanĝereco, tiam subita detruo venas sur ilin, kiel naskodoloro al gravedulino, kaj ili tute ne forsaviĝos."
+        },
+        {
+          "number": 4,
+          "text": "Sed vi, fratoj, ne estas en mallumo tiel, ke tiu tago vin trafus kiel ŝtelisto;"
+        },
+        {
+          "number": 5,
+          "text": "ĉar vi ĉiuj estas filoj de lumo kaj filoj de la tago; ni ne estas el la nokto, nek el mallumo;"
+        },
+        {
+          "number": 6,
+          "text": "tial ni ne dormu, kiel la ceteraj, sed ni viglu kaj estu sobraj."
+        },
+        {
+          "number": 7,
+          "text": "Ĉar kiuj dormas, tiuj dormas en la nokto; kaj kiuj ebriiĝas, tiuj ebriiĝas en la nokto."
+        },
+        {
+          "number": 8,
+          "text": "Sed ĉar ni estas el la tago, ni estu sobraj, surmetante la kirason de fido kaj amo, kaj, kiel kaskon, la esperon de savo."
+        },
+        {
+          "number": 9,
+          "text": "Ĉar Dio nin destinis ne al kolero, sed al la ricevo de savado per nia Sinjoro Jesuo Kristo,"
+        },
+        {
+          "number": 10,
+          "text": "kiu mortis por ni, por ke ni vivu kune kun li, ĉu ni maldormos aŭ dormos."
+        },
+        {
+          "number": 11,
+          "text": "Tial admonu vin reciproke kaj edifu unu la alian, kiel ankaŭ vi jam faradas."
+        },
+        {
+          "number": 12,
+          "text": "Sed ni petegas vin, fratoj, koni tiujn, kiuj laboras ĉe vi kaj estras ĉe vi en la Sinjoro kaj vin admonas,"
+        },
+        {
+          "number": 13,
+          "text": "kaj estimi ilin treege kun amo pro ilia laboro. Estu pacemaj unu kun la alia."
+        },
+        {
+          "number": 14,
+          "text": "Kaj ni petas vin, fratoj, admonu la senordulojn, kuraĝigu la nebravulojn, subtenu la malfortulojn, estu paciencaj kontraŭ ĉiuj."
+        },
+        {
+          "number": 15,
+          "text": "Zorgu, ke neniu redonu al iu malbonon por malbono; sed ĉiam sekvu tion, kio estas bona, unu por alia kaj por ĉiuj."
+        },
+        {
+          "number": 16,
+          "text": "Ĝoju ĉiam;"
+        },
+        {
+          "number": 17,
+          "text": "preĝu senĉese;"
+        },
+        {
+          "number": 18,
+          "text": "pri ĉio donu dankon; ĉar tia estas la volo de Dio en Kristo Jesuo pri vi."
+        },
+        {
+          "number": 19,
+          "text": "Ne estingu la Spiriton;"
+        },
+        {
+          "number": 20,
+          "text": "ne malestimu profetaĵojn;"
+        },
+        {
+          "number": 21,
+          "text": "elprovu ĉion; tenu firme tion, kio estas bona;"
+        },
+        {
+          "number": 22,
+          "text": "detenu vin de ĉia formo de malbono."
+        },
+        {
+          "number": 23,
+          "text": "Kaj la Dio de paco vin sanktigu tute; kaj via spirito kaj animo kaj korpo estu plene konservitaj sen kulpo, ĉe la alveno de nia Sinjoro Jesuo Kristo."
+        },
+        {
+          "number": 24,
+          "text": "Fidela estas Tiu, kiu vin vokas, kiu ankaŭ faros."
+        },
+        {
+          "number": 25,
+          "text": "Fratoj, preĝu por ni."
+        },
+        {
+          "number": 26,
+          "text": "Salutu ĉiujn fratojn per sankta kiso."
+        },
+        {
+          "number": 27,
+          "text": "Mi solene petegas vin per la Sinjoro, ke oni legu ĉi tiun epistolon antaŭ la tuta frataro."
+        },
+        {
+          "number": 28,
+          "text": "La graco de nia Sinjoro Jesuo Kristo estu kun vi."
+        }
+      ]
+    }
+  ]
+}

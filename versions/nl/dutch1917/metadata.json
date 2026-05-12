@@ -1,0 +1,18 @@
+{
+  "slug": "dutch1917",
+  "shortName": "NL1917",
+  "name": "De Heilige Schrift 1917",
+  "language": "nl",
+  "year": 1917,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Petrus Canisiusvertaling / Statenvertaling lineage, 1917).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/dutch1917",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

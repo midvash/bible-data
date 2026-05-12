@@ -1,0 +1,957 @@
+{
+  "version": "lsb",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vortoj de la Predikanto, filo de David, reĝo en Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "Vantaĵo de vantaĵoj, diris la Predikanto; vantaĵo de vantaĵoj, ĉio estas vantaĵo."
+        },
+        {
+          "number": 3,
+          "text": "Kian profiton havas la homo de ĉiuj siaj laboroj, kiujn li laboras sub la suno?"
+        },
+        {
+          "number": 4,
+          "text": "Generacio foriras kaj generacio venas, kaj la tero restas eterne."
+        },
+        {
+          "number": 5,
+          "text": "Leviĝas la suno kaj subiras la suno, kaj al sia loko ĝi rapidas, kaj tie ĝi leviĝas."
+        },
+        {
+          "number": 6,
+          "text": "Iras al sudo kaj reiras al nordo, turniĝas, turniĝas en sia irado la vento, kaj al siaj rondoj revenas la vento."
+        },
+        {
+          "number": 7,
+          "text": "Ĉiuj riveroj iras al la maro, sed la maro ne pleniĝas; al la loko, al kiu la riveroj alfluas, ili alfluas ĉiam denove."
+        },
+        {
+          "number": 8,
+          "text": "Ĉiuj aferoj estas lacigaj, ne povas homo tion eldiri; ne satiĝas la okulo de vidado, kaj ne pleniĝas la orelo de aŭdado."
+        },
+        {
+          "number": 9,
+          "text": "Kio estis, tio estos; kaj kio estis farata, tio estos farata; kaj ekzistas nenio nova sub la suno."
+        },
+        {
+          "number": 10,
+          "text": "Ekzistas io, pri kio oni diras: Vidu, ĉi tio estas nova; sed ĝi estis jam en la eterna tempo, kiu estis antaŭ ni."
+        },
+        {
+          "number": 11,
+          "text": "Ne restis memoro pri la antaŭuloj; kaj ankaŭ pri la posteuloj, kiuj estos, ne restos memoro ĉe tiuj, kiuj estos poste."
+        },
+        {
+          "number": 12,
+          "text": "Mi, Predikanto, estis reĝo super Izrael en Jerusalem."
+        },
+        {
+          "number": 13,
+          "text": "Kaj mi decidis en mia koro esplori kaj ekzameni per la saĝo ĉion, kio fariĝas sub la ĉielo: ĉi tiun malfacilan okupon Dio donis al la homidoj, por ke ili turmentiĝu per ĝi."
+        },
+        {
+          "number": 14,
+          "text": "Mi vidis ĉiujn aferojn, kiuj fariĝas sub la suno; kaj jen, ĉio estas vantaĵo kaj entreprenoj ventaj."
+        },
+        {
+          "number": 15,
+          "text": "Kurbigitan oni ne povas rerektigi, kaj mankantan oni ne povas kalkuli."
+        },
+        {
+          "number": 16,
+          "text": "Mi meditis kun mia koro tiele: Jen mi kreskigis kaj multigis en mi sciencon pli ol ĉiuj, kiuj estis antaŭ mi en Jerusalem; kaj mia koro penetris multon da saĝo kaj scio."
+        },
+        {
+          "number": 17,
+          "text": "Sed kiam mi dediĉis mian koron, por ekkoni la saĝecon kaj ekkoni la malsaĝecon kaj sensencecon, mi eksciis, ke ankaŭ ĉi tio estas ventaĵo."
+        },
+        {
+          "number": 18,
+          "text": "Ĉar ĉe multe da saĝeco estas multe da zorgemeco; kaj, kiu plimultigas siajn sciojn, tiu plimultigas siajn dolorojn."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mi diris en mia koro: Lasu, mi elprovos vin per ĝojo, kaj vi ĝuu bonon; sed jen ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 2,
+          "text": "Pri la rido mi diris: Ĝi estas sensencaĵo! kaj pri la ĝojo: Kion ĝi havigas?"
+        },
+        {
+          "number": 3,
+          "text": "Mi serĉis en mia koro, kiel plezurigi mian korpon per vino, kaj, dum mia koro min gvidas per saĝeco, sekvi ankaŭ malsaĝecon, ĝis mi ekvidos, kio estas bona por la homidoj, kion ili povus fari sub la ĉielo en la kalkulitaj tagoj de sia vivo."
+        },
+        {
+          "number": 4,
+          "text": "Mi entreprenis grandajn farojn: mi konstruis al mi domojn, mi plantis al mi vinberejojn;"
+        },
+        {
+          "number": 5,
+          "text": "mi aranĝis al mi ĝardenojn kaj arbaretojn, kaj plantis en ili ĉiafruktajn arbojn;"
+        },
+        {
+          "number": 6,
+          "text": "mi aranĝis al mi akvujojn, por akvumi el ili arbaretojn, kiuj kreskigas arbojn;"
+        },
+        {
+          "number": 7,
+          "text": "mi akiris al mi sklavojn kaj sklavinojn, kaj domanojn mi havis; ankaŭ da bruto granda kaj malgranda mi havis pli multe, ol ĉiuj, kiuj estis antaŭ mi en Jerusalem;"
+        },
+        {
+          "number": 8,
+          "text": "mi kolektis al mi ankaŭ arĝenton kaj oron, kaj juvelojn de reĝoj kaj landoj; mi havigis al mi kantistojn kaj kantistinojn, kaj plezurojn de homidoj, kaj multajn amantinojn."
+        },
+        {
+          "number": 9,
+          "text": "Kaj mi pligrandigis kaj plimultigis ĉion pli ol ĉiuj, kiuj estis antaŭ mi en Jerusalem, kaj mia saĝeco restis kun mi."
+        },
+        {
+          "number": 10,
+          "text": "Kaj ĉion, kion postulis miaj okuloj, mi ne rifuzis al ili; mi fortenis mian koron de nenia ĝojo, ĉar mia koro ĝojis pri ĉiuj miaj laboroj; kaj ĉi tio estis mia rekompenco por ĉiuj miaj laboroj."
+        },
+        {
+          "number": 11,
+          "text": "Kaj mi ekrigardis ĉiujn farojn, kiujn faris miaj manoj, kaj ĉiujn laborojn, kiujn mi plenumis, por fari ilin: kaj jen, ĉio estas vantaĵo kaj ventaĵo, kaj nenia profito estas de ili sub la suno."
+        },
+        {
+          "number": 12,
+          "text": "Kaj mi turnis min, por rigardi saĝecon kaj malsaĝecon kaj sensencecon; ĉar kion povas fari homo, venonta post reĝo, en komparo kun tio, kion tiu jam antaŭ longe faris?"
+        },
+        {
+          "number": 13,
+          "text": "Kaj mi vidis, ke havas superecon la saĝeco antaŭ la malsaĝeco, kiel havas superecon lumo antaŭ mallumo."
+        },
+        {
+          "number": 14,
+          "text": "La saĝulo havas siajn okulojn en la kapo, kaj la malsaĝulo iras en mallumo; sed mi ankaŭ eksciis, ke unu sorto atingas ilin ĉiujn."
+        },
+        {
+          "number": 15,
+          "text": "Kaj mi diris en mia koro: Ankaŭ min atingos tia sama sorto, kiel la malsaĝulon; por kio do mi estis pli saĝa? Kaj mi diris en mia koro, ke ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 16,
+          "text": "Ĉar pri la saĝulo ne restos memoro eterne tiel same, kiel pri la malsaĝulo; en la tempoj estontaj ĉio estos forgesita. Kaj ho ve, mortas saĝulo egale kiel malsaĝulo!"
+        },
+        {
+          "number": 17,
+          "text": "Kaj mi ekmalamis la vivon; ĉar abomenindaj estas por mi la faroj, kiuj fariĝas sub la suno, ĉar ĉio estas vantaĵo kaj ventaĵo."
+        },
+        {
+          "number": 18,
+          "text": "Kaj mi ekmalamis ĉiun laboron, kiun mi laboris sub la suno; ĉar mi devos lasi ĝin al homo, kiu estos post mi."
+        },
+        {
+          "number": 19,
+          "text": "Kaj kiu scias, ĉu estos saĝa aŭ malsaĝa tiu, kiu ekposedos mian tutan laboron, pri kiu mi penis kaj streĉis mian saĝon sub la suno? Ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 20,
+          "text": "Kaj mi decidis, ke mia koro atendu nenion de la tuta laboro, kiun mi laboris sub la suno."
+        },
+        {
+          "number": 21,
+          "text": "Ĉar ofte oni vidas homon, kiu laboras en saĝo, scienco, kaj talento, kaj li devas fordoni sian akiron al homo, kiu ne laboris por ĝi; ĉi tio ankaŭ estas vantaĵo kaj granda malbono."
+        },
+        {
+          "number": 22,
+          "text": "Kaj kio restas al la homo de lia tuta laborado kaj de la zorgoj de lia koro, kion li laboras sub la suno?"
+        },
+        {
+          "number": 23,
+          "text": "Ĉar ĉiuj liaj tagoj estas suferoj, kaj liaj okupoj estas maltrankvileco; eĉ en la nokto ne trankviliĝas lia koro; ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 24,
+          "text": "Ne ekzistas alia bono por la homo, krom manĝi kaj trinki kaj igi sian animon ĝui plezuron de lia laborado; ankaŭ pri ĉi tio mi vidis, ke ĝi estas de la mano de Dio."
+        },
+        {
+          "number": 25,
+          "text": "Ĉar kiu povas manĝi, kaj kiu povas ĝui, sen Li?"
+        },
+        {
+          "number": 26,
+          "text": "Ĉar al homo, kiu agas bone antaŭ Li, Li donas saĝon kaj scion kaj ĝojon, kaj al la pekulo Li donas la zorgemecon amasigi kaj kolekti, por poste transdoni al tiu, kiu agas bone antaŭ Dio; kaj ĉi tio estas vantaĵo kaj ventaĵo."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Por ĉio estas sezono, kaj tempo difinita estas por ĉiu afero sub la suno;"
+        },
+        {
+          "number": 2,
+          "text": "estas tempo por naskiĝi, kaj tempo por morti; estas tempo por planti, kaj tempo por elŝiri la plantitaĵon;"
+        },
+        {
+          "number": 3,
+          "text": "estas tempo por mortigi, kaj tempo por kuraci; estas tempo por detrui, kaj tempo por konstrui;"
+        },
+        {
+          "number": 4,
+          "text": "estas tempo por plori, kaj tempo por ridi; estas tempo por ĝemi, kaj tempo por danci;"
+        },
+        {
+          "number": 5,
+          "text": "estas tempo por disĵeti ŝtonojn, kaj tempo por kolekti ŝtonojn; estas tempo por ĉirkaŭbraki, kaj tempo por foriri de ĉirkaŭbrakado;"
+        },
+        {
+          "number": 6,
+          "text": "estas tempo por serĉi, kaj tempo por perdi; estas tempo por konservi, kaj tempo por forĵeti;"
+        },
+        {
+          "number": 7,
+          "text": "estas tempo por disŝiri, kaj tempo por kunkudri; estas tempo por silenti, kaj tempo por paroli;"
+        },
+        {
+          "number": 8,
+          "text": "estas tempo por ami, kaj tempo por malami; estas tempo por milito, kaj tempo por paco."
+        },
+        {
+          "number": 9,
+          "text": "Kian profiton havas faranto de tio, kion li laboras?"
+        },
+        {
+          "number": 10,
+          "text": "Mi vidis la penemecon, kiun Dio donis al la homidoj, por ke ili turmentiĝu per ĝi."
+        },
+        {
+          "number": 11,
+          "text": "Ĉion Li kreis bela ĝiatempe; kaj scion pri la mondo Li enmetis en ilian koron, sed tiel, ke homo ne povas kompreni la farojn, kiujn faris Dio de la komenco ĝis la fino."
+        },
+        {
+          "number": 12,
+          "text": "Mi scias, ke ekzistas nenia bono por ili, krom ĝoji kaj fari bonon en sia vivo."
+        },
+        {
+          "number": 13,
+          "text": "Kaj se homo manĝas kaj trinkas kaj ĝuas bonon de sia tuta laborado, tio estas dono de Dio."
+        },
+        {
+          "number": 14,
+          "text": "Mi scias, ke ĉio, kion faras Dio, restas eterne; al ĝi oni nenion povas aldoni, kaj de ĝi oni nenion povas depreni; kaj Dio tion faris, ke oni Lin timu."
+        },
+        {
+          "number": 15,
+          "text": "Kio fariĝis, tio ekzistas de longe; kaj kio estas fariĝonta, tio antaŭ longe jam estis, kaj Dio revokas pasintaĵon."
+        },
+        {
+          "number": 16,
+          "text": "Ankoraŭ mi vidis sub la suno: en la loko de juĝo, ke tie estas maljusteco; en la loko de vero, ke tie estas malico."
+        },
+        {
+          "number": 17,
+          "text": "Mi diris en mia koro: Piulon kaj malpiulon juĝos Dio; ĉar estas tempo por ĉiu afero, kaj por ĉio, kio fariĝas tie."
+        },
+        {
+          "number": 18,
+          "text": "Mi diris en mia koro: Ĉi tio estas pri la homidoj, ke Dio ilin elprovu, kaj ke ili vidu, ke ili estas bruto per si mem."
+        },
+        {
+          "number": 19,
+          "text": "Ĉar la sorto de homidoj kaj la sorto de bruto estas sorto egala: kiel ĉi tiuj mortas, tiel mortas ankaŭ tiuj, kaj sama spirito estas en ĉiuj; kaj supereco de homo kontraŭ bruto ne ekzistas, ĉar ĉio estas vantaĵo."
+        },
+        {
+          "number": 20,
+          "text": "Ĉiuj iras al unu loko: ĉiuj fariĝis el polvo, kaj ĉiuj refariĝos polvo."
+        },
+        {
+          "number": 21,
+          "text": "Kiu scias, ĉu la spirito de homidoj leviĝas supren, kaj ĉu la spirito de bruto malleviĝas malsupren en la teron?"
+        },
+        {
+          "number": 22,
+          "text": "Kaj mi ekvidis, ke ekzistas nenio pli bona, ol ke homo ĝuu plezuron de siaj faroj, ĉar tia estas lia sorto; ĉar kiu alkondukos lin, por vidi, kio estas post li?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kaj mi returniĝis, kaj mi vidis ĉiujn premojn, kiuj estas farataj sub la suno: kaj jen estas larmoj de prematoj, kaj ne ekzistas por ili konsolanto; kaj perforteco de la mano de iliaj premantoj, kaj ne ekzistas por ili konsolanto."
+        },
+        {
+          "number": 2,
+          "text": "Kaj mi trovis, ke la mortintoj, kiuj jam antaŭ longe mortis, estas pli feliĉaj ol la vivantoj, kiuj vivas ĝis nun;"
+        },
+        {
+          "number": 3,
+          "text": "kaj pli feliĉa ol ili ambaŭ estas tiu, kiu ĝis nun ne ekzistis, kiu ne vidis la malbonajn farojn, kiuj estas farataj sub la suno."
+        },
+        {
+          "number": 4,
+          "text": "Mi vidis ankaŭ, ke ĉia laboro kaj ĉia lerteco en la faroj estas nur konkurado de unu kontraŭ alia; kaj ankaŭ ĉi tio estas vantaĵo kaj ventaĵo."
+        },
+        {
+          "number": 5,
+          "text": "Malsaĝulo kunmetas siajn manojn, kaj formanĝas sian korpon."
+        },
+        {
+          "number": 6,
+          "text": "Pli bona estas plenmano da trankvilanimeco, ol ambaŭmano da penado kaj ventaĵo."
+        },
+        {
+          "number": 7,
+          "text": "Kaj denove mi turniĝis, kaj vidis vantaĵon sub la suno:"
+        },
+        {
+          "number": 8,
+          "text": "jen estas solulo, kaj neniun alian li havas; nek filon nek fraton li havas; kaj tamen ne havas finon lia laborado, kaj lia okulo ne povas satiĝi de riĉeco; por kiu do mi laboras kaj senigas mian animon de ĝuado? Ĉi tio ankaŭ estas vantaĵo kaj malbona afero."
+        },
+        {
+          "number": 9,
+          "text": "Pli bone estas al du ol al unu, ĉar ili havas bonan rekompencon por sia laborado."
+        },
+        {
+          "number": 10,
+          "text": "Ĉar se ili falos, unu levos la alian; sed ve al solulo, se li falos, kaj se ne estas alia, kiu lin levus."
+        },
+        {
+          "number": 11,
+          "text": "Ankaŭ se du kuŝiĝas, estas al ili varme; sed unu-kiel li varmiĝos?"
+        },
+        {
+          "number": 12,
+          "text": "Kaj se iu montros sin pli forta kontraŭ unu, tiam ambaŭ kontraŭstaros lin; eĉ fadeno triopigita ne baldaŭ disŝiriĝos."
+        },
+        {
+          "number": 13,
+          "text": "Pli bona estas knabo malriĉa sed saĝa, ol reĝo maljuna sed malsaĝa, kiu jam ne povas akiri scion."
+        },
+        {
+          "number": 14,
+          "text": "Iu el malliberejo eliris, kaj fariĝis reĝo; alia por reĝeco naskiĝis, kaj tamen estas malriĉa."
+        },
+        {
+          "number": 15,
+          "text": "Mi vidis, ke ĉiu vivanto iras sub la suno kun la junulo: ĝi estas la alia, kiu okupos lian lokon."
+        },
+        {
+          "number": 16,
+          "text": "Senfina estas la popolo, antaŭ kiu li estis, kaj tamen la posteuloj ne ĝojos pri li; ankaŭ ĉi tio estas vantaĵo kaj ventaĵo."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Gardu vian piedon, kiam vi iros en la domon de Dio, kaj estu preta pli por aŭskultado, ol por oferdonado de malsaĝuloj; ĉar ili ne scias, ke ili agas malbone."
+        },
+        {
+          "number": 2,
+          "text": "Ne rapidu kun via buŝo, kaj via koro ne rapidu elparoli vorton antaŭ Dio, ĉar Dio estas en la ĉielo, kaj vi estas sur la tero; tial malmultaj estu viaj vortoj."
+        },
+        {
+          "number": 3,
+          "text": "Ĉar sonĝo prezentiĝas per multe da agado, kaj parolo de malsaĝulo konsistas el multe da vortoj."
+        },
+        {
+          "number": 4,
+          "text": "Kiam vi faros promeson al Dio, ne prokrastu ĝin plenumi; ĉar malagrablaj al Li estas malsaĝuloj: kion vi promesis, tion plenumu."
+        },
+        {
+          "number": 5,
+          "text": "Pli bone estas, ke vi ne faru promeson, ol fari promeson kaj ne plenumi."
+        },
+        {
+          "number": 6,
+          "text": "Ne permesu al via buŝo pekigi vian korpon, kaj ne diru al la sendito de Dio, ke ĝi estas eraro; kial fari, ke Dio koleru pro via parolo, kaj ke Li detruu la faron de viaj manoj?"
+        },
+        {
+          "number": 7,
+          "text": "Ĉe multo da sonĝoj kaj vantaĵoj estas ankaŭ multe da vortoj; sed vi timu Dion."
+        },
+        {
+          "number": 8,
+          "text": "Se premadon de malriĉulo kaj rompadon de justeco kaj honesteco vi vidas en lando, ne miru; ĉar pli alta kontrolas pli altan, kaj plej altaj ilin kontrolas."
+        },
+        {
+          "number": 9,
+          "text": "Kaj superecon en ĉio havas tiu lando, en kiu la reĝo servas al la tero."
+        },
+        {
+          "number": 10,
+          "text": "Kiu amas monon, tiu ne satiĝos per mono; kaj kiu amas riĉecon, al tiu ĝi ne donos utilon: ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 11,
+          "text": "Ju pli estas da havo, des pli multaj estas ĝiaj konsumantoj; kaj kian profiton havas ĝia mastro, krom vidi ĝin per siaj okuloj?"
+        },
+        {
+          "number": 12,
+          "text": "Dolĉa estas la dormo de laboranto, ĉu li manĝas malmulte aŭ multe; sed trosateco ne lasas la riĉulon dormi."
+        },
+        {
+          "number": 13,
+          "text": "Turmentan malbonon mi vidis sub la suno: riĉecon konservatan por la malutilo de ĝia propra mastro."
+        },
+        {
+          "number": 14,
+          "text": "Kaj pereas ĉi tiu riĉeco en malfavoraj cirkonstancoj; naskiĝas filo, kaj li nenion havas en la mano."
+        },
+        {
+          "number": 15,
+          "text": "Kiel li eliris el la ventro de sia patrino, tiel nuda li foriras, kiel li venis; kaj nenion li elportas el sia laboro, kion li povus porti en la mano."
+        },
+        {
+          "number": 16,
+          "text": "Kaj ĉi tio estas turmenta doloro, ke kiel li venis, tiel li foriras; kian do profiton li havas de tio, ke li laboras por la vento?"
+        },
+        {
+          "number": 17,
+          "text": "Kaj ĉiujn siajn tagojn li konsumis en mallumo, en multe da ekscitiĝo, en malsano kaj malagrablaĵoj!"
+        },
+        {
+          "number": 18,
+          "text": "Jen, kion mi vidis: ke estas bone kaj bele manĝi kaj trinki kaj ĝui plezurojn de ĉiuj siaj laboroj, kiujn homo laboras sub la suno dum la tagoj de sia vivo, kiujn donis al li Dio; ĉar tio estas lia apartenaĵo."
+        },
+        {
+          "number": 19,
+          "text": "Kaj se al iu homo Dio donis riĉecon kaj havon, kaj donis al li la povon konsumi ilin kaj preni sian parton kaj ĝui plezuron de siaj laboroj, ĉi tio estas dono de Dio."
+        },
+        {
+          "number": 20,
+          "text": "Ĉar ne longe li memoros la tagojn de sia vivo; Dio donas al li ĝojon de lia koro."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ekzistas malbono, kiun mi vidis sub la suno, kaj granda ĝi estas por la homo:"
+        },
+        {
+          "number": 2,
+          "text": "se al iu homo Dio donas riĉecon kaj havon kaj honoron, kaj al lia animo mankas nenio, kion ajn li dezirus, sed Dio ne donas al li la povon konsumi ĝin, nur fremda homo ĝin konsumas-ĉi tio estas vantaĵo kaj malfacila doloro."
+        },
+        {
+          "number": 3,
+          "text": "Se iu homo naskigus cent infanojn kaj vivus multajn jarojn kaj atingus profundan aĝon, sed lia animo ne ĝuus sate la havon, kaj eĉ bonan enterigon li ne havus-tiam mi dirus: Pli feliĉa ol li estas abortito."
+        },
+        {
+          "number": 4,
+          "text": "Ĉar ĉi tiu vante venis kaj en mallumon foriris, kaj en mallumo kaŝiĝos lia nomo."
+        },
+        {
+          "number": 5,
+          "text": "Eĉ la sunon li ne vidis kaj ne konis-al li estas pli trankvile ol al tiu."
+        },
+        {
+          "number": 6,
+          "text": "Kaj se tiu homo vivus du mil jarojn kaj la bonon ne ĝuus, ĉu ne al unu loko ĉiuj iros?"
+        },
+        {
+          "number": 7,
+          "text": "Ĉiuj laboroj de homo estas por lia buŝo, kaj tamen lia animo ne estas satigebla."
+        },
+        {
+          "number": 8,
+          "text": "Kaj kian superecon havas la saĝulo antaŭ malsaĝulo, la inteligenta malriĉulo antaŭ aliaj vivaj estaĵoj?"
+        },
+        {
+          "number": 9,
+          "text": "Pli bone estas vidi per la okuloj, ol imagi en la animo; ankaŭ ĉi tio estas vantaĵo kaj ventaĵo."
+        },
+        {
+          "number": 10,
+          "text": "Kio ajn ekzistas, tio de longe havas nomon; kaj estas sciate, kia estas la homo, kaj ke li ne povas juĝe batali kun Tiu, kiu estas pli forta ol li."
+        },
+        {
+          "number": 11,
+          "text": "Ĉar ekzistas multe da aferoj, kiuj plimultigas la vantaĵon; kian do superecon havas la homo?"
+        },
+        {
+          "number": 12,
+          "text": "Ĉar kiu scias, kio estas bona por la homo dum la tagoj de lia vanta vivo, kiun li pasigas kiel ombro? kaj kiu diros al la homo, kio estos post li sub la suno?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pli bona estas bona nomo, ol bona oleo; kaj la tago de la morto estas pli bona, ol la tago de la naskiĝo."
+        },
+        {
+          "number": 2,
+          "text": "Pli bone estas iri en domon de funebro, ol iri en domon de festenado; ĉar morto estas la fino de ĉiu homo, kaj la vivanto notos ĉi tion en sia koro."
+        },
+        {
+          "number": 3,
+          "text": "Pli bona estas plendo, ol rido; ĉar ĉe malĝojo de la vizaĝo pliboniĝas la koro."
+        },
+        {
+          "number": 4,
+          "text": "La koro de saĝuloj estas en domo de funebro, kaj la koro de malsaĝuloj en domo de ĝojo."
+        },
+        {
+          "number": 5,
+          "text": "Pli bone estas aŭskulti riproĉon de saĝulo, ol aŭskulti kanton de malsaĝuloj."
+        },
+        {
+          "number": 6,
+          "text": "Ĉar simila al la kraketado de dornoj sub poto estas la ridado de la malsaĝuloj; kaj vantaĵo ĝi estas."
+        },
+        {
+          "number": 7,
+          "text": "Ĉar perforteco forprenas la saĝon de saĝulo, kaj la prudenton malbonigas donaco."
+        },
+        {
+          "number": 8,
+          "text": "La fino de afero estas pli bona, ol ĝia komenco; pacienculo estas pli bona, ol malhumilulo."
+        },
+        {
+          "number": 9,
+          "text": "Ne rapidu koleri en via spirito; ĉar koleremeco loĝas en la brusto de malsaĝuloj."
+        },
+        {
+          "number": 10,
+          "text": "Ne diru: Kial la antaŭaj tagoj estis pli bonaj, ol la nunaj? ĉar ne el saĝeco vi ĉi tion demandus."
+        },
+        {
+          "number": 11,
+          "text": "Bona estas saĝeco kune kun hereda havo, kaj ĝi estas profita al tiuj, kiuj vidas la sunon."
+        },
+        {
+          "number": 12,
+          "text": "Ĉar la saĝeco estas ŝirmo tiel same, kiel mono estas ŝirmo; sed la supereco de scienco konsistas en tio, ke la saĝeco donas vivon al sia posedanto."
+        },
+        {
+          "number": 13,
+          "text": "Rigardu la faron de Dio; ĉar kiu povas tion rektigi, kion Li kurbigis?"
+        },
+        {
+          "number": 14,
+          "text": "En la tago de bonstato uzu la bonstaton, kaj en la tago de malfeliĉo atendu: ĉi tion kaj tion aranĝis Dio, por ke la homo nenion komprenu post Li."
+        },
+        {
+          "number": 15,
+          "text": "Ĉion tion mi vidis en miaj vantaj tagoj: okazas, ke virtulo pereas ĉe sia virteco, kaj okazas, ke malvirtulo longe vivas ĉe sia malvirteco."
+        },
+        {
+          "number": 16,
+          "text": "Ne estu tro virta, kaj ne rezonu tro multe: kial vi devas vin konfuzi?"
+        },
+        {
+          "number": 17,
+          "text": "Ne malvirtu tro multe, kaj ne estu senprudenta: kial vi devas morti ne en via tempo?"
+        },
+        {
+          "number": 18,
+          "text": "Bone estas, se vi tenos vin je unu afero kaj ankaŭ de alia afero vi ne forprenos vian manon; ĉar tiu, kiu timas Dion, penas plaĉi al ĉiuj."
+        },
+        {
+          "number": 19,
+          "text": "La saĝeco faras la saĝulon pli forta, ol dek potenculoj en la urbo."
+        },
+        {
+          "number": 20,
+          "text": "Ĉar ne ekzistas sur la tero virtulo, kiu farus nur bonon kaj ne pekus."
+        },
+        {
+          "number": 21,
+          "text": "Ne ĉiujn vortojn, kiujn oni diras, atentu en via koro, por ke vi ne aŭdu vian sklavon malbenanta vin:"
+        },
+        {
+          "number": 22,
+          "text": "ĉar multajn fojojn konsciis via koro, ke ankaŭ vi malbenis aliajn."
+        },
+        {
+          "number": 23,
+          "text": "Ĉion ĉi tion mi provis per mia saĝo; mi diris al mi: Mi akiru saĝon; tamen ĝi estas malproksima de mi."
+        },
+        {
+          "number": 24,
+          "text": "Kio estas malproksima kaj tre profunda, kiu tion komprenos?"
+        },
+        {
+          "number": 25,
+          "text": "Mi turnis min kun mia koro, por ekkoni, esplori, kaj traserĉi saĝecon kaj prudenton, kaj ekscii, ke la malvirteco estas malsaĝeco kaj ke la senscieco estas sensenca."
+        },
+        {
+          "number": 26,
+          "text": "Kaj mi trovas, ke pli malbona ol la morto estas la virino, kiu estas kaptilo, kaj kies koro estas reto, kaj kies manoj estas katenoj; tiu, kiu plaĉas al Dio, sin savos de ŝi, sed pekulo estos kaptita de ŝi."
+        },
+        {
+          "number": 27,
+          "text": "Jen, kion mi trovis, diris la Predikanto: oni devas kunigi unu fakton kun alia, por veni al konkludo."
+        },
+        {
+          "number": 28,
+          "text": "Jen, kion ankoraŭ serĉis mia animo kaj ne trovis: viron unu inter mil mi trovis, sed virinon inter ĉiuj mi tute ne trovis."
+        },
+        {
+          "number": 29,
+          "text": "Nur ĉi tion mi trovis, ke Dio kreis la homon virtema; sed la homoj fordonis sin al multaj artifikoj."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kiu estas simila al saĝulo? kaj kiu komprenas la sencon de la aferoj? Saĝeco de homo lumigas lian vizaĝon, kaj la maldelikateco de lia vizaĝo ŝanĝiĝas."
+        },
+        {
+          "number": 2,
+          "text": "Mi diras: La reĝan ordonon plenumu, pro la ĵuro farita antaŭ Dio."
+        },
+        {
+          "number": 3,
+          "text": "Ne rapidu foriri de antaŭ li, kaj ne estu persistema en malbona afero; ĉar ĉion, kion li volos, li povos fari."
+        },
+        {
+          "number": 4,
+          "text": "Ĉar la vorto de reĝo estas potenca; kaj kiu povas diri al li: Kion vi faras?"
+        },
+        {
+          "number": 5,
+          "text": "Kiu plenumas la ordonon, tiu spertos nenion malbonan; tempon kaj manieron de agado scias la koro de saĝulo."
+        },
+        {
+          "number": 6,
+          "text": "Ĉar por ĉiu afero estas ĝia tempo kaj ĝia maniero; kaj granda estas por la homo la malbono de tio,"
+        },
+        {
+          "number": 7,
+          "text": "ke li ne scias, kio estos; ĉar kiu diros al vi, kiel estos?"
+        },
+        {
+          "number": 8,
+          "text": "Neniu homo povas regi la venton kaj reteni la venton, neniu povas regi la tagon de la morto; ne ekzistas forpermeso en tiu milito, kaj malvirteco ne savas sian faranton."
+        },
+        {
+          "number": 9,
+          "text": "Ĉion ĉi tion mi vidis, kaj mi atentis ĉiun aferon, kiu estas farata sub la suno, kaj tiun tempon, en kiu homo regas homon al lia malbono."
+        },
+        {
+          "number": 10,
+          "text": "Kaj ankaŭ mi vidis, ke oni enterigis malvirtulojn, kiuj venadis kaj eliradis el la sankta loko, kaj kiuj estis forgesitaj en la urbo, kie ili tiel agis; kaj ĉi tio ankaŭ estas vantaĵo."
+        },
+        {
+          "number": 11,
+          "text": "Ĉar ne baldaŭ estas farata juĝo kontraŭ malbonaj faroj, tial plene kuraĝas la koro de homidoj fari malbonon."
+        },
+        {
+          "number": 12,
+          "text": "Kvankam pekulo faras malbonon cent fojojn, kaj Dio estas pacienca al li, tamen mi scias, ke estos bone al tiuj, kiuj timas Dion, kiuj respektas Lin."
+        },
+        {
+          "number": 13,
+          "text": "Kaj ne estos bone al malvirtulo, kaj ne tenos sin longe, simile al ombro, tiu, kiu ne timas Dion."
+        },
+        {
+          "number": 14,
+          "text": "Ekzistas vantaĵo, kiu fariĝas sur la tero: ekzistas virtuloj, al kiuj fariĝas tio sama, kio fariĝas al malvirtuloj; kaj ekzistas malvirtuloj, al kiuj fariĝas tio sama, kio al la virtuloj; kaj mi diris al mi, ke ankaŭ ĉi tio estas vantaĵo."
+        },
+        {
+          "number": 15,
+          "text": "Kaj mi eklaŭdis la gajecon, ĉar ne ekzistas io pli bona por homo sub la suno, ol manĝi, trinki, kaj gaji, kaj ke ĉi tio akompanu lin en liaj laboroj en la tagoj de lia vivo, kiujn donis al li Dio sub la suno."
+        },
+        {
+          "number": 16,
+          "text": "Kiam mi direktis mian koron, por ekkoni saĝecon, kaj por ĉirkaŭrigardi la aferojn, kiuj estas farataj sur la tero tiamaniere, ke nek tage nek nokte homo vidas dormon sur siaj okuloj; kaj kiam mi rigardis ĉiujn farojn de Dio:"
+        },
+        {
+          "number": 17,
+          "text": "tiam mi trovis, ke homo ne povas kompreni la aferojn, kiuj fariĝas sub la suno; kiom ajn la homo penus esplori, li ne komprenos; kaj se eĉ saĝulo diras, ke li scias, li tamen ne povas kompreni."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Al ĉio ĉi tio mi direktis mian koron, por esplori ĉion ĉi tion, ke la virtuloj kaj saĝuloj kaj iliaj faroj estas en la mano de Dio; kaj nek amon nek malamon scias la homo, kaj nenion, kio lin atendas."
+        },
+        {
+          "number": 2,
+          "text": "Al ĉiuj estas la sama sorto: al la virtulo kaj al la malvirtulo, al la bona kaj pura kaj al la malpura, al la oferfaranto kaj al tiu, kiu ne oferfaras, al la bonulo kaj al la pekulo, al la ĵuranto kaj al tiu, kiu timas ĵuron."
+        },
+        {
+          "number": 3,
+          "text": "Ĉi tio estas malbona en ĉio, kio fariĝas sub la suno, ke la sama sorto ekzistas por ĉiuj, kaj la koro de la homidoj estas plena de malbono, kaj sensencaĵo estas en ilia koro dum ilia vivado, kaj poste ili transiras al la mortintoj."
+        },
+        {
+          "number": 4,
+          "text": "Ĉar kiu troviĝas inter la vivuloj, tiu havas ankoraŭ esperon; ĉar eĉ al hundo vivanta estas pli bone, ol al leono mortinta."
+        },
+        {
+          "number": 5,
+          "text": "Ĉar la vivantoj scias, ke ili mortos; kaj la mortintoj scias nenion, kaj por ili jam ne ekzistas rekompenco, ĉar la memoro pri ili estas forgesita."
+        },
+        {
+          "number": 6,
+          "text": "Kaj ilia amo, kaj ilia malamo, kaj ilia ĵaluzo jam de longe malaperis; kaj jam por neniam ili havas partoprenon en io, kio fariĝas sub la suno."
+        },
+        {
+          "number": 7,
+          "text": "Iru, manĝu ĝoje vian panon, kaj trinku kun gaja koro vian vinon, se Dio favoris viajn aferojn."
+        },
+        {
+          "number": 8,
+          "text": "En ĉiu tempo viaj vestoj estu blankaj, kaj oleo ne manku sur via kapo."
+        },
+        {
+          "number": 9,
+          "text": "Ĝuu la vivon kun la edzino, kiun vi amas en la tempo de via tuta vanta vivo, kaj kiun Dio donis al vi por ĉiuj viaj vantaj tagoj; ĉar ĉi tio estas via apartenaĵo en via vivo, kaj en viaj laboroj, kiujn vi laboris sub la suno."
+        },
+        {
+          "number": 10,
+          "text": "Kion ajn via mano povas fari laŭ via forto, tion faru; ĉar ekzistas nek faro, nek kalkulo, nek scio, nek saĝo, en Ŝeol, kien vi iros."
+        },
+        {
+          "number": 11,
+          "text": "Aliflanke mi vidis sub la suno, ke ne de la rapiduloj dependas la kuro, ne de la fortuloj dependas la milito, kaj ne la saĝuloj havas panon, kaj ne la talentuloj havas riĉecon, kaj ne la kompetentuloj trovas aprobon; nur de la tempo kaj okazo ili ĉiuj dependas."
+        },
+        {
+          "number": 12,
+          "text": "Ĉar eĉ ne scias la homo sian sorton; kiel fiŝoj, kaptitaj en pereigan reton, kaj kiel birdoj, implikiĝintaj en kaptilon, tiel kaptiĝas la homoj en tempo malbona, kiam ĝi atakas ilin neatendite."
+        },
+        {
+          "number": 13,
+          "text": "Ankaŭ jenan saĝaĵon mi vidis sub la suno, kaj ĝi ŝajnis al mi granda:"
+        },
+        {
+          "number": 14,
+          "text": "estis urbo malgranda, kaj malmulte da homoj ĝi havis; venis al ĝi granda reĝo, kaj sieĝis ĝin, kaj konstruis ĉirkaŭ ĝi grandajn sieĝajn fortikaĵojn;"
+        },
+        {
+          "number": 15,
+          "text": "sed troviĝis en ĝi homo malriĉa sed saĝa, kaj li savis la urbon per sia saĝeco; tamen neniu rememoris tiun malriĉan homon."
+        },
+        {
+          "number": 16,
+          "text": "Kaj mi diris: Pli bona estas saĝo ol forto, tamen la saĝo de malriĉulo estas malrespektata, kaj liaj vortoj ne estas aŭdataj."
+        },
+        {
+          "number": 17,
+          "text": "La vortoj de saĝuloj, trankvile aŭskultitaj, estas pli bonaj ol la kriado de reganto inter malsaĝuloj."
+        },
+        {
+          "number": 18,
+          "text": "Pli bona estas saĝo, ol militaj instrumentoj; kaj unu pekulo pereigas multe da bono."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Venenaj muŝoj putrigas kaj haladzigas la oleon de parfumisto; pli ŝatata ol saĝo kaj honoro ofte estas malgranda malsaĝaĵo."
+        },
+        {
+          "number": 2,
+          "text": "La koro de saĝulo estas ĉe lia dekstra flanko, kaj la koro de malsaĝulo ĉe lia maldekstra."
+        },
+        {
+          "number": 3,
+          "text": "Kaj eĉ en la vojo, laŭ kiu iras malsaĝulo, mankas al li saĝo, kaj al ĉiu li diras, ke li estas malsaĝulo."
+        },
+        {
+          "number": 4,
+          "text": "Se atakos vin kolero de reganto, ne forlasu vian lokon, ĉar mildeco pardonigas eĉ grandajn krimojn."
+        },
+        {
+          "number": 5,
+          "text": "Ekzistas malbono, kiun mi vidis sub la suno; ĝi estas kvazaŭ eraro, venanta de la reganto:"
+        },
+        {
+          "number": 6,
+          "text": "senscieco estas metata tre alte, kaj la riĉuloj sidas malalte."
+        },
+        {
+          "number": 7,
+          "text": "Mi vidis sklavojn sur ĉevaloj, kaj princojn, irantajn piede, kiel sklavoj."
+        },
+        {
+          "number": 8,
+          "text": "Kiu fosas kavon, tiu falos en ĝin; kaj kiu detruas muron, tiun mordos serpento."
+        },
+        {
+          "number": 9,
+          "text": "Kiu transmovas ŝtonojn, tiu faras al si difekton per streĉo; kaj kiu hakas lignon, tiu sin vundas per ĝi."
+        },
+        {
+          "number": 10,
+          "text": "Se malakriĝis la hakilo, kaj oni ne akrigas la tranĉan flankon, oni devas streĉi la fortojn; kaj la ĉefaĵo estas prepari ĉion saĝe."
+        },
+        {
+          "number": 11,
+          "text": "Se mordis la serpento sen kuracparolo, tiam jam ne utilas kuracparolanto."
+        },
+        {
+          "number": 12,
+          "text": "Vortoj el buŝo de saĝulo estas agrablaj, sed la buŝo de malsaĝulo lin mem pereigas."
+        },
+        {
+          "number": 13,
+          "text": "La komenco de la parolo de lia buŝo estas malsaĝaĵo, kaj la fino de lia parolo estas abomeninda sensencaĵo."
+        },
+        {
+          "number": 14,
+          "text": "Malsaĝulo multe parolas, kvankam homo ne scias, kio estos; kaj kio estos post li? kiu ĉi tion diros al li?"
+        },
+        {
+          "number": 15,
+          "text": "Penado de malsaĝuloj lacigas ĉiun, kiu ne scias eĉ la vojon al la urbo."
+        },
+        {
+          "number": 16,
+          "text": "Ve al vi, ho lando, se via reĝo estas infano kaj viaj princoj manĝas frue!"
+        },
+        {
+          "number": 17,
+          "text": "Feliĉa vi estas, ho lando, se via reĝo estas de nobla deveno kaj viaj princoj manĝas en ĝusta tempo, por fortiĝi, ne por festeni!"
+        },
+        {
+          "number": 18,
+          "text": "De mallaboremeco falos la plafono; kaj, se oni mallevas la manojn, tramalsekiĝas la domo."
+        },
+        {
+          "number": 19,
+          "text": "Por plezuro oni aranĝas festenojn, kaj vino gajigas la vivon, kaj mono respondas por ĉio."
+        },
+        {
+          "number": 20,
+          "text": "Eĉ en viaj pensoj ne malbenu la reĝon, kaj en via dormoĉambro ne malbenu riĉulon; ĉar birdo ĉiela transportos vian voĉon, kaj flugila estaĵo eldiros vian parolon."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Elsendu vian panon sur la akvon; ĉar post longa tempo vi ĝin retrovos."
+        },
+        {
+          "number": 2,
+          "text": "Donu parton al sep, kaj eĉ al ok, ĉar vi ne scias, ĉu ne estos malfeliĉo sur la tero."
+        },
+        {
+          "number": 3,
+          "text": "Kiam la nuboj pleniĝos, ili verŝos pluvon sur la teron, kaj se falos arbo suden aŭ norden, ĝi tie restos, kien ĝi falis."
+        },
+        {
+          "number": 4,
+          "text": "Kiu observas la venton, tiu ne semos; kaj kiu rigardas la nubojn, tiu ne rikoltos."
+        },
+        {
+          "number": 5,
+          "text": "Kiel vi ne scias, kian vojon iros la vento, kaj kiel formiĝas la ostoj en la ventro de gravedulino, tiel vi ne povas scii la faron de Dio, kiu ĉion faras."
+        },
+        {
+          "number": 6,
+          "text": "Matene semu vian semon, kaj vespere via mano ne ripozu; ĉar vi ne scias, ĉu tio aŭ alio estos pli ĝusta, aŭ ĉu ambaŭ egale estos bonaj."
+        },
+        {
+          "number": 7,
+          "text": "Agrabla estas la lumo, kaj bone estas al la okuloj vidi la sunon."
+        },
+        {
+          "number": 8,
+          "text": "Ĉar se eĉ multajn jarojn homo vivus, li ĝoju en ili ĉiuj; kaj li memoru pri la tagoj mallumaj, ĉar estos multe da ili; ĉio, kio venos, estas vantaĵo."
+        },
+        {
+          "number": 9,
+          "text": "Ĝoju, junulo, en via infaneco; kaj via koro ĝuu plezuron en la tagoj de via juneco, kaj iru, kien kondukas vin via koro kaj kien rigardas viaj okuloj; sed sciu, ke pri ĉio ĉi tio Dio venigos vin al juĝo."
+        },
+        {
+          "number": 10,
+          "text": "Tial forpelu malĝojon de via koro, kaj forigu malagrablaĵon de via korpo; ĉar la infaneco kaj la juneco estas vantaĵo."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kaj memoru vian Kreinton en la tagoj de via juneco, dum ankoraŭ ne venis la tagoj de malbono, kaj ne venis la jaroj, pri kiuj vi diros: Mi ne havas plezuron de ili;"
+        },
+        {
+          "number": 2,
+          "text": "dum ne mallumiĝis la suno, la lumo, la luno, kaj la steloj, kaj ne revenis nuboj post la pluvo;"
+        },
+        {
+          "number": 3,
+          "text": "en la tago, kiam ektremos la gardantoj de la domo, kaj malfortiĝos la militantoj, kaj ĉesos mueli la muelantinoj, ĉar estos malmulte da ili, kaj senvidiĝos la rigardantinoj tra la fenestroj;"
+        },
+        {
+          "number": 4,
+          "text": "kaj fermitaj estos la pordoj al la strato, kiam eksilentos la sonado de la muelŝtono; kaj homo leviĝados laŭ la krio de birdo, kaj mallaŭtiĝos la sonoj de kantoj;"
+        },
+        {
+          "number": 5,
+          "text": "kaj altaĵojn ili ektimos, kaj sur la vojo aperos teruroj, kaj ekfloros la migdalarbo, kaj peziĝos la lokusto, kaj malaperos deziro: tiam homo foriros en sian eternan domon, kaj sur la strato marŝos plorantoj;"
+        },
+        {
+          "number": 6,
+          "text": "ĝis disŝiriĝos la arĝenta ĉeneto, rompiĝos la ora lampeto, rompiĝos la kruĉo ĉe la fonto, kaj falos la rado en la puton;"
+        },
+        {
+          "number": 7,
+          "text": "kaj la polvo refariĝos tero, kiel ĝi estis, kaj la spirito reiros al Dio, kiu ĝin donis."
+        },
+        {
+          "number": 8,
+          "text": "Vantaĵo de vantaĵoj, diris la Predikanto; ĉio estas vantaĵo."
+        },
+        {
+          "number": 9,
+          "text": "Krom tio, ke la Predikanto estis saĝulo, li ankoraŭ instruis scion al la popolo; li ĉion pesis, esploris, kaj verkis multe da sentencoj."
+        },
+        {
+          "number": 10,
+          "text": "Penis la Predikanto trovi agrablajn parolojn, kaj li skribis ĝuste vortojn de vero."
+        },
+        {
+          "number": 11,
+          "text": "La paroloj de saĝuloj estas kiel akraj pintoj, kaj kiel enbatitaj najloj estas la vortoj de publikaj parolistoj; ili estas donitaj de unu paŝtisto."
+        },
+        {
+          "number": 12,
+          "text": "Kaj krom tio, mia filo, akceptu mian instruon, ke se oni volus verki multajn librojn, ne estus fino, kaj multe legi lacigas la korpon."
+        },
+        {
+          "number": 13,
+          "text": "Ni aŭskultu la finon de ĉio: timu Dion, kaj plenumu Liajn ordonojn, ĉar ĉi tio estas ĉio por la homo."
+        },
+        {
+          "number": 14,
+          "text": "Ĉar ĉiun faron Dio venigos al juĝo, eĉ ĉion kaŝitan, ĉu ĝi estas bona aŭ malbona."
+        }
+      ]
+    }
+  ]
+}

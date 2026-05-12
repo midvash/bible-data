@@ -1,0 +1,18 @@
+{
+  "slug": "vi1934",
+  "shortName": "VI1934",
+  "name": "Kinh Thánh 1934",
+  "language": "vi",
+  "year": 1934,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Vietnamese 1934 authorized translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/vi1934",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

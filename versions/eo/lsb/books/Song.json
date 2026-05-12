@@ -1,0 +1,517 @@
+{
+  "version": "lsb",
+  "book": "Song",
+  "bookId": 22,
+  "englishName": "Song of Solomon",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Alta kanto de Salomono."
+        },
+        {
+          "number": 2,
+          "text": "Ho, li kisu min per kisoj de sia buŝo! Ĉar via amo estas pli bona, ol vino."
+        },
+        {
+          "number": 3,
+          "text": "Ho, kiel bonodoras viaj aromaĵoj! Via nomo similas al elverŝita oleo; Tial la fraŭlinoj amas vin."
+        },
+        {
+          "number": 4,
+          "text": "Altiru min; ni postkuros vin. La reĝo envenigu min en siajn ĉambrojn; Ho, ni ĝojos kaj gajiĝos kun vi; Ni memoros vian amon pli, ol vinon; Sincere oni amas vin."
+        },
+        {
+          "number": 5,
+          "text": "Mi estas nigra, tamen beleta, Ho filinoj de Jerusalem, Kiel la tendoj de Kedar, Kiel la tapetoj de Salomono."
+        },
+        {
+          "number": 6,
+          "text": "Ne rigardu min, ke mi estas nigreta: La suno min brulkolorigis. La filoj de mia patrino koleris kontraŭ mi; Ili faris min gardistino de la vinberĝardenoj; Mian propran vinberĝardenon mi ne gardis."
+        },
+        {
+          "number": 7,
+          "text": "Diru al mi, ho vi, kiun mia animo amas, Kie vi paŝtas, kie vi ripozigas vian brutaron tagmeze: Kial mi similu al vagistino Ĉe la brutaroj de viaj kamaradoj?"
+        },
+        {
+          "number": 8,
+          "text": "Se vi ne scias tion, ho belulino inter virinoj, Sekvu la paŝojn de la ŝafaro, Kaj paŝtu viajn kapridojn ĉe la tendoj de la paŝtistoj."
+        },
+        {
+          "number": 9,
+          "text": "Al la ĉevalino en la ĉaroj de Faraono Mi komparas vin, ho mia amatino."
+        },
+        {
+          "number": 10,
+          "text": "Belaj estas viaj vangoj sub la orelringoj, Via kolo sub la laĉoj de perloj."
+        },
+        {
+          "number": 11,
+          "text": "Orajn orelringojn ni faros al vi, Kun arĝentaj enkrustaĵoj."
+        },
+        {
+          "number": 12,
+          "text": "Dum la reĝo sidas ĉe la festotablo, Mia nardo bonodoras."
+        },
+        {
+          "number": 13,
+          "text": "Kiel fasko de mirho, restanta inter miaj mamoj, Estas al mi mia amato."
+        },
+        {
+          "number": 14,
+          "text": "Kiel floraro de kofero estas por mi mia amato, En la vinberĝardenoj de En-Gedi."
+        },
+        {
+          "number": 15,
+          "text": "Ho, vi estas bela, mia amatino; ho, vi estas ja bela; Viaj okuloj estas kiel ĉe kolomboj."
+        },
+        {
+          "number": 16,
+          "text": "Ho, vi estas bela, mia amato, kaj ĉarma; Nia lito estas kiel freŝaj herboj;"
+        },
+        {
+          "number": 17,
+          "text": "La traboj de nia domo estas cedraj, Niaj ĉevronoj estas abiaj."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mi estas la lilio de Ŝaron, La rozo de la valoj."
+        },
+        {
+          "number": 2,
+          "text": "Kiel rozo inter la dornoj, Tiel estas mia amatino inter la knabinoj."
+        },
+        {
+          "number": 3,
+          "text": "Kiel pomarbo inter arboj nefruktaj, Tiel estas mia amato inter la junuloj. Mi sopiris al lia ombro, jen mi sidiĝis; Kaj liaj fruktoj estas bongustaj al mia palato."
+        },
+        {
+          "number": 4,
+          "text": "Li enkonduku min en vindomon, Kaj lia standardo super mi estu la amo."
+        },
+        {
+          "number": 5,
+          "text": "Plifortigu min per vinberkuko, Refreŝigu min per pomsuko; Ĉar mi estas malsana de amo."
+        },
+        {
+          "number": 6,
+          "text": "Lia maldekstra mano estu sub mia kapo, Lia dekstra ĉirkaŭprenu min."
+        },
+        {
+          "number": 7,
+          "text": "Mi ĵurligas vin, ho filinoj de Jerusalem, Je la gazeloj aŭ la cervoj de la kampo: Ne veku nek sendormigu la amatinon, Ĝis ŝi mem volos."
+        },
+        {
+          "number": 8,
+          "text": "Ho, jen estas la voĉo de mia amato! Ho, jen li venas, Rapidante sur la montoj, saltante sur la altaĵoj."
+        },
+        {
+          "number": 9,
+          "text": "Mia amato similas al gazelo aŭ al cervo. Ho, jen li staras post nia muro, Rigardante tra la fenestro, Sin montrante ĉe la krado."
+        },
+        {
+          "number": 10,
+          "text": "Mia amato vokas, li parolas al mi: Leviĝu, mia amatino, mia belulino, ho venu;"
+        },
+        {
+          "number": 11,
+          "text": "Ĉar la vintro jam forpasis, La pluvo pasis kaj malaperis;"
+        },
+        {
+          "number": 12,
+          "text": "La floroj jam estas sur la tero; La kantosezono jam alvenis, Kaj la voĉo de la turto jam aŭdiĝas en nia lando;"
+        },
+        {
+          "number": 13,
+          "text": "La figarbo jam maturigas siajn fruktetojn, La vinbertrunkoj siajn vinberetojn, Kiuj jam bonodoras. Leviĝu, mia amatino, mia belulino, kaj venu."
+        },
+        {
+          "number": 14,
+          "text": "Ho mia kolombino, en la krevaĵoj de la roko, en la kaŝejo de la rokkrutaĵo, Montru al mi vian aspekton, aŭdigu al mi vian voĉon; Ĉar via voĉo estas dolĉa, kaj via aspekto estas bela."
+        },
+        {
+          "number": 15,
+          "text": "Kaptu al ni la ŝakalojn, la malgrandajn ŝakalojn, La detruantojn de la vinberĝardenoj, Kiam niaj vinberĝardenoj burĝonas."
+        },
+        {
+          "number": 16,
+          "text": "Mia amato apartenas al mi, Kaj mi apartenas al li, Kiu paŝtas inter la rozoj."
+        },
+        {
+          "number": 17,
+          "text": "Ĝis la tago malvarmetiĝos kaj la ombroj forkuros, Turnu vin, ho amato, similiĝu al gazelo aŭ al cervo Sur la montoj de aromaĵoj."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sur mia kuŝejo dum la nokto mi serĉis tiun, kiun mia animo amas; Mi serĉis lin, sed mi lin ne trovis."
+        },
+        {
+          "number": 2,
+          "text": "Mi leviĝos, kaj irados tra la urbo; Sur la stratoj kaj placoj mi serĉos tiun, kiun mia animo amas; Mi serĉis lin, sed mi lin ne trovis."
+        },
+        {
+          "number": 3,
+          "text": "La gardistoj, kiuj iradas tra la urbo, renkontis min, Al ili mi demandis: Ĉu vi vidis tiun, kiun mia animo amas?"
+        },
+        {
+          "number": 4,
+          "text": "Kiam mi nur ekforiris de ili, Mi renkontis tiun, kiun mia animo amas; Mi tenis lin, kaj ne delasis lin, Ĝis mi enkondukis lin en la domon de mia patrino, Kaj en la ĉambron de ŝi, kiu naskis min."
+        },
+        {
+          "number": 5,
+          "text": "Mi ĵurligas vin, ho filinoj de Jerusalem, Je la gazeloj aŭ cervoj de la kampo: Ne veku nek sendormigu la amatinon, Ĝis ŝi mem volos."
+        },
+        {
+          "number": 6,
+          "text": "Kiu estas ŝi, kiu venas el la dezerto, kiel kolono de fumo Parfumita per mirho kaj olibano, Per ĉiaj pudroj de la parfumisto?"
+        },
+        {
+          "number": 7,
+          "text": "Jen estas la lito de Salomono! Sesdek fortuloj ĉirkaŭas ĝin El la fortuloj de Izrael,"
+        },
+        {
+          "number": 8,
+          "text": "Ĉiuj tenantaj glavojn, kompetentaj batalantoj; Ĉiu portas sian glavon ĉe sia femuro, Pro la teruro de la nokto."
+        },
+        {
+          "number": 9,
+          "text": "Edziĝan liton el la ligno de Lebanon Konstruis al si la reĝo Salomono."
+        },
+        {
+          "number": 10,
+          "text": "Ĝiajn kolonojn li konstruis el arĝento, La ĉarpentaĵon el oro, la tegaĵon el purpuro; La interno estas pavimita per la amo de la filinoj de Jerusalem."
+        },
+        {
+          "number": 11,
+          "text": "Iru tien, ho filinoj de Cion, kaj vidu la reĝon Salomono, Vestitan per la krono, per kiu lia patrino kronis lin en la tago de lia edziĝofesto, En la tago de la ĝojo de lia koro."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vi estas bela, mia amatino, vi estas bela; Viaj okuloj estas kolombaj, malantaŭ via vualo. Viaj haroj estas kiel aro da kaprinoj, Deirantaj sur la deklivo de la monto Gilead."
+        },
+        {
+          "number": 2,
+          "text": "Viaj dentoj estas kiel tondotaj ŝafinoj, Kiuj elvenas el la lavejo; Ĉiuj estas en paroj, Kaj ne mankas eĉ unu el ili."
+        },
+        {
+          "number": 3,
+          "text": "Viaj lipoj estas kiel ruĝa fadeno, Kaj via elparolado estas bela; Kiel peco de granato, viaj vangoj aspektas Malantaŭ via vualo."
+        },
+        {
+          "number": 4,
+          "text": "Via kolo estas kiel la turo de David, kiu estas konstruita kiel armiltenejo; Mil ŝildoj pendas sur ĝi, Ĉiuj ŝildoj de la potenculoj."
+        },
+        {
+          "number": 5,
+          "text": "Viaj du mamoj estas kiel du cervidoj, ĝemeloj de gazelino, Kiuj sin paŝtas inter la rozoj."
+        },
+        {
+          "number": 6,
+          "text": "Ĝis la tago malvarmetiĝos kaj la ombroj forkuros, Mi foriros al la monto de mirho kaj al la altaĵo de olibano."
+        },
+        {
+          "number": 7,
+          "text": "Via tutaĵo estas bela, mia amatino; Vi ne havas difekton."
+        },
+        {
+          "number": 8,
+          "text": "Kun mi el Lebanon venu, ho mia fianĉino, Kun mi el Lebanon; Rigardu malsupren de la pinto de Amana, De la pinto de Senir kaj Ĥermon, El la kavernoj de la leonoj, De la montoj de la leopardoj."
+        },
+        {
+          "number": 9,
+          "text": "Vi kortuŝis min, mia fratino, mia fianĉino; Vi kortuŝis min per unu ekrigardo de viaj okuloj, Per unu ĉeno de sur via kolo."
+        },
+        {
+          "number": 10,
+          "text": "Kiel bela estas via amo, mia fratino, mia fianĉino! Ho, kiom pli bona estas via amo, ol vino! Kaj la bonodoro de viaj parfumaĵoj estas pli bona, ol ĉiaj aromaĵoj!"
+        },
+        {
+          "number": 11,
+          "text": "Mielo gutadas el viaj lipoj, ho mia fianĉino; Mielo kaj lakto kuŝas sub via lango; Kaj la bonodoro de viaj vestoj estas kiel la bonodoro de Lebanon."
+        },
+        {
+          "number": 12,
+          "text": "Vi estas ĝardeno ŝlosita, ho mia fratino, mia fianĉino; Vi estas fonto ŝlosita, puto sigelita."
+        },
+        {
+          "number": 13,
+          "text": "Viaj kreskaĵoj estas paradizo de granatoj kun multevaloraj fruktoj, Plena de koferoj kaj nardoj;"
+        },
+        {
+          "number": 14,
+          "text": "Nardo kaj safrano; Kano kaj cinamo, kun ĉiuspecaj olibanarboj; Mirho kaj aloo kaj la plej delikataj aromaĵoj;"
+        },
+        {
+          "number": 15,
+          "text": "Ĝardenfonto, puto de vivanta akvo, Kaj riveretoj elfluantaj el Lebanon."
+        },
+        {
+          "number": 16,
+          "text": "Vekiĝu, ho norda vento, venu, ho suda vento; Trablovu mian ĝardenon, ke ĝiaj aromaĵoj elfluu. Venu mia amato en sian ĝardenon Kaj manĝu ĝiajn multevalorajn fruktojn."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mi venis en mian ĝardenon, mia fratino, mia fianĉino; Mi deŝiris mian mirhon kaj miajn aromaĵojn; Mi manĝis mian mielĉelaron, kiel ankaŭ mian mielon; Mi trinkis mian vinon, kiel ankaŭ mian lakton. Manĝu, ho miaj kamaradoj; Drinku kaj ebriiĝu, ho miaj amikoj."
+        },
+        {
+          "number": 2,
+          "text": "Mi dormis, sed mia koro estis maldorma; Jen estas la voĉo de mia amato, jen li ekfrapas: Malfermu al mi, ho mia fratino, mia amatino, mia kolombino, mia virtulino; Ĉar mia kapo estas plena de roso, Miaj harbukloj de la gutoj de la nokto."
+        },
+        {
+          "number": 3,
+          "text": "Mi jam demetis mian ĥitonon; kial mi ĝin denove surmetu? Mi jam lavis miajn piedojn; kial mi ilin malpurigu?"
+        },
+        {
+          "number": 4,
+          "text": "Mia amato etendis sian manon tra la truo, Kaj mia interno kompatis lin."
+        },
+        {
+          "number": 5,
+          "text": "Mi leviĝis, por malfermi al mia amato; Kaj de miaj manoj gutis mirho, Kaj miaj fingroj estis malsekaj de mirha fluidaĵo, Sur la riglilo de la seruro."
+        },
+        {
+          "number": 6,
+          "text": "Mi malfermis al mia amato; Sed mia amato forturniĝis kaj malaperis. Mia animo tremis, dum li parolis; Mi lin serĉis, sed mi lin ne trovis; Mi vokis lin, sed li ne respondis al mi."
+        },
+        {
+          "number": 7,
+          "text": "La gardistoj, kiuj ĉirkaŭas la urbon, renkontis min, Ili batis kaj vundis min; La gardistoj de la muroj deprenis de mi la kovrotukon."
+        },
+        {
+          "number": 8,
+          "text": "Mi ĵurligas vin, ho filinoj de Jerusalem, se vi renkontos mian amaton, Ho, kion vi diros al li? ke mi estas malsana de amo."
+        },
+        {
+          "number": 9,
+          "text": "Per kio diferencas via amato de aliaj amatoj, Ho belulino inter virinoj? Per kio diferencas via amato de aliaj amatoj, Ke vi tiele ĵurligas nin?"
+        },
+        {
+          "number": 10,
+          "text": "Mia amato estas blanka kaj ruĝa, Distinginda inter dekmilo."
+        },
+        {
+          "number": 11,
+          "text": "Lia kapo estas pura oro; Liaj haroj estas buklitaj, nigraj kiel korvo;"
+        },
+        {
+          "number": 12,
+          "text": "Liaj okuloj estas kiel kolomboj ĉe la akvotorentoj; Lavitaj per lakto, orname enkadrigitaj;"
+        },
+        {
+          "number": 13,
+          "text": "Liaj vangoj estas kiel bedoj de aromaĵoj, kiel kesto de ŝmiraĵisto; Liaj lipoj estas kiel rozoj, ili gutadas fluidan mirhon;"
+        },
+        {
+          "number": 14,
+          "text": "Liaj manoj estas kiel oraj ringoj, kadritaj per topazoj; Lia korpo estas ebura, enkrustita per safiroj;"
+        },
+        {
+          "number": 15,
+          "text": "Liaj kruroj estas kiel marmoraj kolonoj, enfiksitaj en bazoj el pura oro; Lia aspekto estas kiel Lebanon, majesta kiel cedroj;"
+        },
+        {
+          "number": 16,
+          "text": "Lia palato estas dolĉaĵoj; lia tutaĵo estas tre aminda. Tia estas mia amato, kaj tia estas mia kamarado, Ho filinoj de Jerusalem."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kien foriris via amato, Ho belulino inter virinoj? Kien forturniĝis via amato, Por ke ni lin serĉu kun vi?"
+        },
+        {
+          "number": 2,
+          "text": "Mia amato iris en sian ĝardenon, al la bedoj de aromaĵoj, Por paŝti en la ĝardenoj kaj kolekti rozojn."
+        },
+        {
+          "number": 3,
+          "text": "Mi apartenas al mia amato, kaj mia amato apartenas al mi; Tiu, kiu paŝtas inter la rozoj."
+        },
+        {
+          "number": 4,
+          "text": "Ho, mia amatino, vi estas bela kiel Tirca, Agrabla kiel Jerusalem, Terura kiel batalantaj taĉmentoj."
+        },
+        {
+          "number": 5,
+          "text": "Forturnu la okulojn for de mi, Ĉar ili venkas min. Viaj haroj estas kiel aro da kaprinoj, Deirantaj sur la deklivo de la monto Gilead."
+        },
+        {
+          "number": 6,
+          "text": "Viaj dentoj estas kiel aro da ŝafinoj, Kiuj elvenas el la lavejo; Ĉiuj estas en paroj, Kaj ne mankas eĉ unu el ili."
+        },
+        {
+          "number": 7,
+          "text": "Kiel peco de granato, viaj vangoj aspektas Malantaŭ via vualo."
+        },
+        {
+          "number": 8,
+          "text": "Da reĝinoj ekzistas sesdek, kaj okdeko da kromvirinoj, Kaj la junulinoj estas sennombraj."
+        },
+        {
+          "number": 9,
+          "text": "Sed unu sola estas mia kolombino, mia virtulino; Ŝi estas la sola ĉe sia patrino, La elektita de sia naskintino; La filinoj vidis ŝin, kaj nomas ŝin feliĉulino; La reĝinoj kaj la kromvirinoj laŭdas ŝin, dirante:"
+        },
+        {
+          "number": 10,
+          "text": "Kiu estas ŝi, kiu aspektas kiel la matenruĝo, Bela kiel la luno, Hela kiel la suno, Terura kiel batalantaj taĉmentoj?"
+        },
+        {
+          "number": 11,
+          "text": "Mi iris en la nuksarban ĝardenon, Por trarigardi la verdajn kreskaĵojn de la valo, Por vidi, ĉu la vinbertrunko burĝonas, ĉu la granatarboj floras."
+        },
+        {
+          "number": 12,
+          "text": "Tiam mi ankoraŭ ne sciis, Ke mia animo elektos min por la ĉaroj de la nobeloj de mia popolo."
+        },
+        {
+          "number": 13,
+          "text": "Turniĝu, turniĝu, ho Ŝulamit; Turniĝu, turniĝu, ke ni rigardu vin. Kial vi volas rigardi Ŝulamiton tiel, Kiel oni rigardas la dancadon de la taĉmentoj?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kiel belaj estas viaj paŝoj en sandaloj, ho filino de princo! La svingado de viaj femuroj estas kiel ĉenringoj, Majstre ellaboritaj."
+        },
+        {
+          "number": 2,
+          "text": "Via umbiliko estas kiel ronda pokalo, Al kiu trinkaĵo ne mankas; Via ventro estas kiel amaso da tritiko ĉirkaŭita de rozoj;"
+        },
+        {
+          "number": 3,
+          "text": "Viaj du mamoj estas kiel du cervidoj, Ĝemeloj de gazelino;"
+        },
+        {
+          "number": 4,
+          "text": "Via kolo estas kiel turo el eburo; Viaj okuloj kiel la lagetoj en Ĥeŝbon, ĉe la pordego de Bat-Rabim; Via nazo estas kiel la turo de Lebanon rigardanta Damaskon;"
+        },
+        {
+          "number": 5,
+          "text": "Via kapo sur vi estas kiel Karmel, Kaj la harbukloj de via kapo kiel la purpura robo de la reĝo, falde kunligita."
+        },
+        {
+          "number": 6,
+          "text": "Kiel bela kaj kiel ĉarma estas mia amatino inter la plezuroj!"
+        },
+        {
+          "number": 7,
+          "text": "Via staturo similas la palmotrunkon, Kaj viaj mamoj la vinberarojn."
+        },
+        {
+          "number": 8,
+          "text": "Mi diris: Mi suprengrimpos la palmotrunkon kaj teniĝos je ĝiaj branĉoj; Kaj viaj mamoj estu kiel la penikoj de la vinbertrunko, Kaj la bonodoro de via nazo kiel la bonodoro de citronoj;"
+        },
+        {
+          "number": 9,
+          "text": "Kaj via palato kiel vino bongusta, Kiu englitiĝas ĉarmege kaj glate, Kiu paroligas la lipojn de la dormantoj."
+        },
+        {
+          "number": 10,
+          "text": "Mi apartenas al mia amato, Kaj li sin tiras al mi."
+        },
+        {
+          "number": 11,
+          "text": "Venu, mia amato, ni eliru sur la kamparon; Ni enloĝiĝu en la vilaĝoj."
+        },
+        {
+          "number": 12,
+          "text": "Frumatene ni iru al la vinberĝardenoj; Ni rigardu, ĉu la vinbertrunko jam burĝonis, Ĉu ĝiaj floroj jam malfermiĝis, Ĉu la granatarboj jam floras; Tie mi donos al vi mian amon."
+        },
+        {
+          "number": 13,
+          "text": "La mandragoroj jam bonodoras, Kaj apud nia enirejo troviĝas delikataj fruktoj ĉiuspecaj, fruaj kaj malfruaj, Kiujn mi provizis por vi, ho mia amato!"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ho, se vi estus al mi kiel frato, Kiu suĉis la mamojn de mia patrino! Se mi renkontus vin ekstere, mi kisus vin; Kaj tamen neniu malestimus min."
+        },
+        {
+          "number": 2,
+          "text": "Mi gvidus vin, mi enkondukus vin en la domon de mia patrino; Vi instruus min, Kaj mi trinkigus al vi la spicitan vinon kaj la granatsukon."
+        },
+        {
+          "number": 3,
+          "text": "Lia maldekstra mano estu sub mia kapo, Kaj lia dekstra ĉirkaŭprenu min!"
+        },
+        {
+          "number": 4,
+          "text": "Mi ĵurligas vin, ho filinoj de Jerusalem, Ne veku nek sendormigu la amatinon, Ĝis ŝi mem volos."
+        },
+        {
+          "number": 5,
+          "text": "Kiu estas ŝi, kiu venas el la dezerto, Sin apogante sur sia amato? Sub la pomarbo mi vekis vin; Tie, kie via patrino vin naskis, Kie vin naskis via naskintino."
+        },
+        {
+          "number": 6,
+          "text": "Konservu min kiel sigelon en via koro, kiel sigelon sur via brako; Ĉar la amo estas forta kiel la morto; La ĵaluzo estas nefleksebla kiel Ŝeol; Ĝiaj brulaĵoj estas brulaĵoj de fajro, La flamo de la Eternulo."
+        },
+        {
+          "number": 7,
+          "text": "Granda akvo ne povas estingi la amon, Kaj riveroj ne povas superakvi ĝin; Se homo proponus doni la tutan havaĵon de sia domo por la amo, Oni malestime lin forpuŝus."
+        },
+        {
+          "number": 8,
+          "text": "Nia fratino ankoraŭ estas malgranda, Kaj mamojn ŝi ankoraŭ ne havas; Kion ni faros al nia fratino, Kiam oni svatos ŝin?"
+        },
+        {
+          "number": 9,
+          "text": "Se ŝi estos muro, ni konstruos sur ŝi arĝentan palacon; Kaj se ŝi estos pordo, ni ĉirkaŭbaros ŝin per traboj el cedro."
+        },
+        {
+          "number": 10,
+          "text": "Mi estas muro, kaj miaj mamoj kiel turoj; Mi jam estis al li kiel iu, kiu trovis favoron."
+        },
+        {
+          "number": 11,
+          "text": "Salomono posedis vinberĝardenon en Baal-Hamon; Li luigis la vinberĝardenon al gardistoj; Ĉiu devas alporti milon da arĝentaj moneroj pro ĝiaj fruktoj."
+        },
+        {
+          "number": 12,
+          "text": "Mia propra vinberĝardeno estas antaŭ mi. La milon al vi, ho Salomono, Kaj ducent al la gardistoj de ĝiaj fruktoj."
+        },
+        {
+          "number": 13,
+          "text": "Ho vi, loĝantino de la ĝardenoj, La kamaradoj volas aŭskulti vian voĉon; Al mi ĝin aŭdigu."
+        },
+        {
+          "number": 14,
+          "text": "Forkuru, ho mia amato, Kaj similiĝu al gazelo aŭ al cervo Sur la montoj de aromaĵoj."
+        }
+      ]
+    }
+  ]
+}

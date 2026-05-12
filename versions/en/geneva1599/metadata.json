@@ -1,0 +1,18 @@
+{
+  "slug": "geneva1599",
+  "shortName": "GNV",
+  "name": "Geneva Bible 1599",
+  "language": "en",
+  "year": 1599,
+  "license": "public-domain",
+  "licenseNote": "Public domain (1599 edition).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31090
+  },
+  "readerUrl": "https://midvash.com/geneva1599",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

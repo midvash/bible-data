@@ -1,0 +1,949 @@
+{
+  "version": "sv1917",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Detta är predikarens ord, Davids sons, konungens i Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "Fåfängligheters fåfänglighet! säger Predikaren. Fåfängligheters fåfänglighet! Allt är fåfänglighet!"
+        },
+        {
+          "number": 3,
+          "text": "Vad förmån har människan av all möda som hon gör sig under solen?"
+        },
+        {
+          "number": 4,
+          "text": "Släkte går, och släkte kommer, och jorden står evinnerligen kvar."
+        },
+        {
+          "number": 5,
+          "text": "Och solen går upp, och solen går ned, och har sedan åter brått att komma till den ort där hon går upp."
+        },
+        {
+          "number": 6,
+          "text": "Vinden far mot söder och vänder sig så mot norr; den vänder sig och vänder sig, allt under det att den far fram, och så begynner den åter sitt kretslopp."
+        },
+        {
+          "number": 7,
+          "text": "Alla floder rinna ut i havet, och ändå bliver havet aldrig fullt; där floderna förut hava runnit, dit rinna de ständigt åter."
+        },
+        {
+          "number": 8,
+          "text": "Alla arbetar utan rast; ingen kan utsäga det. Ögat mättas icke av att se, och örat bliver icke fullt av att höra."
+        },
+        {
+          "number": 9,
+          "text": "Vad som har varit är vad som kommer att vara, och vad som har hänt är vad som kommer att hända; intet nytt sker under solen."
+        },
+        {
+          "number": 10,
+          "text": "Inträffar något varom man ville säga: »Se, detta är nytt», så har detsamma ändå skett redan förut, i gamla tider, som voro före oss."
+        },
+        {
+          "number": 11,
+          "text": "Man kommer icke ihåg dem som levde före oss. Och dem som skola uppstå efter oss skall man icke heller komma ihåg bland dem som leva ännu senare."
+        },
+        {
+          "number": 12,
+          "text": "Jag, Predikaren, var konung över Israel i Jerusalem."
+        },
+        {
+          "number": 13,
+          "text": "Och jag vände mitt hjärta till att begrunda och utrannsaka genom vishet allt vad som händer under himmelen; sådant är ett uselt besvär, som Gud har givit människors barn till att plåga sig med."
+        },
+        {
+          "number": 14,
+          "text": "När jag nu såg på allt vad som händer under himmelen, se, då var det allt fåfänglighet och ett jagande efter vind."
+        },
+        {
+          "number": 15,
+          "text": "Det som är krokigt kan icke bliva rakt, och det som ej finnes kan ej komma med i någon räkning."
+        },
+        {
+          "number": 16,
+          "text": "Jag sade i mitt hjärta: »Se, jag har förvärvat mig stor vishet, och jag har förökat den, så att den övergår allas som före mig hava regerat över Jerusalem; ja, vishet och insikt har mitt hjärta inhämtat i rikt mått.»"
+        },
+        {
+          "number": 17,
+          "text": "Men när jag nu vände mitt hjärta till att förstå vishet och till att förstå oförnuft och dårskap, då insåg jag att också detta var ett jagande efter vind."
+        },
+        {
+          "number": 18,
+          "text": "Ty där mycken vishet är, där är mycken grämelse; och den som förökar sin insikt, han förökar sin plåga."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jag sade i mitt hjärta: »Välan, jag vill pröva huru glädje kommer dig, gör dig nu goda dagar.» Men se, också detta var fåfänglighet."
+        },
+        {
+          "number": 2,
+          "text": "Jag måste säga om löjet: »Det är dårskap», och om glädjen: »Vad gagnar den till?»"
+        },
+        {
+          "number": 3,
+          "text": "I mitt hjärta begrundade jag huru jag skulle pläga min kropp med vin -- allt under det att mitt hjärta ägnade sig åt vishet -- och huru jag skulle hålla fast vid dårskap, till dess jag finge se vad som vore bäst för människors barn att göra under himmelen, de dagar de leva."
+        },
+        {
+          "number": 4,
+          "text": "Jag företog mig stora arbeten, jag byggde hus åt mig, jag planterade vingårdar åt mig."
+        },
+        {
+          "number": 5,
+          "text": "Jag anlade åt mig lustgårdar och parker och planterade i dem alla slags fruktträd."
+        },
+        {
+          "number": 6,
+          "text": "Jag anlade vattendammar åt mig för att ur dem vattna den skog av träd, som växte upp."
+        },
+        {
+          "number": 7,
+          "text": "Jag köpte trälar och trälinnor, och hemfödda tjänare fostrades åt mig; jag fick ock boskap, fäkreatur och får, i större myckenhet än någon som före mig hade varit i Jerusalem."
+        },
+        {
+          "number": 8,
+          "text": "Jag samlade mig jämväl silver och guld och allt vad konungar och länder kunna äga; jag skaffade mig sångare och sångerskor och vad som är människors lust: en hustru, ja, många."
+        },
+        {
+          "number": 9,
+          "text": "Så blev jag stor, allt mer och mer, större än någon som före mig hade varit i Jerusalem; och under detta bevarade jag ändå min vishet."
+        },
+        {
+          "number": 10,
+          "text": "Intet som mina ögon begärde undanhöll jag dem, och ingen glädje nekade jag mitt hjärta. Ty mitt hjärta fann glädje i all min möda, och detta var min behållna del av all min möda."
+        },
+        {
+          "number": 11,
+          "text": "Men när jag så vände mig till att betrakta alla de verk som mina händer hade gjort, och den möda som jag hade nedlagt på dem, se, då var det allt fåfänglighet och ett jagande efter vind. Ja, under solen finnes intet som kan räknas för vinning."
+        },
+        {
+          "number": 12,
+          "text": "När jag alltså vände mig till att jämföra vishet med oförnuft och dårskap -- ty vad kunna de människor göra, som komma efter konungen, annat än detsamma som man redan förut har gjort? --"
+        },
+        {
+          "number": 13,
+          "text": "då insåg jag att visheten väl har samma företräde framför dårskapen, som ljuset har framför mörkret:"
+        },
+        {
+          "number": 14,
+          "text": "Den vise har ögon i sitt huvud, men dåren vandrar i mörker.  Dock märkte jag att det går den ene som den andre."
+        },
+        {
+          "number": 15,
+          "text": "Då sade jag i mitt hjärta: »Såsom det går dåren, så skall det ock gå mig; vad gagn har då därav att jag är förmer i vishet?» Och jag sade i mitt hjärta att också detta var fåfänglighet."
+        },
+        {
+          "number": 16,
+          "text": "Ty den vises minne varar icke evinnerligen, lika litet som dårens; i kommande dagar skall ju alltsammans redan vara förgätet. Och måste icke den vise dö såväl som dåren?"
+        },
+        {
+          "number": 17,
+          "text": "Och jag blev led vid livet, ty illa behagade mig vad som händer under solen, eftersom allt är fåfänglighet och ett jagande efter vind."
+        },
+        {
+          "number": 18,
+          "text": "Ja, jag blev led vid all den möda som jag hade gjort mig under solen, eftersom jag åt någon annan som skall komma efter mig måste lämna vad jag har gjort."
+        },
+        {
+          "number": 19,
+          "text": "Och vem vet om denne skall vara en vis man eller en dåre? Men ändå skall han få råda över allt det varpå jag har nedlagt min möda och min vishet under solen. Också detta är fåfänglighet."
+        },
+        {
+          "number": 20,
+          "text": "Så begynte jag då att åter förtvivla i mitt hjärta över all den möda som jag hade gjort mig under solen."
+        },
+        {
+          "number": 21,
+          "text": "Ty om en människa med vishet och insikt och skicklighet har utstått sin möda, så måste hon dock lämna sin del åt en annan som icke har haft någon möda därmed. Också detta är fåfänglighet och ett stort elände."
+        },
+        {
+          "number": 22,
+          "text": "Ja, vad gagn har människan av all möda och hjärteoro som hon gör sig under solen?"
+        },
+        {
+          "number": 23,
+          "text": "Alla hennes dagar äro ju fulla av plåga, och det besvär hon har är fullt av grämelse; icke ens om natten får hennes hjärta någon ro. Också detta är fåfänglighet."
+        },
+        {
+          "number": 24,
+          "text": "Det är icke en lycka som beror av människan själv, att hon kan äta och dricka och göra sig goda dagar under sin möda. Jag insåg att också detta kommer från Guds hand, hans som har sagt:"
+        },
+        {
+          "number": 25,
+          "text": "»Vem kan äta, och vem kan njuta, mig förutan?»"
+        },
+        {
+          "number": 26,
+          "text": "Ty åt den människa som täckes honom giver han vishet och insikt och glädje; men åt syndaren giver han besväret att samla in och lägga tillhopa, för att det sedan må tillfalla någon som täckes Gud. Också detta är fåfänglighet och ett jagande efter vind."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Allting har sin tid, och vart företag under himmelen har sin stund."
+        },
+        {
+          "number": 2,
+          "text": "Födas har sin tid, och dö har sin tid. Plantera har sin tid, och rycka upp det planterade har sin tid."
+        },
+        {
+          "number": 3,
+          "text": "Dräpa har sin tid, och läka har sin tid. Bryta ned har sin tid, och bygga upp har sin tid."
+        },
+        {
+          "number": 4,
+          "text": "Gråta har sin tid, och le har sin tid. Klaga har sin tid, och dansa har sin tid."
+        },
+        {
+          "number": 5,
+          "text": "Kasta undan stenar har sin tid, och samla ihop stenar har sin tid. Taga i famn har sin tid, och avhålla sig från famntag har sin tid."
+        },
+        {
+          "number": 6,
+          "text": "Söka upp har sin tid, och tappa bort har sin tid. Förvara har sin tid, och kasta bort har sin tid."
+        },
+        {
+          "number": 7,
+          "text": "Riva sönder har sin tid, och sy ihop har sin tid. Tiga har sin tid, och tala har sin tid."
+        },
+        {
+          "number": 8,
+          "text": "Älska har sin tid, och hata har sin tid. Krig har sin tid, och fred har sin tid."
+        },
+        {
+          "number": 9,
+          "text": "Vad förmån av sin möda har då den som arbetar?"
+        },
+        {
+          "number": 10,
+          "text": "Jag såg vilket besvär Gud har givit människors barn till att plåga sig med."
+        },
+        {
+          "number": 11,
+          "text": "Allt har han gjort skönt för sin tid, ja, han har ock lagt evigheten i människornas hjärtan, dock så, att de icke förmå att till fullo, ifrån begynnelsen intill änden, fatta det verk som Gud har gjort."
+        },
+        {
+          "number": 12,
+          "text": "Jag insåg att intet är bättre för dem, än att de äro glada och göra sig goda dagar, så länge de leva."
+        },
+        {
+          "number": 13,
+          "text": "Men om någon kan äta och dricka och njuta vad gott är under all sin möda, så är också detta en Guds gåva."
+        },
+        {
+          "number": 14,
+          "text": "Jag insåg att allt vad Gud gör skall förbliva evinnerligen; man kan icke lägga något därtill, ej heller taga något därifrån. Och Gud har så gjort, för att man skall frukta honom."
+        },
+        {
+          "number": 15,
+          "text": "Vad som är, det var redan förut, och vad som kommer att ske, det skedde ock redan förut; Gud söker blott fram det förgångna."
+        },
+        {
+          "number": 16,
+          "text": "Ytterligare såg jag under solen att på domarsätet rådde orättfärdighet, och på rättfärdighetens säte orättfärdighet."
+        },
+        {
+          "number": 17,
+          "text": "Då sade jag i mitt hjärta: Både den rättfärdige och den orättfärdige skall Gud döma; ty vart företag och allt vad man gör har sin tid hos honom."
+        },
+        {
+          "number": 18,
+          "text": "Jag sade i mitt hjärta: För människornas skull sker detta, på det att Gud må pröva dem, och på det att de själva må inse att de äro såsom fänad."
+        },
+        {
+          "number": 19,
+          "text": "Ty det går människors barn såsom det går fänaden, dem alla går det lika. Såsom fänaden dör, så dö ock de; enahanda ande hava de ock alla. Ja, människorna hava intet framför fänaden, ty allt är fåfänglighet."
+        },
+        {
+          "number": 20,
+          "text": "Alla går de till samma mål; alla have de kommit av stoft, och alla skola de åter varda stoft."
+        },
+        {
+          "number": 21,
+          "text": "Vem kan veta om människornas ande att den stiger uppåt, och om fänadens ande att den far ned under jorden?"
+        },
+        {
+          "number": 22,
+          "text": "Och jag såg att intet är bättre för människan, än att hon är glad under sitt arbete; ty detta är den del hon får. Ty vem kan föra henne tillbaka, så att hon får se och hava glädje av vad som skall ske efter henne?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Och ytterligare såg jag på alla de våldsgärningar som förövas under solen. Jag såg förtryckta fälla tårar, och ingen fanns, som tröstade dem; jag såg dem lida övervåld av sina förtryckares hand, och ingen fanns, som tröstade dem."
+        },
+        {
+          "number": 2,
+          "text": "Då prisade jag de döda, som redan hade fått dö, lyckliga framför de levande, som ännu leva;"
+        },
+        {
+          "number": 3,
+          "text": "Men lycklig framför båda prisade jag den som ännu icke hade kommit till, den som hade sluppit att se vad ont som göres under solen."
+        },
+        {
+          "number": 4,
+          "text": "Och jag såg att all möda och all skicklighet i vad som göres icke är annat än den enes avund mot den andre. Också detta är fåfänglighet och ett jagande efter vind."
+        },
+        {
+          "number": 5,
+          "text": "Dåren lägger händerna i kors och tär så sitt eget kött."
+        },
+        {
+          "number": 6,
+          "text": "Ja, bättre är en handfull ro än båda händerna fulla med möda och med jagande efter vind."
+        },
+        {
+          "number": 7,
+          "text": "Och ytterligare såg jag något som är fåfänglighet under solen:"
+        },
+        {
+          "number": 8,
+          "text": "mången finnes, som står ensam och icke har någon jämte sig, varken son eller broder; och likväl är det ingen ände på all hans möda, och hans ögon bliva icke mätta på rikedom. Och för vem mödar jag mig då och nekar mig själv vad gott är? Också detta är fåfänglighet och ett uselt besvär."
+        },
+        {
+          "number": 9,
+          "text": "Bättre är att vara två än en, ty de två få större vinning av sin möda."
+        },
+        {
+          "number": 10,
+          "text": "Om någondera faller, så kan ju den andre resa upp sin medbroder. Men ve den ensamme, om han faller och icke en annan finnes, som kan resa upp honom."
+        },
+        {
+          "number": 11,
+          "text": "Likaledes, om två ligga tillsammans, så hava de det varmt; men huru skall den ensamme bliva varm?"
+        },
+        {
+          "number": 12,
+          "text": "Och om någon kan slå ned den som är ensam, så hålla dock två stånd mot angriparen. Och en tretvinnad tråd brister icke så snart."
+        },
+        {
+          "number": 13,
+          "text": "Bättre än en gammal konung som är dåraktig och ej har förstånd nog att låta varna sig är en fattig yngling med vishet."
+        },
+        {
+          "number": 14,
+          "text": "Ty ifrån fängelset gick en gång en sådan till konungavälde, fastän han var född i fattigdom inom den andres rike."
+        },
+        {
+          "number": 15,
+          "text": "Jag såg huru alla som levde och rörde sig under solen följde ynglingen, denne nye som skulle träda i den förres ställe;"
+        },
+        {
+          "number": 16,
+          "text": "det var ingen ände på hela skaran av alla dem som han gick i spetsen för. Men ändå hava de efterkommande ingen glädje av honom. Ty också detta är fåfänglighet och ett jagande efter vind.       Bevara din fot, när du går till Guds hus; att komma dit för att höra är bättre än något slaktoffer som dårarna frambära; ty de äro oförståndiga och göra så vad ont är."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Var icke obetänksam med din mun, och låt icke ditt hjärta förhasta sig med att uttala något ord inför Gud. Gud är ju i himmelen, och du är på jorden; låt därför dina ord vara få."
+        },
+        {
+          "number": 2,
+          "text": "Ty tanklöshet har med sig mångahanda besvär, och en dåres röst har överflöd på ord."
+        },
+        {
+          "number": 3,
+          "text": "När du har gjort ett löfte åt Gud, så dröj icke att infria det; ty till dårar har han icke behag. Det löfte du har givit skall du infria."
+        },
+        {
+          "number": 4,
+          "text": "Det är bättre att du intet lovar, än att du gör ett löfte och icke infriar det."
+        },
+        {
+          "number": 5,
+          "text": "Låt icke din mun draga skuld över hela din kropp; och säg icke inför Guds sändebud att det var ett förhastande. Icke vill du att Gud skall förtörnas för ditt tals skull, så att han fördärvar sina händers verk?"
+        },
+        {
+          "number": 6,
+          "text": "Se, där mycken tanklöshet och fåfänglighet är, där är ock en myckenhet av ord. Ja, Gud må du frukta."
+        },
+        {
+          "number": 7,
+          "text": "Om du ser att den fattige förtryckes, och att rätt och rättfärdighet våldföres i landet, så förundra dig icke däröver; ty på den höge vaktar en högre, och andra ännu högre vakta på dem båda."
+        },
+        {
+          "number": 8,
+          "text": "Och vid allt detta är det en förmån för ett land att hava en konung som så styr, att marken bliver brukad."
+        },
+        {
+          "number": 9,
+          "text": "Den som så älskar penningar bliver icke mätt på penningar, och den som älskar rikedom har ingen vinning därav.  Också detta är fåfänglighet."
+        },
+        {
+          "number": 10,
+          "text": "När ägodelarna förökas, bliva ock de som äta av dem många; och till vad gagn äro de då för ägaren, utom att hans ögon få se dem?"
+        },
+        {
+          "number": 11,
+          "text": "Söt är arbetarens sömn, vare sig han har litet eller mycket att äta; men den rikes överflöd tillstädjer honom icke att sova."
+        },
+        {
+          "number": 12,
+          "text": "Ett bedrövligt elände som jag har sett under solen är det att hopsparad rikedom kan bliva sin ägare till skada."
+        },
+        {
+          "number": 13,
+          "text": "Och om rikedomen har gått förlorad för någon genom en olycka, så får hans son, om han har fött en son, alls intet därav."
+        },
+        {
+          "number": 14,
+          "text": "Sådan som han kom ur sin moders liv måste han själv åter gå bort, lika naken som han kom, och för sin möda får han alls intet som han kan taga med sig."
+        },
+        {
+          "number": 15,
+          "text": "Också det är ett bedrövligt elände. Om han måste gå bort alldeles sådan som han kom, vad förmån har han då därav att han så mödar sig -- för vind?"
+        },
+        {
+          "number": 16,
+          "text": "Nej, alla sina livsdagar framlever han i mörker; och mycken grämelse har han, och plåga och förtret."
+        },
+        {
+          "number": 17,
+          "text": "Se, vad jag har funnit vara bäst och skönast för människan, det är att hon äter och dricker och gör sig goda dagar vid den möda som hon har under solen, medan de livsdagar vara, som Gud giver henne; ty detta är den del hon får."
+        },
+        {
+          "number": 18,
+          "text": "Och om Gud åt någon har givit rikedom och skatter, och därtill förunnat honom makt att njuta härav och att göra sig till godo sin del och att vara glad under sin möda, så är också detta en Guds gåva."
+        },
+        {
+          "number": 19,
+          "text": "Ty man tänker då icke så mycket på sina livsdagars gång, när Gud förlänar glädje i hjärtat."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ett elände som jag har sett under solen, och som kommer tungt över människorna är det,"
+        },
+        {
+          "number": 2,
+          "text": "när Gud åt någon har givit rikedom och skatter och ära, så att denne för sin räkning intet saknar av allt det han önskar sig, och Gud sedan icke förunnar honom makt att själv njuta därav, utan låter en främling få njuta därav; detta är fåfänglighet och en usel plåga."
+        },
+        {
+          "number": 3,
+          "text": "Om en man än finge hundra barn och finge leva i många år, ja, om hans livsdagar bleve än så många, men hans själ icke finge njuta sig mätt av hans goda, och om han så bleve utan begravning, då säger jag: lyckligare än han är ett ofullgånget foster."
+        },
+        {
+          "number": 4,
+          "text": "Ty såsom ett fåfängligt ting har detta kommit till världen, och i mörker går det bort, och i mörker höljes dess namn;"
+        },
+        {
+          "number": 5,
+          "text": "det fick ej ens se solen, och det vet av intet. Ett sådant har bättre ro än han."
+        },
+        {
+          "number": 6,
+          "text": "Ja, om han än levde i två gånger tusen år utan att få njuta något gott -- gå icke ändå alla till samma mål?"
+        },
+        {
+          "number": 7,
+          "text": "All människans möda är för hennes mun, och likväl bliver hennes hunger icke mättad."
+        },
+        {
+          "number": 8,
+          "text": "Ty vad förmån har den vise framför dåren? Vad båtar det den fattige, om han förstår att skicka sig inför de levande?"
+        },
+        {
+          "number": 9,
+          "text": "Bättre är att se något för ögonen än att fara efter något med begäret.  Också detta är fåfänglighet och ett jagande efter vind."
+        },
+        {
+          "number": 10,
+          "text": "Vad som är, det var redan förut nämnt vid namn; förutbestämt var vad en människa skulle bliva. Och hon kan icke gå till rätta med honom som är mäktigare än hon själv."
+        },
+        {
+          "number": 11,
+          "text": "Ty om man ock ordar än så mycket och därmed förökar fåfängligheten, vad förmån har man därav?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ty vem vet vad gott som skall hända en människa i livet, under de fåfängliga livsdagar som hon får framleva, lik en skugga? Och vem kan säga en människa vad som efter henne skall ske under solen?"
+        },
+        {
+          "number": 2,
+          "text": "Bättre är gott namn än god salva, och bättre är dödens dag än födelsedagen."
+        },
+        {
+          "number": 3,
+          "text": "Bättre än att gå i gästabudshus är det att gå i sorgehus; ty där är änden för alla människor, och den efterlevande må lägga det på hjärtat."
+        },
+        {
+          "number": 4,
+          "text": "Bättre är grämelse än löje, ty av det som gör ansiktet sorgset far hjärtat väl."
+        },
+        {
+          "number": 5,
+          "text": "De visas hjärtan äro i sorgehus, och dårarnas hjärtan i hus där man glädes."
+        },
+        {
+          "number": 6,
+          "text": "Bättre är att höra förebråelser av en vis man än att få höra sång av dårar."
+        },
+        {
+          "number": 7,
+          "text": "Ty såsom sprakandet av törne under grytan, så är dårarnas löje.  Också detta är fåfänglighet."
+        },
+        {
+          "number": 8,
+          "text": "Ty vinningslystnad gör den vise till en dåre, och mutor fördärva hjärtat."
+        },
+        {
+          "number": 9,
+          "text": "Bättre är slutet på en sak än dess begynnelse; bättre är en tålmodig man än en högmodig."
+        },
+        {
+          "number": 10,
+          "text": "Var icke för hastig i ditt sinne till att gräma dig, ty grämelse bor i dårars bröst."
+        },
+        {
+          "number": 11,
+          "text": "Spörj icke: »Varav kommer det att forna dagar voro bättre än våra?» Ty icke av vishet kan du fråga så."
+        },
+        {
+          "number": 12,
+          "text": "Jämgod med arvgods är vishet, ja, hon är förmer i värde för dom som se solen."
+        },
+        {
+          "number": 13,
+          "text": "Ty under vishetens beskärm är man såsom under penningens beskärm, men den förståndiges förmån är att visheten behåller sin ägare vid liv."
+        },
+        {
+          "number": 14,
+          "text": "Se på Guds verk; vem kan göra rakt vad han har gjort krokigt?"
+        },
+        {
+          "number": 15,
+          "text": "Var alltså vid gott mod under den goda dagen, och betänk under den onda dagen att Gud har gjort denna såväl som den andra, för att människan icke skall kunna utfinna något om det som skall ske, när hon är borta."
+        },
+        {
+          "number": 16,
+          "text": "Det ena som det andra har jag sett under mina fåfängliga dagar: mången rättfärdig som har förgåtts i sin rättfärdighet, och mången orättfärdig som länge har fått leva i sin ondska."
+        },
+        {
+          "number": 17,
+          "text": "Var icke alltför rättfärdighet, och var icke alltför mycket vis; icke vill du fördärva dig själv?"
+        },
+        {
+          "number": 18,
+          "text": "Var icke alltför orättfärdig, och var icke en dåre; icke vill du dö i förtid?"
+        },
+        {
+          "number": 19,
+          "text": "Det är bäst att du håller fast vid det ena, utan att ändå släppa det andra; ty den som fruktar Gud finner en utväg ur allt detta."
+        },
+        {
+          "number": 20,
+          "text": "Visheten gör den vise starkare än tio väldiga i staden."
+        },
+        {
+          "number": 21,
+          "text": "Ty ingen människa är så rättfärdig på jorden, att hon gör vad gott är och icke begår någon synd."
+        },
+        {
+          "number": 22,
+          "text": "Akta icke heller på alla ord som man talar, eljest kunde du få höra din egen tjänare uttala förbannelser över dig."
+        },
+        {
+          "number": 23,
+          "text": "Ditt hjärta vet ju att du själv mången gång har uttalat förbannelser över andra."
+        },
+        {
+          "number": 24,
+          "text": "Detta allt har jag försökt att utröna genom vishet. Jag sade: »Jag vill bliva vis», men visheten förblev fjärran ifrån mig."
+        },
+        {
+          "number": 25,
+          "text": "Ja, tingens väsen ligger i fjärran, djupt nere i djupet; vem kan utgrunda det?"
+        },
+        {
+          "number": 26,
+          "text": "När jag vände mig med mitt hjärta till att eftersinna och begrunda, och till att söka visheten och det som är huvudsumman, och till att förstå ogudaktigheten i dess dårskap och dåraktigheten i dess oförnuft,"
+        },
+        {
+          "number": 27,
+          "text": "då fann jag något som var bittrare än döden: kvinnan, hon som själv är ett nät, och har ett hjärta som är en snara, och armar som äro bojor. Den som täckes Gud kan undkomma henne, men syndaren bliver hennes fånge."
+        },
+        {
+          "number": 28,
+          "text": "Se, detta fann jag, säger Predikaren, i det jag lade det ena till det andra för att komma till huvudsumman."
+        },
+        {
+          "number": 29,
+          "text": "Något gives, som min själ beständigt har sökt, men som jag icke har funnit: väl har jag funnit en man bland tusen, men en kvinna har jag icke funnit i hela hopen. Dock se, detta har jag funnit, att Gud har gjort människorna sådana de borde vara, men själva tänka de ut mångahanda funder."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vem är lik den vise, och vem förstår att så uttyda en sak? Visheten gör människans ansikte ljust, genom den förvandlas det råa i hennes uppsyn."
+        },
+        {
+          "number": 2,
+          "text": "Jag säger er: Akta på konungens bud, ja, gör det för den eds skull som du har svurit vid Gud."
+        },
+        {
+          "number": 3,
+          "text": "Förhasta dig icke att övergiva honom, inlåt dig ej på något som är ont; han kan ju göra allt vad han vill."
+        },
+        {
+          "number": 4,
+          "text": "Ty en konungs ord är mäktigt, och vem kan säga till honom: »Vad gör du?»"
+        },
+        {
+          "number": 5,
+          "text": "Den som håller budet skall icke veta av något ont; och tid och sätt skall den vises hjärta lära känna."
+        },
+        {
+          "number": 6,
+          "text": "Ty vart företag har sin tid och sitt sätt, och en människas ondska kommer tungt över henne."
+        },
+        {
+          "number": 7,
+          "text": "Hon vet ju icke vad som kommer att ske; vem kan säga henne huru något kommer att ske?"
+        },
+        {
+          "number": 8,
+          "text": "Ingen människa har makt över vinden, till att hejda den, ej heller har någon makt över dödens dag, ej heller finnes undflykt i krig; så kan ogudaktigheten icke rädda sin man."
+        },
+        {
+          "number": 9,
+          "text": "Allt detta såg jag, när jag gav akt på allt vad som händer under solen, i en tid då den ena människan har makt över den andra, henne till olycka."
+        },
+        {
+          "number": 10,
+          "text": "Ock likaledes såg jag att de ogudaktiga fingo komma i sin grav och gå till vila, under det att sådana som hade gjort vad rätt var måste draga bort ifrån den Heliges boning och blevo förgätna i staden. Också detta är fåfänglighet."
+        },
+        {
+          "number": 11,
+          "text": "Därför att dom icke strax går över vad ont som göres, få människors barn dristighet att göra det ont är,"
+        },
+        {
+          "number": 12,
+          "text": "eftersom syndaren hundra gånger kan göra vad ont är och likväl får länge leva. Dock vet jag ju att det skall gå de gudfruktiga väl, därför att de frukta Gud,"
+        },
+        {
+          "number": 13,
+          "text": "men att det icke skall gå den ogudaktige väl, och att hans dagar icke skola förlängas, såsom skuggan förlänges, eftersom han icke fruktar Gud."
+        },
+        {
+          "number": 14,
+          "text": "En fåfänglighet som händer här på jorden är det att rättfärdiga finnas, vilka det går såsom hade de gjort de ogudaktigas gärningar, och att ogudaktiga finnas, vilka det går såsom hade de gjort de rättfärdigas gärningar. Jag sade: Också detta är fåfänglighet."
+        },
+        {
+          "number": 15,
+          "text": "Så prisade jag då glädjen och fann att intet är bättre för människan under solen, än att hon äter ock dricker och är glad, så att detta får följa henne vid hennes möda, under de livsdagar som Gud giver henne under solen."
+        },
+        {
+          "number": 16,
+          "text": "När jag vände mitt hjärta till att förstå vishet, och till att betrakta det besvär som man gör sig på jorden utan att få sömn i sina ögon, varken dag eller natt,"
+        },
+        {
+          "number": 17,
+          "text": "då insåg jag att det är så med alla Guds verk, att människan icke förmår fatta vad som händer under solen; ty huru mycket en människa än mödar sig för att utforska det, fattar hon det ändå icke. Och om någon vis man tänker att han skall kunna förstå det, så kommer han ändå icke att kunna fatta det."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ja, allt detta har jag besinnat, och jag har sökt pröva allt detta, huru de rättfärdiga och de visa och deras verk äro i Guds våld. Varken om kärlek eller hat kan en människa veta något förut; allt kan förestå henne."
+        },
+        {
+          "number": 2,
+          "text": "Ja, allt kan vederfaras alla; det går den rättfärdige såsom den ogudaktige, den gode och rene såsom den orene, den som offrar såsom den vilken icke offrar; den gode räknas lika med syndaren, den som svär bliver lik den som har försyn för att svärja."
+        },
+        {
+          "number": 3,
+          "text": "Ett elände vid allt som händer under solen är detta, att det går alla lika. Därför äro ock människornas hjärtan fulla med ondska, och oförnuft är i deras hjärtan, så länge de leva; och sedan måste de ned bland de döda."
+        },
+        {
+          "number": 4,
+          "text": "För den som utkoras att vara i de levandes skara finnes ju ännu något att hoppas; ty bättre är att vara en levande hund än ett dött lejon."
+        },
+        {
+          "number": 5,
+          "text": "Och väl veta de som leva att de måste dö, men de döda vet alls intet, och de hava ingen vinning mer att vänta, utan deras åminnelse är förgäten."
+        },
+        {
+          "number": 6,
+          "text": "Både deras kärlek och deras hat och deras avund hava redan nått sin ände, och aldrig någonsin få de mer någon del i vad som händer under solen."
+        },
+        {
+          "number": 7,
+          "text": "Välan, så ät då ditt bröd med glädje, och drick ditt vin med glatt hjärta, ty Gud har redan i förväg givit sitt bifall till vad du gör."
+        },
+        {
+          "number": 8,
+          "text": "Låt dina kläder alltid vara vita, och låt aldrig olja fattas på ditt huvud."
+        },
+        {
+          "number": 9,
+          "text": "Njut livet med någon kvinna som du älskar, så länge de fåfängliga livsdagar vara, som förlänas dig under solen, ja, under alla dina fåfängliga dagar; ty detta är den del du får i livet vid den möda som du gör dig under solen."
+        },
+        {
+          "number": 10,
+          "text": "Allt vad du förmår uträtta med din kraft må du söka uträtta; ty i dödsriket, dit du går, kan man icke verka eller tänka, där finnes ingen insikt eller vishet."
+        },
+        {
+          "number": 11,
+          "text": "Ytterligare såg jag under solen att det icke beror av de snabba huru de lyckas i löpandet, icke av hjältarna huru striden utfaller, icke av de visa huru de få sitt bröd, icke av de kloka vad rikedom de förvärva, eller av de förståndiga vad ynnest de vinna, utan att allt för dem beror av tid och lägenhet."
+        },
+        {
+          "number": 12,
+          "text": "Ty människan känner icke sin tid, lika litet som fiskarna, vilka fångas i olycksnätet, eller fåglarna, vilka fastna i snaran. Såsom dessa, så snärjas ock människornas barn på olyckans tid, när ofärd plötsligt faller över dem."
+        },
+        {
+          "number": 13,
+          "text": "Också detta såg jag under solen, ett visdomsverk, som tycktes mig stort:"
+        },
+        {
+          "number": 14,
+          "text": "Det fanns en liten stad med få invånare, och mot den kom en stor konung och belägrade den och byggde stora bålverk mot den."
+        },
+        {
+          "number": 15,
+          "text": "Men därinne fanns en fattig man som var vis; och denne räddade staden genom sin vishet. Dock, sedan tänkte ingen människa på denne fattige man."
+        },
+        {
+          "number": 16,
+          "text": "Då sade jag: Väl är vishet bättre än styrka, men den fattiges vishet bliver icke föraktad, och hans ord varda icke hörda."
+        },
+        {
+          "number": 17,
+          "text": "De vises ord, om de ock höras helt stilla, äro förmer än allt ropande av en dårarnas överste."
+        },
+        {
+          "number": 18,
+          "text": "Bättre är vishet än krigsredskap; ty en enda som felar kan fördärva mycket gott."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Giftflugor vålla stank och jäsning i salvoberedarens salva; så uppväger ett grand av dårskap både vishet och ära."
+        },
+        {
+          "number": 2,
+          "text": "Den vise har sitt hjärta åt höger, men dåren har sitt hjärta åt vänster."
+        },
+        {
+          "number": 3,
+          "text": "Ja, varhelst dåren går kommer hans förstånd till korta, och till alla säger han ifrån, att han är en dåre."
+        },
+        {
+          "number": 4,
+          "text": "Om hos en furste vrede uppstår mot dig, så håll dig dock stilla, ty saktmod gör stora synder ogjorda."
+        },
+        {
+          "number": 5,
+          "text": "Ett elände gives, som jag har sett under solen, ett fel som beror av den som har makten:"
+        },
+        {
+          "number": 6,
+          "text": "att dårskap sättes på höga platser, medan förnämliga män få sitta i förnedring."
+        },
+        {
+          "number": 7,
+          "text": "Jag har sett trälar färdas till häst och hövdingar få gå till fots såsom trälar."
+        },
+        {
+          "number": 8,
+          "text": "Den som gräver en grop, han faller själv däri, och den som bryter ned en mur, honom stinger ormen."
+        },
+        {
+          "number": 9,
+          "text": "Den som vältrar bort stenar bliver skadad av dem, den som hugger ved kommer i fara därvid."
+        },
+        {
+          "number": 10,
+          "text": "Om man icke slipar eggen, när ett järn har blivit slött, så måste man anstränga krafterna dess mer; och vishet är att göra allt på bästa sätt."
+        },
+        {
+          "number": 11,
+          "text": "Om ormen får stinga, innan han har blivit tjusad, så har besvärjaren intet gagn av sin konst."
+        },
+        {
+          "number": 12,
+          "text": "Med sin muns ord förvärvar den vise ynnest, men dårens läppar fördärva honom själv."
+        },
+        {
+          "number": 13,
+          "text": "Begynnelsen på hans muns ord är dårskap, och änden på hans tal är uselt oförnuft."
+        },
+        {
+          "number": 14,
+          "text": "Och dåren är rik på ord; dock vet ingen människa vad som skall ske; vem kan säga en människa vad som efter henne skall ske?"
+        },
+        {
+          "number": 15,
+          "text": "Dårens möda bliver honom tung, ty icke ens till staden hittar han fram."
+        },
+        {
+          "number": 16,
+          "text": "Ve dig, du land vars konung är ett barn, och vars furstar hålla måltid redan på morgonen!"
+        },
+        {
+          "number": 17,
+          "text": "Väl dig, du land vars konung är en ädling, och vars furstar hålla måltid i tillbörlig tid, med måttlighet, och icke för att överlasta sig!"
+        },
+        {
+          "number": 18,
+          "text": "Genom lättja förfalla husets bjälkar, och genom försumlighet dryper det in i huset."
+        },
+        {
+          "number": 19,
+          "text": "Till sin förlustelse håller man gästabud, och vinet gör livet glatt; men penningen är det som förlänar alltsammans."
+        },
+        {
+          "number": 20,
+          "text": "Uttala ej ens i din tanke förbannelser över en konung, och ej ens i din sovkammare förbannelser över en rik man; ty himmelens fåglar böra fram ditt tal, och de bevingade förkunna vad du har sagt."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sänd ditt bröd över vattnet, ty i tidens längd får du det tillbaka."
+        },
+        {
+          "number": 2,
+          "text": "Dela vad du har i sju delar, ja, i åtta, ty du vet icke vilken olycka som kan gå över landet."
+        },
+        {
+          "number": 3,
+          "text": "Om molnen äro fulla av regn, så tömma de ut det på jorden; och om ett träd faller omkull, det må falla mot söder eller mot norr, så ligger det på den plats där det har fallit."
+        },
+        {
+          "number": 4,
+          "text": "En vindspejare får aldrig så, och en molnspanare får aldrig skörda."
+        },
+        {
+          "number": 5,
+          "text": "Lika litet som du vet vart vinden far, eller huru benen bildas i den havandes liv, lika litet förstår du Guds verk, hans som verkar alltsammans."
+        },
+        {
+          "number": 6,
+          "text": "Så ut om morgonen din säd, och underlåt det ej heller om aftonen, ty du vet icke vilketdera som är gagneligast, eller om det ena jämte det andra är bäst."
+        },
+        {
+          "number": 7,
+          "text": "Och ljuset är ljuvligt, och det är gott för ögonen att få se solen."
+        },
+        {
+          "number": 8,
+          "text": "Ja, om en människa får leva än så många år, så må hon vara glad under dem alla, men betänka, att eftersom mörkrets dagar bliva så många, är ändå allt som händer fåfänglighet."
+        },
+        {
+          "number": 9,
+          "text": "Gläd dig, du yngling, din ungdom, och låt ditt hjärta unna dig fröjd i din ungdomstid; ja, vandra de vägar ditt hjärta lyster och så, som det behagar dina ögon. Men vet att Gud för allt detta skall draga dig till doms."
+        },
+        {
+          "number": 10,
+          "text": "Ja, låt grämelse vika ur ditt hjärta, och håll plåga borta från din kropp. Ty ungdom och blomstring är fåfänglighet."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Så tänk då på din Skapare i din ungdomstid, förrän de onda dagarna komma och de år nalkas, om vilka du skall säga: »Jag finner icke behag i dem»;"
+        },
+        {
+          "number": 2,
+          "text": "Ja, förrän solen bliver förmörkad, och dagsljuset och månen och stjärnorna; före den ålder då molnen komma igen efter regnet,"
+        },
+        {
+          "number": 3,
+          "text": "den tid då väktarna i huset darra och de starka männen kröka sig; då malerskorna sitta fåfänga, så få som de nu hava blivit, och skåderskorna hava det mörkt i sina fönster;"
+        },
+        {
+          "number": 4,
+          "text": "då dörrarna åt gatan stängas till, medan ljudet från kvarnen försvagas; då man står upp, när fågeln begynner kvittra, och alla sångens tärnor sänka rösten;"
+        },
+        {
+          "number": 5,
+          "text": "då man fruktar för var backe och förskräckelser bo på vägarna; då mandelträdet blommar och gräshoppan släpar sig fram och kaprisknoppen bliver utan kraft, nu då människan skall fara till sin eviga boning och gråtarna redan gå och vänta på gatan;"
+        },
+        {
+          "number": 6,
+          "text": "ja, förrän silversnöret ryckes bort och den gyllene skålen slås sönder, och förrän ämbaret vid källan krossas och hjulet slås sönder och faller i brunnen"
+        },
+        {
+          "number": 7,
+          "text": "och stoftet vänder åter till jorden, varifrån det har kommit, och anden vänder åter till Gud, som har givit den."
+        },
+        {
+          "number": 8,
+          "text": "Fåfängligheters fåfänglighet! säger Predikaren. Allt är fåfänglighet!"
+        },
+        {
+          "number": 9,
+          "text": "För övrigt är att säga att Predikaren var en vis man, som också annars lärde folket insikt och övervägde och rannsakade; många ordspråk författade han."
+        },
+        {
+          "number": 10,
+          "text": "Predikaren sökte efter att finna välbehagliga ord, sådant som med rätt kunde skrivas, och sådant som med sanning kunde sägas."
+        },
+        {
+          "number": 11,
+          "text": "De visas ord äro såsom uddar, och lika indrivna spikar äro deras tänkespråk. De äro gåvor från en och samma Herde."
+        },
+        {
+          "number": 12,
+          "text": "Och för övrigt är utom detta att säga: Min son, låt varna dig!  Ingen ände är på det myckna bokskrivandet, och mycket studerande gör kroppen trött."
+        },
+        {
+          "number": 13,
+          "text": "Änden på talet, om vi vilja höra huvudsumman, är detta: Frukta Gud och håll hans bud, ty det hör alla människor till."
+        },
+        {
+          "number": 14,
+          "text": "Ty Gud skall draga alla gärningar till doms, när han dömer allt vad förborgat är, evad det är gott eller ont."
+        }
+      ]
+    }
+  ]
+}

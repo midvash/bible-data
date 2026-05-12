@@ -1,0 +1,638 @@
+{
+  "version": "diodati",
+  "book": "Amos",
+  "bookId": 30,
+  "englishName": "Amos",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le parole di Amos, che era de' mandriali di Tecoa; le quali gli furono rivelate in visione intorno ad Israele, a' di di Uzzia, re di Giuda; e a' dì di Geroboamo, figliuolo di Gioas, re d'Israele; due anni avanti il tremoto."
+        },
+        {
+          "number": 2,
+          "text": "EGLI disse adunque: Il Signore ruggirà da Sion, e darà fuori la sua voce da Gerusalemme; ed i paschi de' pastori faranno cordoglio, e la sommità di Carmel si seccherà."
+        },
+        {
+          "number": 3,
+          "text": "Così ha detto il Signore: Per tre misfatti di Damasco, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè hanno tritato Galaad con trebbie di ferro."
+        },
+        {
+          "number": 4,
+          "text": "E manderò un fuoco nella casa di Hazael, il quale consumerà i palazzi di Ben-hadad."
+        },
+        {
+          "number": 5,
+          "text": "Ed io romperò le sbarre di Damasco, e sterminerò della valle di Aven gli abitanti, e della casa di Eden colui che tiene lo scettro; e il popolo di Siria andrà in cattività in Chir, ha detto il Signore."
+        },
+        {
+          "number": 6,
+          "text": "Così ha detto il Signore: Per tre misfatti di Gaza, nè per quattro, io non le renderò la sua retribuzione; [ma], perciocchè hanno tratto [il mio popolo] in cattività intiera, mettendo[lo] in mano di Edom."
+        },
+        {
+          "number": 7,
+          "text": "E manderò un fuoco nelle mura di Gaza, il quale consumerà i suoi palazzi;"
+        },
+        {
+          "number": 8,
+          "text": "e sterminerò di Asdod gli abitanti, e di Aschelon colui che tiene lo scettro; poi rivolterò la mia mano sopra Ecron, e il rimanente de' Filistei perirà, ha detto il Signore Iddio."
+        },
+        {
+          "number": 9,
+          "text": "Così ha detto il Signore: Pre tre misfatti di Tiro, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè hanno messo [il mio popolo] in man di Edom, in cattività intiera; e non si son ricordati del patto fraterno."
+        },
+        {
+          "number": 10,
+          "text": "E manderò un fuoco nelle mura di Tiro, il quale consumerà i suoi palazzi."
+        },
+        {
+          "number": 11,
+          "text": "Così ha detto il Signore: Per tre misfatti di Edom, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè egli ha perseguitato con la spada il suo fratello, ed ha violate le sue compassioni; e la sua ira lacera perpetuamente, ed egli serba la sua indegnazione senza fine."
+        },
+        {
+          "number": 12,
+          "text": "E manderò un fuoco in Teman, il quale consumerà i palazzi di Bosra."
+        },
+        {
+          "number": 13,
+          "text": "Così ha detto il Signore: Per tre misfatti de' figliuoli di Ammon, nè per quattro, io non renderò loro la lor retribuzione; [ma], perciocchè hanno fesse le [donne] gravide di Galaad, per allargare i lor confini."
+        },
+        {
+          "number": 14,
+          "text": "E accenderò un fuoco nelle mura di Rabba, il quale consumerà i suoi palazzi, con istormo nel giorno della battaglia, e con turbo nel giorno della tempesta."
+        },
+        {
+          "number": 15,
+          "text": "E Malcam andrà in cattività, con tutti i suoi principi, ha detto il Signore."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Così ha detto il Signore: Per tre misfatti di Moab, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè ha arse le ossa del re di Edom, fino a calcinarle."
+        },
+        {
+          "number": 2,
+          "text": "E manderò un fuoco in Moab, il quale consumerà i palazzi di Cheriot; e Moab morrà con fracasso, con istormo, e con suon di tromba."
+        },
+        {
+          "number": 3,
+          "text": "Ed io sterminerò del mezzo di quella il rettore, ed ucciderò con lui i principi di essa, ha detto il Signore."
+        },
+        {
+          "number": 4,
+          "text": "Così ha detto il Signore: Per tre misfatti di Giuda, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè hanno sprezzata la Legge del Signore, e non hanno osservati i suoi statuti; e le lor menzogne, dietro alle quali andarono già i lor padri, li hanno traviati."
+        },
+        {
+          "number": 5,
+          "text": "E manderò un fuoco in Giuda, il quale consumerà i palazzi di Gerusalemme."
+        },
+        {
+          "number": 6,
+          "text": "Così ha detto il Signore: Per tre misfatti d'Israele, nè per quattro, io non gli renderò la sua retribuzione; [ma], perciocchè hanno venduto il giusto per danari; e il bisognoso, per un paio di scarpe."
+        },
+        {
+          "number": 7,
+          "text": "Essi, che anelano di veder la polvere della terra sul capo de' poveri, e pervertono la via degli umili; e un uomo, e suo padre, vanno [amendue] a una [stessa] fanciulla, per profanare il Nome mio santo."
+        },
+        {
+          "number": 8,
+          "text": "E si coricano sopra i vestimenti tolti in pegno, presso ad ogni altare; e bevono il vino delle ammende, nelle case de' loro iddii."
+        },
+        {
+          "number": 9,
+          "text": "Or io distrussi [già] d'innanzi a loro gli Amorrei, ch'erano alti come cedri, e forti come querce; e distrussi il lor frutto di sopra, e le lor radici di sotto."
+        },
+        {
+          "number": 10,
+          "text": "Ed io vi trassi fuor del paese di Egitto, e vi condussi per lo deserto, lo spazio di quarant'anni, a possedere il paese degli Amorrei."
+        },
+        {
+          "number": 11,
+          "text": "Oltre a ciò, io ho suscitati de' vostri figliuoli per profeti, e de' vostri giovani per Nazirei. Non [è] egli [vero], o figliuoli d'Israele? dice il Signore."
+        },
+        {
+          "number": 12,
+          "text": "Ma voi avete dato a bere del vino a' Nazirei, ed avete fatto divieto a' profeti, dicendo: Non profetizzate."
+        },
+        {
+          "number": 13,
+          "text": "Ecco, io vi stringerò ne' vostri luoghi, come si stringe un carro, pieno di fasci di biade."
+        },
+        {
+          "number": 14,
+          "text": "Ed [ogni] modo di fuggire verrà meno al veloce, e il forte non potrà rinforzar le sue forze, nè il prode scampar la sua vita."
+        },
+        {
+          "number": 15,
+          "text": "E chi tratta l'arco non potrà star fermo, nè il leggier di piedi scampare, nè chi cavalca cavallo salvar la vita sua."
+        },
+        {
+          "number": 16,
+          "text": "E il più animoso d'infra gli [uomini] prodi se ne fuggirà nudo, in quel giorno, dice il Signore."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "FIGLIUOLI d'Israele, udite questa parola, che il Signore ha pronunziata contro a voi; contro a tutta la nazione che io trassi fuor del paese di Egitto, dicendo:"
+        },
+        {
+          "number": 2,
+          "text": "Voi soli ho conosciuti d'infra tutte le nazioni della terra; perciò, farò punizione sopra voi di tutte le vostre iniquità."
+        },
+        {
+          "number": 3,
+          "text": "Due cammineranno essi insieme, se [prima] non si son convenuti l'uno con l'altro?"
+        },
+        {
+          "number": 4,
+          "text": "Il leone ruggirà egli nel bosco, senza che egli abbia alcuna preda? il leoncello darà egli fuori la sua voce dal suo ricetto, senza che prenda nulla?"
+        },
+        {
+          "number": 5,
+          "text": "L'uccello caderà egli nel laccio in terra, se non gli [è stato teso] alcuna rete? il laccio sarà egli levato da terra, senza aver preso nulla?"
+        },
+        {
+          "number": 6,
+          "text": "La tromba sonerà ella nella città, senza che il popolo accorra tutto spaventato? saravvi alcun male nella città, che il Signore non l'abbia fatto?"
+        },
+        {
+          "number": 7,
+          "text": "Perciocchè il Signore Iddio non fa nulla, ch'egli non abbia rivelato il suo segreto a' profeti, suoi servitori."
+        },
+        {
+          "number": 8,
+          "text": "Se il leone rugge, chi non temerà? [se] il Signore Iddio ha parlato, chi non profetizzerà?"
+        },
+        {
+          "number": 9,
+          "text": "Bandite sopra i palazzi di Asdod, e sopra i castelli del paese di Egitto, e dite: Radunatevi sopra i monti di Samaria, e vedete i gran disordini [che sono] in mezzo di essa; e gli oppressati [che son] dentro di essa."
+        },
+        {
+          "number": 10,
+          "text": "Essi non sanno operar dirittamente, dice il Signore; [essi], che fanno tesoro di violenza, e di rapina nei lor palazzi."
+        },
+        {
+          "number": 11,
+          "text": "Perciò, così ha detto il Signore Iddio: [Ecco] il nemico; egli è d'intorno al paese, e trarrà giù da te la tua forza, e i tuoi palazzi saranno predati."
+        },
+        {
+          "number": 12,
+          "text": "Così ha detto il Signore: Come il pastore riscuote dalla bocca del leone due garetti, od un pezzo d'orecchio, così scamperanno i figliuoli d'Israele, che abitano in Samaria, in un canto di letto, o nelle cortine di una lettiera."
+        },
+        {
+          "number": 13,
+          "text": "Ascoltate, e protestate contro alla casa di Giacobbe, dice il Signore Iddio, l'Iddio degli eserciti:"
+        },
+        {
+          "number": 14,
+          "text": "Che nel giorno che io farò punizione sopra Israele dei suoi misfatti, farò ancora punizione sopra gli altari di Betel. E le corna dell'altare saranno mozzate, e caderanno in terra."
+        },
+        {
+          "number": 15,
+          "text": "E percoterò le case del verno, insieme con le case della state; e le case d'avorio saranno distrutte, e le case grandi periranno, dice il Signore."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ascoltate questa parola, vacche di Basan, che [siete] nella montagna di Samaria, che oppressate i miseri, che fiaccate i poveri, che dite a' vostri signori: Recate, acciocchè beviamo."
+        },
+        {
+          "number": 2,
+          "text": "Il Signore Iddio ha giurato per la sua santità, che ecco, i giorni vi vengono addosso, ch'egli vi trarrà fuori con uncini, e il vostro rimanente con ami da pescare."
+        },
+        {
+          "number": 3,
+          "text": "E voi uscirete per le rotture, ciascuna dirincontro a sè; e lascerete in abbandono i palazzi, dice il Signore."
+        },
+        {
+          "number": 4,
+          "text": "Venite pure in Betel, e commettete misfatto, moltiplicate i vostri misfatti in Ghilgal, e adducete ogni mattina i vostri sacrificii, [e] le vostre decime a' tre giorni."
+        },
+        {
+          "number": 5,
+          "text": "E fate ardere per profumo del pane levitato, per offerta di lode; e bandite a grida le offerte volontarie; poichè così amate [di fare], o figliuoli d'Israele, dice il Signore Iddio."
+        },
+        {
+          "number": 6,
+          "text": "E benchè io vi abbia data nettezza di denti in tutte le vostre città, e mancamento di pane in tutti i luoghi vostri; non però vi siete convertiti a me, dice il Signore."
+        },
+        {
+          "number": 7,
+          "text": "E benchè io vi abbia divietata la pioggia, tre mesi intieri avanti la mietitura, ed abbia fatto piovere sopra una città, e non sopra l'altra; e un campo sia stato adacquato di pioggia, ed un altro, sopra il quale non è piovuto, sia seccato;"
+        },
+        {
+          "number": 8,
+          "text": "e due, e tre città si sieno mosse verso una città, per bere dell'acqua, e non si sieno saziate; non però vi siete convertiti a me, dice il Signore."
+        },
+        {
+          "number": 9,
+          "text": "Io vi ho percossi di arsura, e di rubigine; le ruche hanno mangiata la moltitudine de' vostri giardini, e delle vostre vigne, e de' vostri fichi, e de' vostri ulivi; e pur voi non vi siete convertiti a me, dice il Signore."
+        },
+        {
+          "number": 10,
+          "text": "Io ho mandata fra voi la pestilenza, nella via di Egitto; io ho uccisi con la spada i vostri giovani, oltre alla presa de' vostri cavalli; ed ho fatto salire il puzzo de' vostri eserciti, fino alle vostre nari; e pur voi non vi siete convertiti a me, dice il Signore."
+        },
+        {
+          "number": 11,
+          "text": "Io vi ho sovvertit, come Iddio sovvertì Sodoma e Gomorra; e siete stati come un tizzone salvato da un incendio; e pur voi non vi siete convertiti a me, dice il Signore."
+        },
+        {
+          "number": 12,
+          "text": "Perciò, io ti farò così, o Israele; [e] perciocchè io ti farò questo, preparati allo scontro dell'Iddio tuo, o Israele."
+        },
+        {
+          "number": 13,
+          "text": "Perciocchè, ecco colui che ha formati i monti, e che crea il vento, e che dichiara all'uomo qual [sia] il suo pensiero; che fa dell'alba oscurità, e che cammina sopra gli alti luoghi della terra; il cui Nome [è:] Il Signore Iddio degli eserciti."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ASCOLTATE questa parola, il lamento che io prendo a far di voi, o casa d'Israele."
+        },
+        {
+          "number": 2,
+          "text": "La vergine d'Israele è caduta, ella non risorgerà più; è abbandonata sopra la sua terra, non [vi è] niuno che la rilevi."
+        },
+        {
+          "number": 3,
+          "text": "Perciocchè, così ha detto il Signore Iddio: Nella città onde ne uscivano mille, ne resteranno [sol] cento; e in quella onde ne uscivano cento, ne resteranno [sol] dieci, alla casa d'Israele."
+        },
+        {
+          "number": 4,
+          "text": "Perciocchè, così ha detto il Signore alla casa d'Israele: Cercatemi, e voi viverete."
+        },
+        {
+          "number": 5,
+          "text": "E non cercate Betel, e non entrate in Ghilgal e non passate in Beerseba; perciocchè Ghilgal del tutto sarà menato in cattività, e Betel sarà ridotto al niente."
+        },
+        {
+          "number": 6,
+          "text": "Cercate il Signore, e voi viverete; che talora egli non si avventi sopra la casa di Giuseppe, a guisa di fuoco, e non [la] consumi, senza che Betel abbia chi spenga [il fuoco],"
+        },
+        {
+          "number": 7,
+          "text": "[o voi], che mutate il giudicio in assenzio, e lasciate in terra la giustizia!"
+        },
+        {
+          "number": 8,
+          "text": "[Cercate] colui che ha fatte le Gallinelle e l'Orione, e che muta l'ombra della morte in mattutino, e fa scurare il giorno [come] la notte; che chiama le acque del mare, e le spande sopra la faccia della terra; il cui Nome [è:] Il Signore:"
+        },
+        {
+          "number": 9,
+          "text": "che fa sorger subita ruina sopra il forte, talchè la distruzione occupa la fortezza."
+        },
+        {
+          "number": 10,
+          "text": "Essi odiano nella porta chi [li] riprende, ed abbominano chi parla con integrità."
+        },
+        {
+          "number": 11,
+          "text": "Laonde, perciocchè voi aggravate il povero, e prendete da lui la soma del frumento: voi avete edificate delle case di pietre pulite, ma non abiterete in esse; voi avete piantate delle vigne belle, ma non ne berrete il vino."
+        },
+        {
+          "number": 12,
+          "text": "Perciocchè io conosco i vostri misfatti, [che son] molti, e i vostri peccati, [che son] gravi; oppressatori del giusto, prenditori di taglia, e sovvertitori [della ragione] de' poveri nella porta."
+        },
+        {
+          "number": 13,
+          "text": "Perciò, l'[uomo] prudente in quel tempo tacerà; perciocchè sarà un cattivo tempo."
+        },
+        {
+          "number": 14,
+          "text": "Cercate il bene, e non il male, acciocchè viviate; e il Signore Iddio degli eserciti sarà con voi, come avete detto."
+        },
+        {
+          "number": 15,
+          "text": "Odiate il male, ed amate il bene, e stabilite il giudicio nella porta; forse avrà il Signore Iddio d'Israele pietà del rimanente di Giuseppe."
+        },
+        {
+          "number": 16,
+          "text": "Perciò, così ha detto il Signore Iddio degli eserciti, il Signore: [Vi sarà] pianto in tutte le piazze; e si dirà in tutte le strade: Ahi lasso! Ahi lasso! e si chiameranno i lavoratori al duolo, ed al lamento quelli che sono intendenti in lamenti lugubri."
+        },
+        {
+          "number": 17,
+          "text": "In tutte le vigne ancora [vi sarà] pianto; perciocchè io passerò nel mezzo di te, ha detto il Signore."
+        },
+        {
+          "number": 18,
+          "text": "Guai a [voi], che desiderate il giorno del Signore! perchè [desiderate] così il giorno del Signore? esso [sarà giorno di] tenebre, e non [di] luce."
+        },
+        {
+          "number": 19,
+          "text": "Come se un uomo fuggisse d'innanzi ad un leone, ed un orso lo scontrasse; ovvero entrasse in casa, ed appoggiasse la mano alla parete, ed una serpe lo mordesse."
+        },
+        {
+          "number": 20,
+          "text": "Il giorno del Signore non [sarà] egli tenebre, e non luce? e caligine, senza alcuno splendore?"
+        },
+        {
+          "number": 21,
+          "text": "Io odio, io sdegno le vostre feste; e non odorerò [più] le vostre solenni raunanze."
+        },
+        {
+          "number": 22,
+          "text": "Che se mi offerite olocausti, e le vostre offerte, io non [le] gradirò; e non riguarderò a' sacrificii da render grazie, [fatti] delle vostre bestie grasse."
+        },
+        {
+          "number": 23,
+          "text": "Toglimi d'appresso lo strepito delle tue canzoni, [e fa]'ch'io non oda il concento de' tuoi salterii."
+        },
+        {
+          "number": 24,
+          "text": "Anzi corra il giudicio, a guisa d'acque; e la giustizia, a giusa di rapido torrente."
+        },
+        {
+          "number": 25,
+          "text": "O casa d'Israele, mi offeriste voi sacrificii ed offerte nel deserto, per lo spazio di quarant'anni?"
+        },
+        {
+          "number": 26,
+          "text": "Anzi voi portaste il tabernacolo del vostro Melec, e l'effigie delle vostre immagini; la stella dei vostri dii, che voi vi avevate fatti."
+        },
+        {
+          "number": 27,
+          "text": "Perciò, io vi farò andare in cattività di là da Damasco, ha detto il Signore, il cui Nome [è:] L'Iddio degli eserciti."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "GUAI a quelli che sono agiati in Sion, e che se ne stanno sicuri nel monte di Samaria, [luoghi] famosi per capi di nazioni, a' quali va la casa d'Israele!"
+        },
+        {
+          "number": 2,
+          "text": "Passate in Calne, e vedete; e di là andate in Hamat la grande; poi scendete in Gat de' Filistei; non valevano que' [regni] meglio di questi? non [erano] i lor confini maggiori de' vostri?"
+        },
+        {
+          "number": 3,
+          "text": "[Voi], che allontanate il giorno malvagio, e fate accostare il seggio della violenza;"
+        },
+        {
+          "number": 4,
+          "text": "che giacete sopra letti di avorio, e lussuriate sopra le vostre lettiere; e mangiate gli agnelli della greggia, e i vitelli [tolti] di mezzo della stia;"
+        },
+        {
+          "number": 5,
+          "text": "che fate concento al suon del salterio; che vi divisate degli strumenti musicali, come Davide;"
+        },
+        {
+          "number": 6,
+          "text": "che bevete il vino in bacini, e vi ungete de' più eccellenti olii odoriferi; e non sentite alcuna doglia della rottura di Giuseppe."
+        },
+        {
+          "number": 7,
+          "text": "Perciò, ora andranno in cattività, in capo di quelli che andranno in cattività; e i conviti de' lussurianti cesseranno."
+        },
+        {
+          "number": 8,
+          "text": "Il Signore Iddio ha giurato per l'anima sua, dice il Signore Iddio degli eserciti: Io abbomino l'alterezza di Giacobbe, e odio i suoi palazzi, e darò in man [del nemico] la città, e tutto ciò che vi è dentro."
+        },
+        {
+          "number": 9,
+          "text": "Ed avverrà che se pur dieci uomini rimangono in una casa, morranno."
+        },
+        {
+          "number": 10,
+          "text": "E lo zio, o il cugin loro li torrà, e li brucerà, per trarre le ossa fuor della casa; e dirà a colui che [sarà] in fondo della casa: [Evvi] ancora [alcuno] teco? Ed esso dirà: Niuno. E colui gli dirà: Taci; perciocchè egli non [è tempo] di ricordare il Nome del Signore."
+        },
+        {
+          "number": 11,
+          "text": "Perciocchè, ecco, il Signore dà commissione di percuotere le case grandi di ruine, e le case piccole di rotture."
+        },
+        {
+          "number": 12,
+          "text": "I cavalli romperanno essi le zolle su per le rocce? o [vi si] arerà co' buoi? conciossiachè voi abbiate cangiato il giudicio in veleno, e il frutto della giustizia in assenzio;"
+        },
+        {
+          "number": 13,
+          "text": "[voi], che vi rallegrate di cose da nulla; che dite: Non abbiamo noi acquistate delle corna con la nostra forza?"
+        },
+        {
+          "number": 14,
+          "text": "Perciocchè, ecco, io fo sorgere contro a voi, o casa d'Israele, una nazione, che vi oppresserà dall'entrata di Hamat, fino al torrente del deserto, dice il Signore Iddio degli eserciti."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "IL Signore Iddio mi fece vedere una cotal [visione:] Ecco, egli formava delle locuste, in sul principio dello spuntar del guaime; ed ecco del guaime, dopo le segature del re."
+        },
+        {
+          "number": 2,
+          "text": "E come quelle finivano di mangiar l'erba della terra, io dissi: Deh! Signore Iddio, perdona; quale [è] Giacobbe, ch'egli possa risorgere? conciossiachè egli [sia già tanto] piccolo."
+        },
+        {
+          "number": 3,
+          "text": "Il Signore si pentì di ciò. [Questo] non avverrà, disse il Signore."
+        },
+        {
+          "number": 4,
+          "text": "[Poi] il Signore Iddio mi fece vedere una cotal [visione:] Ecco, il Signore bandiva di [voler] contendere col fuoco; e [il fuoco] consumò il grande abisso; consumò anche una parte [del paese]."
+        },
+        {
+          "number": 5,
+          "text": "Ed io dissi: Deh! Signore Iddio, resta; quale [è] Giacobbe, ch'egli possa risorgere? conciossiachè egli [sia già tanto] piccolo."
+        },
+        {
+          "number": 6,
+          "text": "Il Signore si pentì di ciò. Ancora questo non avverrà, disse il Signore."
+        },
+        {
+          "number": 7,
+          "text": "[Poi] egli mi fece vedere una cotal [visione:] Ecco, il Signore stava sopra un muro, [fatto] all'archipenzolo; ed avea in mano un archipenzolo."
+        },
+        {
+          "number": 8,
+          "text": "E il Signore mi disse: Che vedi, Amos? Ed io dissi: Un archipenzolo. E il Signore disse: Ecco, io pongo l'archipenzolo per mezzo il mio popolo Israele; io non glielo passerò più."
+        },
+        {
+          "number": 9,
+          "text": "E gli alti luoghi d'Isacco saranno distrutti, e i santuarii d'Israele saranno deserti; ed io mi leverò con la spada contro alla casa di Geroboamo."
+        },
+        {
+          "number": 10,
+          "text": "ALLORA Amasia, sacerdote di Betel, mandò a dire a Geroboamo, re d'Israele: Amos ha fatta congiura contro a te, in mezzo della casa d'Israele; il paese non potrà portare tutte le sue parole."
+        },
+        {
+          "number": 11,
+          "text": "Perciocchè, così ha detto Amos: Geroboamo morrà per la spada, e Israele sarà del tutto menato in cattività d'in su la sua terra."
+        },
+        {
+          "number": 12,
+          "text": "Poi Amasia disse ad Amos: Veggente, va', fuggitene nel paese di Giuda; e quivi mangia del pane, e quivi profetizza."
+        },
+        {
+          "number": 13,
+          "text": "E non profetizzar più in Betel; perciocchè è il santuario del re, ed una stanza reale."
+        },
+        {
+          "number": 14,
+          "text": "Ma Amos rispose, e disse ad Amasia: Io non [era] profeta, nè figliuol di profeta; anzi [era] mandriale, e andava cogliendo de' sicomori;"
+        },
+        {
+          "number": 15,
+          "text": "e il Signore mi prese di dietro alla greggia, e mi disse: Va', profetizza al mio popolo Israele."
+        },
+        {
+          "number": 16,
+          "text": "Ora dunque, ascolta la parola del Signore. Tu dici: Non profetizzar contro ad Israele, e non istillar sopra la casa d'Isacco."
+        },
+        {
+          "number": 17,
+          "text": "Perciò, così ha detto il Signore: La tua moglie fornicherà nella città, e i tuoi figliuoli, e le tue figliuole caderanno per la spada; e la tua terra sarà spartita con la cordicella, e tu morrai in terra immonda, e Israele sarà del tutto menato in cattività, d'in su la sua terra."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "IL Signore Iddio mi fece vedere una cotal [visione:] Ecco un canestro di frutti di state."
+        },
+        {
+          "number": 2,
+          "text": "Ed egli [mi] disse: Che vedi, Amos? Ed io dissi: Un canestro di frutti di state. E il Signore mi disse: Lo statuito fine è giunto al mio popolo Israele; io non glielo passerò più."
+        },
+        {
+          "number": 3,
+          "text": "E in quel giorno i canti del palazzo saranno urli, dice il Signore Iddio; [vi sarà] gran numero di corpi morti; in ogni luogo [si udirà:] Getta via, [e] taci."
+        },
+        {
+          "number": 4,
+          "text": "Ascoltate questo, [voi] che tranghiottite il bisognoso, e fate venir meno i poveri del paese;"
+        },
+        {
+          "number": 5,
+          "text": "dicendo: Quando saranno passate le calendi, e noi venderemo la vittuaglia? e il sabato, e noi apriremo [i granai del] frumento? (scemando l'efa, ed accrescendo il siclo, e falsando le bilance, per ingannare;"
+        },
+        {
+          "number": 6,
+          "text": "comperando i poveri per danari, e il bisognoso per un paio di scarpe); e noi venderemo la vagliatura del frumento?"
+        },
+        {
+          "number": 7,
+          "text": "Il Signore ha giurato per la gloria di Giacobbe: Se mai in perpetuo io dimentico tutte le loro opere."
+        },
+        {
+          "number": 8,
+          "text": "La terra non sarà ella commossa per questo? ogni suo abitatore non ne farà egli cordoglio? e non salirà ella tutta come un fiume? e non ne sarà ella portata via, e sommersa, come per lo fiume di Egitto?"
+        },
+        {
+          "number": 9,
+          "text": "Ed avverrà in quel giorno, dice il Signore Iddio, che io farò tramontare il sole nel mezzodì, e spanderò le tenebre sopra la terra in giorno chiaro."
+        },
+        {
+          "number": 10,
+          "text": "E cangerò le vostre feste in duolo, e tutti i vostri canti in lamento; e farò che si porrà il sacco sopra tutti i lombi, e che ogni testa sarà rasa; e metterò [il paese] in cordoglio, quale [è] quel che si fa per lo [figiuolo] unico; e la sua fine [sarà] come un giorno amaro."
+        },
+        {
+          "number": 11,
+          "text": "Ecco, i giorni vengono, dice il Signore Iddio, che io manderò la fame nel paese; non la fame di pane, nè la sete d'acqua; anzi d'udire le parole del Signore."
+        },
+        {
+          "number": 12,
+          "text": "Ed essi si moveranno da un mare all'altro, e dal Settentrione fino all'Oriente; andranno attorno, cercando la parola del Signore, e non [la] troveranno."
+        },
+        {
+          "number": 13,
+          "text": "In quel giorno le belle vergini, e i giovani verranno meno di sete;"
+        },
+        {
+          "number": 14,
+          "text": "i quali giurano per lo misfatto di Samaria, e dicono: [Come] l'Iddio tuo vive, o Dan; e: [Come] vive il rito di Beerseba; e caderanno, e non risorgeranno mai più."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "IO vidi il Signore che stava in piè sopra l'altare. Ed egli disse: Percuoti il frontispicio, e sieno scrollati gli stipiti; trafiggi il capo ad essi tutti quanti; perciocchè io ucciderò con la spada il lor rimanente; niun di loro potrà salvarsi con la fuga, nè scampare."
+        },
+        {
+          "number": 2,
+          "text": "Avvegnachè cavassero ne' luoghi più bassi sotterra, la mia mano li prenderà di là; ed avvegnachè salissero in cielo, io li trarrò giù di là."
+        },
+        {
+          "number": 3,
+          "text": "Ed avvegnachè si nascondessero in su la sommità di Carmel, io li investigherò e li torrò di là; ed avvegnachè si occultassero dal mio cospetto nel fondo del mare, di là comanderò al serpente che li morda."
+        },
+        {
+          "number": 4,
+          "text": "E se vanno in cattività davanti a' lor nemici, di là darò commissione alla spada che li uccida; e metterò l'occhio mio sopra loro in male, e non in bene."
+        },
+        {
+          "number": 5,
+          "text": "Or il Signore Iddio degli eserciti [è] quel che, [quando] tocca la terra, ella si strugge, e tutti gli abitanti di essa fanno cordoglio; ed essa sale tutta, come un fiume; ed è sommersa, come per lo fiume di Egitto;"
+        },
+        {
+          "number": 6,
+          "text": "che edifica ne' cieli le sue sale, e che ha fondata la sua fabbrica sopra la terra; che chiama le acque del mare, e le spande sopra la faccia della terra; il cui Nome [è:] Il Signore."
+        },
+        {
+          "number": 7,
+          "text": "Non mi siete vio, o figliuoli d'Israele, come i figliuoli degli Etiopi? dice il Signore: [come] io trassi Israele fuor del paese di Egitto, non ho io altresì [tratti] i Filistei di Caftor, e i Siri di Chir?"
+        },
+        {
+          "number": 8,
+          "text": "Ecco, gli occhi del Signore Iddio [sono] sopra il regno peccatore, ed io lo distruggerò d'in su la faccia della terra; salvo che io non distruggerò del tutto la casa di Giacobbe, dice il Signore."
+        },
+        {
+          "number": 9,
+          "text": "Perciocchè, ecco, per lo mio comandamento farò che la casa d'Israele sarà agitata fra tutte le genti, siccome [il grano] è dimenato nel vaglio, senza che ne caggia pure un granello in terra."
+        },
+        {
+          "number": 10,
+          "text": "Tutti i peccatori, d'infra il mio popolo, morranno per la spada; i quali dicono: Il male non ci giugnerà, e non c'incontrerà."
+        },
+        {
+          "number": 11,
+          "text": "In quel giorno io ridirizzerò il tabernacolo di Davide, che sarà stato abbattuto; e riparerò le lor rotture, e ridirizzerò le lor ruine, e riedificherò quello, come [era] a' dì antichi."
+        },
+        {
+          "number": 12,
+          "text": "Acciocchè quelli che si chiamano del mio nome posseggano il rimanente di Edom, e tutte le nazioni, dice il Signore, che fa questo."
+        },
+        {
+          "number": 13,
+          "text": "Ecco, i giorni vengono, dice il Signore, che l'aratore giungerà il mietitore, e il calcator delle uve il seminatore; e i monti stilleranno mosto, e tutti i colli si struggeranno."
+        },
+        {
+          "number": 14,
+          "text": "Ed io ritrarrò di cattività il mio popolo Israele, ed essi riedificheranno le città desolate, e [vi] abiteranno; e pianteranno delle vigne, e ne berranno il vino; e lavoreranno de' giardini, e ne mangeranno il frutto."
+        },
+        {
+          "number": 15,
+          "text": "Ed io li pianterò in su la lor terra, e non saranno più divelti d'in su la lor terra, che io ho loro data, ha detto il Signore Iddio tuo."
+        }
+      ]
+    }
+  ]
+}

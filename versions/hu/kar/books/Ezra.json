@@ -1,0 +1,1179 @@
+{
+  "version": "kar",
+  "book": "Ezra",
+  "bookId": 15,
+  "englishName": "Ezra",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Czírus persa király első esztendejében, hogy beteljesednék az Úrnak Jeremiás szája által mondott beszéde, felindítá az Úr Czírus persa király lelkét, és ő kihirdetteté az ő egész birodalmában, élőszóval és írásban is, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Így szól Czírus, a persa király: Az Úr, a mennynek Istene e föld minden országait nékem adta, és Ő parancsolta meg nékem, hogy építsek néki házat Jeruzsálemben, mely Júdában van;"
+        },
+        {
+          "number": 3,
+          "text": "Valaki azért ti köztetek az ő népe közül való, legyen vele az ő Istene, és menjen fel Jeruzsálembe, mely Júdában van, és építse az Úrnak, Izráel Istenének házát, ő az Isten, ki Jeruzsálemben lakozik."
+        },
+        {
+          "number": 4,
+          "text": "És mindenkit, a ki még megmaradt, minden helyről, a hol lakik, segítsék azon helynek férfiai ezüsttel, aranynyal, jószággal és barommal, azzal együtt, a mit önkénytesen adnak az Isten házának, mely Jeruzsálemben van."
+        },
+        {
+          "number": 5,
+          "text": "Fölkelének azért Júda és Benjámin családfői és a papok és a Léviták, és mindnyájan, a kiknek felindítá az Isten lelköket, hogy felmenjenek az Úr házának építésére, mely Jeruzsálemben van."
+        },
+        {
+          "number": 6,
+          "text": "És minden körültök lakók segíték őket ezüst edényekkel, aranynyal, jószággal, barommal, drágaságokkal, mindazon kivül, a mit önkénytesen adának."
+        },
+        {
+          "number": 7,
+          "text": "Czírus király pedig előhozatá az Úr házának edényeit, melyeket Nabukodonozor hozatott vala el Jeruzsálemből, s az ő isteneinek házába helyezett vala;"
+        },
+        {
+          "number": 8,
+          "text": "Előhozatá ezeket Czírus, a persák királya, Mithredáthes kincstartó kezeihez, a ki is átszámolá azokat Sesbassárnak, Júda fejedelmének."
+        },
+        {
+          "number": 9,
+          "text": "És számok ez vala: harmincz arany medencze, ezer ezüst medencze, huszonkilencz kés,"
+        },
+        {
+          "number": 10,
+          "text": "Harmincz arany pohár, négyszáztíz másrendbeli ezüst pohár, és ezer más edény."
+        },
+        {
+          "number": 11,
+          "text": "Minden arany és ezüst edényeknek száma ötezernégyszáz. Mindezt magával vivé Sesbassár, mikor a foglyok kijövének Babilóniából Jeruzsálembe."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ezek pedig a tartománynak fiai, kik feljöttek vala a rabság foglyai közül, a kiket Nabukodonozor, Babilónia királya, fogva vitetett Babilóniába, s most visszajövének Jeruzsálembe és Júdába, kiki az ő városába."
+        },
+        {
+          "number": 2,
+          "text": "Kik jövének Zorobábellel, Jésuával, Nehémiással, Serájával, Rélájával, Mordokhaival, Bilsánnal, Miszpárral, Bigvaival, Rehummal, Baanával. Izráel népe férfiainak száma ez:"
+        },
+        {
+          "number": 3,
+          "text": "Paros fiai kétezerszázhetvenkettő;"
+        },
+        {
+          "number": 4,
+          "text": "Sefátja fiai háromszázhetvenkettő;"
+        },
+        {
+          "number": 5,
+          "text": "Árah fiai hétszázhetvenöt;"
+        },
+        {
+          "number": 6,
+          "text": "Pahath-Moáb fiai, Jésua és Joáb fiaitól, kétezernyolczszáztizenkettő;"
+        },
+        {
+          "number": 7,
+          "text": "Élám fiai ezerkétszázötvennégy;"
+        },
+        {
+          "number": 8,
+          "text": "Zattu fiai kilenczszáznegyvenöt;"
+        },
+        {
+          "number": 9,
+          "text": "Zakkai fiai hétszázhatvan;"
+        },
+        {
+          "number": 10,
+          "text": "Báni fiai hatszáznegyvenkettő;"
+        },
+        {
+          "number": 11,
+          "text": "Bébai fiai hatszázhuszonhárom;"
+        },
+        {
+          "number": 12,
+          "text": "Azgád fiai ezerkétszázhuszonkettő;"
+        },
+        {
+          "number": 13,
+          "text": "Adónikám fiai hatszázhatvanhat;"
+        },
+        {
+          "number": 14,
+          "text": "Bigvai fiai kétezerötvenhat;"
+        },
+        {
+          "number": 15,
+          "text": "Ádin fiai négyszázötvennégy;"
+        },
+        {
+          "number": 16,
+          "text": "Áter fiai, Ezékiástól, kilenczvennyolcz;"
+        },
+        {
+          "number": 17,
+          "text": "Bésai fiai háromszázhuszonhárom;"
+        },
+        {
+          "number": 18,
+          "text": "Jórá fiai száztizenkettő;"
+        },
+        {
+          "number": 19,
+          "text": "Hásum fiai kétszázhuszonhárom;"
+        },
+        {
+          "number": 20,
+          "text": "Gibbár fiai kilenczvenöt;"
+        },
+        {
+          "number": 21,
+          "text": "Bethlehem fiai százhuszonhárom;"
+        },
+        {
+          "number": 22,
+          "text": "Netófah férfiai ötvenhat;"
+        },
+        {
+          "number": 23,
+          "text": "Anathóth férfiai százhuszonnyolcz;"
+        },
+        {
+          "number": 24,
+          "text": "Azmáveth fiai negyvenkettő;"
+        },
+        {
+          "number": 25,
+          "text": "Kirjáth-Árim, Kefira és Beéróth fiai hétszáznegyvenhárom;"
+        },
+        {
+          "number": 26,
+          "text": "Ráma és Géba fiai hatszázhuszonegy;"
+        },
+        {
+          "number": 27,
+          "text": "Mikmás férfiai százhuszonkettő;"
+        },
+        {
+          "number": 28,
+          "text": "Béthel és Ái férfiai kétszázhuszonhárom;"
+        },
+        {
+          "number": 29,
+          "text": "Nebó fiai ötvenkettő;"
+        },
+        {
+          "number": 30,
+          "text": "Magbis fiai százötvenhat;"
+        },
+        {
+          "number": 31,
+          "text": "A másik Élám fiai ezerkétszázötvennégy;"
+        },
+        {
+          "number": 32,
+          "text": "Hárim fiai háromszázhúsz;"
+        },
+        {
+          "number": 33,
+          "text": "Lód, Hádid és Ónó fiai hétszázhuszonöt;"
+        },
+        {
+          "number": 34,
+          "text": "Jérikó fiai háromszáznegyvenöt;"
+        },
+        {
+          "number": 35,
+          "text": "Szenáa fiai háromezerhatszázharmincz;"
+        },
+        {
+          "number": 36,
+          "text": "A papok: Jedája fiai, Jésua családjából, kilenczszázhetvenhárom;"
+        },
+        {
+          "number": 37,
+          "text": "Immér fiai ezerötvenkettő;"
+        },
+        {
+          "number": 38,
+          "text": "Pashur fiai ezerkétszáznegyvenhét;"
+        },
+        {
+          "number": 39,
+          "text": "Hárim fiai ezertizenhét;"
+        },
+        {
+          "number": 40,
+          "text": "A Léviták: Jésuának és Kadmiélnek fiai, Hodávia fiaitól, hetvennégy."
+        },
+        {
+          "number": 41,
+          "text": "Az énekesek: Asáf fiai százhuszonnyolcz;"
+        },
+        {
+          "number": 42,
+          "text": "A kapunállók fiai: Sallum fiai, Ater fiai, Talmón fiai, Akkub fiai, Hatita fiai, Sóbai fiai, összesen százharminczkilencz."
+        },
+        {
+          "number": 43,
+          "text": "A Léviták szolgái: Siha fiai, Hasufa fiai, Tabbaóth fiai;"
+        },
+        {
+          "number": 44,
+          "text": "Kérósz fiai, Sziaha fiai, Pádón fiai,"
+        },
+        {
+          "number": 45,
+          "text": "Lebána fiai, Hagába fiai, Akkub fiai,"
+        },
+        {
+          "number": 46,
+          "text": "Hágáb fiai, Salmai fiai, Hanán fiai,"
+        },
+        {
+          "number": 47,
+          "text": "Giddél fiai, Gahar fiai, Reája fiai,"
+        },
+        {
+          "number": 48,
+          "text": "Resin fiai, Nekóda fiai, Gazzám fiai,"
+        },
+        {
+          "number": 49,
+          "text": "Uzza fiai, Pászéah fiai, Bészai fiai,"
+        },
+        {
+          "number": 50,
+          "text": "Aszna fiai, Meunim fiai, Nefiszim fiai."
+        },
+        {
+          "number": 51,
+          "text": "Bakbuk fiai, Hakufa fiai, Harhur fiai,"
+        },
+        {
+          "number": 52,
+          "text": "Basluth fiai, Mehida fiai, Harsa fiai,"
+        },
+        {
+          "number": 53,
+          "text": "Barkósz fiai, Sziszera fiai, Temah fiai,"
+        },
+        {
+          "number": 54,
+          "text": "Nesiah fiai, Hatifa fiai;"
+        },
+        {
+          "number": 55,
+          "text": "Salamon szolgáinak fiai: Szótai fiai, Haszszófereth fiai, Peruda fiai,"
+        },
+        {
+          "number": 56,
+          "text": "Jaalá fiai, Darkón fiai, Giddél fiai,"
+        },
+        {
+          "number": 57,
+          "text": "Sefátia fiai, Hattil fiai, Pókhereth-Hássebaim fiai, Ámi fiai."
+        },
+        {
+          "number": 58,
+          "text": "Összesen a Léviták szolgái és a Salamon szolgáinak fiai háromszázkilenczvenkettő."
+        },
+        {
+          "number": 59,
+          "text": "És ezek, a kik feljövének Tél-Melahból, Tél-Harsából, Kerub-Addán-Immérből, de nem mondhatták meg családjukat és eredetüket, hogy Izráel közül valók-é:"
+        },
+        {
+          "number": 60,
+          "text": "Delája fiai, Tóbiás fiai, Nekóda fiai hatszázötvenkettő."
+        },
+        {
+          "number": 61,
+          "text": "És a papok fiai közül: Habája fiai, Hakkós fiai, Barzillai fiai, ki a Gileádbeli Barzillai leányai közül vett magának feleséget, és ezek nevéről nevezteték;"
+        },
+        {
+          "number": 62,
+          "text": "Ezek keresték írásukat, tudniillik a nemzetségök könyvét, de nem találák, miért is kirekesztetének a papságból;"
+        },
+        {
+          "number": 63,
+          "text": "És megmondá nékik a király helytartója, hogy ne egyenek a szentséges áldozatból, mígnem pap ítél az Urimmal és Tummimmal."
+        },
+        {
+          "number": 64,
+          "text": "Mind az egész gyülekezet együtt negyvenkétezerháromszázhatvan."
+        },
+        {
+          "number": 65,
+          "text": "Szolgáikon és szolgálóikon kivül – ezek száma hétezerháromszázharminczhét – valának nékik énekes férfiaik és asszonyaik kétszázan."
+        },
+        {
+          "number": 66,
+          "text": "Lovaik hétszázharminczhat, öszvéreik kétszáznegyvenöt;"
+        },
+        {
+          "number": 67,
+          "text": "Tevéik négyszázharminczöt, hatezerhétszázhúsz szamárral."
+        },
+        {
+          "number": 68,
+          "text": "A családfők közül pedig, mikor megérkezének az Úr házához, mely Jeruzsálemben van, némelyek önkénytesen adakozának az Isten házára, hogy fölépítenék azt az ő helyén;"
+        },
+        {
+          "number": 69,
+          "text": "Tehetségök szerint adának az építés költségére aranyban hatvanegyezer dárikot, s ezüstben ötezer mánét, és száz papi ruhát."
+        },
+        {
+          "number": 70,
+          "text": "És lakozának mind a papok, mind a Léviták, mind a nép fiai, mind az énekesek, mind a kapunállók, mind a Léviták szolgái városaikban, s így az egész Izráel a maga városaiban vala."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor pedig eljöve a hetedik hónap, és Izráel fiai az ő városaikban lakozának, felgyűle a nép egyenlőképen Jeruzsálembe."
+        },
+        {
+          "number": 2,
+          "text": "És fölkele Jésua, Jósádák fia, s az ő atyjafiai, a papok, és Zorobábel, Sealtiél fia s az ő atyjafiai, és megépíték Izráel Istenének oltárát, hogy áldozzanak rajta égőáldozatokat, a mint írva van Mózesnek, az Isten emberének törvényében."
+        },
+        {
+          "number": 3,
+          "text": "És erős fundamentomra állíták fel az oltárt, mert félnek vala a földnek népétől, és áldozának rajta égőáldozatokat az Úrnak, reggeli és estveli égőáldozatokat."
+        },
+        {
+          "number": 4,
+          "text": "És megülék a sátoros ünnepet, a mint írva van, s áldozának égőáldozatot napról-napra szám és szokás szerint minden napit az ő napján."
+        },
+        {
+          "number": 5,
+          "text": "És azután áldozák az állandó napi, továbbá a hónapok első napjain s az Úr minden szent ünnep napjain viendő égőáldozatot, és mindazokért valót, a kik önkénytesen ajándékozának az Úrnak."
+        },
+        {
+          "number": 6,
+          "text": "Tehát a hetedik hónap első napjától fogva kezdének égőáldozatot áldozni az Úrnak, a mikor az Úr templomának alapköve még nem tétetett le."
+        },
+        {
+          "number": 7,
+          "text": "És adának pénzt a kő- és favágóknak s a mesterembereknek, és ételt és italt és olajat a Sidonbelieknek és Tírusbelieknek, hogy hozzanak czédrusfákat a Libánonról a joppéi tenger felé, Czírus, persa király nékik adott engedelme szerint."
+        },
+        {
+          "number": 8,
+          "text": "Második esztendőben azután, hogy fölmenének az Isten házához Jeruzsálembe, a második hónapban megkezdték az építést Zorobábel, a Sealtiél fia és Jésua, a Jósádák fia és a többi atyjafiaik, a papok és Léviták és mindnyájan, a kik a fogságból visszajöttek vala Jeruzsálembe, és rendelék a Lévitákat, a kik húsz esztendősök vagy azon felül valának, az Úr háza építésének vezetésére."
+        },
+        {
+          "number": 9,
+          "text": "És előlálla Jésua, az ő fiai és atyjafiai, Kadmiél és fiai, a Júda fiai, egyenlőképen, hogy vezérei legyenek az Isten házát építő munkásoknak, továbbá Hénádád fiai, fiaik és testvéreik, – mind Léviták."
+        },
+        {
+          "number": 10,
+          "text": "S midőn az építők letették az Úr templomának alapkövét, Jésua és Zorobábel oda állaták a papokat öltözetükben kürtökkel, s a Lévitákat, Ásáf fiait czimbalmokkal, hogy dícsérjék az Urat, Izráel királyának, Dávidnak rendelete szerint."
+        },
+        {
+          "number": 11,
+          "text": "És énekelének, dícsérvén az Urat és hálát adván néki, mert jó, mert mindörökké van az ő irgalmassága Izráelen! És mind az egész nép nagy felszóval kiált vala, dícsérvén az Urat, hogy az Úr házának alapköve immáron letétetett!"
+        },
+        {
+          "number": 12,
+          "text": "Nagy sokan pedig a papok és a Léviták és a családfők közül, a vének, a kik látták vala az első házat, mikor alapot vetnek vala most e háznak az ő szemök előtt, nagy felszóval sírnak vala, sokan pedig örömükben nagy felszóval kiáltanak vala;"
+        },
+        {
+          "number": 13,
+          "text": "Úgy hogy a nép nem tudja vala megkülönböztetni az örömben való kiáltást a nép siralmának szavától, mert a nép kiált vala nagy felszóval, és ez a szó messze földre meghallatott."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor pedig meghallák Júda és Benjámin ellenségei, hogy a kik a fogságból visszatértek, templomot építenek az Úrnak, Izráel Istenének:"
+        },
+        {
+          "number": 2,
+          "text": "Menének Zorobábelhez és a családfőkhöz, s mondának nékik: Hadd építsünk együtt veletek, mert miképen ti, úgy mi is a ti Isteneteket keressük s néki áldozunk Esárhaddon, Assiria királyának idejétől fogva, a ki ide hozott fel minket!"
+        },
+        {
+          "number": 3,
+          "text": "És monda nékik Zorobábel és Jésua és Izráel családainak többi fői: Nem veletek együtt kell nékünk házat építeni a mi Istenünknek, hanem mi magunk fogunk építeni az Úrnak, Izráel Istenének, a miképen megparancsolta nékünk a király, Czírus, Persia királya."
+        },
+        {
+          "number": 4,
+          "text": "És igyekezék e tartomány népe megkötni Júda népének kezeit és elrémíteni azt az építéstől."
+        },
+        {
+          "number": 5,
+          "text": "És felbérelni ellene tanácsosokat, hogy semmivé tegyék szándékát Czírusnak, Persia királyának egész idejében, Dárius persa király uralkodásáig."
+        },
+        {
+          "number": 6,
+          "text": "És Ahasvérus uralkodásakor, uralkodásának kezdetén, vádolást írának Júda és Jeruzsálem lakói ellen."
+        },
+        {
+          "number": 7,
+          "text": "Artaxerxes napjaiban pedig Bislám, Mithredathes és Tábeél s ennek többi társai írtak vala Artaxerxeshez a persiai királyhoz, s e levelet arám betűkkel írták, mely azután arám nyelvre fordíttatott át."
+        },
+        {
+          "number": 8,
+          "text": "Rehum, a helytartó és Simsai, a kanczellár, írának egy levelet Jeruzsálem ellen Artaxerxes királyhoz ekképen."
+        },
+        {
+          "number": 9,
+          "text": "Írának pedig ekkor Rehum, a helytartó és Simsai, a kanczellár és ezeknek többi társaik: a Dineusok, Afársatakeusok, Tarpeleusok, Afárseusok, Arkeveusok, Babilóniabeliek, Susánkeusok, Dehaveusok és a Hélameusok."
+        },
+        {
+          "number": 10,
+          "text": "És a többi népek, a kiket a nagy és dicsőséges Asznapár vitt el és tett lakosokká Samária városában és a többi városokban, melyek a folyóvizen túl vannak és a többi."
+        },
+        {
+          "number": 11,
+          "text": "Ez mássa a levélnek, melyet hozzá, Artaxerxes királyhoz küldének: „A te szolgáid, a folyóvizen túl lévő férfiak, és a többi."
+        },
+        {
+          "number": 12,
+          "text": "Tudtára légyen a királynak, hogy a zsidók, a kik feljöttek tőled, megérkezének hozzánk Jeruzsálembe; a visszavonó és gonosz várost építik, a kőfalakat készítik s a fundamentomokat javítgatják."
+        },
+        {
+          "number": 13,
+          "text": "Mostan tudtára légyen a királynak, hogy ha ez a város megépíttetik s a kőfalak elkészülnek, adót, rovást és úti vámot nem fognak fizetni, s a királyok jövedelmét megkárosítják."
+        },
+        {
+          "number": 14,
+          "text": "Mostan, mivel a palota savával sózunk s épen ezért a király kárát nem illik elnéznünk, ez okért küldjük e levelet és tudatjuk a királylyal,"
+        },
+        {
+          "number": 15,
+          "text": "Hogy nézzen utána valaki atyáid történeteinek könyvében, és meg fogod találni a történetek könyvében, és megtudod, hogy e város visszavonó és királyokat és tartományokat megkárosító város volt, s hogy eleitől fogva lázadások történtek abban, ezért pusztíttatott is el e város."
+        },
+        {
+          "number": 16,
+          "text": "Tudatjuk mi a királylyal, hogy ha ez a város megépülend és a kőfalak elkészülnek: ennek miatta birtokod a folyóvizen túl nem lészen.”"
+        },
+        {
+          "number": 17,
+          "text": "A király választ küldött Rehumnak, a helytartónak és Simsainak, a kanczellárnak és többi társaiknak, a kik Samariában laknak vala, és minden folyóvizen túl lakozóknak: „Békesség és a többi."
+        },
+        {
+          "number": 18,
+          "text": "A levél, melyet hozzánk küldtetek, világosan felolvastatott előttem;"
+        },
+        {
+          "number": 19,
+          "text": "És megparancsolám, hogy nézzenek utána, és úgy találák, hogy ez a város eleitől fogva királyok ellen támadó volt, és hogy pártütés és lázadás történt vala benne;"
+        },
+        {
+          "number": 20,
+          "text": "És hogy hatalmas királyok voltak Jeruzsálemben és uralkodtak minden a folyóvizen túl lakókon, és adó, rovás és úti vám fizettetett nékik."
+        },
+        {
+          "number": 21,
+          "text": "Mostan azért parancsoljátok meg, hogy akadályozzák meg a férfiakat, s e város ne építtessék addig, míg tőlem parancsolat nem jövend;"
+        },
+        {
+          "number": 22,
+          "text": "És meglássátok, hogy ebben valami mulasztást el ne kövessetek, hogy ne nevekedjék a veszedelem a királyok megkárosítására!”"
+        },
+        {
+          "number": 23,
+          "text": "Mihelyt Artaxerxes király levelének mássa felolvastaték Rehum és Simsai, a kanczellár és társaik előtt, menének nagy hamarsággal Jeruzsálembe a zsidókhoz, és megakadályozák őket erővel és hatalommal."
+        },
+        {
+          "number": 24,
+          "text": "Akkor megszünék az Úr házának építése, mely Jeruzsálemben van, és szünetelt Dárius, Persia királya uralkodásának második esztendejéig."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És prófétálának a próféták, Aggeus, a próféta és Zakariás az Iddó fia a zsidóknak, a kik valának Júdában és Jeruzsálemben, szólván nékik az Izráel Istenének nevében."
+        },
+        {
+          "number": 2,
+          "text": "Akkor fölkelének Zorobábel, Sealtiél fia és Jésua, a Jósádák fia, és hozzá kezdének Isten háza építéséhez, mely Jeruzsálemben van, s velök valának Isten prófétái, támogatván őket."
+        },
+        {
+          "number": 3,
+          "text": "Abban az időben jöve hozzájok Tattenai folyóvizen túli helytartó, és Sethar-bóznai és társaik, és így szólának nékik: Ki adott néktek szabadságot, hogy e házat építsétek s e kőfalat készítsétek?"
+        },
+        {
+          "number": 4,
+          "text": "Ekkor megmondánk nékik ily módon, hogy kik ama férfiak névszerint, kik ez épületet építik."
+        },
+        {
+          "number": 5,
+          "text": "És az ő Istenök szeme vala a zsidók vénein, hogy nem akadályozzák meg őket az építésben, míg az ügy Dárius elébe jutand, a mikor is levélben fognak felelni e dologra nézve."
+        },
+        {
+          "number": 6,
+          "text": "Mássa a levélnek, melyet küldött Tattenai folyóvizen túli helytartó, és Sethar-bóznai és az ő társai, az Afarsakeusok, a kik a folyóvizen túl lakának, Dárius királyhoz."
+        },
+        {
+          "number": 7,
+          "text": "Tudósítást küldének ugyanis hozzá, ekként levén az írva: „Dárius királynak minden békesség!"
+        },
+        {
+          "number": 8,
+          "text": "Tudtára legyen a királynak, hogy elmentünk Júda tartományába, a nagy Istennek házához, és az építtetik nagy kövekből, és fa rakatik a falakra, és e munka szorgalmatosan folyik, és jó szerencsés lészen az ő kezök által."
+        },
+        {
+          "number": 9,
+          "text": "Ekkor megkérdénk azokat a véneket, ily módon szólván hozzájok: Ki adott néktek szabadságot, hogy e házat építsétek, s hogy e kőfalat készítsétek?"
+        },
+        {
+          "number": 10,
+          "text": "Sőt még neveiket is megkérdeztük tőlük, hogy tudassuk veled, hogy megírhassuk azon férfiak nevét, kik fejeik."
+        },
+        {
+          "number": 11,
+          "text": "És ekképen felelének nékünk, mondván: Mi az Ő, a menny és föld Istenének szolgái vagyunk, és építjük e házat, mely ennekelőtte sok esztendőkön át meg vala építve, és Izráelnek egy nagy királya építé és végezé be azt."
+        },
+        {
+          "number": 12,
+          "text": "De minekutána haragra ingerelték volt atyáink a mennynek Istenét, adá őket a Babilóniabeli Káldeus királynak, Nabukodonozornak kezébe, a ki e házat lerontotta, és a népet Babilóniába rabságra vitte."
+        },
+        {
+          "number": 13,
+          "text": "Azonban Czírusnak, Babilónia királyának első esztendejében Czírus király szabadságot adott, hogy Istennek ezt a házát megépítenék."
+        },
+        {
+          "number": 14,
+          "text": "Sőt az Isten házához való arany és ezüst edényeket is, a melyeket Nabukodonozor hozott vala el a jeruzsálemi templomból s bevitte volt azokat a babilóniai templomba, kihozatá Czírus király a babilóniai templomból s adatá azokat annak a Sesbassár nevűnek, a kit helytartóul rendelt;"
+        },
+        {
+          "number": 15,
+          "text": "És monda néki: Vedd ez edényeket, menj és helyezd el azokat a jeruzsálemi templomba, és az Isten háza építtessék meg előbbi helyén."
+        },
+        {
+          "number": 16,
+          "text": "Ekkor ez a Sesbassár eljött, letevé az Isten házának alapkövét, mely Jeruzsálemben van, és attól fogva mindeddig építtetik, és még sem végződött be."
+        },
+        {
+          "number": 17,
+          "text": "Mostan azért, ha tetszik a királynak, nézzen utána valaki a király kincstartó házában, ott Babilóniában, ha úgy van-é, hogy Czírus király szabadságot adott az Isten házának megépítésére, mely Jeruzsálemben van, s a király akaratját erre nézve küldje hozzánk.”"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ekkor Dárius király megparancsolá, hogy nézzenek utána a könyvek tárházában, hol a kincseket tartják vala Babiloniában."
+        },
+        {
+          "number": 2,
+          "text": "És találtaték Akhméta várában, a mely Média tartományában van, egy tekercs, melyre emlékezetül ez vala írva:"
+        },
+        {
+          "number": 3,
+          "text": "„Czírus király első esztendejében, Czírus király parancsolatot adott Isten házára nézve, mely Jeruzsálemben van, hogy e ház építtessék meg, oly helyül, hol áldozatokat áldoznak; s alapzati felemeltetvén, magassága hatvan sing, szélessége is hatvan sing legyen."
+        },
+        {
+          "number": 4,
+          "text": "A nagy kövek rétege három s a fa rétege legyen egy, a költség pedig a király házából adassék."
+        },
+        {
+          "number": 5,
+          "text": "Sőt az Isten házának arany és ezüst edényeit is, a melyeket Nabukodonozor hozott vala el a jeruzsálemi templomból s vitt vala Babilóniába, adják vissza, hogy jussanak el azok a jeruzsálemi templomba, helyökre, s te helyezd el azokat az Isten házába.”"
+        },
+        {
+          "number": 6,
+          "text": "Mostan azért Tattenai folyóvizen túli helytartó, Sethar-bóznai és társaik, és az Afarsakeusok, a kik a folyóvizen túl laknak, távol legyetek onnan!"
+        },
+        {
+          "number": 7,
+          "text": "Hagyjátok, hadd épüljön meg Istennek ama háza! A zsidók helytartója és a zsidók vénei építsék meg Isten ama templomát a maga helyén!"
+        },
+        {
+          "number": 8,
+          "text": "És megparancsolom azt is, hogy mit cselekedjetek a zsidók ama véneivel, hogy megépítsék Isten ama házát; tudniillik a király folyóvizen túl való adójának kincseiből pontosan költség adassék ama férfiaknak, és pedig félbeszakítás nélkül,"
+        },
+        {
+          "number": 9,
+          "text": "És a mik szükségesek, tulkok, kosok, bárányok, égőáldozatra a menny Istenének, búza, só, bor, és olaj, a jeruzsálemi papok szava szerint adassanak nékik naponként és pedig mulasztás nélkül,"
+        },
+        {
+          "number": 10,
+          "text": "Hogy vihessenek jó illatú áldozatot a menny Istenének, és könyörögjenek a királynak és fiainak életéért."
+        },
+        {
+          "number": 11,
+          "text": "És megparancsolom azt is, hogy valaki e rendelést megszegi, annak házából szakíttassék ki egy gerenda s felállíttatván szegeztessék reá, háza pedig szemétdombbá tétessék e miatt."
+        },
+        {
+          "number": 12,
+          "text": "Az Isten pedig, a ki nevének ott szerze lakást, megrontson minden királyt és népet, a ki felemelendi kezét, hogy megszegje e rendelést, hogy elpusztítsa Istennek ama házát, mely Jeruzsálemben van. Én, Dárius parancsoltam, pontosan megtörténjék."
+        },
+        {
+          "number": 13,
+          "text": "Akkor Tattenai folyóvizen túli helytartó, Sethar-bóznai és társaik, miután Dárius ily rendelést küldött, ahhoz képest cselekedének pontosan."
+        },
+        {
+          "number": 14,
+          "text": "És a zsidók vénei építének és jó szerencsések valának Aggeus próféta és Zakariás, Iddó fia prófétálása folytán, és megépítették és elvégezték Izráel Istenének akaratjából, és Czírus, Dárius és Artaxerxes, persiai királyok parancsolatjából."
+        },
+        {
+          "number": 15,
+          "text": "Bevégezteték pedig e ház az Adár hó harmadik napjáig, mely Dárius király országlásának hatodik esztendejében vala."
+        },
+        {
+          "number": 16,
+          "text": "És megtarták Izráel fiai, a papok, a Léviták és a fogságból visszajött többiek Isten házának felszentelését örömmel."
+        },
+        {
+          "number": 17,
+          "text": "Vivének pedig Isten házának felszentelésénél áldozatul száz bikát, kétszáz kost, négyszáz bárányt és tizenkét kecskebakot bűnért való áldozatra egész Izráelért, Izráel nemzetségeinek száma szerint."
+        },
+        {
+          "number": 18,
+          "text": "És rendelék a papokat az ő osztályaik és a Lévitákat az ő rendjeik szerint Istennek szolgálatára Jeruzsálemben, Mózes könyvének rendelése szerint,"
+        },
+        {
+          "number": 19,
+          "text": "És megtarták a rabságból visszajöttek a páskhát az első hó tizennegyedik napján;"
+        },
+        {
+          "number": 20,
+          "text": "Mert megtisztultak vala a papok és Léviták: egyetemben mindnyájan tiszták valának, és megölék a húsvéti bárányt mindazokért, a kik a rabságból megjöttek, és atyjokfiaiért a papokért és önmagokért;"
+        },
+        {
+          "number": 21,
+          "text": "És megevék azt Izráel fiai, a kik a rabságból visszajöttek vala, és mindazok, a kik elkülönítették vala magokat a föld népeinek tisztátalanságától s hozzájok állottak vala, hogy keressék az Urat, Izráel Istenét."
+        },
+        {
+          "number": 22,
+          "text": "És azután megtarták a kovásztalan kenyerek ünnepét hét napon örömmel, mert megvidámította vala őket az Úr, hozzájok hajtván az Assiriabeli király szívét, hogy erősítse kezöket az Istennek, Izráel Istenének háza építésében."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És ezek után Artaxerxes persa király uralkodásakor Ezsdrás, a Serája fia, ki Azariás fia, ki Hilkiás fia,"
+        },
+        {
+          "number": 2,
+          "text": "Ki Sallum fia, ki Sádók fia, ki Ahitub fia,"
+        },
+        {
+          "number": 3,
+          "text": "Ki Amária fia, ki Azariás fia, ki Mérájóth fia,"
+        },
+        {
+          "number": 4,
+          "text": "Ki Zerahja fia, ki Uzzi fia, ki Bukki fia,"
+        },
+        {
+          "number": 5,
+          "text": "Ki Abisua fia, ki Fineás fia, ki Eleázár fia, ki pedig Áronnak, a főpapnak fia volt."
+        },
+        {
+          "number": 6,
+          "text": "Ez az Ezsdrás feljöve Babilóniából, (ő, a ki bölcs írástudó vala a Mózes törvényében, melyet az Úr, Izráel Istene adott vala) és megadá néki a király az Úrnak, az ő Istenének rajta nyugovó kegyelme szerint minden kérését."
+        },
+        {
+          "number": 7,
+          "text": "Feljövének pedig az Izráel fiai, a papok, a Léviták, az énekesek, a kapunállók és a Léviták szolgái közül többen Jeruzsálembe Artaxerxes király hetedik esztendejében."
+        },
+        {
+          "number": 8,
+          "text": "És Ezsdrás megérkezék velök Jeruzsálembe az ötödik hónapban, a király hetedik esztendejében."
+        },
+        {
+          "number": 9,
+          "text": "Ugyanis az első hónak első napján határozá el a Babilóniából való feljövetelt, és az ötödik hó első napján érkezett Jeruzsálembe, az ő Istenének rajta nyugvó jó kegyelme szerint;"
+        },
+        {
+          "number": 10,
+          "text": "Mert Ezsdrás erős szívvel törekedett keresni és cselekedni az Úr törvényét, és tanítani Izráelben a rendeléseket és ítéleteket."
+        },
+        {
+          "number": 11,
+          "text": "És ez mássa a levélnek, melyet adott vala Artaxerxes király Ezsdrásnak, az írástudó papnak, a ki írástudó vala az Úr parancsolatainak beszédiben, Izráelnek adott rendeléseiben:"
+        },
+        {
+          "number": 12,
+          "text": "„Artaxerxes, a királyok királya Ezsdrás papnak, ki a menny Istenének törvényében bölcs írástudó és a többi."
+        },
+        {
+          "number": 13,
+          "text": "Szabadságot adok, hogy valaki országomban Izráel népe, papjai és a Léviták közül Jeruzsálembe akar menni, veled elmehet."
+        },
+        {
+          "number": 14,
+          "text": "Minthogy te elbocsáttatol a királytól és hét tanácsosától, hogy utána nézz Júdának és Jeruzsálemnek, a te Istened törvénye szerint, mely kezedben van,"
+        },
+        {
+          "number": 15,
+          "text": "És hogy elvigyed az ezüstöt és aranyat, melyet a király és tanácsosai önkénytesen ajándékoznak Izráel Istenének, kinek hajléka Jeruzsálemben van,"
+        },
+        {
+          "number": 16,
+          "text": "És mindazt az ezüstöt és aranyat, melyet kapni fogsz Babilónia egész tartományában, együtt a nép és a papok önkénytes ajándékával, mit ezek önkénytesen ajándékoznak az ő Istenök házának, mely Jeruzsálemben van."
+        },
+        {
+          "number": 17,
+          "text": "Annálfogva gondosan végy e pénzen bikákat, kosokat és bárányokat s hozzájok való étel- és italáldozatokat, s áldozd meg azokat Istenetek házának oltárán, mely Jeruzsálemben van:"
+        },
+        {
+          "number": 18,
+          "text": "A megmaradott ezüsttel és arannyal pedig, a mit jónak láttok cselekedni te és atyádfiai, Istenetek akaratja szerint, azt cselekedjétek."
+        },
+        {
+          "number": 19,
+          "text": "És az edényekkel, melyek néked adattak át a te Istened házának szolgálatára, számolj be Isten előtt Jeruzsálemben."
+        },
+        {
+          "number": 20,
+          "text": "Egyéb szükségét pedig Istened házának, mit csak teljesítened kell, teljesítsd a király kincstartó házából."
+        },
+        {
+          "number": 21,
+          "text": "És én, Artaxerxes, a király, parancsolom minden a folyóvizen túl lakó kincstartóimnak, hogy minden, a mit csak kérend tőletek Ezsdrás pap, ki a menny Istenének törvényében írástudó, pontosan teljesíttessék,"
+        },
+        {
+          "number": 22,
+          "text": "És pedig száz tálentom ezüstig, száz kór búzáig, száz báth borig, száz báth olajig és sóban, a mennyi elég."
+        },
+        {
+          "number": 23,
+          "text": "Minden, mi a menny Istenének akaratja szerint való, pontosan teljesíttessék a menny Istenének házáért, hogy meg ne haragudjék a királynak és fiainak országára."
+        },
+        {
+          "number": 24,
+          "text": "Veletek pedig tudatjuk, hogy sem a papokra, sem a Lévitákra, sem az énekesekre, sem a kapunállókra, sem a Léviták szolgáira, sem Isten e háza szolgáira, adót, rovást és úti vámot senkinek vetni nem szabad."
+        },
+        {
+          "number": 25,
+          "text": "És te Ezsdrás, a te Istened bölcs törvénye szerint, a mely kezedben van, rendelj ítélőket és birákat, a kik törvényt tegyenek minden a folyóvizen túl lakó nép között, mindazok között, a kik tudják Istenednek törvényeit, és a kik nem tudják, azokat tanítsátok!"
+        },
+        {
+          "number": 26,
+          "text": "Valaki pedig nem fogja cselekedni a te Istenednek törvényét és a király törvényét, ítélet hozassék felette pontosan, vagy halálra, vagy számkivetésre, vagy jószágvesztésre, vagy fogságra.”"
+        },
+        {
+          "number": 27,
+          "text": "Áldott az Úr, atyáink Istene, a ki erre indítá a király szívét, hogy megékesítse az Úr házát, mely Jeruzsálemben van."
+        },
+        {
+          "number": 28,
+          "text": "És a ki hozzám fordítá irgalmasságát a király előtt és tanácsosai előtt és a király minden hatalmas fejedelmei előtt! És én megerősödvén az Úrnak az én Istenemnek rajtam nyugovó kegyelme által, családfőket gyűjték össze Izráelből, hogy feljönnének velem."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ezek pedig családfőik és nemzetségi eredetök azoknak, a kik feljövének velem Artaxerxes uralkodásakor Babilóniából:"
+        },
+        {
+          "number": 2,
+          "text": "Fineás fiai közül: Gersóm; Ithamár fiai közül: Dániel; Dávid fiai közül: Hattus;"
+        },
+        {
+          "number": 3,
+          "text": "A Sekánia fiai közül, Parós fiai közül: Zakariás s vele egy nemzetségben másfélszáz férfi;"
+        },
+        {
+          "number": 4,
+          "text": "Pahath-Moáb fiai közül: Eljóénai, Zerahia fia s vele kétszáz férfi;"
+        },
+        {
+          "number": 5,
+          "text": "Sekánia fiai közül a Jaháziel fia s ő vele háromszáz férfi;"
+        },
+        {
+          "number": 6,
+          "text": "Ádin fiai közül: Ebed, Jónathán fia és vele ötven férfi;"
+        },
+        {
+          "number": 7,
+          "text": "Élám fiai közül: Ésaiás, Athália fia és vele hetven férfi;"
+        },
+        {
+          "number": 8,
+          "text": "Sefátia fiai közül: Zebádia, Mikháel fia és ő vele nyolczvan férfi;"
+        },
+        {
+          "number": 9,
+          "text": "Joáb fiai közül: Obádia, Jéhiel fia és vele kétszáztizennyolcz férfi;"
+        },
+        {
+          "number": 10,
+          "text": "Selómith fiai közül a Jószifia fia és vele százhatvan férfi;"
+        },
+        {
+          "number": 11,
+          "text": "Bébai fiai közül: Zakariás, Bébai fia és vele huszonnyolcz férfi;"
+        },
+        {
+          "number": 12,
+          "text": "Azgád fiai közül: Jóhanán, Hakkátán fia és vele száztíz férfi;"
+        },
+        {
+          "number": 13,
+          "text": "Adónikám fiai közül az utódok s neveik: Elifélet, Jeiél és Semája és velök hatvan férfi;"
+        },
+        {
+          "number": 14,
+          "text": "És Bigvai fiai közül: Uthai és Zabbud és velök hetven férfi."
+        },
+        {
+          "number": 15,
+          "text": "Mikor pedig összegyűjtém őket az Aháva felé folyó folyóvízhez, hol három napig valánk, megnéztem jól a népet és a papokat, s a Lévi fiai közül nem találtam közöttük senkit."
+        },
+        {
+          "number": 16,
+          "text": "Elküldém annakokáért Eliézert, Arielt, Semáját, Elnáthánt, Járibot, Elnáthánt, Náthánt, Zakariást, Mesullámot, mint családfőket, és Jójáribot és Elnáthánt, mint eszes embereket."
+        },
+        {
+          "number": 17,
+          "text": "És rendelém őket Iddóhoz, a ki fő vala a Kászifia nevű helyen, és betanítám őket, hogy mit szóljanak Iddónak és az ő atyjafiainak, a Léviták szolgáinak a Kászifia nevű helyen, – hogy hozzanak szolgákat a mi Istenünk házához."
+        },
+        {
+          "number": 18,
+          "text": "És elhozák nékünk, Istenünknek rajtunk nyugvó jó kegyelme szerint, Is-szekhelt, a Mahli fiai közül, a ki Lévi fia, a ki meg Izráel fia vala, és Serébiát, fiaival és tizennyolcz testvérével együtt."
+        },
+        {
+          "number": 19,
+          "text": "És Hasábiát s vele Ésaiást, a Mérári fiai közül, testvéreivel és húsz fiával együtt;"
+        },
+        {
+          "number": 20,
+          "text": "És a Léviták szolgái közül, a kiket Dávid és a fejedelmek adának a Léviták szolgálatába, kétszázhuszat; mindnyájok nevei feljegyeztettek."
+        },
+        {
+          "number": 21,
+          "text": "Ekkor bőjtöt hirdeték ott az Aháva folyóvíz mellett, hogy megaláznók magunkat a mi Istenünk előtt, hogy kérnénk tőle szerencsés utat magunknak, családainknak és minden marháinknak."
+        },
+        {
+          "number": 22,
+          "text": "Mert szégyeltem vala a királytól kérni sereget és lovagokat oltalmunkra a mi ellenségeink ellen ez útban, mert ezt mondtuk volt a királynak, mondván: A mi Istenünk kegyelme van mindazokon, a kik őt keresik, az ő javukra, és az ő hatalma és haragja mindazokon, a kik elhagyják őt."
+        },
+        {
+          "number": 23,
+          "text": "És bőjtölénk és a mi Istenünkhöz könyörgénk annakokáért, és meghallgatott minket."
+        },
+        {
+          "number": 24,
+          "text": "Ekkor különválaszték a papi fejedelmek közül tizenkettőt Serébiához és Hasábiához és hozzájok atyjokfiai közül tízet."
+        },
+        {
+          "number": 25,
+          "text": "És átmérém nékik az ezüstöt és aranyat és az edényeket, a mi Istenünk házának ajándékait, a melyeket a király és tanácsosai és fejedelmei és minden Babilóniában élő Izráeliták ajándékozának."
+        },
+        {
+          "number": 26,
+          "text": "Kezökhöz mérék pedig hatszázötven tálentom ezüstöt, száz tálentomot érő ezüst edényeket és száz tálentom aranyat."
+        },
+        {
+          "number": 27,
+          "text": "Húsz arany poharat, melyek ezer dárikot érnek vala, és két szép ragyogású rézedényt, melyek oly becsesek, mint az arany."
+        },
+        {
+          "number": 28,
+          "text": "És mondék nékik: Ti az Úrnak szentei vagytok, ez edények is szentek, és ez az ezüst és arany az Úrnak, atyáitok Istenének önkénytesen adott ajándék:"
+        },
+        {
+          "number": 29,
+          "text": "Vigyázzatok azért reá és megőrizzétek, míg átméritek a papi fejedelmek, a Léviták és Izráel családainak fejedelmei előtt Jeruzsálemben az Úr házának kamaráiban!"
+        },
+        {
+          "number": 30,
+          "text": "És átvevék a papok és a Léviták az ezüstöt, aranyat és az edényeket súly szerint, hogy vigyék Jeruzsálembe Istenünk házához."
+        },
+        {
+          "number": 31,
+          "text": "Elindulánk pedig az Aháva folyóvíz mellől az első hó tizenkettedik napján, hogy Jeruzsálembe menjünk; s a mi Istenünk kegyelme nyugodott rajtunk, megszabadítván minket a ránk leselkedő ellenségnek kezéből ez úton."
+        },
+        {
+          "number": 32,
+          "text": "És megérkezénk Jeruzsálembe, és pihenénk ott három napig."
+        },
+        {
+          "number": 33,
+          "text": "Negyednap pedig átméretett az ezüst, az arany és az edények a mi Istenünk házában, Merémóth papnak Uriás fiának kezéhez, vele lévén Eleázár, a Fineás fia, és velök Józadáb, a Jésua fia és Nóadia, a Binnui fia, Léviták,"
+        },
+        {
+          "number": 34,
+          "text": "Minden szám és súly szerint, s feljegyeztetett az egész súly abban az időben."
+        },
+        {
+          "number": 35,
+          "text": "A kik pedig megérkeztek a fogságból, a rabságnak fiai, égőáldozatokat vivének Izráel Istenének: tizenkét tulkot egész Izráelért, kilenczvenhat kost, hetvenhét bárányt, tizenkét bakot bűnért való áldozatra, mindezt egészen égőáldozatul az Úrnak."
+        },
+        {
+          "number": 36,
+          "text": "És átadák a király parancsolatait a király helytartóinak, s a vizen túl lévő helytartóknak, és ezek segíték a népet és az Isten házát."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Minekutána ezek elvégeződének, jövének hozzám a főemberek, mondván: Izráel népe és a papok és a Léviták nem különíték el magokat e tartományok népeitől, a miképen pedig azoknak, a Kananeusoknak, Hitteusoknak, Perizeusoknak, Jebuzeusoknak, Ammonitáknak, Moábitáknak, Égyiptomiaknak és Emoreusoknak útálatos vétke szerint el kellett volna,"
+        },
+        {
+          "number": 2,
+          "text": "Mert ezek leányai közül vettek vala feleséget magoknak és fiaiknak, és megelegyedett a szent mag e tartományok népeivel; és pedig a fejedelmek és főemberek valának elsők e bűnben."
+        },
+        {
+          "number": 3,
+          "text": "Mihelyt e dolgot meghallottam, megszaggatám alsó- és felső ruhámat, s téptem fejem hajszálait és szakállamat, és veszteg ültem."
+        },
+        {
+          "number": 4,
+          "text": "És hozzám gyűlének mindnyájan, a kik reszketve gondoltak Izráel Istenének beszédeire azoknak vétke miatt, a kik a fogságból megjöttek vala; és én veszteg ülök vala mind az estvéli áldozatig."
+        },
+        {
+          "number": 5,
+          "text": "Az estvéli áldozatkor pedig felkeltem sanyargatásomból, megszaggatván alsó- és felső ruhámat; és térdeimre esvén, kiterjesztém kezeimet az Úrhoz, az én Istenemhez."
+        },
+        {
+          "number": 6,
+          "text": "És mondék: Én Istenem, szégyenlem és átallom felemelni, én Istenem, az én orczámat te hozzád, mert a mi álnokságaink felülhaladtak fejünk fölött és a mi vétkeink mind az égig nevekedtek!"
+        },
+        {
+          "number": 7,
+          "text": "A mi atyáink napjaitól fogva nagy vétekben vagyunk mi mind e mai napig, és a mi álnokságainkért adattunk vala mi, a mi királyaink és a mi papjaink a földi királyok kezébe, fegyver által rabságra és ragadományra és orczapirulásra, a mint ez a mai nap is van."
+        },
+        {
+          "number": 8,
+          "text": "És most nem sok ideje, hogy az Úr, a mi Istenünk rajtunk könyörült, hogy hagyjon minékünk maradékot, és hogy adjon nékünk egy szeget az ő szent helyén, hogy így megvilágosítsa szemeinket a mi Istenünk, s hogy megelevenítsen bennünket egy kissé a mi szolgaságunkban."
+        },
+        {
+          "number": 9,
+          "text": "Mert szolgák vagyunk mi, de szolgaságunkban nem hagyott el minket a mi Istenünk, hanem hozzánk fordítá irgalmasságát Persiának királyai előtt, hogy megelevenítene bennünket, hogy felemelhessük a mi Istenünk házát s megépíthessük annak romjait, és hogy adjon nékünk bátorságos lakást Júdában és Jeruzsálemben."
+        },
+        {
+          "number": 10,
+          "text": "És most mit mondjunk, óh mi Istenünk, mindezek után? Azt, hogy mi mégis elhagytuk parancsolataidat,"
+        },
+        {
+          "number": 11,
+          "text": "A melyeket parancsoltál szolgáid, a próféták által, mondván: A föld, melyre bementek, hogy bírjátok azt, tisztátalan föld, a tartományok népeinek tisztátalansága miatt, útálatosságaik miatt, melyekkel betölték azt egyik végétől a másikig tisztátalanságukban;"
+        },
+        {
+          "number": 12,
+          "text": "Annakokáért leányaitokat ne adjátok az ő fiaiknak és az ő leányaikat ne vegyétek fiaitoknak, és ne keressétek barátságukat, sem javokat soha, hogy megerősödjetek és éljetek e föld javaival, és örökségképen adhassátok azt fiaitoknak mindörökké."
+        },
+        {
+          "number": 13,
+          "text": "Mindazok után pedig, a mik reánk jövének gonosz cselekedeteinkért és nagy vétkünkért, hiszen te, mi Istenünk, jobban kedveztél nékünk, sem mint bűneink miatt érdemeltünk volna, s adád nékünk e maradékot,"
+        },
+        {
+          "number": 14,
+          "text": "Hát megrontjuk-é ismét parancsolataidat s összeházasodunk-é ez útálatos népekkel? Nem fogsz-é haragudni reánk mindaddig, míg megemésztetünk, hogy sem maradékunk, sem hírmondónk ne legyen?"
+        },
+        {
+          "number": 15,
+          "text": "Oh Uram, Izráel Istene! igaz vagy te, mert meghagytál minket, maradék gyanánt, mint e mai nap bizonyítja. Ímé előtted vagyunk vétkünkben, és nem állhatunk meg előtted e miatt!"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És mikor imádkozék Ezsdrás és vallást tőn, sírva és földre borulva az Isten háza előtt, sereglének ő hozzá Izráelből igen nagy gyülekezetben férfiak és asszonyok és gyermekek, mert síra a nép is sokat és keservesen."
+        },
+        {
+          "number": 2,
+          "text": "És szóla Sekhánia, Jéhielnek fia, az Élám fiai közül, és monda Ezsdrásnak: Mi vétkeztünk a mi Istenünk ellen, hogy idegen feleségeket vettünk magunknak e föld népei közül: mindazáltal van reménysége Izráelnek, mind e mellett is!"
+        },
+        {
+          "number": 3,
+          "text": "Vessünk ugyanis frigyet a mi Istenünkkel, hogy elbocsátjuk mindazon asszonyokat és a tőlük szülötteket az én Uramnak és azoknak akaratja szerint, a kik reszketve gondolnak a mi Istenünk parancsolatára, és a törvény szerint cselekedjünk!"
+        },
+        {
+          "number": 4,
+          "text": "Kelj fel! mert reád néz e dolog, s mi veled leszünk: légy erős és láss hozzá!"
+        },
+        {
+          "number": 5,
+          "text": "Fölkele annakokáért Ezsdrás, és megesketé a papoknak, a Lévitáknak és az egész Izráelnek fejedelmeit, hogy e beszéd szerint fognak cselekedni; és megesküvének."
+        },
+        {
+          "number": 6,
+          "text": "És fölkele Ezsdrás az Isten háza elől, és elméne Jóhanánnak, Eliásib fiának szobájához s bemenvén abba, kenyeret nem evék, sem vizet nem ivék, mert gyászol vala a rabságból hazajöttek vétke miatt."
+        },
+        {
+          "number": 7,
+          "text": "És meghirdeték Júdában és Jeruzsálemben mindazoknak, a kik a rabságból hazajöttek, hogy Jeruzsálembe gyűljenek;"
+        },
+        {
+          "number": 8,
+          "text": "Valaki pedig el nem jön harmadnapra, a fejedelmek és vének tanácsa szerint, adassék minden vagyona a templomnak, és ő maga vettessék ki a rabságból hazajötteknek gyülekezetéből."
+        },
+        {
+          "number": 9,
+          "text": "Összegyűlének azért Júdának és Benjáminnak minden férfiai harmadnapra Jeruzsálembe a kilenczedik hóban, e hó huszadik napján, és leüle az egész nép az Isten házának piaczán, aggódván e dolog és az esőzések miatt."
+        },
+        {
+          "number": 10,
+          "text": "Ekkor fölkele Ezsdrás, a pap, és monda nékik: Ti vétkeztetek, hogy idegen feleségeket vettetek magatoknak, hogy ezzel is többítenétek Izráel vétkét;"
+        },
+        {
+          "number": 11,
+          "text": "Annakokáért tegyetek vallást az Úr előtt, atyáitoknak Istene előtt, és cselekedjetek az ő akaratja szerint, elkülönítvén magatokat e föld népeitől és az idegen feleségektől."
+        },
+        {
+          "number": 12,
+          "text": "És felele az egész gyülekezet, és monda felszóval: Ekképen, a te beszéded szerint kell minékünk cselekednünk!"
+        },
+        {
+          "number": 13,
+          "text": "De e nép igen sok és az esős idő miatt kivül nem állhatunk; annak felette ez nem egy, sem nem két napi munka, mert sokan vagyunk, a kik vétkeztünk e dologban;"
+        },
+        {
+          "number": 14,
+          "text": "Hadd álljanak hát elő fejedelmeink, az egész gyülekezeté, és mindenki, a ki idegen feleséget vett magának, városonként jőjjön elő bizonyos időben s velök a városoknak vénei és birái, hogy elfordítsuk magunkról a mi Istenünknek e dolog miatt való búsulásának haragját!"
+        },
+        {
+          "number": 15,
+          "text": "Csak Jónathán, az Asáhel fia és Jahzéja, a Tikva fia állának fel ez ellen és Mésullám és Sabbethai, a Léviták támogaták őket."
+        },
+        {
+          "number": 16,
+          "text": "És cselekedének ekképen azok, a kik a rabságból hazajöttek; és választa magának Ezsdrás, a pap férfiakat, a családfőket, családjuk szerint, s mindnyájok nevei feljegyeztettek. És összeülének a tizedik hó első napján, hogy nyomozzák e dolgot;"
+        },
+        {
+          "number": 17,
+          "text": "És bevégezék azt mindazon férfiakra nézve, a kik idegen feleséget vettek vala magoknak, az első hónak első napjáig."
+        },
+        {
+          "number": 18,
+          "text": "Találtatának pedig a papok fiai közül, a kik idegen feleségeket vettek vala magoknak, Jésuának, a Jósádák fiának és az ő testvéreinek fiai közül: Maaséja, Eliézer, Járib és Gedálja;"
+        },
+        {
+          "number": 19,
+          "text": "És kezöket adák, hogy elbocsátják feleségeiket és egy kos áldozására ítéltetének vétkükért;"
+        },
+        {
+          "number": 20,
+          "text": "Immér fiai közül pedig: Hanáni és Zebádja."
+        },
+        {
+          "number": 21,
+          "text": "Hárim fiai közül: Maaszéja, Elija, Semája, Jéhiel és Uzzia,"
+        },
+        {
+          "number": 22,
+          "text": "Pashur fiai közül: Eljoénaj, Maaszéja, Ismáel, Nethanéel, Józabád és Elásza;"
+        },
+        {
+          "number": 23,
+          "text": "Továbbá a Léviták közül: Józabád, Simei és Kélája. (az a Kelita), Pethahja, Júda és Eliézer;"
+        },
+        {
+          "number": 24,
+          "text": "Az énekesek közül pedig: Eliásib, s a kapunállók közül: Sallum, Telem és Uri;"
+        },
+        {
+          "number": 25,
+          "text": "Továbbá Izráel népéből: Parós fiai közül: Ramia, Jezija, Malkija, Mijámin, Eleázár, Malkija és Benája;"
+        },
+        {
+          "number": 26,
+          "text": "Elám fiai közül: Mattánia, Zakariás, Jéhiel, Abdi, Jerémóth és Élija;"
+        },
+        {
+          "number": 27,
+          "text": "Zattu fiai közül: Eljóénai, Eljásib, Mattánia, Jerémóth, Zabád és Aziza;"
+        },
+        {
+          "number": 28,
+          "text": "Bébai fiai közül: Jóhanán, Hanánia, Zabbai és Athlai;"
+        },
+        {
+          "number": 29,
+          "text": "Báni fiai közül: Mesullám, Mallukh, Adája, Jásub, Seál és Rámóth;"
+        },
+        {
+          "number": 30,
+          "text": "Pahath-Moáb fiai közül: Adna, Kelál, Benája, Maaszéja, Mattánia, Besaléel, Binnui és Manasse;"
+        },
+        {
+          "number": 31,
+          "text": "A Hárim fiai pedig: Eliézer, Jissija, Malkija, Semája, Simeon;"
+        },
+        {
+          "number": 32,
+          "text": "Benjámin, Mallukh, Semarja;"
+        },
+        {
+          "number": 33,
+          "text": "Hásum fiai közül: Mattenai, Mattattá, Zabád, Elifélet, Jerémai, Manasse, Simei,"
+        },
+        {
+          "number": 34,
+          "text": "Báni fiai közül: Maádai, Amrám és Uél;"
+        },
+        {
+          "number": 35,
+          "text": "Benája, Bédéja, Keluhu;"
+        },
+        {
+          "number": 36,
+          "text": "Vanja, Merémóth, Eliásib;"
+        },
+        {
+          "number": 37,
+          "text": "Mattánia, Mattenai és Jaaszái;"
+        },
+        {
+          "number": 38,
+          "text": "Báni, Binnui, Simei;"
+        },
+        {
+          "number": 39,
+          "text": "Selemia, Náthán és Adája;"
+        },
+        {
+          "number": 40,
+          "text": "Makhnadbai, Sásai, Sárai;"
+        },
+        {
+          "number": 41,
+          "text": "Azareél, Selemia és Semária;"
+        },
+        {
+          "number": 42,
+          "text": "Sallum, Amaria, József:"
+        },
+        {
+          "number": 43,
+          "text": "A Nebó fiai közül: Jéiel, Mattithja, Zabád, Zebina, Jaddai, Jóel, Benája."
+        },
+        {
+          "number": 44,
+          "text": "Mindezek idegen feleségeket vettek vala magoknak. És valának e feleségek között olyanok is, a kik már fiakat szültek."
+        }
+      ]
+    }
+  ]
+}

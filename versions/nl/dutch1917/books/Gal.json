@@ -1,0 +1,635 @@
+{
+  "version": "dutch1917",
+  "book": "Gal",
+  "bookId": 48,
+  "englishName": "Galatians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulus, een apostel, geroepen niet van mensen, noch door een mens, maar door Jezus Christus, en God den Vader, Die Hem uit de doden opgewekt heeft),"
+        },
+        {
+          "number": 2,
+          "text": "En al de broeders, die met mij zijn, aan de Gemeenten van Galatie:"
+        },
+        {
+          "number": 3,
+          "text": "Genade zij u en vrede van God den Vader, en onzen Heere Jezus Christus;"
+        },
+        {
+          "number": 4,
+          "text": "Die Zichzelven gegeven heeft voor onze zonden, opdat Hij ons trekken zou uit deze tegenwoordige boze wereld, naar den wil van onzen God en Vader;"
+        },
+        {
+          "number": 5,
+          "text": "Denwelken zij de heerlijkheid in alle eeuwigheid. Amen."
+        },
+        {
+          "number": 6,
+          "text": "Ik verwonder mij, dat gij zo haast wijkende van dengene, die u in de genade van Christus geroepen heeft, overgebracht wordt tot een ander Evangelie;"
+        },
+        {
+          "number": 7,
+          "text": "Daar er geen ander is; maar er zijn sommigen, die u ontroeren, en het Evangelie van Christus willen verkeren."
+        },
+        {
+          "number": 8,
+          "text": "Doch al ware het ook, dat wij, of een engel uit den hemel u een Evangelie verkondigde, buiten hetgeen wij u verkondigd hebben, die zij vervloekt."
+        },
+        {
+          "number": 9,
+          "text": "Gelijk wij te voren gezegd hebben, zo zeg ik ook nu wederom: Indien u iemand een Evangelie verkondigt, buiten hetgeen gij ontvangen hebt, die zij vervloekt."
+        },
+        {
+          "number": 10,
+          "text": "Want predik ik nu de mensen, of God? Of zoek ik mensen te behagen? Want indien ik nog mensen behaagde, zo ware ik geen dienstknecht van Christus."
+        },
+        {
+          "number": 11,
+          "text": "Maar ik maak u bekend, broeders, dat het Evangelie, hetwelk van mij verkondigd is, niet is naar den mens."
+        },
+        {
+          "number": 12,
+          "text": "Want ik heb ook hetzelve niet van een mens ontvangen, noch geleerd, maar door de openbaring van Jezus Christus."
+        },
+        {
+          "number": 13,
+          "text": "Want gij hebt mijn omgang gehoord, die eertijds in het Jodendom was, dat ik uitnemend zeer de Gemeente Gods vervolgde, en dezelve verwoestte;"
+        },
+        {
+          "number": 14,
+          "text": "En dat ik in het Jodendom toenam boven velen van mijn ouderdom in mijn geslacht, zijnde overvloedig ijverig voor mijn vaderlijke inzettingen."
+        },
+        {
+          "number": 15,
+          "text": "Maar wanneer het Gode behaagd heeft, Die mij van mijner moeders lijf aan afgezonderd heeft, en geroepen door Zijn genade,"
+        },
+        {
+          "number": 16,
+          "text": "Zijn Zoon in mij te openbaren, opdat ik Denzelven door het Evangelie onder de heidenen zou verkondigen, zo ben ik terstond niet te rade gegaan met vlees en bloed;"
+        },
+        {
+          "number": 17,
+          "text": "En ben niet wederom gegaan naar Jeruzalem, tot degenen, die voor mij apostelen waren; maar ik ging henen naar Arabie, en keerde wederom naar Damaskus."
+        },
+        {
+          "number": 18,
+          "text": "Daarna kwam ik na drie jaren weder te Jeruzalem om Petrus te bezoeken, en ik bleef bij hem vijftien dagen."
+        },
+        {
+          "number": 19,
+          "text": "En zag geen ander van de apostelen, dan Jakobus, den broeder des Heeren."
+        },
+        {
+          "number": 20,
+          "text": "Hetgeen nu ik u schrijf, ziet, ik getuig voor God, dat ik niet lieg!"
+        },
+        {
+          "number": 21,
+          "text": "Daarna ben ik gekomen in de gewesten van Syrie en van Cilicie."
+        },
+        {
+          "number": 22,
+          "text": "En ik was van aangezicht onbekend aan de Gemeenten in Judea, die in Christus zijn."
+        },
+        {
+          "number": 23,
+          "text": "Maar zij hadden alleenlijk gehoord, dat men zeide: Degene, die ons eertijds vervolgde, verkondigt nu het geloof, hetwelk hij eertijds verwoestte."
+        },
+        {
+          "number": 24,
+          "text": "En zij verheerlijkten God in mij."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Daarna ben ik, na veertien jaren, wederom naar Jeruzalem opgegaan met Barnabas, ook Titus medegenomen hebbende."
+        },
+        {
+          "number": 2,
+          "text": "En ik ging op door een openbaring, en stelde hun het Evangelie voor, dat ik predik onder de heidenen; en in het bijzonder aan degenen, die in achting waren, opdat ik niet enigszins tevergeefs zou lopen of gelopen hebben."
+        },
+        {
+          "number": 3,
+          "text": "Maar ook Titus, die met mij was, een Griek zijnde, werd niet genoodzaakt zich te laten besnijden."
+        },
+        {
+          "number": 4,
+          "text": "En dat om der ingekropen valse broederen wil, die van bezijden ingekomen waren, om te verspieden onze vrijheid, die wij in Christus Jezus hebben, opdat zij ons zouden tot dienstbaarheid brengen."
+        },
+        {
+          "number": 5,
+          "text": "Denwelken wij ook niet een uur hebben geweken met onderwerping, opdat de waarheid van het Evangelie bij u zou verblijven."
+        },
+        {
+          "number": 6,
+          "text": "En van degenen, die geacht waren, wat te zijn, hoedanigen zij eertijds waren, verschilt mij niet; God neemt den persoon des mensen niet aan; want die geacht waren, hebben mij niets toegebracht."
+        },
+        {
+          "number": 7,
+          "text": "Maar daarentegen, als zij zagen, dat aan mij het Evangelie der voorhuid toebetrouwd was, gelijk aan Petrus dat der besnijdenis;"
+        },
+        {
+          "number": 8,
+          "text": "(Want Die in Petrus krachtelijk wrocht tot het apostelschap der besnijdenis, Die wrocht ook krachtelijk in mij onder de heidenen);"
+        },
+        {
+          "number": 9,
+          "text": "En als Jakobus, en Cefas, en Johannes, die geacht waren pilaren te zijn, de genade, die mij gegeven was, bekenden, gaven zij mij en Barnabas de rechter hand der gemeenschap, opdat wij tot de heidenen, en zij tot de besnijdenis zouden gaan;"
+        },
+        {
+          "number": 10,
+          "text": "Alleenlijk, dat wij den armen zouden gedenken; hetwelk zelf ik ook benaarstigd heb te doen."
+        },
+        {
+          "number": 11,
+          "text": "En toen Petrus te Antiochie gekomen was, wederstond ik hem in het aangezicht, omdat hij te bestraffen was."
+        },
+        {
+          "number": 12,
+          "text": "Want eer sommigen van Jakobus gekomen waren, at hij mede met de heidenen; maar toen zij gekomen waren, onttrok hij zich en scheidde zichzelven af, vrezende degenen, die uit de besnijdenis waren."
+        },
+        {
+          "number": 13,
+          "text": "En ook de andere Joden veinsden met hem; alzo dat ook Barnabas mede afgetrokken werd door hun veinzing."
+        },
+        {
+          "number": 14,
+          "text": "Maar als ik zag, dat zij niet recht wandelden naar de waarheid van het Evangelie, zeide ik tot Petrus in aller tegenwoordigheid: Indien gij, die een Jood zijt, naar heidense wijze leeft, en niet naar Joodse wijze, waarom noodzaakt gij de heidenen naar de Joodse wijze te leven?"
+        },
+        {
+          "number": 15,
+          "text": "Wij zijn van nature Joden, en niet zondaars uit de heidenen;"
+        },
+        {
+          "number": 16,
+          "text": "Doch wetende, dat de mens niet gerechtvaardigd wordt uit de werken der wet, maar door het geloof van Jezus Christus, zo hebben wij ook in Christus Jezus geloofd, opdat wij zouden gerechtvaardigd worden uit het geloof van Christus, en niet uit de werken der wet; daarom dat uit de werken der wet geen vlees zal gerechtvaardigd worden."
+        },
+        {
+          "number": 17,
+          "text": "Maar indien wij, die in Christus zoeken gerechtvaardigd te worden, ook zelven zondaars bevonden worden, is dan Christus een dienaar der zonde? Dat zij verre."
+        },
+        {
+          "number": 18,
+          "text": "Want indien ik, hetgeen ik afgebroken heb, datzelve wederom opbouw, zo stel ik mijzelven tot een overtreder."
+        },
+        {
+          "number": 19,
+          "text": "Want ik ben door de wet der wet gestorven, opdat ik Gode leven zou."
+        },
+        {
+          "number": 20,
+          "text": "Ik ben met Christus gekruist; en ik leef, doch niet meer ik, maar Christus leeft in mij; en hetgeen ik nu in het vlees leef, dat leef ik door het geloof des Zoons van God, Die mij liefgehad heeft, en Zichzelven voor mij overgegeven heeft."
+        },
+        {
+          "number": 21,
+          "text": "Ik doe de genade Gods niet te niet; want indien de rechtvaardigheid door de wet is, zo is dan Christus tevergeefs gestorven."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O gij uitzinnige Galaten, wie heeft u betoverd, dat gij der waarheid niet zoudt gehoorzaam zijn; denwelken Jezus Christus voor de ogen te voren geschilderd is geweest, onder u gekruist zijnde?"
+        },
+        {
+          "number": 2,
+          "text": "Dit alleen wil ik van u leren: hebt gij den Geest ontvangen uit de werken der wet, of uit de prediking des geloofs?"
+        },
+        {
+          "number": 3,
+          "text": "Zijt gij zo uitzinnig? Daar gij met den Geest begonnen zijt, voleindigt gij nu met het vlees?"
+        },
+        {
+          "number": 4,
+          "text": "Hebt gij zoveel tevergeefs geleden? Indien maar ook tevergeefs!"
+        },
+        {
+          "number": 5,
+          "text": "Die u dan den Geest verleent, en krachten onder u werkt, doet Hij dat uit de werken der wet, of uit de prediking des geloofs?"
+        },
+        {
+          "number": 6,
+          "text": "Gelijkerwijs Abraham Gode geloofd heeft, en het is hem tot rechtvaardigheid gerekend;"
+        },
+        {
+          "number": 7,
+          "text": "Zo verstaat gij dan, dat degenen, die uit het geloof zijn, Abrahams kinderen zijn."
+        },
+        {
+          "number": 8,
+          "text": "En de Schrift, te voren ziende, dat God de heidenen uit het geloof zou rechtvaardigen, heeft te voren aan Abraham het Evangelie verkondigd, zeggende: In u zullen al de volken gezegend worden."
+        },
+        {
+          "number": 9,
+          "text": "Zo dan, die uit het geloof zijn, worden gezegend met den gelovigen Abraham."
+        },
+        {
+          "number": 10,
+          "text": "Want zovelen als er uit de werken der wet zijn, die zijn onder den vloek; want er is geschreven: Vervloekt is een iegelijk, die niet blijft in al hetgeen geschreven is in het boek der wet, om dat te doen."
+        },
+        {
+          "number": 11,
+          "text": "En dat niemand door de wet gerechtvaardigd wordt voor God, is openbaar; want de rechtvaardige zal uit het geloof leven."
+        },
+        {
+          "number": 12,
+          "text": "Doch de wet is niet uit het geloof; maar de mens, die deze dingen doet, zal door dezelve leven."
+        },
+        {
+          "number": 13,
+          "text": "Christus heeft ons verlost van den vloek der wet, een vloek geworden zijnde voor ons; want er is geschreven: Vervloekt is een iegelijk, die aan het hout hangt."
+        },
+        {
+          "number": 14,
+          "text": "Opdat de zegening van Abraham tot de heidenen komen zou in Christus Jezus, en opdat wij de belofte des Geestes verkrijgen zouden door het geloof."
+        },
+        {
+          "number": 15,
+          "text": "Broeders, ik spreek naar den mens: zelfs eens mensen verbond, dat bevestigd is, doet niemand te niet, of niemand doet daartoe."
+        },
+        {
+          "number": 16,
+          "text": "Nu zo zijn de beloftenissen tot Abraham en zijn zaad gesproken. Hij zegt niet: En den zaden, als van velen; maar als van een: En uw zade; hetwelk is Christus."
+        },
+        {
+          "number": 17,
+          "text": "En dit zeg ik: Het verbond, dat te voren van God bevestigd is op Christus, wordt door de wet, die na vierhonderd en dertig jaren gekomen is, niet krachteloos gemaakt, om de beloftenis te niet te doen."
+        },
+        {
+          "number": 18,
+          "text": "Want indien de erfenis uit de wet is, zo is zij niet meer uit de beloftenis; maar God heeft ze Abraham door de beloftenis genadiglijk gegeven."
+        },
+        {
+          "number": 19,
+          "text": "Waartoe is dan de wet? Zij is om der overtredingen wil daarbij gesteld, totdat het zaad zou gekomen zijn, dien het beloofd was; en zij is door de engelen besteld in de hand des Middelaars."
+        },
+        {
+          "number": 20,
+          "text": "En de Middelaar is niet Middelaar van een, maar God is een."
+        },
+        {
+          "number": 21,
+          "text": "Is dan de wet tegen de beloftenissen Gods? Dat zij verre; want indien er een wet gegeven ware, die machtig was levend te maken, zo zou waarlijk de rechtvaardigheid uit de wet zijn."
+        },
+        {
+          "number": 22,
+          "text": "Maar de Schrift heeft het alles onder de zonde besloten, opdat de belofte uit het geloof van Jezus Christus aan de gelovigen zou gegeven worden."
+        },
+        {
+          "number": 23,
+          "text": "Doch eer het geloof kwam, waren wij onder de wet in bewaring gesteld, en zijn besloten geweest tot op het geloof, dat geopenbaard zou worden."
+        },
+        {
+          "number": 24,
+          "text": "Zo dan, de wet is onze tuchtmeester geweest tot Christus, opdat wij uit het geloof zouden gerechtvaardigd worden."
+        },
+        {
+          "number": 25,
+          "text": "Maar als het geloof gekomen is, zo zijn wij niet meer onder den tuchtmeester."
+        },
+        {
+          "number": 26,
+          "text": "Want gij zijt allen kinderen Gods door het geloof in Christus Jezus."
+        },
+        {
+          "number": 27,
+          "text": "Want zovelen als gij in Christus gedoopt zijt, hebt gij Christus aangedaan."
+        },
+        {
+          "number": 28,
+          "text": "Daarin is noch Jood noch Griek; daarin is noch dienstbare noch vrije; daarin is geen man en vrouw; want gij allen zijt een in Christus Jezus."
+        },
+        {
+          "number": 29,
+          "text": "En indien gij van Christus zijt, zo zijt gij dan Abrahams zaad, en naar de beloftenis erfgenamen."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Doch ik zeg, zo langen tijd als de erfgenaam een kind is, zo verschilt hij niets van een dienstknecht, hoewel hij een heer is van alles;"
+        },
+        {
+          "number": 2,
+          "text": "Maar hij is onder voogden en verzorgers, tot den tijd van den vader te voren gesteld."
+        },
+        {
+          "number": 3,
+          "text": "Alzo wij ook, toen wij kinderen waren, zo waren wij dienstbaar gemaakt onder de eerste beginselen der wereld."
+        },
+        {
+          "number": 4,
+          "text": "Maar wanneer de volheid des tijds gekomen is, heeft God Zijn Zoon uitgezonden, geworden uit een vrouw, geworden onder de wet;"
+        },
+        {
+          "number": 5,
+          "text": "Opdat Hij degenen, die onder de wet waren, verlossen zou, en opdat wij de aanneming tot kinderen verkrijgen zouden."
+        },
+        {
+          "number": 6,
+          "text": "En overmits gij kinderen zijt, zo heeft God den Geest Zijns Zoons uitgezonden in uw harten, Die roept: Abba, Vader!"
+        },
+        {
+          "number": 7,
+          "text": "Zo dan, gij zijt niet meer een dienstknecht, maar een zoon; en indien gij een zoon zijt, zo zijt gij ook een erfgenaam van God door Christus."
+        },
+        {
+          "number": 8,
+          "text": "Maar toen, als gij God niet kendet, diendet gij degenen, die van nature geen goden zijn;"
+        },
+        {
+          "number": 9,
+          "text": "En nu, als gij God kent, ja, veelmeer van God gekend zijt, hoe keert gij u wederom tot de zwakke en arme beginselen, welke gij wederom van voren aan wilt dienen?"
+        },
+        {
+          "number": 10,
+          "text": "Gij onderhoudt dagen, en maanden, en tijden, en jaren."
+        },
+        {
+          "number": 11,
+          "text": "Ik vrees voor u, dat ik niet enigszins tevergeefs aan u gearbeid heb."
+        },
+        {
+          "number": 12,
+          "text": "Weest gij als ik, want ook ik ben als gij; broeders, ik bid u; gij hebt mij geen ongelijk gedaan."
+        },
+        {
+          "number": 13,
+          "text": "En gij weet, dat ik u door zwakheid des vleses het Evangelie de eerste maal verkondigd heb;"
+        },
+        {
+          "number": 14,
+          "text": "En mijn verzoeking, die in mijn vlees geschiedde, hebt gij niet veracht noch verfoeid; maar gij naamt mij aan als een engel Gods, ja, als Christus Jezus."
+        },
+        {
+          "number": 15,
+          "text": "Welke was dan uw gelukachting? Want ik geef u getuigenis, dat gij, zo het mogelijk ware, uw ogen zoudt uitgegraven, en mij gegeven hebben."
+        },
+        {
+          "number": 16,
+          "text": "Ben ik dan uw vijand geworden, u de waarheid zeggende?"
+        },
+        {
+          "number": 17,
+          "text": "Zij ijveren niet recht over u; maar zij willen ons uitsluiten, opdat gij over hen zoudt ijveren."
+        },
+        {
+          "number": 18,
+          "text": "Doch in het goede te allen tijd te ijveren is goed, en niet alleenlijk, als ik bij u tegenwoordig ben;"
+        },
+        {
+          "number": 19,
+          "text": "Mijn kinderkens, die ik wederom arbeide te baren, totdat Christus een gestalte in u krijge."
+        },
+        {
+          "number": 20,
+          "text": "Doch ik wilde, dat ik nu tegenwoordig bij u ware, en mijn stem mocht veranderen; want ik ben in twijfel over u."
+        },
+        {
+          "number": 21,
+          "text": "Zegt mij, gij, die onder de wet wilt zijn, hoort gij de wet niet?"
+        },
+        {
+          "number": 22,
+          "text": "Want er is geschreven, dat Abraham twee zonen had, een uit de dienstmaagd, en een uit de vrije."
+        },
+        {
+          "number": 23,
+          "text": "Maar gene, die uit de dienstmaagd was, is naar het vlees geboren geweest; doch deze, die uit de vrije was, door de beloftenis;"
+        },
+        {
+          "number": 24,
+          "text": "Hetwelk dingen zijn, die andere beduiding hebben; want deze zijn de twee verbonden; het ene van den berg Sina, tot dienstbaarheid barende, hetwelk is Agar;"
+        },
+        {
+          "number": 25,
+          "text": "Want dit, namelijk Agar, is Sina, een berg in Arabie, en komt overeen met Jeruzalem, dat nu is, en dienstbaar is met haar kinderen."
+        },
+        {
+          "number": 26,
+          "text": "Maar Jeruzalem, dat boven is, dat is vrij, hetwelk is ons aller moeder."
+        },
+        {
+          "number": 27,
+          "text": "Want er is geschreven: Wees vrolijk, gij onvruchtbare, die niet baart, breek uit en roep, gij, die geen barensnood hebt, want de kinderen der eenzame zijn veel meer, dan dergene, die den man heeft."
+        },
+        {
+          "number": 28,
+          "text": "Maar wij, broeders, zijn kinderen der belofte, als Izak was."
+        },
+        {
+          "number": 29,
+          "text": "Doch gelijkerwijs toen, die naar het vlees geboren was, vervolgde dengene, die naar den Geest geboren was, alzo ook nu."
+        },
+        {
+          "number": 30,
+          "text": "Maar wat zegt de Schrift? Werp de dienstmaagd uit en haar zoon; want de zoon der dienstmaagd zal geenszins erven met den zoon der vrije."
+        },
+        {
+          "number": 31,
+          "text": "Zo dan, broeders, wij zijn niet kinderen der dienstmaagd, maar der vrije."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Staat dan in de vrijheid, met welke ons Christus vrijgemaakt heeft, en wordt niet wederom met het juk der dienstbaarheid bevangen."
+        },
+        {
+          "number": 2,
+          "text": "Ziet, ik Paulus zeg u, zo gij u laat besnijden, dat Christus u niet nut zal zijn."
+        },
+        {
+          "number": 3,
+          "text": "En ik betuig wederom een iegelijk mens, die zich laat besnijden, dat hij een schuldenaar is de gehele wet te doen."
+        },
+        {
+          "number": 4,
+          "text": "Christus is u ijdel geworden, die door de wet gerechtvaardigd wilt worden; gij zijt van de genade vervallen."
+        },
+        {
+          "number": 5,
+          "text": "Want wij verwachten door den Geest, uit het geloof, de hoop der rechtvaardigheid."
+        },
+        {
+          "number": 6,
+          "text": "Want in Christus Jezus heeft noch besnijdenis enige kracht noch voorhuid, maar het geloof, door de liefde werkende."
+        },
+        {
+          "number": 7,
+          "text": "Gij liept wel; wie heeft u verhinderd der waarheid niet gehoorzaam te zijn?"
+        },
+        {
+          "number": 8,
+          "text": "Dit gevoelen is niet uit Hem, Die u roept."
+        },
+        {
+          "number": 9,
+          "text": "Een weinig zuurdesem verzuurt het gehele deeg."
+        },
+        {
+          "number": 10,
+          "text": "Ik vertrouw van u in den Heere, dat gij niet anders zult gevoelen; maar die u ontroert, zal het oordeel dragen, wie hij ook zij."
+        },
+        {
+          "number": 11,
+          "text": "Maar ik, broeders! Indien ik nog de besnijdenis predik, waarom word ik nog vervolgd? Zo is dan de ergernis des kruises vernietigd."
+        },
+        {
+          "number": 12,
+          "text": "Och, of zij ook afgesneden werden, die u onrustig maken!"
+        },
+        {
+          "number": 13,
+          "text": "Want gij zijt tot vrijheid geroepen, broeders, alleenlijk gebruikt de vrijheid niet tot een oorzaak voor het vlees; maar dient elkander door de liefde."
+        },
+        {
+          "number": 14,
+          "text": "Want de gehele wet wordt in een woord vervuld, namelijk in dit: Gij zult uw naaste liefhebben, gelijk uzelven."
+        },
+        {
+          "number": 15,
+          "text": "Maar indien gij elkander bijt en vereet, ziet toe, dat gij van elkander niet verteerd wordt."
+        },
+        {
+          "number": 16,
+          "text": "En ik zeg: Wandelt door den Geest en volbrengt de begeerlijkheden des vleses niet."
+        },
+        {
+          "number": 17,
+          "text": "Want het vlees begeert tegen den Geest, en de Geest tegen het vlees; en deze staan tegen elkander, alzo dat gij niet doet, hetgeen gij wildet."
+        },
+        {
+          "number": 18,
+          "text": "Maar indien gij door den Geest geleid wordt, zo zijt gij niet onder de wet."
+        },
+        {
+          "number": 19,
+          "text": "De werken des vleses nu zijn openbaar; welke zijn overspel, hoererij, onreinigheid, ontuchtigheid,"
+        },
+        {
+          "number": 20,
+          "text": "Afgoderij, venijngeving, vijandschappen, twisten, afgunstigheden, toorn, gekijf, tweedracht, ketterijen,"
+        },
+        {
+          "number": 21,
+          "text": "Nijd, moord, dronkenschappen, brasserijen, en dergelijke; van dewelke ik u te voren zeg, gelijk ik ook te voren gezegd heb, dat die zulke dingen doen, het Koninkrijk Gods niet zullen beerven."
+        },
+        {
+          "number": 22,
+          "text": "Maar de vrucht des Geestes is liefde, blijdschap, vrede, lankmoedigheid, goedertierenheid, goedheid, geloof,"
+        },
+        {
+          "number": 23,
+          "text": "(5:22) zachtmoedigheid, matigheid. (5:23) Tegen de zodanigen is de wet niet."
+        },
+        {
+          "number": 24,
+          "text": "Maar die van Christus zijn, hebben het vlees gekruist met de bewegingen en begeerlijkheden."
+        },
+        {
+          "number": 25,
+          "text": "Indien wij door den Geest leven, zo laat ons ook door den Geest wandelen."
+        },
+        {
+          "number": 26,
+          "text": "Laat ons niet zijn zoekers van ijdele eer, elkander tergende, elkander benijdende."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Broeders, indien ook een mens vervallen ware door enige misdaad, gij, die geestelijk zijt, brengt den zodanige te recht met den geest der zachtmoedigheid; ziende op uzelven, opdat ook gij niet verzocht wordt."
+        },
+        {
+          "number": 2,
+          "text": "Draagt elkanders lasten, en vervult alzo de wet van Christus."
+        },
+        {
+          "number": 3,
+          "text": "Want zo iemand meent iets te zijn, daar hij niets is, die bedriegt zichzelven in zijn gemoed."
+        },
+        {
+          "number": 4,
+          "text": "Maar een iegelijk beproeve zijn eigen werk; en alsdan zal hij aan zichzelven alleen roem hebben, en niet aan een anderen."
+        },
+        {
+          "number": 5,
+          "text": "Want een iegelijk zal zijn eigen pak dragen."
+        },
+        {
+          "number": 6,
+          "text": "En die onderwezen wordt in het Woord, dele mede van alle goederen dengene, die hem onderwijst."
+        },
+        {
+          "number": 7,
+          "text": "Dwaalt niet; God laat Zich niet bespotten; want zo wat de mens zaait, dat zal hij ook maaien."
+        },
+        {
+          "number": 8,
+          "text": "Want die in zijn eigen vlees zaait, zal uit het vlees verderfenis maaien; maar die in den Geest zaait, zal uit den Geest het eeuwige leven maaien."
+        },
+        {
+          "number": 9,
+          "text": "Doch laat ons, goed doende, niet vertragen; want te zijner tijd zullen wij maaien, zo wij niet verslappen."
+        },
+        {
+          "number": 10,
+          "text": "Zo dan, terwijl wij tijd hebben, laat ons goed doen aan allen, maar meest aan de huisgenoten des geloofs."
+        },
+        {
+          "number": 11,
+          "text": "Ziet, hoe groten brief ik u geschreven heb met mijn hand."
+        },
+        {
+          "number": 12,
+          "text": "Al degenen, die een schoon gelaat willen tonen naar het vlees, die noodzaken u besneden te worden, alleenlijk opdat zij vanwege het kruis van Christus niet zouden vervolgd worden."
+        },
+        {
+          "number": 13,
+          "text": "Want ook zij zelven, die besneden worden, houden de wet niet; maar zij willen, dat gij besneden wordt, opdat zij in uw vlees roemen zouden."
+        },
+        {
+          "number": 14,
+          "text": "Maar het zij verre van mij, dat ik zou roemen, anders dan in het kruis van onzen Heere Jezus Christus; door Welken de wereld mij gekruisigd is, en ik der wereld."
+        },
+        {
+          "number": 15,
+          "text": "Want in Christus Jezus heeft noch besnijdenis enige kracht, noch voorhuid, maar een nieuw schepsel."
+        },
+        {
+          "number": 16,
+          "text": "En zovelen als er naar dezen regel zullen wandelen, over dezelve zal zijn vrede en barmhartigheid, en over het Israel Gods."
+        },
+        {
+          "number": 17,
+          "text": "Voorts, niemand doe mij moeite aan; want ik draag de littekenen van den Heere Jezus in mijn lichaam."
+        },
+        {
+          "number": 18,
+          "text": "De genade van onzen Heere Jezus Christus zij met uw geest, broeders! Amen."
+        }
+      ]
+    }
+  ]
+}

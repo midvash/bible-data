@@ -1,0 +1,2586 @@
+{
+  "version": "vulg",
+  "book": "Judg",
+  "bookId": 7,
+  "englishName": "Judges",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "post mortem Iosue consuluerunt filii Israhel Dominum dicentes quis ascendet ante nos contra Chananeum et erit dux belli"
+        },
+        {
+          "number": 2,
+          "text": "dixitque Dominus Iudas ascendet ecce tradidi terram in manus eius"
+        },
+        {
+          "number": 3,
+          "text": "et ait Iudas Symeoni fratri suo ascende mecum in sorte mea et pugna contra Chananeum ut et ego pergam tecum in sorte tua et abiit cum eo Symeon"
+        },
+        {
+          "number": 4,
+          "text": "ascenditque Iudas et tradidit Dominus Chananeum ac Ferezeum in manus eorum et percusserunt in Bezec decem milia virorum"
+        },
+        {
+          "number": 5,
+          "text": "inveneruntque Adonibezec in Bezec et pugnaverunt contra eum ac percusserunt Chananeum et Ferezeum"
+        },
+        {
+          "number": 6,
+          "text": "fugit autem Adonibezec quem secuti conprehenderunt caesis summitatibus manuum eius ac pedum"
+        },
+        {
+          "number": 7,
+          "text": "dixitque Adonibezec septuaginta reges amputatis manuum ac pedum summitatibus colligebant sub mensa mea ciborum reliquias sicut feci ita reddidit mihi Deus adduxeruntque eum in Hierusalem et ibi mortuus est"
+        },
+        {
+          "number": 8,
+          "text": "obpugnantes ergo filii Iuda Hierusalem ceperunt eam et percusserunt in ore gladii tradentes cunctam incendio civitatem"
+        },
+        {
+          "number": 9,
+          "text": "et postea descendentes pugnaverunt contra Chananeum qui habitabat in montanis et ad meridiem et in campestribus"
+        },
+        {
+          "number": 10,
+          "text": "pergensque Iudas contra Chananeum qui habitabat in Hebron cui nomen fuit antiquitus Cariatharbe percussit Sisai et Ahiman et Tholmai"
+        },
+        {
+          "number": 11,
+          "text": "atque inde profectus abiit ad habitatores Dabir cuius nomen vetus erat Cariathsepher id est civitas Litterarum"
+        },
+        {
+          "number": 12,
+          "text": "dixitque Chaleb qui percusserit Cariathsepher et vastaverit eam dabo ei Axam filiam meam uxorem"
+        },
+        {
+          "number": 13,
+          "text": "cumque cepisset eam Othonihel filius Cenez frater Chaleb minor dedit ei filiam suam coniugem"
+        },
+        {
+          "number": 14,
+          "text": "quam pergentem in itinere monuit vir suus ut peteret a patre suo agrum quae cum suspirasset sedens asino dixit ei Chaleb quid habes"
+        },
+        {
+          "number": 15,
+          "text": "at illa respondit da mihi benedictionem quia terram arentem dedisti mihi da et inriguam aquis dedit ergo ei Chaleb inriguum superius et inriguum inferius"
+        },
+        {
+          "number": 16,
+          "text": "filii autem Cinei cognati Mosi ascenderunt de civitate Palmarum cum filiis Iuda in desertum sortis eius quod est ad meridiem Arad et habitaverunt cum eo"
+        },
+        {
+          "number": 17,
+          "text": "abiit autem Iudas cum Symeone fratre suo et percusserunt simul Chananeum qui habitabat in Sephath et interfecerunt eum vocatumque est nomen urbis Horma id est anathema"
+        },
+        {
+          "number": 18,
+          "text": "cepitque Iudas Gazam cum finibus suis et Ascalonem atque Accaron cum terminis suis"
+        },
+        {
+          "number": 19,
+          "text": "fuitque Dominus cum Iuda et montana possedit nec potuit delere habitatores vallis quia falcatis curribus abundabant"
+        },
+        {
+          "number": 20,
+          "text": "dederuntque Chaleb Hebron sicut dixerat Moses qui delevit ex ea tres filios Enach"
+        },
+        {
+          "number": 21,
+          "text": "Iebuseum autem habitatorem Hierusalem non deleverunt filii Beniamin habitavitque Iebuseus cum filiis Beniamin in Hierusalem usque in praesentem diem"
+        },
+        {
+          "number": 22,
+          "text": "domus quoque Ioseph ascendit in Bethel fuitque Dominus cum eis"
+        },
+        {
+          "number": 23,
+          "text": "nam cum obsiderent urbem quae prius Luza vocabatur"
+        },
+        {
+          "number": 24,
+          "text": "viderunt hominem egredientem de civitate dixeruntque ad eum ostende nobis introitum civitatis et faciemus tecum misericordiam"
+        },
+        {
+          "number": 25,
+          "text": "qui cum ostendisset eis percusserunt urbem in ore gladii hominem autem illum et omnem cognationem eius dimiserunt"
+        },
+        {
+          "number": 26,
+          "text": "qui dimissus abiit in terram Etthim et aedificavit ibi civitatem vocavitque eam Luzam quae ita appellatur usque in praesentem diem"
+        },
+        {
+          "number": 27,
+          "text": "Manasses quoque non delevit Bethsan et Thanach cum viculis suis et habitatores Dor et Ieblaam et Mageddo cum viculis suis coepitque Chananeus habitare cum eis"
+        },
+        {
+          "number": 28,
+          "text": "postquam autem confortatus est Israhel fecit eos tributarios et delere noluit"
+        },
+        {
+          "number": 29,
+          "text": "Ephraim etiam non interfecit Chananeum qui habitabat in Gazer sed habitavit cum eo"
+        },
+        {
+          "number": 30,
+          "text": "Zabulon non delevit habitatores Cetron et Naalon sed habitavit Chananeus in medio eius factusque est ei tributarius"
+        },
+        {
+          "number": 31,
+          "text": "Aser quoque non delevit habitatores Achcho et Sidonis Alab et Achazib et Alba et Afec et Roob"
+        },
+        {
+          "number": 32,
+          "text": "habitavitque in medio Chananei habitatoris illius terrae nec interfecit eum"
+        },
+        {
+          "number": 33,
+          "text": "Nepthali non delevit habitatores Bethsemes et Bethanath et habitavit inter Chananeum habitatorem terrae fueruntque ei Bethsemitae et Bethanitae tributarii"
+        },
+        {
+          "number": 34,
+          "text": "artavitque Amorreus filios Dan in monte nec dedit eis locum ut ad planiora descenderent"
+        },
+        {
+          "number": 35,
+          "text": "habitavitque in monte Hares quod interpretatur testaceo in Ahilon et Salabim et adgravata est manus domus Ioseph factusque est ei tributarius"
+        },
+        {
+          "number": 36,
+          "text": "fuit autem terminus Amorrei ab ascensu Scorpionis Petra et superiora loca"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ascenditque angelus Domini de Galgal ad locum Flentium et ait eduxi vos de Aegypto et introduxi in terram pro qua iuravi patribus vestris et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum"
+        },
+        {
+          "number": 2,
+          "text": "ita dumtaxat ut non feriretis foedus cum habitatoribus terrae huius et aras eorum subverteretis et noluistis audire vocem meam cur hoc fecistis"
+        },
+        {
+          "number": 3,
+          "text": "quam ob rem nolui delere eos a facie vestra ut habeatis hostes et dii eorum sint vobis in ruinam"
+        },
+        {
+          "number": 4,
+          "text": "cumque loqueretur angelus Domini verba haec ad omnes filios Israhel elevaverunt vocem suam et fleverunt"
+        },
+        {
+          "number": 5,
+          "text": "et vocatum est nomen loci illius Flentium sive Lacrimarum immolaveruntque ibi hostias Domino"
+        },
+        {
+          "number": 6,
+          "text": "dimisit ergo Iosue populum et abierunt filii Israhel unusquisque in possessionem suam ut obtinerent eam"
+        },
+        {
+          "number": 7,
+          "text": "servieruntque Domino cunctis diebus eius et seniorum qui longo post eum vixerunt tempore et noverant omnia opera Domini quae fecerat cum Israhel"
+        },
+        {
+          "number": 8,
+          "text": "mortuus est autem Iosue filius Nun famulus Domini centum et decem annorum"
+        },
+        {
+          "number": 9,
+          "text": "et sepelierunt eum in finibus possessionis suae in Thamnathsare in monte Ephraim a septentrionali plaga montis Gaas"
+        },
+        {
+          "number": 10,
+          "text": "omnisque illa generatio congregata est ad patres suos et surrexerunt alii qui non noverant Dominum et opera quae fecerat cum Israhel"
+        },
+        {
+          "number": 11,
+          "text": "feceruntque filii Israhel malum in conspectu Domini et servierunt Baalim"
+        },
+        {
+          "number": 12,
+          "text": "ac dimiserunt Dominum Deum patrum suorum qui eduxerat eos de terra Aegypti et secuti sunt deos alienos deos quoque populorum qui habitabant in circuitu eorum et adoraverunt eos et ad iracundiam concitaverunt Dominum"
+        },
+        {
+          "number": 13,
+          "text": "dimittentes eum et servientes Baal et Astharoth"
+        },
+        {
+          "number": 14,
+          "text": "iratusque Dominus contra Israhel tradidit eos in manibus diripientium qui ceperunt eos et vendiderunt hostibus qui habitabant per gyrum nec potuerunt resistere adversariis suis"
+        },
+        {
+          "number": 15,
+          "text": "sed quocumque pergere voluissent manus Domini erat super eos sicut locutus est et iuravit eis et vehementer adflicti sunt"
+        },
+        {
+          "number": 16,
+          "text": "suscitavitque Dominus iudices qui liberarent eos de vastantium manibus sed nec illos audire voluerunt"
+        },
+        {
+          "number": 17,
+          "text": "fornicantes cum diis alienis et adorantes eos cito deseruerunt viam per quam ingressi fuerant patres eorum et audientes mandata Domini omnia fecere contraria"
+        },
+        {
+          "number": 18,
+          "text": "cumque Dominus iudices suscitaret in diebus eorum flectebatur misericordia et audiebat adflictorum gemitus et liberabat eos de caede vastantium"
+        },
+        {
+          "number": 19,
+          "text": "postquam autem mortuus esset iudex revertebantur et multo maiora faciebant quam fecerant patres sui sequentes deos alienos et servientes eis et adorantes illos non dimiserunt adinventiones suas et viam durissimam per quam ambulare consueverant"
+        },
+        {
+          "number": 20,
+          "text": "iratusque est furor Domini in Israhel et ait quia irritum fecit gens ista pactum meum quod pepigeram cum patribus eorum et vocem meam audire contempsit"
+        },
+        {
+          "number": 21,
+          "text": "et ego non delebo gentes quas dimisit Iosue et mortuus est"
+        },
+        {
+          "number": 22,
+          "text": "ut in ipsis experiar Israhel utrum custodiant viam Domini et ambulent in ea sicut custodierunt patres eorum an non"
+        },
+        {
+          "number": 23,
+          "text": "dimisit ergo Dominus omnes has nationes et cito subvertere noluit nec tradidit in manibus Iosue"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "hae sunt gentes quas Dominus dereliquit ut erudiret in eis Israhelem et omnes qui non noverant bella Chananeorum"
+        },
+        {
+          "number": 2,
+          "text": "et postea discerent filii eorum certare cum hostibus et habere consuetudinem proeliandi"
+        },
+        {
+          "number": 3,
+          "text": "quinque satrapas Philisthinorum omnemque Chananeum et Sidonium atque Eveum qui habitabat in monte Libano de monte Baalhermon usque ad introitum Emath"
+        },
+        {
+          "number": 4,
+          "text": "dimisitque eos ut in ipsis experiretur Israhelem utrum audiret mandata Domini quae praeceperat patribus eorum per manum Mosi an non"
+        },
+        {
+          "number": 5,
+          "text": "itaque filii Israhel habitaverunt in medio Chananei et Hetthei et Amorrei et Ferezei et Evei et Iebusei"
+        },
+        {
+          "number": 6,
+          "text": "et duxerunt uxores filias eorum ipsique filias suas eorum filiis tradiderunt et servierunt diis eorum"
+        },
+        {
+          "number": 7,
+          "text": "feceruntque malum in conspectu Domini et obliti sunt Dei sui servientes Baalim et Astharoth"
+        },
+        {
+          "number": 8,
+          "text": "iratusque Dominus contra Israhel tradidit eos in manus Chusanrasathaim regis Mesopotamiae servieruntque ei octo annis"
+        },
+        {
+          "number": 9,
+          "text": "et clamaverunt ad Dominum qui suscitavit eis salvatorem et liberavit eos Othonihel videlicet filium Cenez fratrem Chaleb minorem"
+        },
+        {
+          "number": 10,
+          "text": "fuitque in eo spiritus Domini et iudicavit Israhel egressusque est ad pugnam et tradidit Dominus in manu eius Chusanrasathaim regem Syriae et oppressit eum"
+        },
+        {
+          "number": 11,
+          "text": "quievitque terra quadraginta annis et mortuus est Othonihel filius Cenez"
+        },
+        {
+          "number": 12,
+          "text": "addiderunt autem filii Israhel facere malum in conspectu Domini qui confortavit adversum eos Eglon regem Moab quia fecerunt malum in conspectu eius"
+        },
+        {
+          "number": 13,
+          "text": "et copulavit ei filios Ammon et Amalech abiitque et percussit Israhel atque possedit urbem Palmarum"
+        },
+        {
+          "number": 14,
+          "text": "servieruntque filii Israhel Eglon regi Moab decem et octo annis"
+        },
+        {
+          "number": 15,
+          "text": "et postea clamaverunt ad Dominum qui suscitavit eis salvatorem vocabulo Ahoth filium Gera filii Iemini qui utraque manu utebatur pro dextera miseruntque filii Israhel per illum munera Eglon regi Moab"
+        },
+        {
+          "number": 16,
+          "text": "qui fecit sibi gladium ancipitem habentem in medio capulum longitudinis palmae manus et accinctus est eo subter sagum in dextro femore"
+        },
+        {
+          "number": 17,
+          "text": "obtulitque munera Eglon regi Moab erat autem Eglon crassus nimis"
+        },
+        {
+          "number": 18,
+          "text": "cumque obtulisset ei munera prosecutus est socios qui cum eo venerant"
+        },
+        {
+          "number": 19,
+          "text": "et reversus de Galgalis ubi erant idola dixit ad regem verbum secretum habeo ad te o rex et ille imperavit silentium egressisque omnibus qui circa eum erant"
+        },
+        {
+          "number": 20,
+          "text": "ingressus est Ahoth ad eum sedebat autem in aestivo cenaculo solus dixitque verbum Dei habeo ad te qui statim surrexit de throno"
+        },
+        {
+          "number": 21,
+          "text": "extenditque Ahoth manum sinistram et tulit sicam de dextro femore suo infixitque eam in ventre eius"
+        },
+        {
+          "number": 22,
+          "text": "tam valide ut capulus ferrum sequeretur in vulnere ac pinguissimo adipe stringeretur nec eduxit gladium sed ita ut percusserat reliquit in corpore statimque per secreta naturae alvi stercora proruperunt"
+        },
+        {
+          "number": 23,
+          "text": "Ahoth autem clausis diligentissime ostiis cenaculi et obfirmatis sera"
+        },
+        {
+          "number": 24,
+          "text": "per posticam egressus est servique regis ingressi viderunt clausas fores cenaculi atque dixerunt forsitan purgat alvum in aestivo cubiculo"
+        },
+        {
+          "number": 25,
+          "text": "expectantesque diu donec erubescerent et videntes quod nullus aperiret tulerunt clavem et aperientes invenerunt dominum suum iacentem in terra mortuum"
+        },
+        {
+          "number": 26,
+          "text": "Ahoth autem dum illi turbarentur effugit et pertransiit locum Idolorum unde reversus fuerat venitque in Seirath"
+        },
+        {
+          "number": 27,
+          "text": "et statim insonuit bucina in monte Ephraim descenderuntque cum eo filii Israhel ipso in fronte gradiente"
+        },
+        {
+          "number": 28,
+          "text": "qui dixit ad eos sequimini me tradidit enim Dominus inimicos nostros Moabitas in manus nostras descenderuntque post eum et occupaverunt vada Iordanis quae transmittunt in Moab et non dimiserunt transire quemquam"
+        },
+        {
+          "number": 29,
+          "text": "sed percusserunt Moabitas in tempore illo circiter decem milia omnes robustos et fortes viros nullus eorum evadere potuit"
+        },
+        {
+          "number": 30,
+          "text": "humiliatusque est Moab die illo sub manu Israhel et quievit terra octoginta annis"
+        },
+        {
+          "number": 31,
+          "text": "post hunc fuit Samgar filius Anath qui percussit de Philisthim sescentos viros vomere et ipse quoque defendit Israhel"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "addideruntque filii Israhel facere malum in conspectu Domini post mortem Ahoth"
+        },
+        {
+          "number": 2,
+          "text": "et tradidit illos Dominus in manu Iabin regis Chanaan qui regnavit in Asor habuitque ducem exercitus sui nomine Sisaram ipse autem habitabat in Aroseth gentium"
+        },
+        {
+          "number": 3,
+          "text": "clamaveruntque filii Israhel ad Dominum nongentos enim habebat falcatos currus et per viginti annos vehementer oppresserat eos"
+        },
+        {
+          "number": 4,
+          "text": "erat autem Debbora prophetis uxor Lapidoth quae iudicabat populum in illo tempore"
+        },
+        {
+          "number": 5,
+          "text": "et sedebat sub palma quae nomine illius vocabatur inter Rama et Bethel in monte Ephraim ascendebantque ad eam filii Israhel in omne iudicium"
+        },
+        {
+          "number": 6,
+          "text": "quae misit et vocavit Barac filium Abinoem de Cedes Nepthalim dixitque ad eum praecepit tibi Dominus Deus Israhel vade et duc exercitum in montem Thabor tollesque tecum decem milia pugnatorum de filiis Nepthalim et de filiis Zabulon"
+        },
+        {
+          "number": 7,
+          "text": "ego autem ducam ad te in loco torrentis Cison Sisaram principem exercitus Iabin et currus eius atque omnem multitudinem et tradam eos in manu tua"
+        },
+        {
+          "number": 8,
+          "text": "dixitque ad eam Barac si venis mecum vadam si nolueris venire non pergam"
+        },
+        {
+          "number": 9,
+          "text": "quae dixit ad eum ibo quidem tecum sed in hac vice tibi victoria non reputabitur quia in manu mulieris tradetur Sisara surrexit itaque Debbora et perrexit cum Barac in Cedes"
+        },
+        {
+          "number": 10,
+          "text": "qui accitis Zabulon et Nepthalim ascendit cum decem milibus pugnatorum habens Debboram in comitatu suo"
+        },
+        {
+          "number": 11,
+          "text": "Aber autem Cineus recesserat quondam a ceteris Cineis fratribus suis filiis Obab cognati Mosi et tetenderat tabernacula usque ad vallem quae vocatur Sennim et erat iuxta Cedes"
+        },
+        {
+          "number": 12,
+          "text": "nuntiatumque est Sisarae quod ascendisset Barac filius Abinoem in montem Thabor"
+        },
+        {
+          "number": 13,
+          "text": "et congregavit nongentos falcatos currus omnemque exercitum de Aroseth gentium ad torrentem Cison"
+        },
+        {
+          "number": 14,
+          "text": "dixitque Debbora ad Barac surge haec est enim dies in qua tradidit Dominus Sisaram in manus tuas en ipse ductor est tuus descendit itaque Barac de monte Thabor et decem milia pugnatorum cum eo"
+        },
+        {
+          "number": 15,
+          "text": "perterruitque Dominus Sisaram et omnes currus eius universamque multitudinem in ore gladii ad conspectum Barac in tantum ut Sisara de curru desiliens pedibus fugeret"
+        },
+        {
+          "number": 16,
+          "text": "et Barac persequeretur fugientes currus et exercitum usque ad Aroseth gentium et omnis hostium multitudo usque ad internicionem caderet"
+        },
+        {
+          "number": 17,
+          "text": "Sisara autem fugiens pervenit ad tentorium Iahel uxoris Aber Cinei erat enim pax inter Iabin regem Asor et domum Aber Cinei"
+        },
+        {
+          "number": 18,
+          "text": "egressa igitur Iahel in occursum Sisarae dixit ad eum intra ad me domine mi intra ne timeas qui ingressus tabernaculum eius et opertus ab ea pallio"
+        },
+        {
+          "number": 19,
+          "text": "dixit ad eam da mihi obsecro paululum aquae quia valde sitio quae aperuit utrem lactis et dedit ei bibere et operuit illum"
+        },
+        {
+          "number": 20,
+          "text": "dixitque Sisara ad eam sta ante ostium tabernaculi et cum venerit aliquis interrogans te et dicens numquid hic est aliquis respondebis nullus est"
+        },
+        {
+          "number": 21,
+          "text": "tulit itaque Iahel uxor Aber clavum tabernaculi adsumens pariter malleum et ingressa abscondite et cum silentio posuit supra tempus capitis eius clavum percussumque malleo defixit in cerebrum usque ad terram qui soporem morti socians defecit et mortuus est"
+        },
+        {
+          "number": 22,
+          "text": "et ecce Barac sequens Sisaram veniebat egressaque Iahel in occursum eius dixit ei veni et ostendam tibi virum quem quaeris qui cum intrasset ad eam vidit Sisaram iacentem mortuum et clavum infixum in tempore eius"
+        },
+        {
+          "number": 23,
+          "text": "humiliavit ergo Deus in die illo Iabin regem Chanaan coram filiis Israhel"
+        },
+        {
+          "number": 24,
+          "text": "qui crescebant cotidie et forti manu opprimebant Iabin regem Chanaan donec delerent eum"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "cecineruntque Debbora et Barac filius Abinoem in die illo dicentes"
+        },
+        {
+          "number": 2,
+          "text": "qui sponte obtulistis de Israhel animas vestras ad periculum benedicite Domino"
+        },
+        {
+          "number": 3,
+          "text": "audite reges percipite auribus principes ego sum ego sum quae Domino canam psallam Domino Deo Israhel"
+        },
+        {
+          "number": 4,
+          "text": "Domine cum exires de Seir et transires per regiones Edom terra mota est caelique ac nubes stillaverunt aquis"
+        },
+        {
+          "number": 5,
+          "text": "montes fluxerunt a facie Domini et Sinai a facie Domini Dei Israhel"
+        },
+        {
+          "number": 6,
+          "text": "in diebus Samgar filii Anath in diebus Iahel quieverunt semitae et qui ingrediebantur per eas ambulaverunt per calles devios"
+        },
+        {
+          "number": 7,
+          "text": "cessaverunt fortes in Israhel et quieverunt donec surgeret Debbora surgeret mater in Israhel"
+        },
+        {
+          "number": 8,
+          "text": "nova bella elegit Dominus et portas hostium ipse subvertit clypeus et hasta si apparuerint in quadraginta milibus Israhel"
+        },
+        {
+          "number": 9,
+          "text": "cor meum diligit principes Israhel qui propria voluntate obtulistis vos discrimini benedicite Domino"
+        },
+        {
+          "number": 10,
+          "text": "qui ascenditis super nitentes asinos et sedetis in iudicio et ambulatis in via loquimini"
+        },
+        {
+          "number": 11,
+          "text": "ubi conlisi sunt currus et hostium est suffocatus exercitus ibi narrentur iustitiae Domini et clementia in fortes Israhel tunc descendit populus Domini ad portas et obtinuit principatum"
+        },
+        {
+          "number": 12,
+          "text": "surge surge Debbora surge surge et loquere canticum surge Barac et adprehende captivos tuos fili Abinoem"
+        },
+        {
+          "number": 13,
+          "text": "salvatae sunt reliquiae populi Dominus in fortibus dimicavit"
+        },
+        {
+          "number": 14,
+          "text": "ex Ephraim delevit eos in Amalech et post eum ex Beniamin in populos tuos o Amalech de Machir principes descenderunt et de Zabulon qui exercitum ducerent ad bellandum"
+        },
+        {
+          "number": 15,
+          "text": "duces Isachar fuere cum Debbora et Barac vestigia sunt secuti qui quasi in praeceps ac baratrum se discrimini dedit diviso contra se Ruben magnanimorum repperta contentio est"
+        },
+        {
+          "number": 16,
+          "text": "quare habitas inter duos terminos ut audias sibilos gregum diviso contra se Ruben magnanimorum repperta contentio est"
+        },
+        {
+          "number": 17,
+          "text": "Galaad trans Iordanem quiescebat et Dan vacabat navibus Aser habitabat in litore maris et in portibus morabatur"
+        },
+        {
+          "number": 18,
+          "text": "Zabulon vero et Nepthalim obtulerunt animas suas morti in regione Merome"
+        },
+        {
+          "number": 19,
+          "text": "venerunt reges et pugnaverunt pugnaverunt reges Chanaan in Thanach iuxta aquas Mageddo et tamen nihil tulere praedantes"
+        },
+        {
+          "number": 20,
+          "text": "de caelo dimicatum est contra eos stellae manentes in ordine et cursu suo adversum Sisaram pugnaverunt"
+        },
+        {
+          "number": 21,
+          "text": "torrens Cison traxit cadavera eorum torrens Cadumim torrens Cison conculca anima mea robustos"
+        },
+        {
+          "number": 22,
+          "text": "ungulae equorum ceciderunt fugientibus impetu et per praeceps ruentibus fortissimis hostium"
+        },
+        {
+          "number": 23,
+          "text": "maledicite terrae Meroz dixit angelus Domini maledicite habitatoribus eius quia non venerunt ad auxilium Domini in adiutorium fortissimorum eius"
+        },
+        {
+          "number": 24,
+          "text": "benedicta inter mulieres Iahel uxor Aber Cinei benedicatur in tabernaculo suo"
+        },
+        {
+          "number": 25,
+          "text": "aquam petenti lac dedit et in fiala principum obtulit butyrum"
+        },
+        {
+          "number": 26,
+          "text": "sinistram manum misit ad clavum et dexteram ad fabrorum malleos percussitque Sisaram quaerens in capite vulneri locum et tempus valide perforans"
+        },
+        {
+          "number": 27,
+          "text": "inter pedes eius ruit defecit et mortuus est ante pedes illius volvebatur et iacebat exanimis et miserabilis"
+        },
+        {
+          "number": 28,
+          "text": "per fenestram prospiciens ululabat mater eius et de cenaculo loquebatur cur moratur regredi currus eius quare tardaverunt pedes quadrigarum illius"
+        },
+        {
+          "number": 29,
+          "text": "una sapientior ceteris uxoribus eius haec socrui verba respondit"
+        },
+        {
+          "number": 30,
+          "text": "forsitan nunc dividit spolia et pulcherrima feminarum eligitur ei vestes diversorum colorum Sisarae traduntur in praedam et supellex varia ad ornanda colla congeritur"
+        },
+        {
+          "number": 31,
+          "text": "sic pereant omnes inimici tui Domine qui autem diligunt te sicut sol in ortu suo splendet ita rutilent"
+        },
+        {
+          "number": 32,
+          "text": "quievitque terra per quadraginta annos"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "fecerunt autem filii Israhel malum in conspectu Domini qui tradidit eos in manu Madian septem annis"
+        },
+        {
+          "number": 2,
+          "text": "et oppressi sunt valde ab eis feceruntque sibi antra et speluncas in montibus et munitissima ad repugnandum loca"
+        },
+        {
+          "number": 3,
+          "text": "cumque sevisset Israhel ascendebat Madian et Amalech et ceteri orientalium nationum"
+        },
+        {
+          "number": 4,
+          "text": "et apud eos figentes tentoria sicut erant in herbis cuncta vastabant usque ad introitum Gazae nihilque omnino ad vitam pertinens relinquebant in Israhel non oves non boves non asinos"
+        },
+        {
+          "number": 5,
+          "text": "ipsi enim et universi greges eorum veniebant cum tabernaculis et instar lucustarum universa conplebant innumera multitudo hominum et camelorum quicquid tetigerant devastantes"
+        },
+        {
+          "number": 6,
+          "text": "humiliatusque est Israhel valde in conspectu Madian"
+        },
+        {
+          "number": 7,
+          "text": "et clamavit ad Dominum postulans auxilium contra Madianitas"
+        },
+        {
+          "number": 8,
+          "text": "qui misit ad eos virum prophetam et locutus est haec dicit Dominus Deus Israhel ego vos feci conscendere de Aegypto et eduxi de domo servitutis"
+        },
+        {
+          "number": 9,
+          "text": "et liberavi de manu Aegyptiorum et omnium inimicorum qui adfligebant vos eiecique eos ad introitum vestrum et tradidi vobis terram eorum"
+        },
+        {
+          "number": 10,
+          "text": "et dixi ego Dominus Deus vester ne timeatis deos Amorreorum in quorum terra habitatis et noluistis audire vocem meam"
+        },
+        {
+          "number": 11,
+          "text": "venit autem angelus Domini et sedit sub quercu quae erat in Ephra et pertinebat ad Ioas patrem familiae Ezri cumque Gedeon filius eius excuteret atque purgaret frumenta in torculari ut fugeret Madian"
+        },
+        {
+          "number": 12,
+          "text": "apparuit ei et ait Dominus tecum virorum fortissime"
+        },
+        {
+          "number": 13,
+          "text": "dixitque ei Gedeon obsecro Domine si Dominus nobiscum est cur adprehenderunt nos haec omnia ubi sunt mirabilia eius quae narraverunt patres nostri atque dixerunt de Aegypto eduxit nos Dominus nunc autem dereliquit nos et tradidit in manibus Madian"
+        },
+        {
+          "number": 14,
+          "text": "respexitque ad eum Dominus et ait vade in hac fortitudine tua et liberabis Israhel de manu Madian scito quod miserim te"
+        },
+        {
+          "number": 15,
+          "text": "qui respondens ait obsecro Domine mi in quo liberabo Israhel ecce familia mea infima est in Manasse et ego minimus in domo patris mei"
+        },
+        {
+          "number": 16,
+          "text": "dixitque ei Dominus ego ero tecum et percuties Madian quasi unum virum"
+        },
+        {
+          "number": 17,
+          "text": "et ille si inveni inquit gratiam coram te da mihi signum quod tu sis qui loquaris ad me"
+        },
+        {
+          "number": 18,
+          "text": "ne recedas hinc donec revertar ad te portans sacrificium et offerens tibi qui respondit ego praestolabor adventum tuum"
+        },
+        {
+          "number": 19,
+          "text": "ingressus est itaque Gedeon et coxit hedum et de farinae modio azymos panes carnesque ponens in canistro et ius carnium mittens in ollam tulit omnia sub quercum et obtulit ei"
+        },
+        {
+          "number": 20,
+          "text": "cui dixit angelus Domini tolle carnes et panes azymos et pone super petram illam et ius desuper funde cumque fecisset ita"
+        },
+        {
+          "number": 21,
+          "text": "extendit angelus Domini summitatem virgae quam tenebat in manu et tetigit carnes et azymos panes ascenditque ignis de petra et carnes azymosque consumpsit angelus autem Domini evanuit ex oculis eius"
+        },
+        {
+          "number": 22,
+          "text": "vidensque Gedeon quod esset angelus Domini ait heu mihi Domine Deus quia vidi angelum Domini facie ad faciem"
+        },
+        {
+          "number": 23,
+          "text": "dixitque ei Dominus pax tecum ne timeas non morieris"
+        },
+        {
+          "number": 24,
+          "text": "aedificavit ergo ibi Gedeon altare Domino vocavitque illud Domini pax usque in praesentem diem cum adhuc esset in Ephra quae est familiae Ezri"
+        },
+        {
+          "number": 25,
+          "text": "nocte illa dixit Dominus ad eum tolle taurum patris tui et alterum taurum annorum septem destruesque aram Baal quae est patris tui et nemus quod circa aram est succide"
+        },
+        {
+          "number": 26,
+          "text": "et aedificabis altare Domino Deo tuo in summitate petrae huius super quam sacrificium ante posuisti tollesque taurum secundum et offeres holocaustum super lignorum struem quae de nemore succideris"
+        },
+        {
+          "number": 27,
+          "text": "adsumptis igitur Gedeon decem viris de servis suis fecit sicut praeceperat Dominus timens autem domum patris sui et homines illius civitatis per diem facere noluit sed omnia nocte conplevit"
+        },
+        {
+          "number": 28,
+          "text": "cumque surrexissent viri oppidi eius mane viderunt destructam aram Baal lucumque succisum et taurum alterum inpositum super altare quod tunc aedificatum erat"
+        },
+        {
+          "number": 29,
+          "text": "dixeruntque ad invicem quis hoc fecit cumque perquirerent auctorem facti dictum est Gedeon filius Ioas fecit haec omnia"
+        },
+        {
+          "number": 30,
+          "text": "et dixerunt ad Ioas produc filium tuum ut moriatur quia destruxit aram Baal et succidit nemus"
+        },
+        {
+          "number": 31,
+          "text": "quibus ille respondit numquid ultores estis Baal et pugnatis pro eo qui adversarius eius est moriatur antequam lux crastina veniat si deus est vindicet se de eo qui suffodit aram eius"
+        },
+        {
+          "number": 32,
+          "text": "ex illo die vocatus est Gedeon Hierobbaal eo quod dixisset Ioas ulciscatur se de eo Baal qui suffodit altare eius"
+        },
+        {
+          "number": 33,
+          "text": "igitur omnis Madian et Amalech et orientales populi congregati sunt simul et transeuntes Iordanem castrametati sunt in valle Iezrahel"
+        },
+        {
+          "number": 34,
+          "text": "spiritus autem Domini induit Gedeon qui clangens bucina convocavit domum Abiezer ut sequeretur"
+        },
+        {
+          "number": 35,
+          "text": "misitque nuntios in universum Manassen qui et ipse secutus est eum et alios nuntios in Aser et Zabulon et Nepthalim qui occurrerunt ei"
+        },
+        {
+          "number": 36,
+          "text": "dixitque Gedeon ad Dominum si salvum facis per manum meam Israhel sicut locutus es"
+        },
+        {
+          "number": 37,
+          "text": "ponam vellus hoc lanae in area si ros in solo vellere fuerit et in omni terra siccitas sciam quod per manum meam sicut locutus es liberabis Israhel"
+        },
+        {
+          "number": 38,
+          "text": "factumque est ita et de nocte consurgens expresso vellere concam rore conplevit"
+        },
+        {
+          "number": 39,
+          "text": "dixitque rursus ad Dominum ne irascatur furor tuus contra me si adhuc semel temptavero signum quaerens in vellere oro ut solum vellus siccum sit et omnis terra rore madens"
+        },
+        {
+          "number": 40,
+          "text": "fecitque Dominus nocte illa ut postulaverat et fuit siccitas in solo vellere et ros in omni terra"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "igitur Hierobbaal qui est et Gedeon de nocte consurgens et omnis populus cum eo venit ad fontem qui vocatur Arad erant autem castra Madian in valle ad septentrionalem plagam collis Excelsi"
+        },
+        {
+          "number": 2,
+          "text": "dixitque Dominus ad Gedeon multus tecum est populus nec tradetur Madian in manus eius ne glorietur contra me Israhel et dicat meis viribus liberatus sum"
+        },
+        {
+          "number": 3,
+          "text": "loquere ad populum et cunctis audientibus praedica qui formidolosus et timidus est revertatur recesseruntque de monte Galaad et reversa sunt ex populo viginti duo milia virorum et tantum decem milia remanserunt"
+        },
+        {
+          "number": 4,
+          "text": "dixitque Dominus ad Gedeon adhuc populus multus est duc eos ad aquas et ibi probabo illos et de quo dixero tibi ut tecum vadat ipse pergat quem ire prohibuero revertatur"
+        },
+        {
+          "number": 5,
+          "text": "cumque descendisset populus ad aquas dixit Dominus ad Gedeon qui lingua lambuerint aquas sicut solent canes lambere separabis eos seorsum qui autem curvatis genibus biberint in altera parte erunt"
+        },
+        {
+          "number": 6,
+          "text": "fuit itaque numerus eorum qui manu ad os proiciente aquas lambuerant trecenti viri omnis autem reliqua multitudo flexo poplite biberat"
+        },
+        {
+          "number": 7,
+          "text": "et ait Dominus ad Gedeon in trecentis viris qui lambuerunt aquas liberabo vos et tradam Madian in manu tua omnis autem reliqua multitudo revertatur in locum suum"
+        },
+        {
+          "number": 8,
+          "text": "sumptis itaque pro numero cibariis et tubis omnem reliquam multitudinem abire praecepit ad tabernacula sua et ipse cum trecentis viris se certamini dedit castra autem Madian erant subter in valle"
+        },
+        {
+          "number": 9,
+          "text": "eadem nocte dixit Dominus ad eum surge et descende in castra quia tradidi eos in manu tua"
+        },
+        {
+          "number": 10,
+          "text": "sin autem solus ire formidas descendat tecum Phara puer tuus"
+        },
+        {
+          "number": 11,
+          "text": "et cum audieris quid loquantur tunc confortabuntur manus tuae et securior ad hostium castra descendes descendit ergo ipse et Phara puer eius in partem castrorum ubi erant armatorum vigiliae"
+        },
+        {
+          "number": 12,
+          "text": "Madian autem et Amalech et omnes orientales populi fusi iacebant in valle ut lucustarum multitudo cameli quoque innumerabiles erant sicut harena quae iacet in litoribus maris"
+        },
+        {
+          "number": 13,
+          "text": "cumque venisset Gedeon narrabat aliquis somnium proximo suo et in hunc modum referebat quod viderat vidi somnium et videbatur mihi quasi subcinericius panis ex hordeo volvi et in Madian castra descendere cumque pervenisset ad tabernaculum percussit illud atque subvertit et terrae funditus coaequavit"
+        },
+        {
+          "number": 14,
+          "text": "respondit is cui loquebatur non est hoc aliud nisi gladius Gedeonis filii Ioas viri Israhelitae tradidit Deus in manu eius Madian et omnia castra eius"
+        },
+        {
+          "number": 15,
+          "text": "cumque audisset Gedeon somnium et interpretationem eius adoravit et reversus ad castra Israhel ait surgite tradidit enim Dominus in manus nostras castra Madian"
+        },
+        {
+          "number": 16,
+          "text": "divisitque trecentos viros in tres partes et dedit tubas in manibus eorum lagoenasque vacuas ac lampadas in medio lagoenarum"
+        },
+        {
+          "number": 17,
+          "text": "et dixit ad eos quod me facere videritis hoc facite ingrediar partem castrorum et quod fecero sectamini"
+        },
+        {
+          "number": 18,
+          "text": "quando personaverit tuba in manu mea vos quoque per castrorum circuitum clangite et conclamate Domino et Gedeoni"
+        },
+        {
+          "number": 19,
+          "text": "ingressusque est Gedeon et trecenti viri qui erant cum eo in parte castrorum incipientibus vigiliis noctis mediae et custodibus suscitatis coeperunt bucinis clangere et conplodere inter se lagoenas"
+        },
+        {
+          "number": 20,
+          "text": "cumque per gyrum castrorum in tribus personarent locis et hydrias confregissent tenuerunt sinistris manibus lampadas et dextris sonantes tubas clamaveruntque gladius Domini et Gedeonis"
+        },
+        {
+          "number": 21,
+          "text": "stantes singuli in loco suo per circuitum castrorum hostilium omnia itaque castra turbata sunt et vociferantes ululantesque fugerunt"
+        },
+        {
+          "number": 22,
+          "text": "et nihilominus insistebant trecenti viri bucinis personantes inmisitque Dominus gladium in omnibus castris et mutua se caede truncabant"
+        },
+        {
+          "number": 23,
+          "text": "fugientes usque Bethseta et crepidinem Abelmeula in Tebbath conclamantes autem viri Israhel de Nepthali et Aser et omni Manasse persequebantur Madian"
+        },
+        {
+          "number": 24,
+          "text": "misitque Gedeon nuntios in omnem montem Ephraim dicens descendite in occursum Madian et occupate aquas usque Bethbera atque Iordanem clamavitque omnis Ephraim et praeoccupavit aquas atque Iordanem usque Bethbera"
+        },
+        {
+          "number": 25,
+          "text": "adprehensosque duos viros Madian Oreb et Zeb interfecit Oreb in petra Oreb Zeb vero in torculari Zeb et persecuti sunt Madian capita Oreb et Zeb portantes ad Gedeon trans fluenta Iordanis"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "dixeruntque ad eum viri Ephraim quid est hoc quod facere voluisti ut non nos vocares cum ad pugnam pergeres contra Madian iurgantes fortiter et prope vim inferentes"
+        },
+        {
+          "number": 2,
+          "text": "quibus ille respondit quid enim tale facere potui quale vos fecistis nonne melior est racemus Ephraim vindemiis Abiezer"
+        },
+        {
+          "number": 3,
+          "text": "in manus vestras tradidit Dominus principes Madian Oreb et Zeb quid tale facere potui quale vos fecistis quod cum locutus esset requievit spiritus eorum quo tumebant contra eum"
+        },
+        {
+          "number": 4,
+          "text": "cumque venisset Gedeon ad Iordanem transivit eum cum trecentis viris qui secum erant et prae lassitudine fugientes persequi non poterant"
+        },
+        {
+          "number": 5,
+          "text": "dixitque ad viros Soccoth date obsecro panes populo qui mecum est quia valde defecerunt ut possimus persequi Zebee et Salmana reges Madian"
+        },
+        {
+          "number": 6,
+          "text": "responderunt principes Soccoth forsitan palmae manuum Zebee et Salmana in manu tua sunt et idcirco postulas ut demus exercitui tuo panes"
+        },
+        {
+          "number": 7,
+          "text": "quibus ille ait cum ergo tradiderit Dominus Zebee et Salmana in manus meas conteram carnes vestras cum spinis tribulisque deserti"
+        },
+        {
+          "number": 8,
+          "text": "et inde conscendens venit in Phanuhel locutusque est ad viros eius loci similia cui et illi responderunt sicut responderant viri Soccoth"
+        },
+        {
+          "number": 9,
+          "text": "dixit itaque et eis cum reversus fuero victor in pace destruam turrem hanc"
+        },
+        {
+          "number": 10,
+          "text": "Zebee autem et Salmana requiescebant cum omni exercitu suo quindecim milia enim viri remanserant ex omnibus turmis orientalium populorum caesis centum viginti milibus bellatorum et educentium gladium"
+        },
+        {
+          "number": 11,
+          "text": "ascendensque Gedeon per viam eorum qui in tabernaculis morabantur ad orientalem partem Nobee et Iecbaa percussit castra hostium qui securi erant et nihil adversi suspicabantur"
+        },
+        {
+          "number": 12,
+          "text": "fugeruntque Zebee et Salmana quos persequens Gedeon conprehendit turbato omni exercitu eorum"
+        },
+        {
+          "number": 13,
+          "text": "revertensque de bello ante solis ortum"
+        },
+        {
+          "number": 14,
+          "text": "adprehendit puerum de viris Soccoth interrogavitque eum nomina principum et seniorum Soccoth et descripsit septuaginta septem viros"
+        },
+        {
+          "number": 15,
+          "text": "venitque ad Soccoth et dixit eis en Zebee et Salmana super quibus exprobrastis mihi dicentes forsitan manus Zebee et Salmana in manibus tuis sunt et idcirco postulas ut demus viris qui lassi sunt et defecerunt panes"
+        },
+        {
+          "number": 16,
+          "text": "tulit ergo seniores civitatis et spinas deserti ac tribulos et contrivit cum eis atque comminuit viros Soccoth"
+        },
+        {
+          "number": 17,
+          "text": "turrem quoque Phanuhel subvertit occisis habitatoribus civitatis"
+        },
+        {
+          "number": 18,
+          "text": "dixitque ad Zebee et Salmana quales fuerunt viri quos occidistis in Thabor qui responderunt similes tui et unus ex eis quasi filius regis"
+        },
+        {
+          "number": 19,
+          "text": "quibus ille ait fratres mei fuerunt filii matris meae vivit Dominus si servassetis eos non vos occiderem"
+        },
+        {
+          "number": 20,
+          "text": "dixitque Ietther primogenito suo surge et interfice eos qui non eduxit gladium timebat enim quia adhuc puer erat"
+        },
+        {
+          "number": 21,
+          "text": "dixeruntque Zebee et Salmana tu surge et inrue in nos quia iuxta aetatem robur est hominis surrexit Gedeon et interfecit Zebee et Salmana et tulit ornamenta ac bullas quibus colla regalium camelorum decorari solent"
+        },
+        {
+          "number": 22,
+          "text": "dixeruntque omnes viri Israhel ad Gedeon dominare nostri tu et filius tuus et filius filii tui quia liberasti nos de manu Madian"
+        },
+        {
+          "number": 23,
+          "text": "quibus ille ait non dominabor vestri nec dominabitur in vos filius meus sed dominabitur Dominus"
+        },
+        {
+          "number": 24,
+          "text": "dixitque ad eos unam petitionem postulo a vobis date mihi inaures ex praeda vestra inaures enim aureas Ismahelitae habere consuerant"
+        },
+        {
+          "number": 25,
+          "text": "qui responderunt libentissime dabimus expandentesque super terram pallium proiecerunt in eo inaures de praeda"
+        },
+        {
+          "number": 26,
+          "text": "et fuit pondus postulatarum inaurium mille septingenti auri sicli absque ornamentis et monilibus et veste purpurea quibus Madian reges uti soliti erant et praeter torques aureos camelorum"
+        },
+        {
+          "number": 27,
+          "text": "fecitque ex eo Gedeon ephod et posuit illud in civitate sua Ephra fornicatusque est omnis Israhel in eo et factum est Gedeoni et omni domui eius in ruinam"
+        },
+        {
+          "number": 28,
+          "text": "humiliatus est autem Madian coram filiis Israhel nec potuerunt ultra elevare cervices sed quievit terra per quadraginta annos quibus praefuit Gedeon"
+        },
+        {
+          "number": 29,
+          "text": "abiit itaque Hierobbaal filius Ioas et habitavit in domo sua"
+        },
+        {
+          "number": 30,
+          "text": "habuitque septuaginta filios qui egressi sunt de femore eius eo quod plures haberet uxores"
+        },
+        {
+          "number": 31,
+          "text": "concubina autem illius quam habebat in Sychem genuit ei filium nomine Abimelech"
+        },
+        {
+          "number": 32,
+          "text": "mortuusque est Gedeon filius Ioas in senectute bona et sepultus in sepulchro Ioas patris sui in Ephra de familia Ezri"
+        },
+        {
+          "number": 33,
+          "text": "postquam autem mortuus est Gedeon aversi sunt filii Israhel et fornicati cum Baalim percusseruntque cum Baal foedus ut esset eis in deum"
+        },
+        {
+          "number": 34,
+          "text": "nec recordati sunt Domini Dei sui qui eruit eos de manu omnium inimicorum suorum per circuitum"
+        },
+        {
+          "number": 35,
+          "text": "nec fecerunt misericordiam cum domo Hierobbaal Gedeon iuxta omnia bona quae fecerat Israheli"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "abiit autem Abimelech filius Hierobbaal in Sychem ad fratres matris suae et locutus est ad eos et ad omnem cognationem domus patris matris suae dicens"
+        },
+        {
+          "number": 2,
+          "text": "loquimini ad omnes viros Sychem quid vobis est melius ut dominentur vestri septuaginta viri omnes filii Hierobbaal an ut dominetur vobis unus vir simulque considerate quia os vestrum et caro vestra sum"
+        },
+        {
+          "number": 3,
+          "text": "locutique sunt fratres matris eius de eo ad omnes viros Sychem universos sermones istos et inclinaverunt cor eorum post Abimelech dicentes frater noster est"
+        },
+        {
+          "number": 4,
+          "text": "dederuntque illi septuaginta pondo argenti de fano Baalbrith qui conduxit sibi ex eo viros inopes et vagos secutique sunt eum"
+        },
+        {
+          "number": 5,
+          "text": "et venit in domum patris sui Ephra et occidit fratres suos filios Hierobbaal septuaginta viros super lapidem unum remansitque Ioatham filius Hierobbaal minimus et absconditus est"
+        },
+        {
+          "number": 6,
+          "text": "congregati sunt autem omnes viri Sychem et universae familiae urbis Mello abieruntque et constituerunt regem Abimelech iuxta quercum quae stabat in Sychem"
+        },
+        {
+          "number": 7,
+          "text": "quod cum nuntiatum esset Ioatham ivit et stetit in vertice montis Garizim elevataque voce clamavit et dixit audite me viri Sychem ita audiat vos Deus"
+        },
+        {
+          "number": 8,
+          "text": "ierunt ligna ut unguerent super se regem dixeruntque olivae impera nobis"
+        },
+        {
+          "number": 9,
+          "text": "quae respondit numquid possum deserere pinguedinem meam qua et dii utuntur et homines et venire ut inter ligna promovear"
+        },
+        {
+          "number": 10,
+          "text": "dixeruntque ligna ad arborem ficum veni et super nos regnum accipe"
+        },
+        {
+          "number": 11,
+          "text": "quae respondit eis numquid possum deserere dulcedinem meam fructusque suavissimos et ire ut inter cetera ligna commovear"
+        },
+        {
+          "number": 12,
+          "text": "locuta sunt quoque ligna ad vitem veni et impera nobis"
+        },
+        {
+          "number": 13,
+          "text": "quae respondit numquid possum deserere vinum meum quod laetificat Deum et homines et inter ligna cetera commoveri"
+        },
+        {
+          "number": 14,
+          "text": "dixeruntque omnia ligna ad ramnum veni et impera super nos"
+        },
+        {
+          "number": 15,
+          "text": "quae respondit eis si vere me regem vobis constituitis venite et sub mea umbra requiescite sin autem non vultis egrediatur ignis de ramno et devoret cedros Libani"
+        },
+        {
+          "number": 16,
+          "text": "nunc igitur si recte et absque peccato constituistis super vos regem Abimelech et bene egistis cum Hierobbaal et cum domo eius et reddidistis vicem beneficiis eius qui pugnavit pro vobis"
+        },
+        {
+          "number": 17,
+          "text": "et animam suam dedit periculis ut erueret vos de manu Madian"
+        },
+        {
+          "number": 18,
+          "text": "qui nunc surrexistis contra domum patris mei et interfecistis filios eius septuaginta viros super unum lapidem et constituistis regem Abimelech filium ancillae eius super habitatores Sychem eo quod frater vester sit"
+        },
+        {
+          "number": 19,
+          "text": "si ergo recte et absque vitio egistis cum Hierobbaal et domo eius hodie laetamini in Abimelech et ille laetetur in vobis"
+        },
+        {
+          "number": 20,
+          "text": "sin autem perverse egrediatur ignis ex eo et consumat habitatores Sychem et oppidum Mello egrediaturque ignis de viris Sychem et de oppido Mello et devoret Abimelech"
+        },
+        {
+          "number": 21,
+          "text": "quae cum dixisset fugit et abiit in Bera habitavitque ibi metu Abimelech fratris sui"
+        },
+        {
+          "number": 22,
+          "text": "regnavit itaque Abimelech super Israhel tribus annis"
+        },
+        {
+          "number": 23,
+          "text": "misitque Deus spiritum pessimum inter Abimelech et habitatores Sychem qui coeperunt eum detestari"
+        },
+        {
+          "number": 24,
+          "text": "et scelus interfectionis septuaginta filiorum Hierobbaal et effusionem sanguinis eorum conferre in Abimelech fratrem suum et in ceteros Sycimarum principes qui eum adiuverant"
+        },
+        {
+          "number": 25,
+          "text": "posueruntque insidias adversum eum in montium summitate et dum illius praestolantur adventum exercebant latrocinia agentes praedas de praetereuntibus nuntiatumque est Abimelech"
+        },
+        {
+          "number": 26,
+          "text": "venit autem Gaal filius Obed cum fratribus suis et transivit in Sycimam ad cuius adventum erecti habitatores Sychem"
+        },
+        {
+          "number": 27,
+          "text": "egressi sunt in agros vastantes vineas uvasque calcantes et factis cantantium choris ingressi sunt fanum dei sui et inter epulas et pocula maledicebant Abimelech"
+        },
+        {
+          "number": 28,
+          "text": "clamante Gaal filio Obed quis est Abimelech et quae est Sychem ut serviamus ei numquid non est filius Hierobbaal et constituit principem Zebul servum suum super viros Emmor patris Sychem cur igitur servimus ei"
+        },
+        {
+          "number": 29,
+          "text": "utinam daret aliquis populum istum sub manu mea ut auferrem de medio Abimelech dictumque est Abimelech congrega exercitus multitudinem et veni"
+        },
+        {
+          "number": 30,
+          "text": "Zebul enim princeps civitatis auditis sermonibus Gaal filii Obed iratus est valde"
+        },
+        {
+          "number": 31,
+          "text": "et misit clam ad Abimelech nuntios dicens ecce Gaal filius Obed venit in Sycimam cum fratribus suis et obpugnat adversum te civitatem"
+        },
+        {
+          "number": 32,
+          "text": "surge itaque nocte cum populo qui tecum est et latita in agro"
+        },
+        {
+          "number": 33,
+          "text": "et primo mane oriente sole inrue super civitatem illo autem egrediente adversum te cum populo suo fac ei quod potueris"
+        },
+        {
+          "number": 34,
+          "text": "surrexit itaque Abimelech cum omni exercitu suo nocte et tetendit insidias iuxta Sycimam in quattuor locis"
+        },
+        {
+          "number": 35,
+          "text": "egressusque est Gaal filius Obed et stetit in introitu portae civitatis surrexit autem Abimelech et omnis exercitus cum eo de insidiarum loco"
+        },
+        {
+          "number": 36,
+          "text": "cumque vidisset populum Gaal dixit ad Zebul ecce de montibus multitudo descendit cui ille respondit umbras montium vides quasi hominum capita et hoc errore deciperis"
+        },
+        {
+          "number": 37,
+          "text": "rursumque Gaal ait ecce populus de umbilico terrae descendit et unus cuneus venit per viam quae respicit quercum"
+        },
+        {
+          "number": 38,
+          "text": "cui dixit Zebul ubi est nunc os tuum quo loquebaris quis est Abimelech ut serviamus ei nonne iste est populus quem despiciebas egredere et pugna contra eum"
+        },
+        {
+          "number": 39,
+          "text": "abiit ergo Gaal spectante Sycimarum populo et pugnavit contra Abimelech"
+        },
+        {
+          "number": 40,
+          "text": "qui persecutus est eum fugientem et in urbem conpulit cecideruntque ex parte eius plurimi usque ad portam civitatis"
+        },
+        {
+          "number": 41,
+          "text": "et Abimelech sedit in Ruma Zebul autem Gaal et socios eius expulit de urbe nec in ea passus est commorari"
+        },
+        {
+          "number": 42,
+          "text": "sequenti ergo die egressus est populus in campum quod cum nuntiatum esset Abimelech"
+        },
+        {
+          "number": 43,
+          "text": "tulit exercitum suum et divisit in tres turmas tendens insidias in agris vidensque quod egrederetur populus de civitate surrexit et inruit in eos"
+        },
+        {
+          "number": 44,
+          "text": "cum cuneo suo obpugnans et obsidens civitatem duae autem turmae palantes per campum adversarios sequebantur"
+        },
+        {
+          "number": 45,
+          "text": "porro Abimelech omni illo die obpugnabat urbem quam cepit interfectis habitatoribus eius ipsaque destructa ita ut sal in ea dispergeret"
+        },
+        {
+          "number": 46,
+          "text": "quod cum audissent qui habitabant in turre Sycimorum ingressi sunt fanum dei sui Berith ubi foedus cum eo pepigerant et ex eo locus nomen acceperat qui erat valde munitus"
+        },
+        {
+          "number": 47,
+          "text": "Abimelech quoque audiens viros turris Sycimorum pariter conglobatos"
+        },
+        {
+          "number": 48,
+          "text": "ascendit in montem Selmon cum omni populo suo et arrepta securi praecidit arboris ramum inpositumque ferens umero dixit ad socios quod me vidistis facere cito facite"
+        },
+        {
+          "number": 49,
+          "text": "igitur certatim ramos de arboribus praecidentes sequebantur ducem quos circumdantes praesidio succenderunt atque ita factum est ut fumo et igne mille hominum necarentur viri pariter ac mulieres habitatorum turris Sychem"
+        },
+        {
+          "number": 50,
+          "text": "Abimelech autem inde proficiscens venit ad oppidum Thebes quod circumdans obsidebat exercitu"
+        },
+        {
+          "number": 51,
+          "text": "erat autem turris excelsa in media civitate ad quam confugerant viri simul ac mulieres et omnes principes civitatis clausa firmissime ianua et super turris tectum stantes per propugnacula"
+        },
+        {
+          "number": 52,
+          "text": "accedensque Abimelech iuxta turrem pugnabat fortiter et adpropinquans ostio ignem subponere nitebatur"
+        },
+        {
+          "number": 53,
+          "text": "et ecce una mulier fragmen molae desuper iaciens inlisit capiti Abimelech et confregit cerebrum eius"
+        },
+        {
+          "number": 54,
+          "text": "qui vocavit cito armigerum suum et ait ad eum evagina gladium tuum et percute me ne forte dicatur quod a femina interfectus sim qui iussa perficiens interfecit eum"
+        },
+        {
+          "number": 55,
+          "text": "illoque mortuo omnes qui cum eo erant de Israhel reversi sunt in sedes suas"
+        },
+        {
+          "number": 56,
+          "text": "et reddidit Deus malum quod fecerat Abimelech contra patrem suum interfectis septuaginta fratribus suis"
+        },
+        {
+          "number": 57,
+          "text": "Sycimitis quoque quod operati erant retributum est et venit super eos maledictio Ioatham filii Hierobbaal"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "post Abimelech surrexit dux in Israhel Thola filius Phoa patrui Abimelech vir de Isachar qui habitavit in Sanir montis Ephraim"
+        },
+        {
+          "number": 2,
+          "text": "et iudicavit Israhel viginti et tribus annis mortuusque ac sepultus est in Sanir"
+        },
+        {
+          "number": 3,
+          "text": "huic successit Iair Galaadites qui iudicavit Israhel per viginti et duos annos"
+        },
+        {
+          "number": 4,
+          "text": "habens triginta filios sedentes super triginta pullos asinarum et principes triginta civitatum quae ex nomine eius appellatae sunt Avothiair id est oppida Iair usque in praesentem diem in terra Galaad"
+        },
+        {
+          "number": 5,
+          "text": "mortuusque est Iair ac sepultus in loco cui est vocabulum Camon"
+        },
+        {
+          "number": 6,
+          "text": "filii autem Israhel peccatis veteribus iungentes nova fecerunt malum in conspectu Domini et servierunt idolis Baalim et Astharoth et diis Syriae ac Sidonis et Moab et filiorum Ammon et Philisthim dimiseruntque Dominum et non colebant eum"
+        },
+        {
+          "number": 7,
+          "text": "contra quos iratus tradidit eos in manu Philisthim et filiorum Ammon"
+        },
+        {
+          "number": 8,
+          "text": "adflictique sunt et vehementer oppressi per annos decem et octo omnes qui habitabant trans Iordanem in terra Amorrei quae est in Galaad"
+        },
+        {
+          "number": 9,
+          "text": "in tantum ut filii Ammon Iordane transmisso vastarent Iudam et Beniamin et Ephraim adflictusque est Israhel nimis"
+        },
+        {
+          "number": 10,
+          "text": "et clamantes ad Dominum dixerunt peccavimus tibi quia dereliquimus Deum nostrum et servivimus Baalim"
+        },
+        {
+          "number": 11,
+          "text": "quibus locutus est Dominus numquid non Aegyptii et Amorrei filiique Ammon et Philisthim"
+        },
+        {
+          "number": 12,
+          "text": "Sidonii quoque et Amalech et Chanaan oppresserunt vos et clamastis ad me et erui vos de manu eorum"
+        },
+        {
+          "number": 13,
+          "text": "et tamen reliquistis me et coluistis deos alienos idcirco non addam ut ultra vos liberem"
+        },
+        {
+          "number": 14,
+          "text": "ite et invocate deos quos elegistis ipsi vos liberent in tempore angustiae"
+        },
+        {
+          "number": 15,
+          "text": "dixeruntque filii Israhel ad Dominum peccavimus redde tu nobis quicquid tibi placet tantum nunc libera nos"
+        },
+        {
+          "number": 16,
+          "text": "quae dicentes omnia de finibus suis alienorum deorum idola proiecerunt et servierunt Deo qui doluit super miseriis eorum"
+        },
+        {
+          "number": 17,
+          "text": "itaque filii Ammon conclamantes in Galaad fixere tentoria contra quos congregati filii Israhel in Maspha castrametati sunt"
+        },
+        {
+          "number": 18,
+          "text": "dixeruntque principes Galaad singuli ad proximos suos qui primus e nobis contra filios Ammon coeperit dimicare erit dux populi Galaad"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "fuit illo tempore Iepthae Galaadites vir fortissimus atque pugnator filius meretricis mulieris qui natus est de Galaad"
+        },
+        {
+          "number": 2,
+          "text": "habuit autem Galaad uxorem de qua suscepit filios qui postquam creverant eiecerunt Iepthae dicentes heres in domo patris nostri esse non poteris quia de altera matre generatus es"
+        },
+        {
+          "number": 3,
+          "text": "quos ille fugiens atque devitans habitavit in terra Tob congregatique sunt ad eum viri inopes et latrocinantes et quasi principem sequebantur"
+        },
+        {
+          "number": 4,
+          "text": "in illis diebus pugnabant filii Ammon contra Israhel"
+        },
+        {
+          "number": 5,
+          "text": "quibus acriter instantibus perrexerunt maiores natu de Galaad ut tollerent in auxilium sui Iepthae de terra Tob"
+        },
+        {
+          "number": 6,
+          "text": "dixeruntque ad eum veni et esto princeps noster et pugna contra filios Ammon"
+        },
+        {
+          "number": 7,
+          "text": "quibus ille respondit nonne vos estis qui odistis me et eiecistis de domo patris mei et nunc venistis ad me necessitate conpulsi"
+        },
+        {
+          "number": 8,
+          "text": "dixeruntque principes Galaad ad Iepthae ob hanc igitur causam nunc ad te venimus ut proficiscaris nobiscum et pugnes contra filios Ammon sisque dux omnium qui habitant in Galaad"
+        },
+        {
+          "number": 9,
+          "text": "Iepthae quoque dixit eis si vere venistis ad me ut pugnem pro vobis contra filios Ammon tradideritque eos Dominus in manus meas ego ero princeps vester"
+        },
+        {
+          "number": 10,
+          "text": "qui responderunt ei Dominus qui haec audit ipse mediator ac testis est quod nostra promissa faciamus"
+        },
+        {
+          "number": 11,
+          "text": "abiit itaque Iepthae cum principibus Galaad fecitque eum omnis populus principem sui locutusque est Iepthae omnes sermones suos coram Domino in Maspha"
+        },
+        {
+          "number": 12,
+          "text": "et misit nuntios ad regem filiorum Ammon qui ex persona sua dicerent quid mihi et tibi est quia venisti contra me ut vastares terram meam"
+        },
+        {
+          "number": 13,
+          "text": "quibus ille respondit quia tulit Israhel terram meam quando ascendit de Aegypto a finibus Arnon usque Iaboc atque Iordanem nunc igitur cum pace redde mihi eam"
+        },
+        {
+          "number": 14,
+          "text": "per quos rursum mandavit Iepthae et imperavit eis ut dicerent regi Ammon"
+        },
+        {
+          "number": 15,
+          "text": "haec dicit Iepthae non tulit Israhel terram Moab nec terram filiorum Ammon"
+        },
+        {
+          "number": 16,
+          "text": "sed quando de Aegypto conscenderunt ambulavit per solitudinem usque ad mare Rubrum et venit in Cades"
+        },
+        {
+          "number": 17,
+          "text": "misitque nuntios ad regem Edom dicens dimitte ut transeam per terram tuam qui noluit adquiescere precibus eius misit quoque et ad regem Moab qui et ipse transitum praebere contempsit mansit itaque in Cades"
+        },
+        {
+          "number": 18,
+          "text": "et circuivit ex latere terram Edom et terram Moab venitque contra orientalem plagam terrae Moab et castrametatus est trans Arnon nec voluit intrare terminos Moab Arnon quippe confinium est terrae Moab"
+        },
+        {
+          "number": 19,
+          "text": "misit itaque Israhel nuntios ad Seon regem Amorreorum qui habitabat in Esebon et dixerunt ei dimitte ut transeam per terram tuam usque ad fluvium"
+        },
+        {
+          "number": 20,
+          "text": "qui et ipse Israhel verba despiciens non dimisit eum transire per terminos suos sed infinita multitudine congregata egressus est contra eum in Iassa et fortiter resistebat"
+        },
+        {
+          "number": 21,
+          "text": "tradiditque eum Dominus in manu Israhel cum omni exercitu suo qui percussit eum et possedit omnem terram Amorrei habitatoris regionis illius"
+        },
+        {
+          "number": 22,
+          "text": "et universos fines eius de Arnon usque Iaboc et de solitudine usque ad Iordanem"
+        },
+        {
+          "number": 23,
+          "text": "Dominus ergo Deus Israhel subvertit Amorreum pugnante contra illum populo suo Israhel et tu nunc vis possidere terram eius"
+        },
+        {
+          "number": 24,
+          "text": "nonne ea quae possedit Chamos deus tuus tibi iure debentur quae autem Dominus Deus noster victor obtinuit in nostram cedent possessionem"
+        },
+        {
+          "number": 25,
+          "text": "nisi forte melior es Balac filio Sepphor rege Moab aut docere potes quod iurgatus sit contra Israhel et pugnaverit contra eum"
+        },
+        {
+          "number": 26,
+          "text": "quando habitavit in Esebon et viculis eius et in Aroer et villis illius vel in cunctis civitatibus iuxta Iordanem per trecentos annos quare tanto tempore nihil super hac repetitione temptastis"
+        },
+        {
+          "number": 27,
+          "text": "igitur non ego pecco in te sed tu contra me male agis indicens mihi bella non iusta iudicet Dominus arbiter huius diei inter Israhel et inter filios Ammon"
+        },
+        {
+          "number": 28,
+          "text": "noluitque adquiescere rex filiorum Ammon verbis Iepthae quae per nuntios mandaverat"
+        },
+        {
+          "number": 29,
+          "text": "factus est ergo super Iepthae spiritus Domini et circumiens Galaad et Manasse Maspha quoque Galaad et inde transiens ad filios Ammon"
+        },
+        {
+          "number": 30,
+          "text": "votum vovit Domino dicens si tradideris filios Ammon in manus meas"
+        },
+        {
+          "number": 31,
+          "text": "quicumque primus fuerit egressus de foribus domus meae mihique occurrerit revertenti cum pace a filiis Ammon eum holocaustum offeram Domino"
+        },
+        {
+          "number": 32,
+          "text": "transivitque Iepthae ad filios Ammon ut pugnaret contra eos quos tradidit Dominus in manus eius"
+        },
+        {
+          "number": 33,
+          "text": "percussitque ab Aroer usque dum venias in Mennith viginti civitates et usque ad Abel quae est vineis consita plaga magna nimis humiliatique sunt filii Ammon a filiis Israhel"
+        },
+        {
+          "number": 34,
+          "text": "revertenti autem Iepthae in Maspha domum suam occurrit unigenita filia cum tympanis et choris non enim habebat alios liberos"
+        },
+        {
+          "number": 35,
+          "text": "qua visa scidit vestimenta sua et ait heu filia mi decepisti me et ipsa decepta es aperui enim os meum ad Dominum et aliud facere non potero"
+        },
+        {
+          "number": 36,
+          "text": "cui illa respondit pater mi si aperuisti os tuum ad Dominum fac mihi quodcumque pollicitus es concessa tibi ultione atque victoria de hostibus tuis"
+        },
+        {
+          "number": 37,
+          "text": "dixitque ad patrem hoc solum mihi praesta quod deprecor dimitte me ut duobus mensibus circumeam montes et plangam virginitatem meam cum sodalibus meis"
+        },
+        {
+          "number": 38,
+          "text": "cui ille respondit vade et dimisit eam duobus mensibus cumque abisset cum sociis ac sodalibus suis flebat virginitatem suam in montibus"
+        },
+        {
+          "number": 39,
+          "text": "expletisque duobus mensibus reversa est ad patrem suum et fecit ei sicut voverat quae ignorabat virum exinde mos increbuit in Israhel et consuetudo servata est"
+        },
+        {
+          "number": 40,
+          "text": "ut post anni circulum conveniant in unum filiae Israhel et plangant filiam Iepthae Galaaditae diebus quattuor"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ecce autem in Ephraim orta seditio est nam transeuntes contra aquilonem dixerunt ad Iepthae quare vadens ad pugnam contra filios Ammon vocare nos noluisti ut pergeremus tecum igitur incendimus domum tuam"
+        },
+        {
+          "number": 2,
+          "text": "quibus ille respondit disceptatio erat mihi et populo meo contra filios Ammon vehemens vocavique vos ut mihi praeberetis auxilium et facere noluistis"
+        },
+        {
+          "number": 3,
+          "text": "quod cernens posui in manibus meis animam meam transivique ad filios Ammon et tradidit eos Dominus in manus meas quid commerui ut adversum me consurgatis in proelium"
+        },
+        {
+          "number": 4,
+          "text": "vocatis itaque ad se cunctis viris Galaad pugnabat contra Ephraim percusseruntque viri Galaad Ephraim quia dixerat fugitivus est Galaad de Ephraim et habitat in medio Ephraim et Manasse"
+        },
+        {
+          "number": 5,
+          "text": "occupaveruntque Galaaditae vada Iordanis per quae Ephraim reversurus erat cumque venisset ad ea de Ephraim numero fugiens atque dixisset obsecro ut me transire permittas dicebant ei Galaaditae numquid Ephrateus es quo dicente non sum"
+        },
+        {
+          "number": 6,
+          "text": "interrogabant eum dic ergo sebboleth quod interpretatur spica qui respondebat tebboleth eadem littera spicam exprimere non valens statimque adprehensum iugulabant in ipso Iordanis transitu et ceciderunt in illo tempore de Ephraim quadraginta duo milia"
+        },
+        {
+          "number": 7,
+          "text": "iudicavitque Iepthae Galaadites Israhel sex annis et mortuus est ac sepultus in civitate sua Galaad"
+        },
+        {
+          "number": 8,
+          "text": "post hunc iudicavit Israhel Abessan de Bethleem"
+        },
+        {
+          "number": 9,
+          "text": "qui habuit triginta filios et totidem filias quas emittens foras maritis dedit et eiusdem numeri filiis suis accepit uxores introducens in domum suam qui septem annis iudicavit Israhel"
+        },
+        {
+          "number": 10,
+          "text": "mortuusque est ac sepultus in Bethleem"
+        },
+        {
+          "number": 11,
+          "text": "cui successit Ahialon Zabulonites et iudicavit Israhelem decem annis"
+        },
+        {
+          "number": 12,
+          "text": "mortuusque est ac sepultus in Zabulon"
+        },
+        {
+          "number": 13,
+          "text": "post hunc iudicavit in Israhel Abdon filius Hellel Farathonites"
+        },
+        {
+          "number": 14,
+          "text": "qui habuit quadraginta filios et triginta ex eis nepotes ascendentes super septuaginta pullos asinarum et iudicavit in Israhel octo annis"
+        },
+        {
+          "number": 15,
+          "text": "mortuusque est ac sepultus in Farathon terrae Ephraim in monte Amalech"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "rursumque filii Israhel fecerunt malum in conspectu Domini qui tradidit eos in manus Philisthinorum quadraginta annis"
+        },
+        {
+          "number": 2,
+          "text": "erat autem vir quidam de Saraa et de stirpe Dan nomine Manue habens uxorem sterilem"
+        },
+        {
+          "number": 3,
+          "text": "cui apparuit angelus Domini et dixit ad eam sterilis es et absque liberis sed concipies et paries filium"
+        },
+        {
+          "number": 4,
+          "text": "cave ergo ne vinum bibas ac siceram ne inmundum quicquam comedas"
+        },
+        {
+          "number": 5,
+          "text": "quia concipies et paries filium cuius non tanget caput novacula erit enim nazareus Dei ab infantia sua et ex matris utero et ipse incipiet liberare Israhel de manu Philisthinorum"
+        },
+        {
+          "number": 6,
+          "text": "quae cum venisset ad maritum dixit ei vir Dei venit ad me habens vultum angelicum terribilis nimis quem cum interrogassem quis esset et unde venisset et quo nomine vocaretur noluit mihi dicere"
+        },
+        {
+          "number": 7,
+          "text": "sed hoc respondit ecce concipies et paries filium cave ne vinum bibas et siceram et ne aliquo vescaris inmundo erit enim puer nazareus Dei ab infantia sua et ex utero matris usque ad diem mortis suae"
+        },
+        {
+          "number": 8,
+          "text": "oravit itaque Manue Deum et ait obsecro Domine ut vir Dei quem misisti veniat iterum et doceat nos quid debeamus facere de puero qui nasciturus est"
+        },
+        {
+          "number": 9,
+          "text": "exaudivitque Dominus precantem Manue et apparuit rursum angelus Domini uxori eius sedenti in agro Manue autem maritus eius non erat cum ea quae cum vidisset angelum"
+        },
+        {
+          "number": 10,
+          "text": "festinavit et cucurrit ad virum suum nuntiavitque ei dicens ecce apparuit mihi vir quem ante videram"
+        },
+        {
+          "number": 11,
+          "text": "qui surrexit et secutus est uxorem suam veniensque ad virum dixit ei tu es qui locutus es mulieri et ille respondit ego sum"
+        },
+        {
+          "number": 12,
+          "text": "cui Manue quando inquit sermo tuus fuerit expletus quid vis ut faciat puer aut a quo se observare debebit"
+        },
+        {
+          "number": 13,
+          "text": "dixitque angelus Domini ad Manue ab omnibus quae locutus sum uxori tuae abstineat se"
+        },
+        {
+          "number": 14,
+          "text": "et quicquid ex vinea nascitur non comedat vinum et siceram non bibat nullo vescatur inmundo et quod ei praecepi impleat atque custodiat"
+        },
+        {
+          "number": 15,
+          "text": "dixitque Manue ad angelum Domini obsecro te ut adquiescas precibus meis et faciamus tibi hedum de capris"
+        },
+        {
+          "number": 16,
+          "text": "cui respondit angelus si me cogis non comedam panes tuos sin autem vis holocaustum facere offer illud Domino et nesciebat Manue quod angelus Dei esset"
+        },
+        {
+          "number": 17,
+          "text": "dixitque ad eum quod est tibi nomen ut si sermo tuus fuerit expletus honoremus te"
+        },
+        {
+          "number": 18,
+          "text": "cui ille respondit cur quaeris nomen meum quod est mirabile"
+        },
+        {
+          "number": 19,
+          "text": "tulit itaque Manue hedum de capris et libamenta et posuit super petram offerens Domino qui facit mirabilia ipse autem et uxor eius intuebantur"
+        },
+        {
+          "number": 20,
+          "text": "cumque ascenderet flamma altaris in caelum angelus Domini in flamma pariter ascendit quod cum vidisset Manue et uxor eius proni ceciderunt in terram"
+        },
+        {
+          "number": 21,
+          "text": "et ultra non eis apparuit angelus Domini statimque intellexit Manue angelum esse Domini"
+        },
+        {
+          "number": 22,
+          "text": "et dixit ad uxorem suam morte moriemur quia vidimus Deum"
+        },
+        {
+          "number": 23,
+          "text": "cui respondit mulier si Dominus nos vellet occidere de manibus nostris holocaustum et libamenta non suscepisset nec ostendisset nobis haec omnia neque ea quae sunt ventura dixisset"
+        },
+        {
+          "number": 24,
+          "text": "peperit itaque filium et vocavit nomen eius Samson crevitque puer et benedixit ei Dominus"
+        },
+        {
+          "number": 25,
+          "text": "coepitque spiritus Domini esse cum eo in castris Dan inter Saraa et Esthaol"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "descendit igitur Samson in Thamnatha vidensque ibi mulierem de filiabus Philisthim"
+        },
+        {
+          "number": 2,
+          "text": "ascendit et nuntiavit patri suo et matri dicens vidi mulierem in Thamnatha de filiabus Philisthinorum quam quaeso ut mihi accipiatis uxorem"
+        },
+        {
+          "number": 3,
+          "text": "cui dixerunt pater et mater sua numquid non est mulier in filiabus fratrum tuorum et in omni populo meo quia vis accipere uxorem de Philisthim qui incircumcisi sunt dixitque Samson ad patrem suum hanc mihi accipe quia placuit oculis meis"
+        },
+        {
+          "number": 4,
+          "text": "parentes autem eius nesciebant quod res a Domino fieret et quaereret occasionem contra Philisthim eo enim tempore Philisthim dominabantur Israheli"
+        },
+        {
+          "number": 5,
+          "text": "descendit itaque Samson cum patre suo et matre in Thamnatha cumque venissent ad vineas oppidi apparuit catulus leonis saevus rugiens et occurrit ei"
+        },
+        {
+          "number": 6,
+          "text": "inruit autem spiritus Domini in Samson et dilaceravit leonem quasi hedum in frusta concerperet nihil omnino habens in manu et hoc patri et matri noluit indicare"
+        },
+        {
+          "number": 7,
+          "text": "descenditque et locutus est mulieri quae placuerat oculis eius"
+        },
+        {
+          "number": 8,
+          "text": "et post aliquot dies revertens ut acciperet eam declinavit ut videret cadaver leonis et ecce examen apium in ore leonis erat ac favus mellis"
+        },
+        {
+          "number": 9,
+          "text": "quem cum sumpsisset in manibus comedebat in via veniensque ad patrem suum et matrem dedit eis partem qui et ipsi comederunt nec tamen eis voluit indicare quod mel de corpore leonis adsumpserat"
+        },
+        {
+          "number": 10,
+          "text": "descendit itaque pater eius ad mulierem et fecit filio suo Samson convivium sic enim iuvenes facere consuerant"
+        },
+        {
+          "number": 11,
+          "text": "cum igitur cives loci vidissent eum dederunt ei sodales triginta qui essent cum eo"
+        },
+        {
+          "number": 12,
+          "text": "quibus locutus est Samson proponam vobis problema quod si solveritis mihi intra septem dies convivii dabo vobis triginta sindones et totidem tunicas"
+        },
+        {
+          "number": 13,
+          "text": "sin autem non potueritis solvere vos dabitis mihi triginta sindones et eiusdem numeri tunicas qui responderunt ei propone problema ut audiamus"
+        },
+        {
+          "number": 14,
+          "text": "dixitque eis de comedente exivit cibus et de forte est egressa dulcedo nec potuerunt per tres dies propositionem solvere"
+        },
+        {
+          "number": 15,
+          "text": "cumque adesset dies septimus dixerunt ad uxorem Samson blandire viro tuo et suade ei ut indicet tibi quid significet problema quod si facere nolueris incendimus et te et domum patris tui an idcirco nos vocastis ad nuptias ut spoliaretis"
+        },
+        {
+          "number": 16,
+          "text": "quae fundebat apud Samson lacrimas et querebatur dicens odisti me et non diligis idcirco problema quod proposuisti filiis populi mei non vis mihi exponere at ille respondit patri meo et matri nolui dicere et tibi indicare potero"
+        },
+        {
+          "number": 17,
+          "text": "septem igitur diebus convivii flebat apud eum tandemque die septimo cum ei molesta esset exposuit quae statim indicavit civibus suis"
+        },
+        {
+          "number": 18,
+          "text": "et illi dixerunt ei die septimo ante solis occubitum quid dulcius melle et quid leone fortius qui ait ad eos si non arassetis in vitula mea non invenissetis propositionem meam"
+        },
+        {
+          "number": 19,
+          "text": "inruit itaque in eo spiritus Domini descenditque Ascalonem et percussit ibi triginta viros quorum ablatas vestes dedit his qui problema solverant iratusque nimis ascendit in domum patris sui"
+        },
+        {
+          "number": 20,
+          "text": "uxor autem eius accepit maritum unum de amicis eius et pronubis"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "post aliquantum autem temporis cum dies triticeae messis instarent venit Samson invisere volens uxorem suam et adtulit ei hedum de capris cumque cubiculum eius solito vellet intrare prohibuit eum pater illius dicens"
+        },
+        {
+          "number": 2,
+          "text": "putavi quod odisses eam et ideo tradidi illam amico tuo sed habet sororem quae iunior et pulchrior illa est sit tibi pro ea uxor"
+        },
+        {
+          "number": 3,
+          "text": "cui respondit Samson ab hac die non erit culpa in me contra Philistheos faciam enim vobis mala"
+        },
+        {
+          "number": 4,
+          "text": "perrexitque et cepit trecentas vulpes caudasque earum iunxit ad caudas et faces ligavit in medio"
+        },
+        {
+          "number": 5,
+          "text": "quas igne succendens dimisit ut huc illucque discurrerent quae statim perrexerunt in segetes Philisthinorum quibus succensis et conportatae iam fruges et adhuc stantes in stipula concrematae sunt in tantum ut vineas quoque et oliveta flamma consumeret"
+        },
+        {
+          "number": 6,
+          "text": "dixeruntque Philisthim quis fecit hanc rem quibus dictum est Samson gener Thamnathei quia tulit uxorem eius et alteri tradidit haec operatus est ascenderuntque Philisthim et conbuserunt tam mulierem quam patrem eius"
+        },
+        {
+          "number": 7,
+          "text": "quibus ait Samson licet haec feceritis tamen adhuc ex vobis expetam ultionem et tunc quiescam"
+        },
+        {
+          "number": 8,
+          "text": "percussitque eos ingenti plaga ita ut stupentes suram femori inponerent et descendens habitavit in spelunca petrae Aetham"
+        },
+        {
+          "number": 9,
+          "text": "igitur ascendentes Philisthim in terra Iuda castrametati sunt et in loco qui postea vocatus est Lehi id est Maxilla eorum est fusus exercitus"
+        },
+        {
+          "number": 10,
+          "text": "dixeruntque ad eos de tribu Iuda cur ascendistis adversum nos qui responderunt ut ligemus Samson venimus et reddamus ei quae in nos operatus est"
+        },
+        {
+          "number": 11,
+          "text": "descenderunt ergo tria milia virorum de Iuda ad specum silicis Aetham dixeruntque ad Samson nescis quod Philisthim imperent nobis quare hoc facere voluisti quibus ille ait sicut fecerunt mihi feci eis"
+        },
+        {
+          "number": 12,
+          "text": "ligare inquiunt te venimus et tradere in manus Philisthinorum iurate respondit mihi quod non me occidatis"
+        },
+        {
+          "number": 13,
+          "text": "dixerunt non te occidimus sed vinctum tradimus ligaveruntque eum duobus novis funibus et tulerunt de petra Aetham"
+        },
+        {
+          "number": 14,
+          "text": "qui cum venisset ad locum Maxillae et Philisthim vociferantes occurrissent ei inruit spiritus Domini in eum et sicut solent ad odorem ignis lina consumi ita vincula quibus ligatus erat dissipata sunt et soluta"
+        },
+        {
+          "number": 15,
+          "text": "inventamque maxillam id est mandibulam asini quae iacebat arripiens interfecit in ea mille viros"
+        },
+        {
+          "number": 16,
+          "text": "et ait in maxilla asini in mandibula pulli asinarum delevi eos et percussi mille viros"
+        },
+        {
+          "number": 17,
+          "text": "cumque haec canens verba conplesset proiecit mandibulam de manu et vocavit nomen loci illius Ramathlehi quod interpretatur elevatio Maxillae"
+        },
+        {
+          "number": 18,
+          "text": "sitiensque valde clamavit ad Dominum et ait tu dedisti in manu servi tui salutem hanc maximam atque victoriam et en siti morior incidamque in manus incircumcisorum"
+        },
+        {
+          "number": 19,
+          "text": "aperuit itaque Dominus molarem dentem in maxilla asini et egressae sunt ex eo aquae quibus haustis refocilavit spiritum et vires recepit idcirco appellatum est nomen loci illius Fons invocantis de maxilla usque in praesentem diem"
+        },
+        {
+          "number": 20,
+          "text": "iudicavitque Israhel in diebus Philisthim viginti annis"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "abiit quoque in Gazam et vidit ibi meretricem mulierem ingressusque est ad eam"
+        },
+        {
+          "number": 2,
+          "text": "quod cum audissent Philisthim et percrebruisset apud eos intrasse urbem Samson circumdederunt eum positis in porta civitatis custodibus et ibi tota nocte cum silentio praestolantes ut facto mane exeuntem occiderent"
+        },
+        {
+          "number": 3,
+          "text": "dormivit autem Samson usque ad noctis medium et inde consurgens adprehendit ambas portae fores cum postibus suis et sera inpositasque umeris portavit ad verticem montis qui respicit Hebron"
+        },
+        {
+          "number": 4,
+          "text": "post haec amavit mulierem quae habitabat in valle Sorech et vocabatur Dalila"
+        },
+        {
+          "number": 5,
+          "text": "veneruntque ad eam principes Philisthinorum atque dixerunt decipe eum et disce ab illo in quo tantam habeat fortitudinem et quomodo eum superare valeamus et vinctum adfligere quod si feceris dabimus tibi singuli mille centum argenteos"
+        },
+        {
+          "number": 6,
+          "text": "locuta est ergo Dalila ad Samson dic mihi obsecro in quo sit tua maxima fortitudo et quid sit quo ligatus erumpere nequeas"
+        },
+        {
+          "number": 7,
+          "text": "cui respondit Samson si septem nervicis funibus necdum siccis et adhuc humentibus ligatus fuero infirmus ero ut ceteri homines"
+        },
+        {
+          "number": 8,
+          "text": "adtuleruntque ad eam satrapae Philisthinorum septem funes ut dixerat quibus vinxit eum"
+        },
+        {
+          "number": 9,
+          "text": "latentibus apud se insidiis et in cubiculo finem rei expectantibus clamavitque ad eum Philisthim super te Samson qui rupit vincula quomodo si rumpat quis filum de stuppae tortum putamine cum odorem ignis acceperit et non est cognitum in quo esset fortitudo eius"
+        },
+        {
+          "number": 10,
+          "text": "dixitque ad eum Dalila ecce inlusisti mihi et falsum locutus es saltim nunc indica quo ligari debeas"
+        },
+        {
+          "number": 11,
+          "text": "cui ille respondit si ligatus fuero novis funibus qui numquam fuerunt in opere infirmus ero et aliorum hominum similis"
+        },
+        {
+          "number": 12,
+          "text": "quibus rursum Dalila vinxit eum et clamavit Philisthim super te Samson in cubiculo insidiis praeparatis qui ita rupit vincula quasi fila telarum"
+        },
+        {
+          "number": 13,
+          "text": "dixitque Dalila rursum ad eum usquequo decipis me et falsum loqueris ostende quo vinciri debeas si inquit septem crines capitis mei cum licio plexueris et clavum his circumligatum terrae fixeris infirmus ero"
+        },
+        {
+          "number": 14,
+          "text": "quod cum fecisset Dalila dixit ad eum Philisthim super te Samson qui consurgens de somno extraxit clavum cum crinibus et licio"
+        },
+        {
+          "number": 15,
+          "text": "dixitque ad eum Dalila quomodo dicis quod ames me cum animus tuus non sit mecum per tres vices mentitus es mihi et noluisti dicere in quo sit tua maxima fortitudo"
+        },
+        {
+          "number": 16,
+          "text": "cumque molesta ei esset et per multos dies iugiter adhereret spatium ad quietem non tribuens defecit anima eius et ad mortem usque lassata est"
+        },
+        {
+          "number": 17,
+          "text": "tunc aperiens veritatem rei dixit ad eam ferrum numquam ascendit super caput meum quia nazareus id est consecratus Deo sum de utero matris meae si rasum fuerit caput meum recedet a me fortitudo mea et deficiam eroque ut ceteri homines"
+        },
+        {
+          "number": 18,
+          "text": "videns illa quod confessus ei esset omnem animum suum misit ad principes Philisthinorum atque mandavit ascendite adhuc semel quia nunc mihi aperuit cor suum qui ascenderunt adsumpta pecunia quam promiserant"
+        },
+        {
+          "number": 19,
+          "text": "at illa dormire eum fecit super genua sua et in sinu suo reclinare caput vocavitque tonsorem et rasit septem crines eius et coepit abicere eum et a se repellere statim enim ab eo fortitudo discessit"
+        },
+        {
+          "number": 20,
+          "text": "dixitque Philisthim super te Samson qui de somno consurgens dixit in animo suo egrediar sicut ante feci et me excutiam nesciens quod Dominus recessisset ab eo"
+        },
+        {
+          "number": 21,
+          "text": "quem cum adprehendissent Philisthim statim eruerunt oculos eius et duxerunt Gazam vinctum catenis et clausum in carcere molere fecerunt"
+        },
+        {
+          "number": 22,
+          "text": "iamque capilli eius renasci coeperant"
+        },
+        {
+          "number": 23,
+          "text": "et principes Philisthinorum convenerunt in unum ut immolarent hostias magnificas Dagon deo suo et epularentur dicentes tradidit deus noster inimicum nostrum Samson in manus nostras"
+        },
+        {
+          "number": 24,
+          "text": "quod etiam populus videns laudabat deum suum eademque dicebat tradidit deus noster in manus nostras adversarium qui delevit terram nostram et occidit plurimos"
+        },
+        {
+          "number": 25,
+          "text": "laetantesque per convivia sumptis iam epulis praeceperunt ut vocaretur Samson et ante eos luderet qui adductus de carcere ludebat ante eos feceruntque eum stare inter duas columnas"
+        },
+        {
+          "number": 26,
+          "text": "qui dixit puero regenti gressus suos dimitte me ut tangam columnas quibus omnis inminet domus ut recliner super eas et paululum requiescam"
+        },
+        {
+          "number": 27,
+          "text": "domus autem plena erat virorum ac mulierum et erant ibi omnes principes Philisthinorum ac de tecto et solario circiter tria milia utriusque sexus spectabant ludentem Samson"
+        },
+        {
+          "number": 28,
+          "text": "at ille invocato Domino ait Domine Deus memento mei et redde nunc mihi pristinam fortitudinem Deus meus ut ulciscar me de hostibus meis et pro amissione duorum luminum unam ultionem recipiam"
+        },
+        {
+          "number": 29,
+          "text": "et adprehendens ambas columnas quibus innitebatur domus alteramque earum dextera et alteram leva tenens"
+        },
+        {
+          "number": 30,
+          "text": "ait moriatur anima mea cum Philisthim concussisque fortiter columnis cecidit domus super omnes principes et ceteram multitudinem quae ibi erat multoque plures interfecit moriens quam ante vivus occiderat"
+        },
+        {
+          "number": 31,
+          "text": "descendentes autem fratres eius et universa cognatio tulerunt corpus eius et sepelierunt inter Saraa et Esthaol in sepulchro patris Manue iudicavitque Israhel viginti annis"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "fuit eo tempore vir quidam de monte Ephraim nomine Michas"
+        },
+        {
+          "number": 2,
+          "text": "qui dixit matri suae mille centum argenteos quos separaveras tibi et super quibus me audiente iuraveras ecce ego habeo et apud me sunt cui illa respondit benedictus filius meus Domino"
+        },
+        {
+          "number": 3,
+          "text": "reddidit ergo eos matri suae quae dixerat ei consecravi et vovi argentum hoc Domino ut de manu mea suscipiat filius meus et faciat sculptile atque conflatile et nunc trado illud tibi"
+        },
+        {
+          "number": 4,
+          "text": "reddidit igitur matri suae quae tulit ducentos argenteos et dedit eos argentario ut faceret ex eis sculptile atque conflatile quod fuit in domo Micha"
+        },
+        {
+          "number": 5,
+          "text": "qui aediculam quoque in ea Deo separavit et fecit ephod ac therafin id est vestem sacerdotalem et idola implevitque unius filiorum suorum manum et factus est ei sacerdos"
+        },
+        {
+          "number": 6,
+          "text": "in diebus illis non erat rex in Israhel sed unusquisque quod sibi rectum videbatur hoc faciebat"
+        },
+        {
+          "number": 7,
+          "text": "fuit quoque alter adulescens de Bethleem Iuda et cognatione eius eratque ipse Levites et habitabat ibi"
+        },
+        {
+          "number": 8,
+          "text": "egressusque de civitate Bethleem peregrinari voluit ubicumque sibi commodum repperisset cumque venisset in monte Ephraim iter faciens et declinasset parumper in domum Micha"
+        },
+        {
+          "number": 9,
+          "text": "interrogatus est ab eo unde venis qui respondit Levita sum de Bethleem Iuda et vado ut habitem ubi potuero et utile mihi esse perspexero"
+        },
+        {
+          "number": 10,
+          "text": "mane inquit apud me et esto mihi parens ac sacerdos daboque tibi per annos singulos decem argenteos ac vestem duplicem et quae ad victum necessaria sunt"
+        },
+        {
+          "number": 11,
+          "text": "adquievit et mansit apud hominem fuitque illi quasi unus de filiis"
+        },
+        {
+          "number": 12,
+          "text": "implevitque Micha manum eius et habuit apud se puerum sacerdotem"
+        },
+        {
+          "number": 13,
+          "text": "nunc scio dicens quod bene mihi faciat Deus habenti levitici generis sacerdotem"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in diebus illis non erat rex in Israhel et tribus Dan quaerebat possessionem sibi ut habitaret in ea usque ad illum enim diem inter ceteras tribus sortem non acceperat"
+        },
+        {
+          "number": 2,
+          "text": "miserunt igitur filii Dan stirpis et familiae suae quinque viros fortissimos de Saraa et Esthaol ut explorarent terram et diligenter inspicerent dixeruntque eis ite et considerate terram qui cum pergentes venissent in montem Ephraim et intrassent domum Micha requieverunt ibi"
+        },
+        {
+          "number": 3,
+          "text": "et agnoscentes vocem adulescentis Levitae utentesque illius diversorio dixerunt ad eum quis te huc adduxit quid hic agis quam ob causam huc venire voluisti"
+        },
+        {
+          "number": 4,
+          "text": "qui respondit eis haec et haec praestitit mihi Michas et me mercede conduxit ut sim ei sacerdos"
+        },
+        {
+          "number": 5,
+          "text": "rogaveruntque eum ut consuleret Dominum et scire possent an prospero itinere pergerent et res haberet effectum"
+        },
+        {
+          "number": 6,
+          "text": "qui respondit eis ite cum pace Dominus respicit viam vestram et iter quo pergitis"
+        },
+        {
+          "number": 7,
+          "text": "euntes itaque quinque viri venerunt Lais videruntque populum habitantem in ea absque ullo timore iuxta Sidoniorum consuetudinem securum et quietum nullo eis penitus resistente magnarumque opum et procul a Sidone atque a cunctis hominibus separatum"
+        },
+        {
+          "number": 8,
+          "text": "reversique ad fratres suos in Saraa et Esthaol et quid egissent sciscitantibus responderunt"
+        },
+        {
+          "number": 9,
+          "text": "surgite et ascendamus ad eos vidimus enim terram valde opulentam et uberem nolite neglegere nolite cessare eamus et possideamus eam nullus erit labor"
+        },
+        {
+          "number": 10,
+          "text": "intrabimus ad securos in regionem latissimam tradetque nobis Dominus locum in quo nullius rei est penuria eorum quae gignuntur in terra"
+        },
+        {
+          "number": 11,
+          "text": "profecti igitur sunt de cognatione Dan id est de Saraa et Esthaol sescenti viri accincti armis bellicis"
+        },
+        {
+          "number": 12,
+          "text": "ascendentesque manserunt in Cariathiarim Iudae qui locus ex eo tempore castrorum Dan nomen accepit et est post tergum Cariathiarim"
+        },
+        {
+          "number": 13,
+          "text": "inde transierunt in montem Ephraim cumque venissent ad domum Micha"
+        },
+        {
+          "number": 14,
+          "text": "dixerunt quinque viri qui prius missi fuerant ad considerandam terram Lais ceteris fratribus suis nostis quod in domibus istis sit ephod et therafin et sculptile atque conflatile videte quid vobis placeat"
+        },
+        {
+          "number": 15,
+          "text": "et cum paululum declinassent ingressi sunt domum adulescentis Levitae qui erat in domo Micha salutaveruntque eum verbis pacificis"
+        },
+        {
+          "number": 16,
+          "text": "sescenti autem viri ita ut erant armati stabant ante ostium"
+        },
+        {
+          "number": 17,
+          "text": "at illi qui ingressi fuerant domum iuvenis sculptile et ephod et therafin atque conflatile tollere nitebantur et sacerdos stabat ante ostium sescentis viris fortissimis haut procul expectantibus"
+        },
+        {
+          "number": 18,
+          "text": "tulerunt igitur qui intraverant sculptile ephod et idola atque conflatile quibus dixit sacerdos quid facitis"
+        },
+        {
+          "number": 19,
+          "text": "cui responderunt tace et pone digitum super os tuum venique nobiscum ut habeamus te patrem et sacerdotem quid tibi melius est ut sis sacerdos in domo unius viri an in una tribu et familia in Israhel"
+        },
+        {
+          "number": 20,
+          "text": "quod cum audisset adquievit sermonibus eorum et tulit ephod et idola ac sculptile et cum eis profectus est"
+        },
+        {
+          "number": 21,
+          "text": "qui cum pergerent et ante se ire fecissent parvulos et iumenta et omne quod erat pretiosum"
+        },
+        {
+          "number": 22,
+          "text": "iamque a domo Michae essent procul viri qui habitabant in aedibus Michae conclamantes secuti sunt"
+        },
+        {
+          "number": 23,
+          "text": "et post tergum clamare coeperunt qui cum respexissent dixerunt ad Micham quid tibi vis cur clamas"
+        },
+        {
+          "number": 24,
+          "text": "qui respondit deos meos quos mihi feci tulistis et sacerdotem et omnia quae habeo et dicitis quid tibi est"
+        },
+        {
+          "number": 25,
+          "text": "dixeruntque ei filii Dan cave ne ultra loquaris ad nos et veniant ad te viri animo concitati et ipse cum omni domo tua pereas"
+        },
+        {
+          "number": 26,
+          "text": "et sic coepto itinere perrexerunt videns autem Micha quod fortiores se essent reversus est in domum suam"
+        },
+        {
+          "number": 27,
+          "text": "sescenti autem viri tulerunt sacerdotem et quae supra diximus veneruntque in Lais ad populum quiescentem atque securum et percusserunt eos in ore gladii urbemque incendio tradiderunt"
+        },
+        {
+          "number": 28,
+          "text": "nullo penitus ferente praesidium eo quod procul habitarent a Sidone et cum nullo hominum haberent quicquam societatis ac negotii erat autem civitas sita in regione Roob quam rursum extruentes habitaverunt in ea"
+        },
+        {
+          "number": 29,
+          "text": "vocato nomine civitatis Dan iuxta vocabulum patris sui quem genuerat Israhel quae prius Lais dicebatur"
+        },
+        {
+          "number": 30,
+          "text": "posueruntque sibi sculptile et Ionathan filium Gersan filii Mosi ac filios eius sacerdotes in tribu Dan usque ad diem captivitatis suae"
+        },
+        {
+          "number": 31,
+          "text": "mansitque apud eos idolum Michae omni tempore quo fuit domus Dei in Silo in diebus illis non erat rex in Israhel"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "fuit quidam vir Levites habitans in latere montis Ephraim qui accepit uxorem de Bethleem Iuda"
+        },
+        {
+          "number": 2,
+          "text": "quae reliquit eum et reversa est in domum patris sui Bethleem mansitque apud eum quattuor mensibus"
+        },
+        {
+          "number": 3,
+          "text": "secutusque est eam vir suus volens ei reconciliari atque blandiri et secum reducere habens in comitatu puerum et duos asinos quae suscepit eum et introduxit in domum patris sui quod cum audisset socer eius eumque vidisset occurrit ei laetus"
+        },
+        {
+          "number": 4,
+          "text": "et amplexatus est hominem mansitque gener in domo soceri tribus diebus comedens cum eo et bibens familiariter"
+        },
+        {
+          "number": 5,
+          "text": "die autem quarto de nocte consurgens proficisci voluit quem tenuit socer et ait ad eum gusta prius pauxillum panis et conforta stomachum et sic proficisceris"
+        },
+        {
+          "number": 6,
+          "text": "sederuntque simul et comederunt ac biberunt dixitque pater puellae ad generum suum quaeso te ut hodie hic maneas pariterque laetemur"
+        },
+        {
+          "number": 7,
+          "text": "at ille consurgens coepit velle proficisci et nihilominus obnixe eum socer tenuit et apud se fecit manere"
+        },
+        {
+          "number": 8,
+          "text": "mane facto parabat Levites iter cui rursum socer oro te inquit ut paululum cibi capias et adsumptis viribus donec increscat dies postea proficiscaris comederunt ergo simul"
+        },
+        {
+          "number": 9,
+          "text": "surrexitque adulescens ut pergeret cum uxore sua et puero cui rursum locutus est socer considera quod dies ad occasum declivior sit et propinquet ad vesperum mane apud me etiam hodie et duc laetum diem et cras proficisceris ut vadas in domum tuam"
+        },
+        {
+          "number": 10,
+          "text": "noluit gener adquiescere sermonibus eius sed statim perrexit et venit contra Iebus quae altero nomine vocabatur Hierusalem ducens secum duos asinos onustos et concubinam"
+        },
+        {
+          "number": 11,
+          "text": "iamque aderant iuxta Iebus et dies mutabatur in noctem dixitque puer ad dominum suum veni obsecro declinemus ad urbem Iebuseorum et maneamus in ea"
+        },
+        {
+          "number": 12,
+          "text": "cui respondit dominus non ingrediar oppidum gentis alienae quae non est de filiis Israhel sed transibo usque Gabaa"
+        },
+        {
+          "number": 13,
+          "text": "et cum illuc pervenero manebimus in ea aut certe in urbe Rama"
+        },
+        {
+          "number": 14,
+          "text": "transierunt igitur Iebus et coeptum carpebant iter occubuitque eis sol iuxta Gabaa quae est in tribu Beniamin"
+        },
+        {
+          "number": 15,
+          "text": "deverteruntque ad eam ut manerent ibi quo cum intrassent sedebant in platea civitatis et nullus eos recipere volebat hospitio"
+        },
+        {
+          "number": 16,
+          "text": "et ecce apparuit homo senex revertens de agro et de opere suo vespere qui et ipse erat de monte Ephraim et peregrinus habitabat in Gabaa homines autem regionis illius erant filii Iemini"
+        },
+        {
+          "number": 17,
+          "text": "elevatisque oculis vidit senex sedentem hominem cum sarcinulis suis in platea civitatis et dixit ad eum unde venis et quo vadis"
+        },
+        {
+          "number": 18,
+          "text": "qui respondit ei profecti sumus de Bethleem Iuda et pergimus ad locum nostrum qui est in latere montis Ephraim unde ieramus Bethleem et nunc vadimus ad domum Dei nullusque nos sub tectum suum vult recipere"
+        },
+        {
+          "number": 19,
+          "text": "habentes paleas et faenum in asinorum pabulum et panem ac vinum in meos et ancillae tuae usus et pueri qui mecum est nulla re indigemus nisi hospitio"
+        },
+        {
+          "number": 20,
+          "text": "cui respondit senex pax tecum sit ego praebebo omnia quae necessaria sunt tantum quaeso ne in platea maneas"
+        },
+        {
+          "number": 21,
+          "text": "introduxitque eum in domum suam et pabulum asinis praebuit ac postquam laverunt pedes suos recepit eos in convivium"
+        },
+        {
+          "number": 22,
+          "text": "illis epulantibus et post laborem itineris cibo ac potu reficientibus corpora venerunt viri civitatis illius filii Belial id est absque iugo et circumdantes domum senis fores pulsare coeperunt clamantes ad dominum domus atque dicentes educ virum qui ingressus est domum tuam ut abutamur eo"
+        },
+        {
+          "number": 23,
+          "text": "egressusque est ad eos senex et ait nolite fratres nolite facere malum hoc quia ingressus est homo hospitium meum et cessate ab hac stultitia"
+        },
+        {
+          "number": 24,
+          "text": "habeo filiam virginem et hic homo habet concubinam educam eas ad vos ut humilietis eas et vestram libidinem conpleatis tantum obsecro ne scelus hoc contra naturam operemini in virum"
+        },
+        {
+          "number": 25,
+          "text": "nolebant adquiescere sermonibus eius quod cernens homo eduxit ad eos concubinam suam et eis tradidit inludendam qua cum tota nocte abusi essent dimiserunt eam mane"
+        },
+        {
+          "number": 26,
+          "text": "at mulier recedentibus tenebris venit ad ostium domus ubi manebat dominus suus et ibi corruit"
+        },
+        {
+          "number": 27,
+          "text": "mane facto surrexit homo et aperuit ostium ut coeptam expleret viam et ecce concubina eius iacebat ante ostium sparsis in limine manibus"
+        },
+        {
+          "number": 28,
+          "text": "cui ille putans eam quiescere loquebatur surge ut ambulemus qua nihil respondente intellegens quod erat tulit eam et inposuit asino reversusque est in domum suam"
+        },
+        {
+          "number": 29,
+          "text": "quam cum esset ingressus arripuit gladium et cadaver uxoris cum ossibus suis in duodecim partes ac frusta concidens misit in omnes terminos Israhel"
+        },
+        {
+          "number": 30,
+          "text": "quod cum vidissent singuli conclamabant numquam res talis facta est in Israhel ex eo die quo ascenderunt patres nostri de Aegypto usque in praesens tempus ferte sententiam et in commune decernite quid facto opus sit"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "egressi sunt itaque omnes filii Israhel et pariter congregati quasi vir unus de Dan usque Bersabee et terra Galaad ad Dominum in Maspha"
+        },
+        {
+          "number": 2,
+          "text": "omnesque anguli populorum et cunctae tribus Israhel in ecclesiam populi Dei convenerunt quadringenta milia peditum pugnatorum"
+        },
+        {
+          "number": 3,
+          "text": "nec latuit filios Beniamin quod ascendissent filii Israhel in Maspha interrogatusque Levita maritus mulieris interfectae quomodo tantum scelus perpetratum esset"
+        },
+        {
+          "number": 4,
+          "text": "respondit veni in Gabaa Beniamin cum uxore mea illucque deverti"
+        },
+        {
+          "number": 5,
+          "text": "et ecce homines civitatis illius circumdederunt nocte domum in qua manebam volentes me occidere et uxorem meam incredibili libidinis furore vexantes denique mortua est"
+        },
+        {
+          "number": 6,
+          "text": "quam arreptam in frusta concidi misique partes in omnes terminos possessionis vestrae quia numquam tantum nefas et tam grande piaculum factum est in Israhel"
+        },
+        {
+          "number": 7,
+          "text": "adestis omnes filii Israhel decernite quid facere debeatis"
+        },
+        {
+          "number": 8,
+          "text": "stansque omnis populus quasi unius hominis sermone respondit non recedemus in tabernacula nostra nec suam quisquam intrabit domum"
+        },
+        {
+          "number": 9,
+          "text": "sed hoc contra Gabaa in commune faciemus"
+        },
+        {
+          "number": 10,
+          "text": "decem viri eligantur e centum ex omnibus tribubus Israhel et centum de mille et mille de decem milibus ut conportent exercitui cibaria et possimus pugnantes contra Gabaa Beniamin reddere ei pro scelere quod meretur"
+        },
+        {
+          "number": 11,
+          "text": "convenitque universus Israhel ad civitatem quasi unus homo eadem mente unoque consilio"
+        },
+        {
+          "number": 12,
+          "text": "et miserunt nuntios ad omnem tribum Beniamin qui dicerent cur tantum nefas in vobis reppertum est"
+        },
+        {
+          "number": 13,
+          "text": "tradite homines de Gabaa qui hoc flagitium perpetrarunt ut moriantur et auferatur malum de Israhel qui noluerunt fratrum suorum filiorum Israhel audire mandatum"
+        },
+        {
+          "number": 14,
+          "text": "sed ex cunctis urbibus quae suae sortis erant convenerunt in Gabaa ut illis ferrent auxilium et contra universum Israhel populum dimicarent"
+        },
+        {
+          "number": 15,
+          "text": "inventique sunt viginti quinque milia de Beniamin educentium gladium praeter habitatores Gabaa"
+        },
+        {
+          "number": 16,
+          "text": "qui septingenti erant viri fortissimi ita sinistra ut dextra proeliantes et sic fundis ad certum iacientes lapides ut capillum quoque possent percutere et nequaquam in alteram partem ictus lapidis deferretur"
+        },
+        {
+          "number": 17,
+          "text": "virorum quoque Israhel absque filiis Beniamin inventa sunt quadringenta milia educentium gladios et paratorum ad pugnam"
+        },
+        {
+          "number": 18,
+          "text": "qui surgentes venerunt in domum Dei hoc est in Silo consulueruntque eum atque dixerunt quis erit in exercitu nostro princeps certaminis contra filios Beniamin quibus respondit Dominus Iudas sit dux vester"
+        },
+        {
+          "number": 19,
+          "text": "statimque filii Israhel surgentes mane castrametati sunt iuxta Gabaa"
+        },
+        {
+          "number": 20,
+          "text": "et inde procedentes ad pugnam contra Beniamin urbem obpugnare coeperunt"
+        },
+        {
+          "number": 21,
+          "text": "egressique filii Beniamin de Gabaa occiderunt de filiis Israhel die illo viginti duo milia viros"
+        },
+        {
+          "number": 22,
+          "text": "rursum filii Israhel et fortitudine et numero confidentes in eodem loco in quo prius certaverant aciem direxerunt"
+        },
+        {
+          "number": 23,
+          "text": "ita tamen ut prius ascenderent et flerent coram Domino usque ad noctem consulerentque eum et dicerent debeo ultra procedere ad dimicandum contra filios Beniamin fratres meos an non quibus ille respondit ascendite ad eum et inite certamen"
+        },
+        {
+          "number": 24,
+          "text": "cumque filii Israhel altero die contra Beniamin ad proelium processissent"
+        },
+        {
+          "number": 25,
+          "text": "eruperunt filii Beniamin de portis Gabaa et occurrentes eis tanta in illos caede baccati sunt ut decem et octo milia virorum educentium gladium prosternerent"
+        },
+        {
+          "number": 26,
+          "text": "quam ob rem omnes filii Israhel venerunt in domum Dei et sedentes flebant coram Domino ieiunaveruntque illo die usque ad vesperam et obtulerunt ei holocausta et pacificas victimas"
+        },
+        {
+          "number": 27,
+          "text": "et super statu suo interrogaverunt eo tempore ibi erat arca foederis Dei"
+        },
+        {
+          "number": 28,
+          "text": "et Finees filius Eleazari filii Aaron praepositus domus consuluerunt igitur Dominum atque dixerunt exire ultra debemus ad pugnam contra filios Beniamin fratres nostros an quiescere quibus ait Dominus ascendite cras enim tradam eos in manus vestras"
+        },
+        {
+          "number": 29,
+          "text": "posueruntque filii Israhel insidias per circuitum urbis Gabaa"
+        },
+        {
+          "number": 30,
+          "text": "et tertia vice sicut semel et bis contra Beniamin exercitum produxerunt"
+        },
+        {
+          "number": 31,
+          "text": "sed et filii Beniamin audacter eruperunt de civitate et fugientes adversarios longius persecuti sunt ita ut vulnerarent ex eis sicut primo et secundo die et caederent per duas semitas terga vertentes quarum una ferebat in Bethel altera in Gabaa atque prosternerent triginta circiter viros"
+        },
+        {
+          "number": 32,
+          "text": "putaverunt enim solito eos more cedere qui fugam arte simulantes iniere consilium ut abstraherent eos de civitate et quasi fugientes ad supradictas semitas perducerent"
+        },
+        {
+          "number": 33,
+          "text": "omnes itaque filii Israhel surgentes de sedibus suis tetenderunt aciem in loco qui vocatur Baalthamar insidiae quoque quae circa urbem erant paulatim se aperire coeperunt"
+        },
+        {
+          "number": 34,
+          "text": "et ab occidentali urbis parte procedere sed et alia decem milia virorum de universo Israhel habitatores urbis ad certamina provocabant ingravatumque est bellum contra filios Beniamin et non intellexerunt quod ex omni parte illis instaret interitus"
+        },
+        {
+          "number": 35,
+          "text": "percussitque eos Dominus in conspectu filiorum Israhel et interfecerunt ex eis in illo die viginti quinque milia et centum viros omnes bellatores et educentes gladium"
+        },
+        {
+          "number": 36,
+          "text": "filii autem Beniamin cum se inferiores esse vidissent coeperunt fugere quod cernentes filii Israhel dederunt eis ad fugiendum locum ut ad praeparatas insidias devenirent quas iuxta urbem posuerant"
+        },
+        {
+          "number": 37,
+          "text": "qui cum repente de latibulis surrexissent et Beniamin terga caedentibus daret ingressi sunt civitatem et percusserunt eam in ore gladii"
+        },
+        {
+          "number": 38,
+          "text": "signum autem dederant filii Israhel his quos in insidiis conlocaverant ut postquam urbem cepissent ignem accenderent et ascendente in altum fumo captam urbem demonstrarent"
+        },
+        {
+          "number": 39,
+          "text": "quod cum cernerent filii Israhel in ipso certamine positi putaverunt enim filii Beniamin eos fugere et instantius sequebantur caesis de exercitu eorum triginta viris"
+        },
+        {
+          "number": 40,
+          "text": "et viderent quasi columnam fumi de civitate conscendere Beniamin quoque retro aspiciens captam cerneret civitatem et flammas in sublime ferri"
+        },
+        {
+          "number": 41,
+          "text": "qui prius simulaverant fugam versa facie fortius resistebant quod cum vidissent filii Beniamin in fugam versi sunt"
+        },
+        {
+          "number": 42,
+          "text": "et ad viam deserti ire coeperunt illuc quoque eos adversariis persequentibus sed et hii qui urbem succenderant occurrerunt eis"
+        },
+        {
+          "number": 43,
+          "text": "atque ita factum est ut ex utraque parte ab hostibus caederentur nec erat ulla morientium requies ceciderunt atque prostrati sunt ad orientalem plagam urbis Gabaa"
+        },
+        {
+          "number": 44,
+          "text": "fuerunt autem qui in eodem loco interfecti sunt decem et octo milia virorum omnes robustissimi pugnatores"
+        },
+        {
+          "number": 45,
+          "text": "quod cum vidissent qui remanserant de Beniamin fugerunt in solitudinem et pergebant ad petram cuius vocabulum est Remmon in illa quoque fuga palantes et in diversa tendentes occiderunt quinque milia viros et cum ultra tenderent persecuti sunt eos et interfecerunt etiam alios duo milia"
+        },
+        {
+          "number": 46,
+          "text": "et sic factum est ut omnes qui ceciderant de Beniamin in diversis locis essent viginti quinque milia pugnatores ad bella promptissimi"
+        },
+        {
+          "number": 47,
+          "text": "remanserunt itaque de omni numero Beniamin qui evadere potuerant et fugere in solitudinem sescenti viri sederuntque in petra Remmon mensibus quattuor"
+        },
+        {
+          "number": 48,
+          "text": "regressi autem filii Israhel omnes reliquias civitatis a viris usque ad iumenta gladio percusserunt cunctasque urbes et viculos Beniamin vorax flamma consumpsit"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "iuraverunt quoque filii Israhel in Maspha et dixerunt nullus nostrum dabit filiis Beniamin de filiabus suis uxorem"
+        },
+        {
+          "number": 2,
+          "text": "veneruntque omnes ad domum Dei in Silo et in conspectu eius sedentes usque ad vesperam levaverunt vocem et magno ululatu coeperunt flere dicentes"
+        },
+        {
+          "number": 3,
+          "text": "quare Domine Deus Israhel factum est hoc malum in populo tuo ut hodie una tribus auferretur ex nobis"
+        },
+        {
+          "number": 4,
+          "text": "altera autem die diluculo consurgentes extruxerunt altare obtuleruntque ibi holocausta et pacificas victimas et dixerunt"
+        },
+        {
+          "number": 5,
+          "text": "quis non ascendit in exercitu Domini de universis tribubus Israhel grandi enim se iuramento constrinxerant cum essent in Maspha interfici eos qui defuissent"
+        },
+        {
+          "number": 6,
+          "text": "ductique paenitentia filii Israhel super fratre suo Beniamin coeperunt dicere ablata est una tribus de Israhel"
+        },
+        {
+          "number": 7,
+          "text": "unde uxores accipient omnes enim in commune iuravimus non daturos nos his filias nostras"
+        },
+        {
+          "number": 8,
+          "text": "idcirco dixerunt quis est de universis tribubus Israhel qui non ascendit ad Dominum in Maspha et ecce inventi sunt habitatores Iabisgalaad in illo exercitu non fuisse"
+        },
+        {
+          "number": 9,
+          "text": "eo quoque tempore cum essent in Silo nullus ex eis ibi reppertus est"
+        },
+        {
+          "number": 10,
+          "text": "miserunt itaque decem milia viros robustissimos et praeceperunt eis ite et percutite habitatores Iabisgalaad in ore gladii tam uxores quam parvulos eorum"
+        },
+        {
+          "number": 11,
+          "text": "et hoc erit quod observare debetis omne generis masculini et mulieres quae cognoverunt viros interficite"
+        },
+        {
+          "number": 12,
+          "text": "inventaeque sunt de Iabisgalaad quadringentae virgines quae nescierunt viri torum et adduxerunt eas in castra in Silo in terra Chanaan"
+        },
+        {
+          "number": 13,
+          "text": "miseruntque nuntios ad filios Beniamin qui erant in petra Remmon et praeceperunt eis ut eos in pace susciperent"
+        },
+        {
+          "number": 14,
+          "text": "veneruntque filii Beniamin in illo tempore et datae sunt eis uxores de filiabus Iabisgalaad alias autem non reppererunt quas simili modo traderent"
+        },
+        {
+          "number": 15,
+          "text": "universusque Israhel valde doluit et egit paenitudinem super interfectione unius tribus ex Israhel"
+        },
+        {
+          "number": 16,
+          "text": "dixeruntque maiores natu quid faciemus reliquis qui non acceperunt uxores omnes in Beniamin feminae conciderunt"
+        },
+        {
+          "number": 17,
+          "text": "et magna nobis cura ingentique studio providendum est ne una tribus deleatur ex Israhel"
+        },
+        {
+          "number": 18,
+          "text": "filias nostras eis dare non possumus constricti iuramento et maledictione qua diximus maledictus qui dederit de filiabus suis uxorem Beniamin"
+        },
+        {
+          "number": 19,
+          "text": "ceperuntque consilium atque dixerunt ecce sollemnitas Domini est in Silo anniversaria quae sita est ad septentrionem urbis Bethel et ad orientalem plagam viae quae de Bethel tendit ad Sycimam et ad meridiem oppidi Lebona"
+        },
+        {
+          "number": 20,
+          "text": "praeceperuntque filiis Beniamin atque dixerunt ite et latete in vineis"
+        },
+        {
+          "number": 21,
+          "text": "cumque videritis filias Silo ad ducendos choros ex more procedere exite repente de vineis et rapite eas singuli uxores singulas et pergite in terram Beniamin"
+        },
+        {
+          "number": 22,
+          "text": "cumque venerint patres earum ac fratres et adversum vos queri coeperint atque iurgari dicemus eis miseremini eorum non enim rapuerunt eas iure bellantium atque victorum sed rogantibus ut acciperent non dedistis et a vestra parte peccatum est"
+        },
+        {
+          "number": 23,
+          "text": "feceruntque filii Beniamin ut sibi fuerat imperatum et iuxta numerum suum rapuerunt sibi de his quae ducebant choros uxores singulas abieruntque in possessionem suam aedificantes urbes et habitantes in eis"
+        },
+        {
+          "number": 24,
+          "text": "filii quoque Israhel reversi sunt per tribus et familias in tabernacula sua in diebus illis non erat rex in Israhel sed unusquisque quod sibi rectum videbatur hoc faciebat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2801 @@
+{
+  "version": "bg",
+  "book": "Mark",
+  "bookId": 41,
+  "englishName": "Mark",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ten jest początek Ewangielii Jezusa Chrystusa, Syna Bożego."
+        },
+        {
+          "number": 2,
+          "text": "Jako napisano w prorokach: Oto Ja posyłam Anioła mego przed obliczem twojem, który zgotuje drogę twoję przed tobą."
+        },
+        {
+          "number": 3,
+          "text": "Głos wołającego na puszczy: Gotujcie drogę Pańską, proste czyńcie ścieżki jego."
+        },
+        {
+          "number": 4,
+          "text": "Jan chrzcił na puszczy, i kazał chrzest pokuty na odpuszczenie grzechów."
+        },
+        {
+          "number": 5,
+          "text": "I wychodziła do niego wszystka kraina Judzka, i Jeruzalemczycy, a wszyscy byli od niego chrzczeni w rzece Jordanie, wyznawając grzechy swoje."
+        },
+        {
+          "number": 6,
+          "text": "Ale Jan przyodziany był sierścią wielbłądową, a pas skórzany był około biódr jego, a jadał szarańczę i miód leśny."
+        },
+        {
+          "number": 7,
+          "text": "I kazał, mówiąc: Idzie za mną możniejszy niżeli ja, któremum nie jest godzien, schyliwszy się, rozwiązać rzemyka u obuwia jego."
+        },
+        {
+          "number": 8,
+          "text": "Jamci was chrzcił wodą; ale on was będzie chrzcił Duchem Świętym."
+        },
+        {
+          "number": 9,
+          "text": "I stało się w one dni, że przyszedł Jezus z Nazaretu Galilejskiego, a ochrzczony jest od Jana w Jordanie."
+        },
+        {
+          "number": 10,
+          "text": "A zarazem wystąpiwszy z wody, ujrzał rozstępujące się niebiosa, i Ducha jako gołębicę na niego zstępującego."
+        },
+        {
+          "number": 11,
+          "text": "I stał się głos z nieba: Tyś jest on Syn mój miły, w którym mi się upodobało."
+        },
+        {
+          "number": 12,
+          "text": "A zaraz Duch wypędził go na puszczą."
+        },
+        {
+          "number": 13,
+          "text": "I był tam na puszczy przez czterdzieści dni, będąc kuszony od szatana, a był z zwierzęty, a Aniołowie służyli mu."
+        },
+        {
+          "number": 14,
+          "text": "Lecz potem, gdy Jan był podany do więzienia, przyszedł Jezus do Galilei, każąc Ewangieliję królestwa Bożego,"
+        },
+        {
+          "number": 15,
+          "text": "A mówiąc: Wypełnił się czas i przybliżyło się królestwo Boże: Pokutujcie, a wierzcie Ewangielii."
+        },
+        {
+          "number": 16,
+          "text": "A przechodząc się nad morzem Galilejskiem, ujrzał Szymona i Andrzeja, brata jego, zapuszczających sieć w morze; bo byli rybitwi."
+        },
+        {
+          "number": 17,
+          "text": "I rzekł im Jezus: Pójdźcie za mną, a uczynię was rybitwami ludzi."
+        },
+        {
+          "number": 18,
+          "text": "A oni zarazem opuściwszy sieci swoje, poszli za nim."
+        },
+        {
+          "number": 19,
+          "text": "A stamtąd troszeczkę odszedłszy, ujrzał Jakóba, syna Zebedeuszowego, i Jana, brata jego, a oni w łodzi poprawiali sieci."
+        },
+        {
+          "number": 20,
+          "text": "I zaraz ich powołał; a oni zostawiwszy ojca swego Zebedeusza w łodzi z czeladzią, poszli za nim."
+        },
+        {
+          "number": 21,
+          "text": "Potem weszli do Kapernaum; a zaraz w sabat wszedłszy Jezus do bóżnicy, nauczał."
+        },
+        {
+          "number": 22,
+          "text": "I zdumiewali się nad nauką jego; albowiem on ich uczył jako mający moc, a nie jako nauczeni w Piśmie."
+        },
+        {
+          "number": 23,
+          "text": "A był w bóżnicy ich człowiek mający ducha nieczystego, który zawołał,"
+        },
+        {
+          "number": 24,
+          "text": "Mówiąc: Ach! cóż my z tobą mamy, Jezusie Nazareński? Przyszedłeś, abyś nas wytracił. Znam cię, ktoś jest, żeś on święty Boży."
+        },
+        {
+          "number": 25,
+          "text": "I zgromił go Jezus, mówiąc: Umilknij, a wynijdź z niego."
+        },
+        {
+          "number": 26,
+          "text": "Tedy rozdarłszy go duch nieczysty i zawoławszy głosem wielkim, wyszedł z niego."
+        },
+        {
+          "number": 27,
+          "text": "I wylękli się wszyscy, tak iż się pytali między sobą, mówiąc: Cóż to jest? cóż to za nowa nauka, iż mocą i duchom nieczystym rozkazuje, i są mu posłuszni?"
+        },
+        {
+          "number": 28,
+          "text": "I rozeszła się powieść o nim prędko po wszystkiej krainie, leżącej około Galilei."
+        },
+        {
+          "number": 29,
+          "text": "A wyszedłszy zaraz z bóżnicy, przyszli do domu Szymonowego i Andrzejowego z Jakóbem i z Janem."
+        },
+        {
+          "number": 30,
+          "text": "A świekra Szymonowa leżała, mając gorączkę, o której mu wnet powiedzieli."
+        },
+        {
+          "number": 31,
+          "text": "Tedy przystąpiwszy podniósł ją, ująwszy ją za rękę jej; a zaraz ją gorączka opuściła, i posługowała im."
+        },
+        {
+          "number": 32,
+          "text": "A gdy był wieczór i słońce zachodziło, przynosili do niego wszystkie, którzy się źle mieli, i opętane;"
+        },
+        {
+          "number": 33,
+          "text": "A wszystko miasto zgromadziło się do drzwi."
+        },
+        {
+          "number": 34,
+          "text": "I uzdrowił wiele tych, co się źle mieli na rozliczne choroby, i wygnał wiele dyjabłów, a nie dopuścił mówić dyjabłom; bo go znali."
+        },
+        {
+          "number": 35,
+          "text": "A bardzo rano przede dniem wstawszy, wyszedł i odszedł na puste miejsce, a tam się modlił."
+        },
+        {
+          "number": 36,
+          "text": "I poszli za nim Szymon i ci, którzy z nim byli;"
+        },
+        {
+          "number": 37,
+          "text": "A znalazłszy go, rzekli mu: Wszyscy cię szukają."
+        },
+        {
+          "number": 38,
+          "text": "Tedy im on rzekł: Idźmy do przyległych miasteczek, abym i tam kazał; bom na to przyszedł."
+        },
+        {
+          "number": 39,
+          "text": "I kazał w bóżnicach ich po wszystkiej Galilei, i wyganiał dyjabły."
+        },
+        {
+          "number": 40,
+          "text": "Tedy przyszedł do niego trędowaty, prosząc go i upadając przed nim na kolana, i mówiąc mu: Jeźli chcesz, możesz mię oczyścić."
+        },
+        {
+          "number": 41,
+          "text": "A tak Jezus użaliwszy się, wyciągnął rękę, a dotknął się go i rzekł mu: Chcę, bądź oczyszczony!"
+        },
+        {
+          "number": 42,
+          "text": "A gdy to Pan rzekł, zarazem odszedł trąd od niego, i był oczyszczony."
+        },
+        {
+          "number": 43,
+          "text": "A srodze mu przygroziwszy Jezus, zaraz go odprawił;"
+        },
+        {
+          "number": 44,
+          "text": "I rzekł mu: Patrz, abyś nikomu nic nie powiadał, ale idź, a ukaż się kapłanowi, i ofiaruj za oczyszczenie twoje to, co rozkazał Mojżesz, na świadectwo przeciwko nim."
+        },
+        {
+          "number": 45,
+          "text": "Ale on odszedłszy, począł wiele opowiadać i rozsławiać tę rzecz, tak iż już nie mógł Jezus jawnie wnijść do miasta, ale był na ustroniu na miejscach pustych. I schodzili się do niego zewsząd."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A zasię przyszedł po kilku dniach do Kapernaum, i usłyszano, że jest w domu."
+        },
+        {
+          "number": 2,
+          "text": "A wnet zeszło się ich tak wiele, że się zmieścić nie mogli ani przede drzwiami; i opowiadał im słowo Boże."
+        },
+        {
+          "number": 3,
+          "text": "Tedy przyszli do niego niosący powietrzem ruszonego, którego czterej nieśli."
+        },
+        {
+          "number": 4,
+          "text": "A gdy do niego przystąpić nie mogli dla ciżby, odarli dach, gdzie był Jezus, a przełamawszy go, spuścili po powrozach na dół łoże, na którem leżał powietrzem ruszony."
+        },
+        {
+          "number": 5,
+          "text": "A widząc Jezus wiarę ich, rzekł powietrzem ruszonemu: Synu! odpuszczone są tobie grzechy twoje."
+        },
+        {
+          "number": 6,
+          "text": "A byli tam niektórzy z nauczonych w Piśmie, siedząc i myśląc w sercach swoich:"
+        },
+        {
+          "number": 7,
+          "text": "Czemuż ten takie mówi bluźnierstwa? któż może grzechy odpuszczać, tylko sam Bóg?"
+        },
+        {
+          "number": 8,
+          "text": "A zaraz poznawszy Jezus duchem swym, iż tak w sobie myśleli, rzekł im: Czemuż tak myślicie w sercach waszych?"
+        },
+        {
+          "number": 9,
+          "text": "Cóż łatwiejszego jest, rzec powietrzem ruszonemu: Odpuszczone są tobie grzechy, czyli rzec: Wstań i weźmij łoże twoje, a chodź?"
+        },
+        {
+          "number": 10,
+          "text": "Ale żebyście wiedzieli, iż Syn człowieczy ma moc na ziemi grzechy odpuszczać, rzekł powietrzem ruszonemu:"
+        },
+        {
+          "number": 11,
+          "text": "Tobie mówię: Wstań, a weźmij łoże twoje, a idź do domu twego."
+        },
+        {
+          "number": 12,
+          "text": "A on zarazem wstał, i wziąwszy łoże swoje, wyszedł przed wszystkimi, tak iż się wszyscy zdumiewali i chwalili Boga, mówiąc: Nigdyśmy nic takiego nie widzieli."
+        },
+        {
+          "number": 13,
+          "text": "I wyszedł zasię nad morze, a wszystek lud przychodził do niego, i nauczał je."
+        },
+        {
+          "number": 14,
+          "text": "A idąc mimo cła, ujrzał Lewiego, syna Alfeuszowego, siedzącego na cle, i rzekł mu: Pójdź za mną! a on wstawszy szedł za nim."
+        },
+        {
+          "number": 15,
+          "text": "I stało się, gdy Jezus siedział za stołem w domu jego, że wiele celników i grzeszników wespół siedziało z Jezusem i z uczniami jego; bo ich wiele było, i chodzili za nim."
+        },
+        {
+          "number": 16,
+          "text": "A nauczeni w Piśmie i Faryzeuszowie widząc go, że jadł z celnikami i z grzesznikami, mówili do uczniów jego: Cóż jest, iż z celnikami i z grzesznikami je i pije?"
+        },
+        {
+          "number": 17,
+          "text": "A usłyszawszy to Jezus, rzekł im: Nie potrzebują zdrowi lekarza, ale ci, co się źle mają; nie przyszedłem, wzywać sprawiedliwych, ale grzesznych do pokuty."
+        },
+        {
+          "number": 18,
+          "text": "A uczniowie Janowi i Faryzejscy pościli, a przyszedłszy mówili do niego: Czemuż uczniowie Janowi i Faryzejscy poszczą, a twoi uczniowie nie poszczą?"
+        },
+        {
+          "number": 19,
+          "text": "I rzekł im Jezus: Izali mogą synowie łożnicy małżeńskiej pościć, póki z nimi jest oblubieniec? Póki z sobą oblubieńca mają, nie mogą pościć."
+        },
+        {
+          "number": 20,
+          "text": "Ale przyjdą dni, gdy od nich odjęty będzie oblubieniec, a tedy będą pościć w one dni."
+        },
+        {
+          "number": 21,
+          "text": "A żaden nie wprawuje łaty sukna nowego w szatę wiotchą, inaczej ona jego łata nowa ujmuje nieco od wiotchej szaty, i stawa się gorsze rozdarcie."
+        },
+        {
+          "number": 22,
+          "text": "I żaden nie leje wina młodego w stare statki; bo inaczej wino młode rozsadza statki, i wycieka wino, a statki się psują; ale wino nowe ma być wlewane w statki nowe."
+        },
+        {
+          "number": 23,
+          "text": "I stało się, że szedł Jezus w sabat przez zboża, i poczęli uczniowie jego idąc rwać kłosy."
+        },
+        {
+          "number": 24,
+          "text": "Ale Faryzeuszowie mówili do niego: Oto czemu ci czynią w sabat, czego się nie godzi czynić?"
+        },
+        {
+          "number": 25,
+          "text": "A on im rzekł: Nigdyście nie czytali, co uczynił Dawid, gdy niedostatek cierpiał, a łaknął, sam i ci, którzy z nim byli?"
+        },
+        {
+          "number": 26,
+          "text": "Jako wszedł do domu Bożego za Abijatara, kapłana najwyższego, i jadł chleby pokładne, (których się nie godziło jeść, tylko kapłanom), a dał i tym, którzy z nim byli."
+        },
+        {
+          "number": 27,
+          "text": "Dotego rzekł im: Sabat dla człowieka uczyniony, a nie człowiek dla sabatu."
+        },
+        {
+          "number": 28,
+          "text": "Dlatego Syn człowieczy jest Panem i sabatu."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Wszedł zasię do bóżnicy, a był tam człowiek, który miał rękę uschłą."
+        },
+        {
+          "number": 2,
+          "text": "I podstrzegali go, jeźliby go w sabat uzdrowił, aby go oskarżyli."
+        },
+        {
+          "number": 3,
+          "text": "I rzekł onemu człowiekowi, który miał rękę uschłą: Wystąp w pośrodek."
+        },
+        {
+          "number": 4,
+          "text": "I rzekł do nich: Godzili się w sabat dobrze czynić, czyli źle czynić? człowieka zachować, czyli zabić? a oni milczeli."
+        },
+        {
+          "number": 5,
+          "text": "Tedy spojrzawszy po nich z gniewem i zasmuciwszy się nad zatwardzeniem serca ich, rzekł onemu człowiekowi: Wyciągnij rękę twoję! i wyciągnął; i przywrócona jest ręka jego do zdrowia jako i druga."
+        },
+        {
+          "number": 6,
+          "text": "Tedy wyszedłszy Faryzeuszowie, uczynili wnet radę z Herodyjany przeciwko niemu, jakoby go stracili."
+        },
+        {
+          "number": 7,
+          "text": "Ale Jezus z uczniami swymi ustąpił nad morze, a wielkie mnóstwo szło za nim z Galilei i z ziemi Judzkiej,"
+        },
+        {
+          "number": 8,
+          "text": "I z Jeruzalemu, i z Idumei, i zza Jordanu, i z tych, którzy mieszkali około Tyru i Sydonu, wielkie mnóstwo, słysząc, jak wielkie rzeczy czynił, przyszli do niego."
+        },
+        {
+          "number": 9,
+          "text": "I rozkazał uczniom swoim, aby łódkę mieli zawsze w pogotowiu, dla ludu, aby go nie cisnęli."
+        },
+        {
+          "number": 10,
+          "text": "Albowiem ich wiele uzdrawiał, tak iż nań padali, aby się go dotykali, którzykolwiek choroby mieli."
+        },
+        {
+          "number": 11,
+          "text": "A duchowie nieczyści, gdy go ujrzeli, upadali przed nim i wołali, mówiąc: Ty jesteś Syn Boży!"
+        },
+        {
+          "number": 12,
+          "text": "Ale ich on srodze gromił, żeby go nie objawiali."
+        },
+        {
+          "number": 13,
+          "text": "I wstąpił na górę, a wezwał do siebie tych, których sam chciał, i przyszli do niego."
+        },
+        {
+          "number": 14,
+          "text": "I postanowił ich dwanaście , aby z nim byli, a iżby je wysłał kazać Ewangieliję:"
+        },
+        {
+          "number": 15,
+          "text": "I żeby mieli moc uzdrawiać choroby i wyganiać dyjabły:"
+        },
+        {
+          "number": 16,
+          "text": "Szymona, któremu imię dał Piotr;"
+        },
+        {
+          "number": 17,
+          "text": "I Jakóba, syna Zebedeuszowego, i Jana, brata Jakóbowego, (którym dał imię Boanerges, to jest: synowie gromu);"
+        },
+        {
+          "number": 18,
+          "text": "I Andrzeja, i Filipa, i Bartłomieja, i Mateusza, i Tomasza, i Jakóba, syna Alfeuszowego, i Tadeusza, i Szymona Kananejczyka;"
+        },
+        {
+          "number": 19,
+          "text": "I Judasza Iszkaryjota, który go też wydał."
+        },
+        {
+          "number": 20,
+          "text": "I przyszli do domu. I zgromadził się znowu lud, tak iż nie mogli ani chleba jeść."
+        },
+        {
+          "number": 21,
+          "text": "A gdy o tem usłyszeli jego powinni, przyszli, aby go pojmali; bo mówili, że odszedł od rozumu."
+        },
+        {
+          "number": 22,
+          "text": "A nauczeni w Piśmie, którzy byli przyszli z Jeruzalemu, mówili: Iż ma Beelzebuba, a iż przez książęcia dyjabelskiego wygania dyjabły."
+        },
+        {
+          "number": 23,
+          "text": "I wezwawszy ich, mówił do nich w podobieństwach: Jakoż może szatan szatana wyganiać?"
+        },
+        {
+          "number": 24,
+          "text": "A jeźliże królestwo samo w sobie będzie rozdzielone, nie może się ostać ono królestwo."
+        },
+        {
+          "number": 25,
+          "text": "I dom, jeźliby sam przeciwko sobie był rozdzielony, nie będzie się mógł ostać on dom."
+        },
+        {
+          "number": 26,
+          "text": "Takci, jeźli szatan powstał sam przeciwko sobie i jest rozdzielony, nie może się ostać, ale koniec bierze."
+        },
+        {
+          "number": 27,
+          "text": "Nikt nie może sprzętu mocarzowego, wszedłszy do domu jego, rozchwycić, jeźliby pierwej mocarza onego nie związał; a potem dom jego splądruje."
+        },
+        {
+          "number": 28,
+          "text": "Zaprawdę powiadam wam, że wszystkie grzechy synom ludzkim będą odpuszczone, i bluźnierstwa, któremibykolwiek bluźnili;"
+        },
+        {
+          "number": 29,
+          "text": "Ale kto bluźni przeciwko Duchowi Świętemu, nie ma odpuszczenia na wieki, ale winien jest sądu wiecznego."
+        },
+        {
+          "number": 30,
+          "text": "Bo mówili: Ma ducha nieczystego."
+        },
+        {
+          "number": 31,
+          "text": "Przyszli tedy bracia i matka jego, a stojąc przed domem, posłali do niego, i kazali go zawołać."
+        },
+        {
+          "number": 32,
+          "text": "A lud siedział około niego, i rzekli mu: Oto matka twoja i bracia twoi szukają cię przed domem."
+        },
+        {
+          "number": 33,
+          "text": "Ale im on odpowiedział, mówiąc: Któż jest matka moja, i bracia moi?"
+        },
+        {
+          "number": 34,
+          "text": "A spojrzawszy wokoło po tych, którzy koło niego siedzieli, rzekł: Oto matka moja, i bracia moi!"
+        },
+        {
+          "number": 35,
+          "text": "Albowiem ktobykolwiek czynił wolę Bożą, ten jest brat mój, i siostra moja, i matka moja."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I począł zasię uczyć przy morzu; i zgromadził się do niego lud wielki, tak iż wstąpiwszy w łódź, siedział na morzu, a wszystek lud był przy morzu na ziemi."
+        },
+        {
+          "number": 2,
+          "text": "I nauczał ich wiele rzeczy w podobieństwach, a mówił do nich w nauce swojej: Słuchajcie!"
+        },
+        {
+          "number": 3,
+          "text": "Oto wyszedł rozsiewca, aby rozsiewał."
+        },
+        {
+          "number": 4,
+          "text": "I stało się, gdy rozsiewał, że jedno padło podle drogi, a ptaki niebieskie przyleciały i podziobały je."
+        },
+        {
+          "number": 5,
+          "text": "Drugie zasię padło na miejsce opoczyste, gdzie nie miało wiele ziemi; i prędko weszło, przeto iż nie miało głębokości ziemi;"
+        },
+        {
+          "number": 6,
+          "text": "A gdy słońce weszło, wygorzało, a iż korzenia nie miało, uschło."
+        },
+        {
+          "number": 7,
+          "text": "A drugie padło między ciernie; i wzrosły ciernie i zadusiły je, i nie wydało pożytku."
+        },
+        {
+          "number": 8,
+          "text": "Drugie zasię padło na ziemię dobrą, i wydało pożytek bujno wschodzący i rosnący; i przyniosło jedno trzydziesiątny, a drugie sześćdziesiątny, a drugie setny."
+        },
+        {
+          "number": 9,
+          "text": "I mówił im: Kto ma uszy ku słuchaniu, niechaj słucha."
+        },
+        {
+          "number": 10,
+          "text": "A gdy sam tylko był, pytali go ci, co przy nim byli ze dwunastoma, o to podobieństwo."
+        },
+        {
+          "number": 11,
+          "text": "A on im odpowiedział: Wam dano wiedzieć tajemnicę królestwa Bożego; ale tym, którzy są obcymi, wszystko się podawa w podobieństwach;"
+        },
+        {
+          "number": 12,
+          "text": "Aby patrząc patrzeli, ale nie widzieli, i słysząc słyszeli, ale nie zrozumieli, by się snać nie nawrócili, a byłyby im grzechy odpuszczone."
+        },
+        {
+          "number": 13,
+          "text": "Zatem rzekł do nich: Nie rozumiecie tego podobieństwa? A jakoż zrozumiecie wszystkie inne podobieństwa?"
+        },
+        {
+          "number": 14,
+          "text": "Rozsiewca on rozsiewa słowo."
+        },
+        {
+          "number": 15,
+          "text": "A którzy podle drogi, ci są, którym się rozsiewa słowo; ale gdy usłyszeli, zaraz przychodzi szatan, a wybiera słowo wsiane w serca ich."
+        },
+        {
+          "number": 16,
+          "text": "Także i ci, którzy na opoczystych miejscach posiani są, ci są, którzy, gdy usłyszeli słowo, zaraz je z radością przyjmują;"
+        },
+        {
+          "number": 17,
+          "text": "Wszakże nie mają korzenia w sobie, ale są doczesnymi; potem, gdy przychodzi ucisk albo prześladowanie dla słowa, wnet się gorszą;"
+        },
+        {
+          "number": 18,
+          "text": "A którzy między cierniem są posiani, ci są, którzy słuchają słowa;"
+        },
+        {
+          "number": 19,
+          "text": "Ale pieczołowanie świata tego i omamienie bogactw, i pożądliwości innych rzeczy, wszedłszy zaduszają słowo, i staje się bez pożytku."
+        },
+        {
+          "number": 20,
+          "text": "A którzy na dobrą ziemię przyjęli nasienie, ci są, co słuchają słowa, i przyjmują je, przynoszą pożytek, jedno trzydziesiątny, a drugie sześćdziesiątny, a drugie setny."
+        },
+        {
+          "number": 21,
+          "text": "Nadto mówił im: Izali przynoszą świecę, aby wstawiona była pod korzec albo pod łoże? izali nie dlatego, aby ją na świecznik wstawiono?"
+        },
+        {
+          "number": 22,
+          "text": "Bo nic nie masz tajemnego, co by nie miało być objawiono; ani się stało co skrytego, aby na jaw nie wyszło."
+        },
+        {
+          "number": 23,
+          "text": "Jeźli kto ma uszy ku słuchaniu, niechaj słucha!"
+        },
+        {
+          "number": 24,
+          "text": "I rzekł do nich: Patrzcież, czego słuchacie; jaką miarą mierzycie, taką wam będzie odmierzono, a będzie wam przydano, którzy słuchacie."
+        },
+        {
+          "number": 25,
+          "text": "Albowiem kto ma, będzie mu dano; a kto nie ma, i to, co ma, będzie od niego odjęto."
+        },
+        {
+          "number": 26,
+          "text": "I mówił: Takie jest królestwo Boże, jako gdyby człowiek wrzucił nasienie w ziemię;"
+        },
+        {
+          "number": 27,
+          "text": "A spałby i wstawałby we dnie i w nocy, a nasienie by weszło i urosło, gdy on nie wie."
+        },
+        {
+          "number": 28,
+          "text": "Boć ziemia sama z siebie pożytek wydawa, naprzód trawę, potem kłos, a potem zupełne zboże w kłosie."
+        },
+        {
+          "number": 29,
+          "text": "A skoro się okaże urodzaj, wnet gospodarz zapuszcza sierp; bo żniwo przyszło."
+        },
+        {
+          "number": 30,
+          "text": "Nad to rzekł: Do czego przypodobamy królestwo Boże, albo którem je podobieństwem wyrazimy?"
+        },
+        {
+          "number": 31,
+          "text": "Jest jako ziarno gorczyczne; które, gdy wsiane bywa w ziemię, najmniejsze jest ze wszystkich nasion, które są na ziemi."
+        },
+        {
+          "number": 32,
+          "text": "Ale gdy bywa wsiane, wzrasta, i bywa największe nad wszystkie jarzyny, i rozpuszcza gałęzie wielkie, tak iż pod cieniem jego mogą sobie czynić gniazda ptaki niebieskie."
+        },
+        {
+          "number": 33,
+          "text": "I przez wiele takich podobieństw mówił do nich słowo, tak jako słuchać mogli."
+        },
+        {
+          "number": 34,
+          "text": "A bez podobieństwa nie mówił do nich; wszakże uczniom swym wszystko z osobna wykładał."
+        },
+        {
+          "number": 35,
+          "text": "I rzekł do nich w tenże dzień, gdy już był wieczór: Przeprawmy się na drugą stronę."
+        },
+        {
+          "number": 36,
+          "text": "A rozpuściwszy lud, wzięli go z sobą, tak jako był w łodzi; ale i inne łódki były przy nim."
+        },
+        {
+          "number": 37,
+          "text": "Tedy powstała wielka nawałność wiatru, a wały biły na łódź, tak że się już napełniała."
+        },
+        {
+          "number": 38,
+          "text": "A on na zadzie łodzi spał na wezgłówku; i obudzili go i mówili mu: Nauczycielu! nie dbasz, że giniemy?"
+        },
+        {
+          "number": 39,
+          "text": "A tak ocknąwszy się, zgromił wiatr, i rzekł morzu: Umilknij, a uśmierz się. I przestał wiatr, a stało się wielkie uciszenie."
+        },
+        {
+          "number": 40,
+          "text": "Zatem rzekł im: Przecz jesteście tak bojaźliwi? Jakoż nie macie wiary?"
+        },
+        {
+          "number": 41,
+          "text": "I bali się bojaźnią wielką, i mówili jedni do drugich: Któż wżdy ten jest, że mu i wiatr i morze są posłuszne?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy się przeprawili za morze do krainy Gadareńczyków."
+        },
+        {
+          "number": 2,
+          "text": "A gdy on wyszedł z łodzi, zaraz mu zabieżał z grobów człowiek mający ducha nieczystego;"
+        },
+        {
+          "number": 3,
+          "text": "Który miał mieszkanie w grobach, a nie mógł go nikt i łańcuchami związać,"
+        },
+        {
+          "number": 4,
+          "text": "Przeto że on często będąc pętami i łańcuchami związany, łańcuchy porwał, i pęta pokruszył; a nie mógł go nikt ukrócić."
+        },
+        {
+          "number": 5,
+          "text": "A zawsze we dnie i w nocy na górach w grobach był, wołając i kamieniem się tłukąc."
+        },
+        {
+          "number": 6,
+          "text": "Ujrzawszy tedy Jezusa z daleka, bieżał i pokłonił mu się;"
+        },
+        {
+          "number": 7,
+          "text": "A wołając głosem wielkim, rzekł: Cóż mam z tobą Jezusie, Synu Boga najwyższego? Poprzysięgam cię przez Boga, abyś mię nie trapił."
+        },
+        {
+          "number": 8,
+          "text": "(Albowiem mu mówił: Wynijdź, duchu nieczysty! z tego człowieka.)"
+        },
+        {
+          "number": 9,
+          "text": "Tedy go pytał: Co masz za imię? A on odpowiadając, rzekł: Imię moje jest wojsko: albowiem nas jest wiele."
+        },
+        {
+          "number": 10,
+          "text": "I prosił go bardzo, aby ich nie wyganiał z onej krainy."
+        },
+        {
+          "number": 11,
+          "text": "A była tam przy górach wielka trzoda świni, która się pasła."
+        },
+        {
+          "number": 12,
+          "text": "I prosili go oni wszyscy dyjabli, mówiąc: Puść nas w te świnie, abyśmy w nie weszli."
+        },
+        {
+          "number": 13,
+          "text": "I pozwolił im zaraz Jezus. A wyszedłszy oni duchowie nieczyści, weszli w one świnie; i porwała się ona trzoda z przykra w morze (a było ich około dwóch tysięcy,) i potonęły w morzu."
+        },
+        {
+          "number": 14,
+          "text": "A oni, którzy świnie paśli, uciekli, i oznajmili to w mieście i we wsiach; i wyszli, aby oglądali to, co się stało."
+        },
+        {
+          "number": 15,
+          "text": "I przyszli do Jezusa, i ujrzeli onego, który był opętany, i siedział obleczony, będąc przy dobrem baczeniu; onego, mówię, w którym było wojsko dyjabłów; i bali się."
+        },
+        {
+          "number": 16,
+          "text": "A ci, którzy to widzieli, opowiedzieli im, co się działo z onym opętanym, i o świniach."
+        },
+        {
+          "number": 17,
+          "text": "Tedy go poczęli prosić, aby odszedł z granic ich."
+        },
+        {
+          "number": 18,
+          "text": "A gdy wstąpił w łódź, prosił go on, co był opętanym, aby był przy nim."
+        },
+        {
+          "number": 19,
+          "text": "Lecz mu Jezus nie dopuścił, ale mu rzekł: Idź do domu swego, do swoich, a oznajmij im, jakoć wielkie rzeczy Pan uczynił, a jako się nad tobą zmiłował."
+        },
+        {
+          "number": 20,
+          "text": "Tedy odszedł, i począł opowiadać w dziesięciu miastach, jako mu wielkie rzeczy uczynił Jezus; i dziwowali się wszyscy."
+        },
+        {
+          "number": 21,
+          "text": "A gdy się zasię Jezus przeprawił w łodzi na drugą stronę, zebrał się do niego wielki lud; a on był nad morzem."
+        },
+        {
+          "number": 22,
+          "text": "A oto przyszedł jeden z przełożonych bóżnicy, imieniem Jairus, a ujrzawszy go, przypadł do nóg jego."
+        },
+        {
+          "number": 23,
+          "text": "I prosił go wielce, mówiąc: Ponieważ córeczka moja kona, pójdźże, włóż na nię ręce, aby była uzdrowiona, i będzie żywa. I poszedł z nim."
+        },
+        {
+          "number": 24,
+          "text": "I szedł za nim lud wielki, i cisnęli go."
+        },
+        {
+          "number": 25,
+          "text": "Tedy niektóra niewiasta, która cierpiała płynienie krwi ode dwunastu lat."
+        },
+        {
+          "number": 26,
+          "text": "I wiele ucierpiała od wielu lekarzy, i wynałożyła wszystko, co miała; a nic jej nie pomogło, owszem się jej tem więcej pogorszało:"
+        },
+        {
+          "number": 27,
+          "text": "Usłyszawszy o Jezusie, przyszła z tyłu między ludem, i dotknęła się szaty jego;"
+        },
+        {
+          "number": 28,
+          "text": "Bo mówiła: Jeźli się tylko dotknę szaty jego, będę uzdrowiona."
+        },
+        {
+          "number": 29,
+          "text": "A zarazem wyschło źródło krwi jej, i poczuła na ciele, że uzdrowiona była od choroby swojej."
+        },
+        {
+          "number": 30,
+          "text": "A wnet poznawszy Jezus sam w sobie, że z niego moc wyszła, obrócił się do ludu i rzekł: Kto się dotknął szat moich?"
+        },
+        {
+          "number": 31,
+          "text": "I rzekli mu uczniowie jego: Widzisz, że cię ten lud ciśnie, a mówisz: Kto się mnie dotknął?"
+        },
+        {
+          "number": 32,
+          "text": "I spojrzał w koło, aby ujrzał tę, która to uczyniła:"
+        },
+        {
+          "number": 33,
+          "text": "Ale niewiasta ona z bojaźnią i ze drżeniem, wiedząc, co się przy niej stało, przystąpiła i upadła przed nim, a powiedziała mu wszystkę prawdę."
+        },
+        {
+          "number": 34,
+          "text": "Zatem jej on rzekł: Córko! wiara twoja ciebie uzdrowiła, idźże w pokoju, a bądź zdrowa od choroby twojej."
+        },
+        {
+          "number": 35,
+          "text": "A gdy on jeszcze mówił, przyszli słudzy od przełożonego bóżnicy, mówiąc: Córka twoja umarła, czemuż jeszcze trudzisz nauczyciela?"
+        },
+        {
+          "number": 36,
+          "text": "Ale Jezus skoro usłyszał to, co oni mówili, rzekł do przełożonego bóżnicy: Nie bój się, tylko wierz!"
+        },
+        {
+          "number": 37,
+          "text": "I nie dopuścił nikomu iść za sobą, tylko Piotrowi, i Jakóbowi, i Janowi, bratu Jakóbowemu."
+        },
+        {
+          "number": 38,
+          "text": "A przyszedł do domu przełożonego bóżnicy, i ujrzał tam zgiełk, i płaczące i bardzo narzekające."
+        },
+        {
+          "number": 39,
+          "text": "Wszedłszy tedy, rzekł im: Przecz zgiełk czynicie i płaczecie? nie umarłać dzieweczka, ale śpi."
+        },
+        {
+          "number": 40,
+          "text": "I naśmiewali się z niego. Ale on wygnawszy wszystkie, wziął z sobą ojca i matkę dzieweczki, i te, którzy przy nim byli, i wszedł tam, gdzie dzieweczka leżała."
+        },
+        {
+          "number": 41,
+          "text": "A ująwszy za rękę onę dzieweczkę, rzekł do niej: Talita kumi! co się wykłada: Dzieweczko (tobie mówię) wstań!"
+        },
+        {
+          "number": 42,
+          "text": "A zaraz dzieweczka wstała, i chodziła; albowiem była w dwunastym roku. I zdumieli się zdumieniem wielkiem."
+        },
+        {
+          "number": 43,
+          "text": "Tedy im przykazał wielce, aby tego nikt nie wiedział, i rozkazał, aby jej dano jeść."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wyszedłszy stamtąd przyszedł do ojczyzny swojej, i szli za nim uczniowie jego."
+        },
+        {
+          "number": 2,
+          "text": "A gdy przyszedł sabat, począł uczyć w bóżnicy, a wiele ich słuchając, zdumiewali się i mówili: Skądże temu to wszystko? a co to za mądrość, która mu jest dana, że się i takie mocy dzieją przez ręce jego?"
+        },
+        {
+          "number": 3,
+          "text": "Izali ten nie jest cieśla, syn Maryi, i brat Jakóba, i Jozesa, i Judasa, i Szymona? Azaż tu nie masz i sióstr jego u nas? I gorszyli się z niego."
+        },
+        {
+          "number": 4,
+          "text": "Ale Jezus rzekł do nich: Nie jestci prorok beze czci, chyba w ojczyźnie swojej, a między pokrewnymi, i w domu swoim."
+        },
+        {
+          "number": 5,
+          "text": "I nie mógł tam uczynić żadnego cudu, oprócz iż niektóre chore, wkładając na nie ręce, uzdrowił."
+        },
+        {
+          "number": 6,
+          "text": "A dziwował się niedowiarstwu ich, i obchodził okoliczne miasteczka, nauczając."
+        },
+        {
+          "number": 7,
+          "text": "Tedy zwoławszy do siebie onych dwunastu, począł je po dwóch rozsyłać, i dał im moc nad duchami nieczystymi."
+        },
+        {
+          "number": 8,
+          "text": "I rozkazał im, aby nic nie brali na drogę, jedno tylko laskę: ani taistry, ani chleba, ani w trzos pieniędzy;"
+        },
+        {
+          "number": 9,
+          "text": "Ale żeby się obuli w trzewiki, a nie obłoczyli dwóch sukien."
+        },
+        {
+          "number": 10,
+          "text": "Zatem mówił do nich: Gdziekolwiek wnijdziecie w dom, tam zostańcie, póki byście stamtąd nie wyszli."
+        },
+        {
+          "number": 11,
+          "text": "A którzykolwiek by was nie przyjęli, ani was słuchali, wyszedłszy stamtąd, otrząśnijcie proch z nóg waszych na świadectwo im; zaprawdę powiadam wam: Lżej będzie Sodomie i Gomorze w dzień sądny, niż miastu onemu."
+        },
+        {
+          "number": 12,
+          "text": "Tedy wyszedłszy kazali, aby ludzie pokutowali."
+        },
+        {
+          "number": 13,
+          "text": "I wyganiali wiele dyjabłów, i wiele chorych olejkiem mazali i uzdrawiali je."
+        },
+        {
+          "number": 14,
+          "text": "A usłyszał o tem król Herod, (bo się imię jego stało rozsławione,) i rzekł: Jan Chrzciciel zmartwychwstał, dlatego się cuda dzieją przez niego."
+        },
+        {
+          "number": 15,
+          "text": "A drudzy mówili: Elijasz to jest; drudzy zaś mówili: Prorok to jest, albo jako jeden z onych proroków."
+        },
+        {
+          "number": 16,
+          "text": "Co usłyszawszy Herod, rzekł: Ten jest Jan, któregom ja ściął, on zmartwychwstał."
+        },
+        {
+          "number": 17,
+          "text": "Albowiem tenże Herod posławszy pojmał Jana, i wsadził go do więzienia dla Herodyjady, żony Filipa, brata swego, iż ją był pojął za żonę."
+        },
+        {
+          "number": 18,
+          "text": "Bo Jan mówił Herodowi: Nie godzi się mieć żony brata twego."
+        },
+        {
+          "number": 19,
+          "text": "A Herodyjas czyhała nań, i chciała go zabić, ale nie mogła;"
+        },
+        {
+          "number": 20,
+          "text": "Albowiem Herod obawiał się Jana, wiedząc, iż był mężem sprawiedliwym i świętym; i oglądał się nań, i słuchając go, wiele czynił i rad go słuchał."
+        },
+        {
+          "number": 21,
+          "text": "A gdy przyszedł dzień sposobny, którego Herod, obchodząc pamiątkę narodzenia swego, wieczerzą sprawił na książęta swoje i na hetmany i na przedniejsze z Galilei;"
+        },
+        {
+          "number": 22,
+          "text": "A gdy weszła córka onej Herodyjady i tańcowała, i podobała się Herodowi i spółsiedzącym, rzekł król do dzieweczki: Proś mię o co chcesz, a dam ci."
+        },
+        {
+          "number": 23,
+          "text": "I przysiągł jej: O cokolwiek byś mię prosiła, dam ci, aż do połowy królestwa mego."
+        },
+        {
+          "number": 24,
+          "text": "Ona tedy wyszedłszy, rzekła matce swojej: O co mam prosić? A ona rzekła: O głowę Jana Chrzciciela."
+        },
+        {
+          "number": 25,
+          "text": "A tak ona zaraz wszedłszy prędko do króla, prosiła mówiąc: Chcę, abyś mi teraz dał na misie głowę Jana Chrzciciela."
+        },
+        {
+          "number": 26,
+          "text": "I zasmucił się król bardzo, wszakże dla przysięgi i dla spółsiedzących nie chciał jej odmówić."
+        },
+        {
+          "number": 27,
+          "text": "A zarazem posławszy król kata, rozkazał przynieść głowę jego."
+        },
+        {
+          "number": 28,
+          "text": "A on poszedłszy ściął go w więzieniu, i przyniósł głowę jego na misie, a dał ją dzieweczce, a dzieweczka dała ją matce swojej."
+        },
+        {
+          "number": 29,
+          "text": "Co gdy usłyszeli uczniowie jego, przyszli i wzięli ciało jego, i położyli je w grobie."
+        },
+        {
+          "number": 30,
+          "text": "A Apostołowie zszedłszy się do Jezusa, opowiedzieli mu wszystko, i co czynili, i czego uczyli."
+        },
+        {
+          "number": 31,
+          "text": "I rzekł im: Pójdźcie wy sami osobno na miejsce puste, a odpocznijcie trochę; bo ich wiele było, co przychodzili, i odchodzili, tak iż nie mieli wolnego czasu, żeby jedli."
+        },
+        {
+          "number": 32,
+          "text": "I odjechali w łodzi na miejsce puste osobno."
+        },
+        {
+          "number": 33,
+          "text": "A widząc je lud, że odjeżdżali, poznało go wiele ich, i zbieżeli się tam pieszo ze wszystkich miast, i poprzedzili je, i zgromadzili się do niego."
+        },
+        {
+          "number": 34,
+          "text": "A wyszedłszy Jezus ujrzał wielki lud, i użalił się ich, iż byli jako owce nie mające pasterza, i począł ich nauczać wiele rzeczy."
+        },
+        {
+          "number": 35,
+          "text": "A gdy już czas mijał, przystąpiwszy do niego uczniowie jego, rzekli: To miejsce jest puste, a już czas mija."
+        },
+        {
+          "number": 36,
+          "text": "Rozpuść je, aby poszedłszy do okolicznych wsi i miasteczek, nakupili sobie chleba; bo nie mają, coby jedli."
+        },
+        {
+          "number": 37,
+          "text": "A on odpowiadając, rzekł im: Dajcie wy im jeść. I rzekli mu: Szedłszy kupimy za dwieście groszy chleba, a damy im jeść?"
+        },
+        {
+          "number": 38,
+          "text": "A on im rzekł: Wieleż chleba macie? Idźcie, a dowiedzcie się. A oni dowiedziawszy się, powiedzieli: Pięcioro, i dwie ryby."
+        },
+        {
+          "number": 39,
+          "text": "Tedy im kazał wszystkie gromadami posadzić na zielonej trawie."
+        },
+        {
+          "number": 40,
+          "text": "I usiedli rząd podle rządu, tu po stu, tu zaś po pięćdziesiąt."
+        },
+        {
+          "number": 41,
+          "text": "A wziąwszy one pięć chlebów, i one dwie ryby, wejrzawszy w niebo, błogosławił. I połamał one chleby i dawał uczniom swoim, aby kładli przed nie; i one dwie ryby rozdzielił między wszystkie."
+        },
+        {
+          "number": 42,
+          "text": "I jedli wszyscy, i nasyceni byli."
+        },
+        {
+          "number": 43,
+          "text": "I zebrali ułomków, dwanaście koszów pełnych, i z onych ryb."
+        },
+        {
+          "number": 44,
+          "text": "A było tych, którzy jedli chleby, około pięciu tysięcy mężów."
+        },
+        {
+          "number": 45,
+          "text": "I wnet przymusił ucznie swoje, aby wstąpili w łódź, i uprzedzili go na drugą stronę ku Betsaidzie, ażby on rozpuścił lud."
+        },
+        {
+          "number": 46,
+          "text": "A odprawiwszy je, odszedł na górę, aby się modlił."
+        },
+        {
+          "number": 47,
+          "text": "A gdy był wieczór, była łódź w pośród morza, a on sam był na ziemi."
+        },
+        {
+          "number": 48,
+          "text": "I widział, że się spracowali, wiosłami robiąc; (bo wiatr mieli przeciwny,) a tak około czwartej straży nocnej przyszedł do nich, chodząc po morzu, i chciał je wyminąć."
+        },
+        {
+          "number": 49,
+          "text": "Ale oni ujrzawszy go chodzącego po morzu, mniemali, żeby była obłuda, i krzyknęli:"
+        },
+        {
+          "number": 50,
+          "text": "(Bo go wszyscy widzieli, i wylękli się.) Ale zaraz przemówił do nich, i rzekł im: Ufajcie, jam jest; nie bójcie się!"
+        },
+        {
+          "number": 51,
+          "text": "I wstąpił do nich w łódź, i uciszył się wiatr; a oni się sami w sobie nader zdumiewali i dziwowali."
+        },
+        {
+          "number": 52,
+          "text": "Bo nie zrozumieli z strony chlebów, gdyż serce ich było zdrętwiało."
+        },
+        {
+          "number": 53,
+          "text": "A przeprawiwszy się przyszli do ziemi Gienezaret i przybili się do brzegu."
+        },
+        {
+          "number": 54,
+          "text": "A gdy wyszli z łodzi, zaraz ci, co go poznali,"
+        },
+        {
+          "number": 55,
+          "text": "Obieżawszy wszystkę onę okoliczną krainę, poczęli nosić na łożach tych, którzy się źle mieli, gdziekolwiek usłyszeli o nim, że tam jest."
+        },
+        {
+          "number": 56,
+          "text": "A gdziekolwiek on wszedł do miasteczek, albo do miast, albo do wsi, kładli niemocne po ulicach, i prosili go, aby się tylko dotykali podołka szaty jego; a ile się go ich dotknęli, byli uzdrowieni."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy się zgromadzili do niego Faryzeuszowie, i niektórzy z nauczonych w Piśmie, którzy byli przyszli z Jeruzalemu;"
+        },
+        {
+          "number": 2,
+          "text": "A ujrzawszy niektóre z uczniów jego, że pospolitemi rękoma, (to jest, nieumytemi) jedli chleb, ganili to."
+        },
+        {
+          "number": 3,
+          "text": "Albowiem Faryzeuszowie i wszyscy Żydzi nie jedzą, jeźliby pilnie rąk nie umyli, trzymając ustawę starszych."
+        },
+        {
+          "number": 4,
+          "text": "I z rynku przyszedłszy, jeźliby się nie umyli, nie jedzą; i innych rzeczy wiele jest, które przyjęli ku trzymaniu, jako umywanie kubków, konewek, i miednic, i stołów."
+        },
+        {
+          "number": 5,
+          "text": "Potem go pytali Faryzeuszowie i nauczeni w Piśmie: Przecz uczniowie twoi nie chodzą według podania starszych, ale nieumytemi rękoma chleb jedzą?"
+        },
+        {
+          "number": 6,
+          "text": "Tedy on odpowiadając, rzekł im: Dobrze Izajasz o was obłudnikach prorokował, jako napisano: Lud ten czci mię wargami, ale serce ich daleko jest ode mnie."
+        },
+        {
+          "number": 7,
+          "text": "Lecz próżno mię czczą nauczając nauk i ustaw ludzkich."
+        },
+        {
+          "number": 8,
+          "text": "Albowiem wy opuściwszy przykazania Boże, trzymacie ustawy ludzkie, umywanie konewek i kubków, i wiele innych takich tym podobnych rzeczy czynicie."
+        },
+        {
+          "number": 9,
+          "text": "Mówił im też: Wy czysto znosicie przykazania Boże, abyście ustawy wasze zachowali."
+        },
+        {
+          "number": 10,
+          "text": "Bo Mojżesz rzekł: Czcij ojca twego i matkę twoję; a kto złorzeczy ojcu albo matce, niech śmiercią umrze."
+        },
+        {
+          "number": 11,
+          "text": "Ale wy mówicie: Jeźliby człowiek rzekł ojcu albo matce: Korban, (co jest dar), którykolwiek będzie ode mnie, tobie pożyteczny będzie, bez winy będzie;"
+        },
+        {
+          "number": 12,
+          "text": "I nie dopuścicie mu nic więcej czynić ojcu swemu albo matce swojej,"
+        },
+        {
+          "number": 13,
+          "text": "Wniwecz obracając słowo Boże ustawą waszą, którąście ustawili; i wiele innych rzeczy tym podobnych czynicie."
+        },
+        {
+          "number": 14,
+          "text": "A zwoławszy wszystkiego ludu, mówił im: Słuchajcie mię wszyscy, a zrozumiejcie!"
+        },
+        {
+          "number": 15,
+          "text": "Nie masz nic z rzeczy zewnętrznych, które wchodzą w człowieka, co by go mogło pokalać; ale to, co pochodzi z niego, to jest, co pokala człowieka."
+        },
+        {
+          "number": 16,
+          "text": "Jeźli kto ma uszy ku słuchaniu, niechaj słucha!"
+        },
+        {
+          "number": 17,
+          "text": "A gdy wszedł w dom od onego ludu, pytali go uczniowie jego o to podobieństwo."
+        },
+        {
+          "number": 18,
+          "text": "Tedy im rzekł: Także i wy bezrozumni jesteście? Azaż nie rozumiecie, iż wszystko, co zewnątrz wchodzi w człowieka, nie może go pokalać?"
+        },
+        {
+          "number": 19,
+          "text": "Albowiem nie wchodzi w serce jego, ale w brzuch, i do wychodu wychodzi, czyszcząc wszystkie pokarmy."
+        },
+        {
+          "number": 20,
+          "text": "I powiedział, że co pochodzi z człowieka, to pokala człowieka."
+        },
+        {
+          "number": 21,
+          "text": "Bo z wnętrzności serca ludzkiego pochodzą złe myśli, cudzołóstwa, wszeteczeństwa, mężobójstwa,"
+        },
+        {
+          "number": 22,
+          "text": "Kradzieże, łakomstwa, złości, zdrada, niewstyd, oko złe, bluźnierstwo, pycha, głupstwo."
+        },
+        {
+          "number": 23,
+          "text": "Wszystkie te złe rzeczy pochodzą z wnętrzności, i pokalają człowieka."
+        },
+        {
+          "number": 24,
+          "text": "A stamtąd wstawszy, poszedł na granice Tyru i Sydonu, a wszedłszy w dom, nie chciał, aby kto wiedział; lecz się utaić nie mógł."
+        },
+        {
+          "number": 25,
+          "text": "Albowiem usłyszawszy o nim niewiasta, której córeczka miała ducha nieczystego, przyszła i przypadła do nóg jego,"
+        },
+        {
+          "number": 26,
+          "text": "(A ta niewiasta była Grecka, rodem z Syrofenicyi) i prosiła go, aby dyjabła wygnał z córki jej."
+        },
+        {
+          "number": 27,
+          "text": "Ale jej Jezus rzekł: Niech się pierwej dzieci nasycą; boć nie jest dobra, brać chleb dzieciom i miotać szczeniętom."
+        },
+        {
+          "number": 28,
+          "text": "A ona odpowiedziała i rzekła mu: Tak jest, Panie! Wszakże i szczenięta jadają pod stołem z odrobin dziecinnych."
+        },
+        {
+          "number": 29,
+          "text": "I rzekł do niej: Dla tej mowy idź, wyszedł dyjabeł z córki twojej."
+        },
+        {
+          "number": 30,
+          "text": "A gdy ona odeszła do domu swego, znalazła iż dyjabeł wyszedł, a córka leżała na łożu."
+        },
+        {
+          "number": 31,
+          "text": "A wyszedłszy zaś z granic Tyrskich i Sydońskich, przyszedł nad morze Galilejskie, pośrodkiem granic dziesięciu miast."
+        },
+        {
+          "number": 32,
+          "text": "I przywiedli mu głuchego i z ciężkością mówiącego, a prosili go, aby na niego rękę włożył."
+        },
+        {
+          "number": 33,
+          "text": "A wziąwszy go Pan od ludu osobno, włożył palce swoje w uszy jego, a plunąwszy dotknął się języka jego;"
+        },
+        {
+          "number": 34,
+          "text": "A wejrzawszy w niebo, westchnął i rzekł do niego: Efata! to jest, otwórz się."
+        },
+        {
+          "number": 35,
+          "text": "I wnet się otworzyły uszy jego, i rozwiązała się związka języka jego, i wymawiał dobrze."
+        },
+        {
+          "number": 36,
+          "text": "Tedy im zakazał, aby tego nikomu nie powiadali."
+        },
+        {
+          "number": 37,
+          "text": "Ale czem on im bardziej zakazywał, tem oni to bardziej rozgłaszali, i nader się bardzo zdumiewali, mówiąc: Dobrze wszystko uczynił; bo czyni, iż głusi słyszą i niemi mówią."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A w oneż dni, gdy nader wielki lud był, a nie mieli, co by jedli, zwoławszy Jezus uczniów swoich, rzekł im:"
+        },
+        {
+          "number": 2,
+          "text": "Żal mi tego ludu; bo już trzy dni trwają przy mnie, a nie mają, co by jedli;"
+        },
+        {
+          "number": 3,
+          "text": "A jeźli je rozpuszczę głodne do domów ich, pomdleją na drodze; albowiem niektórzy z nich z daleka przyszli."
+        },
+        {
+          "number": 4,
+          "text": "Tedy mu odpowiedzieli uczniowie jego: Skądże te kto będzie mógł nasycić chlebem tu na puszczy?"
+        },
+        {
+          "number": 5,
+          "text": "I spytał ich: Wieleż macie chlebów? A oni rzekli: Siedm."
+        },
+        {
+          "number": 6,
+          "text": "I rozkazał ludowi, żeby usiadł na ziemi; a wziąwszy one siedm chlebów, podziękowawszy łamał, i dawał uczniom swoim, aby przed lud kładli; i kładli przed lud."
+        },
+        {
+          "number": 7,
+          "text": "Mieli też trochę rybek, które pobłogosławiwszy, kazał i one przed lud kłaść."
+        },
+        {
+          "number": 8,
+          "text": "Jedli tedy i nasyceni są, i zebrali, co zbyło ułomków, siedm koszów."
+        },
+        {
+          "number": 9,
+          "text": "A było tych, co jedli, około czterech tysięcy; i rozpuścił je."
+        },
+        {
+          "number": 10,
+          "text": "A wnet wstąpiwszy w łódź z uczniami swoimi, przyszedł w strony Dalmanutskie."
+        },
+        {
+          "number": 11,
+          "text": "I wyszli Faryzeuszowie, a poczęli z nim spór wieść, szukając od niego znamienia z nieba, a kusząc go."
+        },
+        {
+          "number": 12,
+          "text": "Tedy westchnąwszy serdecznie w duchu swym, rzekł: Przeczże ten rodzaj znamienia szuka? Zaprawdę powiadam wam, że nie będzie dane znamię temu rodzajowi."
+        },
+        {
+          "number": 13,
+          "text": "I opuściwszy ich, wstąpił zasię w łódź, i przeprawił się na drugą stronę."
+        },
+        {
+          "number": 14,
+          "text": "A zapomnieli byli uczniowie wziąć z sobą chleba, i nie mieli z sobą nic więcej, tylko jeden chleb w łodzi."
+        },
+        {
+          "number": 15,
+          "text": "Tedy im przykazał, mówiąc: Baczcież, a strzeżcie się kwasu Faryzeuszów i kwasu Herodowego."
+        },
+        {
+          "number": 16,
+          "text": "I rozmawiali między sobą i rzekli: O tem snać mówi, że nie mamy chleba."
+        },
+        {
+          "number": 17,
+          "text": "Co poznawszy Jezus, rzekł im: O czemże rozmawiacie, iż nie macie chleba? Jeszczeż nie baczycie i nie zrozumiewacie? Jeszczeż macie serce swoje zdrętwiałe?"
+        },
+        {
+          "number": 18,
+          "text": "Oczy mając nie widzicie, i uszy mając nie słyszycie, i nie pamiętacie?"
+        },
+        {
+          "number": 19,
+          "text": "Gdym onych pięć chlebów łamał między pięć tysięcy ludzi, wiele żeście pełnych koszów ułomków zebrali? Rzekli mu: Dwanaście;"
+        },
+        {
+          "number": 20,
+          "text": "A gdym onych siedm chlebów łamał między cztery tysiące ludzi, wieleście koszów pełnych ułomków zebrali? A oni rzekli: Siedm."
+        },
+        {
+          "number": 21,
+          "text": "A on im rzekł: Jakoż tedy nie rozumiecie?"
+        },
+        {
+          "number": 22,
+          "text": "Potem przyszedł do Betsaidy; i przywiedli do niego ślepego, prosząc go, aby się go dotknął."
+        },
+        {
+          "number": 23,
+          "text": "A ująwszy onego ślepego za rękę, wywiódł go precz za miasteczko, i plunąwszy na oczy jego, włożył na niego ręce, i pytał go, jeźliby co widział."
+        },
+        {
+          "number": 24,
+          "text": "A on spojrzawszy w górę, rzekł: Widzę ludzi; bo widzę, że chodzą jako drzewa."
+        },
+        {
+          "number": 25,
+          "text": "Potem zasię włożył ręce na oczy jego, i rozkazał mu w górę spojrzeć; i uzdrowiony jest na wzroku, tak że i z daleka wszystkich jasno widział."
+        },
+        {
+          "number": 26,
+          "text": "I odesłał go do domu jego, mówiąc: I do tego miasteczka nie wchodź, i nikomu z miasteczka nie powiadaj."
+        },
+        {
+          "number": 27,
+          "text": "Tedy wyszedł Jezus i uczniowie jego do miasteczek należących do Cezaryi Filipowej, a w drodze pytał uczniów swoich, mówiąc im: Kimże mię powiadają być ludzie?"
+        },
+        {
+          "number": 28,
+          "text": "A oni mu odpowiedzieli: Jedni Janem Chrzcicielem, a drudzy Elijaszem, a drudzy jednym z proroków."
+        },
+        {
+          "number": 29,
+          "text": "Ale on im rzekł: A wy kim mię być powiadacie? A odpowiadając Piotr, rzekł mu: Tyś jest on Chrystus."
+        },
+        {
+          "number": 30,
+          "text": "I przygroził im, aby o nim nikomu nie powiadali."
+        },
+        {
+          "number": 31,
+          "text": "I począł je nauczać, że Syn człowieczy musi wiele ucierpieć, i odrzuconym być od starszych ludu, i od przedniejszych kapłanów i nauczonych w Piśmie, i być zabity, a po trzech dniach zmartwychwstać."
+        },
+        {
+          "number": 32,
+          "text": "A to mówił jawnie. Tedy go Piotr wziąwszy na stronę, począł go strofować."
+        },
+        {
+          "number": 33,
+          "text": "Ale on obróciwszy się, a wejrzawszy na ucznie swoje, zgromił Piotra, mówiąc: Idź ode mnie, szatanie; albowiem nie pojmujesz tego, co jest Bożego, ale co jest ludzkiego."
+        },
+        {
+          "number": 34,
+          "text": "A zwoławszy ludu z uczniami swoimi, rzekł im: Ktokolwiek chce za mną iść, niech samego siebie zaprze, a weźmie krzyż swój, i naśladuje mię."
+        },
+        {
+          "number": 35,
+          "text": "Albowiem kto by chciał zachować duszę swą, straci ją; a kto by stracił duszę swą dla mnie i dla Ewangielii, ten ją zachowa."
+        },
+        {
+          "number": 36,
+          "text": "Bo cóż pomoże człowiekowi, choćby wszystek świat pozyskał, a szkodowałby na duszy swojej?"
+        },
+        {
+          "number": 37,
+          "text": "Albo co za zamianę da człowiek za duszę swoję?"
+        },
+        {
+          "number": 38,
+          "text": "Albowiem kto by się wstydził za mię i za słowa moje między tym rodzajem cudzołożnym i grzesznym, i Syn człowieczy wstydzić się za niego będzie, gdy przyjdzie w chwale Ojca swego z Anioły świętymi."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I mówił im: Zaprawdę powiadam wam, iż są niektórzy z tych, co tu stoją, którzy nie ukuszą śmierci, ażby ujrzeli, że królestwo Boże przyszło w mocy."
+        },
+        {
+          "number": 2,
+          "text": "A po sześciu dniach wziął z sobą Jezus Piotra, Jakóba i Jana, i wiódł je na górę wysoką same osobno, i przemienił się przed nimi."
+        },
+        {
+          "number": 3,
+          "text": "A szaty jego stały się lśniące, i bardzo białe jako śnieg, jak ich blecharz na ziemi nie może wybielić."
+        },
+        {
+          "number": 4,
+          "text": "I ujrzeli Elijasza z Mojżeszem, którzy rozmawiali z Jezusem."
+        },
+        {
+          "number": 5,
+          "text": "A odpowiadając Piotr, rzekł Jezusowi: Mistrzu! dobrze nam tu być; przetoż uczynimy tu trzy namioty, tobie jeden, Mojżeszowi jeden, i Elijaszowi jeden."
+        },
+        {
+          "number": 6,
+          "text": "Albowiem nie wiedział, co by mówił; bo przestraszeni byli."
+        },
+        {
+          "number": 7,
+          "text": "I stał się obłok, który je zacienił, a przyszedł głos z obłoku mówiący: Ten jest Syn mój miły, tegoż słuchajcie."
+        },
+        {
+          "number": 8,
+          "text": "A wnet obejrzawszy się, nikogo więcej nie widzieli, tylko Jezusa samego z sobą."
+        },
+        {
+          "number": 9,
+          "text": "A gdy oni zstępowali z góry, przykazał im, aby tego nikomu nie powiadali, co widzieli, aż kiedy by Syn człowieczy zmartwychwstał."
+        },
+        {
+          "number": 10,
+          "text": "A tak oni zatrzymali tę rzecz u siebie, pytając się między sobą, co by to było zmartwychwstać."
+        },
+        {
+          "number": 11,
+          "text": "I pytali go, mówiąc: Cóż tedy nauczeni w Piśmie powiadają, że Elijasz pierwej przyjść ma?"
+        },
+        {
+          "number": 12,
+          "text": "A on odpowiadając, rzekł im: Elijaszci przyszedłszy pierwej, naprawi wszystko, a jako napisano o Synu człowieczym, że musi wiele ucierpieć, a za nic poczytanym być."
+        },
+        {
+          "number": 13,
+          "text": "Aleć wam powiadam, że i Elijasz przyszedł, i uczynili mu cokolwiek chcieli, jako o nim napisano."
+        },
+        {
+          "number": 14,
+          "text": "A przyszedłszy do uczniów, ujrzał lud wielki około nich, i nauczone w Piśmie spór mające z nimi."
+        },
+        {
+          "number": 15,
+          "text": "A wnetże lud wszystek ujrzawszy go, polękali się, i zbieżawszy się, przywitali go."
+        },
+        {
+          "number": 16,
+          "text": "I pytał nauczonych w Piśmie: O cóż spór macie między sobą?"
+        },
+        {
+          "number": 17,
+          "text": "A odpowiadając jeden z onego ludu, rzekł: Nauczycielu! przywiodłem do ciebie syna mego, który ma ducha niemego."
+        },
+        {
+          "number": 18,
+          "text": "Ten gdziekolwiek go popadnie, rozdziera go, a on się ślini, i zgrzyta zębami swemi i schnie; i mówiłem uczniom twoim, aby go wygnali; ale nie mogli."
+        },
+        {
+          "number": 19,
+          "text": "Lecz on odpowiadając mu, rzekł: O rodzaju niewierny! dokądże z wami będę? i dokądże was cierpieć będę? przywiedźcie go do mnie."
+        },
+        {
+          "number": 20,
+          "text": "I przywiedli go do niego; a skoro go ujrzał, zaraz go duch rozdarł, a on upadłszy na ziemię, przewracał się, śliniąc się."
+        },
+        {
+          "number": 21,
+          "text": "Zatem spytał Jezus ojca jego: Jakoż mu się to dawno przydało? A on powiedział: Z dzieciństwa."
+        },
+        {
+          "number": 22,
+          "text": "I często go miotał w ogień i w wodę, żeby go stracił, ale możeszli co, ratuj nas, użaliwszy się nad nami."
+        },
+        {
+          "number": 23,
+          "text": "Ale mu Jezus rzekł: Jeźli możesz temu wierzyć? Wszystko jest możno wierzącemu."
+        },
+        {
+          "number": 24,
+          "text": "A zarazem zawoławszy ojciec onego młodzieńca, ze łzami rzekł: Wierzę, Panie! ty ratuj niedowiarstwa mego."
+        },
+        {
+          "number": 25,
+          "text": "A widząc Jezus, iż się lud zbiegał, zgromił onego ducha nieczystego, mówiąc mu: Duchu niemy i głuchy! ja tobie rozkazuję, wynijdź z niego, a nie wchodź więcej w niego."
+        },
+        {
+          "number": 26,
+          "text": "Zawoławszy tedy bardzo, rozdarłszy go, wyszedł; i stał się on człowiek jako umarły, tak że ich wiele mówiło, iż umarł."
+        },
+        {
+          "number": 27,
+          "text": "Ale Jezus ująwszy go za rękę, podniósł go; i wstał."
+        },
+        {
+          "number": 28,
+          "text": "A gdy wszedł w dom, pytali go osobno uczniowie jego: Czemużeśmy go wygnać nie mogli?"
+        },
+        {
+          "number": 29,
+          "text": "A on im rzekł: Ten rodzaj dyjabłów inaczej wynijść nie może, tylko przez modlitwę i przez post."
+        },
+        {
+          "number": 30,
+          "text": "A stamtąd wyszedłszy, szli z sobą przez Galileję; ale nie chciał, aby kto o tem wiedział."
+        },
+        {
+          "number": 31,
+          "text": "Albowiem uczył ucznie swoje, i mówił im: Syn człowieczy będzie wydany w ręce ludzkie, i zabiją go; ale gdy będzie zabity, dnia trzeciego zmartwychwstanie."
+        },
+        {
+          "number": 32,
+          "text": "Lecz oni tej rzeczy nie rozumieli; wszakże bali się go spytać."
+        },
+        {
+          "number": 33,
+          "text": "Zatem przyszedł do Kapernaum, a będąc w domu, pytał ich: O czemżeście w drodze między sobą rozmawiali?"
+        },
+        {
+          "number": 34,
+          "text": "Lecz oni milczeli; albowiem rozmawiali między sobą w drodze, kto by z nich był większy."
+        },
+        {
+          "number": 35,
+          "text": "A usiadłszy, zawołał dwunastu i mówił im: Jeźli kto chce być pierwszym, niech będzie ze wszystkich ostatnim, i sługą wszystkich."
+        },
+        {
+          "number": 36,
+          "text": "A wziąwszy dzieciątko, postawił je w pośrodku nich, a wziąwszy je na ręce, rzekł im:"
+        },
+        {
+          "number": 37,
+          "text": "Kto by jedno z takich dziateczek przyjął w imieniu mojem, mnie przyjmuje; a kto by mnie przyjął, nie mnie przyjmuje, ale onego, który mię posłał."
+        },
+        {
+          "number": 38,
+          "text": "Tedy mu odpowiedział Jan, mówiąc: Nauczycielu! widzieliśmy niektórego w imieniu twojem dyjabły wyganiającego, który nie chodzi za nami, i zabranialiśmy mu, przeto że nie chodzi za nami."
+        },
+        {
+          "number": 39,
+          "text": "Ale Jezus rzekł: Nie zabraniajcie mu; albowiem nikt nie jest, co by czynił cuda w imieniu mojem, aby mógł snadnie mówić źle o mnie."
+        },
+        {
+          "number": 40,
+          "text": "Bo kto nie jest przeciwko nam, za nami jest."
+        },
+        {
+          "number": 41,
+          "text": "Albowiem kto by was napoił kubkiem wody w imieniu mojem, dlatego iż jesteście Chrystusowi, zaprawdę powiadam wam, nie straci zapłaty swojej."
+        },
+        {
+          "number": 42,
+          "text": "A kto by zgorszył jednego z tych małych, którzy w mię wierzą, daleko by mu lepiej było, aby był zawieszony kamień młyński u szyi jego, i w morze był wrzucony."
+        },
+        {
+          "number": 43,
+          "text": "A jeźliby cię gorszyła ręka twoja, odetnij ją; bo lepiej jest tobie ułomnym wnijść do żywota, niżeli dwie ręce mając, iść do piekła w on ogień nieugaszony,"
+        },
+        {
+          "number": 44,
+          "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."
+        },
+        {
+          "number": 45,
+          "text": "A jeźliby cię noga twoja gorszyła, odetnij ją; bo lepiej tobie chromym wnijść do żywota, niżeli dwie nogi mając, być wrzuconym do piekła, w ogień nieugaszony,"
+        },
+        {
+          "number": 46,
+          "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."
+        },
+        {
+          "number": 47,
+          "text": "A jeźliby cię oko twoje gorszyło, wyłup je; bo lepiej tobie jednookim wnijść do królestwa Bożego, niżeli dwoje oczu mając, wrzuconym być do ognia piekielnego."
+        },
+        {
+          "number": 48,
+          "text": "Gdzie robak ich nie umiera, a ogień nie gaśnie."
+        },
+        {
+          "number": 49,
+          "text": "Albowiem każdy człowiek ogniem osolony będzie, i każda ofiara solą osolona będzie."
+        },
+        {
+          "number": 50,
+          "text": "Dobrać jest sól; ale jeźli się sól niesłoną stanie, czemże ją osolicie? Miejcież sól sami w sobie, a miejcie pokój między sobą."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A wstawszy stamtąd, przyszedł do granic Judzkich przez krainę za Jordanem leżącą; i zszedł się zaś do niego lud, i uczył je zaś jako miał zwyczaj."
+        },
+        {
+          "number": 2,
+          "text": "Tedy przystąpiwszy Faryzeuszowie, pytali go: Godzili się mężowi żonę opuścić? a to czynili, kusząc go."
+        },
+        {
+          "number": 3,
+          "text": "Ale on odpowiadając, rzekł im: Cóż wam przykazał Mojżesz?"
+        },
+        {
+          "number": 4,
+          "text": "A oni rzekli: Mojżesz pozwolił napisać list rozwodny i opuścić ją."
+        },
+        {
+          "number": 5,
+          "text": "A odpowiadając Jezus, rzekł im: Dla zatwardzenia serca waszego napisał wam to przykazanie."
+        },
+        {
+          "number": 6,
+          "text": "Aleć od początku stworzenia mężczyznę i niewiastę uczynił je Bóg."
+        },
+        {
+          "number": 7,
+          "text": "Dlatego opuści człowiek ojca swego i matkę, a przyłączy się do żony swojej,"
+        },
+        {
+          "number": 8,
+          "text": "I będą dwoje jednem ciałem; a tak już nie są dwoje, ale jedno ciało."
+        },
+        {
+          "number": 9,
+          "text": "Co tedy Bóg złączył, człowiek niechaj nie rozłącza."
+        },
+        {
+          "number": 10,
+          "text": "A w domu zaś uczniowie jego o toż go pytali."
+        },
+        {
+          "number": 11,
+          "text": "I rzekł im: Ktobykolwiek opuścił żonę swą, a pojąłby inną, cudzołoży przeciwko niej;"
+        },
+        {
+          "number": 12,
+          "text": "A jeźliby niewiasta opuściła męża swego, a szłaby za drugiego, cudzołoży."
+        },
+        {
+          "number": 13,
+          "text": "Tedy przynoszono do niego dziatki, aby się ich dotykał; ale uczniowie gromili tych, którzy je przynosili."
+        },
+        {
+          "number": 14,
+          "text": "Co ujrzawszy Jezus, rozgniewał się i rzekł im: Dopuśćcie dziatkom przychodzić do mnie, a nie zabraniajcie im; albowiem takich jest królestwo Boże."
+        },
+        {
+          "number": 15,
+          "text": "Zaprawdę powiadam wam: Ktobykolwiek nie przyjął królestwa Bożego jako dzieciątko, nie wnijdzie do niego."
+        },
+        {
+          "number": 16,
+          "text": "I biorąc je na ręce swoje, i kładąc na nie ręce, błogosławił im."
+        },
+        {
+          "number": 17,
+          "text": "A gdy on wychodził w drogę, przybieżał jeden, i upadłszy przed nim na kolana, pytał go: Nauczycielu dobry! cóż czynić mam, abym odziedziczył żywot wieczny?"
+        },
+        {
+          "number": 18,
+          "text": "Ale mu Jezus rzekł: Przecz mię zowiesz dobrym? Nikt nie jest dobry, tylko jeden, to jest Bóg."
+        },
+        {
+          "number": 19,
+          "text": "Przykazania umiesz: nie będziesz cudzołożył, nie będziesz zabijał, nie będziesz kradł, nie będziesz mówił świadectwa fałszywego, nie będziesz oszukiwał nikogo, czcij ojca twego i matkę twoję."
+        },
+        {
+          "number": 20,
+          "text": "A on odpowiadając, rzekł mu: Nauczycielu! tegom wszystkiego przestrzegał od młodości mojej."
+        },
+        {
+          "number": 21,
+          "text": "A Jezus spojrzawszy nań, rozmiłował się go, i rzekł mu: Jednego ci nie dostaje; idź, sprzedaj co masz, a rozdaj ubogim, a będziesz miał skarb w niebie, a przyjdź, naśladuj mię, wziąwszy krzyż."
+        },
+        {
+          "number": 22,
+          "text": "A on zafrasowawszy się dla tego słowa, odszedł smutny; albowiem miał wiele majętności."
+        },
+        {
+          "number": 23,
+          "text": "A spojrzawszy Jezus w około, rzekł do uczniów swoich: Jakoż trudno ci, którzy mają bogactwa, wnijdą do królestwa Bożego!"
+        },
+        {
+          "number": 24,
+          "text": "Tedy uczniowie zdumieli się nad temi słowami jego. Lecz Jezus zaś odpowiadając, rzekł im: Dziatki! jakoż jest trudno tym, co ufają w bogactwach, wnijść do królestwa Bożego."
+        },
+        {
+          "number": 25,
+          "text": "Snadniej jest wielbłądowi przejść przez ucho igielne, niż bogaczowi wnijść do królestwa Bożego."
+        },
+        {
+          "number": 26,
+          "text": "A oni się tem więcej zdumiewali, mówiąc między sobą: I któż może być zbawiony?"
+        },
+        {
+          "number": 27,
+          "text": "A Jezus spojrzawszy na nie, rzekł: U ludzić to niemożno, ale nie u Boga; albowiem u Boga wszystko jest możno."
+        },
+        {
+          "number": 28,
+          "text": "I począł Piotr mówić do niego: Otośmy my opuścili wszystko, a poszliśmy za tobą."
+        },
+        {
+          "number": 29,
+          "text": "A Jezus odpowiadając, rzekł: Zaprawdę powiadam wam: Nikt nie jest, kto by opuścił dom, albo braci, albo siostry, albo ojca, albo matkę, albo żonę, albo dzieci, albo role dla mnie i dla Ewangielii,"
+        },
+        {
+          "number": 30,
+          "text": "Żeby nie miał wziąć stokrotnie teraz w tym czasie domów, i braci, i sióstr, i matek, i dzieci, i ról z prześladowaniem, a w przyszłym wieku żywota wiecznego."
+        },
+        {
+          "number": 31,
+          "text": "Aleć wiele pierwszych będą ostatnimi, a ostatnich pierwszymi."
+        },
+        {
+          "number": 32,
+          "text": "I byli w drodze, wstępując do Jeruzalemu; a Jezus szedł przed nimi, i zdumiewali się, a idąc za nim, bali się. A on wziąwszy zasię z sobą onych dwanaście, począł im powiadać, co nań przyjść miało,"
+        },
+        {
+          "number": 33,
+          "text": "Mówiąc: Oto wstępujemy do Jeruzalemu, a Syn człowieczy będzie wydany przedniejszym kapłanom i nauczonym w Piśmie, i osądzą go na śmierć, i wydadzą go poganom."
+        },
+        {
+          "number": 34,
+          "text": "A oni się z niego naśmiewać będą, i ubiczują go, i będą nań plwać, i zabiją go; ale dnia trzeciego zmartwychwstanie."
+        },
+        {
+          "number": 35,
+          "text": "Tedy przystąpili do niego Jakób i Jan, synowie Zebedeuszowi, mówiąc: Nauczycielu! chcemy, abyś nam uczynił, o co cię prosić będziemy."
+        },
+        {
+          "number": 36,
+          "text": "A on im rzekł: Cóż chcecie, abym wam uczynił?"
+        },
+        {
+          "number": 37,
+          "text": "A oni mu rzekli: Daj nam, abyśmy jeden na prawicy twojej a drugi na lewicy twojej siedzieli w chwale twojej."
+        },
+        {
+          "number": 38,
+          "text": "Lecz im Jezus rzekł: Nie wiecie, o co prosicie. Możecież pić kielich, który ja piję, i chrztem, którym się ja chrzczę, być ochrzczeni?"
+        },
+        {
+          "number": 39,
+          "text": "A oni mu rzekli: Możemy. A Jezus im rzekł: Kielichci, który ja piję, pić będziecie i chrztem, którym ja się chrzczę, ochrzczeni będziecie."
+        },
+        {
+          "number": 40,
+          "text": "Ale siedzieć po prawicy mojej albo po lewicy mojej, nie moja rzecz jest dać; ale będzie dano tym, którym zgotowano."
+        },
+        {
+          "number": 41,
+          "text": "A usłyszawszy to oni dziesięciu, poczęli się gniewać na Jakóba i na Jana."
+        },
+        {
+          "number": 42,
+          "text": "Ale Jezus zwoławszy ich, rzekł im: Wiecie, iż ci, którym się zda, że władzę mają nad narody, panują nad nimi, a którzy z nich wielcy są, moc przewodzą nad nimi."
+        },
+        {
+          "number": 43,
+          "text": "Lecz nie tak będzie między wami; ale ktobykolwiek chciał być wielkim między wami, będzie sługą waszym;"
+        },
+        {
+          "number": 44,
+          "text": "A ktobykolwiek z was chciał być pierwszym, będzie sługą wszystkich."
+        },
+        {
+          "number": 45,
+          "text": "Bo i Syn człowieczy nie przyszedł, aby mu służono, ale aby służył, i aby dał duszę swą na okup za wielu."
+        },
+        {
+          "number": 46,
+          "text": "Tedy przyszli do Jerycha; a gdy on wychodził z Jerycha, i uczniowie jego i lud wielki, syn Tymeusza, Bartymeusz ślepy, siedział podle drogi żebrząc."
+        },
+        {
+          "number": 47,
+          "text": "A usłyszawszy, iż jest Jezus on Nazareński, począł wołać, mówiąc: Jezusie, Synu Dawida! zmiłuj się nade mną."
+        },
+        {
+          "number": 48,
+          "text": "I gromiło go wiele ich, aby milczał, ale on tem więcej wołał: Synu Dawida! zmiłuj się nade mną."
+        },
+        {
+          "number": 49,
+          "text": "Tedy zastanowiwszy się Jezus, kazał go zawołać. I zawołano ślepego, mówiąc mu: Ufaj, wstań, woła cię."
+        },
+        {
+          "number": 50,
+          "text": "A on porzuciwszy płaszcz swój, wstał, i przyszedł do Jezusa."
+        },
+        {
+          "number": 51,
+          "text": "I odpowiadając Jezus, rzekł mu: Cóż chcesz, abym ci uczynił? A ślepy mu rzekł: Mistrzu! abym przejrzał."
+        },
+        {
+          "number": 52,
+          "text": "A Jezus mu rzekł: Idź, wiara twoja ciebie uzdrowiła. A zarazem przejrzał, i szedł drogą za Jezusem."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy się przybliżyli do Jeruzalemu i do Betfagie i do Betanii ku górze oliwnej, posłał dwóch z uczniów swoich,"
+        },
+        {
+          "number": 2,
+          "text": "I rzekł im: Idźcie do miasteczka, które jest przeciwko wam, a wszedłszy do niego, zaraz znajdziecie oślę uwiązane, na którem nikt z ludzi nie siedział; odwiążcież je, a przywiedźcie."
+        },
+        {
+          "number": 3,
+          "text": "A jeźliby wam kto rzekł: Cóż to czynicie? Powiedzcie, iż go Pan potrzebuje; a wnet je tu pośle."
+        },
+        {
+          "number": 4,
+          "text": "Szli tedy i znaleźli oślę uwiązane u drzwi na dworze na rozstaniu dróg, i odwiązali je."
+        },
+        {
+          "number": 5,
+          "text": "Tedy niektórzy z onych, co tam stali, mówili: Cóż czynicie, że odwiązujecie oślę?"
+        },
+        {
+          "number": 6,
+          "text": "A oni im rzekli, jako im był rozkazał Jezus. I puścili je."
+        },
+        {
+          "number": 7,
+          "text": "Przywiedli tedy oślę do Jezusa, i włożyli na nie szaty swoje; i wsiadł na nie."
+        },
+        {
+          "number": 8,
+          "text": "A wiele ich słali szaty swoje na drodze; drudzy zasię obcinali gałązki z drzew, i słali na drodze."
+        },
+        {
+          "number": 9,
+          "text": "A którzy wprzód szli, i którzy pozad szli, wołali, mówiąc: Hosanna, błogosławiony, który idzie w imieniu Pańskiem!"
+        },
+        {
+          "number": 10,
+          "text": "Błogosławione królestwo ojca naszego Dawida, które przyszło w imieniu Pańskiem! Hosanna na wysokościach!"
+        },
+        {
+          "number": 11,
+          "text": "I wjechał Jezus do Jeruzalemu i przyszedł do kościoła, a obejrzawszy wszystko, gdy już była wieczorna godzina, wyszedł do Betanii z dwunastoma."
+        },
+        {
+          "number": 12,
+          "text": "A drugiego dnia, gdy wychodzili z Betanii, łaknął."
+        },
+        {
+          "number": 13,
+          "text": "I ujrzawszy z daleka figowe drzewo, mające liście, przyszedł, jeźliby snać co na niem znalazł; a gdy do niego przyszedł, nic nie znalazł, tylko liście; bo nie był czas figom."
+        },
+        {
+          "number": 14,
+          "text": "A odpowiadając Jezus, rzekł mu: Niechajże więcej na wieki nikt z ciebie owocu nie je. A słyszeli to uczniowie jego."
+        },
+        {
+          "number": 15,
+          "text": "I przyszli do Jeruzalemu; a wszedłszy Jezus do kościoła, począł wyganiać sprzedawające i kupujące w kościele, i poprzewracał stoły tych, co pieniędzmi handlowali, i stołki tych, co sprzedawali gołębie;"
+        },
+        {
+          "number": 16,
+          "text": "A nie dopuścił, żeby kto miał nieść naczynie przez kościół."
+        },
+        {
+          "number": 17,
+          "text": "I nauczał, mówiąc im: Azaż nie napisano: Że dom mój, dom modlitwy będzie nazwany od wszystkich narodów? a wyście go uczynili jaskinią zbójców."
+        },
+        {
+          "number": 18,
+          "text": "A słyszeli to nauczeni w Piśmie i przedniejsi kapłani i szukali, jakoby go stracili; albowiem się go bali, przeto iż wszystek lud zdumiewał się nad nauką jego."
+        },
+        {
+          "number": 19,
+          "text": "A gdy przyszedł wieczór, wyszedł z miasta."
+        },
+        {
+          "number": 20,
+          "text": "A rano idąc mimo figowe drzewo, ujrzeli, iż z korzenia uschło."
+        },
+        {
+          "number": 21,
+          "text": "Tedy wspomniawszy Piotr, rzekł mu: Mistrzu! oto figowe drzewo, któreś przeklął, uschło."
+        },
+        {
+          "number": 22,
+          "text": "A Jezus odpowiadając, rzekł im: Miejcie wiarę w Boga."
+        },
+        {
+          "number": 23,
+          "text": "Bo zaprawdę powiadam wam, iż ktobykolwiek rzekł tej górze: Podnieś się, a rzuć się w morze, a nie wątpiłby w sercu swojem, leczby wierzył, że się stanie, co mówi, stanie się mu, cokolwiek rzecze."
+        },
+        {
+          "number": 24,
+          "text": "Przetoż powiadam wam: O cokolwiekbyście, modląc się, prosili, wierzcie, że weźmiecie, a stanie się wam."
+        },
+        {
+          "number": 25,
+          "text": "A gdy stoicie modląc się, odpuśćcież, jeźli co przeciw komu macie, aby i Ojciec wasz, który jest w niebiesiech, odpuścił wam upadki wasze."
+        },
+        {
+          "number": 26,
+          "text": "Bo jeźli wy nie odpuścicie, i Ojciec wasz, który jest w niebiesiech, nie odpuści wam upadków waszych."
+        },
+        {
+          "number": 27,
+          "text": "I przyszli znowu do Jeruzalemu. A gdy się on przechodził po kościele, przystąpili do niego przedniejsi kapłani i nauczeni w Piśmie i starsi;"
+        },
+        {
+          "number": 28,
+          "text": "I mówili do niego: Którąż to mocą czynisz? a kto ci dał tę moc, abyś to czynił?"
+        },
+        {
+          "number": 29,
+          "text": "Tedy Jezus odpowiadając, rzekł im: Spytam was i ja o jednę rzecz; odpowiedzcież mi, a powiem, którą mocą to czynię."
+        },
+        {
+          "number": 30,
+          "text": "Chrzest Jana z niebaż był, czyli z ludzi? Odpowiedzcie mi."
+        },
+        {
+          "number": 31,
+          "text": "I rozbierali to sami między sobą, mówiąc: Jeźli powiemy, z nieba, rzecze: Przeczżeście mu tedy nie wierzyli?"
+        },
+        {
+          "number": 32,
+          "text": "A jeźli powiemy, z ludzi, bojemy się ludu; albowiem wszyscy Jana mieli za prawdziwego proroka."
+        },
+        {
+          "number": 33,
+          "text": "Tedy odpowiadając rzekli Jezusowi: Nie wiemy. Jezus też odpowiadając rzekł im: I ja wam nie powiem, którą mocą to czynię."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy począł do nich mówić w podobieństwach: Człowiek jeden nasadził winnicę, i ogrodził ją płotem, i wykopał prasę, i zbudował wieżę, i najął ją winiarzom, i odjechał precz."
+        },
+        {
+          "number": 2,
+          "text": "I posłał, gdy tego był czas, sługę do winiarzy, aby od winiarzy odebrał pożytki onej winnicy."
+        },
+        {
+          "number": 3,
+          "text": "Lecz oni pojmawszy go, ubili, i odesłali próżnego."
+        },
+        {
+          "number": 4,
+          "text": "I zasię posłał do nich sługę drugiego, którego też oni ukamionowawszy, głowę mu zranili, i odesłali obelżonego."
+        },
+        {
+          "number": 5,
+          "text": "I zasię posłał inszego sługę; ale i tego zabili, i wiele innych, z których jedne ubili, a drugie pozabijali."
+        },
+        {
+          "number": 6,
+          "text": "A mając jeszcze jednegoż swego miłego syna, posłał na ostatek do nich i tego, mówiąc: Wżdyć się będą wstydzili syna mego."
+        },
+        {
+          "number": 7,
+          "text": "Ale oni winiarze rzekli między sobą: Tenci jest dziedzic; pójdźcie, zabijmy go, a będzie nasze dziedzictwo."
+        },
+        {
+          "number": 8,
+          "text": "I wziąwszy go zabili, a wyrzucili precz z winnicy."
+        },
+        {
+          "number": 9,
+          "text": "Cóż tedy uczyni pan onej winnicy? Przyjdzie, a potraci one winiarze, i da winnicę innym."
+        },
+        {
+          "number": 10,
+          "text": "Izaliście nie czytali tego pisma: Kamień, który odrzucili budujący, ten się stał głową węgielną?"
+        },
+        {
+          "number": 11,
+          "text": "Od Panać się to stało, i jest dziwne w oczach naszych."
+        },
+        {
+          "number": 12,
+          "text": "Starali się tedy, jakoby go pojmać, ale się ludu bali; bo poznali, iż przeciwko nim ono podobieństwo powiedział. I zaniechawszy go, odeszli."
+        },
+        {
+          "number": 13,
+          "text": "Potem posłali do niego niektóre z Faryzeuszów i z Herodyjanów, aby go usidlili w mowie."
+        },
+        {
+          "number": 14,
+          "text": "A tak oni przyszedłszy rzekli mu: Nauczycielu! wiemy, żeś jest prawdziwy, a nie dbasz na nikogo; albowiem nie patrzysz na osobę ludzką, ale w prawdzie drogi Bożej uczysz; godziż się dać czynsz cesarzowi, czyli nie? Mamyż go dać, czyli nie dać?"
+        },
+        {
+          "number": 15,
+          "text": "A on poznawszy obłudę ich, rzekł im: Czemuż mię kusicie? Przynieście mi grosz, abym go oglądał."
+        },
+        {
+          "number": 16,
+          "text": "Tedy mu oni przynieśli; a on im rzekł: Czyjże to jest obraz i napis? A oni mu powiedzieli: Cesarski."
+        },
+        {
+          "number": 17,
+          "text": "I odpowiadając Jezus, rzekł im: Oddawajcież tedy, co jest cesarskiego, cesarzowi, a co jest Bożego, Bogu. I dziwowali mu się."
+        },
+        {
+          "number": 18,
+          "text": "I przyszli do niego Saduceuszowie, którzy mówią, iż nie masz zmartwychwstania, i pytali go mówiąc:"
+        },
+        {
+          "number": 19,
+          "text": "Nauczycielu! Mojżesz nam napisał, iż jeźliby czyj brat umarł, i zostawił żonę, a dziatek by nie zostawił, aby brat jego pojął żonę jego, a wzbudził nasienie bratu swemu."
+        },
+        {
+          "number": 20,
+          "text": "Było tedy siedm braci; a pierwszy pojąwszy żonę umarł, i nie zostawił nasienia;"
+        },
+        {
+          "number": 21,
+          "text": "A drugi pojąwszy ją, umarł, lecz i ten nie zostawił nasienia; także i trzeci."
+        },
+        {
+          "number": 22,
+          "text": "A tak ją pojęło onych siedm braci, a nie zostawili nasienia. Na ostatek po wszystkich umarła i ona niewiasta."
+        },
+        {
+          "number": 23,
+          "text": "Przetoż przy zmartwychwstaniu gdy powstaną, któregoż z nich będzie żoną? bo siedm ich mieli ją za żonę."
+        },
+        {
+          "number": 24,
+          "text": "Na to Jezus odpowiadając rzekł im: Zaż nie dlatego błądzicie, iżeście nie powiadomi Pisma ani mocy Bożej?"
+        },
+        {
+          "number": 25,
+          "text": "Albowiem gdy zmartwychwstaną, ani się żenią, ani za mąż wydawają; ale są jako Aniołowie w niebiesiech."
+        },
+        {
+          "number": 26,
+          "text": "A o umarłych, iż będą wzbudzeni, nie czytaliścież w księgach Mojżeszowych, jako Bóg do niego ze krza mówił, i rzekł: Jam jest Bóg Abrahama, Bóg Izaaka, i Bóg Jakóba?"
+        },
+        {
+          "number": 27,
+          "text": "Bóg nie jestci Bogiem umarłych, ale Bogiem żywych: przetoż wy bardzo błądzicie."
+        },
+        {
+          "number": 28,
+          "text": "A przystąpiwszy jeden z nauczonych w Piśmie, słysząc, że z sobą gadali, a widząc, że im dobrze odpowiedział, spytał go: Które jest najpierwsze ze wszystkich przykazanie?"
+        },
+        {
+          "number": 29,
+          "text": "A Jezus mu odpowiedział: Najpierwsze ze wszystkich przykazanie jest: Słuchaj, Izraelu! Pan, Bóg nasz, Pan jeden jest."
+        },
+        {
+          "number": 30,
+          "text": "Przetoż będziesz miłował Pana, Boga twego, ze wszystkiego serca twego, i ze wszystkiej duszy twojej, i ze wszystkiej myśli twojej, i ze wszystkiej siły twojej; toć jest pierwsze przykazanie."
+        },
+        {
+          "number": 31,
+          "text": "A wtóre temu podobne to jest: Będziesz miłował bliźniego twego, jako samego siebie. Większego przykazania innego nad to nie masz."
+        },
+        {
+          "number": 32,
+          "text": "Tedy mu rzekł on nauczony w Piśmie: Nauczycielu! zaprawdę dobrześ powiedział, iż jeden jest Bóg, a nie masz inszego oprócz niego."
+        },
+        {
+          "number": 33,
+          "text": "I miłować go ze wszystkiego serca i ze wszystkiej myśli i ze wszystkiej duszy i ze wszystkiej siły, a miłować bliźniego jako samego siebie, więcej jest nad wszystkie całopalenia i ofiary."
+        },
+        {
+          "number": 34,
+          "text": "A widząc Jezus, że on mądrze odpowiedział, rzekł mu: Niedalekoś jest od królestwa Bożego. I nie śmiał go nikt dalej pytać."
+        },
+        {
+          "number": 35,
+          "text": "Tedy Jezus odpowiadając rzekł, gdy uczył w kościele: Jakoż mówią nauczeni w Piśmie, iż Chrystus jest Syn Dawida?"
+        },
+        {
+          "number": 36,
+          "text": "Bo sam Dawid przez Ducha Świętego powiedział: Rzekł Pan Panu memu, siądź po prawicy mojej, aż położę nieprzyjacioły twoje podnóżkiem nóg twoich."
+        },
+        {
+          "number": 37,
+          "text": "Ponieważ go sam Dawid nazywa Panem, jakoż tedy jest synem jego? a wielki lud rad go słuchał."
+        },
+        {
+          "number": 38,
+          "text": "I mówił do nich w nauce swojej: Strzeżcie się nauczonych w Piśmie, którzy chcą w długich szatach chodzić, a być pozdrawiani na rynkach;"
+        },
+        {
+          "number": 39,
+          "text": "I na pierwszych stołkach siadać w bóżnicach, i pierwsze miejsca mieć na wieczerzach;"
+        },
+        {
+          "number": 40,
+          "text": "Którzy pożerają domy wdów, a to pod pokrywką długich modlitw; cić odniosą cięższy sąd."
+        },
+        {
+          "number": 41,
+          "text": "A Jezus siedząc przeciwko skarbnicy, przypatrywał się, jako lud rzucał pieniądze do skarbnicy, i jako wiele bogaczów wiele rzucało."
+        },
+        {
+          "number": 42,
+          "text": "I przyszedłszy jedna wdowa uboga, wrzuciła dwa drobne pieniążki, co czyni kwartnik."
+        },
+        {
+          "number": 43,
+          "text": "Tedy zwoławszy uczniów swoich rzekł im: Zaprawdę wam powiadam, że ta uboga wdowa więcej wrzuciła, niżeli ci wszyscy, którzy rzucali do skarbnicy."
+        },
+        {
+          "number": 44,
+          "text": "Albowiem ci wszyscy z tego, co im zbywało, rzucali; ale ta z ubóstwa swego wszystko, co miała, wrzuciła, wszystkę żywność swoję."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy on wychodził z kościoła, rzekł mu jeden z uczniów jego: Nauczycielu! patrz, jakie to kamienie, i jakie budowania?"
+        },
+        {
+          "number": 2,
+          "text": "A Jezus odpowiadając rzekł mu: Widzisz te wielkie budowania? Nie będzie zostawiony kamień na kamieniu, który by nie był rozwalony."
+        },
+        {
+          "number": 3,
+          "text": "A gdy siedział na górze oliwnej przeciwko kościołowi, pytali go osobno Piotr, i Jakób, i Jan, i Andrzej:"
+        },
+        {
+          "number": 4,
+          "text": "Powiedz nam, kiedy się to stanie, i co za znak, kiedy się to wszystko pełnić będzie?"
+        },
+        {
+          "number": 5,
+          "text": "A Jezus odpowiadając im, począł mówić: Patrzcie, aby was kto nie zwiódł."
+        },
+        {
+          "number": 6,
+          "text": "Albowiem wiele ich przyjdzie pod imieniem mojem, mówiąc: Jam jest Chrystus, a wiele ich zwiodą."
+        },
+        {
+          "number": 7,
+          "text": "Gdy tedy usłyszycie wojny, i wieści o wojnach, nie trwożcież sobą; boć to musi być; ale jeszcze nie tu koniec."
+        },
+        {
+          "number": 8,
+          "text": "Albowiem powstanie naród przeciwko narodowi, i królestwo przeciwko królestwu, i będą miejscami trzęsienia ziemi, i będą głody i zamieszania."
+        },
+        {
+          "number": 9,
+          "text": "A toć początki boleści. Lecz wy strzeżcie samych siebie; boć was podawać będą przed rady i do zgromadzenia, będą was bić, a przed starostami i królmi dla mnie stawać będziecie na świadectwo przeciwko nim."
+        },
+        {
+          "number": 10,
+          "text": "Ale u wszystkich narodów musi być przedtem kazana Ewangielija."
+        },
+        {
+          "number": 11,
+          "text": "A gdy was powiodą wydawając, nie troszczcież się przed czasem, co byście mówić mieli, ani o tem myślcie, ale co wam będzie dano onejże godziny, to mówcie; albowiem nie wy jesteście, którzy mówicie, ale Duch Święty."
+        },
+        {
+          "number": 12,
+          "text": "I wyda brat brata na śmierć, a ojciec syna; i powstaną dzieci przeciwko rodzicom, i będą je zabijać."
+        },
+        {
+          "number": 13,
+          "text": "A będziecie w nienawiści u wszystkich dla imienia mego; ale kto wytrwa aż do końca, ten będzie zbawion."
+        },
+        {
+          "number": 14,
+          "text": "Gdy tedy ujrzycie onę obrzydliwość spustoszenia, opowiedzianą od Danijela proroka, stojącą, gdzie stać nie miała, (kto czyta, niechaj uważa,) tedy ci, którzy będą w Judzkiej ziemi, niech uciekają na góry."
+        },
+        {
+          "number": 15,
+          "text": "A kto będzie na dachu, niech nie zstępuje do domu, ani wchodzi, aby co wziął z domu swego;"
+        },
+        {
+          "number": 16,
+          "text": "A kto będzie na roli, niech się nie wraca nazad, aby wziął szatę swoję."
+        },
+        {
+          "number": 17,
+          "text": "Lecz biada brzemiennym i piersiami karmiącym w one dni!"
+        },
+        {
+          "number": 18,
+          "text": "Przetoż módlcie się, aby uciekanie wasze nie było w zimie."
+        },
+        {
+          "number": 19,
+          "text": "Albowiem będą te dni takiem uciśnieniem, jakiego nie było od początku stworzenia, które stworzył Bóg, aż dotąd, ani będzie."
+        },
+        {
+          "number": 20,
+          "text": "A jeźliby Pan nie skrócił dni onych, nie byłoby żadne ciało zbawione; lecz dla wybranych, które wybrał, skrócił dni onych."
+        },
+        {
+          "number": 21,
+          "text": "A tedy jeźliby wam kto rzekł: Oto tu jest Chrystus, albo oto tam, nie wierzcie."
+        },
+        {
+          "number": 22,
+          "text": "Boć powstaną fałszywi Chrystusowie, i fałszywi prorocy, i będą czynić znamiona i cuda ku zwiedzeniu, by można, i wybranych."
+        },
+        {
+          "number": 23,
+          "text": "Wy tedy strzeżcie się; otom wam wszystko przepowiedział."
+        },
+        {
+          "number": 24,
+          "text": "Ale w one dni po uciśnieniu onem, zaćmi się słońce, i księżyc nie wyda światłości swojej;"
+        },
+        {
+          "number": 25,
+          "text": "I gwiazdy niebieskie będą padały, a mocy, które są na niebie, poruszą się."
+        },
+        {
+          "number": 26,
+          "text": "A tedy ujrzą Syna człowieczego, przychodzącego w obłokach z mocą i z chwałą wielką."
+        },
+        {
+          "number": 27,
+          "text": "A tedy pośle Anioły swoje i zgromadzi wszystkie wybrane swoje od czterech wiatrów, od kończyn ziemi aż do kończyn nieba."
+        },
+        {
+          "number": 28,
+          "text": "A od figowego drzewa nauczcie się tego podobieństwa: Gdy się już gałąź jego odmładza i puszcza liście, poznajecie, iż blisko jest lato."
+        },
+        {
+          "number": 29,
+          "text": "Także i wy, gdy ujrzycie, iż się to dziać będzie, poznawajcie, że blisko jest i we drzwiach."
+        },
+        {
+          "number": 30,
+          "text": "Zaprawdę powiadam wam, żeć nie przeminie ten rodzaj, ażby się to wszystko stało."
+        },
+        {
+          "number": 31,
+          "text": "Niebo i ziemia przeminą; ale słowa moje nie przeminą."
+        },
+        {
+          "number": 32,
+          "text": "Lecz o onym dniu i godzinie nikt nie wie, ani Aniołowie, którzy są w niebie, ani Syn, tylko Ojciec."
+        },
+        {
+          "number": 33,
+          "text": "Patrzcież, czujcie, a módlcie się; bo nie wiecie, kiedy ten czas będzie."
+        },
+        {
+          "number": 34,
+          "text": "Jako człowiek, który precz odjeżdżając, zostawił dom swój, i rozdał urzędy sługom swoim, i każdemu robotę jego, i wrotnemu przykazał, aby czuł."
+        },
+        {
+          "number": 35,
+          "text": "Czujcież tedy; (bo nie wiecie, kiedy Pan domu onego przyjdzie, z wieczorali, czyli o północy, czyli gdy kury pieją, czyli rano.)"
+        },
+        {
+          "number": 36,
+          "text": "By snać niespodzianie przyszedłszy, nie znalazł was śpiącymi."
+        },
+        {
+          "number": 37,
+          "text": "A co wam mówię, wszystkimci mówię: Czujcie."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A po dwóch dniach była wielkanoc, święto przaśników; i szukali przedniejsi kapłani i nauczeni w Piśmie, jakoby go zdradą pojmawszy, zabili."
+        },
+        {
+          "number": 2,
+          "text": "Lecz mówili: Nie w święto, aby snać nie był rozruch między ludem."
+        },
+        {
+          "number": 3,
+          "text": "A gdy on był w Betanii, w domu Szymona trędowatego, gdy siedział u stołu, przyszła niewiasta, mając słoik alabastrowy maści szpikanardowej płynącej, bardzo kosztownej, a stłukłszy słoik alabastrowy, wylała ją na głowę jego."
+        },
+        {
+          "number": 4,
+          "text": "I gniewali się niektórzy sami w sobie, a mówili: Na cóż się stała utrata tej maści?"
+        },
+        {
+          "number": 5,
+          "text": "Albowiem się to mogło sprzedać drożej niż za trzysta groszy, i rozdać ubogim; i szemrali przeciwko niej."
+        },
+        {
+          "number": 6,
+          "text": "Ale Jezus rzekł: Zaniechajcie jej, przeczże się jej przykrzycie? Dobryć uczynek uczyniła przeciwko mnie."
+        },
+        {
+          "number": 7,
+          "text": "Zawsze bowiem ubogie macie z sobą, i kiedykolwiek chcecie, możecie im dobrze czynić; ale mnie nie zawsze mieć będziecie."
+        },
+        {
+          "number": 8,
+          "text": "Ona, co mogła, to uczyniła; poprzedziła, aby ciało moje pomazała ku pogrzebowi."
+        },
+        {
+          "number": 9,
+          "text": "Zaprawdę powiadam wam: Gdziekolwiek kazana będzie ta Ewangielija po wszystkim świecie, i to co ona uczyniła, powiadano będzie na pamiątkę jej."
+        },
+        {
+          "number": 10,
+          "text": "Tedy Judasz Iszkaryjot, jeden ze dwunastu, odszedł do przedniejszych kapłanów, aby im go wydał."
+        },
+        {
+          "number": 11,
+          "text": "Co oni usłyszawszy, uradowali się, i obiecali mu dać pieniądze. I szukał sposobnego czasu, jakoby go wydał."
+        },
+        {
+          "number": 12,
+          "text": "Pierwszego tedy dnia przaśników, gdy baranka wielkanocnego zabijano, rzekli mu uczniowie jego: Gdzie chcesz, abyśmy szedłszy nagotowali, żebyś jadł baranka?"
+        },
+        {
+          "number": 13,
+          "text": "I posłał dwóch z uczniów swych, i rzekł im: Idźcie do miasta, a spotka się z wami człowiek, dzban wody niosący; idźcież za nim."
+        },
+        {
+          "number": 14,
+          "text": "A dokądkolwiek wnijdzie, rzeczcie gospodarzowi: Nauczyciel mówi: Gdzież jest gospoda, kędy bym jadł baranka z uczniami moimi?"
+        },
+        {
+          "number": 15,
+          "text": "A on wam ukaże salę wielką usłaną i gotową, tamże nam nagotujecie."
+        },
+        {
+          "number": 16,
+          "text": "I odeszli uczniowie jego, i przyszli do miasta, i znaleźli tak, jako im był powiedział, i nagotowali baranka."
+        },
+        {
+          "number": 17,
+          "text": "A gdy był wieczór, przyszedł ze dwunastoma."
+        },
+        {
+          "number": 18,
+          "text": "A gdy za stołem siedzieli i jedli, rzekł Jezus: Zaprawdę wam powiadam, iż jeden z was wyda mię, który je ze mną."
+        },
+        {
+          "number": 19,
+          "text": "Tedy oni poczęli się smucić, i do niego mówić, każdy z osobna: Azażem ja jest? A drugi: Azaż ja?"
+        },
+        {
+          "number": 20,
+          "text": "Lecz on odpowiadając rzekł im: Jeden ze dwunastu, który ze mną macza w misie."
+        },
+        {
+          "number": 21,
+          "text": "Synci człowieczy idzie, jako o nim napisano: ale biada człowiekowi temu, przez którego Syn człowieczy będzie wydany! dobrze by mu było, by się był ten człowiek nie narodził."
+        },
+        {
+          "number": 22,
+          "text": "A gdy oni jedli, wziął Jezus chleb, a pobłogosławiwszy, łamał i dał im, mówiąc: Bierzcie, jedzcie, to jest ciało moje."
+        },
+        {
+          "number": 23,
+          "text": "A wziąwszy kielich, i podziękowawszy, dał im; i pili z niego wszyscy."
+        },
+        {
+          "number": 24,
+          "text": "I rzekł im: To jest krew moja nowego testamentu, która się za wielu wylewa."
+        },
+        {
+          "number": 25,
+          "text": "Zaprawdę powiadam wam: Iż nie będę więcej pił z rodzaju winnej macicy, aż do dnia onego, gdy go pić będę nowy w królestwie Bożem."
+        },
+        {
+          "number": 26,
+          "text": "A zaśpiewawszy pieśń, wyszli na górę oliwną."
+        },
+        {
+          "number": 27,
+          "text": "Potem im rzekł Jezus: Wszyscy wy zgorszycie się ze mnie tej nocy; bo napisano: Uderzę pasterza, i będą rozproszone owce."
+        },
+        {
+          "number": 28,
+          "text": "Lecz gdy zmartwychwstanę, poprzedzę was do Galileii."
+        },
+        {
+          "number": 29,
+          "text": "Ale mu Piotr powiedział: Choćby się wszyscy zgorszyli, ale ja nie."
+        },
+        {
+          "number": 30,
+          "text": "I rzekł mu Jezus: Zaprawdę powiadam tobie, iż dziś tej nocy, pierwej niż dwakroć kur zapieje, trzykroć się mnie zaprzesz."
+        },
+        {
+          "number": 31,
+          "text": "Ale on tem więcej mówił: Bym z tobą miał i umrzeć, nie zaprę się ciebie. Toć też i wszyscy mówili:"
+        },
+        {
+          "number": 32,
+          "text": "I przyszli na miejsce, które zwano Gietsemane; tedy rzekł do uczniów swoich: Siedźcie tu, aż się pomodlę."
+        },
+        {
+          "number": 33,
+          "text": "I wziąwszy z sobą Piotra, i Jakóba, i Jana, począł się lękać, i bardzo tęsknić;"
+        },
+        {
+          "number": 34,
+          "text": "I rzekł im: Bardzo jest smutna dusza moja aż do śmierci; zostańcie tu, a czujcie."
+        },
+        {
+          "number": 35,
+          "text": "A postąpiwszy trochę, padł na ziemię i modlił się, aby, jeźli można, odeszła od niego ta godzina;"
+        },
+        {
+          "number": 36,
+          "text": "I rzekł: Abba Ojcze! wszystko tobie jest możno, przenieś ode mnie ten kielich; wszakże nie co ja chcę, ale co Ty."
+        },
+        {
+          "number": 37,
+          "text": "Tedy przyszedł, i znalazł je śpiące, i rzekł Piotrowi: Szymonie, śpisz? nie mogłeś czuć jednej godziny?"
+        },
+        {
+          "number": 38,
+          "text": "Czujcie, a módlcie się, abyście nie weszli w pokuszenie; duchci jest ochotny, ale ciało mdłe."
+        },
+        {
+          "number": 39,
+          "text": "I odszedłszy znowu, modlił się, też słowa mówiąc."
+        },
+        {
+          "number": 40,
+          "text": "A wróciwszy się znalazł je zasię śpiące, (bo oczy ich były obciążone,) a nie wiedzieli, co mu odpowiedzieć mieli."
+        },
+        {
+          "number": 41,
+          "text": "I przyszedł po trzecie, a rzekł im: Śpijcież już i odpoczywajcie! Dosyćci! przyszłać ta godzina, oto wydany bywa Syn człowieczy w ręce grzeszników."
+        },
+        {
+          "number": 42,
+          "text": "Wstańcie, pójdźmy! oto który mię wydawa, blisko jest."
+        },
+        {
+          "number": 43,
+          "text": "A wnetże, gdy on jeszcze mówił, przyszedł Judasz, który był jeden ze dwunastu, a z nim wielka zgraja z mieczami i z kijami od przedniejszych kapłanów, i od nauczonych w Piśmie i od starszych."
+        },
+        {
+          "number": 44,
+          "text": "A ten, który go wydawał, dał im był znak, mówiąc: Któregokolwiek pocałuję, tenci jest, imajcież go, a wiedźcie ostrożnie."
+        },
+        {
+          "number": 45,
+          "text": "A przyszedłszy, zarazem przystąpił do niego, i rzekł: Mistrzu, Mistrzu! i pocałował go."
+        },
+        {
+          "number": 46,
+          "text": "Tedy się oni na niego rękoma rzucili, i pojmali go."
+        },
+        {
+          "number": 47,
+          "text": "A jeden z tych, co tam stali, dobywszy miecza, uderzył sługę najwyższego kapłana, i uciął mu ucho."
+        },
+        {
+          "number": 48,
+          "text": "A Jezus odpowiadając rzekł im: Jako na zbójcę wyszliście z mieczami i z kijami, abyście mię pojmali."
+        },
+        {
+          "number": 49,
+          "text": "Na każdy dzień bywałem u was w kościele, ucząc, a nie pojmaliście mię: ale trzeba, aby się wypełniły Pisma."
+        },
+        {
+          "number": 50,
+          "text": "A tak opuściwszy go, wszyscy uciekli."
+        },
+        {
+          "number": 51,
+          "text": "A jeden jakiś młodzieniec szedł za nim, przyodziany prześcieradłem na nagie ciało; i uchwycili go młodzieńcy."
+        },
+        {
+          "number": 52,
+          "text": "Ale on opuściwszy prześcieradło, nago uciekł od nich."
+        },
+        {
+          "number": 53,
+          "text": "Tedy przywiedli Jezusa do najwyższego kapłana: a zeszli się do niego wszyscy przedniejsi kapłani, i starsi, i nauczeni w Piśmie."
+        },
+        {
+          "number": 54,
+          "text": "A Piotr szedł z nim z daleka aż do dworu najwyższego kapłana, i siedział z sługami, grzejąc się u ognia."
+        },
+        {
+          "number": 55,
+          "text": "Ale przedniejsi kapłani, i wszystka rada szukali przeciwko Jezusowi świadectwa, aby go na śmierć wydali; wszakże nie znaleźli."
+        },
+        {
+          "number": 56,
+          "text": "Albowiem ich wiele fałszywie świadczyli przeciwko niemu; ale świadectwa ich nie były zgodne."
+        },
+        {
+          "number": 57,
+          "text": "Tedy niektórzy powstawszy, fałszywie świadczyli przeciwko niemu, mówiąc:"
+        },
+        {
+          "number": 58,
+          "text": "Myśmy to słyszeli, że mówił: Ja rozwalę ten kościół ręką uczyniony, a we trzech dniach inny nie ręką uczyniony zbuduję."
+        },
+        {
+          "number": 59,
+          "text": "Lecz i tak nie było zgodne świadectwo ich."
+        },
+        {
+          "number": 60,
+          "text": "Tedy stanąwszy w pośrodku najwyższy kapłan, pytał Jezusa, mówiąc: Nie odpowiadasz nic? Cóż to jest, co ci przeciwko tobie świadczą?"
+        },
+        {
+          "number": 61,
+          "text": "Ale on milczał, a nic nie odpowiedział. Znowu go pytał najwyższy kapłan, i rzekł mu: Tyżeś jest on Chrystus, Syn onego Błogosławionego?"
+        },
+        {
+          "number": 62,
+          "text": "A Jezus rzekł: Jam jest; i ujrzycie Syna człowieczego, siedzącego na prawicy mocy Bożej, i przychodzącego z obłokami niebieskiemi."
+        },
+        {
+          "number": 63,
+          "text": "Tedy najwyższy kapłan rozdarłszy szaty swoje, rzekł: Cóż jeszcze potrzebujemy świadków?"
+        },
+        {
+          "number": 64,
+          "text": "Słyszeliście bluźnierstwo. Cóż się wam zda? A oni wszyscy osądzili go winnym być śmierci."
+        },
+        {
+          "number": 65,
+          "text": "I poczęli niektórzy nań plwać, i zakrywać oblicze jego, i bić weń pięściami i mówić mu: Prorokuj! A słudzy policzkowali go."
+        },
+        {
+          "number": 66,
+          "text": "A gdy Piotr był we dworze na dole, przyszła jedna z dziewek najwyższego kapłana;"
+        },
+        {
+          "number": 67,
+          "text": "A ujrzawszy Piotra grzejącego się, wejrzała nań, i rzekła: I tyś był z Jezusem Nazareńskim."
+        },
+        {
+          "number": 68,
+          "text": "Ale on się zaprzał, mówiąc: Nie znam go, a nie wiem, co ty mówisz. I wyszedł na dwór do przysionka, a kur zapiał."
+        },
+        {
+          "number": 69,
+          "text": "Tedy dziewka ujrzawszy go zasię, poczęła mówić tym, którzy tam stali: Ten jest jeden z nich."
+        },
+        {
+          "number": 70,
+          "text": "A on zasię zaprzał się. A znowu po małej chwilce ci, co tam stali, rzekli Piotrowi: Prawdziwie z nich jesteś; bo jesteś i Galilejczyk, i mowa twoja podobna jest."
+        },
+        {
+          "number": 71,
+          "text": "A on się począł przeklinać i przysięgać, mówiąc: Nie znam człowieka tego, o którym mówicie."
+        },
+        {
+          "number": 72,
+          "text": "Tedy po wtóre kur zapiał. I wspomniał Piotr na słowa, które mu był powiedział Jezus: że pierwej niż kur dwakroć zapieje, trzykroć się mnie zaprzesz. A wyszedłszy, płakał."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A zaraz rano naradziwszy się przedniejsi kapłani z starszymi i z nauczonymi w Piśmie i ze wszystką radą, związali Jezusa, i wiedli go, i podali Piłatowi."
+        },
+        {
+          "number": 2,
+          "text": "I pytał go Piłat: Tyżeś jest król Żydowski? A on mu odpowiadając rzekł: Ty powiadasz."
+        },
+        {
+          "number": 3,
+          "text": "I skarżyli nań przedniejsi kapłani o wiele rzeczy: (ale on nic nie odpowiedział.)"
+        },
+        {
+          "number": 4,
+          "text": "Tedy go zasię pytał Piłat, mówiąc: Nic nie odpowiadasz? Oto jako wiele rzeczy świadczą przeciwko tobie."
+        },
+        {
+          "number": 5,
+          "text": "Ale Jezus przecię nic nie odpowiedział, tak iż się Piłat dziwował."
+        },
+        {
+          "number": 6,
+          "text": "A na święto zwykł im był wypuszczać więźnia jednego, o którego by prosili."
+        },
+        {
+          "number": 7,
+          "text": "I był jeden, którego zwano Barabbasz, w więzieniu z tymi, co rozruch czynią, którzy byli w rozruchu mężobójstwo popełnili."
+        },
+        {
+          "number": 8,
+          "text": "Tedy lud wystąpiwszy i głosem zawoławszy, począł prosić, żeby uczynił tak, jako im zawsze czynił,"
+        },
+        {
+          "number": 9,
+          "text": "Ale Piłat im odpowiedział, mówiąc: Chcecież, wypuszczę wam króla Żydowskiego?"
+        },
+        {
+          "number": 10,
+          "text": "(Wiedział bowiem, iż go z nienawiści wydali przedniejsi kapłani.)"
+        },
+        {
+          "number": 11,
+          "text": "Ale przedniejsi kapłani podburzali lud, iżby im raczej Barabbasza wypuścił."
+        },
+        {
+          "number": 12,
+          "text": "A odpowiadając Piłat, rzekł im zasię: Cóż tedy chcecie, abym uczynił temu, którego nazywacie królem żydowskim?"
+        },
+        {
+          "number": 13,
+          "text": "A oni znowu zawołali: Ukrzyżuj go!"
+        },
+        {
+          "number": 14,
+          "text": "A Piłat rzekł do nich: I cóż wżdy złego uczynił? Ale oni tem bardziej wołali: Ukrzyżuj go!"
+        },
+        {
+          "number": 15,
+          "text": "A tak Piłat, chcąc ludowi dosyć uczynić, wypuścił im Barabbasza, a Jezusa ubiczowawszy, podał im, aby był ukrzyżowany."
+        },
+        {
+          "number": 16,
+          "text": "Lecz żołnierze wprowadzili go do dworu, to jest do ratusza, i zwołali wszystkiej roty."
+        },
+        {
+          "number": 17,
+          "text": "A oblekłszy go w szarłat, i uplótłszy koronę z ciernia, włożyli nań;"
+        },
+        {
+          "number": 18,
+          "text": "I poczęli go pozdrawiać, mówiąc: Bądź pozdrowiony, królu żydowski!"
+        },
+        {
+          "number": 19,
+          "text": "I bili głowę jego trzciną i plwali nań, a upadając na kolana, kłaniali mu się."
+        },
+        {
+          "number": 20,
+          "text": "A gdy się z niego naśmiali, zewlekli go z szarłatu, i oblekli go w szaty jego własne, i wiedli go, aby go ukrzyżowali."
+        },
+        {
+          "number": 21,
+          "text": "Tedy przymusili mimo idącego niektórego Szymona Cyrenejczyka, (który szedł z pola,) ojca Aleksandrowego i Rufowego, aby niósł krzyż jego."
+        },
+        {
+          "number": 22,
+          "text": "I przywiedli go na miejsce Golgota, co się wykłada: Miejsce trupich głów."
+        },
+        {
+          "number": 23,
+          "text": "I dawali mu pić wino z myrrą; ale go on nie przyjął."
+        },
+        {
+          "number": 24,
+          "text": "A gdy go ukrzyżowali, rozdzielili szaty jego, miecąc o nie los, co by kto wziąć miał."
+        },
+        {
+          "number": 25,
+          "text": "A była trzecia godzina, gdy go ukrzyżowali."
+        },
+        {
+          "number": 26,
+          "text": "Był też napis winy jego napisany: Król żydowski."
+        },
+        {
+          "number": 27,
+          "text": "Ukrzyżowali też z nim dwóch zbójców; jednego po prawicy, a drugiego po lewicy jego."
+        },
+        {
+          "number": 28,
+          "text": "I wypełniło się Pismo, które mówi: Z złoczyńcami jest policzony."
+        },
+        {
+          "number": 29,
+          "text": "A ci, którzy mimo chodzili, bluźnili go, chwiejąc głowami swemi a mówiąc: Ehej! który rozwalasz kościół, a we trzech dniach budujesz go!"
+        },
+        {
+          "number": 30,
+          "text": "Ratuj samego siebie, a zstąp z krzyża!"
+        },
+        {
+          "number": 31,
+          "text": "Także też i przedniejsi kapłani naśmiewając się, jedni do drugich z nauczonymi w Piśmie mówili: Innych ratował, a siebie samego ratować nie może;"
+        },
+        {
+          "number": 32,
+          "text": "Niechże teraz Chrystus on król Izraelski zstąpi z krzyża, abyśmy ujrzeli i uwierzyli. Ci też, co z nim byli ukrzyżowani, urągali mu."
+        },
+        {
+          "number": 33,
+          "text": "A gdy było o godzinie szóstej, stała się ciemność po wszystkiej ziemi, aż do godziny dziewiątej."
+        },
+        {
+          "number": 34,
+          "text": "A o godzinie dziewiątej zawołał Jezus głosem wielkim, mówiąc: Eloi! Eloi! Lamma sabachtani, co się wykłada: Boże mój! Boże mój! czemuś mię opuścił?"
+        },
+        {
+          "number": 35,
+          "text": "A niektórzy z tych, co tam stali, usłyszawszy mówili: Oto Elijasza woła."
+        },
+        {
+          "number": 36,
+          "text": "Zatem bieżawszy jeden, napełnił gąbkę octem, a włożywszy ją na trzcinę, dawał mu pić, mówiąc: Zaniechajcie, patrzmy, jeźli przyjdzie Elijasz, zdejmować go."
+        },
+        {
+          "number": 37,
+          "text": "A Jezus zawoławszy głosem wielkim, oddał ducha."
+        },
+        {
+          "number": 38,
+          "text": "I rozerwała się zasłona kościelna na dwoje, od wierzchu aż do dołu."
+        },
+        {
+          "number": 39,
+          "text": "Tedy widząc setnik, który stał przeciwko niemu, iż tak wołając oddał ducha, rzekł: Prawdziwie człowiek ten był Synem Bożym."
+        },
+        {
+          "number": 40,
+          "text": "Były też i niewiasty z daleka się przypatrując, między któremi była Maryja Magdalena, i Maryja, Jakóba małego i Jozesa matka, i Salome;"
+        },
+        {
+          "number": 41,
+          "text": "Które gdy jeszcze były w Galilei, chodziły za nim, a posługowały mu; i wiele innych, które z nim były wstąpiły do Jeruzalemu."
+        },
+        {
+          "number": 42,
+          "text": "A gdy już był wieczór, (ponieważ był dzień przygotowania,) który jest przed sabatem,"
+        },
+        {
+          "number": 43,
+          "text": "Przyszedłszy Józef z Arymatyi, poczesny radny pan, który też sam oczekiwał królestwa Bożego, śmiele wszedł do Piłata, i prosił o ciało Jezusowe."
+        },
+        {
+          "number": 44,
+          "text": "A Piłat się dziwował, jeźliby już umarł; i zawoławszy setnika, pytał go, dawnoli umarł?"
+        },
+        {
+          "number": 45,
+          "text": "A dowiedziawszy się od setnika, darował ciało Józefowi."
+        },
+        {
+          "number": 46,
+          "text": "A on kupiwszy prześcieradło, zdjąwszy go, obwinął w prześcieradło, i położył go w grobie, który był wykowany z opoki, i przywalił kamień do drzwi grobowych."
+        },
+        {
+          "number": 47,
+          "text": "Ale Maryja Magdalena, i Maryja, matka Jozesowa, patrzały, kędy go położono."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A gdy minął sabat, Maryja Magdalena, i Maryja, matka Jakóbowa, i Salome, nakupiły wonnych rzeczy, aby przyszedłszy namazały go."
+        },
+        {
+          "number": 2,
+          "text": "A bardzo rano pierwszego dnia po sabacie przyszły do grobu, gdy weszło słońce."
+        },
+        {
+          "number": 3,
+          "text": "I mówili do siebie: Któż nam odwali kamień ode drzwi grobowych?"
+        },
+        {
+          "number": 4,
+          "text": "(A spojrzawszy ujrzały, iż był kamień odwalony;) bo był bardzo wielki."
+        },
+        {
+          "number": 5,
+          "text": "I wszedłszy w grób, ujrzały młodzieńca, siedzącego na prawicy, odzianego szatą białą; i ulękły się,"
+        },
+        {
+          "number": 6,
+          "text": "Ale im on rzekł: Nie lękajcie się; Jezusa szukacie onego Nazareńskiego, który był ukrzyżowany; wstał z martwych, nie masz go tu; oto miejsce, gdzie go było położono."
+        },
+        {
+          "number": 7,
+          "text": "Ale idźcie, a powiedzcie uczniom jego, i Piotrowi, że was uprzedza do Galilei; tam go oglądacie, jako wam powiedział."
+        },
+        {
+          "number": 8,
+          "text": "A wyszedłszy prędko, uciekły od grobu: albowiem zdjęło je drżenie i zdumienie, a nikomu nic nie powiadały; bo się bały."
+        },
+        {
+          "number": 9,
+          "text": "A Jezus, gdy zmartwychwstał raniuczko pierwszego dnia po sabacie, ukazał się naprzód Maryi Magdalenie, z której był wygnał siedm dyjabłów."
+        },
+        {
+          "number": 10,
+          "text": "A ona szedłszy, opowiedziała tym, co z nim bywali, którzy się smucili i płakali."
+        },
+        {
+          "number": 11,
+          "text": "A oni usłyszawszy, iż żyje, a iż jest widziany od niej, nie wierzyli."
+        },
+        {
+          "number": 12,
+          "text": "Potem się też dwom z nich idącym ukazał w innym kształcie, gdy szli przez pole."
+        },
+        {
+          "number": 13,
+          "text": "A ci szedłszy opowiedzieli drugim; i tym nie uwierzyli."
+        },
+        {
+          "number": 14,
+          "text": "Na ostatek się też onym jedenastu wespół siedzącym ukazał, i wyrzucał im na oczy niedowiarstwo ich, i zatwardzenie serca, iż tym, którzy go widzieli wzbudzonego, nie wierzyli."
+        },
+        {
+          "number": 15,
+          "text": "I rzekł im: Idąc na wszystek świat, każcie Ewangieliję wszystkiemu stworzeniu."
+        },
+        {
+          "number": 16,
+          "text": "Kto uwierzy, a ochrzci się, zbawion będzie; ale kto nie uwierzy, będzie potępion."
+        },
+        {
+          "number": 17,
+          "text": "A znamiona tych, co uwierzą, te naśladować będą: W imieniu mojem dyjabły wyganiać będą, nowemi językami mówić będą;"
+        },
+        {
+          "number": 18,
+          "text": "Węże brać będą, a choćby co śmiertelnego pili, nie zaszkodzi im; na niemocne ręce kłaść będą, a dobrze się mieć będą."
+        },
+        {
+          "number": 19,
+          "text": "A tak Pan przestawszy z nimi mówić, wzięty jest do nieba, i usiadł na prawicy Bożej."
+        },
+        {
+          "number": 20,
+          "text": "A oni wyszedłszy kazali wszędy, a Pan im pomagał, i słowa ich potwierdzał przez cuda, które czynili."
+        }
+      ]
+    }
+  ]
+}

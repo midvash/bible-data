@@ -1,0 +1,18 @@
+{
+  "slug": "dansk1931",
+  "shortName": "DA1931",
+  "name": "Dansk Bibel 1931",
+  "language": "da",
+  "year": 1931,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Danish authorized translation, 1931).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31168
+  },
+  "readerUrl": "https://midvash.com/dansk1931",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

@@ -1,0 +1,1837 @@
+{
+  "version": "bg",
+  "book": "1Cor",
+  "bookId": 46,
+  "englishName": "1 Corinthians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paweł, powołany Apostoł Jezusa Chrystusa przez wolę Bożą, i Sostenes brat."
+        },
+        {
+          "number": 2,
+          "text": "Zborowi Bożemu, który jest w Koryncie, poświęconym w Chrystusie Jezusie, powołanym świętym, ze wszystkimi, którzy wzywają imienia Pana naszego Jezusa Chrystusa na wszelkiem miejscu, i ich, i naszem."
+        },
+        {
+          "number": 3,
+          "text": "Łaska wam i pokój niech będzie od Boga, Ojca naszego, i od Pana Jezusa Chrystusa."
+        },
+        {
+          "number": 4,
+          "text": "Dziękuję Bogu mojemu zawsze za was dla łaski Bożej, która wam jest dana w Chrystusie Jezusie,"
+        },
+        {
+          "number": 5,
+          "text": "Iżeście we wszystkiem ubogaceni w nim we wszelkiej mowie i we wszelkiej znajomości;"
+        },
+        {
+          "number": 6,
+          "text": "Jako świadectwo Chrystusowe utwierdzone jest w was,"
+        },
+        {
+          "number": 7,
+          "text": "Tak iż wam na żadnym darze nie schodzi, którzy oczekujecie objawienia Pana naszego Jezusa Chrystusa."
+        },
+        {
+          "number": 8,
+          "text": "Który was też utwierdzi aż do końca, abyście byli bez nagany w dzień Pana naszego, Jezusa Chrystusa."
+        },
+        {
+          "number": 9,
+          "text": "Wiernyć jest Bóg, przez którego jesteście powołani ku społeczności Syna jego, Jezusa Chrystusa, Pana naszego."
+        },
+        {
+          "number": 10,
+          "text": "A proszę was, bracia! przez imię Pana naszego, Jezusa Chrystusa, abyście toż mówili wszyscy, a iżby nie były między wami rozerwania, ale abyście byli spojeni jednakim umysłem i jednakiem zdaniem."
+        },
+        {
+          "number": 11,
+          "text": "Albowiem oznajmiono mi o was, bracia moi! od domowników Chloi, iż poswarki są między wami."
+        },
+        {
+          "number": 12,
+          "text": "A to powiadam, iż każdy z was mówi: Jamci jest Pawłowy, a jam Apollosowy, a jam Kiefasowy, alem ja Chrystusowy."
+        },
+        {
+          "number": 13,
+          "text": "Rozdzielonyż jest Chrystus? Azaż Paweł za was ukrzyżowany? Alboście w imię Pawłowe ochrzczeni?"
+        },
+        {
+          "number": 14,
+          "text": "Dziękuję Bogu, żem żadnego z was nie chrzcił, oprócz Kryspa i Gajusa;"
+        },
+        {
+          "number": 15,
+          "text": "Aby kto nie rzekł, żem chrzcił w imię moje."
+        },
+        {
+          "number": 16,
+          "text": "Ochrzciłem też i dom Stefanowy; nadto nie wiem, jeźlim kogo drugiego ochrzcił."
+        },
+        {
+          "number": 17,
+          "text": "Boć mnie nie posłał Chrystus chrzcić, ale Ewangieliję kazać, wszakże nie w mądrości mowy, aby nie był wyniszczony krzyż Chrystusowy."
+        },
+        {
+          "number": 18,
+          "text": "Albowiem mowa o krzyżu tym, którzy giną, jest głupstwem; ale nam, którzy bywamy zbawieni, jest mocą Bożą."
+        },
+        {
+          "number": 19,
+          "text": "Bo napisano: Wniwecz obrócę mądrość mądrych, a rozum rozumnych odrzucę."
+        },
+        {
+          "number": 20,
+          "text": "Gdzież jest mądry? Gdzież jest uczony w Piśmie? Gdzież badacz wieku tego? Izali w głupstwo nie obrócił Bóg mądrości świata tego?"
+        },
+        {
+          "number": 21,
+          "text": "Albowiem ponieważ w mądrości Bożej świat nie poznał Boga przez mądrość, upodobało się Bogu przez głupie kazanie zbawić wierzących,"
+        },
+        {
+          "number": 22,
+          "text": "Gdyż i Żydowie się cudów domagają, a Grekowie mądrości szukają."
+        },
+        {
+          "number": 23,
+          "text": "Ale my każemy Chrystusa ukrzyżowanego, Żydom wprawdzie zgorszenie, a Grekom głupstwo;"
+        },
+        {
+          "number": 24,
+          "text": "Lecz samym powołanym i Żydom, i Grekom każemy Chrystusa, który jest mocą Bożą i mądrością Bożą."
+        },
+        {
+          "number": 25,
+          "text": "Albowiem głupstwo Boże jest mędrsze niż ludzie; a mdłość Boża jest mocniejsza niż ludzie."
+        },
+        {
+          "number": 26,
+          "text": "Widzicie zaiste powołanie wasze, bracia! iż niewiele mądrych według ciała, niewiele możnych, niewiele zacnego rodu;"
+        },
+        {
+          "number": 27,
+          "text": "Ale co głupiego jest u świata tego, to wybrał Bóg, aby zawstydził mądrych, a co mdłego u świata, wybrał Bóg, aby zawstydził mocnych."
+        },
+        {
+          "number": 28,
+          "text": "A podłego rodu u świata i wzgardzone wybrał Bóg, owszem te rzeczy, których nie masz, aby te, które są, zniszczył."
+        },
+        {
+          "number": 29,
+          "text": "Aby się nie chlubiło żadne ciało przed obliczem jego."
+        },
+        {
+          "number": 30,
+          "text": "Lecz z niego wy jesteście w Chrystusie Jezusie, który się nam stał mądrością od Boga i sprawiedliwością, i poświęceniem, i odkupieniem,"
+        },
+        {
+          "number": 31,
+          "text": "Aby, jako napisano: Kto się chlubi, w Panu się chlubił."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A ja gdym przyszedł do was, bracia! nie przyszedłem z wyniosłością mowy albo mądrości, opowiadając wam świadectwo Boże."
+        },
+        {
+          "number": 2,
+          "text": "Albowiem nie osądziłem za rzecz potrzebną, co inszego umieć między wami, tylko Jezusa Chrystusa, i to onego ukrzyżowanego."
+        },
+        {
+          "number": 3,
+          "text": "I byłem ja u was w słabości i w bojaźni i w strachu wielkim,"
+        },
+        {
+          "number": 4,
+          "text": "A mowa moja i kazanie moje nie było w powabnych mądrości ludzkiej słowach, ale w okazaniu ducha i mocy,"
+        },
+        {
+          "number": 5,
+          "text": "Aby się wiara wasza nie gruntowała na mądrości ludzkiej, ale na mocy Bożej."
+        },
+        {
+          "number": 6,
+          "text": "A mądrość mówimy między doskonałymi; ale mądrość nie tego świata, ani książąt tego świata, którzy giną;"
+        },
+        {
+          "number": 7,
+          "text": "Ale mówimy mądrość Bożą w tajemnicy, która jest zakryta, którą Bóg przeznaczył przed wieki ku chwale naszej,"
+        },
+        {
+          "number": 8,
+          "text": "Której żaden z książąt tego świata nie poznał; bo gdyby byli poznali, nigdy by Pana chwały nie ukrzyżowali;"
+        },
+        {
+          "number": 9,
+          "text": "Ale opowiadamy, jako napisano: Czego oko nie widziało i ucho nie słyszało i na serce ludzkie nie wstąpiło, co nagotował Bóg tym, którzy go miłują."
+        },
+        {
+          "number": 10,
+          "text": "Ale nam to Bóg objawił przez Ducha swojego; albowiem duch wszystkiego się bada, i głębokości Bożych."
+        },
+        {
+          "number": 11,
+          "text": "Bo któż z ludzi wie, co jest w człowieku, tylko duch człowieczy, który w nim jest? Także też i tego, co jest w Bogu, nikt nie wie, tylko Duch Boży."
+        },
+        {
+          "number": 12,
+          "text": "Aleśmy my nie przyjęli ducha świata, lecz Ducha, który jest z Boga, abyśmy wiedzieli, które rzeczy nam są od Boga darowane;"
+        },
+        {
+          "number": 13,
+          "text": "O których też mówimy, nie temi słowy, których ludzka mądrość naucza, ale których Duch Święty naucza, do duchownych rzeczy duchowne stosując."
+        },
+        {
+          "number": 14,
+          "text": "Ale cielesny człowiek nie pojmuje tych rzeczy, które są Ducha Bożego; albowiem mu są głupstwem i nie może ich poznać, przeto iż duchownie bywają rozsądzone."
+        },
+        {
+          "number": 15,
+          "text": "Aleć duchowny rozsądza wszystko; lecz sam od nikogo nie bywa rozsądzony."
+        },
+        {
+          "number": 16,
+          "text": "Albowiem któż poznał zmysł Pański? Któż go będzie uczył? Ale my zmysł Chrystusowy mamy."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I ja, bracia! nie mogłem wam mówić jako duchownym, ale jako cielesnym i jako niemowlątkom w Chrystusie."
+        },
+        {
+          "number": 2,
+          "text": "Napawałem was mlekiem, a nie karmiłem was pokarmem; boście jeszcze nie mogli znieść, owszem i teraz jeszcze nie możecie,"
+        },
+        {
+          "number": 3,
+          "text": "Gdyż jeszcze cielesnymi jesteście. Bo ponieważ między wami jest zazdrość i swary, i rozterki, azażeście nie cieleśni i według człowieka nie chodzicie?"
+        },
+        {
+          "number": 4,
+          "text": "Albowiem gdy kto mówi: Jam jest Pawłowy, a drugi: Jam Apollosowy, azaż cielesnymi nie jesteście?"
+        },
+        {
+          "number": 5,
+          "text": "Bo któż jest, Paweł? Kto Apollos? jedno słudzy, przez którycheście uwierzyli, a to jako każdemu Pan dał."
+        },
+        {
+          "number": 6,
+          "text": "Jam szczepił, Apollos polewał, ale Bóg wzrost dał."
+        },
+        {
+          "number": 7,
+          "text": "A tak, ani ten, co szczepi, jest czem, ani ten, co polewa, ale Bóg, który wzrost daje."
+        },
+        {
+          "number": 8,
+          "text": "Lecz ten, który szczepi, i ten, który polewa, jedno są, a każdy swoję zapłatę weźmie według pracy swojej."
+        },
+        {
+          "number": 9,
+          "text": "Albowiem jesteśmy pomocnikami Bożymi, wy Bożą rolą, Bożym budynkiem jesteście."
+        },
+        {
+          "number": 10,
+          "text": "Według łaski Bożej, która mi jest dana, jako mądry budownik założyłem grunt, a drugi na nim buduje: wszakże każdy niechaj baczy, jako na nim buduje."
+        },
+        {
+          "number": 11,
+          "text": "Albowiem gruntu innego nikt nie może założyć, oprócz tego, który jest założony, który jest Jezus Chrystus."
+        },
+        {
+          "number": 12,
+          "text": "A jeźli kto na tym gruncie buduje złoto, srebro, kamienie drogie, drwa, siano, słomę,"
+        },
+        {
+          "number": 13,
+          "text": "Każdego robota jawna będzie; bo to dzień pokaże, gdyż przez ogień objawiona będzie, a każdego roboty, jaka jest, ogień doświadczy."
+        },
+        {
+          "number": 14,
+          "text": "Jeźli czyja robota zostanie, którą na nim budował, zapłatę weźmie."
+        },
+        {
+          "number": 15,
+          "text": "Jeźli czyja robota zgore, ten szkodę podejmie; lecz on sam będzie zachowany, wszakże tak jako przez ogień."
+        },
+        {
+          "number": 16,
+          "text": "Azaż nie wiecie, iż kościołem Bożym jesteście, a Duch Boży mieszka w was?"
+        },
+        {
+          "number": 17,
+          "text": "A jeźli kto gwałci kościół Boży, tego Bóg skazi, albowiem kościół Boży święty jest, którym wy jesteście."
+        },
+        {
+          "number": 18,
+          "text": "Niechajże nikt samego siebie nie zwodzi; jeźli się kto sobie zda być mądrym między wami na tym świecie, niech się stanie głupim, aby się stał mądrym."
+        },
+        {
+          "number": 19,
+          "text": "Albowiem mądrość tego świata głupstwem jest u Boga; bo napisano: Który chwyta mądrych w chytrości ich;"
+        },
+        {
+          "number": 20,
+          "text": "I zasię: Pan zna myśli mądrych, iż są marnością."
+        },
+        {
+          "number": 21,
+          "text": "A tak niech się nikt nie chlubi ludźmi; albowiem wszystkie rzeczy są wasze."
+        },
+        {
+          "number": 22,
+          "text": "Bądź Paweł, bądź Apollos, bądź Kiefas, bądź świat, bądź żywot, bądź śmierć, bądź przytomne, bądź przyszłe rzeczy, wszystkie są wasze;"
+        },
+        {
+          "number": 23,
+          "text": "Aleście wy Chrystusowi, a Chrystus Boży."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tak niechaj o nas człowiek rozumie, jako o sługach Chrystusowych i o szafarzach tajemnic Bożych."
+        },
+        {
+          "number": 2,
+          "text": "A tegoć więc szukają przy szafarzach, aby każdy znaleziony był wiernym."
+        },
+        {
+          "number": 3,
+          "text": "Aleć u mnie to jest najmniejsza, żebym był od was sądzony, albo od sądu ludzkiego; lecz i sam siebie nie sądzę."
+        },
+        {
+          "number": 4,
+          "text": "Albowiem choć nic na się nie wiem, wszakże nie przeto jestem usprawiedliwiony; ale ten, który mnie sądzi, Pan jest."
+        },
+        {
+          "number": 5,
+          "text": "A tak nie sądźcie przed czasem, ażby Pan przyszedł, który też oświeci, co skrytego jest w ciemności i objawi rady serc; a tedy każdy będzie miał chwałę od Boga."
+        },
+        {
+          "number": 6,
+          "text": "A te rzeczy, bracia! w podobieństwie obróciłem na się i na Apollosa dla was, abyście się nauczyli z nas nad to, co napisane, nie rozumieć, iżbyście się jeden dla drugiego nie nadymali przeciwko drugiemu."
+        },
+        {
+          "number": 7,
+          "text": "Albowiem któż cię różnym czyni? I cóż masz, czego byś nie wziął? A jeźliżeś wziął, przeczże się chlubisz, jakobyś nie wziął?"
+        },
+        {
+          "number": 8,
+          "text": "Jużeście nasyceni, jużeście ubogaceni, bez nas królujecie; a bodajeście królowali, abyśmy i my z wami pospołu królowali!"
+        },
+        {
+          "number": 9,
+          "text": "Bo mam za to, iż Bóg nas ostatnich Apostołów wystawił jakoby na śmierć skazanych; albowiem staliśmy się dziwowiskiem światu, Aniołom i ludziom."
+        },
+        {
+          "number": 10,
+          "text": "Myśmy głupi dla Chrystusa, aleście wy roztropni w Chrystusie; myśmy słabi, aleście wy mocni; wyście zacni, aleśmy my bezecni."
+        },
+        {
+          "number": 11,
+          "text": "Jeszcze aż do tej godziny i łakniemy, i pragniemy, i nadzy jesteśmy, i bywamy policzkowani, i tułamy się,"
+        },
+        {
+          "number": 12,
+          "text": "I pracujemy, robiąc własnemi rękami; gdy nas hańbią, dobrorzeczemy, gdy nas prześladują, znosimy;"
+        },
+        {
+          "number": 13,
+          "text": "Gdy nam złorzeczą, modlimy się za nich: staliśmy się jako śmieci tego świata i jako omieciny u wszystkich, aż dotąd."
+        },
+        {
+          "number": 14,
+          "text": "To piszę, nie przeto, abym was zawstydził; ale jako dziatki moje miłe napominam."
+        },
+        {
+          "number": 15,
+          "text": "Bo choćbyście mieli dziesięć tysięcy pedagogów w Chrystusie, wszakże niewiele ojców macie; bom ja was w Jezusie Chrystusie przez Ewangieliję spłodził."
+        },
+        {
+          "number": 16,
+          "text": "Proszę was tedy, bądźcie naśladowcami moimi."
+        },
+        {
+          "number": 17,
+          "text": "Dlategom posłał do was Tymoteusza, który jest syn mój miły i wierny w Panu; ten wam przypomni drogi moje w Chrystusie, jako wszędy w każdym zborze nauczam."
+        },
+        {
+          "number": 18,
+          "text": "Ale tak się niektórzy nadęli, jakobym nie miał przyjść do was."
+        },
+        {
+          "number": 19,
+          "text": "Lecz przyjdę rychło do was, jeźli Pan będzie chciał, i poznam nie mowę tych nadętych, ale moc."
+        },
+        {
+          "number": 20,
+          "text": "Albowiem nie w mowie zależy królestwo Boże, ale w mocy."
+        },
+        {
+          "number": 21,
+          "text": "Cóż chcecie? z rózgąli mam przyjść do was, czyli z miłością i duchem cichości?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zapewne słychać, że jest między wami wszeteczeństwo, a takie wszeteczeństwo, jakie i między pogany nie bywa mianowane, aby kto miał mieć żonę ojca swego."
+        },
+        {
+          "number": 2,
+          "text": "A wyście się nadęli, a nie raczejście się smucili, aby był uprzątniony z pośrodku was ten, który ten uczynek popełnił."
+        },
+        {
+          "number": 3,
+          "text": "Przetoż ja, aczem odległy ciałem, lecz przytomny duchem, jużem jakobym był przytomny, osądził tego, który to tak popełnił,"
+        },
+        {
+          "number": 4,
+          "text": "Gdy się w imieniu Pana naszego Jezusa Chrystusa zgromadzicie, i z duchem moim, i z mocą Pana naszego, Jezusa Chrystusa,"
+        },
+        {
+          "number": 5,
+          "text": "Oddać szatanowi na zatracenie ciała, żeby duch był zachowany w on dzień Pana Jezusa."
+        },
+        {
+          "number": 6,
+          "text": "Nie dobrać to chluba wasza. Azaż nie wiecie, iż trochę kwasu wszystko zaczynienie zakwasza?"
+        },
+        {
+          "number": 7,
+          "text": "Wyczyścież tedy stary kwas, abyście byli nowem zaczynieniem, jako przaśnymi jesteście; albowiem Baranek nasz wielkanocny za nas ofiarowany jest, Chrystus."
+        },
+        {
+          "number": 8,
+          "text": "A tak obchodźmy święto nie w starym kwasie, ani w kwasie złości i rozpusty, ale w przaśnikach szczerości i prawdy."
+        },
+        {
+          "number": 9,
+          "text": "Pisałem wam w liście, abyście się nie mieszali z wszetecznikami;"
+        },
+        {
+          "number": 10,
+          "text": "Ale nie zgoła z wszetecznikami tego świata albo z łakomcami, albo z drapieżcami, albo z bałwochwalcami; bo inaczej musielibyście z tego świata wynijść."
+        },
+        {
+          "number": 11,
+          "text": "Lecz teraz pisałem wam, abyście się nie mieszali; jeźliby kto, mieniąc się być bratem, był wszetecznikiem, albo łakomcą, albo bałwochwalcą, albo obmówcą, albo pijanicą, albo ździercą, żebyście z takowym i nie jadali."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem cóż ja mam sądzić i obcych? Azaż wy tych, co są domowi, nie sądzicie?"
+        },
+        {
+          "number": 13,
+          "text": "Ale tych, którzy są obcymi, Bóg sądzi. Przetoż uprzątnijcie tego złośnika z pośrodku samych siebie."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Śmież kto z was, mając sprawę z drugim, sądzić się przed niesprawiedliwymi, a nie przed świętymi?"
+        },
+        {
+          "number": 2,
+          "text": "Azaż nie wiecie, iż święci będą sądzili świat? A jeźli świat od was będzie sądzony, czyliście niegodni, abyście sądy mniejsze odprawiali?"
+        },
+        {
+          "number": 3,
+          "text": "Azaż nie wiecie, iż Anioły sądzić będziemy? A cóż tych doczesnych rzeczy?"
+        },
+        {
+          "number": 4,
+          "text": "Przeto jeźlibyście mieli sądy o rzeczy doczesne, tych, którzy są najpodlejsi we zborze, na sąd wysadzajcie."
+        },
+        {
+          "number": 5,
+          "text": "Ku zawstydzeniu waszemu to mówię. Nie maszże między wami mądrego i jednego, który by mógł rozsądzić między braćmi swoimi?"
+        },
+        {
+          "number": 6,
+          "text": "Ale się brat z bratem prawuje, i to przed niewiernymi?"
+        },
+        {
+          "number": 7,
+          "text": "Już tedy zapewne jest między wami niedostatek, że się z sobą prawujecie. Czemuż raczej krzywdy nie cierpicie? Czemuż raczej szkody nie podejmujecie?"
+        },
+        {
+          "number": 8,
+          "text": "Owszem wy krzywdzicie i do szkody przywodzicie, a to braci."
+        },
+        {
+          "number": 9,
+          "text": "Azaż nie wiecie, iż niesprawiedliwi królestwa Bożego nie odziedziczą? Nie mylcie się: ani wszetecznicy, ani bałwochwalcy, ani cudzołożnicy, ani pieszczotliwi, ani samcołożnicy,"
+        },
+        {
+          "number": 10,
+          "text": "Ani złodzieje, ani łakomcy, ani pijanicy, ani złorzeczący, ani ździercy królestwa Bożego nie odziedziczą."
+        },
+        {
+          "number": 11,
+          "text": "A takimiście niektórzy byli; aleście omyci, aleście poświęceni, aleście usprawiedliwieni w imieniu Pana Jezusa i przez Ducha Boga naszego."
+        },
+        {
+          "number": 12,
+          "text": "Wszystko mi wolno, ale nie wszystko pożyteczno; wszystko mi wolno, ale ja się nie dam zniewolić żadnej rzeczy."
+        },
+        {
+          "number": 13,
+          "text": "Pokarmy brzuchowi należą, a brzuch pokarmom; ale Bóg i brzuch i pokarmy skazi; lecz ciało nie należy wszeteczeństwu ale Panu, a Pan ciału."
+        },
+        {
+          "number": 14,
+          "text": "Bo Bóg i Pana wzbudził, i nas wzbudzi mocą swoją."
+        },
+        {
+          "number": 15,
+          "text": "Azaż nie wiecie, iż ciała wasze są członkami Chrystusowymi? Wziąwszy tedy członki Chrystusowe, czyli je uczynię członkami wszetecznicy? Nie daj tego Boże!"
+        },
+        {
+          "number": 16,
+          "text": "Azaż nie wiecie, iż ten, co się złącza z wszetecznicą, jednem ciałem z nią jest? albowiem mówi: Będą dwoje jednem ciałem."
+        },
+        {
+          "number": 17,
+          "text": "A kto się złącza z Panem, jednym duchem jest z nim."
+        },
+        {
+          "number": 18,
+          "text": "Uciekajcie przed wszeteczeństwem. Wszelki grzech, który by człowiek popełnił, oprócz ciała jest; lecz kto wszeteczeństwo płodzi, przeciwko swemu własnemu ciału grzeszy."
+        },
+        {
+          "number": 19,
+          "text": "Azaż nie wiecie, iż ciało wasze jest kościołem Ducha Świętego, który w was jest, którego macie od Boga? a nie jesteście sami swoi;"
+        },
+        {
+          "number": 20,
+          "text": "Albowiemeście drogo kupieni. Wysławiajcież tedy Boga w ciele waszym i w duchu waszym, które są Boże."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lecz o tem, coście mi pisali: Dobrzećby człowiekowi, nie tykać się niewiasty;"
+        },
+        {
+          "number": 2,
+          "text": "Ale dla uwarowania się wszeteczeństwa niech każdy ma swoję własną żonę, a każda niech ma swego własnego męża."
+        },
+        {
+          "number": 3,
+          "text": "Mąż niech żonie powinną chęć oddaje, także też i żona mężowi."
+        },
+        {
+          "number": 4,
+          "text": "Żona własnego ciała swego w mocy nie ma, ale mąż; także też i mąż własnego ciała swego w mocy nie ma, ale żona."
+        },
+        {
+          "number": 5,
+          "text": "Nie oszukiwajcie jeden drugiego; chybaby z spólnego zezwolenia do czasu, abyście się uwolnili do postu i do modlitwy; a zasię wespół się schodźcie, aby was szatan nie kusił dla waszej niepowściągliwości."
+        },
+        {
+          "number": 6,
+          "text": "Ale to mówię jako pozwalając, a nie jako rozkazując."
+        },
+        {
+          "number": 7,
+          "text": "Albowiem chciałbym, aby wszyscy ludzie tak byli jako i ja; aleć każdy ma swój własny dar od Boga, jeden tak a drugi owak."
+        },
+        {
+          "number": 8,
+          "text": "A mówię nieżonatym i wdowom: Dobrze im jest, jeźliby tak zostali, jako i ja."
+        },
+        {
+          "number": 9,
+          "text": "Ale jeźli się wstrzymać nie mogą, niechże w stan małżeński wstąpią; boć lepiej w stan małżeński wstąpić, niż upalenie cierpieć."
+        },
+        {
+          "number": 10,
+          "text": "Tym zasię, którzy są w stanie małżeńskim, rozkazuję nie ja, ale Pan, mówiąc: Żeby się żona od męża nie odłączała."
+        },
+        {
+          "number": 11,
+          "text": "Ale jeźliby się też odłączyła, niechajże zostaje bez męża, albo niech się z mężem pojedna, a mąż żony niechaj nie opuszcza."
+        },
+        {
+          "number": 12,
+          "text": "A inszym zasię ja mówię, a nie Pan: Jeźli który brat ma żonę niewierną, a ta z nim przyzwala mieszkać, niechże jej nie opuszcza."
+        },
+        {
+          "number": 13,
+          "text": "A jeźli która żona męża niewiernego ma, a on przyzwala z nią mieszkać, niechże go nie opuszcza."
+        },
+        {
+          "number": 14,
+          "text": "Albowiem poświęcony jest mąż niewierny przez żonę i żona niewierna poświęcona jest przez męża; bo inaczej dziatki wasze byłyby nieczystemi, lecz teraz świętemi są."
+        },
+        {
+          "number": 15,
+          "text": "A jeźli ten, co jest niewierny, chce się odłączyć, niechże się odłączy; albowiem nie jest niewolnikiem brat albo siostra w takowych rzeczach; aleć ku pokojowi nas Bóg powołał."
+        },
+        {
+          "number": 16,
+          "text": "Albowiem co ty wiesz, żono! jeźli pozyskasz męża? Albo co ty wiesz, mężu! pozyskaszli żonę?"
+        },
+        {
+          "number": 17,
+          "text": "Jednak jako każdemu udzielił Bóg, jako każdego powołał Pan, tak niech postępuje; a takci we wszystkich zborach stanowię."
+        },
+        {
+          "number": 18,
+          "text": "Obrzezanym kto powołany jest, niechaj nie wprowadza na się nieobrzezki; a w nieobrzezce kto jest powołany, niech się nie obrzezuje."
+        },
+        {
+          "number": 19,
+          "text": "Obrzezka nic nie jest, także nieobrzezka nic nie jest; ale zachowywanie przykazań Bożych."
+        },
+        {
+          "number": 20,
+          "text": "Każdy w tem powołaniu, w którem powołany jest, niech zostaje."
+        },
+        {
+          "number": 21,
+          "text": "Jesteś powołany niewolnikiem, nie dbajże na to; ale jeźli też możesz być wolny, raczej wolności używaj."
+        },
+        {
+          "number": 22,
+          "text": "Albowiem kto w Panu powołany jest niewolnikiem, wolny jest w Panu; także też, kto jest powołany wolnym, niewolnikiem jest Chrystusowym."
+        },
+        {
+          "number": 23,
+          "text": "Drogoście kupieni; nie bądźcie niewolnikami ludzkimi,"
+        },
+        {
+          "number": 24,
+          "text": "Każdy tedy, jakim jest powołany bracia! takim niechaj zostaje przed Bogiem."
+        },
+        {
+          "number": 25,
+          "text": "A o pannach rozkazania Pańskiego nie mam; wszakże radę daję, jako ten, któremu Pan z miłosierdzia swego dał, aby był wiernym."
+        },
+        {
+          "number": 26,
+          "text": "Mniemam tedy, że to jest rzecz dobra dla następującej potrzeby, że jest rzecz dobra człowiekowi tak być."
+        },
+        {
+          "number": 27,
+          "text": "Przywiązałeś się do żony, nie szukajże rozwiązania; rozwiązanyś od żony, nie szukajże żony."
+        },
+        {
+          "number": 28,
+          "text": "A jeźlibyś się ożenił, nie zgrzeszyłeś; jeźliby też panna szła za mąż, nie zgrzeszyła; wszakże utrapienie w ciele takowi mieć będą; lecz ja was szanuję."
+        },
+        {
+          "number": 29,
+          "text": "A toć mówię, bracia! ponieważ czas potomny ukrócony jest, aby i ci, którzy żony mają, byli, jakoby ich nie mieli;"
+        },
+        {
+          "number": 30,
+          "text": "A którzy płaczą, jakoby nie płakali; a którzy się radują, jakoby się nie radowali; a którzy kupują, jakoby nie trzymali;"
+        },
+        {
+          "number": 31,
+          "text": "A którzy używają tego świata, jakoby źle nie używali; bo przemija kształt tego świata."
+        },
+        {
+          "number": 32,
+          "text": "A chcę, abyście wy byli bez kłopotu, bo kto nie ma żony, stara się o rzeczy Pańskie, jakoby się podobał Panu;"
+        },
+        {
+          "number": 33,
+          "text": "Ale kto się ożenił, stara się o rzeczy tego świata, jakoby się podobał żonie."
+        },
+        {
+          "number": 34,
+          "text": "Jest różność między mężatką i panną; która nie szła za mąż, stara się o rzeczy Pańskie, aby była święta i ciałem i duchem; ale która szła za mąż, stara się o rzeczy tego świata, jakoby się podobała mężowi."
+        },
+        {
+          "number": 35,
+          "text": "A toć mówię ku dobru waszemu; nie abym sidło na was wrzucił, ale abyście słusznie i przystojnie stali przy Panu bez rozerwania."
+        },
+        {
+          "number": 36,
+          "text": "A jeźli kto mniema, że nieprzystojnie sobie poczyna z panną swoją, gdyby z lat swoich wyszła, i do tego by jej przyszło, co chce, niechaj czyni, nie grzeszy; niechże idzie za mąż."
+        },
+        {
+          "number": 37,
+          "text": "Ale kto statecznie postanowił w sercu swem, potrzeby tego nie mając, lecz ma w mocy własną swoję wolę i to usądził w sercu swem, aby zachował pannę swoję, dobrze czyni."
+        },
+        {
+          "number": 38,
+          "text": "A tak ten, kto daje za mąż, dobrze czyni; ale który nie daje za mąż, lepiej czyni."
+        },
+        {
+          "number": 39,
+          "text": "Żona związana jest zakonem, póki żyje mąż jej; a jeźliby umarł mąż jej, wolna jest, aby szła, za kogo chce, tylko w Panu."
+        },
+        {
+          "number": 40,
+          "text": "Ale szczęśliwszą jest, jeźliby tak została według rady mojej; a mniemam, że i ja mam Ducha Bożego."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A o rzeczach, które bałwanom ofiarowane bywają, wiemy, iż wszyscy umiejętność mamy. Umiejętność nadyma, ale miłość buduje."
+        },
+        {
+          "number": 2,
+          "text": "A jeźli kto mniema, żeby co umiał, jeszcze nic nie umie, tak jakoby miał umieć;"
+        },
+        {
+          "number": 3,
+          "text": "Lecz jeźli kto miłuje Boga, ten jest wyuczony od niego."
+        },
+        {
+          "number": 4,
+          "text": "A przetoż o pokarmach, które bywają bałwanom ofiarowane, wiemy, iż bałwan na świecie nic nie jest, a iż nie masz żadnego inszego Boga, tylko jeden."
+        },
+        {
+          "number": 5,
+          "text": "Bo choć są, którzy bogami nazywani bywają i na niebie, i na ziemi: (jakoż jest wiele bogów i wiele panów.)"
+        },
+        {
+          "number": 6,
+          "text": "Ale my mamy jednego Boga Ojca, z którego wszystko, a my w nim; i jednego Pana Jezusa Chrystusa, przez którego wszystko, a my przezeń."
+        },
+        {
+          "number": 7,
+          "text": "Ale nie we wszystkich jest ta umiejętność; albowiem niektórzy sumienie mając dla bałwana aż dotąd, jedzą jako rzecz bałwanom ofiarowaną, a sumienie ich będąc mdłe, pokalane bywa."
+        },
+        {
+          "number": 8,
+          "text": "Aleć nas pokarm nie zaleca Bogu; bo choćbyśmy jedli, nic nam nie przybywa; a choćbyśmy i nie jedli, nic nam nie ubywa."
+        },
+        {
+          "number": 9,
+          "text": "Jednak baczcie, aby snać ta wolność wasza nie była mdłym ku zgorszeniu."
+        },
+        {
+          "number": 10,
+          "text": "Albowiem jeźliby kto ujrzał cię, który masz umiejętność, w bałwochwalni siedzącego, azaż sumienie onego, który jest mdły, nie będzie pobudzone ku jedzeniu rzeczy bałwanom ofiarowanych?"
+        },
+        {
+          "number": 11,
+          "text": "I zginie dla onej twojej umiejętności brat mdły, za którego Chrystus umarł."
+        },
+        {
+          "number": 12,
+          "text": "A grzesząc tak przeciwko braciom i mdłe ich sumienie obrażając, grzeszycie przeciwko Chrystusowi."
+        },
+        {
+          "number": 13,
+          "text": "Przeto, jeźli pokarm gorszy brata mego, nie będę jadł mięsa na wieki, abym brata mego nie zgorszył."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Izalim nie jest Apostołem? Izalim nie jest wolnym? Izalim Jezusa Chrystusa, Pana naszego nie widział? Izali wy nie jesteście pracą moją w Panu?"
+        },
+        {
+          "number": 2,
+          "text": "Choćbym innym nie był Apostołem, alem wam jest; albowiem pieczęcią apostolstwa mego wy jesteście w Panu."
+        },
+        {
+          "number": 3,
+          "text": "Tać jest obrona moja przeciwko tym, którzy mię sądzą."
+        },
+        {
+          "number": 4,
+          "text": "Izali nie mamy wolności jeść i pić?"
+        },
+        {
+          "number": 5,
+          "text": "Izali nie mamy wolności wodzić z sobą siostry żony, jako i drudzy Apostołowie i bracia Pańscy, i Kiefas?"
+        },
+        {
+          "number": 6,
+          "text": "Izali ja tylko i Barnabasz nie mamy wolności, abyśmy nie pracowali?"
+        },
+        {
+          "number": 7,
+          "text": "Któż kiedy służy żołnierkę swoim kosztem? Któż sadzi winnicę, a owocu jej nie pożywa? Albo któż trzodę pasie, a mleka trzody nie pożywa?"
+        },
+        {
+          "number": 8,
+          "text": "Izali to obyczajem ludzkim mówię? Izali i zakon tegoż nie mówi?"
+        },
+        {
+          "number": 9,
+          "text": "Albowiem w zakonie Mojżeszowym napisano: Nie zawiążesz gęby wołowi młócącemu; izali się Bóg o woły stara?"
+        },
+        {
+          "number": 10,
+          "text": "Czyli zgoła dla nas to mówi? Albowiem dla nas to napisano; gdyż w nadziei ma orać ten, co orze, a kto młóci w nadziei, nadziei swojej ma być uczestnikiem."
+        },
+        {
+          "number": 11,
+          "text": "Ponieważeśmy my wam duchowne dobra siali, wielkaż to, gdybyśmy wasze cielesne żęli?"
+        },
+        {
+          "number": 12,
+          "text": "Jeźliż insi tej wolności nad wami używają, czemuż nie raczej my? A wszakżeśmy tej wolności nie używali, ale wszystko znaszamy, abyśmy jakiego wstrętu Ewangielii Chrystusowej nie uczynili."
+        },
+        {
+          "number": 13,
+          "text": "Azaż nie wiecie, iż ci, którzy około rzeczy świętych pracują, z świętych rzeczy jadają? a którzy ołtarza pilnują, spólną cząstkę z ołtarzem mają?"
+        },
+        {
+          "number": 14,
+          "text": "Tak też Pan postanowił tym, którzy Ewangieliję opowiadają, aby z Ewangielii żyli."
+        },
+        {
+          "number": 15,
+          "text": "Alem ja nic z tych rzeczy nie używał. I nie pisałem tego, aby się tak przy mnie działo; bo mnie daleko lepiej umrzeć, niżby kto przechwalanie moje miał próżnem uczynić."
+        },
+        {
+          "number": 16,
+          "text": "Bo jeźli Ewangieliję opowiadam, nie mam się czem chlubić, gdyż ta powinność na mnie leży; a biada mnie, jeźlibym Ewangielii nie opowiadał."
+        },
+        {
+          "number": 17,
+          "text": "Albowiem jeźli to dobrowolnie czynię, mam zapłatę; jeźli poniewolnie, szafarstwa mi powierzono."
+        },
+        {
+          "number": 18,
+          "text": "Jakąż tedy mam zapłatę? Abym Ewangieliję opowiadając, bez nakładu wystawił Ewangieliję Chrystusową, na to, żebym źle nie używał wolności mojej przy Ewangielii."
+        },
+        {
+          "number": 19,
+          "text": "Albowiem będąc wolnym od wszystkich, samegom siebie uczynił niewolnikiem wszystkim, abym ich więcej pozyskał."
+        },
+        {
+          "number": 20,
+          "text": "I stałem się Żydom jako Żyd, abym Żydów pozyskał; a tym, którzy są pod zakonem, jakobym był pod zakonem, abym tych, którzy są pod zakonem, pozyskał;"
+        },
+        {
+          "number": 21,
+          "text": "Tym, którzy są bez zakonu, jakobym bez zakonu, (nie będąc bez zakonu Bogu, ale będąc pod zakonem Chrystusowi), abym pozyskał tych, którzy są bez zakonu."
+        },
+        {
+          "number": 22,
+          "text": "Stałem się mdłym jako mdły, abym mdłych pozyskał. Wszystkim stałem się wszystko, abym przecię niektórych zbawił."
+        },
+        {
+          "number": 23,
+          "text": "A to czynię dla Ewangielii, abym się jej stał uczestnikiem."
+        },
+        {
+          "number": 24,
+          "text": "Azaż nie wiecie, iż ci, którzy w zawód bieżą, wszyscyć więc bieżą, lecz jeden zakład bierze? Także bieżcie, abyście otrzymali."
+        },
+        {
+          "number": 25,
+          "text": "A każdy, który się potyka, we wszystkiem się powściąga, onić wprawdzie, aby wzięli koronę skazitelną, ale my nieskazitelną."
+        },
+        {
+          "number": 26,
+          "text": "Ja tedy tak bieżę, nie jako na niepewne; tak szermuję, nie jako wiatr bijąc."
+        },
+        {
+          "number": 27,
+          "text": "Ale karzę ciało moje i w niewolę podbijam, abym snać inszym każąc, sam nie był odrzucony."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A nie chcę, abyście nie mieli wiedzieć bracia! iż ojcowie nasi wszyscy pod obłokiem byli i wszyscy przez morze przeszli;"
+        },
+        {
+          "number": 2,
+          "text": "I wszyscy w Mojżesza ochrzczeni są w obłoku i w morzu;"
+        },
+        {
+          "number": 3,
+          "text": "I wszyscy tenże pokarm duchowny jedli;"
+        },
+        {
+          "number": 4,
+          "text": "I wszyscy tenże napój duchowny pili; albowiem pili z opoki duchownej, która za nimi szła; a tą opoką był Chrystus."
+        },
+        {
+          "number": 5,
+          "text": "Lecz większej części z nich nie upodobał sobie Bóg; albowiem polegli na puszczy."
+        },
+        {
+          "number": 6,
+          "text": "A te rzeczy stały się nam za wzór na to, abyśmy złych rzeczy nie pożądali, jako i oni pożądali"
+        },
+        {
+          "number": 7,
+          "text": "Nie bądźcież tedy bałwochwalcami jako niektórzy z nich, tak jako napisano: Siadł lud, aby jadł i pił, i wstali grać."
+        },
+        {
+          "number": 8,
+          "text": "Ani się dopuszczajmy wszeteczeństwa, jako się niektórzy z nich wszeteczeństwa dopuszczali i padło ich jednego dnia dwadzieścia i trzy tysiące."
+        },
+        {
+          "number": 9,
+          "text": "Ani kuśmy Chrystusa, jako niektórzy z nich kusili i od wężów poginęli."
+        },
+        {
+          "number": 10,
+          "text": "Ani szemrzyjcie, jako niektórzy z nich szemrali, i poginęli od tego, który wytraca."
+        },
+        {
+          "number": 11,
+          "text": "A te wszystkie rzeczy przydały się im za wzór, a napisane są dla napomnienia naszego, na których koniec świata przyszedł."
+        },
+        {
+          "number": 12,
+          "text": "A tak kto mniema, że stoi, niechże patrzy, aby nie upadł."
+        },
+        {
+          "number": 13,
+          "text": "Pokuszenie się was nie jęło, tylko ludzkie; ale wiernyć jest Bóg, który nie dopuści, abyście byli kuszeni nad możność waszę, ale uczyni z pokuszeniem i wyjście, abyście znosić mogli."
+        },
+        {
+          "number": 14,
+          "text": "Przetoż, najmilsi moi! uciekajcie przed bałwochwalstwem."
+        },
+        {
+          "number": 15,
+          "text": "Jako mądrym mówię; rozsądźcie wy, co mówię."
+        },
+        {
+          "number": 16,
+          "text": "Kielich błogosławienia, który błogosławimy, izali nie jest społecznością krwi Chrystusowej? Chleb, który łamiemy, izali nie jest społecznością ciała Chrystusowego?"
+        },
+        {
+          "number": 17,
+          "text": "Albowiem jednym chlebem, jednym ciałem wiele nas jest; bo wszyscy chleba jednego jesteśmy uczestnikami."
+        },
+        {
+          "number": 18,
+          "text": "Spojrzyjcie na Izraela, który jest według ciała; izaż ci, którzy jedzą ofiary, nie są uczestnikami ołtarza?"
+        },
+        {
+          "number": 19,
+          "text": "Cóż tedy mówię? Żeby bałwan miał być czem, a iżby to, co bywa bałwanom ofiarowane, miało czem być?"
+        },
+        {
+          "number": 20,
+          "text": "Owszem powiadam, iż to, co poganie ofiarują, dyjabłom ofiarują a nie Bogu; a nie chciałbym, abyście byli uczestnikami dyjabłów."
+        },
+        {
+          "number": 21,
+          "text": "Nie możecie pić kielicha Pańskiego i kielicha dyjabelskiego; nie możecie być uczestnikami stołu Pańskiego i stołu dyjabelskiego."
+        },
+        {
+          "number": 22,
+          "text": "I mamyż drażnić Pana? Izaliśmy mocniejsi niżeli on?"
+        },
+        {
+          "number": 23,
+          "text": "Wszystko mi wolno, ale nie wszystko pożyteczne; wszystko mi wolno, ale nie wszystko buduje."
+        },
+        {
+          "number": 24,
+          "text": "Nikt niechaj nie szuka tego, co jest jego, ale każdy, co jest bliźniego."
+        },
+        {
+          "number": 25,
+          "text": "Cokolwiek w jatkach sprzedawają, jedzcie, nic nie pytając dla sumienia."
+        },
+        {
+          "number": 26,
+          "text": "Albowiem Pańska jest ziemia i napełnienie jej."
+        },
+        {
+          "number": 27,
+          "text": "A jeźliby was kto zaprosił z niewiernych, a chcecie iść, wszystko, co przed was położą, jedzcie, nic nie pytając dla sumienia."
+        },
+        {
+          "number": 28,
+          "text": "Ale jeźliby wam kto rzekł: To jest bałwanom ofiarowane, nie jedzcie dla onego, który to oznajmił i dla sumienia; albowiem Pańska jest ziemia i napełnienie jej."
+        },
+        {
+          "number": 29,
+          "text": "A powiadam dla sumienia, nie twego, ale onego drugiego; bo przeczże wolność moja ma być osądzona od cudzego sumienia?"
+        },
+        {
+          "number": 30,
+          "text": "A ponieważ ja z dziękowaniem pożywam, czemuż o to mam być bluźniony, za co ja dziękuję?"
+        },
+        {
+          "number": 31,
+          "text": "Przetoż lub jecie lub pijecie, lub cokolwiek czynicie, wszystko ku chwale Bożej czyńcie."
+        },
+        {
+          "number": 32,
+          "text": "Nie bądźcie obrażeniem i Żydom, i Grekom, i zborowi Bożemu;"
+        },
+        {
+          "number": 33,
+          "text": "Jako i ja we wszystkiem się wszystkim podobam, nie szukając w tem swego pożytku, ale wielu ich, aby byli zbawieni."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bądźcie naśladowcami moimi, jakom i ja Chrystusowy;"
+        },
+        {
+          "number": 2,
+          "text": "A chwalę was, bracia! iż pamiętacie wszystkie moje nauki, a jakom wam podał, podania trzymacie."
+        },
+        {
+          "number": 3,
+          "text": "A chcę, abyście wiedzieli, iż każdego męża głową jest Chrystus, a głową niewiasty mąż, a głową Chrystusową Bóg."
+        },
+        {
+          "number": 4,
+          "text": "Każdy mąż, gdy się modli albo prorokuje z przykrytą głową, szpeci głowę swoję."
+        },
+        {
+          "number": 5,
+          "text": "I każda niewiasta, gdy się modli albo prorokuje, nie nakrywszy głowy swojej, szpeci głowę swoję; boć to jedno, a toż samo jest, jakoby ogolona była."
+        },
+        {
+          "number": 6,
+          "text": "Albowiem jeźli się nie nakrywa niewiasta, niechże się też strzyże; a jeźli szpetna rzecz jest niewieście, strzyc się albo golić, niechże się nakrywa."
+        },
+        {
+          "number": 7,
+          "text": "Albowiem mąż nie ma nakrywać głowy, gdyż jest wyobrażeniem i chwałą Bożą; ale niewiasta jest chwałą mężową."
+        },
+        {
+          "number": 8,
+          "text": "Bo mąż nie jest z niewiasty, ale niewiasta z męża."
+        },
+        {
+          "number": 9,
+          "text": "Albowiem mąż nie jest stworzony dla niewiasty, ale niewiasta dla męża."
+        },
+        {
+          "number": 10,
+          "text": "A przetoż niewiasta powinna mieć władzę na głowie dla Aniołów."
+        },
+        {
+          "number": 11,
+          "text": "A wszakże mąż nie jest bez niewiasty, ani niewiasta nie jest bez męża w Panu."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem jako niewiasta z męża jest, tak też mąż przez niewiastę; jednak wszystkie rzeczy są z Boga."
+        },
+        {
+          "number": 13,
+          "text": "Sami u siebie rozsądźcie, przystoili niewieście bez nakrycia modlić się Bogu?"
+        },
+        {
+          "number": 14,
+          "text": "Azaż was i samo przyrodzenie nie uczy, iż mężowi, gdyby włosy zapuszczał, jest mu ku zelżywości?"
+        },
+        {
+          "number": 15,
+          "text": "Ale niewiasta, jeźli zapuszcza włosy, jest jej ku poczciwości, przeto iż jej włosy dane są za przykrycie."
+        },
+        {
+          "number": 16,
+          "text": "A jeźliby się kto zdał być swarliwym, my takiego obyczaju nie mamy, ani zbory Boże."
+        },
+        {
+          "number": 17,
+          "text": "A to opowiadając nie chwalę, że się nie ku lepszemu, ale ku gorszemu schodzicie."
+        },
+        {
+          "number": 18,
+          "text": "Albowiem najprzód, gdy się wy schodzicie we zborze, słyszę, iż rozerwania bywają między wami, i poniekąd wierzę."
+        },
+        {
+          "number": 19,
+          "text": "Bo muszą być kacerstwa między wami, aby ci, którzy są doświadczeni, byli jawnymi między wami."
+        },
+        {
+          "number": 20,
+          "text": "Gdy się wy tedy wespół schodzicie, nie jest to używać wieczerzy Pańskiej."
+        },
+        {
+          "number": 21,
+          "text": "Albowiem każdy wieczerzę swoję pierwej zjada i jeden łaknie, a drugi jest pijany."
+        },
+        {
+          "number": 22,
+          "text": "Azaż domów nie macie do jedzenia i do picia? Albo zborem Bożym gardzicie i zawstydzacie tych, którzy nie mają? Cóż wam rzekę? Pochwalęż was? W tem nie chwalę."
+        },
+        {
+          "number": 23,
+          "text": "Albowiem jam wziął od Pana, com też wam podał, iż Pan Jezus tej nocy, której był wydan, wziął chleb,"
+        },
+        {
+          "number": 24,
+          "text": "A podziękowawszy, złamał i rzekł: Bierzcie, jedzcie; to jest ciało moje, które za was bywa łamane; to czyńcie na pamiątkę moję."
+        },
+        {
+          "number": 25,
+          "text": "Także i kielich, gdy było po wieczerzy mówiąc: Ten kielich jest nowy testament we krwi mojej; to czyńcie, ilekroć pić będziecie, na pamiątkę moję"
+        },
+        {
+          "number": 26,
+          "text": "Albowiem ilekroć byście jedli ten chleb i ten kielich byście pili, śmierć Pańską opowiadajcie, ażby przyszedł."
+        },
+        {
+          "number": 27,
+          "text": "A tak, kto by jadł ten chleb, albo pił ten kielich Pański niegodnie, będzie winien ciała i krwi Pańskiej."
+        },
+        {
+          "number": 28,
+          "text": "Niechże tedy człowiek samego siebie doświadczy, a tak niech je z chleba tego i z kielicha tego niechaj pije."
+        },
+        {
+          "number": 29,
+          "text": "Albowiem kto je i pije niegodnie, sąd sobie samemu je i pije, nie rozsądzając ciała Pańskiego."
+        },
+        {
+          "number": 30,
+          "text": "Dlatego między wami wiele jest słabych i chorych, i niemało ich zasnęło."
+        },
+        {
+          "number": 31,
+          "text": "Bo gdybyśmy się sami rozsądzali, nie bylibyśmy sądzeni."
+        },
+        {
+          "number": 32,
+          "text": "Lecz gdy sądzeni bywamy, od Pana bywamy ćwiczeni, abyśmy z światem nie byli potępieni."
+        },
+        {
+          "number": 33,
+          "text": "Ale tak, bracia moi! gdy się schodzicie ku jedzeniu, oczekiwajcie jedni drugich."
+        },
+        {
+          "number": 34,
+          "text": "A jeźli kto łaknie, niechże je w domu, abyście się na sąd nie schodzili. A inne rzeczy, gdy przyjdę, postanowię."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A o duchownych darach, bracia! nie chcę, abyście wiedzieć nie mieli."
+        },
+        {
+          "number": 2,
+          "text": "Wiecie, iż gdyście poganami byli, do bałwanów niemych, jako was wodzono, daliście się prowadzić."
+        },
+        {
+          "number": 3,
+          "text": "Przetoż oznajmuję wam, iż nikt przez Ducha Bożego mówiąc, nie rzecze Jezusa być przeklęstwem; i nikt nie może nazwać Jezusa Panem, tylko przez Ducha Świętego."
+        },
+        {
+          "number": 4,
+          "text": "A różneć są dary, ale tenże Duch."
+        },
+        {
+          "number": 5,
+          "text": "I różne są posługi, ale tenże Pan."
+        },
+        {
+          "number": 6,
+          "text": "I różne są sprawy, ale tenże Bóg, który sprawuje wszystko we wszystkich."
+        },
+        {
+          "number": 7,
+          "text": "A każdemu bywa dane objawienie Ducha ku pożytkowi."
+        },
+        {
+          "number": 8,
+          "text": "Albowiem jednemu przez Ducha bywa dana mowa mądrości, a drugiemu mowa umiejętności przez tegoż Ducha;"
+        },
+        {
+          "number": 9,
+          "text": "A drugiemu wiara w tymże Duchu, a drugiemu dar uzdrawiania w tymże Duchu, a drugiemu czynienie cudów, a drugiemu proroctwo, a drugiemu rozeznanie duchów."
+        },
+        {
+          "number": 10,
+          "text": "A drugiemu rozmaite języki, a drugiemu wykładanie języków."
+        },
+        {
+          "number": 11,
+          "text": "A to wszystko sprawuje jeden a tenże Duch, udzielając z osobna każdemu, jako chce."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem jako ciało jedno jest, a członków ma wiele, ale wszystkie członki ciała jednego, choć ich wiele jest, są jednym ciałem: tak i Chrystus."
+        },
+        {
+          "number": 13,
+          "text": "Albowiem przez jednego Ducha my wszyscy w jedno ciało jesteśmy ochrzczeni, bądź Żydowie, bądź Grekowie, bądź niewolnicy, bądź wolni, a wszyscy napojeni jesteśmy w jednego Ducha."
+        },
+        {
+          "number": 14,
+          "text": "Albowiem ciało nie jest jednym członkiem, ale wieloma."
+        },
+        {
+          "number": 15,
+          "text": "Jeźliby rzekła noga: Ponieważem nie jest ręką, nie jestem z ciała; izali dlatego nie jest z ciała?"
+        },
+        {
+          "number": 16,
+          "text": "A jeźliby rzekło ucho: Ponieważem nie jest okiem, nie jestem z ciała; izali dlatego nie jest z ciała?"
+        },
+        {
+          "number": 17,
+          "text": "Jeźliż wszystko ciało jest okiem, gdzież słuch? a jeźliż wszystko słuchem, gdzież powonienie?"
+        },
+        {
+          "number": 18,
+          "text": "Ale teraz Bóg ułożył członki, każdy z nich z osobna w ciele, jako chciał."
+        },
+        {
+          "number": 19,
+          "text": "A jeźliby wszystkie były jednym członkiem, gdzieżby było ciało?"
+        },
+        {
+          "number": 20,
+          "text": "Ale teraz, acz jest wiele członków, lecz jedno jest ciało."
+        },
+        {
+          "number": 21,
+          "text": "Nie może tedy rzec oko ręce: Nie potrzebuję ciebie, albo zaś głowa nogom: Nie potrzebuję was."
+        },
+        {
+          "number": 22,
+          "text": "I owszem daleko więcej członki, które się zdadzą być najmdlejsze w ciele, potrzebne są."
+        },
+        {
+          "number": 23,
+          "text": "A które mamy za najniepoczciwsze w ciele, tym większą poczciwość wyrządzamy, a niepoczciwe członki nasze obfitszą poczciwość mają."
+        },
+        {
+          "number": 24,
+          "text": "Bo poczciwe członki nasze tego nie potrzebują; lecz Bóg tak umiarkował ciało, dawszy członkowi, któremu czci nie dostaje, obfitszą poczciwość."
+        },
+        {
+          "number": 25,
+          "text": "Aby nie było rozerwania w ciele, ale iżby jedne członki o drugich jednakież staranie miały."
+        },
+        {
+          "number": 26,
+          "text": "A przetoż jeźliże jeden członek cierpi, cierpią z nim wszystkie członki; a jeźli bywa uczczony jeden członek, radują się z nim wszystkie członki."
+        },
+        {
+          "number": 27,
+          "text": "Lecz wy jesteście ciałem Chrystusowym i członkami, każdy z osobna."
+        },
+        {
+          "number": 28,
+          "text": "A niektórych Bóg postanowił we zborze, najprzód Apostołów, potem proroków, po trzecie nauczycieli, potem cudotwórców, potem dary uzdrawiania, pomocników, rządców, rozmaitość języków."
+        },
+        {
+          "number": 29,
+          "text": "Izali wszyscy są Apostołami? Izali wszyscy prorokami? Izali wszyscy nauczycielami? Izali wszyscy cudotwórcami?"
+        },
+        {
+          "number": 30,
+          "text": "Izali wszyscy mają dary uzdrawiania? Izali wszyscy językami mówią? Izali wszyscy tłumaczą?"
+        },
+        {
+          "number": 31,
+          "text": "Starajcie się usilnie o lepsze dary; a ja wam jeszcze zacniejszą drogę ukażę."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Choćbym mówił językami ludzkimi i anielskimi, a miłości bym nie miał, stałem się jako miedź brząkająca, albo cymbał brzmiący."
+        },
+        {
+          "number": 2,
+          "text": "I choćbym miał proroctwo i wiedziałbym wszystkie tajemnice, i wszelką umiejętność, i choćbym miał wszystkę wiarę, tak żebym góry przenosił, a miłości bym nie miał, nicem nie jest."
+        },
+        {
+          "number": 3,
+          "text": "I choćbym wynałożył na żywność ubogich wszystkę majętność moję, i choćbym wydał ciało moje, abym był spalony, a miłości bym nie miał, nic mi to nie pomoże."
+        },
+        {
+          "number": 4,
+          "text": "Miłość jest długo cierpliwa, dobrotliwa jest; miłość nie zajrzy, miłość nie jest rozpustna, nie nadyma się;"
+        },
+        {
+          "number": 5,
+          "text": "Nie czyni nic nieprzystojnego, nie szuka swoich rzeczy, nie jest porywcza do gniewu, nie myśli złego;"
+        },
+        {
+          "number": 6,
+          "text": "Nie raduje się z niesprawiedliwości, ale się raduje z prawdy;"
+        },
+        {
+          "number": 7,
+          "text": "Wszystko okrywa, wszystkiemu wierzy, wszystkiego się spodziewa, wszystko cierpi."
+        },
+        {
+          "number": 8,
+          "text": "Miłość nigdy nie ustaje; bo choć są proroctwa, te zniszczeją; choć języki, te ustaną; choć umiejętność, wniwecz się obróci."
+        },
+        {
+          "number": 9,
+          "text": "Albowiem po części znamy i po części prorokujemy."
+        },
+        {
+          "number": 10,
+          "text": "Ale gdy przyjdzie to, co jest doskonałego, tedy to, co jest po części, zniszczeje."
+        },
+        {
+          "number": 11,
+          "text": "Pókim był dziecięciem, mówiłem jako dziecię, rozumiałem jako dziecię, rozmyślałem jako dziecię; lecz gdym się stał mężem, zaniechałem rzeczy dziecinnych."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem teraz widzimy przez zwierciadło i niby w zagadce; ale na on czas twarzą w twarz; teraz poznaję po części, ale na on czas poznam, jakom i poznany jest."
+        },
+        {
+          "number": 13,
+          "text": "A teraz zostaje wiara, nadzieja, miłość, te trzy rzeczy; lecz z nich największa jest miłość."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Naśladujcie miłości, starajcie się usilnie o dary duchowne; lecz najwięcej, abyście prorokowali."
+        },
+        {
+          "number": 2,
+          "text": "Albowiem kto mówi językiem obcym, nie ludziom mówi, ale Bogu; bo żaden nie słucha, lecz on duchem mówi tajemnice."
+        },
+        {
+          "number": 3,
+          "text": "Ale kto prorokuje, mówi ludziom zbudowanie i napominanie, i pociechę."
+        },
+        {
+          "number": 4,
+          "text": "Kto językiem obcym mówi, samego siebie buduje; ale kto prorokuje, ten zbór buduje."
+        },
+        {
+          "number": 5,
+          "text": "A chciałbym, abyście wy wszyscy językami mówili, ale abyście raczej prorokowali; albowiem większy jest ten, co prorokuje, niż ten, co językami obcymi mówi, chyba żeby tłumaczył, aby zbór brał zbudowanie."
+        },
+        {
+          "number": 6,
+          "text": "Teraz tedy, bracia! gdybym przyszedł do was, językami obcymi mówiąc, cóż wam pomogę, jeźlibym wam nie mówił albo przez objawienie, albo przez umiejętność, albo przez proroctwo, albo przez naukę?"
+        },
+        {
+          "number": 7,
+          "text": "Wszak i rzeczy nieżywe, które dźwięk wydawają jako piszczałka albo cytra, jeźliby różnego dźwięku nie wydawały, jakoż poznane będzie, co na piszczałce, albo co na cytrze grają?"
+        },
+        {
+          "number": 8,
+          "text": "Albowiem jeźliby trąba niepewny głos dała, któż się do boju gotować będzie?"
+        },
+        {
+          "number": 9,
+          "text": "Także i wy, jeźlibyście językiem nie wydali mowy dobrze zrozumiałej, jakoż będzie zrozumiałe, co się mówi? albowiem będziecie tylko na wiatr mówić."
+        },
+        {
+          "number": 10,
+          "text": "Tak wiele, jako słyszymy, jest różnych głosów na świecie, a nic nie jest bez głosu."
+        },
+        {
+          "number": 11,
+          "text": "Jeźlibym tedy nie znał mocy głosu, będę temu, który mówi, cudzoziemcem; a ten, co mówi, będzie mi także cudzoziemcem."
+        },
+        {
+          "number": 12,
+          "text": "Także i wy, ponieważ się usilnie staracie o dary duchowne, szukajcież tego, abyście obfitowali ku zbudowaniu zboru."
+        },
+        {
+          "number": 13,
+          "text": "Dlatego kto mówi obcym językiem, niech się modli, aby mógł tłumaczyć."
+        },
+        {
+          "number": 14,
+          "text": "Bo jeźlibym się modlił obcym językiem, modlić się będzie mój duch; ale rozum mój jest bez pożytku."
+        },
+        {
+          "number": 15,
+          "text": "Cóż tedy jest? Będę się modlił duchem, będę się też modlił i wyrozumieniem; będę śpiewał duchem, będę też śpiewał i wyrozumieniem."
+        },
+        {
+          "number": 16,
+          "text": "Bo jeźlibyś błogosławił duchem, jakoż ten, który jest z pocztu prostaków, na twoje dziękowanie rzecze Amen, ponieważ nie wie, co mówisz?"
+        },
+        {
+          "number": 17,
+          "text": "Bo choć ty wprawdzie dobrze dziękujesz, ale się drugi nie buduje."
+        },
+        {
+          "number": 18,
+          "text": "Dziękuję Bogu mojemu, iż więcej, niż wy wszyscy, językami mówię."
+        },
+        {
+          "number": 19,
+          "text": "A wszakże we zborze wolę pięć słów zrozumiale przemówić, abym i drugich nauczył, niżeli dziesięć tysięcy słów językiem obcym."
+        },
+        {
+          "number": 20,
+          "text": "Bracia! nie bądźcie dziećmi wyrozumieniem, ale bądźcie dziećmi złością, a wyrozumieniem dorosłymi bądźcie."
+        },
+        {
+          "number": 21,
+          "text": "W zakonie napisano: Iż obcemi językami i obcemi wargami mówić będę ludowi temu; a przecię mnie i tak nie usłuchają, mówi Pan."
+        },
+        {
+          "number": 22,
+          "text": "Przetoż języki są za cud, nie tym, którzy wierzą, ale niewiernym; a proroctwo nie niewiernym, ale wierzącym."
+        },
+        {
+          "number": 23,
+          "text": "Jeźliby się tedy wszystek zbór na jedno miejsce zeszedł, a wszyscy by językami obcemi mówili, a weszliby tam prostacy albo niewierni, izali nie rzeką, że szalejecie?"
+        },
+        {
+          "number": 24,
+          "text": "Ale jeźliby wszyscy prorokowali, a wszedłby który niewierny albo prostak, od wszystkich przekonany i od wszystkich sądzony bywa."
+        },
+        {
+          "number": 25,
+          "text": "A tak skrytości serca tego bywają objawione, a on upadłszy na oblicze, pokłonili się Bogu, wyznawając, że Bóg jest prawdziwie w was."
+        },
+        {
+          "number": 26,
+          "text": "Cóż tedy jest, bracia? Gdy się schodzicie, każdy z was ma psalm, ma naukę, ma język, ma objawienie, ma tłumaczenie; wszystko to niech się dzieje ku zbudowaniu."
+        },
+        {
+          "number": 27,
+          "text": "Jeźli kto językiem mówi, niech to będzie po dwóch albo najwięcej po trzech, i to na przemiany, a jeden niech tłumaczy."
+        },
+        {
+          "number": 28,
+          "text": "A jeźliby tłumacza nie było niechże we zborze milczy ten, który obcym językiem mówi, a niech mówi sobie i Bogu."
+        },
+        {
+          "number": 29,
+          "text": "Ale prorocy niech mówią dwaj albo trzej, a drudzy niech rozsądzą."
+        },
+        {
+          "number": 30,
+          "text": "Jeźliby też inszemu siedzącemu co było objawione, on pierwszy niechaj milczy."
+        },
+        {
+          "number": 31,
+          "text": "Bo możecie wszyscy jeden po drugim prorokować, aby się wszyscy uczyli i wszyscy pocieszeni byli."
+        },
+        {
+          "number": 32,
+          "text": "I duchy proroków są poddane prorokom."
+        },
+        {
+          "number": 33,
+          "text": "Albowiem Bóg nie jest powodem nieporządku, ale pokoju, jako i we wszystkich zborach świętych."
+        },
+        {
+          "number": 34,
+          "text": "Niewiasty wasze niech milczą we zborach; albowiem nie pozwolono im, aby mówiły, ale aby poddanemi były, jako i zakon mówi."
+        },
+        {
+          "number": 35,
+          "text": "A jeźli się czego nauczyć chcą, niechże w domu mężów swoich pytają, ponieważ sromota niewiastom we zborze mówić."
+        },
+        {
+          "number": 36,
+          "text": "Izali od was słowo Boże wyszło? Izali tylko do was samych przyszło?"
+        },
+        {
+          "number": 37,
+          "text": "Izali kto zda się być prorokiem albo duchownym, niech uzna, iż te rzeczy, które wam piszę, są Pańskiem rozkazaniem."
+        },
+        {
+          "number": 38,
+          "text": "A jeźli kto nie wie, niechajże nie wie."
+        },
+        {
+          "number": 39,
+          "text": "A tak, bracia! starajcie się usilnie o to, abyście prorokowali, a językami obcemi mówić nie zabraniajcie."
+        },
+        {
+          "number": 40,
+          "text": "Wszystko się niech dzieje przystojnie i porządnie."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A oznajmuję wam, bracia! Ewangieliję, którąm wam opowiedział, którąście też przyjęli i w której stoicie."
+        },
+        {
+          "number": 2,
+          "text": "Przez którą też zbawienia dostępujecie, jeźli pamiętacie, jakim sposobem opowiedziałem wam, chyba jeźliście próżno uwierzyli."
+        },
+        {
+          "number": 3,
+          "text": "Albowiem naprzód podałem wam, com też wziął, iż Chrystus umarł za grzechy nasze według Pism;"
+        },
+        {
+          "number": 4,
+          "text": "A iż był pogrzebiony, a iż zmartwychwstał dnia trzeciego według Pism."
+        },
+        {
+          "number": 5,
+          "text": "A iż widziany jest od Kiefasa, potem od onych dwunastu."
+        },
+        {
+          "number": 6,
+          "text": "Potem widziany jest więcej niż od pięciuset braci na raz, z których wiele ich zostaje aż dotąd, a niektórzy też zasnęli."
+        },
+        {
+          "number": 7,
+          "text": "Potem jest widziany od Jakóba, potem od wszystkich Apostołów."
+        },
+        {
+          "number": 8,
+          "text": "A na ostatek po wszystkich ukazał się i mnie, jako poronionemu płodowi."
+        },
+        {
+          "number": 9,
+          "text": "Bom ja jest najmniejszy z Apostołów, którym nie jest godzien, abym był zwany Apostołem, przeto żem prześladował zbór Boży."
+        },
+        {
+          "number": 10,
+          "text": "Lecz łaską Bożą jestem tem, czemem jest, a łaska jego przeciwko mnie daremna nie była; alem obficiej niż oni wszyscy pracował, wszakże nie ja, ale łaska Boża, która jest ze mną."
+        },
+        {
+          "number": 11,
+          "text": "Przetoż i ja, i oni tak każemy, i takeście uwierzyli."
+        },
+        {
+          "number": 12,
+          "text": "A ponieważ się o Chrystusie każe, iż z martwych wzbudzony jest, jakoż mówią niektórzy między wami, iż zmartwychwstania nie masz?"
+        },
+        {
+          "number": 13,
+          "text": "Bo jeźlić zmartwychwstania nie masz, tedyć i Chrystus nie jest wzbudzony."
+        },
+        {
+          "number": 14,
+          "text": "A jeźlić Chrystus nie jest wzbudzony, tedyć daremne kazanie nasze, daremna też wiara wasza."
+        },
+        {
+          "number": 15,
+          "text": "I bylibyśmy też znalezieni fałszywymi świadkami Bożymi, iżeśmy świadczyli o Bogu, że Chrystusa wzbudził, którego nie wzbudził, jeźliże umarli nie bywają wzbudzeni."
+        },
+        {
+          "number": 16,
+          "text": "Albowiem jeźliż umarli nie bywają wzbudzeni, i Chrystus nie jest wzbudzony."
+        },
+        {
+          "number": 17,
+          "text": "A jeźli Chrystus nie jest wzbudzony, daremna jest wiara wasza i jeszczeście w grzechach waszych;"
+        },
+        {
+          "number": 18,
+          "text": "Zatem i ci poginęli, którzy zasnęli w Chrystusie."
+        },
+        {
+          "number": 19,
+          "text": "Bo jeźli tylko w tym żywocie w Chrystusie nadzieję mamy, nad wszystkich ludzi jesteśmy najnędzniejszymi."
+        },
+        {
+          "number": 20,
+          "text": "Lecz teraz Chrystus z martwych wzbudzony jest i stał się pierwiastkiem tych, którzy zasnęli."
+        },
+        {
+          "number": 21,
+          "text": "Bo ponieważ przez człowieka śmierć, przez człowieka też powstanie umarłych."
+        },
+        {
+          "number": 22,
+          "text": "Albowiem jako w Adamie wszyscy umierają, tak i w Chrystusie wszyscy ożywieni będą."
+        },
+        {
+          "number": 23,
+          "text": "Ale każdy w swoim rzędzie, Chrystus jako pierwiastek, a potem ci, co są Chrystusowi w przyjście jego."
+        },
+        {
+          "number": 24,
+          "text": "A potem będzie koniec, gdy odda królestwo Bogu i Ojcu, gdy zniszczy wszelkie przełożeństwo i wszelką zwierzchność, i moc."
+        },
+        {
+          "number": 25,
+          "text": "Bo on musi królować, póki by nie położył wszystkich nieprzyjaciół pod nogi jego."
+        },
+        {
+          "number": 26,
+          "text": "A ostatni nieprzyjaciel, który będzie zniszczony, jest śmierć."
+        },
+        {
+          "number": 27,
+          "text": "Bo wszystkie rzeczy poddał pod nogi jego. A gdy mówi, że mu wszystkie rzeczy poddane są, jawna jest, iż oprócz tego, który mu poddał wszystkie rzeczy."
+        },
+        {
+          "number": 28,
+          "text": "A gdy mu wszystkie rzeczy poddane będą, tedyć też i sam Syn będzie poddany temu, który mu poddał wszystkie rzeczy, aby był Bóg wszystkim we wszystkim."
+        },
+        {
+          "number": 29,
+          "text": "Bo inaczej cóż uczynią ci, którzy się chrzczą nad umarłymi, jeźliż zgoła umarli nie bywają wzbudzeni? przeczże się chrzczą nad umarłymi?"
+        },
+        {
+          "number": 30,
+          "text": "Przecz i my niebezpieczeństwa podejmujemy każdej godziny?"
+        },
+        {
+          "number": 31,
+          "text": "Na każdy dzień umieram przez chwałę naszę, którą mam w Chrystusie Jezusie, Panu naszym."
+        },
+        {
+          "number": 32,
+          "text": "Jeźliżem się obyczajem ludzkim z bestyjami w Efezie potykał, cóż mam za pożytek, jeźli umarli nie bywają wzbudzeni? Jedzmy i pijmy; boć jutro pomrzemy."
+        },
+        {
+          "number": 33,
+          "text": "Nie błądźcież; złe rozmowy psują dobre obyczaje."
+        },
+        {
+          "number": 34,
+          "text": "Ocućcież się ku sprawiedliwości, a nie grzeszcie; albowiem niektórzy nie mają znajomości Bożej; ku zawstydzeniu waszemu mówię."
+        },
+        {
+          "number": 35,
+          "text": "Ale rzecze kto: Jakoż wzbudzeni bywają umarli i w jakim ciele wychodzą?"
+        },
+        {
+          "number": 36,
+          "text": "O głupi! To, co ty siejesz, nie bywać ożywione, jeźliby nie umarło."
+        },
+        {
+          "number": 37,
+          "text": "I co siejesz, nie siejesz ciała, które ma potem wyrość, ale gołe ziarno, jako się trafi, albo pszeniczne, albo jakiekolwiek inne."
+        },
+        {
+          "number": 38,
+          "text": "Ale Bóg daje mu ciało jako chce, a każdemu nasieniu jego własne ciało."
+        },
+        {
+          "number": 39,
+          "text": "Nie każde ciało jest jednakiem ciałem; ale inszeć jest ciało ludzkie, a insze ciało bydlęce, insze rybie, a insze ptasze."
+        },
+        {
+          "number": 40,
+          "text": "I są ciała niebieskie i ciała ziemskie; lecz insza jest chwała ciał niebieskich, a insza ludzkich;"
+        },
+        {
+          "number": 41,
+          "text": "Insza chwała słońca, a insza chwała księżyca, i insza chwała gwiazd; albowiem gwiazda od gwiazdy różna jest w jasności."
+        },
+        {
+          "number": 42,
+          "text": "Takci będzie i powstanie umarłych. Bywa wsiane ziarno w skazitelności, a będzie wzbudzone w nieskazitelności."
+        },
+        {
+          "number": 43,
+          "text": "Bywa wsiane w niesławie, a będzie wzbudzone w sławie; bywa wsiane w słabości, a będzie wzbudzone w mocy; bywa wsiane ciało cielesne, a będzie wzbudzone ciało duchowne."
+        },
+        {
+          "number": 44,
+          "text": "Jest ciało cielesne, jest też ciało duchowne."
+        },
+        {
+          "number": 45,
+          "text": "Takci też napisane: Stał się pierwszy człowiek Adam w duszę żywą, ale pośledni Adam w ducha ożywiającego."
+        },
+        {
+          "number": 46,
+          "text": "Wszakże nie jest pierwsze duchowne, ale cielesne, potem duchowne."
+        },
+        {
+          "number": 47,
+          "text": "Pierwszy człowiek z ziemi ziemski; wtóry człowiek sam Pan z nieba."
+        },
+        {
+          "number": 48,
+          "text": "Jaki jest ten ziemski, tacy też i ziemscy; a jaki jest niebieski, tacy też będą niebiescy."
+        },
+        {
+          "number": 49,
+          "text": "A jakośmy nosili wyobrażenie ziemskiego, tak też będziemy nosili wyobrażenie niebieskiego."
+        },
+        {
+          "number": 50,
+          "text": "To jednak powiadam, bracia! iż ciało i krew królestwa Bożego odziedziczyć nie mogą; ani skazitelność nie odziedziczy nieskazitelności."
+        },
+        {
+          "number": 51,
+          "text": "Oto ja tajemnicę wam powiadam; nie wszyscyć zaśniemy, ale wszyscy przemienieni będziemy, bardzo prędko w okamgnieniu, na trąbę ostateczną."
+        },
+        {
+          "number": 52,
+          "text": "Albowiem zatrąbi, a umarli wzbudzeni będą nieskazitelni, a my będziemy przemienieni."
+        },
+        {
+          "number": 53,
+          "text": "Boć musi to, co jest skazitelnego, przyoblec nieskazitelność, i co jest śmiertelnego, przyoblec nieśmiertelność."
+        },
+        {
+          "number": 54,
+          "text": "A gdy to, co jest skazitelnego, przyoblecze nieskazitelność, i to, co jest śmiertelnego, przyoblecze nieśmiertelność, tedy się wypełni ono słowo, które napisane: Połkniona jest śmierć w zwycięstwie."
+        },
+        {
+          "number": 55,
+          "text": "Gdzież jest, o śmierci! bodziec twój? Gdzież jest, piekło! zwycięstwo twoje?"
+        },
+        {
+          "number": 56,
+          "text": "Lecz bodziec śmierci jest grzech, a moc grzechu jest zakon."
+        },
+        {
+          "number": 57,
+          "text": "Ale niech będą Bogu dzięki, który nam dał zwycięstwo przez Pana naszego Jezusa Chrystusa."
+        },
+        {
+          "number": 58,
+          "text": "A tak, bracia moi mili! bądźcie mocni, nieporuszeni, obfitujący w uczynku Pańskim zawsze, wiedząc, iż praca wasza nie jest nadaremna w Panu."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A około składania na świętych, jakom postanowił we zborach Galickich, tak też i wy czyńcie."
+        },
+        {
+          "number": 2,
+          "text": "Każdego pierwszego dnia w tygodniu każdy z was niech odkłada u siebie, zbierając według tego, jako mu się powodzi, aby nie dopiero, gdy przyjdę, składania czynione były."
+        },
+        {
+          "number": 3,
+          "text": "A gdy przyjdę, którychkolwiek uchwalicie przez listy, tych poślę, aby odnieśli dobrodziejstwo wasze do Jeruzalemu."
+        },
+        {
+          "number": 4,
+          "text": "A jeźliby słuszna rzecz była, żebym i ja szedł, wespół ze mną pójdą."
+        },
+        {
+          "number": 5,
+          "text": "A przyjdę do was, gdy przejdę Macedoniję; (bo pójdę przez Macedoniję)."
+        },
+        {
+          "number": 6,
+          "text": "A podobno zamieszkam u was albo i przezimuję, abyście wy mię odprowadzili, kędykolwiek pójdę."
+        },
+        {
+          "number": 7,
+          "text": "Albowiem nie chcę was teraz widzieć, mijając; ale spodziewam się, iż pomieszkam z wami czas niejaki, będzieli Pan chciał."
+        },
+        {
+          "number": 8,
+          "text": "A zostanę w Efezie aż do Świątek."
+        },
+        {
+          "number": 9,
+          "text": "Albowiem drzwi mi są otworzone wielkie i mocne, i mam wiele przeciwników."
+        },
+        {
+          "number": 10,
+          "text": "Jeźliby tedy przyszedł Tymoteusz, patrzcie, aby bez bojaźni był między wami, bo dzieło Pańskie sprawuje, jako i ja."
+        },
+        {
+          "number": 11,
+          "text": "Przetoż niechaj go nikt nie lekceważy; ale odprowadźcie go w pokoju, aby przyszedł do mnie; bo go czekam z braćmi."
+        },
+        {
+          "number": 12,
+          "text": "A o bracie Apollosie wiedzcie, żem go bardzo prosił, aby szedł do was z braćmi; ale zgoła nie miał woli, aby teraz szedł; przyjdzie jednak, gdy czas po temu mieć będzie."
+        },
+        {
+          "number": 13,
+          "text": "Czujcież, stójcie w wierze, mężnie sobie poczynajcie, zmacniajcie się."
+        },
+        {
+          "number": 14,
+          "text": "Wszystkie rzeczy wasze niech się dzieją w miłości."
+        },
+        {
+          "number": 15,
+          "text": "A proszę was, bracia! wiedzcie, iż dom Stefanowy jest pierwiastkiem Achai, a iż sami siebie oddali na posługiwanie świętym."
+        },
+        {
+          "number": 16,
+          "text": "Abyście i wy poddani byli takowym, i każdemu pomagającemu i pracującemu."
+        },
+        {
+          "number": 17,
+          "text": "A cieszę się z przyjścia Stefana i Fortunata, i Achaika; bo ci niedostatek wasz napełnili."
+        },
+        {
+          "number": 18,
+          "text": "Ochłodzili bowiem ducha mego i waszego; znajcież tedy takowych."
+        },
+        {
+          "number": 19,
+          "text": "Pozdrawiają was zbory, które są w Azyi. Pozdrawiają was wielce w Panu Akwilas i Pryscylla, ze zborem, który jest w domu ich."
+        },
+        {
+          "number": 20,
+          "text": "Pozdrawiają was bracia wszyscy. Pozdrówcie jedni drugich w świętem pocałowaniu."
+        },
+        {
+          "number": 21,
+          "text": "Pozdrowienie ręką moją Pawłową."
+        },
+        {
+          "number": 22,
+          "text": "Jeźliże kto nie miłuje Pana Jezusa Chrystusa, niech będzie przeklęstwem, które zowią Maran ata."
+        },
+        {
+          "number": 23,
+          "text": "Łaska Pana Jezusa Chrystusa niech będzie z wami."
+        },
+        {
+          "number": 24,
+          "text": "Miłość moja niech będzie z wami wszystkimi w Chrystusie Jezusie. Amen."
+        }
+      ]
+    }
+  ]
+}

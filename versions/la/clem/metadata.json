@@ -1,0 +1,18 @@
+{
+  "slug": "clem",
+  "shortName": "CLEM",
+  "name": "Clementine Vulgate",
+  "language": "la",
+  "year": 1592,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Clementine Vulgate, 1592 papal edition).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1197,
+    "verses": 31436
+  },
+  "readerUrl": "https://midvash.com/clem",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "martin1744",
+  "shortName": "MARTIN1744",
+  "name": "Bible David Martin 1744",
+  "language": "fr",
+  "year": 1744,
+  "license": "public-domain",
+  "licenseNote": "Public domain (David Martin French translation, 1744 revision).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31166
+  },
+  "readerUrl": "https://midvash.com/martin1744",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

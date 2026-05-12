@@ -1,0 +1,2761 @@
+{
+  "version": "clem",
+  "book": "Josh",
+  "bookId": 6,
+  "englishName": "Joshua",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad Josue filium Nun, ministrum Moysi, et diceret ei:"
+        },
+        {
+          "number": 2,
+          "text": "Moyses servus meus mortuus est: surge, et transi Jordanem istum tu, et omnis populus tecum, in terram quam ego dabo filiis Isral."
+        },
+        {
+          "number": 3,
+          "text": "Omnem locum, quem calcaverit vestigium pedis vestri, vobis tradam, sicut locutus sum Moysi."
+        },
+        {
+          "number": 4,
+          "text": "A deserto et Libano usque ad fluvium magnum Euphraten, omnis terra Hethorum usque ad mare magnum contra solis occasum erit terminus vester."
+        },
+        {
+          "number": 5,
+          "text": "Nullus poterit vobis resistere cunctis diebus vit tu: sicut fui cum Moyse, ita ero tecum: non dimittam, nec derelinquam te."
+        },
+        {
+          "number": 6,
+          "text": "Confortare, et esto robustus: tu enim sorte divides populo huic terram, pro qua juravi patribus suis, ut traderem eam illis."
+        },
+        {
+          "number": 7,
+          "text": "Confortare igitur, et esto robustus valde, ut custodias, et facias omnem legem, quam prcepit tibi Moyses servus meus: ne declines ab ea ad dexteram vel ad sinistram, ut intelligas cuncta qu agis."
+        },
+        {
+          "number": 8,
+          "text": "Non recedat volumen legis hujus ab ore tuo: sed meditaberis in eo diebus ac noctibus, ut custodias et facias omnia qu scripta sunt in eo: tunc diriges viam tuam, et intelliges eam."
+        },
+        {
+          "number": 9,
+          "text": "Ecce prcipio tibi: confortare, et esto robustus. Noli metuere, et noli timere: quoniam tecum est Dominus Deus tuus in omnibus ad qucumque perrexeris."
+        },
+        {
+          "number": 10,
+          "text": "Prcepitque Josue principibus populi, dicens: Transite per medium castrorum, et imperate populo, ac dicite:"
+        },
+        {
+          "number": 11,
+          "text": "Prparate vobis cibaria: quoniam post diem tertium transibitis Jordanem, et intrabitis ad possidendam terram quam Dominus Deus vester daturus est vobis."
+        },
+        {
+          "number": 12,
+          "text": "Rubenitis quoque et Gaditis, et dimidi tribui Manasse, ait:"
+        },
+        {
+          "number": 13,
+          "text": "Mementote sermonis, quem prcepit vobis Moyses famulus Domini, dicens: Dominus Deus vester dedit vobis requiem, et omnem terram."
+        },
+        {
+          "number": 14,
+          "text": "Uxores vestr, et filii, ac jumenta manebunt in terra, quam tradidit vobis Moyses trans Jordanem: vos autem transite armati ante fratres vestros, omnes fortes manu, et pugnate pro eis,"
+        },
+        {
+          "number": 15,
+          "text": "donec det Dominus requiem fratribus vestris sicut et vobis dedit, et possideant ipsi quoque terram quam Dominus Deus vester daturus est eis: et sic revertimini in terram possessionis vestr, et habitabitis in ea, quam vobis dedit Moyses famulus Domini trans Jordanem contra solis ortum."
+        },
+        {
+          "number": 16,
+          "text": "Responderuntque ad Josue, atque dixerunt: Omnia qu prcepisti nobis, faciemus: et quocumque miseris, ibimus."
+        },
+        {
+          "number": 17,
+          "text": "Sicut obedivimus in cunctis Moysi, ita obediemus et tibi: tantum sit Dominus Deus tuus tecum, sicut fuit cum Moyse."
+        },
+        {
+          "number": 18,
+          "text": "Qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos prceperis ei, moriatur. Tu tantum confortare, et viriliter age."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Misit igitur Josue filius Nun de Setim duos viros exploratores in abscondito: et dixit eis: Ite, et considerate terram, urbemque Jericho. Qui pergentes ingressi sunt domum mulieris meretricis, nomine Rahab, et quieverunt apud eam."
+        },
+        {
+          "number": 2,
+          "text": "Nuntiatumque est regi Jericho, et dictum: Ecce viri ingressi sunt huc per noctem de filiis Isral, ut explorarent terram."
+        },
+        {
+          "number": 3,
+          "text": "Misitque rex Jericho ad Rahab, dicens: Educ viros, qui venerunt ad te, et ingressi sunt domum tuam: exploratores quippe sunt, et omnem terram considerare venerunt."
+        },
+        {
+          "number": 4,
+          "text": "Tollensque mulier viros, abscondit, et ait: Fateor, venerunt ad me, sed nesciebam unde essent:"
+        },
+        {
+          "number": 5,
+          "text": "cumque porta clauderetur in tenebris, et illi pariter exierunt; nescio quo abierunt: persequimini cito, et comprehendetis eos."
+        },
+        {
+          "number": 6,
+          "text": "Ipsa autem fecit ascendere viros in solarium domus su, operuitque eos stipula lini, qu ibi erat."
+        },
+        {
+          "number": 7,
+          "text": "Hi autem, qui missi fuerant, secuti sunt eos per viam, qu ducit ad vadum Jordanis: illisque egressis statim porta clausa est."
+        },
+        {
+          "number": 8,
+          "text": "Necdum obdormierant qui latebant, et ecce mulier ascendit ad eos, et ait:"
+        },
+        {
+          "number": 9,
+          "text": "Novi quod Dominus tradiderit vobis terram: etenim irruit in nos terror vester, et elanguerunt omnes habitatores terr."
+        },
+        {
+          "number": 10,
+          "text": "Audivimus quod siccaverit Dominus aquas maris Rubri ad vestrum introitum, quando egressi estis ex gypto: et qu feceritis duobus Amorrhorum regibus, qui erant trans Jordanem, Sehon et Og, quos interfecistis."
+        },
+        {
+          "number": 11,
+          "text": "Et hc audientes pertimuimus, et elanguit cor nostrum, nec remansit in nobis spiritus ad introitum vestrum: Dominus enim Deus vester ipse est Deus in clo sursum et in terra deorsum."
+        },
+        {
+          "number": 12,
+          "text": "Nunc ergo jurate mihi per Dominum, ut quomodo ego misericordiam feci vobiscum, ita et vos faciatis cum domo patris mei: detisque mihi verum signum,"
+        },
+        {
+          "number": 13,
+          "text": "ut salvetis patrem meum et matrem, et fratres ac sorores meas, et omnia qu illorum sunt, et eruatis animas nostras a morte."
+        },
+        {
+          "number": 14,
+          "text": "Qui responderunt ei: Anima nostra sit pro vobis in mortem, si tamen non prodideris nos: cumque tradiderit nobis Dominus terram, faciemus in te misericordiam et veritatem."
+        },
+        {
+          "number": 15,
+          "text": "Demisit ergo eos per funem de fenestra: domus enim ejus hrebat muro."
+        },
+        {
+          "number": 16,
+          "text": "Dixitque ad eos: Ad montana conscendite, ne forte occurrant vobis revertentes: ibique latitate tribus diebus, donec redeant, et sic ibitis per viam vestram."
+        },
+        {
+          "number": 17,
+          "text": "Qui dixerunt ad eam: Innoxii erimus a juramento hoc, quo adjurasti nos:"
+        },
+        {
+          "number": 18,
+          "text": "si ingredientibus nobis terram, signum fuerit funiculus iste coccineus, et ligaveris eum in fenestra, per quam demisisti nos: et patrem tuum ac matrem, fratresque et omnem cognationem tuam congregaveris in domum tuam."
+        },
+        {
+          "number": 19,
+          "text": "Qui ostium domus tu egressus fuerit, sanguis ipsius erit in caput ejus, et nos erimus alieni. Cunctorum autem sanguis, qui tecum in domo fuerint, redundabit in caput nostrum, si eos aliquis tetigerit."
+        },
+        {
+          "number": 20,
+          "text": "Quod si nos prodere volueris, et sermonem istum proferre in medium, erimus mundi ab hoc juramento, quo adjurasti nos."
+        },
+        {
+          "number": 21,
+          "text": "Et illa respondit: Sicut locuti estis, ita fiat: dimittensque eos ut pergerent, appendit funiculum coccineum in fenestra."
+        },
+        {
+          "number": 22,
+          "text": "Illi vero ambulantes pervenerunt ad montana, et manserunt ibi tres dies, donec reverterentur qui fuerant persecuti: qurentes enim per omnem viam, non repererunt eos."
+        },
+        {
+          "number": 23,
+          "text": "Quibus urbem ingressis, reversi sunt, et descenderunt exploratores de monte: et, transmisso Jordane, venerunt ad Josue filium Nun, narraveruntque ei omnia qu acciderant sibi,"
+        },
+        {
+          "number": 24,
+          "text": "atque dixerunt: Tradidit Dominus omnem terram hanc in manus nostras, et timore prostrati sunt cuncti habitatores ejus."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Igitur Josue de nocte consurgens movit castra: egredientesque de Setim, venerunt ad Jordanem ipse et omnes filii Isral, et morati sunt ibi tres dies."
+        },
+        {
+          "number": 2,
+          "text": "Quibus evolutis transierunt prcones per castrorum medium,"
+        },
+        {
+          "number": 3,
+          "text": "et clamare cperunt: Quando videritis arcam fderis Domini Dei vestri, et sacerdotes stirpis Levitic portantes eam, vos quoque consurgite, et sequimini prcedentes:"
+        },
+        {
+          "number": 4,
+          "text": "sitque inter vos et arcam spatium cubitorum duum millium: ut procul videre possitis, et nosse per quam viam ingrediamini: quia prius non ambulastis per eam: et cavete ne appropinquetis ad arcam."
+        },
+        {
+          "number": 5,
+          "text": "Dixitque Josue ad populum: Sanctificamini: cras enim faciet Dominus inter vos mirabilia."
+        },
+        {
+          "number": 6,
+          "text": "Et ait ad sacerdotes: Tollite arcam fderis, et prcedite populum. Qui jussa complentes, tulerunt, et ambulaverunt ante eos."
+        },
+        {
+          "number": 7,
+          "text": "Dixitque Dominus ad Josue: Hodie incipiam exaltare te coram omni Isral: ut sciant quod sicut cum Moyse fui, ita et tecum sim."
+        },
+        {
+          "number": 8,
+          "text": "Tu autem prcipe sacerdotibus, qui portant arcam fderis, et dic eis: Cum ingressi fueritis partem aqu Jordanis, state in ea."
+        },
+        {
+          "number": 9,
+          "text": "Dixitque Josue ad filios Isral: Accedite huc, et audite verbum Domini Dei vestri."
+        },
+        {
+          "number": 10,
+          "text": "Et rursum: In hoc, inquit, scietis quod Dominus Deus vivens in medio vestri est, et disperdet in conspectu vestro Chananum et Hethum, Hevum et Pherezum, Gergesum quoque et Jebusum, et Amorrhum."
+        },
+        {
+          "number": 11,
+          "text": "Ecce arca fderis Domini omnis terr antecedet vos per Jordanem."
+        },
+        {
+          "number": 12,
+          "text": "Parate duodecim viros de tribubus Isral, singulos per singulas tribus."
+        },
+        {
+          "number": 13,
+          "text": "Et cum posuerint vestigia pedum suorum sacerdotes qui portant arcam Domini Dei univers terr in aquis Jordanis, aqu qu inferiores sunt, decurrent atque deficient: qu autem desuper veniunt, in una mole consistent."
+        },
+        {
+          "number": 14,
+          "text": "Igitur egressus est populus de tabernaculis suis, ut transiret Jordanem: et sacerdotes, qui portabant arcam fderis, pergebant ante eum."
+        },
+        {
+          "number": 15,
+          "text": "Ingressisque eis Jordanem, et pedibus eorum in parte aqu tinctis (Jordanis autem ripas alvei sui tempore messis impleverat),"
+        },
+        {
+          "number": 16,
+          "text": "steterunt aqu descendentes in loco uno, et ad instar montis intumescentes apparebant procul, ab urbe qu vocatur Adom usque ad locum Sarthan: qu autem inferiores erant, in mare Solitudinis (quod nunc vocatur Mortuum) descenderunt, usquequo omnino deficerent."
+        },
+        {
+          "number": 17,
+          "text": "Populus autem incedebat contra Jericho: et sacerdotes qui portabant arcam fderis Domini, stabant super siccam humum in medio Jordanis accincti, omnisque populus per arentem alveum transibat."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quibus transgressis, dixit Dominus ad Josue:"
+        },
+        {
+          "number": 2,
+          "text": "Elige duodecim viros singulos per singulas tribus:"
+        },
+        {
+          "number": 3,
+          "text": "et prcipe eis ut tollant de medio Jordanis alveo, ubi steterunt pedes sacerdotum, duodecim durissimos lapides, quos ponetis in loco castrorum, ubi fixeritis hac nocte tentoria."
+        },
+        {
+          "number": 4,
+          "text": "Vocavitque Josue duodecim viros, quos elegerat de filiis Isral, singulos de singulis tribubus,"
+        },
+        {
+          "number": 5,
+          "text": "et ait ad eos: Ite ante arcam Domini Dei vestri ad Jordanis medium, et portate inde singuli singulos lapides in humeris vestris, juxta numerum filiorum Isral,"
+        },
+        {
+          "number": 6,
+          "text": "ut sit signum inter vos: et quando interrogaverint vos filii vestri cras, dicentes: Quid sibi volunt isti lapides?"
+        },
+        {
+          "number": 7,
+          "text": "respondebitis eis: Defecerunt aqu Jordanis ante arcam fderis Domini, cum transiret eum: idcirco positi sunt lapides isti in monimentum filiorum Isral usque in ternum."
+        },
+        {
+          "number": 8,
+          "text": "Fecerunt ergo filii Isral sicut prcepit eis Josue, portantes de medio Jordanis alveo duodecim lapides, ut Dominus ei imperarat, juxta numerum filiorum Isral, usque ad locum in quo castrametati sunt, ibique posuerunt eos."
+        },
+        {
+          "number": 9,
+          "text": "Alios quoque duodecim lapides posuit Josue in medio Jordanis alveo, ubi steterunt sacerdotes qui portabant arcam fderis: et sunt ibi usque in prsentem diem."
+        },
+        {
+          "number": 10,
+          "text": "Sacerdotes autem qui portabant arcam, stabant in Jordanis medio, donec omnia complerentur, qu Josue, ut loqueretur ad populum, prceperat Dominus, et dixerat ei Moyses. Festinavitque populus, et transiit."
+        },
+        {
+          "number": 11,
+          "text": "Cumque transissent omnes, transivit et arca Domini, sacerdotesque pergebant ante populum."
+        },
+        {
+          "number": 12,
+          "text": "Filii quoque Ruben, et Gad, et dimidia tribus Manasse, armati prcedebant filios Isral, sicut eis prceperat Moyses:"
+        },
+        {
+          "number": 13,
+          "text": "et quadraginta pugnatorum millia per turmas, et cuneos, incedebant per plana atque campestria urbis Jericho."
+        },
+        {
+          "number": 14,
+          "text": "In die illo magnificavit Dominus Josue coram omni Isral, ut timerent eum, sicut timuerant Moysen, dum adviveret."
+        },
+        {
+          "number": 15,
+          "text": "Dixitque ad eum:"
+        },
+        {
+          "number": 16,
+          "text": "Prcipe sacerdotibus, qui portant arcam fderis, ut ascendant de Jordane."
+        },
+        {
+          "number": 17,
+          "text": "Qui prcepit eis, dicens: Ascendite de Jordane."
+        },
+        {
+          "number": 18,
+          "text": "Cumque ascendissent portantes arcam fderis Domini, et siccam humum calcare cpissent, revers sunt aqu in alveum suum, et fluebant sicut ante consueverant."
+        },
+        {
+          "number": 19,
+          "text": "Populus autem ascendit de Jordane decimo die mensis primi, et castrametati sunt in Galgalis contra orientalem plagam urbis Jericho."
+        },
+        {
+          "number": 20,
+          "text": "Duodecim quoque lapides, quos de Jordanis alveo sumpserant, posuit Josue in Galgalis,"
+        },
+        {
+          "number": 21,
+          "text": "et dixit ad filios Isral: Quando interrogaverint filii vestri cras patres suos, et dixerint eis: Quid sibi volunt lapides isti?"
+        },
+        {
+          "number": 22,
+          "text": "docebitis eos, atque dicetis: Per arentem alveum transivit Isral Jordanem istum,"
+        },
+        {
+          "number": 23,
+          "text": "siccante Domino Deo vestro aquas ejus in conspectu vestro, donec transiretis,"
+        },
+        {
+          "number": 24,
+          "text": "sicut fecerat prius in mari Rubro, quod siccavit donec transiremus:"
+        },
+        {
+          "number": 25,
+          "text": "ut discant omnes terrarum populi fortissimam Domini manum, ut et vos timeatis Dominum Deum vestrum omni tempore."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Postquam ergo audierunt omnes reges Amorrhorum, qui habitabant trans Jordanem ad occidentalem plagam, et cuncti reges Chanaan, qui propinqua possidebant magni maris loca, quod siccasset Dominus fluenta Jordanis coram filiis Isral donec transirent, dissolutum est cor eorum, et non remansit in eis spiritus, timentium introitum filiorum Isral."
+        },
+        {
+          "number": 2,
+          "text": "Eo tempore ait Dominus ad Josue: Fac tibi cultros lapideos, et circumcide secundo filios Isral."
+        },
+        {
+          "number": 3,
+          "text": "Fecit quod jusserat Dominus, et circumcidit filios Isral in colle prputiorum."
+        },
+        {
+          "number": 4,
+          "text": "Hc autem causa est secund circumcisionis: omnis populus, qui egressus est de gypto generis masculini, universi bellatores viri, mortui sunt in deserto per longissimos vi circuitus,"
+        },
+        {
+          "number": 5,
+          "text": "qui omnes circumcisi erant. Populus autem qui natus est in deserto,"
+        },
+        {
+          "number": 6,
+          "text": "per quadraginta annos itineris latissim solitudinis incircumcisus fuit: donec consumerentur qui non audierant vocem Domini, et quibus ante juraverat ut non ostenderet eis terram lacte et melle manantem."
+        },
+        {
+          "number": 7,
+          "text": "Horum filii in locum successerunt patrum, et circumcisi sunt a Josue: quia sicut nati fuerant, in prputio erant, nec eos in via aliquis circumciderat."
+        },
+        {
+          "number": 8,
+          "text": "Postquam autem omnes circumcisi sunt, manserunt in eodem castrorum loco, donec sanarentur."
+        },
+        {
+          "number": 9,
+          "text": "Dixitque Dominus ad Josue: Hodie abstuli opprobrium gypti a vobis. Vocatumque est nomen loci illius Galgala, usque in prsentem diem."
+        },
+        {
+          "number": 10,
+          "text": "Manseruntque filii Isral in Galgalis, et fecerunt Phase quartadecima die mensis ad vesperum in campestribus Jericho:"
+        },
+        {
+          "number": 11,
+          "text": "et comederunt de frugibus terr die altero, azymos panes, et polentam ejusdem anni."
+        },
+        {
+          "number": 12,
+          "text": "Defecitque manna postquam comederunt de frugibus terr, nec usi sunt ultra cibo illo filii Isral, sed comederunt de frugibus prsentis anni terr Chanaan."
+        },
+        {
+          "number": 13,
+          "text": "Cum autem esset Josue in agro urbis Jericho, levavit oculos, et vidit virum stantem contra se, evaginatum tenentem gladium: perrexitque ad eum, et ait: Noster es, an adversariorum?"
+        },
+        {
+          "number": 14,
+          "text": "Qui respondit: Nequaquam: sed sum princeps exercitus Domini, et nunc venio."
+        },
+        {
+          "number": 15,
+          "text": "Cecidit Josue pronus in terram, et adorans ait: Quid dominus meus loquitur ad servum suum?"
+        },
+        {
+          "number": 16,
+          "text": "Solve, inquit, calceamentum tuum de pedibus tuis: locus enim, in quo stas, sanctus est. Fecitque Josue ut sibi fuerat imperatum."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jericho autem clausa erat atque munita, timore filiorum Isral, et nullus egredi audebat aut ingredi."
+        },
+        {
+          "number": 2,
+          "text": "Dixitque Dominus ad Josue: Ecce dedi in manu tua Jericho, et regem ejus, omnesque fortes viros."
+        },
+        {
+          "number": 3,
+          "text": "Circuite urbem cuncti bellatores semel per diem: sic facietis sex diebus."
+        },
+        {
+          "number": 4,
+          "text": "Septimo autem die, sacerdotes tollant septem buccinas, quarum usus est in jubilo, et prcedant arcam fderis: septiesque circuibitis civitatem, et sacerdotes clangent buccinis."
+        },
+        {
+          "number": 5,
+          "text": "Cumque insonuerit vox tub longior atque concisior, et in auribus vestris increpuerit, conclamabit omnis populus vociferatione maxima, et muri funditus corruent civitatis, ingredienturque singuli per locum contra quem steterint."
+        },
+        {
+          "number": 6,
+          "text": "Vocavit ergo Josue filius Nun sacerdotes, et dixit ad eos: Tollite arcam fderis: et septem alii sacerdotes tollant septem jubilorum buccinas, et incedant ante arcam Domini."
+        },
+        {
+          "number": 7,
+          "text": "Ad populum quoque ait: Ite, et circuite civitatem, armati, prcedentes arcam Domini."
+        },
+        {
+          "number": 8,
+          "text": "Cumque Josue verba finisset, et septem sacerdotes septem buccinis clangerent ante arcam fderis Domini,"
+        },
+        {
+          "number": 9,
+          "text": "omnisque prcederet armatus exercitus, reliquum vulgus arcam sequebatur, ac buccinis omnia concrepabant."
+        },
+        {
+          "number": 10,
+          "text": "Prceperat autem Josue populo, dicens: Non clamabitis, nec audietur vox vestra, neque ullus sermo ex ore vestro egredietur, donec veniat dies in quo dicam vobis: Clamate, et vociferamini."
+        },
+        {
+          "number": 11,
+          "text": "Circuivit ergo arca Domini civitatem semel per diem, et reversa in castra mansit ibi."
+        },
+        {
+          "number": 12,
+          "text": "Igitur Josue de nocte consurgente, tulerunt sacerdotes arcam Domini,"
+        },
+        {
+          "number": 13,
+          "text": "et septem ex eis septem buccinas, quarum in jubilo usus est: prcedebantque arcam Domini ambulantes atque clangentes: et armatus populus ibat ante eos, vulgus autem reliquum sequebatur arcam, et buccinis personabat."
+        },
+        {
+          "number": 14,
+          "text": "Circuieruntque civitatem secundo die semel, et reversi sunt in castra. Sic fecerunt sex diebus."
+        },
+        {
+          "number": 15,
+          "text": "Dies autem septimo, diluculo consurgentes, circuierunt urbem, sicut dispositum erat, septies."
+        },
+        {
+          "number": 16,
+          "text": "Cumque septimo circuitu clangerent buccinis sacerdotes, dixit Josue ad omnem Isral: Vociferamini: tradidit enim vobis Dominus civitatem."
+        },
+        {
+          "number": 17,
+          "text": "Sitque civitas hc anathema, et omnia qu in ea sunt, Domino: sola Rahab meretrix vivat, cum universis qui cum ea in domo sunt: abscondit enim nuntios quos direximus."
+        },
+        {
+          "number": 18,
+          "text": "Vos autem cavete ne de his, qu prcepta sunt, quippiam contingatis, et sitis prvaricationis rei, et omnia castra Isral sub peccato sint atque turbentur."
+        },
+        {
+          "number": 19,
+          "text": "Quidquid autem auri et argenti fuerit, et vasorum neorum ac ferri, Domino consecretur, repositum in thesauris ejus."
+        },
+        {
+          "number": 20,
+          "text": "Igitur omni populo vociferante, et clangentibus tubis, postquam in aures multitudinis vox sonitusque increpuit, muri illico corruerunt: et ascendit unusquisque per locum qui contra se erat: ceperuntque civitatem,"
+        },
+        {
+          "number": 21,
+          "text": "et interfecerunt omnia qu erant in ea, a viro usque ad mulierem, ab infante usque ad senem. Boves quoque et oves et asinos in ore gladii percusserunt."
+        },
+        {
+          "number": 22,
+          "text": "Duobus autem viris, qui exploratores missi fuerant, dixit Josue: Ingredimini domum mulieris meretricis, et producite eam, et omnia qu illius sunt, sicut illi juramento firmastis."
+        },
+        {
+          "number": 23,
+          "text": "Ingressique juvenes eduxerunt Rahab, et parentes ejus, fratres quoque, et cunctam supellectilem ac cognationem illius, et extra castra Isral manere fecerunt."
+        },
+        {
+          "number": 24,
+          "text": "Urbem autem, et omnia qu erant in ea, succenderunt, absque auro et argento, et vasis neis, ac ferro, qu in rarium Domini consecrarunt."
+        },
+        {
+          "number": 25,
+          "text": "Rahab vero meretricem, et domum patris ejus, et omnia qu habebat, fecit Josue vivere, et habitaverunt in medio Isral, usque in prsentem diem: eo quod absconderit nuntios, quos miserat ut explorarent Jericho. In tempore illo, imprecatus est Josue, dicens:"
+        },
+        {
+          "number": 26,
+          "text": "Maledictus vir coram Domino, qui suscitaverit et dificaverit civitatem Jericho. In primogenito suo fundamenta illius jaciat, et in novissimo liberorum ponat portas ejus."
+        },
+        {
+          "number": 27,
+          "text": "Fuit ergo Dominus cum Josue, et nomen ejus vulgatum est in omni terra."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Filii autem Isral prvaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi filii Zabdi filii Zare de tribu Juda tulit aliquid de anathemate: iratusque est Dominus contra filios Isral."
+        },
+        {
+          "number": 2,
+          "text": "Cumque mitteret Josue de Jericho viros contra Hai, qu est juxta Bethaven, ad orientalem plagam oppidi Bethel, dixit eis: Ascendite, et explorate terram. Qui prcepta complentes exploraverunt Hai."
+        },
+        {
+          "number": 3,
+          "text": "Et reversi dixerunt ei: Non ascendat omnis populus, sed duo vel tria millia virorum pergant, et deleant civitatem: quare omnis populus frustra vexabitur contra hostes paucissimos?"
+        },
+        {
+          "number": 4,
+          "text": "Ascenderunt ergo tria millia pugnatorum. Qui statim terga vertentes,"
+        },
+        {
+          "number": 5,
+          "text": "percussi sunt a viris urbis Hai, et corruerunt ex eis triginta sex homines: persecutique sunt eos adversarii de porta usque ad Sabarim, et ceciderunt per prona fugientes: pertimuitque cor populi, et instar aqu liquefactum est."
+        },
+        {
+          "number": 6,
+          "text": "Josue vero scidit vestimenta sua, et pronus cecidit in terram coram arca Domini usque ad vesperam, tam ipse quam omnes senes Isral: miseruntque pulverem super capita sua,"
+        },
+        {
+          "number": 7,
+          "text": "et dixit Josue: Heu Domine Deus, quid voluisti traducere populum istum Jordanem fluvium, ut traderes nos in manus Amorrhi, et perderes? utinam ut cpimus, mansissemus trans Jordanem."
+        },
+        {
+          "number": 8,
+          "text": "Mi Domine Deus, quid dicam, videns Isralem hostibus suis terga vertentem?"
+        },
+        {
+          "number": 9,
+          "text": "Audient Chanani, et omnes habitatores terr, et pariter conglobati circumdabunt nos, atque delebunt nomen nostrum de terra: et quid facies magno nomini tuo?"
+        },
+        {
+          "number": 10,
+          "text": "Dixitque Dominus ad Josue: Surge: cur jaces pronus in terra?"
+        },
+        {
+          "number": 11,
+          "text": "Peccavit Isral, et prvaricatus est pactum meum: tuleruntque de anathemate, et furati sunt atque mentiti, et absconderunt inter vasa sua."
+        },
+        {
+          "number": 12,
+          "text": "Nec poterit Isral stare ante hostes suos, eosque fugiet: quia pollutus est anathemate. Non ero ultra vobiscum, donec conteratis eum qui hujus sceleris reus est."
+        },
+        {
+          "number": 13,
+          "text": "Surge, sanctifica populum, et dic eis: Sanctificamini in crastinum: hc enim dicit Dominus Deus Isral: Anathema in medio tui est, Isral: non poteris stare coram hostibus tuis, donec deleatur ex te qui hoc contaminatus est scelere."
+        },
+        {
+          "number": 14,
+          "text": "Accedetisque mane singuli per tribus vestras: et quamcumque tribum sors invenerit, accedet per cognationes suas, et cognatio per domos, domusque per viros."
+        },
+        {
+          "number": 15,
+          "text": "Et quicumque ille in hoc facinore fuerit deprehensus, comburetur igni cum omni substantia sua: quoniam prvaricatus est pactum Domini, et fecit nefas in Isral."
+        },
+        {
+          "number": 16,
+          "text": "Surgens itaque Josue mane, applicuit Isral per tribus suas, et inventa est tribus Juda."
+        },
+        {
+          "number": 17,
+          "text": "Qu cum juxta familias suas esset oblata, inventa est familia Zare. Illam quoque per domos offerens, reperit Zabdi:"
+        },
+        {
+          "number": 18,
+          "text": "cujus domum in singulos dividens viros, invenit Achan filium Charmi filii Zabdi filii Zare de tribu Juda."
+        },
+        {
+          "number": 19,
+          "text": "Et ait Josue ad Achan: Fili mi, da gloriam Domino Deo Isral, et confitere, atque indica mihi quid feceris, ne abscondas."
+        },
+        {
+          "number": 20,
+          "text": "Responditque Achan Josue, et dixit ei: Vere ego peccavi Domino Deo Isral, et sic et sic feci."
+        },
+        {
+          "number": 21,
+          "text": "Vidi enim inter spolia pallium coccineum valde bonum, et ducentos siclos argenti, regulamque auream quinquaginta siclorum: et concupiscens abstuli, et abscondi in terra contra medium tabernaculi mei, argentumque fossa humo operui."
+        },
+        {
+          "number": 22,
+          "text": "Misit ergo Josue ministros: qui currentes ad tabernaculum illius, repererunt cuncta abscondita in eodem loco, et argentum simul."
+        },
+        {
+          "number": 23,
+          "text": "Auferentesque de tentorio, tulerunt ea ad Josue, et ad omnes filios Isral, projeceruntque ante Dominum."
+        },
+        {
+          "number": 24,
+          "text": "Tollens itaque Josue Achan filium Zare, argentumque et pallium, et auream regulam, filios quoque et filias ejus, boves et asinos et oves, ipsumque tabernaculum, et cunctam supellectilem (et omnis Isral cum eo), duxerunt eos ad vallem Achor:"
+        },
+        {
+          "number": 25,
+          "text": "ubi dixit Josue: Quia turbasti nos, exturbet te Dominus in die hac. Lapidavitque eum omnis Isral: et cuncta qu illius erant, igne consumpta sunt."
+        },
+        {
+          "number": 26,
+          "text": "Congregaveruntque super eum acervum magnum lapidum, qui permanet usque in prsentem diem. Et aversus est furor Domini ab eis. Vocatumque est nomen loci illius, vallis Achor, usque hodie."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dixit autem Dominus ad Josue: Ne timeas, neque formides: tolle tecum omnem multitudinem pugnatorum, et consurgens ascende in oppidum Hai. Ecce tradidi in manu tua regem ejus et populum, urbemque et terram."
+        },
+        {
+          "number": 2,
+          "text": "Faciesque urbi Hai, et regi ejus, sicut fecisti Jericho, et regi illius: prdam vero, et omnia animantia diripietis vobis: pone insidias urbi post eam."
+        },
+        {
+          "number": 3,
+          "text": "Surrexitque Josue, et omnis exercitus bellatorum cum eo, ut ascenderent in Hai: et electa triginta millia virorum fortium misit nocte,"
+        },
+        {
+          "number": 4,
+          "text": "prcepitque eis, dicens: Ponite insidias post civitatem, nec longius recedatis: et eritis omnes parati."
+        },
+        {
+          "number": 5,
+          "text": "Ego autem, et reliqua multitudo, qu mecum est, accedemus ex adverso contra urbem. Cumque exierint contra nos, sicut ante fecimus, fugiemus, et terga vertemus,"
+        },
+        {
+          "number": 6,
+          "text": "donec persequentes ab urbe longius protrahantur: putabunt enim nos fugere sicut prius."
+        },
+        {
+          "number": 7,
+          "text": "Nobis ergo fugientibus, et illis persequentibus, consurgetis de insidiis, et vastabitis civitatem: tradetque eam Dominus Deus vester in manus vestras."
+        },
+        {
+          "number": 8,
+          "text": "Cumque ceperitis, succendite eam, et sic omnia facietis, ut jussi."
+        },
+        {
+          "number": 9,
+          "text": "Dimisitque eos, et perrexerunt ad locum insidiarum, sederuntque inter Bethel et Hai, ad occidentalem plagam urbis Hai: Josue autem nocte illa in medio mansit populi,"
+        },
+        {
+          "number": 10,
+          "text": "surgensque diluculo recensuit socios, et ascendit cum senioribus in fronte exercitus, vallatus auxilio pugnatorum."
+        },
+        {
+          "number": 11,
+          "text": "Cumque venissent et ascendissent ex adverso civitatis, steterunt ad septentrionalem urbis plagam, inter quam et eos erat vallis media."
+        },
+        {
+          "number": 12,
+          "text": "Quinque autem millia viros elegerat, et posuerat in insidiis inter Bethel et Hai ex occidentali parte ejusdem civitatis:"
+        },
+        {
+          "number": 13,
+          "text": "omnis vero reliquus exercitus ad aquilonem aciem dirigebat, ita ut novissimi illius multitudinis occidentalem plagam urbis attingerent. Abiit ergo Josue nocte illa, et stetit in vallis medio."
+        },
+        {
+          "number": 14,
+          "text": "Quod cum vidisset rex Hai, festinavit mane, et egressus est cum omni exercitu civitatis, direxitque aciem contra desertum, ignorans quod post tergum laterent insidi."
+        },
+        {
+          "number": 15,
+          "text": "Josue vero et omnis Isral cesserunt loco, simulantes metum, et fugientes per solitudinis viam."
+        },
+        {
+          "number": 16,
+          "text": "At illi vociferantes pariter, et se mutuo cohortantes, persecuti sunt eos. Cumque recessissent a civitate,"
+        },
+        {
+          "number": 17,
+          "text": "et ne unus quidem in urbe Hai et Bethel remansisset qui non persequeretur Isral (sicut eruperant aperta oppida relinquentes),"
+        },
+        {
+          "number": 18,
+          "text": "dixit Dominus ad Josue: Leva clypeum, qui in manu tua est, contra urbem Hai, quoniam tibi tradam eam."
+        },
+        {
+          "number": 19,
+          "text": "Cumque elevasset clypeum ex adverso civitatis, insidi, qu latebant, surrexerunt confestim: et pergentes ad civitatem, ceperunt, et succenderunt eam."
+        },
+        {
+          "number": 20,
+          "text": "Viri autem civitatis, qui persequebantur Josue, respicientes et videntes fumum urbis ad clum usque conscendere, non potuerunt ultra huc illucque diffugere: prsertim cum hi qui simulaverant fugam, et tendebant ad solitudinem, contra persequentes fortissime restitissent."
+        },
+        {
+          "number": 21,
+          "text": "Vidensque Josue et omnis Isral quod capta esset civitas, et fumus urbis ascenderet, reversus percussit viros Hai."
+        },
+        {
+          "number": 22,
+          "text": "Siquidem et illi qui ceperant et succenderant civitatem, egressi ex urbe contra suos, medios hostium ferire cperunt. Cum ergo ex utraque parte adversarii cderentur, ita ut nullus de tanta multitudine salvaretur,"
+        },
+        {
+          "number": 23,
+          "text": "regem quoque urbis Hai apprehenderunt viventem, et obtulerunt Josue."
+        },
+        {
+          "number": 24,
+          "text": "Igitur omnibus interfectis, qui Isralem ad deserta tendentem fuerant persecuti, et in eodem loco gladio corruentibus, reversi filii Isral percusserunt civitatem."
+        },
+        {
+          "number": 25,
+          "text": "Erant autem qui in eodem die conciderant a viro usque ad mulierem, duodecim millia hominum, omnes urbis Hai."
+        },
+        {
+          "number": 26,
+          "text": "Josue vero non contraxit manum, quam in sublime porrexerat, tenens clypeum donec interficerentur omnes habitatores Hai."
+        },
+        {
+          "number": 27,
+          "text": "Jumenta autem et prdam civitatis diviserunt sibi filii Isral, sicut prceperat Dominus Josue."
+        },
+        {
+          "number": 28,
+          "text": "Qui succendit urbem, et fecit eam tumulum sempiternum:"
+        },
+        {
+          "number": 29,
+          "text": "regem quoque ejus suspendit in patibulo usque ad vesperam et solis occasum. Prcepitque Josue, et deposuerunt cadaver ejus de cruce: projeceruntque in ipso introitu civitatis, congesto super eum magno acervo lapidum, qui permanet usque in prsentem diem."
+        },
+        {
+          "number": 30,
+          "text": "Tunc dificavit Josue altare Domino Deo Isral in monte Hebal,"
+        },
+        {
+          "number": 31,
+          "text": "sicut prceperat Moyses famulus Domini filiis Isral, et scriptum est in volumine legis Moysi: altare vero de lapidibus impolitis, quos ferrum non tetigit: et obtulit super eo holocausta Domino, immolavitque pacificas victimas."
+        },
+        {
+          "number": 32,
+          "text": "Et scripsit super lapides Deuteronomium legis Moysi, quod ille digesserat coram filiis Isral."
+        },
+        {
+          "number": 33,
+          "text": "Omnis autem populus, et majores natu, ducesque ac judices, stabant ex utraque parte arc, in conspectu sacerdotum qui portabant arcam fderis Domini, ut advena, ita et indigena. Media pars eorum juxta montem Garizim, et media juxta montem Hebal, sicut prceperat Moyses famulus Domini. Et primum quidem benedixit populo Isral."
+        },
+        {
+          "number": 34,
+          "text": "Post hc legit omnia verba benedictionis et maledictionis, et cuncta qu scripta erant in legis volumine."
+        },
+        {
+          "number": 35,
+          "text": "Nihil ex his qu Moyses jusserat, reliquit intactum, sed universa replicavit coram omni multitudine Isral, mulieribus ac parvulis, et advenis qui inter eos morabantur."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quibus auditis, cuncti reges trans Jordanem, qui versabantur in montanis et campestribus, in maritimis ac littore magni maris, hi quoque qui habitabant juxta Libanum, Hethus et Amorrhus, Chananus, Pherezus, et Hevus, et Jebusus,"
+        },
+        {
+          "number": 2,
+          "text": "congregati sunt pariter, ut pugnarent contra Josue et Isral uno animo, eademque sententia."
+        },
+        {
+          "number": 3,
+          "text": "At hi qui habitabant in Gabaon, audientes cuncta qu fecerat Josue Jericho, et Hai,"
+        },
+        {
+          "number": 4,
+          "text": "et callide cogitantes, tulerunt sibi cibaria, saccos veteres asinis imponentes, et utres vinarios scissos atque consutos,"
+        },
+        {
+          "number": 5,
+          "text": "calceamentaque perantiqua qu ad indicium vetustatis pittaciis consuta erant, induti veteribus vestimentis: panes quoque, quos portabant ob viaticum, duri erant, et in frustra comminuti:"
+        },
+        {
+          "number": 6,
+          "text": "perrexeruntque ad Josue, qui tunc morabatur in castris Galgal, et dixerunt ei, atque simul omni Israli: De terra longinqua venimus, pacem vobiscum facere cupientes. Responderuntque viri Isral ad eos, atque dixerunt:"
+        },
+        {
+          "number": 7,
+          "text": "Ne forte in terra, qu nobis sorte debetur, habitetis, et non possimus fdus inire vobiscum."
+        },
+        {
+          "number": 8,
+          "text": "At illi ad Josue: Servi, inquiunt, tui sumus. Quibus Josue ait: Quinam estis vos? et unde venistis?"
+        },
+        {
+          "number": 9,
+          "text": "Responderunt: De terra longinqua valde venerunt servi tui in nomine Domini Dei tui. Audivimus enim famam potenti ejus, cuncta qu fecit in gypto,"
+        },
+        {
+          "number": 10,
+          "text": "et duobus regibus Amorrhorum qui fuerunt trans Jordanem, Sehon regi Hesebon, et Og regi Basan, qui erat in Astaroth:"
+        },
+        {
+          "number": 11,
+          "text": "dixeruntque nobis seniores, et omnes habitatores terr nostr: Tollite in manibus cibaria ob longissimam viam, et occurrite eis, et dicite: Servi vestri sumus: fdus inite nobiscum."
+        },
+        {
+          "number": 12,
+          "text": "En panes quando egressi sumus de domibus nostris, ut veniremus ad vos, calidos sumpsimus; nunc sicci facti sunt, et vetustate nimia comminuti."
+        },
+        {
+          "number": 13,
+          "text": "Utres vini novos implevimus; nunc rupti sunt et soluti. Vestes et calceamenta quibus induimur, et qu habemus in pedibus, ob longitudinem longioris vi trita sunt, et pene consumpta."
+        },
+        {
+          "number": 14,
+          "text": "Susceperunt igitur de cibariis eorum, et os Domini non interrogaverunt."
+        },
+        {
+          "number": 15,
+          "text": "Fecitque Josue cum eis pacem, et inito fdere pollicitus est quod non occiderentur: principes quoque multitudinis juraverunt eis."
+        },
+        {
+          "number": 16,
+          "text": "Post dies autem tres initi fderis, audierunt quod in vicino habitarent, et inter eos futuri essent."
+        },
+        {
+          "number": 17,
+          "text": "Moveruntque castra filii Isral, et venerunt in civitates eorum die tertio, quarum hc vocabula sunt: Gabaon, et Caphira, et Beroth, et Cariathiarim."
+        },
+        {
+          "number": 18,
+          "text": "Et non percusserunt eos, eo quod jurassent eis principes multitudinis in nomine Domini Dei Isral. Murmuravit itaque omne vulgus contra principes."
+        },
+        {
+          "number": 19,
+          "text": "Qui responderunt eis: Juravimus illis in nomine Domini Dei Isral, et idcirco non possumus eos contingere."
+        },
+        {
+          "number": 20,
+          "text": "Sed hoc faciemus eis: reserventur quidem ut vivant, ne contra nos ira Domini concitetur, si pejeraverimus:"
+        },
+        {
+          "number": 21,
+          "text": "sed sic vivant, ut in usus univers multitudinis ligna cdant, aquasque comportent. Quibus hc loquentibus,"
+        },
+        {
+          "number": 22,
+          "text": "vocavit Gabaonitas Josue, et dixit eis: Cur nos decipere fraude voluistis, ut diceretis: Procul valde habitamus a vobis, cum in medio nostri sitis?"
+        },
+        {
+          "number": 23,
+          "text": "itaque sub maledictione eritis, et non deficiet de stirpe vestra ligna cdens, aquasque comportans in domum Dei mei."
+        },
+        {
+          "number": 24,
+          "text": "Qui responderunt: Nuntiatum est nobis servis tuis, quod promisisset Dominus Deus tuus Moysi servo suo ut traderet vobis omnem terram, et disperderet cunctos habitatores ejus. Timuimus igitur valde, et providimus animabus nostris, vestro terrore compulsi, et hoc consilium inivimus."
+        },
+        {
+          "number": 25,
+          "text": "Nunc autem in manu tua sumus: quod tibi bonum et rectum videtur, fac nobis."
+        },
+        {
+          "number": 26,
+          "text": "Fecit ergo Josue ut dixerat, et liberavit eos de manu filiorum Isral, ut non occiderentur."
+        },
+        {
+          "number": 27,
+          "text": "Decrevitque in illo die eos esse in ministerio cuncti populi, et altaris Domini, cdentes ligna, et aquas comportantes, usque in prsens tempus, in loco quem Dominus elegisset."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Qu cum audisset Adonisedec rex Jerusalem, quod scilicet cepisset Josue Hai, et subvertisset eam (sicut enim fecerat Jericho et regi ejus, sic fecit Hai et regi illius), et quod transfugissent Gabaonit ad Isral, et essent fderati eorum,"
+        },
+        {
+          "number": 2,
+          "text": "timuit valde. Urbs enim magna erat Gabaon, et una civitatum regalium, et major oppido Hai, omnesque bellatores ejus fortissimi."
+        },
+        {
+          "number": 3,
+          "text": "Misit ergo Adonisedec rex Jerusalem ad Oham regem Hebron, et ad Pharam regem Jerimoth, ad Japhia quoque regem Lachis, et ad Dabir regem Eglon, dicens:"
+        },
+        {
+          "number": 4,
+          "text": "Ad me ascendite, et ferte prsidium, ut expugnemus Gabaon, quare transfugerit ad Josue, et ad filios Isral."
+        },
+        {
+          "number": 5,
+          "text": "Congregati igitur ascenderunt quinque reges Amorrhorum: rex Jerusalem, rex Hebron, rex Jerimoth, rex Lachis, rex Eglon, simul cum exercitibus suis: et castrametati sunt circa Gabaon, oppugnantes eam."
+        },
+        {
+          "number": 6,
+          "text": "Habitatores autem Gabaon urbis obsess miserunt ad Josue, qui tunc morabatur in castris apud Galgalam, et dixerunt ei: Ne retrahas manus tuas ab auxilio servorum tuorum: ascende cito, et libera nos, ferque prsidium: convenerunt enim adversum nos omnes reges Amorrhorum, qui habitant in montanis."
+        },
+        {
+          "number": 7,
+          "text": "Ascenditque Josue de Galgalis, et omnis exercitus bellatorum cum eo, viri fortissimi."
+        },
+        {
+          "number": 8,
+          "text": "Dixitque Dominus ad Josue: Ne timeas eos: in manus enim tuas tradidi illos: nullus ex eis tibi resistere poterit."
+        },
+        {
+          "number": 9,
+          "text": "Irruit itaque Josue super eos repente, tota nocte ascendens de Galgalis."
+        },
+        {
+          "number": 10,
+          "text": "Et conturbavit eos Dominus a facie Isral: contrivitque plaga magna in Gabaon, ac persecutus est eos per viam ascensus Bethoron, et percussit usque Azeca et Maceda."
+        },
+        {
+          "number": 11,
+          "text": "Cumque fugerent filios Isral, et essent in descensu Bethoron, Dominus misit super eos lapides magnos de clo usque ad Azeca: et mortui sunt multo plures lapidibus grandinis, quam quos gladio percusserant filii Isral."
+        },
+        {
+          "number": 12,
+          "text": "Tunc locutus est Josue Domino, in die qua tradidit Amorrhum in conspectu filiorum Isral, dixitque coram eis: [Sol, contra Gabaon ne movearis, et luna contra vallem Ajalon."
+        },
+        {
+          "number": 13,
+          "text": "Steteruntque sol et luna, donec ulcisceretur se gens de inimicis suis.] Nonne scriptum est hoc in libro justorum? Stetit itaque sol in medio cli, et non festinavit occumbere spatio unius diei."
+        },
+        {
+          "number": 14,
+          "text": "Non fuit antea nec postea tam longa dies, obediente Domino voci hominis, et pugnante pro Isral."
+        },
+        {
+          "number": 15,
+          "text": "Reversusque est Josue cum omni Isral in castra Galgal."
+        },
+        {
+          "number": 16,
+          "text": "Fugerant enim quinque reges et se absconderant in spelunca urbis Maceda."
+        },
+        {
+          "number": 17,
+          "text": "Nuntiatumque est Josue quod inventi essent quinque reges latentes in spelunca urbis Maceda."
+        },
+        {
+          "number": 18,
+          "text": "Qui prcepit sociis, et ait: Volvite saxa ingentia ad os spelunc, et ponite viros industrios, qui clausos custodiant:"
+        },
+        {
+          "number": 19,
+          "text": "vos autem nolite stare, sed persequimini hostes, et extremos quosque fugientium cdite: nec dimittatis eos urbium suarum intrare prsidia, quos tradidit Dominus Deus in manus vestras."
+        },
+        {
+          "number": 20,
+          "text": "Csis ergo adversariis plaga magna, et usque ad internecionem pene consumptis, hi qui Isral effugere potuerunt, ingressi sunt civitates munitas."
+        },
+        {
+          "number": 21,
+          "text": "Reversusque est omnis exercitus ad Josue in Maceda, ubi tunc erant castra, sani et integro numero: nullusque contra filios Isral mutire ausus est."
+        },
+        {
+          "number": 22,
+          "text": "Prcepitque Josue, dicens: Aperite os spelunc, et producite ad me quinque reges, qui in ea latitant."
+        },
+        {
+          "number": 23,
+          "text": "Feceruntque ministri ut sibi fuerat imperatum: et eduxerunt ad eum quinque reges de spelunca, regem Jerusalem, regem Hebron, regem Jerimoth, regem Lachis, regem Eglon."
+        },
+        {
+          "number": 24,
+          "text": "Cumque educti essent ad eum, vocavit omnes viros Isral, et ait ad principes exercitus qui secum erant: Ite, et ponite pedes super colla regum istorum. Qui cum perrexissent, et subjectorum colla pedibus calcarent,"
+        },
+        {
+          "number": 25,
+          "text": "rursum ait ad eos: Nolite timere, nec paveatis: confortamini, et estote robusti: sic enim faciet Dominus cunctis hostibus vestris, adversum quos dimicatis."
+        },
+        {
+          "number": 26,
+          "text": "Percussitque Josue, et interfecit eos, atque suspendit super quinque stipites: fueruntque suspensi usque ad vesperum."
+        },
+        {
+          "number": 27,
+          "text": "Cumque occumberet sol, prcepit sociis ut deponerent eos de patibulis. Qui depositos projecerunt in speluncam in qua latuerant, et posuerunt super os ejus saxa ingentia, qu permanent usque in prsens."
+        },
+        {
+          "number": 28,
+          "text": "Eodem quoque die, Macedam cepit Josue, et percussit eam in ore gladii, regemque illius interfecit, et omnes habitatores ejus: non dimisit in ea saltem parvas reliquias. Fecitque regi Maceda sicut fecerat regi Jericho."
+        },
+        {
+          "number": 29,
+          "text": "Transivit autem cum omni Isral de Maceda in Lebna, et pugnabat contra eam:"
+        },
+        {
+          "number": 30,
+          "text": "quam tradidit Dominus cum rege suo in manus Isral: percusseruntque urbem in ore gladii, et omnes habitatores ejus: non dimiserunt in ea ullas reliquias. Feceruntque regi Lebna sicut fecerant regi Jericho."
+        },
+        {
+          "number": 31,
+          "text": "De Lebna transivit in Lachis cum omni Isral: et exercitu per gyrum disposito, oppugnabat eam."
+        },
+        {
+          "number": 32,
+          "text": "Tradiditque Dominus Lachis in manus Isral, et cepit eam die altero, atque percussit in ore gladii, omnemque animam qu fuerat in ea, sicut fecerat Lebna."
+        },
+        {
+          "number": 33,
+          "text": "Eo tempore ascendit Horam rex Gazer, ut auxiliaretur Lachis: quem percussit Josue cum omni populo ejus usque ad internecionem."
+        },
+        {
+          "number": 34,
+          "text": "Transivitque de Lachis in Eglon, et circumdedit,"
+        },
+        {
+          "number": 35,
+          "text": "atque expugnavit eam eadem die: percussitque in ore gladii omnes animas qu erant in ea, juxta omnia qu fecerat Lachis."
+        },
+        {
+          "number": 36,
+          "text": "Ascendit quoque cum omni Isral de Eglon in Hebron, et pugnavit contra eam:"
+        },
+        {
+          "number": 37,
+          "text": "cepit eam, et percussit in ore gladii, regem quoque ejus, et omnia oppida regionis illius, universasque animas qu in ea fuerant commorat: non reliquit in ea ullas reliquias: sicut fecerat Eglon, sic fecit et Hebron, cuncta qu in ea reperit consumens gladio."
+        },
+        {
+          "number": 38,
+          "text": "Inde reversus in Dabir,"
+        },
+        {
+          "number": 39,
+          "text": "cepit eam atque vastavit: regem quoque ejus atque omnia per circuitum oppida percussit in ore gladii: non dimisit in ea ullas reliquias: sicut fecerat Hebron et Lebna et regibus earum, sic fecit Dabir et regi illius."
+        },
+        {
+          "number": 40,
+          "text": "Percussit itaque Josue omnem terram montanam et meridianam atque campestrem, et Asedoth, cum regibus suis: non dimisit in ea ullas reliquias, sed omne quod spirare poterat interfecit, sicut prceperat ei Dominus Deus Isral,"
+        },
+        {
+          "number": 41,
+          "text": "a Cadesbarne usque Gazam. Omnem terram Gosen usque Gabaon,"
+        },
+        {
+          "number": 42,
+          "text": "universosque reges, et regiones eorum uno impetu cepit atque vastavit: Dominus enim Deus Isral pugnavit pro eo."
+        },
+        {
+          "number": 43,
+          "text": "Reversusque est cum omni Isral ad locum castrorum in Galgala."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Qu cum audisset Jabin rex Asor, misit ad Jobab regem Madon, et ad regem Semeron, atque ad regem Achsaph:"
+        },
+        {
+          "number": 2,
+          "text": "ad reges quoque aquilonis, qui habitabant in montanis et in planitie contra meridiem Ceneroth, in campestribus quoque et in regionibus Dor juxta mare:"
+        },
+        {
+          "number": 3,
+          "text": "Chananum quoque ab oriente et occidente, et Amorrhum atque Hethum ac Pherezum et Jebusum in montanis: Hevum quoque qui habitabat ad radices Hermon in terra Maspha."
+        },
+        {
+          "number": 4,
+          "text": "Egressique sunt omnes cum turmis suis, populus multus nimis sicut arena qu est in littore maris, equi quoque et currus immens multitudinis."
+        },
+        {
+          "number": 5,
+          "text": "Conveneruntque omnes reges isti in unum ad aquas Merom, ut pugnarent contra Isral."
+        },
+        {
+          "number": 6,
+          "text": "Dixitque Dominus ad Josue: Ne timeas eos: cras enim hac eadem hora ego tradam omnes istos vulnerandos in conspectu Isral: equos eorum subnervabis, et currus igne combures."
+        },
+        {
+          "number": 7,
+          "text": "Venitque Josue, et omnis exercitus cum eo, adversus illos ad aquas Merom subito, et irruerunt super eos,"
+        },
+        {
+          "number": 8,
+          "text": "tradiditque illos Dominus in manus Isral. Qui percusserunt eos, et persecuti sunt usque ad Sidonem magnam, et aquas Maserephoth, campumque Masphe, qui est ad orientalem illius partem. Ita percussit omnes, ut nullas dimitteret ex eis reliquias:"
+        },
+        {
+          "number": 9,
+          "text": "fecitque sicut prceperat ei Dominus: equos eorum subnervavit, currusque combussit igni."
+        },
+        {
+          "number": 10,
+          "text": "Reversusque statim cepit Asor, et regem ejus percussit gladio. Asor enim antiquitus inter omnia regna hc principatum tenebat."
+        },
+        {
+          "number": 11,
+          "text": "Percussitque omnes animas qu ibidem morabantur: non dimisit in ea ullas reliquias, sed usque ad internecionem universa vastavit, ipsamque urbem peremit incendio."
+        },
+        {
+          "number": 12,
+          "text": "Et omnes per circuitum civitates, regesque earum, cepit, percussit atque delevit, sicut prceperat ei Moyses famulus Domini."
+        },
+        {
+          "number": 13,
+          "text": "Absque urbibus, qu erant in collibus et in tumulis sit, ceteras succendit Isral: unam tantum Asor munitissimam flamma consumpsit."
+        },
+        {
+          "number": 14,
+          "text": "Omnemque prdam istarum urbium ac jumenta diviserunt sibi filii Isral, cunctis hominibus interfectis."
+        },
+        {
+          "number": 15,
+          "text": "Sicut prceperat Dominus Moysi servo suo, ita prcepit Moyses Josue, et ille universa complevit: non prteriit de universis mandatis, nec unum quidem verbum quod jusserat Dominus Moysi."
+        },
+        {
+          "number": 16,
+          "text": "Cepit itaque Josue omnem terram montanam et meridianam, terramque Gosen, et planitiem, et occidentalem plagam, montemque Isral, et campestria ejus,"
+        },
+        {
+          "number": 17,
+          "text": "et partem montis, qu ascendit Seir usque Baalgad, per planitiem Libani subter montem Hermon: omnes reges eorum cepit, percussit, et occidit."
+        },
+        {
+          "number": 18,
+          "text": "Multo tempore pugnavit Josue contra reges istos."
+        },
+        {
+          "number": 19,
+          "text": "Non fuit civitas qu se traderet filiis Isral, prter Hevum, qui habitabat in Gabaon: omnes enim bellando cepit."
+        },
+        {
+          "number": 20,
+          "text": "Domini enim sententia fuerat, ut indurarentur corda eorum, et pugnarent contra Isral, et caderent, et non mererentur ullam clementiam, ac perirent, sicut prceperat Dominus Moysi."
+        },
+        {
+          "number": 21,
+          "text": "In illo tempore venit Josue, et interfecit Enacim de montanis, Hebron, et Dabir, et Anab, et de omni monte Juda et Isral, urbesque eorum delevit."
+        },
+        {
+          "number": 22,
+          "text": "Non reliquit ullum de stirpe Enacim, in terra filiorum Isral: absque civitatibus Gaza, et Geth, et Azoto, in quibus solis relicti sunt."
+        },
+        {
+          "number": 23,
+          "text": "Cepit ergo Josue omnem terram, sicut locutus est Dominus ad Moysen, et tradidit eam in possessionem filiis Isral secundum partes et tribus suas: quievitque terra a prliis."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hi sunt reges, quos percusserunt filii Isral, et possederunt terram eorum trans Jordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem orientalem plagam, qu respicit solitudinem."
+        },
+        {
+          "number": 2,
+          "text": "Sehon rex Amorrhorum, qui habitavit in Hesebon, dominatus est ab Aror, qu sita est super ripam torrentis Arnon, et medi partis in valle, dimidique Galaad, usque ad torrentem Jaboc, qui est terminus filiorum Ammon."
+        },
+        {
+          "number": 3,
+          "text": "Et a solitudine usque ad mare Ceneroth contra orientem, et usque ad mare deserti, quod est mare salsissimum, ad orientalem plagam per viam qu ducit Bethsimoth: et ab australi parte, qu subjacet Asedoth, Phasga."
+        },
+        {
+          "number": 4,
+          "text": "Terminus Og regis Basan, de reliquiis Raphaim, qui habitavit in Astaroth, et in Edrai, et dominatus est in monte Hermon, et in Salecha, atque in universa Basan, usque ad terminos"
+        },
+        {
+          "number": 5,
+          "text": "Gessuri, et Machati, et dimidi partis Galaad: terminos Sehon regis Hesebon."
+        },
+        {
+          "number": 6,
+          "text": "Moyses famulus Domini et filii Isral percusserunt eos, tradiditque terram eorum Moyses in possessionem Rubenitis, et Gaditis, et dimidi tribui Manasse."
+        },
+        {
+          "number": 7,
+          "text": "Hi sunt reges terr, quos percussit Josue et filii Isral trans Jordanem ad occidentalem plagam, a Baalgad in campo Libani, usque ad montem cujus pars ascendit in Seir: tradiditque eam Josue in possessionem tribubus Isral, singulis partes suas,"
+        },
+        {
+          "number": 8,
+          "text": "tam in montanis quam in planis atque campestribus. In Asedoth, et in solitudine, ac in meridie, Hethus fuit et Amorrhus, Chananus, et Pherezus, Hevus et Jebusus."
+        },
+        {
+          "number": 9,
+          "text": "Rex Jericho unus: rex Hai, qu est ex latere Bethel, unus:"
+        },
+        {
+          "number": 10,
+          "text": "rex Jerusalem unus, rex Hebron unus,"
+        },
+        {
+          "number": 11,
+          "text": "rex Jerimoth unus, rex Lachis unus,"
+        },
+        {
+          "number": 12,
+          "text": "rex Eglon unus, rex Gazer unus,"
+        },
+        {
+          "number": 13,
+          "text": "rex Dabir unus, rex Gader unus,"
+        },
+        {
+          "number": 14,
+          "text": "rex Herma unus, rex Hered unus,"
+        },
+        {
+          "number": 15,
+          "text": "rex Lebna unus, rex Odullam unus,"
+        },
+        {
+          "number": 16,
+          "text": "rex Maceda unus, rex Bethel unus,"
+        },
+        {
+          "number": 17,
+          "text": "rex Taphua unus, rex Opher unus,"
+        },
+        {
+          "number": 18,
+          "text": "rex Aphec unus, rex Saron unus,"
+        },
+        {
+          "number": 19,
+          "text": "rex Madon unus, rex Asor unus,"
+        },
+        {
+          "number": 20,
+          "text": "rex Semeron unus, rex Achsaph unus,"
+        },
+        {
+          "number": 21,
+          "text": "rex Thenac unus, rex Mageddo unus,"
+        },
+        {
+          "number": 22,
+          "text": "rex Cades unus, rex Jachanan Carmeli unus,"
+        },
+        {
+          "number": 23,
+          "text": "rex Dor et provinci Dor unus, rex gentium Galgal unus,"
+        },
+        {
+          "number": 24,
+          "text": "rex Thersa unus: omnes reges triginta unus."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Josue senex provectque tatis erat, et dixit Dominus ad eum: Senuisti, et longvus es, terraque latissima derelicta est, qu necdum sorte divisa est:"
+        },
+        {
+          "number": 2,
+          "text": "omnis videlicet Galila, Philisthiim, et universa Gessuri."
+        },
+        {
+          "number": 3,
+          "text": "A fluvio turbido, qui irrigat gyptum, usque ad terminos Accaron contra aquilonem: terra Chanaan, qu in quinque regulos Philisthiim dividitur, Gazos, et Azotios, Ascalonitas, Gethos, et Accaronitas."
+        },
+        {
+          "number": 4,
+          "text": "Ad meridiem vero sunt Hevi, omnis terra Chanaan, et Maara Sidoniorum, usque Apheca et terminos Amorrhi,"
+        },
+        {
+          "number": 5,
+          "text": "ejusque confinia. Libani quoque regio contra orientem, a Baalgad sub monte Hermon, donec ingrediaris Emath;"
+        },
+        {
+          "number": 6,
+          "text": "omnium qui habitant in monte a Libano usque ad aquas Maserephoth, universique Sidonii. Ego sum qui delebo eos a facie filiorum Isral. Veniat ergo in partem hreditatis Isral, sicut prcepi tibi."
+        },
+        {
+          "number": 7,
+          "text": "Et nunc divide terram in possessionem novem tribubus, et dimidi tribui Manasse,"
+        },
+        {
+          "number": 8,
+          "text": "cum qua Ruben et Gad possederunt terram, quam tradidit eis Moyses famulus Domini trans fluenta Jordanis, ad orientalem plagam."
+        },
+        {
+          "number": 9,
+          "text": "Ab Aror, qu sita est in ripa torrentis Arnon, et in vallis medio, universaque campestria Medaba, usque Dibon,"
+        },
+        {
+          "number": 10,
+          "text": "et cunctas civitates Sehon regis Amorrhi, qui regnavit in Hesebon, usque ad terminos filiorum Ammon,"
+        },
+        {
+          "number": 11,
+          "text": "et Galaad, ac terminum Gessuri et Machati, et omnem montem Hermon, et universam Basan, usque ad Salecha,"
+        },
+        {
+          "number": 12,
+          "text": "omne regnum Og in Basan, qui regnavit in Astaroth et Edrai, ipse fuit de reliquiis Raphaim: percussitque eos Moyses, atque delevit."
+        },
+        {
+          "number": 13,
+          "text": "Nolueruntque disperdere filii Isral Gessuri et Machati: et habitaverunt in medio Isral usque in prsentem diem."
+        },
+        {
+          "number": 14,
+          "text": "Tribui autem Levi non dedit possessionem: sed sacrificia et victim Domini Dei Isral, ipsa est ejus hreditas, sicut locutus est illi."
+        },
+        {
+          "number": 15,
+          "text": "Dedit ergo Moyses possessionem tribui filiorum Ruben juxta cognationes suas."
+        },
+        {
+          "number": 16,
+          "text": "Fuitque terminus eorum ab Aror, qu sita est in ripa torrentis Arnon, et in valle ejusdem torrentis media: universam planitiem, qu ducit Medaba,"
+        },
+        {
+          "number": 17,
+          "text": "et Hesebon, cunctosque viculos earum, qui sunt in campestribus: Dibon quoque et Bamothbaal, et oppidum Baalmaon,"
+        },
+        {
+          "number": 18,
+          "text": "et Jassa, et Cedimoth, et Mephaath,"
+        },
+        {
+          "number": 19,
+          "text": "et Cariathaim, et Sabama, et Sarathasar in monte convallis."
+        },
+        {
+          "number": 20,
+          "text": "Bethphogor et Asedoth, Phasga et Bethiesimoth,"
+        },
+        {
+          "number": 21,
+          "text": "et omnes urbes campestres, universaque regna Sehon regis Amorrhi, qui regnavit in Hesebon, quem percussit Moyses cum principibus Madian: Hevum, et Recem, et Sur, et Hur, et Rebe duces Sehon habitatores terr."
+        },
+        {
+          "number": 22,
+          "text": "Et Balaam filium Beor ariolum occiderunt filii Isral gladio cum ceteris interfectis."
+        },
+        {
+          "number": 23,
+          "text": "Factusque est terminus filiorum Ruben Jordanis fluvius. Hc est possessio Rubenitarum per cognationes suas urbium et viculorum."
+        },
+        {
+          "number": 24,
+          "text": "Deditque Moyses tribui Gad et filiis ejus per cognationes suas possessionem, cujus hc divisio est."
+        },
+        {
+          "number": 25,
+          "text": "Terminus Jaser, et omnes civitates Galaad, et dimidiam partem terr filiorum Ammon, usque ad Aror, qu est contra Rabba,"
+        },
+        {
+          "number": 26,
+          "text": "et ab Hesebon usque Ramoth, Masphe et Betonim: et a Manaim usque ad terminos Dabir."
+        },
+        {
+          "number": 27,
+          "text": "In valle quoque Betharan, et Bethnemra, et Socoth, et Saphon reliquam partem regni Sehon regis Hesebon: hujus quoque finis, Jordanis est, usque ad extremam partem maris Cenereth trans Jordanem ad orientalem plagam."
+        },
+        {
+          "number": 28,
+          "text": "Hc est possessio filiorum Gad per familias suas, civitates et vill earum."
+        },
+        {
+          "number": 29,
+          "text": "Dedit et dimidi tribui Manasse, filiisque ejus juxta cognationes suas, possessionem,"
+        },
+        {
+          "number": 30,
+          "text": "cujus hoc principium est: a Manaim universam Basan, et cuncta regna Og regis Basan, omnesque vicos Jair, qui sunt in Basan, sexaginta oppida:"
+        },
+        {
+          "number": 31,
+          "text": "et dimidiam partem Galaad, et Astaroth, et Edrai, urbes regni Og in Basan: filiis Machir, filii Manasse, dimidi parti filiorum Machir juxta cognationes suas."
+        },
+        {
+          "number": 32,
+          "text": "Hanc possessionem divisit Moyses in campestribus Moab trans Jordanem contra Jericho ad orientalem plagam."
+        },
+        {
+          "number": 33,
+          "text": "Tribui autem Levi non dedit possessionem: quoniam Dominus Deus Isral ipse est possessio ejus, ut locutus est illi."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hoc est quod possederunt filii Isral in terra Chanaan, quam dederunt eis Eleazar sacerdos, et Josue filius Nun, et principes familiarum per tribus Isral:"
+        },
+        {
+          "number": 2,
+          "text": "sorte omnia dividentes, sicut prceperat Dominus in manu Moysi, novem tribubus, et dimidi tribui."
+        },
+        {
+          "number": 3,
+          "text": "Duabus enim tribubus, et dimidi, dederat Moyses trans Jordanem possessionem: absque Levitis, qui nihil terr acceperunt inter fratres suos:"
+        },
+        {
+          "number": 4,
+          "text": "sed in eorum successerunt locum filii Joseph in duas divisi tribus, Manasse et Ephraim: nec acceperunt Levit aliam in terra partem, nisi urbes ad habitandum, et suburbana earum ad alenda jumenta et pecora sua."
+        },
+        {
+          "number": 5,
+          "text": "Sicut prceperat Dominus Moysi, ita fecerunt filii Isral, et diviserunt terram."
+        },
+        {
+          "number": 6,
+          "text": "Accesserunt itaque filii Juda ad Josue in Galgala, locutusque est ad eum Caleb filius Jephone Cenezus: Nosti quid locutus sit Dominus ad Moysen hominem Dei de me et te in Cadesbarne."
+        },
+        {
+          "number": 7,
+          "text": "Quadraginta annorum eram quando misit me Moyses famulus Domini de Cadesbarne, ut considerarem terram, nuntiavique ei quod mihi verum videbatur."
+        },
+        {
+          "number": 8,
+          "text": "Fratres autem mei, qui ascenderant mecum, dissolverunt cor populi: et nihilominus ego secutus sum Dominum Deum meum."
+        },
+        {
+          "number": 9,
+          "text": "Juravitque Moyses in die illo, dicens: Terra, quam calcavit pes tuus, erit possessio tua, et filiorum tuorum in ternum: quia secutus es Dominum Deum meum."
+        },
+        {
+          "number": 10,
+          "text": "Concessit ergo Dominus vitam mihi, sicut pollicitus est, usque in prsentem diem. Quadraginta et quinque anni sunt, ex quo locutus est Dominus verbum istud ad Moysen, quando ambulabat Isral per solitudinem: hodie octoginta quinque annorum sum,"
+        },
+        {
+          "number": 11,
+          "text": "sic valens ut eo valebam tempore quando ad explorandum missus sum: illius in me temporis fortitudo usque hodie perseverat, tam ad bellandum quam ad gradiendum."
+        },
+        {
+          "number": 12,
+          "text": "Da ergo mihi montem istum, quem pollicitus est Dominus, te quoque audiente, in quo Enacim sunt, et urbes magn atque munit: si forte sit Dominus mecum, et potuero delere eos, sicut promisit mihi."
+        },
+        {
+          "number": 13,
+          "text": "Benedixitque ei Josue, et tradidit ei Hebron in possessionem:"
+        },
+        {
+          "number": 14,
+          "text": "atque ex eo fuit Hebron Caleb filio Jephone Cenezo usque in prsentem diem, quia secutus est Dominum Deum Isral."
+        },
+        {
+          "number": 15,
+          "text": "Nomen Hebron ante vocabatur Cariath Arbe: Adam maximus ibi inter Enacim situs est: et terra cessavit a prliis."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Igitur sors filiorum Jud per cognationes suas ista fuit: a termino Edom, desertum Sin, contra meridiem, et usque ad extremam partem australis plag."
+        },
+        {
+          "number": 2,
+          "text": "Initium ejus a summitate maris salsissimi, et a lingua ejus, qu respicit meridiem."
+        },
+        {
+          "number": 3,
+          "text": "Egrediturque contra ascensum Scorpionis, et pertransit in Sina: ascenditque in Cadesbarne, et pervenit in Esron, ascendens ad Addar, et circuiens Carcaa,"
+        },
+        {
+          "number": 4,
+          "text": "atque inde pertransiens in Asemona, et perveniens ad torrentem gypti: eruntque termini ejus mare magnum. Hic erit finis meridian plag."
+        },
+        {
+          "number": 5,
+          "text": "Ab oriente vero erit initium, mare salsissimum usque ad extrema Jordanis: et ea qu respiciunt ad aquilonem, a lingua maris usque ad eumdem Jordanis fluvium."
+        },
+        {
+          "number": 6,
+          "text": "Ascenditque terminus in Beth Hagla, et transit ab aquilone in Beth Araba, ascendens ad lapidem Bon filii Ruben:"
+        },
+        {
+          "number": 7,
+          "text": "et tendens usque ad terminos Debera de valle Achor, contra aquilonem respiciens Galgala, qu est ex adverso ascensionis Adommim, ab australi parte torrentis: transitque aquas, qu vocantur fons solis: et erunt exitus ejus ad fontem Rogel."
+        },
+        {
+          "number": 8,
+          "text": "Ascenditque per convallem filii Ennom ex latere Jebusi ad meridiem, hc est Jerusalem: et inde se erigens ad verticem montis, qui est contra Geennom ad occidentem in summitate vallis Raphaim contra aquilonem:"
+        },
+        {
+          "number": 9,
+          "text": "pertransitque a vertice montis usque ad fontem aqu Nephtoa: et pervenit usque ad vicos montis Ephron: inclinaturque in Baala, qu est Cariathiarim, id est, urbs silvarum."
+        },
+        {
+          "number": 10,
+          "text": "Et circuit de Baala contra occidentem, usque ad montem Seir: transitque juxta latus montis Jarim ad aquilonem in Cheslon: et descendit in Bethsames, transitque in Thamna."
+        },
+        {
+          "number": 11,
+          "text": "Et pervenit contra aquilonem partis Accaron ex latere: inclinaturque Sechrona, et transit montem Baala: pervenitque in Jebneel, et magni maris contra occidentem fine concluditur."
+        },
+        {
+          "number": 12,
+          "text": "Hi sunt termini filiorum Juda per circuitum in cognationibus suis."
+        },
+        {
+          "number": 13,
+          "text": "Caleb vero filio Jephone dedit partem in medio filiorum Juda, sicut prceperat ei Dominus: Cariath Arbe patris Enac, ipsa est Hebron."
+        },
+        {
+          "number": 14,
+          "text": "Delevitque ex ea Caleb tres filios Enac, Sesai et Ahiman et Tholmai de stirpe Enac."
+        },
+        {
+          "number": 15,
+          "text": "Atque inde conscendens venit ad habitatores Dabir, qu prius vocabatur Cariath Sepher, id est, civitas litterarum."
+        },
+        {
+          "number": 16,
+          "text": "Dixitque Caleb: Qui percusserit Cariath Sepher, et ceperit eam, dabo ei Axam filiam meam uxorem."
+        },
+        {
+          "number": 17,
+          "text": "Cepitque eam Othoniel filius Cenez frater Caleb junior: deditque ei Axam filiam suam uxorem."
+        },
+        {
+          "number": 18,
+          "text": "Qu, cum pergerent simul, suasa est a viro suo ut peteret a patre suo agrum. Suspiravitque ut sedebat in asino: cui Caleb: Quid habes? inquit."
+        },
+        {
+          "number": 19,
+          "text": "At illa respondit: Da mihi benedictionem: terram australem et arentem dedisti mihi; junge et irriguam. Dedit itaque ei Caleb irriguum superius et inferius."
+        },
+        {
+          "number": 20,
+          "text": "Hc est possessio tribus filiorum Juda per cognationes suas."
+        },
+        {
+          "number": 21,
+          "text": "Erantque civitates ab extremis partibus filiorum Juda juxta terminos Edom a meridie: Cabseel et Eder et Jagur,"
+        },
+        {
+          "number": 22,
+          "text": "et Cyna et Dimona et Adada,"
+        },
+        {
+          "number": 23,
+          "text": "et Cades et Asor et Jethnam,"
+        },
+        {
+          "number": 24,
+          "text": "Ziph et Telem et Baloth,"
+        },
+        {
+          "number": 25,
+          "text": "Asor nova et Carioth, Hesron, hc est Asor;"
+        },
+        {
+          "number": 26,
+          "text": "Amam, Sama, et Molada,"
+        },
+        {
+          "number": 27,
+          "text": "et Asergadda et Hassemon et Bethphelet,"
+        },
+        {
+          "number": 28,
+          "text": "et Hasersual et Bersabee et Baziothia,"
+        },
+        {
+          "number": 29,
+          "text": "et Baala et Jim et Esem,"
+        },
+        {
+          "number": 30,
+          "text": "et Eltholad et Cesil et Harma,"
+        },
+        {
+          "number": 31,
+          "text": "et Siceleg et Medemena et Sensenna,"
+        },
+        {
+          "number": 32,
+          "text": "Lebaoth et Selim et An et Remon. Omnes civitates viginti novem, et vill earum."
+        },
+        {
+          "number": 33,
+          "text": "In campestribus vero: Estaol et Sarea et Asena,"
+        },
+        {
+          "number": 34,
+          "text": "et Zano et ngannim et Taphua et Enaim,"
+        },
+        {
+          "number": 35,
+          "text": "et Jerimoth et Adullam, Socho et Azeca,"
+        },
+        {
+          "number": 36,
+          "text": "et Saraim et Adithaim et Gedera et Gederothaim: urbes quatuordecim, et vill earum."
+        },
+        {
+          "number": 37,
+          "text": "Sanan et Hadassa et Magdalgad,"
+        },
+        {
+          "number": 38,
+          "text": "Delean et Masepha et Jecthel,"
+        },
+        {
+          "number": 39,
+          "text": "Lachis et Bascath et Eglon,"
+        },
+        {
+          "number": 40,
+          "text": "Chebbon et Leheman et Cethlis,"
+        },
+        {
+          "number": 41,
+          "text": "et Gideroth et Bethdagon et Naama et Maceda: civitates sedecim, et vill earum."
+        },
+        {
+          "number": 42,
+          "text": "Labana et Ether et Asan,"
+        },
+        {
+          "number": 43,
+          "text": "Jephtha et Esna et Nesib,"
+        },
+        {
+          "number": 44,
+          "text": "et Ceila et Achzib et Maresa: civitates novem, et vill earum."
+        },
+        {
+          "number": 45,
+          "text": "Accaron cum vicis et villulis suis."
+        },
+        {
+          "number": 46,
+          "text": "Ab Accaron usque ad mare: omnia qu vergunt ad Azotum et viculos ejus."
+        },
+        {
+          "number": 47,
+          "text": "Azotus cum vicis et villulis suis. Gaza cum vicis et villulis suis, usque ad torrentem gypti, et mare magnum terminus ejus."
+        },
+        {
+          "number": 48,
+          "text": "Et in monte: Samir et Jether et Socoth"
+        },
+        {
+          "number": 49,
+          "text": "et Danna et Cariathsenna, hc est Dabir:"
+        },
+        {
+          "number": 50,
+          "text": "Anab et Istemo et Anim,"
+        },
+        {
+          "number": 51,
+          "text": "Gosen et Olon et Gilo: civitates undecim et vill earum."
+        },
+        {
+          "number": 52,
+          "text": "Arab et Ruma et Esaan,"
+        },
+        {
+          "number": 53,
+          "text": "et Janum et Beththaphua et Apheca,"
+        },
+        {
+          "number": 54,
+          "text": "Athmatha, et Cariath Arbe, hc est Hebron, et Sior: civitates novem, et vill earum."
+        },
+        {
+          "number": 55,
+          "text": "Maon et Carmel et Ziph et Jota,"
+        },
+        {
+          "number": 56,
+          "text": "Jezral et Jucadam et Zano,"
+        },
+        {
+          "number": 57,
+          "text": "Accain, Gabaa et Thamna: civitates decem et vill earum."
+        },
+        {
+          "number": 58,
+          "text": "Halhul, et Besur, et Gedor,"
+        },
+        {
+          "number": 59,
+          "text": "Mareth, et Bethanoth, et Eltecon: civitates sex et vill earum."
+        },
+        {
+          "number": 60,
+          "text": "Cariathbaal, hc est Cariathiarim urbs silvarum, et Arebba: civitates du, et vill earum."
+        },
+        {
+          "number": 61,
+          "text": "In deserto Betharaba, Meddin, et Sachacha,"
+        },
+        {
+          "number": 62,
+          "text": "et Nebsan, et civitas salis, et Engaddi: civitates sex, et vill earum."
+        },
+        {
+          "number": 63,
+          "text": "Jebusum autem habitatorem Jerusalem non potuerunt filii Juda delere: habitavitque Jebusus cum filiis Juda in Jerusalem usque in prsentem diem."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cecidit quoque sors filiorum Joseph ab Jordane contra Jericho et aquas ejus ab oriente: solitudo qu ascendit de Jericho ad montem Bethel:"
+        },
+        {
+          "number": 2,
+          "text": "et egreditur de Bethel Luza: transitque terminum Archi, Ataroth:"
+        },
+        {
+          "number": 3,
+          "text": "et descendit ad occidentem juxta terminum Jephleti, usque ad terminos Beth-horon inferioris, et Gazer: finiunturque regiones ejus mari magno:"
+        },
+        {
+          "number": 4,
+          "text": "possederuntque filii Joseph, Manasses et Ephraim."
+        },
+        {
+          "number": 5,
+          "text": "Et factus est terminus filiorum Ephraim per cognationes suas: et possessio eorum contra orientem Ataroth Addar usque Beth-horon superiorem."
+        },
+        {
+          "number": 6,
+          "text": "Egrediunturque confinia in mare: Machmethath vero aquilonem respicit, et circuit terminos contra orientem in Thanathselo: et pertransit ab oriente Jano."
+        },
+        {
+          "number": 7,
+          "text": "Descenditque de Jano in Ataroth et Naaratha: et pervenit in Jericho, egrediturque ad Jordanem."
+        },
+        {
+          "number": 8,
+          "text": "De Taphua pertransit contra mare in vallem arundineti, suntque egressus ejus in mare salsissimum. Hc est possessio tribus filiorum Ephraim per familias suas."
+        },
+        {
+          "number": 9,
+          "text": "Urbesque separat sunt filiis Ephraim in medio possessionis filiorum Manasse, et vill earum."
+        },
+        {
+          "number": 10,
+          "text": "Et non interfecerunt filii Ephraim Chananum, qui habitabat in Gazer: habitavitque Chananus in medio Ephraim usque in diem hanc tributarius."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cecidit autem sors tribui Manasse (ipse enim est primogenitus Joseph): Machir primogenito Manasse patri Galaad, qui fuit vir pugnator, habuitque possessionem Galaad et Basan:"
+        },
+        {
+          "number": 2,
+          "text": "et reliquis filiorum Manasse juxta familias suas, filiis Abiezer, et filiis Helec, et filiis Esriel, et filiis Sechem, et filiis Hepher, et filiis Semida. Isti sunt filii Manasse filii Joseph, mares, per cognationes suas."
+        },
+        {
+          "number": 3,
+          "text": "Salphaad vero filio Hepher filii Galaad filii Machir filii Manasse non erant filii, sed sol fili: quarum ista sunt nomina: Maala et Noa et Hegla et Melcha et Thersa."
+        },
+        {
+          "number": 4,
+          "text": "Veneruntque in conspectu Eleazari sacerdotis, et Josue filii Nun, et principum, dicentes: Dominus prcepit per manum Moysi, ut daretur nobis possessio in medio fratrum nostrorum. Deditque eis juxta imperium Domini possessionem in medio fratrum patris earum."
+        },
+        {
+          "number": 5,
+          "text": "Et ceciderunt funiculi Manasse, decem, absque terra Galaad et Basan trans Jordanem."
+        },
+        {
+          "number": 6,
+          "text": "Fili enim Manasse possederunt hreditatem in medio filiorum ejus. Terra autem Galaad cecidit in sortem filiorum Manasse qui reliqui erant."
+        },
+        {
+          "number": 7,
+          "text": "Fuitque terminus Manasse ab Aser, Machmethath qu respicit Sichem: et egreditur ad dexteram juxta habitatores fontis Taphu."
+        },
+        {
+          "number": 8,
+          "text": "Etenim in sorte Manasse ceciderat terra Taphu, qu est juxta terminos Manasse filiorum Ephraim."
+        },
+        {
+          "number": 9,
+          "text": "Descenditque terminus vallis arundineti in meridiem torrentis civitatum Ephraim, qu in medio sunt urbium Manasse: terminus Manasse ab aquilone torrentis, et exitus ejus pergit ad mare:"
+        },
+        {
+          "number": 10,
+          "text": "ita ut possessio Ephraim sit ab austro, et ab aquilone Manasse, et utramque claudat mare, et conjungantur sibi in tribu Aser ab aquilone, et in tribu Issachar ab oriente."
+        },
+        {
+          "number": 11,
+          "text": "Fuitque hreditas Manasse in Issachar et in Aser, Bethsan et viculi ejus, et Jeblaam cum viculis suis, et habitatores Dor cum oppidis suis, habitatores quoque Endor cum viculis suis: similiterque habitatores Thenac cum viculis suis, et habitatores Mageddo cum viculis suis, et tertia pars urbis Nopheth."
+        },
+        {
+          "number": 12,
+          "text": "Nec potuerunt filii Manasse has civitates subvertere, sed cpit Chananus habitare in terra sua."
+        },
+        {
+          "number": 13,
+          "text": "Postquam autem convaluerunt filii Isral, subjecerunt Chananos, et fecerunt sibi tributarios, nec interfecerunt eos."
+        },
+        {
+          "number": 14,
+          "text": "Locutique sunt filii Joseph ad Josue, et dixerunt: Quare dedisti mihi possessionem sortis et funiculi unius, cum sim tant multitudinis, et benedixerit mihi Dominus?"
+        },
+        {
+          "number": 15,
+          "text": "Ad quos Josue ait: Si populus multus es, ascende in silvam, et succide tibi spatia in terra Pherezi et Raphaim: quia angusta est tibi possessio montis Ephraim."
+        },
+        {
+          "number": 16,
+          "text": "Cui responderunt filii Joseph: Non poterimus ad montana conscendere, cum ferreis curribus utantur Chanani, qui habitant in terra campestri, in qua sit sunt Bethsan cum viculis suis, et Jezral mediam possidens vallem."
+        },
+        {
+          "number": 17,
+          "text": "Dixitque Josue ad domum Joseph, Ephraim et Manasse: Populus multus es, et magn fortitudinis: non habebis sortem unam,"
+        },
+        {
+          "number": 18,
+          "text": "sed transibis ad montem, et succides tibi, atque purgabis ad habitandum spatia: et poteris ultra procedere cum subverteris Chananum, quem dicis ferreos habere currus, et esse fortissimum."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Congregatique sunt omnes filii Isral in Silo, ibique fixerunt tabernaculum testimonii, et fuit eis terra subjecta."
+        },
+        {
+          "number": 2,
+          "text": "Remanserant autem filiorum Isral septem tribus, qu necdum acceperant possessiones suas."
+        },
+        {
+          "number": 3,
+          "text": "Ad quos Josue ait: Usquequo marcetis ignavia, et non intratis ad possidendam terram, quam Dominus Deus patrum vestrorum dedit vobis?"
+        },
+        {
+          "number": 4,
+          "text": "Eligite de singulis tribubus ternos viros, ut mittam eos, et pergant atque circumeant terram, et describant eam juxta numerum uniuscujusque multitudinis: referantque ad me quod descripserint."
+        },
+        {
+          "number": 5,
+          "text": "Dividite vobis terram in septem partes: Judas sit in terminis suis ab australi plaga, et domus Joseph ab aquilone."
+        },
+        {
+          "number": 6,
+          "text": "Mediam inter hos terram in septem partes describite: et huc venietis ad me, ut coram Domino Deo vestro mittam vobis hic sortem:"
+        },
+        {
+          "number": 7,
+          "text": "quia non est inter vos pars Levitarum, sed sacerdotium Domini est eorum hreditas. Gad autem et Ruben, et dimidia tribus Manasse, jam acceperant possessiones suas trans Jordanem ad orientalem plagam, quas dedit eis Moyses famulus Domini."
+        },
+        {
+          "number": 8,
+          "text": "Cumque surrexissent viri, ut pergerent ad describendam terram, prcepit eis Josue, dicens: Circuite terram, et describite eam, ac revertimini ad me: ut hic coram Domino, in Silo, mittam vobis sortem."
+        },
+        {
+          "number": 9,
+          "text": "Itaque perrexerunt: et lustrantes eam, in septem partes diviserunt, scribentes in volumine. Reversique sunt ad Josue in castra Silo."
+        },
+        {
+          "number": 10,
+          "text": "Qui misit sortes coram Domino in Silo, divisitque terram filiis Isral in septem partes."
+        },
+        {
+          "number": 11,
+          "text": "Et ascendit sors prima filiorum Benjamin per familias suas, ut possiderent terram inter filios Juda et filios Joseph."
+        },
+        {
+          "number": 12,
+          "text": "Fuitque terminus eorum contra aquilonem a Jordane: pergens juxta latus Jericho septentrionalis plag, et inde contra occidentem ad montana conscendens et perveniens ad solitudinem Bethaven,"
+        },
+        {
+          "number": 13,
+          "text": "atque pertransiens juxta Luzam ad meridiem, ipsa est Bethel: descenditque in Ataroth Addar, in montem qui est ad meridiem Beth-horon inferioris:"
+        },
+        {
+          "number": 14,
+          "text": "et inclinatur circuiens contra mare ad meridiem montis qui respicit Beth-horon contra Africum: suntque exitus ejus in Cariath-baal, qu vocatur et Cariathiarim, urbem filiorum Juda. Hc est plaga contra mare, ad occidentem."
+        },
+        {
+          "number": 15,
+          "text": "A meridie autem ex parte Cariathiarim egreditur terminus contra mare, et pervenit usque ad fontem aquarum Nephtoa."
+        },
+        {
+          "number": 16,
+          "text": "Descenditque in partem montis, qui respicit vallem filiorum Ennom: et est contra septentrionalem plagam in extrema parte vallis Raphaim. Descenditque in Geennom (id est, vallem Ennom) juxta latus Jebusi ad austrum: et pervenit ad fontem Rogel,"
+        },
+        {
+          "number": 17,
+          "text": "transiens ad aquilonem, et egrediens ad Ensemes, id est, fontem solis:"
+        },
+        {
+          "number": 18,
+          "text": "et pertransit usque ad tumulos, qui sunt e regione ascensus Adommim: descenditque ad Abenbon, id est, lapidem Bon filii Ruben: et pertransit ex latere aquilonis ad campestria: descenditque in planitiem,"
+        },
+        {
+          "number": 19,
+          "text": "et prtergreditur contra aquilonem Beth Hagla: suntque exitus ejus contra linguam maris salsissimi ab aquilone in fine Jordanis ad australem plagam:"
+        },
+        {
+          "number": 20,
+          "text": "qui est terminus illius ab oriente. Hc est possessio filiorum Benjamin per terminos suos in circuitu, et familias suas."
+        },
+        {
+          "number": 21,
+          "text": "Fueruntque civitates ejus, Jericho et Beth Hagla et vallis Casis,"
+        },
+        {
+          "number": 22,
+          "text": "Beth Araba et Samaraim et Bethel"
+        },
+        {
+          "number": 23,
+          "text": "et Avim et Aphara et Ophera,"
+        },
+        {
+          "number": 24,
+          "text": "villa Emona et Ophni et Gabee: civitates duodecim, et vill earum."
+        },
+        {
+          "number": 25,
+          "text": "Gabaon et Rama et Beroth,"
+        },
+        {
+          "number": 26,
+          "text": "et Mesphe et Caphara, et Amosa"
+        },
+        {
+          "number": 27,
+          "text": "et Recem, Jarephel et Tharela,"
+        },
+        {
+          "number": 28,
+          "text": "et Sela, Eleph, et Jebus, qu est Jerusalem, Gabaath et Cariath: civitates quatuordecim, et vill earum. Hc est possessio filiorum Benjamin juxta familias suas."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et egressa est sors secunda filiorum Simeon per cognationes suas: fuitque hreditas"
+        },
+        {
+          "number": 2,
+          "text": "eorum in medio possessionis filiorum Juda: Bersabee et Sabee et Molada"
+        },
+        {
+          "number": 3,
+          "text": "et Hasersual, Bala et Asem"
+        },
+        {
+          "number": 4,
+          "text": "et Eltholad, Bethul et Harma"
+        },
+        {
+          "number": 5,
+          "text": "et Siceleg et Bethmarchaboth et Hasersusa"
+        },
+        {
+          "number": 6,
+          "text": "et Bethlebaoth et Sarohen: civitates tredecim, et vill earum."
+        },
+        {
+          "number": 7,
+          "text": "Ain et Remmon et Athar et Asan: civitates quatuor, et vill earum:"
+        },
+        {
+          "number": 8,
+          "text": "omnes viculi per circuitum urbium istarum usque ad Baalath Beer Ramath contra australem plagam. Hc est hreditas filiorum Simeon juxta cognationes suas,"
+        },
+        {
+          "number": 9,
+          "text": "in possessione et funiculo filiorum Juda: quia major erat, et idcirco filii Simeon possederunt in medio hreditatis eorum."
+        },
+        {
+          "number": 10,
+          "text": "Ceciditque sors tertia filiorum Zabulon per cognationes suas: factus est terminus possessionis eorum usque Sarid."
+        },
+        {
+          "number": 11,
+          "text": "Ascenditque de mari et Merala, et pervenit in Debbaseth, usque ad torrentem qui est contra Jeconam."
+        },
+        {
+          "number": 12,
+          "text": "Et revertitur de Sared contra orientem in fines Ceseleththabor: et egreditur ad Dabereth, ascenditque contra Japhie."
+        },
+        {
+          "number": 13,
+          "text": "Et inde pertransit usque ad orientalem plagam Gethepher et Thacasin: et egreditur in Remmon, Amthar et Noa."
+        },
+        {
+          "number": 14,
+          "text": "Et circuit ad aquilonem Hanathon: suntque egressus ejus vallis Jephthal,"
+        },
+        {
+          "number": 15,
+          "text": "et Cateth et Naalol et Semeron et Jerala et Bethlehem: civitates duodecim, et vill earum."
+        },
+        {
+          "number": 16,
+          "text": "Hc est hreditas tribus filiorum Zabulon per cognationes suas, urbes et viculi earum."
+        },
+        {
+          "number": 17,
+          "text": "Issachar egressa est sors quarta per cognationes suas:"
+        },
+        {
+          "number": 18,
+          "text": "fuitque ejus hreditas Jezral et Casaloth et Sunem"
+        },
+        {
+          "number": 19,
+          "text": "et Hapharaim et Seon, et Anaharath"
+        },
+        {
+          "number": 20,
+          "text": "et Rabboth et Cesion, Abes,"
+        },
+        {
+          "number": 21,
+          "text": "et Rameth, et Engannim, et Enhadda et Bethpheses."
+        },
+        {
+          "number": 22,
+          "text": "Et pervenit terminus ejus usque Thabor et Sehesima et Bethsames, eruntque exitus ejus Jordanis: civitates sedecim, et vill earum."
+        },
+        {
+          "number": 23,
+          "text": "Hc est possessio filiorum Issachar per cognationes suas, urbes et viculi earum."
+        },
+        {
+          "number": 24,
+          "text": "Ceciditque sors quinta tribui filiorum Aser per cognationes suas:"
+        },
+        {
+          "number": 25,
+          "text": "fuitque terminus eorum Halcath et Chali et Beten et Axaph"
+        },
+        {
+          "number": 26,
+          "text": "et Elmelech et Amaad et Messal: et pervenit usque ad Carmelum maris et Sihor et Labanath,"
+        },
+        {
+          "number": 27,
+          "text": "ac revertitur contra orientem Bethdagon: et pertransit usque Zabulon et vallem Jephthal contra aquilonem in Bethemec et Nehiel. Egrediturque ad lvam Cabul,"
+        },
+        {
+          "number": 28,
+          "text": "et Abran et Rohob et Hamon et Cana, usque ad Sidonem magnam."
+        },
+        {
+          "number": 29,
+          "text": "Revertiturque in Horma usque ad civitatem munitissimam Tyrum, et usque Hosa: eruntque exitus ejus in mare de funiculo Achziba:"
+        },
+        {
+          "number": 30,
+          "text": "et Amma et Aphec et Rohob: civitates viginti du, et vill earum."
+        },
+        {
+          "number": 31,
+          "text": "Hc est possessio filiorum Aser per cognationes suas, urbesque et viculi earum."
+        },
+        {
+          "number": 32,
+          "text": "Filiorum Nephthali sexta sors cecidit per familias suas:"
+        },
+        {
+          "number": 33,
+          "text": "et cpit terminus de Heleph et Elon in Saananim, et Adami, qu est Neceb, et Jebnal usque Lecum: et egressus eorum usque ad Jordanem:"
+        },
+        {
+          "number": 34,
+          "text": "revertiturque terminus contra occidentem in Azanotthabor, atque inde egreditur in Hucuca, et pertransit in Zabulon contra meridiem, et in Aser contra occidentem, et in Juda ad Jordanem contra ortum solis:"
+        },
+        {
+          "number": 35,
+          "text": "civitates munitissim, Assedim, Ser, et Emath, et Reccath et Cenereth,"
+        },
+        {
+          "number": 36,
+          "text": "et Edema et Arama, Asor"
+        },
+        {
+          "number": 37,
+          "text": "et Cedes et Edrai, Enhasor,"
+        },
+        {
+          "number": 38,
+          "text": "et Jeron et Magdalel, Horem et Bethanath et Bethsames: civitates decem et novem, et vill earum."
+        },
+        {
+          "number": 39,
+          "text": "Hc est possessio tribus filiorum Nephthali per cognationes suas, urbes et viculi earum."
+        },
+        {
+          "number": 40,
+          "text": "Tribui filiorum Dan per familias suas egressa est sors septima:"
+        },
+        {
+          "number": 41,
+          "text": "et fuit terminus possessionis ejus Sara et Esthaol, et Hirsemes, id est, civitas solis."
+        },
+        {
+          "number": 42,
+          "text": "Selebin et Ajalon et Jethela,"
+        },
+        {
+          "number": 43,
+          "text": "Elon et Themna et Acron,"
+        },
+        {
+          "number": 44,
+          "text": "Elthece, Gebbethon et Balaath,"
+        },
+        {
+          "number": 45,
+          "text": "et Jud et Bane et Barach et Gethremmon:"
+        },
+        {
+          "number": 46,
+          "text": "et Mejarcon et Arecon, cum termino qui respicit Joppen,"
+        },
+        {
+          "number": 47,
+          "text": "et ipso fine concluditur. Ascenderuntque filii Dan, et pugnaverunt contra Lesem, ceperuntque eam: et percusserunt eam in ore gladii, et possederunt, et habitaverunt in ea, vocantes nomen ejus Lesem Dan, ex nomine Dan patris sui."
+        },
+        {
+          "number": 48,
+          "text": "Hc est possessio tribus filiorum Dan, per cognationes suas, urbes et viculi earum."
+        },
+        {
+          "number": 49,
+          "text": "Cumque complesset sorte dividere terram singulis per tribus suas, dederunt filii Isral possessionem Josue filio Nun in medio sui,"
+        },
+        {
+          "number": 50,
+          "text": "juxta prceptum Domini, urbem quam postulavit Thamnath Saraa in monte Ephraim: et dificavit civitatem, habitavitque in ea."
+        },
+        {
+          "number": 51,
+          "text": "H sunt possessiones, quas sorte diviserunt Eleazar sacerdos, et Josue filius Nun, et principes familiarum ac tribuum filiorum Isral in Silo, coram Domino ad ostium tabernaculi testimonii: partitique sunt terram."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et locutus est Dominus ad Josue, dicens: Loquere filiis Isral, et dic eis:"
+        },
+        {
+          "number": 2,
+          "text": "Separate urbes fugitivorum, de quibus locutus sum ad vos per manum Moysi:"
+        },
+        {
+          "number": 3,
+          "text": "ut confugiat ad eas quicumque animam percusserit nescius, et possit evadere iram proximi, qui ultor est sanguinis:"
+        },
+        {
+          "number": 4,
+          "text": "cum ad unam harum confugerit civitatum, stabit ante portam civitatis, et loquetur senioribus urbis illius ea qu se comprobent innocentem: sicque suscipient eum, et dabunt ei locum ad habitandum."
+        },
+        {
+          "number": 5,
+          "text": "Cumque ultor sanguinis eum fuerit persecutus, non tradent in manus ejus: quia ignorans percussit proximum ejus, nec ante biduum triduumve ejus probatur inimicus."
+        },
+        {
+          "number": 6,
+          "text": "Et habitabit in civitate illa, donec stet ante judicium, causam reddens facti sui, et moriatur sacerdos magnus, qui fuerit in illo tempore: tunc revertetur homicida, et ingredietur civitatem et domum suam de qua fugerat."
+        },
+        {
+          "number": 7,
+          "text": "Decreveruntque Cedes in Galila montis Nephthali, et Sichem in monte Ephraim, et Cariatharbe, ipsa est Hebron in monte Juda."
+        },
+        {
+          "number": 8,
+          "text": "Et trans Jordanem contra orientalem plagam Jericho, statuerunt Bosor, qu sita est in campestri solitudine de tribu Ruben, et Ramoth in Galaad de tribu Gad, et Gaulon in Basan de tribu Manasse."
+        },
+        {
+          "number": 9,
+          "text": "H civitates constitut sunt cunctis filiis Isral, et advenis qui habitabant inter eos, ut fugeret ad eas qui animam nescius percussisset, et non moreretur in manu proximi, effusum sanguinem vindicare cupientis, donec staret ante populum expositurus causam suam."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Accesseruntque principes familiarum Levi ad Eleazarum sacerdotem, et Josue filium Nun, et ad duces cognationum per singulas tribus filiorum Isral:"
+        },
+        {
+          "number": 2,
+          "text": "locutique sunt ad eos in Silo terr Chanaan, atque dixerunt: Dominus prcepit per manum Moysi, ut darentur nobis urbes ad habitandum, et suburbana earum ad alenda jumenta."
+        },
+        {
+          "number": 3,
+          "text": "Dederuntque filii Isral de possessionibus suis juxta imperium Domini, civitates et suburbana earum."
+        },
+        {
+          "number": 4,
+          "text": "Egressaque est sors in familiam Caath filiorum Aaron sacerdotis, de tribubus Juda, et Simeon, et Benjamin, civitates tredecim:"
+        },
+        {
+          "number": 5,
+          "text": "et reliquis filiorum Caath, id est Levitis, qui superfuerant, de tribubus Ephraim, et Dan, et dimidia tribu Manasse, civitates decem."
+        },
+        {
+          "number": 6,
+          "text": "Porro filii Gerson egressa est sors, ut acciperent de tribubus Issachar et Aser et Nephthali, dimidiaque tribu Manasse in Basan, civitates numero tredecim."
+        },
+        {
+          "number": 7,
+          "text": "Et filiis Merari per cognationes suas de tribubus Ruben et Gad et Zabulon urbes duodecim."
+        },
+        {
+          "number": 8,
+          "text": "Dederuntque filii Isral Levitis civitates et suburbana earum, sicut prcepit Dominus per manum Moysi, singulis sorte tribuentes."
+        },
+        {
+          "number": 9,
+          "text": "De tribubus filiorum Juda et Simeon dedit Josue civitates, quarum ista sunt nomina,"
+        },
+        {
+          "number": 10,
+          "text": "filiis Aaron per familias Caath Levitici generis (prima enim sors illis egressa est),"
+        },
+        {
+          "number": 11,
+          "text": "Cariatharbe patris Enac, qu vocatur Hebron, in monte Juda, et suburbana ejus per circuitum."
+        },
+        {
+          "number": 12,
+          "text": "Agros vero et villas ejus dederat Caleb filio Jephone ad possidendum."
+        },
+        {
+          "number": 13,
+          "text": "Dedit ergo filiis Aaron sacerdotis Hebron confugii civitatem, ac suburbana ejus: et Lobnam cum suburbanis suis:"
+        },
+        {
+          "number": 14,
+          "text": "et Jether, et Esthemo,"
+        },
+        {
+          "number": 15,
+          "text": "et Holon, et Dabir,"
+        },
+        {
+          "number": 16,
+          "text": "et Ain, et Jeta, et Bethsames, cum suburbanis suis: civitates novem de tribubus, ut dictum est, duabus."
+        },
+        {
+          "number": 17,
+          "text": "De tribu autem filiorum Benjamin, Gabaon, et Gab,"
+        },
+        {
+          "number": 18,
+          "text": "et Anathoth et Almon, cum suburbanis suis: civitates quatuor."
+        },
+        {
+          "number": 19,
+          "text": "Omnes simul civitates filiorum Aaron sacerdotis, tredecim, cum suburbanis suis."
+        },
+        {
+          "number": 20,
+          "text": "Reliquis vero per familias filiorum Caath Levitici generis, hc est data possessio."
+        },
+        {
+          "number": 21,
+          "text": "De tribu Ephraim urbes confugii, Sichem cum suburbanis suis in monte Ephraim, et Gazer"
+        },
+        {
+          "number": 22,
+          "text": "et Cibsaim et Beth-horon, cum suburbanis suis, civitates quatuor."
+        },
+        {
+          "number": 23,
+          "text": "De tribu quoque Dan, Eltheco et Gabathon,"
+        },
+        {
+          "number": 24,
+          "text": "et Ajalon et Gethremmon, cum suburbanis suis, civitates quatuor."
+        },
+        {
+          "number": 25,
+          "text": "Porro de dimidia tribu Manasse, Thanach et Gethremmon, cum suburbanis suis, civitates du."
+        },
+        {
+          "number": 26,
+          "text": "Omnes civitates decem, et suburbana earum, dat sunt filiis Caath inferioris gradus."
+        },
+        {
+          "number": 27,
+          "text": "Filiis quoque Gerson Levitici generis dedit de dimidia tribu Manasse confugii civitates, Gaulon in Basan, et Bosram, cum suburbanis suis, civitates duas."
+        },
+        {
+          "number": 28,
+          "text": "Porro de tribu Issachar, Cesion, et Dabereth,"
+        },
+        {
+          "number": 29,
+          "text": "et Jaramoth, et Engannim, cum suburbanis suis, civitates quatuor."
+        },
+        {
+          "number": 30,
+          "text": "De tribu autem Aser, Masal et Abdon,"
+        },
+        {
+          "number": 31,
+          "text": "et Helcath, et Rohob, cum suburbanis suis, civitates quatuor."
+        },
+        {
+          "number": 32,
+          "text": "De tribu quoque Nephthali civitates confugii, Cedes in Galila, et Hammoth Dor, et Carthan, cum suburbanis suis, civitates tres."
+        },
+        {
+          "number": 33,
+          "text": "Omnes urbes familiarum Gerson, tredecim, cum suburbanis suis."
+        },
+        {
+          "number": 34,
+          "text": "Filiis autem Merari Levitis inferioris gradus per familias suas data est de tribu Zabulon, Jecnam, et Cartha"
+        },
+        {
+          "number": 35,
+          "text": "et Damna et Naalol, civitates quatuor cum suburbanis suis."
+        },
+        {
+          "number": 36,
+          "text": "De tribu Ruben ultra Jordanem contra Jericho civitates refugii, Bosor in solitudine, Misor et Jaser et Jethson et Mephaath, civitates quatuor cum suburbanis suis."
+        },
+        {
+          "number": 37,
+          "text": "De tribu Gad civitates confugii, Ramoth in Galaad, et Manaim et Hesebon et Jazer, civitates quatuor cum suburbanis suis."
+        },
+        {
+          "number": 38,
+          "text": "Omnes urbes filiorum Merari per familias et cognationes suas, duodecim."
+        },
+        {
+          "number": 39,
+          "text": "Itaque civitates univers Levitarum in medio possessionis filiorum Isral fuerunt quadraginta octo"
+        },
+        {
+          "number": 40,
+          "text": "cum suburbanis suis, singul per familias distribut."
+        },
+        {
+          "number": 41,
+          "text": "Deditque Dominus Deus Israli omnem terram, quam traditurum se patribus eorum juraverat: et possederunt illam, atque habitaverunt in ea."
+        },
+        {
+          "number": 42,
+          "text": "Dataque est ab eo pax in omnes per circuitum nationes: nullusque eis hostium resistere ausus est, sed cuncti in eorum ditionem redacti sunt."
+        },
+        {
+          "number": 43,
+          "text": "Ne unum quidem verbum, quod illis prstiturum se esse promiserat, irritum fuit, sed rebus expleta sunt omnia."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Eodem tempore vocavit Josue Rubenitas, et Gaditas, et dimidiam tribum Manasse,"
+        },
+        {
+          "number": 2,
+          "text": "dixitque ad eos: Fecistis omnia qu prcepit vobis Moyses famulus Domini: mihi quoque in omnibus obedistis,"
+        },
+        {
+          "number": 3,
+          "text": "nec reliquistis fratres vestros longo tempore, usque in prsentem diem, custodientes imperium Domini Dei vestri."
+        },
+        {
+          "number": 4,
+          "text": "Quia igitur dedit Dominus Deus vester fratribus vestris quietem et pacem, sicut pollicitus est: revertimini, et ite in tabernacula vestra, et in terram possessionis, quam tradidit vobis Moyses famulus Domini trans Jordanem:"
+        },
+        {
+          "number": 5,
+          "text": "ita dumtaxat ut custodiatis attente, et opere compleatis mandatum et legem quam prcepit vobis Moyses famulus Domini, ut diligatis Dominum Deum vestrum, et ambuletis in omnibus viis ejus, et observetis mandata illius, adhreatisque ei, ac serviatis in omni corde, et in omni anima vestra."
+        },
+        {
+          "number": 6,
+          "text": "Benedixitque eis Josue, et dimisit eos. Qui reversi sunt in tabernacula sua."
+        },
+        {
+          "number": 7,
+          "text": "Dimidi autem tribui Manasse possessionem Moyses dederat in Basan: et idcirco medi, qu superfuit, dedit Josue sortem inter ceteros fratres suos trans Jordanem ad occidentalem plagam. Cumque dimitteret eos in tabernacula sua, et benedixisset eis,"
+        },
+        {
+          "number": 8,
+          "text": "dixit ad eos: In multa substantia atque divitiis revertimini ad sedes vestras, cum argento et auro, re ac ferro, et veste multiplici: dividite prdam hostium cum fratribus vestris."
+        },
+        {
+          "number": 9,
+          "text": "Reversique sunt, et abierunt filii Ruben, et filii Gad, et dimidia tribus Manasse, a filiis Isral de Silo, qu sita est in Chanaan, ut intrarent Galaad terram possessionis su, quam obtinuerant juxta imperium Domini in manu Moysi."
+        },
+        {
+          "number": 10,
+          "text": "Cumque venissent ad tumulos Jordanis in terram Chanaan, dificaverunt juxta Jordanem altare infinit magnitudinis."
+        },
+        {
+          "number": 11,
+          "text": "Quod cum audissent filii Isral, et ad eos certi nuntii detulissent, dificasse filios Ruben, et Gad, et dimidi tribus Manasse, altare in terra Chanaan, super Jordanis tumulos, contra filios Isral:"
+        },
+        {
+          "number": 12,
+          "text": "convenerunt omnes in Silo, ut ascenderent, et dimicarent contra eos."
+        },
+        {
+          "number": 13,
+          "text": "Et interim miserunt ad illos in terram Galaad Phinees filium Eleazari sacerdotis,"
+        },
+        {
+          "number": 14,
+          "text": "et decem principes cum eo, singulos de singulis tribubus."
+        },
+        {
+          "number": 15,
+          "text": "Qui venerunt ad filios Ruben, et Gad, et dimidi tribus Manasse in terram Galaad, dixeruntque ad eos:"
+        },
+        {
+          "number": 16,
+          "text": "Hc mandat omnis populus Domini: Qu est ista transgressio? cur reliquistis Dominum Deum Isral, dificantes altare sacrilegum, et a cultu illius recedentes?"
+        },
+        {
+          "number": 17,
+          "text": "an parum vobis est quod peccastis in Beelphegor, et usque in prsentem diem macula hujus sceleris in nobis permanet, multique de populo corruerunt?"
+        },
+        {
+          "number": 18,
+          "text": "Et vos hodie reliquistis Dominum, et cras in universum Isral ira ejus desviet."
+        },
+        {
+          "number": 19,
+          "text": "Quod si putatis immundam esse terram possessionis vestr, transite ad terram, in qua tabernaculum Domini est, et habitate inter nos: tantum ut a Domino et a nostro consortio non recedatis, dificato altari prter altare Domini Dei nostri."
+        },
+        {
+          "number": 20,
+          "text": "Nonne Achan filius Zare prteriit mandatum Domini, et super omnem populum Isral ira ejus incubuit? et ille erat unus homo, atque utinam solum periisset in scelere suo."
+        },
+        {
+          "number": 21,
+          "text": "Responderuntque filii Ruben et Gad, et dimidia tribus Manasse, principibus legationis Isral:"
+        },
+        {
+          "number": 22,
+          "text": "Fortissimus Deus Dominus, fortissimus Deus Dominus, ipse novit, et Isral simul intelliget: si prvaricationis animo hoc altare construximus, non custodiat nos, sed puniat nos in prsenti:"
+        },
+        {
+          "number": 23,
+          "text": "et si ea mente fecimus ut holocausta, et sacrificium, et pacificas victimas super eo imponeremus, ipse qurat et judicet:"
+        },
+        {
+          "number": 24,
+          "text": "et non ea magis cogitatione atque tractatu, ut diceremus: Cras dicent filii vestri filiis nostris: Quid vobis et Domino Deo Isral?"
+        },
+        {
+          "number": 25,
+          "text": "terminum posuit Dominus inter nos et vos, o filii Ruben, et filii Gad, Jordanem fluvium, et idcirco partem non habetis in Domino: et per hanc occasionem avertent filii vestri filios nostros a timore Domini. Putavimus itaque melius,"
+        },
+        {
+          "number": 26,
+          "text": "et diximus: Exstruamus nobis altare, non in holocausta, neque ad victimas offerendas,"
+        },
+        {
+          "number": 27,
+          "text": "sed in testimonium inter nos et vos, et sobolem nostram vestramque progeniem, ut serviamus Domino, et juris nostri sit offerre et holocausta, et victimas, et pacificas hostias: et nequaquam dicant cras filii vestri filiis nostris: Non est vobis pars in Domino."
+        },
+        {
+          "number": 28,
+          "text": "Quod si voluerint dicere, respondebunt eis: Ecce altare Domini, quod fecerunt patres nostri, non in holocausta, neque in sacrificium, sed in testimonium nostrum ac vestrum."
+        },
+        {
+          "number": 29,
+          "text": "Absit a nobis hoc scelus, ut recedamus a Domino, et ejus vestigia relinquamus, exstructo altari ad holocausta, et sacrificia, et victimas offerendas, prter altare Domini Dei nostri, quod exstructum est ante tabernaculum ejus."
+        },
+        {
+          "number": 30,
+          "text": "Quibus auditis, Phinees sacerdos, et principes legationis Isral, qui erant cum eo, placati sunt: et verba filiorum Ruben, et Gad, et dimidi tribus Manasse, libentissime susceperunt."
+        },
+        {
+          "number": 31,
+          "text": "Dixtque Phinees filius Eleazari sacerdos ad eos: Nunc scimus quod nobiscum sit Dominus, quoniam alieni estis a prvaricatione hac, et liberastis filios Isral de manu Domini."
+        },
+        {
+          "number": 32,
+          "text": "Reversusque est cum principibus a filiis Ruben et Gad de terra Galaad, finium Chanaan, ad filios Isral, et retulit eis."
+        },
+        {
+          "number": 33,
+          "text": "Placuitque sermo cunctis audientibus. Et laudaverunt Deum filii Isral, et nequaquam ultra dixerunt, ut ascenderent contra eos, atque pugnarent, et delerent terram possessionis eorum."
+        },
+        {
+          "number": 34,
+          "text": "Vocaveruntque filii Ruben, et filii Gad, altare quod exstruxerant, Testimonium nostrum, quod Dominus ipse sit Deus."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Evoluto autem multo tempore, postquam pacem dederat Dominus Israli, subjectis in gyro nationibus universis, et Josue jam longvo, et persenilis tatis,"
+        },
+        {
+          "number": 2,
+          "text": "vocavit Josue omnem Isralem, majoresque natu, et principes ac duces, et magistros, dixitque ad eos: Ego senui, et progressioris tatis sum:"
+        },
+        {
+          "number": 3,
+          "text": "vosque cernitis omnia, qu fecerit Dominus Deus vester cunctis per circuitum nationibus, quomodo pro vobis ipse pugnaverit:"
+        },
+        {
+          "number": 4,
+          "text": "et nunc quia vobis sorte divisit omnem terram, ab orientali parte Jordanis usque ad mare magnum, multque adhuc supersunt nationes:"
+        },
+        {
+          "number": 5,
+          "text": "Dominus Deus vester disperdet eas et auferet a facie vestra, et possidebitis terram, sicut vobis pollicitus est."
+        },
+        {
+          "number": 6,
+          "text": "Tantum confortamini, et estote solliciti, ut custodiatis cuncta qu scripta sunt in volumine legis Moysi: et non declinetis ab eis neque ad dexteram neque ad sinistram:"
+        },
+        {
+          "number": 7,
+          "text": "ne postquam intraveritis ad gentes qu inter vos futur sunt, juretis in nomine deorum earum, et serviatis eis, et adoretis illos:"
+        },
+        {
+          "number": 8,
+          "text": "sed adhreatis Domino Deo vestro: quod fecistis usque in diem hanc."
+        },
+        {
+          "number": 9,
+          "text": "Et tunc auferet Dominus Deus in conspectu vestro gentes magnas et robustissimas, et nullus vobis resistere poterit."
+        },
+        {
+          "number": 10,
+          "text": "Unus e vobis persequetur hostium mille viros: quia Dominus Deus vester pro vobis ipse pugnabit, sicut pollicitus est."
+        },
+        {
+          "number": 11,
+          "text": "Hoc tantum diligentissime prcavete: ut diligatis Dominum Deum vestrum."
+        },
+        {
+          "number": 12,
+          "text": "Quod si volueritis gentium harum, qu inter vos habitant, erroribus adhrere, et cum eis miscere connubia, atque amicitias copulare:"
+        },
+        {
+          "number": 13,
+          "text": "jam nunc scitote quod Dominus Deus vester non eas deleat ante faciem vestram, sed sint vobis in foveam ac laqueum, et offendiculum ex latere vestro, et sudes in oculis vestris, donec vos auferat atque disperdat de terra hac optima, quam tradidit vobis."
+        },
+        {
+          "number": 14,
+          "text": "En ego hodie ingredior viam univers terr, et toto animo cognoscetis quod de omnibus verbis, qu se Dominus prstiturum vobis esse pollicitus est, unum non prterierit incassum."
+        },
+        {
+          "number": 15,
+          "text": "Sicut ergo implevit opere quod promisit, et prospera cuncta venerunt: sic adducet super vos quidquid malorum comminatus est, donec vos auferat atque disperdat de terra hac optima, quam tradidit vobis,"
+        },
+        {
+          "number": 16,
+          "text": "eo quod prterieritis pactum Domini Dei vestri, quod pepigit vobiscum, et servieritis diis alienis, ad adoraveritis eos: cito atque velociter consurget in vos furor Domini, et auferemini ab hac terra optima, quam tradidit vobis."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Congregavitque Josue omnes tribus Isral in Sichem, et vocavit majores natu, ac principes, et judices, et magistros: steteruntque in conspectu Domini,"
+        },
+        {
+          "number": 2,
+          "text": "et ad populum sic locutus est: Hc dicit Dominus Deus Isral: Trans fluvium habitaverunt patres vestri ab initio, Thare pater Abraham et Nachor: servieruntque diis alienis."
+        },
+        {
+          "number": 3,
+          "text": "Tuli ergo patrem vestrum Abraham de Mesopotami finibus, et adduxi eum in terram Chanaan, multiplicavique semen ejus,"
+        },
+        {
+          "number": 4,
+          "text": "et dedi ei Isaac: illique rursum dedi Jacob et Esau. E quibus, Esau dedi montem Seir ad possidendum: Jacob vero et filii ejus descenderunt in gyptum."
+        },
+        {
+          "number": 5,
+          "text": "Misique Moysen et Aaron, et percussi gyptum multis signis atque portentis."
+        },
+        {
+          "number": 6,
+          "text": "Eduxique vos et patres vestros de gypto, et venistis ad mare: persecutique sunt gyptii patres vestros cum curribus et equitatu, usque ad mare Rubrum."
+        },
+        {
+          "number": 7,
+          "text": "Clamaverunt autem ad Dominum filii Isral: qui posuit tenebras inter vos et gyptios, et adduxit super eos mare, et operuit eos. Viderunt oculi vestri cuncta qu in gypto fecerim, et habitastis in solitudine multo tempore:"
+        },
+        {
+          "number": 8,
+          "text": "et introduxi vos in terram Amorrhi, qui habitabat trans Jordanem. Cumque pugnarent contra vos, tradidi eos in manus vestras, et possedistis terram eorum, atque interfecistis eos."
+        },
+        {
+          "number": 9,
+          "text": "Surrexit autem Balac filius Sephor rex Moab, et pugnavit contra Isralem. Misitque et vocavit Balaam filium Beor, ut malediceret vobis:"
+        },
+        {
+          "number": 10,
+          "text": "et ego nolui audire eum, sed e contrario per illum benedixi vobis, et liberavi vos de manu ejus."
+        },
+        {
+          "number": 11,
+          "text": "Transistisque Jordanem, et venistis ad Jericho. Pugnaveruntque contra vos viri civitatis ejus, Amorrhus et Pherezus, et Chananus, et Hethus, et Gergezus, et Hevus, et Jebusus: et tradidi illos in manus vestras."
+        },
+        {
+          "number": 12,
+          "text": "Misique ante vos crabrones: et ejeci eos de locis suis, duos reges Amorrhorum, non in gladio nec in arcu tuo."
+        },
+        {
+          "number": 13,
+          "text": "Dedique vobis terram, in qua non laborastis, et urbes quas non dificastis, ut habitaretis in eis: vineas, et oliveta, qu non plantastis."
+        },
+        {
+          "number": 14,
+          "text": "Nunc ergo timete Dominum, et servite ei perfecto corde atque verissimo: et auferte deos quibus servierunt patres vestri in Mesopotamia et in gypto, ac servite Domino."
+        },
+        {
+          "number": 15,
+          "text": "Sin autem malum vobis videtur ut Domino serviatis, optio vobis datur: eligite hodie quod placet, cui servire potissimum debeatis: utrum diis, quibus servierunt patres vestri in Mesopotamia, an diis Amorrhorum, in quorum terra habitatis: ego autem et domus mea serviemus Domino."
+        },
+        {
+          "number": 16,
+          "text": "Responditque populus, et ait: Absit a nobis ut relinquamus Dominum, et serviamus diis alienis."
+        },
+        {
+          "number": 17,
+          "text": "Dominus Deus noster, ipse eduxit nos et patres nostros de terra gypti, de domo servitutis: fecitque videntibus nobis signa ingentia, et custodivit nos in omni via per quam ambulavimus, et in cunctis populis per quos transivimus."
+        },
+        {
+          "number": 18,
+          "text": "Et ejecit universas gentes, Amorrhum habitatorem terr quam nos intravimus. Serviemus igitur Domino, quia ipse est Deus noster."
+        },
+        {
+          "number": 19,
+          "text": "Dixitque Josue ad populum: Non poteritis servire Domino: Deus enim sanctus et fortis mulator est, nec ignoscet sceleribus vestris atque peccatis."
+        },
+        {
+          "number": 20,
+          "text": "Si dimiseritis Dominum, et servieritis diis alienis, convertet se, et affliget vos atque subvertet, postquam vobis prstiterit bona."
+        },
+        {
+          "number": 21,
+          "text": "Dixitque populus ad Josue: Nequaquam ita ut loqueris erit, sed Domino serviemus."
+        },
+        {
+          "number": 22,
+          "text": "Et Josue ad populum: Testes, inquit, vos estis, quia ipsi elegeritis vobis Dominum ut serviatis ei. Responderuntque: Testes."
+        },
+        {
+          "number": 23,
+          "text": "Nunc ergo, ait, auferte deos alienos de medio vestri, et inclinate corda vestra ad Dominum Deum Isral."
+        },
+        {
+          "number": 24,
+          "text": "Dixitque populus ad Josue: Domino Deo nostro serviemus, et obedientes erimus prceptis ejus."
+        },
+        {
+          "number": 25,
+          "text": "Percussit ergo Josue in die illo fdus, et proposuit populo prcepta atque judicia in Sichem."
+        },
+        {
+          "number": 26,
+          "text": "Scripsit quoque omnia verba hc in volumine legis Domini: et tulit lapidem pergrandem, posuitque eum subter quercum, qu erat in sanctuario Domini:"
+        },
+        {
+          "number": 27,
+          "text": "et dixit ad omnem populum: En lapis iste erit vobis in testimonium, quod audierit omnia verba Domini, qu locutus est vobis: ne forte postea negare velitis, et mentiri Domino Deo vestro."
+        },
+        {
+          "number": 28,
+          "text": "Dimisitque populum, singulos in possessionem suam."
+        },
+        {
+          "number": 29,
+          "text": "Et post hc mortuus est Josue filius Nun servus Domini, centum et decem annorum:"
+        },
+        {
+          "number": 30,
+          "text": "sepelieruntque eum in finibus possessionis su in Thamnathsare, qu est sita in monte Ephraim, a septentrionali parte montis Gaas."
+        },
+        {
+          "number": 31,
+          "text": "Servivitque Isral Domino cunctis diebus Josue et seniorum, qui longo vixerunt tempore post Josue, et qui noverunt omnia opera Domini qu fecerat in Isral."
+        },
+        {
+          "number": 32,
+          "text": "Ossa quoque Joseph, qu tulerant filii Isral de gypto, sepelierunt in Sichem, in parte agri quem emerat Jacob a filiis Hemor patris Sichem, centum novellis ovibus, et fuit in possessionem filiorum Joseph."
+        },
+        {
+          "number": 33,
+          "text": "Eleazar quoque filius Aaron mortuus est: et sepelierunt eum in Gabaath Phinees filii ejus, qu data est ei in monte Ephraim."
+        }
+      ]
+    }
+  ]
+}

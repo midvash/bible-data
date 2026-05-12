@@ -1,0 +1,18 @@
+{
+  "slug": "synodal",
+  "shortName": "SYN",
+  "name": "Синодальный перевод",
+  "language": "ru",
+  "year": 1876,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Russian Synodal Translation, 1876).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31169
+  },
+  "readerUrl": "https://midvash.com/synodal",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

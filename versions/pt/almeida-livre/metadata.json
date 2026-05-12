@@ -1,0 +1,18 @@
+{
+  "slug": "almeida-livre",
+  "shortName": "ALMEIDA-1819",
+  "name": "Almeida 1819 (Bíblia Livre)",
+  "language": "pt",
+  "year": 1819,
+  "license": "public-domain",
+  "licenseNote": "Public domain (1819 edition of João Ferreira de Almeida translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/almeida-livre",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

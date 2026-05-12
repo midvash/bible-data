@@ -1,0 +1,1179 @@
+{
+  "version": "clem",
+  "book": "Ezra",
+  "bookId": 15,
+  "englishName": "Ezra",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "In anno primo Cyri regis Persarum, ut compleretur verbum Domini ex ore Jeremi, suscitavit Dominus spiritum Cyri regis Persarum: et traduxit vocem in omni regno suo, etiam per scripturam, dicens:"
+        },
+        {
+          "number": 2,
+          "text": "Hc dicit Cyrus rex Persarum: Omnia regna terr dedit mihi Dominus Deus cli, et ipse prcepit mihi ut dificarem ei domum in Jerusalem, qu est in Juda."
+        },
+        {
+          "number": 3,
+          "text": "Quis est in vobis de universo populo ejus? Sit Deus illius cum ipso. Ascendat in Jerusalem, qu est in Juda, et dificet domum Domini Dei Isral: ipse est Deus qui est in Jerusalem."
+        },
+        {
+          "number": 4,
+          "text": "Et omnes reliqui in cunctis locis ubicumque habitant, adjuvent eum viri de loco suo argento et auro, et substantia, et pecoribus, excepto quod voluntarie offerunt templo Dei, quod est in Jerusalem."
+        },
+        {
+          "number": 5,
+          "text": "Et surrexerunt principes patrum de Juda et Benjamin, et sacerdotes, et Levit, et omnis cujus Deus suscitavit spiritum, ut ascenderent ad dificandum templum Domini, quod erat in Jerusalem."
+        },
+        {
+          "number": 6,
+          "text": "Universique qui erant in circuitu, adjuverunt manus eorum in vasis argenteis et aureis, in substantia et jumentis, in supellectili, exceptis his qu sponte obtulerant."
+        },
+        {
+          "number": 7,
+          "text": "Rex quoque Cyrus protulit vasa templi Domini, qu tulerat Nabuchodonosor de Jerusalem, et posuerat ea in templo dei sui."
+        },
+        {
+          "number": 8,
+          "text": "Protulit autem ea Cyrus rex Persarum per manum Mithridatis filii Gazabar, et annumeravit ea Sassabasar principi Juda."
+        },
+        {
+          "number": 9,
+          "text": "Et hic est numerus eorum: phial aure triginta, phial argente mille, cultri viginti novem, scyphi aurei triginta,"
+        },
+        {
+          "number": 10,
+          "text": "scyphi argentei secundi quadringenti decem, vasa alia mille."
+        },
+        {
+          "number": 11,
+          "text": "Omnia vasa aurea et argentea quinque millia quadringenta: universa tulit Sassabasar cum his qui ascendebant de transmigratione Babylonis in Jerusalem."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hi sunt autem provinci filii, qui ascenderunt de captivitate, quam transtulerat Nabuchodonosor rex Babylonis in Babylonem, et reversi sunt in Jerusalem et Judam, unusquisque in civitatem suam."
+        },
+        {
+          "number": 2,
+          "text": "Qui venerunt cum Zorobabel, Josue, Nehemia, Saraia, Rahelaia, Mardochai, Belsan, Mesphar, Beguai, Rehum, Baana. Numerus virorum populi Isral:"
+        },
+        {
+          "number": 3,
+          "text": "filii Pharos duo millia centum septuaginta duo."
+        },
+        {
+          "number": 4,
+          "text": "Filii Sephatia, trecenti septuaginta duo."
+        },
+        {
+          "number": 5,
+          "text": "Filii Area, septingenti septuaginta quinque."
+        },
+        {
+          "number": 6,
+          "text": "Filii Phahath Moab, filiorum Josue: Joab, duo millia octingenti duodecim."
+        },
+        {
+          "number": 7,
+          "text": "Filii lam, mille ducenti quinquaginta quatuor."
+        },
+        {
+          "number": 8,
+          "text": "Filii Zethua, nongenti quadraginta quinque."
+        },
+        {
+          "number": 9,
+          "text": "Filii Zachai, septingenti sexaginta."
+        },
+        {
+          "number": 10,
+          "text": "Filii Bani, sexcenti quadraginta duo."
+        },
+        {
+          "number": 11,
+          "text": "Filii Bebai, sexcenti viginti tres."
+        },
+        {
+          "number": 12,
+          "text": "Filii Azgad, mille ducenti viginti duo."
+        },
+        {
+          "number": 13,
+          "text": "Filii Adonicam, sexcenti sexaginta sex."
+        },
+        {
+          "number": 14,
+          "text": "Filii Beguai, duo millia quinquaginta sex."
+        },
+        {
+          "number": 15,
+          "text": "Filii Adin, quadringenti quinquaginta quatuor."
+        },
+        {
+          "number": 16,
+          "text": "Filii Ather, qui erant ex Ezechia, nonaginta octo."
+        },
+        {
+          "number": 17,
+          "text": "Filii Besai, trecenti viginti tres."
+        },
+        {
+          "number": 18,
+          "text": "Filii Jora, centum duodecim."
+        },
+        {
+          "number": 19,
+          "text": "Filii Hasum, ducenti viginti tres."
+        },
+        {
+          "number": 20,
+          "text": "Filii Gebbar, nonaginta quinque."
+        },
+        {
+          "number": 21,
+          "text": "Filii Bethlehem, centum viginti tres."
+        },
+        {
+          "number": 22,
+          "text": "Viri Netupha, quinquaginta sex."
+        },
+        {
+          "number": 23,
+          "text": "Viri Anathoth, centum viginti octo."
+        },
+        {
+          "number": 24,
+          "text": "Filii Azmaveth, quadraginta duo."
+        },
+        {
+          "number": 25,
+          "text": "Filii Cariathiarim, Cephira et Beroth, septingenti quadraginta tres."
+        },
+        {
+          "number": 26,
+          "text": "Filii Rama et Gabaa, sexcenti viginti unus."
+        },
+        {
+          "number": 27,
+          "text": "Viri Machmas, centum viginti duo."
+        },
+        {
+          "number": 28,
+          "text": "Viri Bethel et Hai, ducenti viginti tres."
+        },
+        {
+          "number": 29,
+          "text": "Filii Nebo, quinquaginta duo."
+        },
+        {
+          "number": 30,
+          "text": "Filii Megbis, centum quinquaginta sex."
+        },
+        {
+          "number": 31,
+          "text": "Filii lam alterius, mille ducenti quinquaginta quatuor."
+        },
+        {
+          "number": 32,
+          "text": "Filii Harim, trecenti viginti."
+        },
+        {
+          "number": 33,
+          "text": "Filii Lod Hadid, et Ono, septingenti viginti quinque."
+        },
+        {
+          "number": 34,
+          "text": "Filii Jericho, trecenti quadraginta quinque."
+        },
+        {
+          "number": 35,
+          "text": "Filii Senaa, tria millia sexcenti triginta."
+        },
+        {
+          "number": 36,
+          "text": "Sacerdotes: filii Jadaia in domo Josue, nongenti septuaginta tres."
+        },
+        {
+          "number": 37,
+          "text": "Filii Emmer, mille quinquaginta duo."
+        },
+        {
+          "number": 38,
+          "text": "Filii Pheshur, mille ducenti quadraginta septem."
+        },
+        {
+          "number": 39,
+          "text": "Filii Harim, mille decem et septem."
+        },
+        {
+          "number": 40,
+          "text": "Levit: filii Josue et Cedmihel filiorum Odovi, septuaginta quatuor."
+        },
+        {
+          "number": 41,
+          "text": "Cantores: filii Asaph, centum viginti octo."
+        },
+        {
+          "number": 42,
+          "text": "Filii janitorum: filii Sellum, filii Ater, filii Telmon, filii Accub, filii Hatitha, filii Sobai: universi centum triginta novem."
+        },
+        {
+          "number": 43,
+          "text": "Nathini: filii Siha, filii Hasupha, filii Tabbaoth,"
+        },
+        {
+          "number": 44,
+          "text": "filii Ceros, filii Siaa, filii Phadon,"
+        },
+        {
+          "number": 45,
+          "text": "filii Lebana, filii Hagaba, filii Accub,"
+        },
+        {
+          "number": 46,
+          "text": "filii Hagab, filii Semlai, filii Hanan,"
+        },
+        {
+          "number": 47,
+          "text": "filii Gaddel, filii Gaher, filii Raaia,"
+        },
+        {
+          "number": 48,
+          "text": "filii Rasin, filii Necoda, filii Gazam,"
+        },
+        {
+          "number": 49,
+          "text": "filii Aza, filii Phasea, filii Besee,"
+        },
+        {
+          "number": 50,
+          "text": "filii Asena, filii Munim, filii Nephusim,"
+        },
+        {
+          "number": 51,
+          "text": "filii Bacbuc, filii Hacupha, filii Harhur,"
+        },
+        {
+          "number": 52,
+          "text": "filii Besluth, filii Mahida, filii Harsa,"
+        },
+        {
+          "number": 53,
+          "text": "filii Bercos, filii Sisara, filii Thema,"
+        },
+        {
+          "number": 54,
+          "text": "filii Nasia, filii Hatipha,"
+        },
+        {
+          "number": 55,
+          "text": "filii servorum Salomonis, filii Sotai, filii Sophereth, filii Pharuda,"
+        },
+        {
+          "number": 56,
+          "text": "filii Jala, filii Dercon, filii Geddel,"
+        },
+        {
+          "number": 57,
+          "text": "filii Saphatia, filii Hatil, filii Phochereth, qui erant de Asebaim, filii Ami:"
+        },
+        {
+          "number": 58,
+          "text": "omnes Nathini, et filii servorum Salomonis, trecenti nonaginta duo."
+        },
+        {
+          "number": 59,
+          "text": "Et hi qui ascenderunt de Thelmala, Thelharsa, Cherub, et Adon, et Emer: et non potuerunt indicare domum patrum suorum et semen suum, utrum ex Isral essent."
+        },
+        {
+          "number": 60,
+          "text": "Filii Dalaia, filii Tobia, filii Necoda, sexcenti quinquaginta duo."
+        },
+        {
+          "number": 61,
+          "text": "Et de filiis sacerdotum: filii Hobia, filii Accos, filii Berzellai, qui accepit de filiabus Berzellai Galaaditis, uxorem, et vocatus est nomine eorum:"
+        },
+        {
+          "number": 62,
+          "text": "hi qusierunt scripturam genealogi su, et non invenerunt, et ejecti sunt de sacerdotio."
+        },
+        {
+          "number": 63,
+          "text": "Et dixit Athersatha eis ut non comederent de Sancto sanctorum, donec surgeret sacerdos doctus atque perfectus."
+        },
+        {
+          "number": 64,
+          "text": "Omnis multitudo quasi unus, quadraginta duo millia trecenti sexaginta:"
+        },
+        {
+          "number": 65,
+          "text": "exceptis servis eorum, et ancillis, qui erant septem millia trecenti triginta septem: et in ipsis cantores atque cantatrices ducenti."
+        },
+        {
+          "number": 66,
+          "text": "Equi eorum septingenti triginta sex, muli eorum, ducenti quadraginta quinque,"
+        },
+        {
+          "number": 67,
+          "text": "cameli eorum, quadringenti triginta quinque, asini eorum, sex millia septingenti viginti."
+        },
+        {
+          "number": 68,
+          "text": "Et de principibus patrum, cum ingrederentur templum Domini, quod est in Jerusalem, sponte obtulerunt in domum Dei ad exstruendam eam in loco suo."
+        },
+        {
+          "number": 69,
+          "text": "Secundum vires suas dederunt impensas operis, auri solidos sexaginta millia et mille, argenti mnas quinque millia, et vestes sacerdotales centum."
+        },
+        {
+          "number": 70,
+          "text": "Habitaverunt ergo sacerdotes, et Levit, et de populo, et cantores, et janitores, et Nathini, in urbibus suis, universusque Isral in civitatibus suis."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jamque venerat mensis septimus, et erant filii Isral in civitatibus suis: congregatus est ergo populus quasi vir unus in Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "Et surrexit Josue filius Josedec, et fratres ejus sacerdotes, et Zorobabel filius Salathiel, et fratres ejus, et dificaverunt altare Dei Isral ut offerrent in eo holocautomata, sicut scriptum est in lege Moysi viri Dei."
+        },
+        {
+          "number": 3,
+          "text": "Collocaverunt autem altare Dei super bases suas, deterrentibus eos per circuitum populis terrarum: et obtulerunt super illud holocaustum Domino mane et vespere."
+        },
+        {
+          "number": 4,
+          "text": "Feceruntque solemnitatem tabernaculorum, sicut scriptum est, et holocaustum diebus singulis per ordinem secundum prceptum opus diei in die suo."
+        },
+        {
+          "number": 5,
+          "text": "Et post hc holocaustum juge, tam in calendis quam in universis solemnitatibus Domini qu erant consecrat, et in omnibus in quibus ultro offerebatur munus Domino."
+        },
+        {
+          "number": 6,
+          "text": "A primo die mensis septimi cperunt offerre holocaustum Domino: porro templum Dei nondum fundatum erat."
+        },
+        {
+          "number": 7,
+          "text": "Dederunt autem pecunias latomis et cmentariis: cibum quoque, et potum, et oleum Sidoniis Tyriisque, ut deferrent ligna cedrina de Libano ad mare Joppe, juxta quod prceperat Cyrus rex Persarum eis."
+        },
+        {
+          "number": 8,
+          "text": "Anno autem secundo adventus eorum ad templum Dei in Jerusalem, mense secundo, cperunt Zorobabel filius Salathiel, et Josue filius Josedec, et reliqui de fratribus eorum sacerdotes, et Levit, et omnes qui venerant de captivitate in Jerusalem, et constituerunt Levitas a viginti annis et supra, ut urgerent opus Domini."
+        },
+        {
+          "number": 9,
+          "text": "Stetitque Josue et filii ejus et fratres ejus, Cedmihel et filii ejus, et filii Juda, quasi vir unus, ut instarent super eos qui faciebant opus in templo Dei: filii Henadad, et filii eorum, et fratres eorum Levit."
+        },
+        {
+          "number": 10,
+          "text": "Fundato igitur a cmentariis templo Domini, steterunt sacerdotes in ornatu suo cum tubis, et Levit filii Asaph in cymbalis, ut laudarent Deum per manus David regis Isral."
+        },
+        {
+          "number": 11,
+          "text": "Et concinebant in hymnis, et confessione Domino: Quoniam bonus, quoniam in ternum misericordia ejus super Isral. Omnis quoque populus vociferabatur clamore magno in laudando Dominum, eo quod fundatum esset templum Domini."
+        },
+        {
+          "number": 12,
+          "text": "Plurimi etiam de sacerdotibus et Levitis, et principes patrum, et seniores, qui viderant templum prius cum fundatum esset, et hoc templum, in oculis eorum, flebant voce magna: et multi vociferantes in ltitia, elevabant vocem."
+        },
+        {
+          "number": 13,
+          "text": "Nec poterat quisquam agnoscere vocem clamoris ltantium, et vocem fletus populi: commistim enim populus vociferabatur clamore magno, et vox audiebatur procul."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Audierunt autem hostes Jud et Benjamin, quia filii captivitatis dificarent templum Domino Deo Isral:"
+        },
+        {
+          "number": 2,
+          "text": "et accedentes ad Zorobabel, et ad principes patrum, dixerunt eis: dificemus vobiscum, quia ita ut vos, qurimus Deum vestrum: ecce nos immolavimus victimas a diebus Asor Haddan regis Assur, qui adduxit nos huc."
+        },
+        {
+          "number": 3,
+          "text": "Et dixit eis Zorobabel, et Josue, et reliqui principes patrum Isral: Non est vobis et nobis ut dificemus domum Deo nostro, sed nos ipsi soli dificabimus Domino Deo nostro, sicut prcepit nobis Cyrus rex Persarum."
+        },
+        {
+          "number": 4,
+          "text": "Factum est igitur ut populus terr impediret manus populi Jud, et turbaret eos in dificando."
+        },
+        {
+          "number": 5,
+          "text": "Conduxerunt autem adversus eos consiliatores, ut destruerent consilium eorum omnibus diebus Cyri regis Persarum, et usque ad regnum Darii regis Persarum."
+        },
+        {
+          "number": 6,
+          "text": "In regno autem Assueri, in principio regni ejus, scripserunt accusationem adversus habitatores Jud et Jerusalem."
+        },
+        {
+          "number": 7,
+          "text": "Et in diebus Artaxerxis scripsit Beselam, Mithridates, et Thabeel, et reliqui qui erant in consilio eorum, ad Artaxerxem regem Persarum: epistola autem accusationis scripta erat syriace, et legebatur sermone syro."
+        },
+        {
+          "number": 8,
+          "text": "Reum Beelteem, et Samsai scriba, scripserunt epistolam unam de Jerusalem Artaxerxi regi, hujuscemodi:"
+        },
+        {
+          "number": 9,
+          "text": "Reum Beelteem, et Samsai scriba, et reliqui consiliatores eorum, Dini, et Apharsathachi, Terphali, Apharsi, Erchui, Babylonii, Susanechi, Dievi, et lamit,"
+        },
+        {
+          "number": 10,
+          "text": "et ceteri de gentibus, quas transtulit Asenaphar magnus et gloriosus, et habitare eas fecit in civitatibus Samari, et in reliquis regionibus trans flumen in pace"
+        },
+        {
+          "number": 11,
+          "text": "(hoc est exemplar epistol, quam miserunt ad eum), Artaxerxi regi, servi tui, viri qui sunt trans fluvium, salutem dicunt."
+        },
+        {
+          "number": 12,
+          "text": "Notum sit regi quia Judi, qui ascenderunt a te ad nos, venerunt in Jerusalem civitatem rebellem et pessimam, quam dificant exstruentes muros ejus, et parietes componentes."
+        },
+        {
+          "number": 13,
+          "text": "Nunc igitur notum sit regi, quia si civitas illa dificata fuerit, et muri ejus instaurati, tributum, et vectigal, et annuos reditus non dabunt, et usque ad reges hc noxa perveniet."
+        },
+        {
+          "number": 14,
+          "text": "Nos autem memores salis, quod in palatio comedimus, et quia lsiones regis videre nefas ducimus, idcirco misimus et nuntiavimus regi,"
+        },
+        {
+          "number": 15,
+          "text": "ut recenseas in libris historiarum patrum tuorum, et invenies scriptum in commentariis: et scies quoniam urbs illa, urbs rebellis est, et nocens regibus et provinciis, et bella concitantur in ea ex diebus antiquis: quam ob rem et civitas ipsa destructa est."
+        },
+        {
+          "number": 16,
+          "text": "Nuntiamus nos regi, quoniam si civitas illa dificata fuerit, et muri ipsius instaurati, possessionem trans fluvium non habebis."
+        },
+        {
+          "number": 17,
+          "text": "Verbum misit rex ad Reum Beelteem, et Samsai scribam, et ad reliquos, qui erant in consilio eorum habitatores Samari, et ceteris trans fluvium, salutem dicens et pacem."
+        },
+        {
+          "number": 18,
+          "text": "Accusatio, quam misistis ad nos, manifeste lecta est coram me,"
+        },
+        {
+          "number": 19,
+          "text": "et a me prceptum est: et recensuerunt, inveneruntque quoniam civitas illa a diebus antiquis adversum reges rebellat, et seditiones, et prlia concitantur in ea:"
+        },
+        {
+          "number": 20,
+          "text": "nam et reges fortissimi fuerunt in Jerusalem, qui et dominati sunt omni regioni qu trans fluvium est: tributum quoque et vectigal, et reditus accipiebant."
+        },
+        {
+          "number": 21,
+          "text": "Nunc ergo audite sententiam: prohibeatis viros illos, ut urbs illa non dificetur donec si forte a me jussum fuerit."
+        },
+        {
+          "number": 22,
+          "text": "Videte ne negligenter hoc impleatis, et paulatim crescat malum contra reges."
+        },
+        {
+          "number": 23,
+          "text": "Itaque exemplum edicti Artaxerxis regis lectum est coram Reum Beelteem, et Samsai scriba, et consiliariis eorum: et abierunt festini in Jerusalem ad Judos, et prohibuerunt eos in brachio et robore."
+        },
+        {
+          "number": 24,
+          "text": "Tunc intermissum est opus domus Domini in Jerusalem, et non fiebat usque ad annum secundum regni Darii regis Persarum."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Prophetaverunt autem Aggus propheta, et Zacharias filius Addo, prophetantes ad Judos qui erant in Juda et Jerusalem, in nomine Dei Isral."
+        },
+        {
+          "number": 2,
+          "text": "Tunc surrexerunt Zorobabel filius Salathiel, et Josue filius Josedec, et cperunt dificare templum Dei in Jerusalem, et cum eis prophet Dei adjuvantes eos."
+        },
+        {
+          "number": 3,
+          "text": "In ipso autem tempore venit ad eos Thathanai, qui erat dux trans flumen, et Stharbuzanai, et consiliarii eorum: sicque dixerunt eis: Quis dedit vobis consilium ut domum hanc dificaretis, et muros ejus instauraretis?"
+        },
+        {
+          "number": 4,
+          "text": "Ad quod respondimus eis, qu essent nomina hominum auctorum dificationis illius."
+        },
+        {
+          "number": 5,
+          "text": "Oculus autem Dei eorum factus est super senes Judorum, et non potuerunt inhibere eos. Placuitque ut res ad Darium referretur, et tunc satisfacerent adversus accusationem illam."
+        },
+        {
+          "number": 6,
+          "text": "Exemplar epistol, quam misit Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliatores ejus Arphasachi, qui erant trans flumen, ad Darium regem."
+        },
+        {
+          "number": 7,
+          "text": "Sermo, quem miserant ei, sic scriptus erat: Dario regi pax omnis."
+        },
+        {
+          "number": 8,
+          "text": "Notum sit regi, isse nos ad Judam provinciam, ad domum Dei magni, qu dificatur lapide impolito, et ligna ponuntur in parietibus: opusque illud diligenter exstruitur, et crescit in manibus eorum."
+        },
+        {
+          "number": 9,
+          "text": "Interrogavimus ergo senes illos, et ita diximus eis: Quis dedit vobis potestatem ut domum hanc dificaretis, et muros hos instauraretis?"
+        },
+        {
+          "number": 10,
+          "text": "Sed et nomina eorum qusivimus ab eis, ut nuntiaremus tibi: scripsimusque nomina eorum virorum, qui sunt principes in eis."
+        },
+        {
+          "number": 11,
+          "text": "Hujuscemodi autem sermonem responderunt nobis dicentes: Nos sumus servi Dei cli et terr, et dificamus templum, quod erat exstructum ante hos annos multos, quodque rex Isral magnus dificaverat, et exstruxerat."
+        },
+        {
+          "number": 12,
+          "text": "Postquam autem ad iracundiam provocaverunt patres nostri Deum cli, tradidit eos in manus Nabuchodonosor regis Babylonis Chaldi, domum quoque hanc destruxit, et populum ejus transtulit in Babylonem."
+        },
+        {
+          "number": 13,
+          "text": "Anno autem primo Cyri regis Babylonis, Cyrus rex proposuit edictum ut domus Dei hc dificaretur."
+        },
+        {
+          "number": 14,
+          "text": "Nam et vasa templi Dei aurea et argentea, qu Nabuchodonosor tulerat de templo, quod erat in Jerusalem, et asportaverat ea in templum Babylonis, protulit Cyrus rex de templo Babylonis, et data sunt Sassabasar vocabulo, quem et principem constituit,"
+        },
+        {
+          "number": 15,
+          "text": "dixitque ei: Hc vasa tolle, et vade, et pone ea in templo, quod est in Jerusalem, et domus Dei dificetur in loco suo."
+        },
+        {
+          "number": 16,
+          "text": "Tunc itaque Sassabasar ille venit et posuit fundamenta templi Dei in Jerusalem, et ex eo tempore usque nunc dificatur, et necdum completum est."
+        },
+        {
+          "number": 17,
+          "text": "Nunc ergo si videtur regi bonum, recenseat in bibliotheca regis, qu est in Babylone, utrumnam a Cyro rege jussum fuerit ut dificaretur domus Dei in Jerusalem, et voluntatem regis super hac re mittat ad nos."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tunc Darius rex prcepit: et recensuerunt in bibliotheca librorum, qui erant repositi in Babylone."
+        },
+        {
+          "number": 2,
+          "text": "Et inventum est in Ecbatanis, quod est castrum in Medena provincia, volumen unum: talisque scriptus erat in eo commentarius:"
+        },
+        {
+          "number": 3,
+          "text": "Anno primo Cyri regis, Cyrus rex decrevit ut domus Dei dificaretur, qu est in Jerusalem, in loco ubi immolent hostias, et ut ponant fundamenta supportantia altitudinem cubitorum sexaginta, et latitudinem cubitorum sexaginta,"
+        },
+        {
+          "number": 4,
+          "text": "ordines de lapidibus impolitis tres, et sic ordines de lignis novis: sumptus autem de domo regis dabuntur."
+        },
+        {
+          "number": 5,
+          "text": "Sed et vasa templi Dei aurea et argentea, qu Nabuchodonosor tulerat de templo Jerusalem, et attulerat ea in Babylonem, reddantur, et referantur in templum in Jerusalem in locum suum, qu et posita sunt in templo Dei."
+        },
+        {
+          "number": 6,
+          "text": "Nunc ergo Thathanai dux regionis, qu est trans flumen, Stharbuzanai, et consiliarii vestri Apharsachi, qui estis trans flumen, procul recedite ab illis,"
+        },
+        {
+          "number": 7,
+          "text": "et dimittite fieri templum Dei illud a duce Judorum, et a senioribus eorum, ut domum Dei illam dificent in loco suo."
+        },
+        {
+          "number": 8,
+          "text": "Sed et a me prceptum est quid oporteat fieri a presbyteris Judorum illis ut dificetur domus Dei, scilicet ut de arca regis, id est, de tributis qu dantur de regione trans flumen, studiose sumptus dentur viris illis, ne impediatur opus."
+        },
+        {
+          "number": 9,
+          "text": "Quod si necesse fuerit, et vitulos, et agnos, et hdos in holocaustum Deo cli, frumentum, sal, vinum, et oleum, secundum ritum sacerdotum, qui sunt in Jerusalem, detur eis per singulos dies, ne sit in aliquo querimonia."
+        },
+        {
+          "number": 10,
+          "text": "Et offerant oblationes Deo cli, orentque pro vita regis, et filiorum ejus."
+        },
+        {
+          "number": 11,
+          "text": "A me ergo positum est decretum: ut omnis homo qui hanc mutaverit jussionem, tollatur lignum de domum ipsius, et erigatur, et configatur in eo, domus autem ejus publicetur."
+        },
+        {
+          "number": 12,
+          "text": "Deus autem, qui habitare fecit nomen suum ibi, dissipet omnia regna, et populum qui extenderit manum suam ut repugnet, et dissipet domum Dei illam, qu est in Jerusalem. Ego Darius statui decretum, quod studiose impleri volo."
+        },
+        {
+          "number": 13,
+          "text": "Igitur Thathanai dux regionis trans flumen, et Stharbuzanai, et consiliarii ejus, secundum quod prceperat Darius rex, sic diligenter executi sunt."
+        },
+        {
+          "number": 14,
+          "text": "Seniores autem Judorum dificabant, et prosperabantur juxta prophetiam Aggi prophet, et Zachari filii Addo: et dificaverunt et construxerunt, jubente Deo Isral, et jubente Cyro, et Dario, et Artaxerxe regibus Persarum:"
+        },
+        {
+          "number": 15,
+          "text": "et compleverunt domum Dei istam, usque ad diem tertium mensis Adar, qui est annus sextus regni Darii regis."
+        },
+        {
+          "number": 16,
+          "text": "Fecerunt autem filii Isral sacerdotes et Levit, et reliqui filiorum transmigrationis, dedicationem domus Dei in gaudio."
+        },
+        {
+          "number": 17,
+          "text": "Et obtulerunt in dedicationem domus Dei, vitulos centum, arietes ducentos, agnos quadringentos, hircos caprarum pro peccato totius Isral duodecim, juxta numerum tribuum Isral."
+        },
+        {
+          "number": 18,
+          "text": "Et statuerunt sacerdotes in ordinibus suis, et Levitas in vicibus suis, super opera Dei in Jerusalem, sicut scriptum est in libro Moysi."
+        },
+        {
+          "number": 19,
+          "text": "Fecerunt autem filii Isral transmigrationis Pascha, quartadecima die mensis primi."
+        },
+        {
+          "number": 20,
+          "text": "Purificati enim fuerant sacerdotes et Levit quasi unus: omnes mundi ad immolandum Pascha universis filiis transmigrationis, et fratribus suis sacerdotibus, et sibi."
+        },
+        {
+          "number": 21,
+          "text": "Et comederunt filii Isral, qui reversi fuerant de transmigratione, et omnes qui se separaverant a coinquinatione gentium terr ad eos, ut qurerent Dominum Deum Isral."
+        },
+        {
+          "number": 22,
+          "text": "Et fecerunt solemnitatem azymorum septem diebus in ltitia, quoniam ltificaverat eos Dominus, et converterat cor regis Assur ad eos, ut adjuvaret manus eorum in opere domus Domini Dei Isral."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Post hc autem verba in regno Artaxerxis regis Persarum, Esdras filius Sarai, filii Azari, filii Helci,"
+        },
+        {
+          "number": 2,
+          "text": "filii Sellum, filii Sadoc, filii Achitob,"
+        },
+        {
+          "number": 3,
+          "text": "filii Amari, filii Azari, filii Maraioth,"
+        },
+        {
+          "number": 4,
+          "text": "filii Zarahi, filii Ozi, filii Bocci,"
+        },
+        {
+          "number": 5,
+          "text": "filii Abisue, filii Phinees, filii Eleazar, filii Aaron sacerdotis ab initio."
+        },
+        {
+          "number": 6,
+          "text": "Ipse Esdras ascendit de Babylone, et ipse scriba velox in lege Moysi, quam Dominus Deus dedit Isral: et dedit ei rex secundum manum Domini Dei ejus super eum, omnem petitionem ejus."
+        },
+        {
+          "number": 7,
+          "text": "Et ascenderunt de filiis Isral, et de filiis sacerdotum, et de filiis Levitarum, et de cantoribus, et de janitoribus, et de Nathinis, in Jerusalem, anno septimo Artaxerxis regis."
+        },
+        {
+          "number": 8,
+          "text": "Et venerunt in Jerusalem mense quinto, ipse est annus septimus regis."
+        },
+        {
+          "number": 9,
+          "text": "Quia in primo die mensis primi cpit ascendere de Babylone, et in primo die mensis quinti venit in Jerusalem, juxta manum Dei sui bonam super se."
+        },
+        {
+          "number": 10,
+          "text": "Esdras enim paravit cor suum, ut investigaret legem Domini, et faceret et doceret in Isral prceptum et judicium."
+        },
+        {
+          "number": 11,
+          "text": "Hoc est autem exemplar epistol edicti, quod dedit rex Artaxerxes Esdr sacerdoti, scrib erudito in sermonibus et prceptis Domini, et cremoniis ejus in Isral."
+        },
+        {
+          "number": 12,
+          "text": "Artaxerxes rex regum Esdr sacerdoti scrib legis Dei cli doctissimo, salutem."
+        },
+        {
+          "number": 13,
+          "text": "A me decretum est, ut cuicumque placuerit in regno meo de populo Isral, et de sacerdotibus ejus, et de Levitis, ire in Jerusalem, tecum vadat."
+        },
+        {
+          "number": 14,
+          "text": "A facie enim regis, et septem consiliatorum ejus, missus es, ut visites Judam et Jerusalem in lege Dei tui, qu est in manu tua:"
+        },
+        {
+          "number": 15,
+          "text": "et ut feras argentum et aurum quod rex, et consiliatores ejus, sponte obtulerunt Deo Isral, cujus in Jerusalem tabernaculum est."
+        },
+        {
+          "number": 16,
+          "text": "Et omne argentum et aurum quodcumque inveneris in universa provincia Babylonis, et populus offerre voluerit, et de sacerdotibus qu sponte obtulerint domui Dei sui, qu est in Jerusalem,"
+        },
+        {
+          "number": 17,
+          "text": "libere accipe, et studiose eme de hac pecunia vitulos, arietes, agnos, et sacrificia, et libamina eorum, et offer ea super altare templi Dei vestri, quod est in Jerusalem."
+        },
+        {
+          "number": 18,
+          "text": "Sed et si quid tibi et fratribus tuis placuerit de reliquo argento et auro ut faciatis, juxta voluntatem Dei vestri facite."
+        },
+        {
+          "number": 19,
+          "text": "Vasa quoque, qu dantur tibi in ministerium domus Dei tui, trade in conspectu Dei in Jerusalem."
+        },
+        {
+          "number": 20,
+          "text": "Sed et cetera, quibus opus fuerit in domum Dei tui, quantumcumque necesse est ut expendas, dabitur de thesauro, et de fisco regis,"
+        },
+        {
+          "number": 21,
+          "text": "et a me. Ego Artaxerxes rex, statui atque decrevi omnibus custodibus arc public, qui sunt trans flumen, ut quodcumque petierit a vobis Esdras sacerdos, scriba legis Dei cli, absque mora detis,"
+        },
+        {
+          "number": 22,
+          "text": "usque ad argenti talenta centum, et usque ad frumenti coros centum, et usque ad vini batos centum, et usque ad batos olei centum, sal vero absque mensura."
+        },
+        {
+          "number": 23,
+          "text": "Omne quod ad ritum Dei cli pertinet, tribuatur diligenter in domo Dei cli: ne forte irascatur contra regnum regis, et filiorum ejus."
+        },
+        {
+          "number": 24,
+          "text": "Vobis quoque notum facimus de universis sacerdotibus, et Levitis, et cantoribus, et janitoribus, Nathinis, et ministris domus Dei hujus, ut vectigal, et tributum, et annonas non habeatis potestatem imponendi super eos."
+        },
+        {
+          "number": 25,
+          "text": "Tu autem Esdra, secundum sapientiam Dei tui, qu est in manu tua, constitue judices et prsides, ut judicent omni populo qui est trans flumen, his videlicet qui noverunt legem Dei tui: sed et imperitos docete libere."
+        },
+        {
+          "number": 26,
+          "text": "Et omnis qui non fecerit legem Dei tui, et legem regis, diligenter, judicium erit de eo sive in mortem, sive in exilium, sive in condemnationem substanti ejus, vel certe in carcerem."
+        },
+        {
+          "number": 27,
+          "text": "Benedictus Dominus Deus patrum nostrorum, qui dedit hoc in corde regis ut glorificaret domum Domini qu est in Jerusalem,"
+        },
+        {
+          "number": 28,
+          "text": "et in me inclinavit misericordiam suam coram rege et consiliatoribus ejus, et universis principibus regis potentibus: et ego confortatus manu Domini Dei mei, qu erat in me, congregavi de Isral principes qui ascenderent mecum."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno Artaxerxis regis de Babylone."
+        },
+        {
+          "number": 2,
+          "text": "De filiis Phinees, Gersom. De filiis Ithamar, Daniel. De filiis David, Hattus."
+        },
+        {
+          "number": 3,
+          "text": "De filiis Secheni, filiis Pharos, Zacharias: et cum eo numerati sunt viri centum quinquaginta."
+        },
+        {
+          "number": 4,
+          "text": "De filiis Phahath Moab, Elionai filius Zarehe, et cum eo ducenti viri."
+        },
+        {
+          "number": 5,
+          "text": "De filiis Secheni, filius Ezechiel, et cum eo trecenti viri."
+        },
+        {
+          "number": 6,
+          "text": "De filiis Adan, Abed filius Jonathan, et cum eo quinquaginta viri."
+        },
+        {
+          "number": 7,
+          "text": "De filiis Alam, Isaias filius Athali, et cum eo septuaginta viri."
+        },
+        {
+          "number": 8,
+          "text": "De filiis Saphati, Zebedia filius Michal, et cum eo octoginta viri."
+        },
+        {
+          "number": 9,
+          "text": "De filiis Joab, Obedia filius Jahiel, et cum eo ducenti decem et octo viri."
+        },
+        {
+          "number": 10,
+          "text": "De filiis Selomith, filius Josphi, et cum eo centum sexaginta viri."
+        },
+        {
+          "number": 11,
+          "text": "De filiis Bebai, Zacharias filius Bebai, et cum eo viginti octo viri."
+        },
+        {
+          "number": 12,
+          "text": "De filiis Azgad, Johanan filius Eccetan, et cum eo centum et decem viri."
+        },
+        {
+          "number": 13,
+          "text": "De filiis Adonicam, qui erant novissimi: et hc nomina eorum: Elipheleth, et Jehiel, et Samaias, et cum eis sexaginta viri."
+        },
+        {
+          "number": 14,
+          "text": "De filii Begui, Uthai et Zachur, et cum eis septuaginta viri."
+        },
+        {
+          "number": 15,
+          "text": "Congregavi autem eos ad fluvium qui decurrit ad Ahava, et mansimus ibi tribus diebus: qusivique in populo et in sacerdotibus de filiis Levi, et non inveni ibi."
+        },
+        {
+          "number": 16,
+          "text": "Itaque misi Eliezer, et Ariel, et Semeiam, et Elnathan, et Jarib, et alterum Elnathan, et Nathan, et Zachariam, et Mosollam principes: et Jojarib, et Elnathan sapientes."
+        },
+        {
+          "number": 17,
+          "text": "Et misi eos ad Eddo, qui est primus in Chasphi loco, et posui in ore eorum verba, qu loquerentur ad Eddo, et fratres ejus Nathinos in loco Chasphi, ut adducerent nobis ministros domus Dei nostri."
+        },
+        {
+          "number": 18,
+          "text": "Et adduxerunt nobis per manum Dei nostri bonam super nos, virum doctissimum de filiis Moholi filii Levi, filii Isral, et Sarabiam et filios ejus et fratres ejus decem et octo,"
+        },
+        {
+          "number": 19,
+          "text": "et Hasabiam, et cum eo Isaiam de filiis Merari, fratresque ejus, et filios ejus viginti:"
+        },
+        {
+          "number": 20,
+          "text": "et de Nathinis, quos dederat David et principes ad ministeria Levitarum, Nathinos ducentos viginti: omnes hi suis nominibus vocabantur."
+        },
+        {
+          "number": 21,
+          "text": "Et prdicavi ibi jejunium juxta fluvium Ahava, ut affligeremur coram Domino Deo nostro, et peteremus ab eo viam rectam nobis et filiis nostris, universque substanti nostr."
+        },
+        {
+          "number": 22,
+          "text": "Erubui enim petere a rege auxilium et equites, qui defenderent nos ab inimico in via: quia dixeramus regi: Manus Dei nostri est super omnes qui qurunt eum in bonitate: et imperium ejus, et fortitudo ejus, et furor, super omnes qui derelinquunt eum."
+        },
+        {
+          "number": 23,
+          "text": "Jejunavimus autem, et rogavimus Deum nostrum per hoc: et evenit nobis prospere."
+        },
+        {
+          "number": 24,
+          "text": "Et separavi de principibus sacerdotum duodecim, Sarabiam, et Hasabiam, et cum eis de fratribus eorum decem:"
+        },
+        {
+          "number": 25,
+          "text": "appendique eis argentum et aurum, et vasa consecrata domus Dei nostri, qu obtulerat rex et consiliatores ejus, et principes ejus, universusque Isral eorum qui inventi fuerant:"
+        },
+        {
+          "number": 26,
+          "text": "et appendi in manibus eorum argenti talenta sexcenta quinquaginta, et vasa argentea centum, auri centum talenta:"
+        },
+        {
+          "number": 27,
+          "text": "et crateres aureos viginti, qui habebant solidos millenos, et vasa ris fulgentis optimi duo, pulchra ut aurum."
+        },
+        {
+          "number": 28,
+          "text": "Et dixi eis: Vos sancti Domini, et vasa sancta, et argentum et aurum, quod sponte oblatum est Domino Deo patrum nostrorum:"
+        },
+        {
+          "number": 29,
+          "text": "vigilate et custodite, donec appendatis coram principibus sacerdotum, et Levitarum, et ducibus familiarum Isral in Jerusalem, in thesaurum domus Domini."
+        },
+        {
+          "number": 30,
+          "text": "Susceperunt autem sacerdotes et Levit pondus argenti, et auri, et vasorum, ut deferrent Jerusalem in domum Dei nostri."
+        },
+        {
+          "number": 31,
+          "text": "Promovimus ergo a flumine Ahava duodecimo die mensis primi ut pergeremus Jerusalem: et manus Dei nostri fuit super nos, et liberavit nos de manu inimici et insidiatoris in via."
+        },
+        {
+          "number": 32,
+          "text": "Et venimus Jerusalem, et mansimus ibi tribus diebus."
+        },
+        {
+          "number": 33,
+          "text": "Die autem quarta appensum est argentum, et aurum, et vasa in domo Dei nostri per manum Meremoth filii Uri sacerdotis, et cum eo Eleazar filius Phinees, cumque eis Jozabed filius Josue, et Noadaia filius Bennoi Levit,"
+        },
+        {
+          "number": 34,
+          "text": "juxta numerum et pondus omnium: descriptumque est omne pondus in tempore illo."
+        },
+        {
+          "number": 35,
+          "text": "Sed et qui venerant de captivitate filii transmigrationis, obtulerunt holocautomata Deo Isral, vitulos duodecim pro omni populo Isral, arietes nonaginta sex, agnos septuaginta septem, hircos pro peccato duodecim: omnia in holocaustum Domino."
+        },
+        {
+          "number": 36,
+          "text": "Dederunt autem edicta regis satrapis qui erant de conspectu regis, et ducibus trans flumen, et elevaverunt populum et domum Dei."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Postquam autem hc completa sunt, accesserunt ad me principes, dicentes: Non est separatus populus Isral, sacerdotes et Levit, a populis terrarum et abominationibus eorum: Chanani videlicet, et Hethi, et Pherezi, et Jebusi, et Ammonitarum, et Moabitarum, et gyptiorum, et Amorrhorum:"
+        },
+        {
+          "number": 2,
+          "text": "tulerunt enim de filiabus eorum sibi et filiis suis, et commiscuerunt semen sanctum cum populis terrarum: manus etiam principum et magistratuum fuit in transgressione hac prima."
+        },
+        {
+          "number": 3,
+          "text": "Cumque audissem sermonem istum, scidi pallium meum et tunicam, et evelli capillos capitis mei et barb, et sedi mrens."
+        },
+        {
+          "number": 4,
+          "text": "Convenerunt autem ad me omnes qui timebant verbum Dei Isral, pro transgressione eorum qui de captivitate venerant, et ego sedebam tristis usque ad sacrificium vespertinum:"
+        },
+        {
+          "number": 5,
+          "text": "et in sacrificio vespertino, surrexi de afflictione mea, et scisso pallio et tunica, curvavi genua mea, et expandi manus meas ad Dominum Deum meum."
+        },
+        {
+          "number": 6,
+          "text": "Et dixi: Deus meus, confundor et erubesco levare faciem meam ad te: quoniam iniquitates nostr multiplicat sunt super caput nostrum, et delicta nostra creverunt usque ad clum,"
+        },
+        {
+          "number": 7,
+          "text": "a diebus patrum nostrorum: sed et nos ipsi peccavimus graviter usque ad diem hanc, et in iniquitatibus nostris traditi sumus ipsi, et reges nostri, et sacerdotes nostri, in manum regum terrarum, et in gladium, et in captivitatem, et in rapinam, et in confusionem vultus, sicut et die hac."
+        },
+        {
+          "number": 8,
+          "text": "Et nunc quasi parum et ad momentum facta est deprecatio nostra apud Dominum Deum nostrum, ut dimitterentur nobis reliqui, et daretur nobis paxillus in loco sancto ejus, et illuminaret oculos nostros Deus noster, et daret nobis vitam modicam in servitute nostra:"
+        },
+        {
+          "number": 9,
+          "text": "quia servi sumus, et in servitute nostra non dereliquit nos Deus noster, sed inclinavit super nos misericordiam coram rege Persarum, ut daret nobis vitam, et sublimaret domum Dei nostri, et exstrueret solitudines ejus, et daret nobis sepem in Juda et Jerusalem."
+        },
+        {
+          "number": 10,
+          "text": "Et nunc quid dicemus, Deus noster, post hc? Quia dereliquimus mandata tua,"
+        },
+        {
+          "number": 11,
+          "text": "qu prcepisti in manu servorum tuorum prophetarum, dicens: Terra, ad quam vos ingredimini ut possideatis eam, terra immunda est juxta immunditiam populorum, ceterarumque terrarum, abominationibus eorum qui repleverunt eam ab ore usque ad os in coinquinatione sua."
+        },
+        {
+          "number": 12,
+          "text": "Nunc ergo filias vestras ne detis filiis eorum, et filias eorum ne accipiatis filiis vestris, et non quratis pacem eorum et prosperitatem eorum usque in ternum: ut confortemini, et comedatis qu bona sunt terr, et hredes habeatis filios vestros usque in sculum."
+        },
+        {
+          "number": 13,
+          "text": "Et post omnia qu venerunt super nos in operibus nostris pessimis, et in delicto nostro magno, quia tu, Deus noster, liberasti nos de iniquitate nostra, et dedisti nobis salutem sicut est hodie,"
+        },
+        {
+          "number": 14,
+          "text": "ut non converteremur, et irrita faceremus mandata tua, neque matrimonia jungeremus cum populis abominationum istarum. Numquid iratus es nobis usque ad consummationem, ne dimitteres nobis reliquias ad salutem?"
+        },
+        {
+          "number": 15,
+          "text": "Domine Deus Isral, justus es tu: quoniam derelicti sumus, qui salvaremur sicut die hac. Ecce coram te sumus in delicto nostro: non enim stari potest coram te super hoc."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sic ergo orante Esdra, et implorante eo et flente, et jacente ante templum Dei, collectus est ad eum de Isral ctus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo."
+        },
+        {
+          "number": 2,
+          "text": "Et respondit Sechenias filius Jehiel de filiis lam, et dixit Esdr: Nos prvaricati sumus in Deum nostrum, et duximus uxores alienigenas de populis terr: et nunc, si est pnitentia in Isral super hoc,"
+        },
+        {
+          "number": 3,
+          "text": "percutiamus fdus cum Domino Deo nostro, ut projiciamus universas uxores, et eos qui de his nati sunt, juxta voluntatem Domini, et eorum qui timent prceptum Domini Dei nostri: secundum legem fiat."
+        },
+        {
+          "number": 4,
+          "text": "Surge, tuum est decernere, nosque erimus tecum: confortare, et fac."
+        },
+        {
+          "number": 5,
+          "text": "Surrexit ergo Esdras, et adjuravit principes sacerdotum et Levitarum, et omnem Isral, ut facerent secundum verbum hoc: et juraverunt."
+        },
+        {
+          "number": 6,
+          "text": "Et surrexit Esdras ante domum Dei, et abiit ad cubiculum Johanan filii Eliasib, et ingressus est illuc: panem non comedit, et aquam non bibit: lugebat enim transgressionem eorum, qui venerant de captivitate."
+        },
+        {
+          "number": 7,
+          "text": "Et missa est vox in Juda et in Jerusalem omnibus filiis transmigrationis, ut congregarentur in Jerusalem:"
+        },
+        {
+          "number": 8,
+          "text": "et omnis qui non venerit in tribus diebus juxta consilium principum et seniorum, auferetur universa substantia ejus, et ipse abjicietur de ctu transmigrationis."
+        },
+        {
+          "number": 9,
+          "text": "Convenerunt igitur omnes viri Juda et Benjamin in Jerusalem tribus diebus: ipse est mensis nonus, vigesimo die mensis: et sedit omnis populus in platea domus Dei, trementes pro peccato, et pluviis."
+        },
+        {
+          "number": 10,
+          "text": "Et surrexit Esdras sacerdos, et dixit ad eos: Vos transgressi estis, et duxistis uxores alienigenas, ut adderetis super delictum Isral."
+        },
+        {
+          "number": 11,
+          "text": "Et nunc date confessionem Domino Deo patrum vestrorum, et facite placitum ejus, et separamini a populis terr, et ab uxoribus alienigenis."
+        },
+        {
+          "number": 12,
+          "text": "Et respondit universa multitudo, dixitque voce magna: Juxta verbum tuum ad nos, sic fiat."
+        },
+        {
+          "number": 13,
+          "text": "Verumtamen quia populus multus est, et tempus pluvi, et non sustinemus stare foris, et opus non est diei unius vel duorum (vehementer quippe peccavimus in sermone isto),"
+        },
+        {
+          "number": 14,
+          "text": "constituantur principes in universa multitudine: et omnes in civitatibus nostris qui duxerunt uxores alienigenas veniant in temporibus statutis, et cum his seniores per civitatem et civitatem, et judices ejus, donec avertatur ira Dei nostri a nobis super peccato hoc."
+        },
+        {
+          "number": 15,
+          "text": "Igitur Jonathan filius Azahel, et Jaasia filius Thecue, steterunt super hoc, et Messollam et Sebethai Levites adjuverunt eos:"
+        },
+        {
+          "number": 16,
+          "text": "feceruntque sic filii transmigrationis. Et abierunt Esdras sacerdos, et viri principes familiarum, in domos patrum suorum, et omnes per nomina sua, et sederunt in die primo mensis decimi ut qurerent rem."
+        },
+        {
+          "number": 17,
+          "text": "Et consummati sunt omnes viri, qui duxerant uxores alienigenas, usque ad diem primam mensis primi."
+        },
+        {
+          "number": 18,
+          "text": "Et inventi sunt de filiis sacerdotum qui duxerant uxores alienigenas. De filiis Josue filii Josedec, et fratres ejus, Maasia, et Eliezer, et Jarib, et Godolia."
+        },
+        {
+          "number": 19,
+          "text": "Et dederunt manus suas ut ejicerent uxores suas, et pro delicto suo arietem de ovibus offerrent."
+        },
+        {
+          "number": 20,
+          "text": "Et de filiis Emmer, Hanani, et Zebedia."
+        },
+        {
+          "number": 21,
+          "text": "Et de filiis Harim, Maasia, et Elia, et Semeia, et Jehiel, et Ozias."
+        },
+        {
+          "number": 22,
+          "text": "Et de filiis Pheshur, Elionai, Maasia, Ismal, Nathanal, Jozabed, et Elasa."
+        },
+        {
+          "number": 23,
+          "text": "Et de filiis Levitarum, Jozabed, et Semei, et Celaia, ipse est Calita, Phataia, Juda, et Eliezer."
+        },
+        {
+          "number": 24,
+          "text": "Et de cantoribus, Eliasib. Et de janitoribus, Sellum, et Telem, et Uri."
+        },
+        {
+          "number": 25,
+          "text": "Et ex Isral, de filiis Pharos, Remeia, et Jesia, et Melchia, et Miamin, et Eliezer, et Melchia, et Banea."
+        },
+        {
+          "number": 26,
+          "text": "Et de filiis lam, Mathania, Zacharias, et Jehiel, et Abdi, et Jerimoth, et Elia."
+        },
+        {
+          "number": 27,
+          "text": "Et de filiis Zethua, Elionai, Eliasib, Mathania, et Jerimuth, et Zabad, et Aziza."
+        },
+        {
+          "number": 28,
+          "text": "Et de filiis Bebai, Johanan, Hanania, Zabbai, Athalai."
+        },
+        {
+          "number": 29,
+          "text": "Et de filiis Bani, Mosollam, et Melluch, et Adaia, Jasub, et Saal, et Ramoth."
+        },
+        {
+          "number": 30,
+          "text": "Et de filiis Phahath Moab, Edna, et Chalal, Banaias, et Maasias, Mathanias, Beseleel, Bennui, et Manasse."
+        },
+        {
+          "number": 31,
+          "text": "Et de filiis Herem, Eliezer, Josue, Melchias, Semeias, Simeon,"
+        },
+        {
+          "number": 32,
+          "text": "Benjamin, Maloch, Samarias."
+        },
+        {
+          "number": 33,
+          "text": "Et de filiis Hasom, Mathanai, Mathatha, Zabad, Eliphelet, Jermai, Manasse, Semei."
+        },
+        {
+          "number": 34,
+          "text": "De filiis Bani, Maadi, Amram, et Vel,"
+        },
+        {
+          "number": 35,
+          "text": "Baneas, et Badaias, Cheliau,"
+        },
+        {
+          "number": 36,
+          "text": "Vania, Marimuth, et Eliasib,"
+        },
+        {
+          "number": 37,
+          "text": "Mathanias, Mathanai, et Jasi,"
+        },
+        {
+          "number": 38,
+          "text": "et Bani, et Bennui, Semei,"
+        },
+        {
+          "number": 39,
+          "text": "et Salmias, et Nathan, et Adaias,"
+        },
+        {
+          "number": 40,
+          "text": "et Mechnedebai, Sisai, Sarai,"
+        },
+        {
+          "number": 41,
+          "text": "Ezrel, et Selemiau, Semeria,"
+        },
+        {
+          "number": 42,
+          "text": "Sellum, Amaria, Joseph."
+        },
+        {
+          "number": 43,
+          "text": "De filiis Nebo, Jehiel, Mathathias, Zabad, Zabina, Jeddu, et Jol, et Banaia."
+        },
+        {
+          "number": 44,
+          "text": "Omnes hi acceperant uxores alienigenas, et fuerunt ex eis mulieres, qu pepererant filios."
+        }
+      ]
+    }
+  ]
+}

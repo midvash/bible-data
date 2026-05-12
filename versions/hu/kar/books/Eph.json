@@ -1,0 +1,659 @@
+{
+  "version": "kar",
+  "book": "Eph",
+  "bookId": 49,
+  "englishName": "Ephesians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pál, Jézus Krisztus apostola Isten akaratjából, az Efézusban lévő és Krisztus Jézusban hívő szenteknek."
+        },
+        {
+          "number": 2,
+          "text": "Kegyelem néktek és békesség Istentől, a mi Atyánktól és az Úr Jézus Krisztustól."
+        },
+        {
+          "number": 3,
+          "text": "Áldott legyen az Isten, és a mi Urunknak, Jézus Krisztusnak Atyja, a ki megáldott minket minden lelki áldással a mennyekben a Krisztusban,"
+        },
+        {
+          "number": 4,
+          "text": "A szerint, a mint magának kiválasztott minket Ő benne a világ teremtetése előtt, hogy legyünk mi szentek és feddhetetlenek Ő előtte szeretet által,"
+        },
+        {
+          "number": 5,
+          "text": "Eleve elhatározván, hogy minket a maga fiaivá fogad Jézus Krisztus által az Ő akaratjának jó kedve szerint,"
+        },
+        {
+          "number": 6,
+          "text": "Kegyelme dicsőségének magasztalására, a melylyel megajándékozott minket ama Szerelmesben,"
+        },
+        {
+          "number": 7,
+          "text": "A kiben van a mi váltságunk az Ő vére által, a bűnöknek bocsánata az Ő kegyelmének gazdagsága szerint."
+        },
+        {
+          "number": 8,
+          "text": "Melyet nagy bőséggel közlött velünk minden bölcsességgel és értelemmel,"
+        },
+        {
+          "number": 9,
+          "text": "Megismertetvén velünk az Ő akaratjának titkát az Ő jó kedve szerint, melyet eleve elrendelt magában,"
+        },
+        {
+          "number": 10,
+          "text": "Az idők teljességének rendjére nézve, hogy ismét egybeszerkeszt magának mindeneket a Krisztusban, mind a melyek a mennyekben vannak, mind a melyek e földön vannak;"
+        },
+        {
+          "number": 11,
+          "text": "Ő benne, a kiben vettük is az örökséget, eleve elrendeltetvén annak eleveelvégzése szerint, a ki mindent az ő akaratjának tanácsából cselekszik,"
+        },
+        {
+          "number": 12,
+          "text": "Hogy legyünk mi magasztalására az Ő dicsőségének, a kik előre reménykedtünk a Krisztusban:"
+        },
+        {
+          "number": 13,
+          "text": "A kiben ti is, minekutána hallottátok az igazságnak beszédét, idvességetek evangyéliomát, a melyben hittetek is, megpecsételtettetek az ígéretnek ama Szent Lelkével,"
+        },
+        {
+          "number": 14,
+          "text": "A ki záloga a mi örökségünknek Isten tulajdon népének megváltatására, az Ő dicsőségének magasztalására."
+        },
+        {
+          "number": 15,
+          "text": "Annakokáért én is, hallván a ti hiteteket az Úr Jézusban, és minden szentekhez való szerelmeteket,"
+        },
+        {
+          "number": 16,
+          "text": "Nem szűnöm meg hálát adni tiérettetek, emlékezvén reátok az én könyörgéseimben;"
+        },
+        {
+          "number": 17,
+          "text": "Hogy a mi Urunk Jézus Krisztusnak Istene, a dicsőségnek Atyja adjon néktek bölcseségnek és kijelentésnek Lelkét az Ő megismerésében;"
+        },
+        {
+          "number": 18,
+          "text": "És világosítsa meg értelmetek szemeit, hogy tudhassátok, hogy mi az Ő elhívásának a reménysége, mi az Ő öröksége dicsőségének a gazdagsága a szentek között,"
+        },
+        {
+          "number": 19,
+          "text": "És mi az Ő hatalmának felséges nagysága irántunk, a kik hiszünk, az Ő hatalma erejének ama munkája szerint,"
+        },
+        {
+          "number": 20,
+          "text": "A melyet megmutatott a Krisztusban, mikor feltámasztotta Őt a halálból, és ültette Őt a maga jobbjára a mennyekben."
+        },
+        {
+          "number": 21,
+          "text": "Felül minden fejedelemségen és hatalmasságon és erőn és uraságon és minden néven, mely neveztetik nemcsak e világon, hanem a következendőben is:"
+        },
+        {
+          "number": 22,
+          "text": "És mindeneket vetett az Ő lábai alá, és Őt tette mindeneknek fölötte az anyaszentegyháznak fejévé,"
+        },
+        {
+          "number": 23,
+          "text": "Mely az Ő teste, teljessége Ő néki, a ki mindeneket betölt mindenekkel."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Titeket is megelevenített, a kik holtak valátok a ti vétkeitek és bűneitek miatt,"
+        },
+        {
+          "number": 2,
+          "text": "Melyekben jártatok egykor e világ folyása szerint, a levegőbeli hatalmasság fejedelme szerint, ama lélek szerint, mely most az engedetlenség fiaiban munkálkodik;"
+        },
+        {
+          "number": 3,
+          "text": "A kik között forgolódtunk egykor mi is mindnyájan a mi testünk kívánságaiban, cselekedvén a testnek és a gondolatoknak akaratját, és természet szerint haragnak fiai valánk, mint egyebek is:"
+        },
+        {
+          "number": 4,
+          "text": "De az Isten gazdag lévén irgalmasságban, az Ő nagy szerelméből, melylyel minket szeretett,"
+        },
+        {
+          "number": 5,
+          "text": "Minket, kik meg voltunk halva a vétkek miatt, megelevenített együtt a Krisztussal, (kegyelemből tartattatok meg!)"
+        },
+        {
+          "number": 6,
+          "text": "És együtt feltámasztott és együtt ültetett a mennyekben, Krisztus Jézusban:"
+        },
+        {
+          "number": 7,
+          "text": "Hogy megmutassa a következendő időkben az Ő kegyelmének felséges gazdagságát hozzánk való jóságából a Krisztus Jézusban."
+        },
+        {
+          "number": 8,
+          "text": "Mert kegyelemből tartattatok meg, hit által; és ez nem tőletek van: Isten ajándéka ez;"
+        },
+        {
+          "number": 9,
+          "text": "Nem cselekedetekből, hogy senki ne kérkedjék."
+        },
+        {
+          "number": 10,
+          "text": "Mert az Ő alkotása vagyunk, teremtetvén Általa a Krisztus Jézusban jó cselekedetekre, a melyeket előre elkészített az Isten, hogy azokban járjunk."
+        },
+        {
+          "number": 11,
+          "text": "Annakokáért emlékezzetek meg arról, hogy egykor ti a testben pogányok, kiket körülmetéletlenségnek nevez vala amaz úgynevezett s a testen kézzel megcsinált körülmetélkedés,"
+        },
+        {
+          "number": 12,
+          "text": "Hogy ti, mondom, abban az időben Krisztus nélkül valók voltatok, Izráel társaságától idegenek, és az ígéret szövetségeitől távolvalók, reménységetek nem vala, és Isten nélkül valók voltatok e világon;"
+        },
+        {
+          "number": 13,
+          "text": "Most pedig a Krisztus Jézusban ti, kik egykor távol valátok, közelvalókká lettetek a Krisztus vére által."
+        },
+        {
+          "number": 14,
+          "text": "Mert Ő a mi békességünk, ki egygyé tette mind a két nemzetséget, és lerontotta a közbevetett választófalat,"
+        },
+        {
+          "number": 15,
+          "text": "Az ellenségeskedést az Ő testében, a parancsolatoknak tételekben való törvényét eltörölvén; hogy ama kettőt egy új emberré teremtse Ő magában, békességet szerezvén;"
+        },
+        {
+          "number": 16,
+          "text": "És hogy megbékéltesse az Istennel mind a kettőt, egy testben a keresztfa által, megölvén ezen az ellenségeskedést."
+        },
+        {
+          "number": 17,
+          "text": "És eljövén, békességet hirdetett néktek, a távol valóknak és a közel valóknak."
+        },
+        {
+          "number": 18,
+          "text": "Mert Ő általa van menetelünk mindkettőnknek egy Lélekben az Atyához."
+        },
+        {
+          "number": 19,
+          "text": "Azért immár nem vagytok jövevények és zsellérek, hanem polgártársai a szenteknek és cselédei az Istennek,"
+        },
+        {
+          "number": 20,
+          "text": "Kik fölépíttettetek az apostoloknak és prófétáknak alapkövén, lévén a szegletkő maga Jézus Krisztus,"
+        },
+        {
+          "number": 21,
+          "text": "A kiben az egész épület szép renddel rakattatván, nevekedik szent templommá az Úrban;"
+        },
+        {
+          "number": 22,
+          "text": "A kiben ti is együtt építtettek Isten hajlékává a Lélek által."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ezért vagyok én, Pál, a Krisztusnak foglya ti érettetek, a pogányokért;"
+        },
+        {
+          "number": 2,
+          "text": "Ha ugyan hallottátok Isten kegyelmének rendelkezését, melyet nékem adott a ti érdeketekben;"
+        },
+        {
+          "number": 3,
+          "text": "Hogy tudniillik kijelentés útján ismertette meg velem a titkot, a szerint, a mint az elébb megírám röviden,"
+        },
+        {
+          "number": 4,
+          "text": "Melynek olvasásából megérthetitek, hogy micsoda az én értelmem a Krisztus titka felől;"
+        },
+        {
+          "number": 5,
+          "text": "A mely egyéb időkben meg nem ismertettetett az emberek fiaival úgy, a hogy most kijelentetett az Ő szent apostolainak és prófétáinak a Lélek által:"
+        },
+        {
+          "number": 6,
+          "text": "Hogy tudniillik a pogányok örökös társak és egyugyanazon test tagjai és részesei az ő ígéretének a Krisztus Jézusban az evangyéliom által."
+        },
+        {
+          "number": 7,
+          "text": "A melynek szolgájává lettem az Isten ama kegyelmének ajándékából, mely adatott nékem az Ő hatalmának munkája szerint."
+        },
+        {
+          "number": 8,
+          "text": "Nékem, minden szentek között a legeslegkisebbnek adatott ez a kegyelem, hogy a pogányoknak hirdessem a Krisztus végére mehetetlen gazdagságát;"
+        },
+        {
+          "number": 9,
+          "text": "És hogy megvilágosítsam mindeneknek, hogy miképen rendelkezett Isten ama titok felől, a mely elrejtetett vala örök időktől fogva az Istenben, a ki mindeneket teremtett a Jézus Krisztus által;"
+        },
+        {
+          "number": 10,
+          "text": "Azért, hogy megismertettessék most a mennybeli fejedelemségekkel és hatalmasságokkal az egyház által az Istennek sokféle bölcsesége,"
+        },
+        {
+          "number": 11,
+          "text": "Amaz örök eleve-elvégezés szerint, a melyet megcselekedett a Krisztus Jézusban, a mi Urunkban:"
+        },
+        {
+          "number": 12,
+          "text": "A kiben van a mi bátorságunk és bizodalommal való menetelünk Istenhez az Ő benne való hit által."
+        },
+        {
+          "number": 13,
+          "text": "Azért kérlek, hogy ne csüggedjetek el az én ti érettetek való nyomorúságaim miatt, a melyek néktek dicsőségtekre vannak."
+        },
+        {
+          "number": 14,
+          "text": "Ezokáért meghajtom térdeimet a mi Urunk Jézus Krisztusnak Atyja előtt,"
+        },
+        {
+          "number": 15,
+          "text": "A kiről neveztetik minden nemzetség, mennyen és földön,"
+        },
+        {
+          "number": 16,
+          "text": "Hogy adja meg néktek az Ő dicsősége gazdagságáért, hogy hatalmasan megerősödjetek az Ő Lelke által a belső emberben;"
+        },
+        {
+          "number": 17,
+          "text": "Hogy lakozzék a Krisztus a hit által a ti szívetekben;"
+        },
+        {
+          "number": 18,
+          "text": "A szeretetben meggyökerezvén és alapot vevén, hogy megérthessétek minden szentekkel egybe, mi a szélessége és hosszúsága és mélysége és magassága az Isten jóvoltának,"
+        },
+        {
+          "number": 19,
+          "text": "És megismerjétek a Krisztusnak minden ismeretet felül haladó szeretetét, hogy ekképen beteljesedjetek az Istennek egész teljességéig."
+        },
+        {
+          "number": 20,
+          "text": "Annak pedig, a ki véghetetlen bőséggel mindeneket megcselekedhetik, feljebb hogynem mint kérjük vagy elgondoljuk, a mi bennünk munkálkodó erő szerint,"
+        },
+        {
+          "number": 21,
+          "text": "Annak légyen dicsőség az egyházban a Krisztus Jézusban nemzetségről nemzetségre örökkön örökké. Ámen!"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kérlek azért titeket én, ki fogoly vagyok az Úrban, hogy járjatok úgy, mint illik elhívatásotokhoz, melylyel elhívattatok."
+        },
+        {
+          "number": 2,
+          "text": "Teljes alázatossággal és szelídséggel, hosszútűréssel, elszenvedvén egymást szeretetben,"
+        },
+        {
+          "number": 3,
+          "text": "Igyekezvén megtartani a Lélek egységét a békességnek kötelében."
+        },
+        {
+          "number": 4,
+          "text": "Egy a test és egy a Lélek, miképen elhívatástoknak egy reménységében hívattatok el is;"
+        },
+        {
+          "number": 5,
+          "text": "Egy az Úr, egy a hit, egy a keresztség;"
+        },
+        {
+          "number": 6,
+          "text": "Egy az Isten és mindeneknek Atyja, a ki mindeneknek felette van és mindenek által és mindnyájatokban munkálkodik."
+        },
+        {
+          "number": 7,
+          "text": "Mindenikünknek pedig adatott a kegyelem a Krisztustól osztott ajándéknak mértéke szerint."
+        },
+        {
+          "number": 8,
+          "text": "Ezokáért mondja az Írás: Fölmenvén a magasságba foglyokat vitt fogva, és adott ajándékokat az embereknek."
+        },
+        {
+          "number": 9,
+          "text": "(Az pedig, hogy fölment, mit jelentene mást, mint hogy előbb le is szállott a föld alsóbb részeire?"
+        },
+        {
+          "number": 10,
+          "text": "A ki leszállott vala, ugyanaz, a ki fel is ment, feljebb minden egeknél, hogy mindeneket betöltsön.)"
+        },
+        {
+          "number": 11,
+          "text": "És Ő adott némelyeket apostolokul, némelyeket prófétákul, némelyeket evangyélistákul, némelyeket pedig pásztorokul és tanítókul:"
+        },
+        {
+          "number": 12,
+          "text": "A szentek tökéletesbbítése czéljából szolgálat munkájára, a Krisztus testének építésére:"
+        },
+        {
+          "number": 13,
+          "text": "Míg eljutunk mindnyájan az Isten Fiában való hitnek és az Ő megismerésének egységére, érett férfiúságra, a Krisztus teljességével ékeskedő kornak mértékére:"
+        },
+        {
+          "number": 14,
+          "text": "Hogy többé ne legyünk gyermekek, kiket ide s tova hány a hab és hajt a tanításnak akármi szele, az embereknek álnoksága által, a tévelygés ravaszságához való csalárdság által;"
+        },
+        {
+          "number": 15,
+          "text": "Hanem az igazságot követvén szeretetben, mindenestől fogva nevekedjünk Abban, a ki a fej, a Krisztusban;"
+        },
+        {
+          "number": 16,
+          "text": "A kiből az egész test, szép renddel egyberakatván és egybeszerkesztetvén az Ő segedelmének minden kapcsaival, minden egyes tagnak mértéke szerint való munkássággal teljesíti a testnek nevekedését a maga fölépítésére szeretetben."
+        },
+        {
+          "number": 17,
+          "text": "Ezt mondom annakokáért és bizonyságot teszek az Úrban, hogy ti többé ne járjatok úgy, mint egyéb pogányok is járnak az ő elméjöknek hiábavalóságában,"
+        },
+        {
+          "number": 18,
+          "text": "Kik értelmökben meghomályosodtak, elidegenültek az isteni élettől a tudatlanság miatt, mely az ő szívök keménysége miatt van bennök;"
+        },
+        {
+          "number": 19,
+          "text": "Kik erkölcsi érzés nélkül, önmagukat a bujálkodásra adták, minden tisztátalanságnak nagy nyereséggel való cselekedésére."
+        },
+        {
+          "number": 20,
+          "text": "Ti pedig nem így tanultátok a Krisztust;"
+        },
+        {
+          "number": 21,
+          "text": "Ha ugyan Őt megértettétek és Ő benne megtaníttattatok, úgy a mint az igazság a Jézusban:"
+        },
+        {
+          "number": 22,
+          "text": "Hogy levetkezzétek ama régi élet szerint való ó embert, mely meg van romolva a csalárdság kívánságai miatt;"
+        },
+        {
+          "number": 23,
+          "text": "Megújuljatok pedig a ti elméteknek lelke szerint,"
+        },
+        {
+          "number": 24,
+          "text": "És felöltözzétek amaz új embert, mely Isten szerint teremtetett igazságban és valóságos szentségben."
+        },
+        {
+          "number": 25,
+          "text": "Azért levetvén a hazugságot, szóljatok igazságot, kiki az ő felebarátjával: mert egymásnak tagjai vagyunk."
+        },
+        {
+          "number": 26,
+          "text": "Ám haragudjatok, de ne vétkezzetek: a nap le ne menjen a ti haragotokon;"
+        },
+        {
+          "number": 27,
+          "text": "Se pedig az ördögnek ne adjatok helyet."
+        },
+        {
+          "number": 28,
+          "text": "A ki oroz vala, többé ne orozzon; hanem inkább munkálkodjék, cselekedvén az ő kezeivel azt, a mi jó, hogy legyen mit adnia a szűkölködőnek."
+        },
+        {
+          "number": 29,
+          "text": "Semmi rothadt beszéd a ti szátokból ki ne származzék, hanem csak a mely hasznos a szükséges építésre, hogy áldásos legyen a hallgatóknak."
+        },
+        {
+          "number": 30,
+          "text": "És meg ne szomorítsátok az Istennek ama Szent Lelkét, a ki által megpecsételtettetek a teljes váltságnak napjára."
+        },
+        {
+          "number": 31,
+          "text": "Minden mérgesség és fölgerjedés és harag és lárma és káromkodás kivettessék közületek minden gonoszsággal együtt;"
+        },
+        {
+          "number": 32,
+          "text": "Legyetek pedig egymáshoz jóságosak, irgalmasok, megengedvén egymásnak, miképen az Isten is a Krisztusban megengedett néktek."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Legyetek annakokáért követői az Istennek, mint szeretett gyermekek:"
+        },
+        {
+          "number": 2,
+          "text": "És járjatok szeretetben, miképen a Krisztus is szeretett minket, és adta Önmagát miérettünk ajándékul és áldozatul az Istennek, kedves jó illatul."
+        },
+        {
+          "number": 3,
+          "text": "Paráznaság pedig és akármely tisztátalanság vagy fösvénység ne is neveztessék ti közöttetek, a mint szentekhez illik;"
+        },
+        {
+          "number": 4,
+          "text": "Sem undokság, vagy bolond beszéd, vagy trágárság, melyek nem illenek: hanem inkább hálaadás."
+        },
+        {
+          "number": 5,
+          "text": "Mert azt jól tudjátok, hogy egy paráznának is, vagy tisztátalannak, vagy fösvénynek, ki bálványimádó, nincs öröksége a Krisztusnak és Istennek országában."
+        },
+        {
+          "number": 6,
+          "text": "Senki titeket meg ne csaljon üres beszédekkel; mert ezekért jő az Isten haragja a hitetlenség fiaira."
+        },
+        {
+          "number": 7,
+          "text": "Annakokáért ne legyetek részesei ezeknek;"
+        },
+        {
+          "number": 8,
+          "text": "Mert valátok régen sötétség, most pedig világosság az Úrban: mint világosságnak fiai úgy járjatok."
+        },
+        {
+          "number": 9,
+          "text": "(Mert a világosságnak gyümölcse minden jóságban és igazságban és valóságban van),"
+        },
+        {
+          "number": 10,
+          "text": "Meggondolván, mi legyen kedves az Úrnak."
+        },
+        {
+          "number": 11,
+          "text": "És ne legyen közösségtek a sötétségnek gyümölcstelen cselekedeteivel, hanem inkább meg is feddjétek azokat;"
+        },
+        {
+          "number": 12,
+          "text": "Mert a melyeket azok titokban cselekesznek, éktelen dolog csak mondani is."
+        },
+        {
+          "number": 13,
+          "text": "Mindezek pedig megfeddetvén, a világosság által napvilágra jőnek; mert minden, a mi napvilágra jő, világosság."
+        },
+        {
+          "number": 14,
+          "text": "Annakokáért mondja: Serkenj föl, a ki aluszol és támadj fel a halálból, és felragyogott tenéked a Krisztus."
+        },
+        {
+          "number": 15,
+          "text": "Meglássátok annakokáért, hogy mimódon okkal járjatok, nem mint bolondok, hanem mint bölcsek:"
+        },
+        {
+          "number": 16,
+          "text": "Áron is megvegyétek az alkalmatosságot, mert a napok gonoszok."
+        },
+        {
+          "number": 17,
+          "text": "Annakokáért ne legyetek esztelenek, hanem megértsétek, mi legyen az Úrnak akaratja."
+        },
+        {
+          "number": 18,
+          "text": "És meg ne részegedjetek bortól, miben kicsapongás van: hanem teljesedjetek be Szent Lélekkel,"
+        },
+        {
+          "number": 19,
+          "text": "Beszélgetvén egymás között zsoltárokban és dícséretekben és lelki énekekben, énekelvén és dícséretet mondván szívetekben az Úrnak."
+        },
+        {
+          "number": 20,
+          "text": "Hálákat adván mindenkor mindenekért a mi Urunk Jézus Krisztusnak nevében az Istennek és Atyának."
+        },
+        {
+          "number": 21,
+          "text": "Engedelmesek legyetek egymásnak Isten félelmében."
+        },
+        {
+          "number": 22,
+          "text": "Ti asszonyok a ti saját férjeteknek engedelmesek legyetek, mint az Úrnak."
+        },
+        {
+          "number": 23,
+          "text": "Mert a férj feje a feleségének, mint a Krisztus is feje az egyháznak, és ugyanő megtartója a testnek."
+        },
+        {
+          "number": 24,
+          "text": "De miképen az egyház engedelmes a Krisztusnak, azonképen az asszonyok is engedelmesek legyenek férjöknek mindenben."
+        },
+        {
+          "number": 25,
+          "text": "Ti férfiak, szeressétek a ti feleségeteket, miképen a Krisztus is szerette az egyházat, és Önmagát adta azért;"
+        },
+        {
+          "number": 26,
+          "text": "Hogy azt megszentelje, megtisztítván a víznek feredőjével az íge által,"
+        },
+        {
+          "number": 27,
+          "text": "Hogy majd Önmaga elébe állítsa dicsőségben az egyházat, úgy hogy azon ne legyen szeplő, vagy sömörgözés, vagy valami afféle; hanem hogy legyen szent és feddhetetlen."
+        },
+        {
+          "number": 28,
+          "text": "Úgy kell a férfiaknak szeretni az ő feleségöket, mint az ő tulajdon testöket. A ki szereti az ő feleségét, önmagát szereti."
+        },
+        {
+          "number": 29,
+          "text": "Mert soha senki az ő tulajdon testét nem gyűlölte; hanem táplálgatja és ápolgatja azt, miképen az Úr is az egyházat;"
+        },
+        {
+          "number": 30,
+          "text": "Mert az Ő testének tagjai vagyunk, az Ő testéből és az Ő csontjaiból valók."
+        },
+        {
+          "number": 31,
+          "text": "Annakokáért elhagyja az ember atyját és anyját, és ragaszkodik az ő feleségéhez; és lesznek ketten egy testté."
+        },
+        {
+          "number": 32,
+          "text": "Felette nagy titok ez: de én a Krisztusról és az egyházról szólok."
+        },
+        {
+          "number": 33,
+          "text": "Hanem azért ti is egyen-egyen, ki-ki az ő feleségét úgy szeresse, mint önmagát; az asszony pedig meglássa, hogy félje a férjét."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ti gyermekek szót fogadjatok a ti szüleiteknek az Úrban; mert ez az igaz."
+        },
+        {
+          "number": 2,
+          "text": "Tiszteljed a te atyádat és a te anyádat (a mi az első parancsolat ígérettel)."
+        },
+        {
+          "number": 3,
+          "text": "Hogy jól legyen néked dolgod és hosszú életű légy e földön."
+        },
+        {
+          "number": 4,
+          "text": "Ti is atyák ne ingereljétek gyermekeiteket, hanem neveljétek azokat az Úr tanítása és intése szerint."
+        },
+        {
+          "number": 5,
+          "text": "Ti szolgák, engedelmesek legyetek a ti test szerint való uraitoknak félelemmel és rettegéssel, szíveteknek egyenességében, mint a Krisztusnak;"
+        },
+        {
+          "number": 6,
+          "text": "Nem a szemnek szolgálván, mint a kik embereknek akarnak tetszeni, hanem mint Krisztus szolgái, cselekedvén az Istennek akaratját lélekből,"
+        },
+        {
+          "number": 7,
+          "text": "Jó akarattal, mint a kik az Úrnak szolgálnak és nem embereknek;"
+        },
+        {
+          "number": 8,
+          "text": "Tudván, hogy kiki a mi jót cselekszik, azt veendi az Úrtól, akár szolga legyen, akár szabados."
+        },
+        {
+          "number": 9,
+          "text": "Ti is urak, ugyanazt cselekedjétek ő velök, elhegyván a fenyegetést; tudván, hogy a ti Uratok is mennyben van, és személyválogatás nincsen Ő nála."
+        },
+        {
+          "number": 10,
+          "text": "Végezetre, atyámfiai, legyetek erősek az Úrban, és az ő hatalmas erejében."
+        },
+        {
+          "number": 11,
+          "text": "Öltözzétek föl az Isten minden fegyverét, hogy megállhassatok az ördögnek minden ravaszságával szemben."
+        },
+        {
+          "number": 12,
+          "text": "Mert nem vér és test ellen van nékünk tusakodásunk, hanem a fejedelemségek ellen, a hatalmasságok ellen, ez élet sötétségének világbírói ellen, a gonoszság lelkei ellen, melyek a magasságban vannak."
+        },
+        {
+          "number": 13,
+          "text": "Annakokáért vegyétek föl az Istennek minden fegyverét, hogy ellentállhassatok ama gonosz napon, és mindeneket elvégezvén megállhassatok."
+        },
+        {
+          "number": 14,
+          "text": "Álljatok hát elő, körül övezvén derekatokat igazlelkűséggel, és felöltözvén az igazságnak mellvasába,"
+        },
+        {
+          "number": 15,
+          "text": "És felsarúzván lábaitokat a békesség evangyéliomának készségével;"
+        },
+        {
+          "number": 16,
+          "text": "Mindezekhez fölvevén a hitnek paizsát, a melylyel ama gonosznak minden tüzes nyilát megolthatjátok;"
+        },
+        {
+          "number": 17,
+          "text": "Az idvesség sisakját is fölvegyétek, és a Léleknek kardját, a mely az Isten beszéde:"
+        },
+        {
+          "number": 18,
+          "text": "Minden imádsággal és könyörgéssel imádkozván minden időben a Lélek által, és ugyanezen dologban vigyázván minden állhatatossággal és könyörgéssel minden szentekért,"
+        },
+        {
+          "number": 19,
+          "text": "Én érettem is, hogy adassék nékem szó számnak megnyitásakor, hogy bátorsággal ösmertessem meg az evangyéliom titkát,"
+        },
+        {
+          "number": 20,
+          "text": "A melyért követséget viselek lánczok között; hogy bátran szóljak arról, a miképen kell szólanom."
+        },
+        {
+          "number": 21,
+          "text": "Hogy pedig ti is megtudjátok dolgaimat, hogy mit cselekeszem, mindent megismertet veletek Tikhikus, a szeretett atyafi és hív szolga az Úrban;"
+        },
+        {
+          "number": 22,
+          "text": "Kit éppen azért küldöttem hozzátok, hogy megismerjétek a mi dolgainkat, és megvígasztalja a ti szíveteket."
+        },
+        {
+          "number": 23,
+          "text": "Békesség az atyafiaknak és szeretet hittel egybe az Atya Istentől és az Úr Jézus Krisztustól!"
+        },
+        {
+          "number": 24,
+          "text": "A kegyelem legyen mindazokkal, a kik szeretik a mi Urunk Jézus Krisztust romlatlanságban. Ámen."
+        }
+      ]
+    }
+  ]
+}

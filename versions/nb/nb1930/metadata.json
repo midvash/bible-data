@@ -1,0 +1,18 @@
+{
+  "slug": "nb1930",
+  "shortName": "NB1930",
+  "name": "Norsk Bibel 1930",
+  "language": "nb",
+  "year": 1930,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Norwegian Bokmål 1930 translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31101
+  },
+  "readerUrl": "https://midvash.com/nb1930",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

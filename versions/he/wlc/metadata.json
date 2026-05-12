@@ -1,0 +1,18 @@
+{
+  "slug": "wlc",
+  "shortName": "WLC",
+  "name": "Westminster Leningrad Codex",
+  "language": "he",
+  "year": 2008,
+  "license": "wlc-license",
+  "licenseNote": "Westminster Leningrad Codex license: free to copy, distribute, and modify. See https://tanach.us/Pages/Tanach.xml#License",
+  "attribution": "Westminster Leningrad Codex, Westminster Hebrew Institute",
+  "sourceUrl": "https://tanach.us/",
+  "stats": {
+    "books": 39,
+    "chapters": 929,
+    "verses": 23318
+  },
+  "readerUrl": "https://midvash.com/wlc",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

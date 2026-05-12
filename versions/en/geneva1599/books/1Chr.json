@@ -1,0 +1,3922 @@
+{
+  "version": "geneva1599",
+  "book": "1Chr",
+  "bookId": 13,
+  "englishName": "1 Chronicles",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Adam, Sheth, Enosh,"
+        },
+        {
+          "number": 2,
+          "text": "Kenan, Mahalaleel, Iered,"
+        },
+        {
+          "number": 3,
+          "text": "Henoch, Methushelah, Lamech,"
+        },
+        {
+          "number": 4,
+          "text": "Noah, She, Ham, and Iapheth."
+        },
+        {
+          "number": 5,
+          "text": "The sonnes of Iapheth were Gomer, and Magog, and Madai, and Iauan, and Tubal, and Meshech, and Tiras."
+        },
+        {
+          "number": 6,
+          "text": "And the sonnes of Gomer, Ashchenaz, and Iphath and Togarmah."
+        },
+        {
+          "number": 7,
+          "text": "Also the sonnes of Iauan, Elishah and Tarshishah, Kittim, and Dodanim."
+        },
+        {
+          "number": 8,
+          "text": "The sonnes of Ham were Cush, and Mizraim, Put and Canaan."
+        },
+        {
+          "number": 9,
+          "text": "And the sonnes of Cush, Siba and Hauilah, and Sabta, and Raamah, and Sabtecha. Also the sonnes of Raamah were Sheba and Dedan."
+        },
+        {
+          "number": 10,
+          "text": "And Cush begate Nimrod, who began to be mightie in the earth."
+        },
+        {
+          "number": 11,
+          "text": "And Mizraim begate Ludim and Anamim, Lehabim, and Naphtuhim:"
+        },
+        {
+          "number": 12,
+          "text": "Pathrusim also, and Casluhim, of whome came the Philistims, and Caphtorim."
+        },
+        {
+          "number": 13,
+          "text": "Also Canaan begate Zidon his first borne, and Heth,"
+        },
+        {
+          "number": 14,
+          "text": "And the Iebusite, and the Amorite, and the Girgashite,"
+        },
+        {
+          "number": 15,
+          "text": "And the Hiuuite, and the Arkite, and the Simite,"
+        },
+        {
+          "number": 16,
+          "text": "And the Aruadite, and the Zemarite, and the Hamathite."
+        },
+        {
+          "number": 17,
+          "text": "The sonnes of Shem were Elam and Asshur, and Arpachshad, and Lud, and Aram, and Vz, and Hul, and Gether, and Meshech."
+        },
+        {
+          "number": 18,
+          "text": "Also Arpachshad begate Shelah, and Shelah begate Eber."
+        },
+        {
+          "number": 19,
+          "text": "Vnto Eber also were borne two sonnes: the name of the one was Peleg: for in his dayes was ye earth deuided: and his brothers name was Ioktan."
+        },
+        {
+          "number": 20,
+          "text": "Then Ioktan begate Almodad and Sheleph, and Hazermaueth and Ierah,"
+        },
+        {
+          "number": 21,
+          "text": "And Hadoram and Vzal and Diklah,"
+        },
+        {
+          "number": 22,
+          "text": "And Ebal, and Abimael, and Sheba,"
+        },
+        {
+          "number": 23,
+          "text": "And Ophir, and Hauilah and Iobab: all these were the sonnes of Ioktan."
+        },
+        {
+          "number": 24,
+          "text": "Shem, Arpachshad, Shelah,"
+        },
+        {
+          "number": 25,
+          "text": "Eber, Peleg, Rehu,"
+        },
+        {
+          "number": 26,
+          "text": "Serug, Nahor, Terah,"
+        },
+        {
+          "number": 27,
+          "text": "Abram, which is Abraham."
+        },
+        {
+          "number": 28,
+          "text": "The sonnes of Abraham were Izhak, and Ishmael."
+        },
+        {
+          "number": 29,
+          "text": "These are their generations. The eldest sonne of Ishmael was Nebaioth, and Kedar, and Adbeel, and Mibsam,"
+        },
+        {
+          "number": 30,
+          "text": "Mishma, and Dumah, Massa, Hadad, and Tema,"
+        },
+        {
+          "number": 31,
+          "text": "Ietur, Naphish and Kedemah: these are the sonnes of Ishmael."
+        },
+        {
+          "number": 32,
+          "text": "And Keturah Abrahams concubine bare sonnes, Zimran, and Iokshan, and Medan, and Midian, and Ishbak, and Shuah: and the sonnes of Iokshan, Sheba, and Dedan."
+        },
+        {
+          "number": 33,
+          "text": "And the sonnes of Midian were Ephah, and Ephar, and Henoch, and Abida, and Eldaah: All these are the sonnes of Keturah."
+        },
+        {
+          "number": 34,
+          "text": "And Abraham begate Izhak: the sonnes of Izhak, Esau, and Israel."
+        },
+        {
+          "number": 35,
+          "text": "The sonnes of Esau were Eliphaz, Reuel, and Ieush, and Iaalam, and Korah."
+        },
+        {
+          "number": 36,
+          "text": "The sonnes of Eliphaz, Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek."
+        },
+        {
+          "number": 37,
+          "text": "The sonnes of Reuel, Nahath, Zerah, Shammah and Mizzah."
+        },
+        {
+          "number": 38,
+          "text": "And the sonnes of Seir, Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan."
+        },
+        {
+          "number": 39,
+          "text": "And the sonnes of Lotan, Hori, and Homam, and Timna Lotans sister."
+        },
+        {
+          "number": 40,
+          "text": "The sonnes of Shobal were Alian, and Manahath, and Ebal, Shephi, and Onam. And the sonnes of Zibeon, Aiah and Anah."
+        },
+        {
+          "number": 41,
+          "text": "The sonne of Anah was Dishon. And the sonnes of Dishon, Amran, and Eshban, and Ithran, and Cheran."
+        },
+        {
+          "number": 42,
+          "text": "The sonnes of Ezer were Bilhan, and Zaauan, and Iaakan. The sonnes of Dishon were Vz, and Aran."
+        },
+        {
+          "number": 43,
+          "text": "And these were the Kings that reigned in the land of Edom, before a King reigned ouer the children of Israel, to wit, Bela the sonne of Beor, and the name of his citie was Dinhabah."
+        },
+        {
+          "number": 44,
+          "text": "Then Bela died, and Iobab the sonne of Zerah of Bozrah reigned in his stead."
+        },
+        {
+          "number": 45,
+          "text": "And whe Iobab was dead, Hussham of the land of the Temanites reigned in his stead."
+        },
+        {
+          "number": 46,
+          "text": "And when Hussham was dead, Hadad the sonne of Bedad which smote Midian in the fielde of Moab, reigned in his steade, and the name of his citie was Auith."
+        },
+        {
+          "number": 47,
+          "text": "So Hadad dyed, and Samlah of Mashrecah reigned in his stead."
+        },
+        {
+          "number": 48,
+          "text": "And Samlah dyed, and Shaul of Rehoboth by the riuer reigned in his stead."
+        },
+        {
+          "number": 49,
+          "text": "And when Shaul was dead, Baal-hanan the sonne of Achbor reigned in his stead."
+        },
+        {
+          "number": 50,
+          "text": "And Baal-hanan dyed, and Hadad reigned in his stead, and the name of his citie was Pai, and his wiues name Mehetabel the daughter of Matred the daughter of Mezahab."
+        },
+        {
+          "number": 51,
+          "text": "Hadad dyed also, and there were dukes in Edom, duke Timna, duke Aliah, duke Ietheth,"
+        },
+        {
+          "number": 52,
+          "text": "Duke Aholibamah, duke Elah, duke Pinon,"
+        },
+        {
+          "number": 53,
+          "text": "Duke Kenaz, duke Teman, duke Mibzar,"
+        },
+        {
+          "number": 54,
+          "text": "Duke Magdiel, duke Iram: these were the dukes of Edom."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are the sonnes of Israel, Reuben, Simeon, Leui and Iudah, Isshachar, and Zebulun,"
+        },
+        {
+          "number": 2,
+          "text": "Dan, Ioseph, and Beniamin, Naphtali, Gad, and Asher."
+        },
+        {
+          "number": 3,
+          "text": "The sonnes of Iudah, Er, and Onan, and Shelah. these three were borne to him of ye daughter of Shua the Canaanite: but Er the eldest sonne of Iudah was euil in the sight of the Lord, and he slew him."
+        },
+        {
+          "number": 4,
+          "text": "And Thamar his daughter in law bare him Pharez, and Zerah: so al the sonnes of Iudah were fiue."
+        },
+        {
+          "number": 5,
+          "text": "The sonnes of Pharez, Hezron and Hamul."
+        },
+        {
+          "number": 6,
+          "text": "The sonnes also of Zerah were Zimri, and Ethan, and Heman, and Calcol, and Dara, which were fiue in all."
+        },
+        {
+          "number": 7,
+          "text": "And the sonne of Carmi, Achar that troubled Israel, transgressing in the thing excommunicate."
+        },
+        {
+          "number": 8,
+          "text": "The sonne also of Ethan, Azariah."
+        },
+        {
+          "number": 9,
+          "text": "And the sonnes of Hezron that were borne vnto him, Ierahmeel, and Ram and Chelubai."
+        },
+        {
+          "number": 10,
+          "text": "And Ram begate Aminadab, and Aminadab begate Nahshon prince of the children of Iudah,"
+        },
+        {
+          "number": 11,
+          "text": "And Nahshon begate Salma, and Salma begate Boaz,"
+        },
+        {
+          "number": 12,
+          "text": "And Boaz begate Obed, and Obed begate Ishai,"
+        },
+        {
+          "number": 13,
+          "text": "And Ishai begate his eldest sonne Eliab, and Abinadab the second, and Shimma the third,"
+        },
+        {
+          "number": 14,
+          "text": "Nathaneel the fourth, Raddai the fift,"
+        },
+        {
+          "number": 15,
+          "text": "Ozem the sixt, and Dauid the seuenth."
+        },
+        {
+          "number": 16,
+          "text": "Whose sisters were Zeruiah and Abigail. And the sonnes of Zeruiah, Abishai, and Ioab, and Asahel."
+        },
+        {
+          "number": 17,
+          "text": "And Abigail bare Amasa: and the father of Amasa was Iether an Ishmeelite."
+        },
+        {
+          "number": 18,
+          "text": "And Caleb the sonne of Hezron begate Ierioth of Azubah his wife, and her sonnes are these, Iesher, and Shobab, and Ardon."
+        },
+        {
+          "number": 19,
+          "text": "And when Azubah was dead, Caleb tooke vnto him Ephrath, which bare him Hur."
+        },
+        {
+          "number": 20,
+          "text": "And Hur begate Vri, and Vri begate Bezaleel."
+        },
+        {
+          "number": 21,
+          "text": "And afterward came Hezron to the daughter of Machir the father of Gilead, and tooke her when hee was threescore yere olde, and shee bare him Segub."
+        },
+        {
+          "number": 22,
+          "text": "And Segub begate Iair, which had three and twentie cities in the land of Gilead."
+        },
+        {
+          "number": 23,
+          "text": "And Gesthur with Aram tooke the townes of Iair from them, and Kenath and the townes thereof, euen threescore cities. All these were the sonnes of Machir the father of Gilead."
+        },
+        {
+          "number": 24,
+          "text": "And after that Hezron was dead at Caleb Ephratah, then Abiah Hezrons wife bare him also Ashur the father of Tekoa."
+        },
+        {
+          "number": 25,
+          "text": "And ye sonnes of Ierahmeel the eldest sone of Hezron were Ram the eldest, then Bunah, and Oren and Ozen and Ahiiah."
+        },
+        {
+          "number": 26,
+          "text": "Also Ierahmeel had another wife named Atarah, which was the mother of Onam."
+        },
+        {
+          "number": 27,
+          "text": "And the sonnes of Ram the eldest sonne of Ierahmeel were Maaz, and Iamin and Ekar."
+        },
+        {
+          "number": 28,
+          "text": "And the sonnes of Onam were Shammai and Iada. And the sonnes of Shammai, Nadab and Abishur."
+        },
+        {
+          "number": 29,
+          "text": "And the name of the wife of Abishur was called Abiahil, and shee bare him Ahban and Molid."
+        },
+        {
+          "number": 30,
+          "text": "The sonnes also of Nadab were Seled and Appaim: but Seled died without children."
+        },
+        {
+          "number": 31,
+          "text": "And the sonne of Appaim was Ishi, and the sonne of Ishi, Sheshan, and the sonne of Sheshan, Ahlai."
+        },
+        {
+          "number": 32,
+          "text": "And the sonnes of Iada the brother of Shammai were Iether and Ionathan: but Iether dyed without children."
+        },
+        {
+          "number": 33,
+          "text": "And the sonnes of Ionathan were Peleth and Zaza. These were the sonnes of Ierahmeel."
+        },
+        {
+          "number": 34,
+          "text": "And Sheshan had no sonnes, but daughters. And Sheshan had a seruant that was an Egyptian named Iarha."
+        },
+        {
+          "number": 35,
+          "text": "And Sheshan gaue his daughter to Iarha his seruant to wife, and she bare him Attai."
+        },
+        {
+          "number": 36,
+          "text": "And Attai begate Nathan, and Nathan begate Zabad,"
+        },
+        {
+          "number": 37,
+          "text": "And Zabad begate Ephlal, and Ephlal begate Obed,"
+        },
+        {
+          "number": 38,
+          "text": "And Obed begate Iehu, and Iehu begate Azariah,"
+        },
+        {
+          "number": 39,
+          "text": "And Azariah begate Helez, and Helez begate Eleasah,"
+        },
+        {
+          "number": 40,
+          "text": "And Eleasah begate Sisamai, and Sisamai begate Shallum,"
+        },
+        {
+          "number": 41,
+          "text": "And Shallum begate Iekamiah, and Iekamiah begate Elishama."
+        },
+        {
+          "number": 42,
+          "text": "Also the sonnes of Caleb the brother of Ierahmeel, were Mesha his eldest sonne, which was the father of Ziph: and the sonnes of Mareshah the father of Hebron."
+        },
+        {
+          "number": 43,
+          "text": "And the sonnes of Hebron were Korah and Tappuah, and Rekem and Shema."
+        },
+        {
+          "number": 44,
+          "text": "And Shema begate Raham the father of Iorkoam: and Rekem begate Shammai."
+        },
+        {
+          "number": 45,
+          "text": "The sonne also of Shammai was Maon: and Maon was the father of Beth-zur."
+        },
+        {
+          "number": 46,
+          "text": "And Ephah a concubine of Caleb bare Haran and Moza, and Gazez: Haran also begate Gazez."
+        },
+        {
+          "number": 47,
+          "text": "The sonnes of Iahdai were Regem, and Iotham, and Geshan, and Pelet, and Ephah, and Shaaph."
+        },
+        {
+          "number": 48,
+          "text": "Calebs concubine Maachah bare Sheber and Tirhanah."
+        },
+        {
+          "number": 49,
+          "text": "She bare also Shaaph, the father of Madmannah, and Sheua the father of Machbenah, and the father of Gibea. And Achsah was Calebs daughter."
+        },
+        {
+          "number": 50,
+          "text": "These were the sonnes of Caleb the sone of Hur the eldest sonne of Ephrathah, Shobal the father of Kiriath-iearim."
+        },
+        {
+          "number": 51,
+          "text": "Salma the father of Beth-lehem, and Hareph the father of Beth-gader."
+        },
+        {
+          "number": 52,
+          "text": "And Shobal the father of Kiriath-iearim had sonnes, and he was the ouerseer of halfe Hammenoth."
+        },
+        {
+          "number": 53,
+          "text": "And the families of Kiriath-iearim were the Ithrites, and the Puthites, and the Shumathites, and ye Mishraites of them came the Zarreathites, and the Eshtaulites."
+        },
+        {
+          "number": 54,
+          "text": "The sonnes of Salma of Beth-lehem, and the Netophathite, the crownes of the house of Ioab, and halfe the Manahthites and the Zorites."
+        },
+        {
+          "number": 55,
+          "text": "And the families of the Scribes dwelling at Iabez, the Tirathites, the Shimmeathites, the Shuchathites, which are the Kenites, that came of Hammath the father of the house of Rechab."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These also were the sonnes of Dauid which were borne vnto him in Hebron: the eldest Amnon of Ahinoam, the Izraelitesse: the seconde Daniel of Abigail the Carmelitesse:"
+        },
+        {
+          "number": 2,
+          "text": "The third Absalom the sonne of Maachah daughter of Talmai King of Geshur: the fourth Adoniiah the sonne of Haggith:"
+        },
+        {
+          "number": 3,
+          "text": "The fift Shepatiah of Abital: ye sixt Ithream by Eglah his wife."
+        },
+        {
+          "number": 4,
+          "text": "These sixe were borne vnto him in Hebron: and there hee reigned seuen yeere and sixe moneths: and in Ierusalem he reigned three and thirtie yeere."
+        },
+        {
+          "number": 5,
+          "text": "And these foure were borne vnto him in Ierusalem, Shimea, and Shobab, and Nathan, and Salomon of Bathshua the daughter of Ammiel:"
+        },
+        {
+          "number": 6,
+          "text": "Ibhar also, and Elishama, and Eliphalet,"
+        },
+        {
+          "number": 7,
+          "text": "And Nogah, and Nepheg, and Iaphia,"
+        },
+        {
+          "number": 8,
+          "text": "And Elishama, and Eliada, and Eliphelet, nine in nomber."
+        },
+        {
+          "number": 9,
+          "text": "These are all the sonnes of Dauid, besides the sonnes of the concubines, and Thamar their sister."
+        },
+        {
+          "number": 10,
+          "text": "And Salomons sonne was Rehoboam, whose sonne was Abiah, and Asa his sonne, and Iehoshaphat his sonne,"
+        },
+        {
+          "number": 11,
+          "text": "And Ioram his sonne, and Ahaziah his sonne, and Ioash his sonne,"
+        },
+        {
+          "number": 12,
+          "text": "And Amaziah his sonne, and Azariah his sonne, and Iotham his sonne,"
+        },
+        {
+          "number": 13,
+          "text": "And Ahaz his sonne, and Hezekiah his sonne, and Manasseh his sonne,"
+        },
+        {
+          "number": 14,
+          "text": "And Amon his sonne, and Iosiah his sonne."
+        },
+        {
+          "number": 15,
+          "text": "And of the sonnes of Iosiah, the eldest was Iohanan, the second Iehoiakim, the thirde Zedekiah, and the fourth Shallum."
+        },
+        {
+          "number": 16,
+          "text": "And the sonnes of Iehoiakim were Ieconiah his sonne, and Zedekiah his sonne."
+        },
+        {
+          "number": 17,
+          "text": "And the sonnes of Ieconiah, Assir and Shealtiel his sonne:"
+        },
+        {
+          "number": 18,
+          "text": "Malchiram also and Pedaiah, and Shenazar, Iecamiah, Hoshama, and Nedabiah."
+        },
+        {
+          "number": 19,
+          "text": "And the sonnes of Pedaiah were Zerubbabel, and Shimei: and the sonnes of Zerubbabel were Meshullam, and Hananiah, and Shelomith their sister,"
+        },
+        {
+          "number": 20,
+          "text": "And Hashubah, and Ohel, and Berechiah, and Hazadiah, and Iushabheshed, fiue in nomber."
+        },
+        {
+          "number": 21,
+          "text": "And the sonnes of Hananiah were Pelatiah, and Iesaiah: the sonnes of Rephaiah, the sonnes of Arnan, the sonnes of Obadiah, the sonnes of Shechaniah."
+        },
+        {
+          "number": 22,
+          "text": "And the sonne of Shechaniah was Shemaiah: and the sonnes of Shemaiah were Hattush and Igeal, and Bariah, and Neariah, and Shaphat, sixe."
+        },
+        {
+          "number": 23,
+          "text": "And the sonnes of Neariah were Elioenai, and Hezekiiah, and Azrikam, three."
+        },
+        {
+          "number": 24,
+          "text": "And the sonnes of Elioenai were Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Iohanan, and Delaiah, and Anani, seuen."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The sonnes of Iudah were Pharez, Hezron, and Carmi, and Hur, and Shobal."
+        },
+        {
+          "number": 2,
+          "text": "And Reaiah the sonne of Shobal begat Iahath, and Iahath begate Ahumai, and Lahad: these are the families of the Zoreathites."
+        },
+        {
+          "number": 3,
+          "text": "And these were of the father of Etam, Izreel, and Ishma and Idbash: and the name of their sister was Hazelelponi."
+        },
+        {
+          "number": 4,
+          "text": "And Penuel was the father of Gedor, and Ezer the father of Hushah: these are the sonnes of Hur the eldest sonne of Ephratah, the father of Beth-lehem."
+        },
+        {
+          "number": 5,
+          "text": "But Asher the father of Tekoa had two wiues, Heleah, and Naarah."
+        },
+        {
+          "number": 6,
+          "text": "And Naarah bare him Ahuzam, and Hepher, and Temeni and Haashtari: these were the sonnes of Naarah."
+        },
+        {
+          "number": 7,
+          "text": "And the sonnes of Heleah were Zereth, Iezohar and Ethnan."
+        },
+        {
+          "number": 8,
+          "text": "Also Coz begate Anub, and Zobebah, and the families of Aharhel the sonne of Harum."
+        },
+        {
+          "number": 9,
+          "text": "But Iabez was more honourable then his brethren: and his mother called his name Iabez, saying, Because I bare him in sorowe."
+        },
+        {
+          "number": 10,
+          "text": "And Iabez called on the God of Israel, saying, If thou wilt blesse me in deede, and enlarge my coastes, and if thine hand be with me, and thou wilt cause me to be deliuered from euill, that I be not hurt. And God graunted the thing that he asked."
+        },
+        {
+          "number": 11,
+          "text": "And Chelub the brother of Shuah begate Mehir, which was the father of Eshton."
+        },
+        {
+          "number": 12,
+          "text": "And Eshton begate Beth-rapha, and Paseah, and Tehinnah the father of the citie of Nahash: these are the men of Rechah."
+        },
+        {
+          "number": 13,
+          "text": "And the sonnes of Kenaz were Othniel and Zeraiah, and the sonne of Othniel, Hathath."
+        },
+        {
+          "number": 14,
+          "text": "And Meonothai begate Ophrah. And Seraiah begate Ioab the father of the valley of craftesmen: for they were craftesmen."
+        },
+        {
+          "number": 15,
+          "text": "And the sonnes of Caleb the sonne of Iephunneh were Iru, Elah, and Naam. And the sonne of Elah was Kenaz."
+        },
+        {
+          "number": 16,
+          "text": "And the sonnes of Iehaleel were Ziph, and Ziphah, Tiria, and Asareel."
+        },
+        {
+          "number": 17,
+          "text": "And the sonnes of Ezrah were Iether and Mered, and Epher, and Ialon, and he begate Miriam, and Shammai, and Ishbah the father of Eshtemoa."
+        },
+        {
+          "number": 18,
+          "text": "Also his wife Iehudiiah bare Iered the father of Gedor, and Heber the father of Socho, and Iekuthiel the father of Zanoah: and these are the sonnes of Bithiah ye daughter of Pharaoh which Mered tooke."
+        },
+        {
+          "number": 19,
+          "text": "And the sonnes of the wife of Hodiah, the sister of Naham the father of Keilah were the Garmites, and Eshtemoa the Maachathite."
+        },
+        {
+          "number": 20,
+          "text": "And the sonnes of Shimon were Amnon and Rinnah, Ben-hanam and Tilon. And the sonnes of Ishi were Zoheth, and Benzoheth."
+        },
+        {
+          "number": 21,
+          "text": "The sonnes of Shelah, the sonne of Iudah were Er the father of Lecah, and Laadah the father of Mareshah, and the families of the householdes of them that wrought fine linnen in the house of Ashbea."
+        },
+        {
+          "number": 22,
+          "text": "And Iokim and the men of Chozeba and Ioash, and Saraph, which had the dominion in Moab, and Iashubi Lehem. These also are auncient things."
+        },
+        {
+          "number": 23,
+          "text": "These were potters, and dwelt among plants and hedges: there they dwelt with the king for his worke."
+        },
+        {
+          "number": 24,
+          "text": "The sonnes of Simeon were Nemuel, and Iamin, Iarib, Zerah, and Shaul,"
+        },
+        {
+          "number": 25,
+          "text": "Whose sonne was Shallum, and his sonne, Mibsam, and his sonne Mishma."
+        },
+        {
+          "number": 26,
+          "text": "And the sonnes of Mishma, Hamuel was his sonne, Zacchur his sonne, and Shimei his sonne."
+        },
+        {
+          "number": 27,
+          "text": "And Shimei had sixteene sonnes, and sixe daughters, but his brethren had not many children, neither was all their familie like to the children of Iudah in multitude."
+        },
+        {
+          "number": 28,
+          "text": "And they dwelt at Beer-sheba, and at Moladah, and at Hazar Shual,"
+        },
+        {
+          "number": 29,
+          "text": "And at Bilhah, and at Ezem, and at Tolad,"
+        },
+        {
+          "number": 30,
+          "text": "And at Bethuel, and at Hormah, and at Ziklag,"
+        },
+        {
+          "number": 31,
+          "text": "And at Beth-marcaboth, and at Hazar Susim, at Beth-birei, and at Shaaraim, these were their cities vnto the reigne of Dauid."
+        },
+        {
+          "number": 32,
+          "text": "And their townes were Etam, and Ain, Rimmon, and Tochen, and Ashan, fiue cities."
+        },
+        {
+          "number": 33,
+          "text": "And all their townes that were rounde about these cities vnto Baal, These are their habitations and the declaration of their genealogie,"
+        },
+        {
+          "number": 34,
+          "text": "And Meshobab, and Iamlech, and Ioshah the sonne of Amashiah,"
+        },
+        {
+          "number": 35,
+          "text": "And Ioel and Iehu the sonne of Ioshibiah, the sonne of Seraiah, the sonne of Asiel,"
+        },
+        {
+          "number": 36,
+          "text": "And Elionai, and Iaakobah, and Ieshohaiah, and Asaiah, and Adiel, and Iesimiel, and Benaiah,"
+        },
+        {
+          "number": 37,
+          "text": "And Ziza the sonne of Shiphei, the sonne of Allon, the sonne of Iedaiah, the sonne of Shimri, the sonne of Shemaiah."
+        },
+        {
+          "number": 38,
+          "text": "These were famous princes in their families, and increased greatly their fathers houses."
+        },
+        {
+          "number": 39,
+          "text": "And they went to the entring in of Gedor, euen vnto the East side of the valley, to seeke pasture for their sheepe."
+        },
+        {
+          "number": 40,
+          "text": "And they found fat pasture and good, and a wide land, both quiet and fruitfull: for they of Ham had dwelt there before."
+        },
+        {
+          "number": 41,
+          "text": "And these described by name, came in the dayes of Hezekiah king of Iudah, and smote their tents, and the inhabitants that were found there, and destroyed them vtterly vnto this day, and dwelt in their roume, because there was pasture there for their sheepe."
+        },
+        {
+          "number": 42,
+          "text": "And besides these, fiue hundreth men of the sonnes of Simeon went to mount Seir, and Pelatiah, and Neariah, and Rophaiah, and Vzziel the sonnes of Ishi were their captaines,"
+        },
+        {
+          "number": 43,
+          "text": "And they smote the rest of Amalek that had escaped, and they dwelt there vnto this day."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The sonnes also of Reuben the eldest sonne of Israel (for he was the eldest, but had defiled his fathers bed, therefore his birthright was giuen vnto the sonnes of Ioseph the sonne of Israel, so that the genealogie is not rekoned after his birthright."
+        },
+        {
+          "number": 2,
+          "text": "For Iudah preuailed aboue his brethren, and of him came the prince, but the birthright was Iosephs)"
+        },
+        {
+          "number": 3,
+          "text": "The sonnes of Reuben the eldest sonne of Israel, were Hanoch and Pallu, Hezron and Carmi."
+        },
+        {
+          "number": 4,
+          "text": "The sonnes of Ioel, Shemaiah his sonne, Gog his sonne, and Shimei his sonne,"
+        },
+        {
+          "number": 5,
+          "text": "Michah his sonne, Reaiah his sonne, and Baal his sonne,"
+        },
+        {
+          "number": 6,
+          "text": "Beerah his sonne: whom Tilgath Pilneeser King of Asshur caryed away: he was a prince of the Reubenites."
+        },
+        {
+          "number": 7,
+          "text": "And when his brethren in their families rekoned the genealogie of their generations, Ieiel and Zechariah were the chiefe,"
+        },
+        {
+          "number": 8,
+          "text": "And Bela the sonne of Azaz, the sonne of Shema, the sonne of Ioel, which dwelt in Aroer, euen vnto Nebo and Baal meon."
+        },
+        {
+          "number": 9,
+          "text": "Also Eastwarde he inhabited vnto the entring in of the wildernes from the riuer Perath for they had much cattel in the land of Gilead."
+        },
+        {
+          "number": 10,
+          "text": "And in the dayes of Saul they warred with the Hagarims, which fell by their hands: and they dwelt in their tentes in all the East partes of Gilead."
+        },
+        {
+          "number": 11,
+          "text": "And the children of Gad dwelt ouer against them in the land of Bashan, vnto Salchah."
+        },
+        {
+          "number": 12,
+          "text": "Ioel was the chiefest, and Shapham the second, but Iaanai and Shaphat were in Bashan."
+        },
+        {
+          "number": 13,
+          "text": "And their brethren of the house of their fathers were Michael, and Meshullam, and Sheba, and Sorai, and Iacan, and Zia and Eber, seuen."
+        },
+        {
+          "number": 14,
+          "text": "These are the childre of Abihail, the sonne of Huri, the sonne of Iaroah, the sonne of Gilead, the sonne of Michael, the sonne of Ieshishai, the sonne of Iahdo, the sonne of Buz."
+        },
+        {
+          "number": 15,
+          "text": "Ahi the sonne of Abdiel, the sonne of Guni was chiefe of the houshold of their fathers."
+        },
+        {
+          "number": 16,
+          "text": "And they dwelt in Gilead in Bashan, and in the townes thereof, and in all the suburbes of Sharon by their borders."
+        },
+        {
+          "number": 17,
+          "text": "All these were rekoned by genealogies in the dayes of Iotham King of Iudah, and in the dayes of Ieroboam King of Israel."
+        },
+        {
+          "number": 18,
+          "text": "The sonnes of Reuben and of Gad, and of halfe the tribe of Manasseh of those that were viliant men, able to beare shield, and sworde, and to draw a bowe, exercised in warre, were foure and fourtie thousand, seuen hundreth and three score, that went out to the warre."
+        },
+        {
+          "number": 19,
+          "text": "And they made warre with the Hagarims, with Ietur, and Naphish, and Nodab."
+        },
+        {
+          "number": 20,
+          "text": "And they were holpen against them, and the Hagarims were deliuered into their hande, and all that were with them: for they cryed to God in the battel, and he heard them, because they trusted in him."
+        },
+        {
+          "number": 21,
+          "text": "And they led away their cattel, euen their camels fiftie thousand, and two hundreth, and fiftie thousand sheepe, and two thousand asses, and of persons an hundreth thousand."
+        },
+        {
+          "number": 22,
+          "text": "For many fel downe wounded, because the warre was of God. And they dwelt in their steads vntill the captiuitie."
+        },
+        {
+          "number": 23,
+          "text": "And the children of the halfe tribe of Manasseh dwelt in the land, from Baashan vnto Baal Hermon, and Senir, and vnto mount Hermon: for they increased."
+        },
+        {
+          "number": 24,
+          "text": "And these were the heads of the housholds of their fathers, euen Epher and Ishi, and Eliel and Azriel, and Ieremiah, and Hodauiah, and Iahdiel, strong men, valiant and famous, heades of the housholdes of their fathers."
+        },
+        {
+          "number": 25,
+          "text": "But they transgressed against the God of their fathers, and went a whoring after the gods of the people of the lande, whome God had destroyed before them."
+        },
+        {
+          "number": 26,
+          "text": "And the God of Israel stirred vp the spirit of Pul king of Asshur, and the spirite of Tilgath Pilneeser king of Asshur, and he caryed them away: euen the Reubenites and the Gadites, and the halfe tribe of Manasseh, and brought them vnto Halah and Habor, and Hara, and to the riuer Gozan, vnto this day."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The sonnes of Leui were Gershon, Kohath, and Merari."
+        },
+        {
+          "number": 2,
+          "text": "And the sonnes of Kohath, Amram, Izhar, and Hebron, and Vzziel."
+        },
+        {
+          "number": 3,
+          "text": "And the children of Amram, Aaron, and Moses and Miriam. And the sonnes of Aaron, Nadab, and Abihu, and Eleazar, and Ithamar."
+        },
+        {
+          "number": 4,
+          "text": "Eleazar begate Phinehas. Phinehas begate Abishua,"
+        },
+        {
+          "number": 5,
+          "text": "And Abishua begate Bukki, and Bukki begate Vzzi,"
+        },
+        {
+          "number": 6,
+          "text": "And Vzzi begate Zerahiah, and Zerahiah begate Meraioth."
+        },
+        {
+          "number": 7,
+          "text": "Meraioth begate Amariah, and Amariah begate Ahitub,"
+        },
+        {
+          "number": 8,
+          "text": "And Ahitub begate Zadok, and Zadok begate Ahimaaz,"
+        },
+        {
+          "number": 9,
+          "text": "And Ahimaaz begate Azariah, and Azariah begate Iohanan,"
+        },
+        {
+          "number": 10,
+          "text": "And Iohanan begate Azariah (it was hee that was Priest in the house that Salomon built in Ierusalem)"
+        },
+        {
+          "number": 11,
+          "text": "And Azariah begate Amariah, and Amariah begate Ahitub,"
+        },
+        {
+          "number": 12,
+          "text": "And Ahitub begate Zadok, and Zadok begate Shallum,"
+        },
+        {
+          "number": 13,
+          "text": "And Shallum begate Hilkiah, and Hilkiah begate Azariah,"
+        },
+        {
+          "number": 14,
+          "text": "And Azariah begate Seraiah, and Seraiah begate Iehozadak,"
+        },
+        {
+          "number": 15,
+          "text": "And Iehozadak departed when the Lord caried away into captiuitie Iudah and Ierusalem by the hand of Nebuchad-nezzar."
+        },
+        {
+          "number": 16,
+          "text": "The sonnes of Leui were Gershom, Kohath and Merari."
+        },
+        {
+          "number": 17,
+          "text": "And these be the names of the sonnes of Gershom, Libni, and Shimei."
+        },
+        {
+          "number": 18,
+          "text": "And the sonnes of Kohath were Amram, and Izhar, and Hebron and Vzziel."
+        },
+        {
+          "number": 19,
+          "text": "The sonnes of Merari, Mahli and Mushi: and these are the families of Leui concerning their fathers."
+        },
+        {
+          "number": 20,
+          "text": "Of Gershom, Libni his sonne, Iahath his sonne, Zimmah his sonne,"
+        },
+        {
+          "number": 21,
+          "text": "Ioah his sonne, Iddo his sonne, Zerah his sonne, Ieaterai his sonne."
+        },
+        {
+          "number": 22,
+          "text": "The sonnes of Kohath, Aminadab his sonne, Korah his sonne, Assir his sonne,"
+        },
+        {
+          "number": 23,
+          "text": "Elkanah his sonne, and Ebiasaph his sonne, and Assir his sonne,"
+        },
+        {
+          "number": 24,
+          "text": "Tahath his sonne, Vriel his sonne, Vzziah his sonne, and Shaul his sonne,"
+        },
+        {
+          "number": 25,
+          "text": "And the sonnes of Elkanah, Amasai, and Ahimoth."
+        },
+        {
+          "number": 26,
+          "text": "Elkanah. the sonnes of Elkanah, Zophai his sonne, and Nahath his sonne,"
+        },
+        {
+          "number": 27,
+          "text": "Eliab his sonne, Ieroham his sonne, Elkanah his sonne,"
+        },
+        {
+          "number": 28,
+          "text": "And the sonnes of Shemuel, the eldest Vashni, then Abiah."
+        },
+        {
+          "number": 29,
+          "text": "The sonnes of Merari were Mahli, Libni his sonne, Shimei his sonne, Vzzah his sonne,"
+        },
+        {
+          "number": 30,
+          "text": "Shimea his sonne, Haggiah his sonne, Asaiah his sonne."
+        },
+        {
+          "number": 31,
+          "text": "And these be they whom Dauid set for to sing in the house of the Lord, after that the Arke had rest."
+        },
+        {
+          "number": 32,
+          "text": "And they ministred before the Tabernacle, euen the Tabernacle of the Congregation with singing, vntill Salomon had built ye house of the Lord in Ierusalem: then they continued in their office, according to their custome."
+        },
+        {
+          "number": 33,
+          "text": "And these ministred with their children: of the sonnes of Kohath, Heman a singer, the sonne of Ioel, the sonne of Shemuel,"
+        },
+        {
+          "number": 34,
+          "text": "The sonne of Elkanah, the sonne of Ieroham, the sonne of Eliel, the sonne of Toah,"
+        },
+        {
+          "number": 35,
+          "text": "The sonne of Zuph, the sonne of Elkanah, the sonne of Mahath, the sonne of Amasai,"
+        },
+        {
+          "number": 36,
+          "text": "The sonne of Elkanah, the sonne of Ioel, the sonne of Azariah, the sonne of Zephaniah,"
+        },
+        {
+          "number": 37,
+          "text": "The sonne of Tahath, the sonne of Assir, the sonne of Ebiasaph, the sonne of Korah,"
+        },
+        {
+          "number": 38,
+          "text": "The sonne of Izhar, the sonne of Kohath, the sonne of Leui, the sonne of Israel."
+        },
+        {
+          "number": 39,
+          "text": "And his brother Asaph stoode on his right hand: and Asaph was the sonne of Berechiah, the sonne of Shimea,"
+        },
+        {
+          "number": 40,
+          "text": "The sonne of Michael, the sonne of Baaseiah, the sonne of Malchiah,"
+        },
+        {
+          "number": 41,
+          "text": "The sonne of Ethni, the sonne of Zerah, the sonne of Adaiah,"
+        },
+        {
+          "number": 42,
+          "text": "The sonne of Ethan, the sonne of Zimmah, the sonne of Shimei,"
+        },
+        {
+          "number": 43,
+          "text": "The sonne of Iahath, the sonne of Gershom, the sonne of Leui."
+        },
+        {
+          "number": 44,
+          "text": "And their brethren the sonnes of Merari were on the left hand, euen Ethan the sonne of Kishi, the sonne of Abdi, the sonne of Malluch,"
+        },
+        {
+          "number": 45,
+          "text": "The sonne of Hashabiah, the sonne of Amaziah, the sonne of Hilkiah,"
+        },
+        {
+          "number": 46,
+          "text": "The sonne of Amzi, the sonne of Bani, the sonne of Shamer,"
+        },
+        {
+          "number": 47,
+          "text": "The sonne of Mahli, the sonne of Mushi, the sonne of Merari, the sonne of Leui."
+        },
+        {
+          "number": 48,
+          "text": "And their brethren the Leuites were appointed vnto all the seruice of the Tabernacle of the house of God,"
+        },
+        {
+          "number": 49,
+          "text": "But Aaron and his sonnes burnt incense vpon the altar of burnt offering, and on the altar of incense, for all that was to do in the most holy place, and to make an atonement for Israel, according to all that Moses the seruant of God had commanded."
+        },
+        {
+          "number": 50,
+          "text": "These are also the sonnes of Aaron, Eleazar his sonne, Phinehas his sonne, Abishua his sonne,"
+        },
+        {
+          "number": 51,
+          "text": "Bukki his sonne, Vzzi his sonne, Zerahiah his sonne,"
+        },
+        {
+          "number": 52,
+          "text": "Meraioth his sonne, Amariah his sonne, Ahitub his sonne,"
+        },
+        {
+          "number": 53,
+          "text": "Zadok his sonne, and Ahimaaz his sonne."
+        },
+        {
+          "number": 54,
+          "text": "And these are the dwelling places of them throughout their townes and coastes, euen of the sonnes of Aaron for the familie of the Kohathites, for the lot was theirs."
+        },
+        {
+          "number": 55,
+          "text": "So they gaue them Hebron in the lande of Iudah and the suburbes thereof rounde about it."
+        },
+        {
+          "number": 56,
+          "text": "But the fielde of the citie, and the villages thereof they gaue to Caleb the sonne of Iephunneh."
+        },
+        {
+          "number": 57,
+          "text": "And to the sonnes of Aaron they gaue the cities of Iudah for refuge, euen Hebron and Libna with their suburbes, and Iattir, and Eshtemoa with their suburbes,"
+        },
+        {
+          "number": 58,
+          "text": "And Hilen with her suburbes, and Debir with her suburbes,"
+        },
+        {
+          "number": 59,
+          "text": "And Ashan and her suburbes, and Bethshemesh and her suburbes:"
+        },
+        {
+          "number": 60,
+          "text": "And of the tribe of Beniamin, Geba and her suburbes, and Alemeth with her suburbes, and Anathoth with her suburbes: all their cities were thirteene cities by their families."
+        },
+        {
+          "number": 61,
+          "text": "And vnto the sonnes of Kohath the remnant of the familie of the tribe, euen of the halfe tribe of the halfe of Manasseh, by lot ten cities."
+        },
+        {
+          "number": 62,
+          "text": "And to the sonnes of Gershom according to their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteene cities."
+        },
+        {
+          "number": 63,
+          "text": "Vnto the sonnes of Merari according to their families out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, by lot twelue cities."
+        },
+        {
+          "number": 64,
+          "text": "Thus the children of Israel gaue to the Leuites cities with their suburbes."
+        },
+        {
+          "number": 65,
+          "text": "And they gaue by lot out of the tribe of the children of Iudah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Beniamin, these cities, which they called by their names."
+        },
+        {
+          "number": 66,
+          "text": "And they of the families of the sonnes of Kohath, had cities and their coastes out of the tribe of Ephraim."
+        },
+        {
+          "number": 67,
+          "text": "And they gaue vnto them cities of refuge, Shechem in mount Ephraim, and her suburbes, and Gezer and her suburbes,"
+        },
+        {
+          "number": 68,
+          "text": "Iokmeam also and her suburbes, and Bethhoron with her suburbes,"
+        },
+        {
+          "number": 69,
+          "text": "And Aialon and her suburbes, and Gath Rimmon and her suburbes,"
+        },
+        {
+          "number": 70,
+          "text": "And out of the halfe tribe of Manasseh, Aner and her suburbes, and Bileam and her suburbes, for the families of the remnant of the sonnes of Kohath."
+        },
+        {
+          "number": 71,
+          "text": "Vnto the sonnes of Gershom out of the familie of the halfe tribe of Manasseh, Golan in Bashan, and her suburbes, and Ashtaroth with her suburbes,"
+        },
+        {
+          "number": 72,
+          "text": "And out of the tribe of Issachar, Kedesh and her suburbes, Daberath and her suburbes,"
+        },
+        {
+          "number": 73,
+          "text": "Ramoth also and her suburbes, and Anem with her suburbes,"
+        },
+        {
+          "number": 74,
+          "text": "And out of the tribe of Asher, Mashal and her suburbes, and Abdon and her suburbes,"
+        },
+        {
+          "number": 75,
+          "text": "And Hukok and her suburbs, and Rehob and her suburbes,"
+        },
+        {
+          "number": 76,
+          "text": "And out of the tribe of Naphtali, Kedesh in Galilea and her suburbes, and Hammon and her suburbes, and Kiriathaim and her suburbes."
+        },
+        {
+          "number": 77,
+          "text": "Vnto the rest of the children of Merari were giuen out of ye tribe of Zebulun Rimmon and her suburbes, Tabor and her suburbes,"
+        },
+        {
+          "number": 78,
+          "text": "And on the other side Iorden by Iericho, euen on the Eastside of Iorden, out of the tribe of Reuben, Bezer in the wildernesse with her suburbes, and Iahzah with her suburbes,"
+        },
+        {
+          "number": 79,
+          "text": "And Kedemoth with her suburbes, and Mephaath with her suburbes,"
+        },
+        {
+          "number": 80,
+          "text": "And out of the tribe of Gad Ramoth in Gilead with her suburbes, and Mahanaim with her suburbes,"
+        },
+        {
+          "number": 81,
+          "text": "And Heshbon with her suburbes, and Iaazer with her suburbes."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And the sonnes of Issachar were Tola and Puah, Iashub, and Shimron, foure,"
+        },
+        {
+          "number": 2,
+          "text": "And the sonnes of Tola, Vzzi, and Rephaiah, and Ieriel, and Iahmai, and Iibsam, and Shemuel, heads in the housholdes of their fathers. Of Tola were valiant men of warre in their generations, whose nomber was in the dayes of Dauid two and twentie thousand, and sixe hundreth."
+        },
+        {
+          "number": 3,
+          "text": "And the sonne of Vzzi was Izrahaiah, and the sonnes of Izrahaiah, Michael, and Obadiah, and Ioel, and Isshiah, fiue men all princes."
+        },
+        {
+          "number": 4,
+          "text": "And with them in their generations after the houshold of their fathers were bandes of men of warre for battel, sixe and thirtie thousand: for they had many wiues and children."
+        },
+        {
+          "number": 5,
+          "text": "And their brethren among all the families of Issachar were valiant men of warre, rekoned in all by their genealogies foure score and seuen thousand."
+        },
+        {
+          "number": 6,
+          "text": "The sonnes of Beniamin were Bela, and Becher, and Iediael, three."
+        },
+        {
+          "number": 7,
+          "text": "And the sonnes of Bela, Ezbon, and Vzzi, and Vzziel, and Ierimoth, and Iri, fiue heads of the housholds of their fathers, valiant men of warre, and were rekoned by their genealogies, two and twentie thousand and thirtie and foure."
+        },
+        {
+          "number": 8,
+          "text": "And the sonnes of Becher, Zemirah, and Ioash, and Eliezer, and Elioenai, and Omri, and Ierimoth, and Abiah, and Anathoth, and Alameth: all these were the sonnes of Becher."
+        },
+        {
+          "number": 9,
+          "text": "And they were nombred by their genealogies according to their generations, and the chiefe of the houses of their fathers, valiant men of warre, twenty thousand and two hundreth."
+        },
+        {
+          "number": 10,
+          "text": "And the sonne of Iediael was Bilhan, and the sonnes of Bilhan, Ieush, and Beniamin, and Ehud, and Chenaanah, and Zethan, and Tharshish, and Ahishahar."
+        },
+        {
+          "number": 11,
+          "text": "All these were the sonnes of Iediael, chiefe of the fathers, valiant men of warre, seuenteene thousand and two hundreth, marching in battel aray to the warre."
+        },
+        {
+          "number": 12,
+          "text": "And Shuppim, and Huppim were ye sonnes of Ir, but Hushim was the sonne of another."
+        },
+        {
+          "number": 13,
+          "text": "The sonnes of Naphtali, Iahziel, and Guni, and Iezer, and Shallum of the sonnes of Bilhah."
+        },
+        {
+          "number": 14,
+          "text": "The sonne of Manasseh was Ashriel whom she bare vnto him, but his concubine of Aram bare Machir the father of Gilead."
+        },
+        {
+          "number": 15,
+          "text": "And Machir tooke to wife the sister of Huppim and Shuppim, and the name of their sister was Maachah. And the name of the second sonne was Zelophehad, and Zelophehad had daughters."
+        },
+        {
+          "number": 16,
+          "text": "And Maachah the wife of Machir bare a sonne, and called his name Peresh, and the name of his brother was Sheresh: and his sonnes were Vlam and Rakem."
+        },
+        {
+          "number": 17,
+          "text": "And the sonne of Vlam was Bedan. These were the sonnes of Gilead the sonne of Machir, the sonne of Manasseh."
+        },
+        {
+          "number": 18,
+          "text": "And his sister Molecheth bare Ishod, and Abiezer, and Mahalah."
+        },
+        {
+          "number": 19,
+          "text": "And the sonnes of Shemida were Ahian, and Shechem, and Likhi, and Aniam."
+        },
+        {
+          "number": 20,
+          "text": "The sonnes also of Ephraim were Shuthelah, and Bered his sonne, and Tahath his sonne, and his sonne Eladah, and Tahath his sonne,"
+        },
+        {
+          "number": 21,
+          "text": "And Zabad his sonne, and Shuthelah his sonne, and Ezer, and Elead: and the men of Gath that were borne in the land, slewe them, because they came downe to take away their cattel."
+        },
+        {
+          "number": 22,
+          "text": "Therefore Ephraim their father mourned many dayes, and his brethren came to comfort him."
+        },
+        {
+          "number": 23,
+          "text": "And when he went in to his wife, she conceiued, and bare him a sonne, and he called his name Beriah, because affliction was in his house."
+        },
+        {
+          "number": 24,
+          "text": "And his daughter was Sherah, which built Beth-horon the nether, and the vpper, and Vzzen Sheerah."
+        },
+        {
+          "number": 25,
+          "text": "And Rephah was his sonne, and Resheph, and Telah his sonne, and Tahan his sonne,"
+        },
+        {
+          "number": 26,
+          "text": "Laadan his sonne, Ammihud his sonne, Elishama his sonne,"
+        },
+        {
+          "number": 27,
+          "text": "Non his sonne, Iehoshua his sonne."
+        },
+        {
+          "number": 28,
+          "text": "And their possessions and their habitations were Beth-el, and the villages thereof, and Eastward Naaran, and Westwarde Gezer with the villages thereof, Shechem also and the villages thereof, vnto Azzah, and the villages thereof,"
+        },
+        {
+          "number": 29,
+          "text": "And by the places of the children of Manasseh, Beth-shean and her villages, Taanach and her villages, Megiddo and her villages, Dor and her villages. In those dwelt the children of Ioseph the sonne of Israel."
+        },
+        {
+          "number": 30,
+          "text": "The sonnes of Asher were Imnah, and Isuah, and Ishuai, and Beriah, and Serah their sister."
+        },
+        {
+          "number": 31,
+          "text": "And the sonnes of Beriah, Heber, and Malchiel, which is the father of Birzauith."
+        },
+        {
+          "number": 32,
+          "text": "And Heber begate Iaphlet, and Shomer, and Hotham, and Shuah their sister."
+        },
+        {
+          "number": 33,
+          "text": "And the sonnes of Iaphlet were Pasach, and Bimhal, and Ashuath: these were the children of Iaphlet."
+        },
+        {
+          "number": 34,
+          "text": "And the sonnes of Shamer, Ahi, and Rohgah, Iehubbah, and Aram."
+        },
+        {
+          "number": 35,
+          "text": "And the sonnes of his brother Helem were Zophah, and Iimna, and Shelesh and Amal."
+        },
+        {
+          "number": 36,
+          "text": "The sonnes of Zophah, Suah, and Harnepher, and Shual, and Beri, and Imrah,"
+        },
+        {
+          "number": 37,
+          "text": "Bezer and Hod, and Shamma, and Shilshah, and Ithran, and Beera."
+        },
+        {
+          "number": 38,
+          "text": "And the sonnes of Iether, Iephunneh, and Pispa and Ara."
+        },
+        {
+          "number": 39,
+          "text": "And the sonnes of Vlla, Harah, and Haniel, and Rizia."
+        },
+        {
+          "number": 40,
+          "text": "All these were the children of Asher, the heads of their fathers houses, noble men, valiant men of warre and chiefe princes, and they were rekoned by their genealogies for warre and for battell to the nomber of sixe and twentie thousand men."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Beniamin also begate Bela his eldest sonne, Ashbel the second, and Aharah the third,"
+        },
+        {
+          "number": 2,
+          "text": "Nohah the fourth, and Rapha the fift."
+        },
+        {
+          "number": 3,
+          "text": "And the sonnes of Bela were Addar, and Gera, and Abihud,"
+        },
+        {
+          "number": 4,
+          "text": "And Abishua, and Naaman and Ahoah,"
+        },
+        {
+          "number": 5,
+          "text": "And Gera, and Shephuphan, and Huram."
+        },
+        {
+          "number": 6,
+          "text": "And these are the sonnes of Ehud: these were the chiefe fathers of those that inhabited Geba: and they were caryed away captiues to Monahath,"
+        },
+        {
+          "number": 7,
+          "text": "And Naaman, and Ahiah, and Gera, he caryed them away captiues: and he begate Vzza, and Ahihud."
+        },
+        {
+          "number": 8,
+          "text": "And Shaharaim begate certaine in the coutrey of Moab, after he had sent away Hushim and Baara his wiues."
+        },
+        {
+          "number": 9,
+          "text": "He begate, I say, of Hodesh his wife, Iobab and Zibia, and Mesha, and Malcham,"
+        },
+        {
+          "number": 10,
+          "text": "And Ieuz and Shachia and Mirma: these were his sonnes, and chiefe fathers."
+        },
+        {
+          "number": 11,
+          "text": "And of Hushim he begat Ahitub and Elpaal."
+        },
+        {
+          "number": 12,
+          "text": "And the sonnes of Elpaal were Eber, and Misham and Shamed (which built Ono, and Lod, and the villages thereof)"
+        },
+        {
+          "number": 13,
+          "text": "And Beriah and Shema (which were the chiefe fathers among the inhabitants of Aialon: they draue away the inhabitants of Gath)"
+        },
+        {
+          "number": 14,
+          "text": "And Ahio, Shashak and Ierimoth,"
+        },
+        {
+          "number": 15,
+          "text": "And Sebadiah, and Arad, and Ader,"
+        },
+        {
+          "number": 16,
+          "text": "And Michael, and Ispah, and Ioha, the sonnes of Beriah,"
+        },
+        {
+          "number": 17,
+          "text": "And Zebadiah, and Meshullam, and Hizki, and Heber,"
+        },
+        {
+          "number": 18,
+          "text": "And Ishmerai and Izliah, and Iobab, the sonnes of Elpaal,"
+        },
+        {
+          "number": 19,
+          "text": "Iakim also, and Zichri, and Sabdi,"
+        },
+        {
+          "number": 20,
+          "text": "And Elienai, and Zillethai, and Eliel,"
+        },
+        {
+          "number": 21,
+          "text": "And Adaiah, and Beraiah, and Shimrah the sonnes of Shimei,"
+        },
+        {
+          "number": 22,
+          "text": "And Ishpan, and Eber, and Eliel,"
+        },
+        {
+          "number": 23,
+          "text": "And Abdon, and Zichri, and Hanan,"
+        },
+        {
+          "number": 24,
+          "text": "And Hananiah, and Elam, and Antothiiah,"
+        },
+        {
+          "number": 25,
+          "text": "Iphedeiah and Penuel ye sonnes of Shashak,"
+        },
+        {
+          "number": 26,
+          "text": "And Shamsherai, and Shehariah, and Athaliah,"
+        },
+        {
+          "number": 27,
+          "text": "And Iaareshiah, and Eliah, and Zichri, the sonnes of Ieroham."
+        },
+        {
+          "number": 28,
+          "text": "These were the chiefe fathers according to their generations, euen princes, which dwelt in Ierusalem."
+        },
+        {
+          "number": 29,
+          "text": "And at Gibeon dwelt the father of Gibeon, and the name of his wife was Maachah."
+        },
+        {
+          "number": 30,
+          "text": "And his eldest sonne was Abdon, then Zur, and Kish, and Baal, and Nadab,"
+        },
+        {
+          "number": 31,
+          "text": "And Gidor, and Ahio, and Zacher."
+        },
+        {
+          "number": 32,
+          "text": "And Mikloth begate Shimeah: these also dwelt with their brethren in Ierusalem, euen by their brethren."
+        },
+        {
+          "number": 33,
+          "text": "And Ner begate Kish, and Kish begat Saul, and Saul begate Ionathan, and Malchishua, and Abinadab, and Eshbaal."
+        },
+        {
+          "number": 34,
+          "text": "And the sonne of Ionathan was Merib-baal, and Merib-baal begate Micah."
+        },
+        {
+          "number": 35,
+          "text": "And the sonnes of Micah were Pithon, and Melech, and Tarea, and Ahaz."
+        },
+        {
+          "number": 36,
+          "text": "And Ahaz begate Iehoadah, and Iehoadah begate Alemeth, and Azmaueth, and Zimri, and Zimri begate Moza,"
+        },
+        {
+          "number": 37,
+          "text": "And Moza begate Bineah, whose sonne was Raphah, and his sonne Eleasah, and his sonne Azel."
+        },
+        {
+          "number": 38,
+          "text": "And Azel had sixe sonnes, whose names are these, Azrikam, Bocheru and Ishmael, and Sheariah, and Obadiah, and Hanan: all these were the sonnes of Azel."
+        },
+        {
+          "number": 39,
+          "text": "And the sonnes of Eshek his brother were Vlam his eldest sonne, Iehush the second, and Eliphelet the third."
+        },
+        {
+          "number": 40,
+          "text": "And the sonnes of Vlam were valiant men of warre which shot with the bow, and had many sonnes and nephewes, an hundreth and fiftie: all these were of the sonnes of Beniamin."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Thus all Israel were nombred by their genealogies: and beholde, they are written in the booke of the Kings of Israel and of Iudah, and they were caried away to Babel for their transgression."
+        },
+        {
+          "number": 2,
+          "text": "And the chiefe inhabitants that dwelt in their owne possessions, and in their owne cities, euen Israel the Priestes, the Leuites, and the Nethinims."
+        },
+        {
+          "number": 3,
+          "text": "And in Ierusalem dwelt of the children of Iudah, and of the children of Beniamin, and of the children of Ephraim, and Manasseh."
+        },
+        {
+          "number": 4,
+          "text": "Vthai the sonne of Amihud the sonne of Omri, the sonne of Imri, the sonne of Bani: of the children of Pharez, the sonne of Iudah."
+        },
+        {
+          "number": 5,
+          "text": "And of Shiloni, Asaiah the eldest, and his sonnes."
+        },
+        {
+          "number": 6,
+          "text": "And the sonnes of Zerah, Ieuel, and their brethren sixe hundreth and ninetie."
+        },
+        {
+          "number": 7,
+          "text": "And of the sonnes of Beniamin, Sallu the sonne of Meshullam, the sonne of Hodauiah, the sonne of Hasenuah,"
+        },
+        {
+          "number": 8,
+          "text": "And Ibneiah the sonne of Ieroham, and Elah the sonne of Vzzi, the sonne of Michri, and Meshullam the sonne of Shephatiah, the sonne of Reuel, the sonne of Ibniiah."
+        },
+        {
+          "number": 9,
+          "text": "And their brethren according to their generations nine hundreth, fiftie and sixe: all these men were chiefe fathers in the housholdes of their fathers."
+        },
+        {
+          "number": 10,
+          "text": "And of the Priestes, Iedaiah, and Iehoiarib, and Iachin,"
+        },
+        {
+          "number": 11,
+          "text": "And Azariah the sonne of Hilkiah, ye sonne of Meshullam, the sonne of Zadok, the sonne of Meraioth, the sonne of Ahitub the chiefe of the house of God,"
+        },
+        {
+          "number": 12,
+          "text": "And Adaiah the sonne of Ieroham, ye sonne of Pashur, the sonne of Malchiiah, and Maasai the sonne of Adiel, the sonne of Iahzerah, the sonne of Meshullam, the sonne of Meshillemith, the sonne of Immer."
+        },
+        {
+          "number": 13,
+          "text": "And their brethre the chiefe of the households of their fathers a thousand, seuen hundreth and three score valiant men, for the worke of the seruice of the house of God."
+        },
+        {
+          "number": 14,
+          "text": "And of the Leuites, Shemaiah the sonne of Hasshub, the sonne of Azrikam, the sonne of Hashabiah of the sonnes of Merari,"
+        },
+        {
+          "number": 15,
+          "text": "And Bakbakkar, Heresh and Galal, and Mattaniah the sonne of Micha, the sonne of Zichri, the sonne of Asaph,"
+        },
+        {
+          "number": 16,
+          "text": "And Obadiah the sonne of Shemaiah, the sonne of Galal, the sonne of Ieduthun, and Berechiah, the sonne of Asa, the sonne of Elkanah, that dwelt in the villages of the Netophathites."
+        },
+        {
+          "number": 17,
+          "text": "And the porters were Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chiefe."
+        },
+        {
+          "number": 18,
+          "text": "For they were porters to this time by companies of the children of Leui vnto the Kinges gate eastward."
+        },
+        {
+          "number": 19,
+          "text": "And Shallum the sonne of Kore the sonne of Ebiasaph the sonne of Korah, and his brethren the Korathites (of the house of their father) were ouer the worke, and office to keepe the gates of the Tabernacle: so their families were ouer the hoste of the Lord, keeping the entrie."
+        },
+        {
+          "number": 20,
+          "text": "And Phinehas ye sonne of Eleazar was their guide, and the Lord was with him."
+        },
+        {
+          "number": 21,
+          "text": "Zechariah the sonne of Meshelemiah was the porter of the doore of the Tabernacle of the Congregation."
+        },
+        {
+          "number": 22,
+          "text": "All these were chosen for porters of the gates, two hundreth and twelue, which were nombred according to their genealogies by their townes. Dauid established these and Samuel the Seer in their perpetuall office."
+        },
+        {
+          "number": 23,
+          "text": "So they and their children had the ouersight of the gates of the house of the Lord, euen of the house of the Tabernacle by wardes."
+        },
+        {
+          "number": 24,
+          "text": "The porters were in foure quarters Eastward, Westward, Northward and Southward."
+        },
+        {
+          "number": 25,
+          "text": "And their brethren, which were in their townes, came at seuen dayes from time to time with them."
+        },
+        {
+          "number": 26,
+          "text": "For these foure chiefe porters were in perpetuall office, and were of the Leuites and had charge of the chambers, and of the treasures in the house of God."
+        },
+        {
+          "number": 27,
+          "text": "And they lay rounde about the house of God, because the charge was theirs, and they caused it to be opened euery morning."
+        },
+        {
+          "number": 28,
+          "text": "And certaine of them had the rule of the ministring vessels: for they brought them in by tale, and brought them out by tale."
+        },
+        {
+          "number": 29,
+          "text": "Some of them also were appoynted ouer the instruments, and ouer all the vessels of the Sanctuarie, and of the floure, and the wine, and the oyle, and the incense, and the sweete odours."
+        },
+        {
+          "number": 30,
+          "text": "And certaine of the sonnes of the Priestes made oyntments of sweete odours."
+        },
+        {
+          "number": 31,
+          "text": "And Mattithiah one of the Leuites which was the eldest sonne of Shallum the Korhite, had the charge of the things that were made in the frying panne."
+        },
+        {
+          "number": 32,
+          "text": "And other of their brethren the sonnes of Kohath had the ouersight of the shewbread to prepare it euery Sabbath."
+        },
+        {
+          "number": 33,
+          "text": "And these are the singers, the chiefe fathers of the Leuites, which dwelt in the chambers, and had none other charge: for they had to do in that busines day and night:"
+        },
+        {
+          "number": 34,
+          "text": "These were the chiefe fathers of the Leuites according to their generations, and the principall which dwelt at Ierusalem."
+        },
+        {
+          "number": 35,
+          "text": "And in Gibeon dwelt ye father of Gibeon, Ieiel, and the name of his wife was Maachah."
+        },
+        {
+          "number": 36,
+          "text": "And his eldest sonne was Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,"
+        },
+        {
+          "number": 37,
+          "text": "And Gedor, and Ahio, and Zechariah, and Mikloth."
+        },
+        {
+          "number": 38,
+          "text": "And Mikloth begate Shimeam: they also dwelt with their brethren at Ierusalem, euen by their brethren."
+        },
+        {
+          "number": 39,
+          "text": "And Ner begate Kish, and Kish begate Saul, and Saul begate Ionathan and Malchishua, and Abinadab and Eshbaal."
+        },
+        {
+          "number": 40,
+          "text": "And the sonne of Ionathan was Merib-baal: and Merib-baal begate Micah."
+        },
+        {
+          "number": 41,
+          "text": "And the sonnes of Micah were Pithon, and Melech and Tahrea."
+        },
+        {
+          "number": 42,
+          "text": "And Ahaz begate Iarah, and Iarah begat Alemeth, and Azmaueth, and Zimri, and Zimri begate Moza."
+        },
+        {
+          "number": 43,
+          "text": "And Moza begate Binea, whose sonne was Rephaiah, and his sonne was Eleasah, and his sonne Azel."
+        },
+        {
+          "number": 44,
+          "text": "And Azel had sixe sonnes, whose names are these, Azrikam, Bocheru, and Ismael, and Sheariah, and Obadiah, and Hanan: these are the sonnes of Azel."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then the Philistims fought against Israel: and the men of Israel fled before the Philistims, and fell downe slaine in mount Gilboa."
+        },
+        {
+          "number": 2,
+          "text": "And the Philistims pursued after Saul and after his sonnes, and the Philistims smote Ionathan, and Abinadab, and Malchishua the sonnes of Saul."
+        },
+        {
+          "number": 3,
+          "text": "And the battel was sore against Saul; and the archers hit him, and he was wounded of the archers."
+        },
+        {
+          "number": 4,
+          "text": "Then sayde Saul to his armour bearer, Drawe out thy sworde, and thrust me thorowe therewith, lest these vncircumcised come and mocke at me: but his armour bearer would not, for he was sore afraid: therefore Saul tooke the sword and fell vpon it."
+        },
+        {
+          "number": 5,
+          "text": "And when his armour bearer saw that Saul was dead, he fell likewise vpon the sworde, and dyed."
+        },
+        {
+          "number": 6,
+          "text": "So Saul dyed and his three sonnes, and all his house, they dyed together."
+        },
+        {
+          "number": 7,
+          "text": "And when all the men of Israel that were in the valley, sawe how they fledde, and that Saul and his sonnes were dead, they forsooke their cities, and fled away, and the Philistims came, and dwelt in them."
+        },
+        {
+          "number": 8,
+          "text": "And on the morrowe when the Philistims came to spoyle them that were slaine, they found Saul and his sonnes lying in mount Gilboa."
+        },
+        {
+          "number": 9,
+          "text": "And when they had stript him, they tooke his head and his armour, and sent them into the land of the Philistims round about, to publish it vnto their idoles, and to the people."
+        },
+        {
+          "number": 10,
+          "text": "And they layd vp his armour in the house of their god, and set vp his head in the house of Dagon."
+        },
+        {
+          "number": 11,
+          "text": "When all they of Iabesh Gilead heard all that the Philistims had done to Saul,"
+        },
+        {
+          "number": 12,
+          "text": "Then they arose (all the valiant men) and tooke the body of Saul, and the bodies of his sonnes, and brought them to Iabesh, and buryed the bones of them vnder an oke in Iabesh, and fasted seuen dayes."
+        },
+        {
+          "number": 13,
+          "text": "So Saul dyed for his transgression, that he committed against the Lord, euen against the word of the Lord, which he kept not, and in that he sought and asked counsel of a familiar spirit,"
+        },
+        {
+          "number": 14,
+          "text": "And asked not of the Lord: therefore he slewe him, and turned the kingdome vnto Dauid the sonne of Ishai."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then all Israel gathered themselues to Dauid vnto Hebron, saying, Beholde, we are thy bones and thy flesh."
+        },
+        {
+          "number": 2,
+          "text": "And in time past, euen when Saul was King, thou leddest Israel out and in: and the Lord thy God sayde vnto thee, Thou shalt feede my people Israel, and thou shalt be captaine ouer my people Israel."
+        },
+        {
+          "number": 3,
+          "text": "So came all the Elders of Israel to the King to Hebron, and Dauid made a couenant with them in Hebron before the Lord. And they anoynted Dauid King ouer Israel, according to the word of the Lord by the hand of Samuel."
+        },
+        {
+          "number": 4,
+          "text": "And Dauid and all Israel went to Ierusalem, which is Iebus, where were the Iebusites, the inhabitants of the land."
+        },
+        {
+          "number": 5,
+          "text": "And the inhabitants of Iebus said to Dauid, Thou shalt not come in hither. Neuertheles Dauid tooke the towre of Zion, which is the city of Dauid."
+        },
+        {
+          "number": 6,
+          "text": "And Dauid sayd, Whosoeuer smiteth the Iebusites first, shalbe the chiefe and captaine. So Ioab the sonne of Zeruiah went first vp, and was captaine."
+        },
+        {
+          "number": 7,
+          "text": "And Dauid dwelt in the tower: therefore they called it the citie of Dauid."
+        },
+        {
+          "number": 8,
+          "text": "And he built the citie on euery side, from Millo euen round about, and Ioab repaired the rest of the citie."
+        },
+        {
+          "number": 9,
+          "text": "And Dauid prospered, and grewe: for the Lord of hostes was with him."
+        },
+        {
+          "number": 10,
+          "text": "These also are the chiefe of the valiant men that were with Dauid, and ioyned their force with him in his kingdome with al Israel, to make him King ouer Israel, according to the worde of the Lord."
+        },
+        {
+          "number": 11,
+          "text": "And this is the nomber of the valiant men whome Dauid had, Iashobeam the sonne of Hachmoni, the chiefe among thirtie: he lift vp his speare against three hundreth, whom he slewe at one time."
+        },
+        {
+          "number": 12,
+          "text": "And after him was Eleazar the sonne of Dodo the Ahohite, which was one of the three valiant men."
+        },
+        {
+          "number": 13,
+          "text": "He was with Dauid at Pas-dammim, and there the Philistims were gathered together to battel: and there was a parcell of ground full of barley, and the people fled before the Philistims."
+        },
+        {
+          "number": 14,
+          "text": "And they stood in the middes of the field, and saued it, and slewe the Philistims: so the Lord gaue a great victorie."
+        },
+        {
+          "number": 15,
+          "text": "And three of the thirtie captaines went to a rocke to Dauid, into the caue of Adullam. And the armie of the Philistims camped in the valley of Rephaim."
+        },
+        {
+          "number": 16,
+          "text": "And when Dauid was in the hold, the Philistims garison was at Beth-lehem."
+        },
+        {
+          "number": 17,
+          "text": "And Dauid longed, and said, Oh, that one would giue me to drinke of the water of the well of Beth-lehem that is at the gate."
+        },
+        {
+          "number": 18,
+          "text": "Then these three brake thorowe the hoste of the Philistims, and drewe water out of the well of Beth-lehem that was by the gate, and tooke it and brought it to Dauid: but Dauid would not drinke of it, but powred it for an oblation to the Lord,"
+        },
+        {
+          "number": 19,
+          "text": "And said, Let not my God suffer me to do this: should I drinke the blood of these mens liues? for they haue brought it with the ieopardie of their liues: therefore he would not drinke it: these things did these three mightie men."
+        },
+        {
+          "number": 20,
+          "text": "And Abishai the brother of Ioab, he was chiefe of the three, and he lift vp his speare against three hundreth, and slew them, and had the name among the three."
+        },
+        {
+          "number": 21,
+          "text": "Among the three he was more honourable then the two, and he was their captaine: but he attained not vnto the first three."
+        },
+        {
+          "number": 22,
+          "text": "Benaiah the sonne of Iehoiada (the sonne of a valiant man) which had done many actes, and was of Kabzeel, he slewe two strong men of Moab: he went downe also and slewe a lion in the middes of a pit in time of snowe."
+        },
+        {
+          "number": 23,
+          "text": "And he slewe an Egyptian, a man of great stature, euen fiue cubites long, and in the Egyptians hand was a speare like a weauers beame: and he went downe to him with a staffe, and plucked the speare out of the Egyptians hand, and slewe him with his owne speare."
+        },
+        {
+          "number": 24,
+          "text": "These things did Benaiah ye sonne of Iehoiada, and had the name among the three worthies."
+        },
+        {
+          "number": 25,
+          "text": "Behold, he was honourable among thirtie, but he attained not vnto the first three. And Dauid made him of his counsell."
+        },
+        {
+          "number": 26,
+          "text": "These also were valiant men of warre, Asahel the brother of Ioab, Elhanan the sonne of Dodo of Beth-lehem,"
+        },
+        {
+          "number": 27,
+          "text": "Shammoth the Harodite, Helez the Pelonite,"
+        },
+        {
+          "number": 28,
+          "text": "Ira the sonne of Ikkesh the Tekoite, Abiezer the Antothite,"
+        },
+        {
+          "number": 29,
+          "text": "Sibbecai the Husathite, Ilai the Ahohite,"
+        },
+        {
+          "number": 30,
+          "text": "Maharai the Netophathite, Heled ye sonne of Baanah the Netophathite,"
+        },
+        {
+          "number": 31,
+          "text": "Ithai the sonne of Ribai of Gibeah of the children of Beniamin, Benaiah the Pirathonite,"
+        },
+        {
+          "number": 32,
+          "text": "Hurai of the riuers of Gaash, Abiel the Arbathite,"
+        },
+        {
+          "number": 33,
+          "text": "Azmaueth the Baharumite, Elihaba the Shaalbonite,"
+        },
+        {
+          "number": 34,
+          "text": "The sonnes of Hashem the Gizonite, Ionathan the sonne of Shageh the Harite,"
+        },
+        {
+          "number": 35,
+          "text": "Ahiam the sonne of Sacar the Hararite, Eliphal the sonne of Vr,"
+        },
+        {
+          "number": 36,
+          "text": "Hepher the Mecherathite, Ahiiah the Pelonite,"
+        },
+        {
+          "number": 37,
+          "text": "Hezro the Carmelite, Naarai the sonne of Ezbai,"
+        },
+        {
+          "number": 38,
+          "text": "Ioel the brother of Nathan, Mibhar the sonne of Haggeri,"
+        },
+        {
+          "number": 39,
+          "text": "Zelek the Ammonite, Nahrai the Berothite, the armour bearer of Ioab, the sonne of Zeruiah,"
+        },
+        {
+          "number": 40,
+          "text": "Ira the Ithrite, Garib the Ithrite,"
+        },
+        {
+          "number": 41,
+          "text": "Vriah the Hittite, Zabad the sonne of Ahlai,"
+        },
+        {
+          "number": 42,
+          "text": "Adina the sonne of Shiza the Reubenite, a captaine of the Reubenites, and thirtie with him,"
+        },
+        {
+          "number": 43,
+          "text": "Hanan the sonne of Maachah, and Ioshaphat the Mithnite,"
+        },
+        {
+          "number": 44,
+          "text": "Vzia the Ashterathite, Shama and Ieiel the sonnes of Otham the Aroerite,"
+        },
+        {
+          "number": 45,
+          "text": "Iediael the sonne of Shimri, and Ioha his brother the Tizite,"
+        },
+        {
+          "number": 46,
+          "text": "Eliel the Mahauite, and Ieribai and Ioshauiah the sonnes of Elnaam, and Ithmah the Moabite,"
+        },
+        {
+          "number": 47,
+          "text": "Eliel and Obed, and Iaasiel the Mesobaite."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These also are they that came to Dauid to Ziklag, while he was yet kept close, because of Saul the sonne of Kish: and they were among the valiant and helpers of the battel."
+        },
+        {
+          "number": 2,
+          "text": "They were weaponed with bowes, and could vse the right and the left hand with stones and with arrowes and with bowes, and were of Sauls brethren, euen of Beniamin."
+        },
+        {
+          "number": 3,
+          "text": "The chiefe were Ahiezer, and Ioash the sonnes of Shemaah a Gibeathite, and Ieziel, and Pelet the sonnes of Asinaueth, Berachah and Iehu the Antothite,"
+        },
+        {
+          "number": 4,
+          "text": "And Ishmaiah the Gibeonite, a valiant man among thirtie, and aboue the thirtie, and Ieremiah, and Iehaziel, and Iohanan, and Ioshabad the Gederathite,"
+        },
+        {
+          "number": 5,
+          "text": "Eluzai, and Ierimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,"
+        },
+        {
+          "number": 6,
+          "text": "Elkanah, and Ishiah, and Azariel, and Ioezer, Iashobeam of Hakorehim,"
+        },
+        {
+          "number": 7,
+          "text": "And Ioelah, and Zebadiah, the sonnes of Ieroham of Gedor,"
+        },
+        {
+          "number": 8,
+          "text": "And of the Gadites there separated them selues some vnto Dauid into the holde of the wildernesse, valiant men of warre, and men of armes, and apt for battel, which coulde handle speare and shielde, and their faces were like the faces of lyons, and were like the roes in the mountaines in swiftnesse,"
+        },
+        {
+          "number": 9,
+          "text": "Ezer the chiefe, Obadiah the second, Eliab the third,"
+        },
+        {
+          "number": 10,
+          "text": "Mishmanah the fourth, Ieremiah the fift,"
+        },
+        {
+          "number": 11,
+          "text": "Attai the sixt, Eliel the seuenth,"
+        },
+        {
+          "number": 12,
+          "text": "Iohanan the eight, Elzabad the ninth,"
+        },
+        {
+          "number": 13,
+          "text": "Ieremiah the tenth, Macbannai the eleuenth."
+        },
+        {
+          "number": 14,
+          "text": "These were the sonnes of Gad, captaines of the hoste: one of the least could resist an hundreth, and the greatest a thousand."
+        },
+        {
+          "number": 15,
+          "text": "These are they that went ouer Iorden in the first moneth when he had filled ouer all his bankes, and put to flight all them of the valley, toward the East and the West."
+        },
+        {
+          "number": 16,
+          "text": "And there came of the children of Beniamin, and Iudah to the hold vnto Dauid,"
+        },
+        {
+          "number": 17,
+          "text": "And Dauid went out to meete them, and answered and sayde vnto them, If yee be come peaceably vnto me to helpe me, mine heart shall be knit vnto you, but if you come to betray me to mine aduersaries, seeing there is no wickednes in mine handes, the God of our fathers beholde it, and rebuke it."
+        },
+        {
+          "number": 18,
+          "text": "And the spirit came vpon Amasai, which was the chiefe of thirtie, and he said, Thine are we, Dauid, and with thee, O sonne of Ishai. Peace, peace be vnto thee, and peace be vnto thine helpers: for thy God helpeth thee. Then Dauid receiued them, and made them captaines of the garison."
+        },
+        {
+          "number": 19,
+          "text": "And of Manasseh some fell to Dauid, when he came with the Philistims against Saul to battell, but they helped them not: for the Princes of the Philistims by aduisement sent him away, saying, He will fall to his master Saul for our heads."
+        },
+        {
+          "number": 20,
+          "text": "As he went to Ziklag, there fell to him of Manasseh, Adnah, and Iozabad, and Iediael, and Michael, and Iozabad, and Elihu, and Ziltai, heads of the thousands that were of Manasseh."
+        },
+        {
+          "number": 21,
+          "text": "And they helped Dauid against that bad: for they were all valiant men and were captaines in the hoste."
+        },
+        {
+          "number": 22,
+          "text": "For at that time day by day there came to Dauid to helpe him, vntill it was a great hoste, like the hoste of God."
+        },
+        {
+          "number": 23,
+          "text": "And these are the nombers of the captaines that were armed to battell, and came to Dauid to Hebron to turne the kingdome of Saul to him, according to the worde of the Lord."
+        },
+        {
+          "number": 24,
+          "text": "The children of Iudah that bare shield and speare, were sixe thousand and eight hundreth armed to the warre."
+        },
+        {
+          "number": 25,
+          "text": "Of the children of Simeon valiant men of warre, seuen thousand and an hundreth."
+        },
+        {
+          "number": 26,
+          "text": "Of the children of Leui foure thousande and sixe hundreth."
+        },
+        {
+          "number": 27,
+          "text": "And Iehoiada was the chiefe of them of Aaron: and with him three thousande and seuen hundreth."
+        },
+        {
+          "number": 28,
+          "text": "And Zadok a yong man very valiant, and of his fathers housholde came two and twentie captaines."
+        },
+        {
+          "number": 29,
+          "text": "And of the children of Beniamin the brethren of Saul three thousande: for a great part of them vnto that time kept the warde of the house of Saul."
+        },
+        {
+          "number": 30,
+          "text": "And of the children of Ephraim twentie thousande, and eight hundreth valiant men and famous men in the housholde of their fathers."
+        },
+        {
+          "number": 31,
+          "text": "And of the halfe tribe of Manasseh eighteene thousand, which were appointed by name to come and make Dauid King."
+        },
+        {
+          "number": 32,
+          "text": "And of the children of Issachar which were men that had vnderstanding of the times, to knowe what Israel ought to doe: the heades of them were two hundreth, and all their brethren were at their commandement."
+        },
+        {
+          "number": 33,
+          "text": "Of Zebulun that went out to battel, expert in warre, and in all instruments of warre, fiftie thousande which could set the battell in aray: they were not of a double heart."
+        },
+        {
+          "number": 34,
+          "text": "And of Naphtali a thousand captaines, and with them with shielde and speare seuen and thirtie thousande."
+        },
+        {
+          "number": 35,
+          "text": "And of Dan expert in battell, eyght and twentie thousande, and sixe hundreth."
+        },
+        {
+          "number": 36,
+          "text": "And of Asher that went out to the battell and were trained in the warres, fourtie thousand."
+        },
+        {
+          "number": 37,
+          "text": "And of the other side of Iorden of the Reubenites, and of the Gadites, and of the halfe tribe of Manasseh with all instruments of warre to fight with, an hundreth and twentie thousand."
+        },
+        {
+          "number": 38,
+          "text": "All these men of warre that coulde leade an armie, came with vpright heart to Hebron to make Dauid King ouer all Israel: and all the rest of Israel was of one accorde to make Dauid King:"
+        },
+        {
+          "number": 39,
+          "text": "And there they were with Dauid three dayes, eating and drinking: for their brethren had prepared for them."
+        },
+        {
+          "number": 40,
+          "text": "Moreouer they that were neere them vntill Issachar, and Zebulun, and Naphtali brought bread vpon asses, and on camels, and on mules, and on oxen, euen meate, floure, figges, and reisins, and wine and oyle, and beeues and sheepe abundantly: for there was ioy in Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And Dauid counselled with the captaines of thousandes and of hundreths, and with all the gouernours."
+        },
+        {
+          "number": 2,
+          "text": "And Dauid said to all the Congregation of Israel, If it seeme good to you, and that it proceedeth of the Lord our God, we will sende to and from vnto our brethren, that are left in all the lande of Israel (for with them are the Priests and the Leuites in the cities and their suburbes) that they may assemble them selues vnto vs."
+        },
+        {
+          "number": 3,
+          "text": "And we will bring againe the Arke of our God to vs: for we sought not vnto it in the dayes of Saul."
+        },
+        {
+          "number": 4,
+          "text": "And all the Congregation answered, Let vs doe so: for the thing seemed good in the eyes of all the people."
+        },
+        {
+          "number": 5,
+          "text": "So Dauid gathered all Israel together from Shihor in Egypt, euen vnto the entring of Hamath, to bring the Arke of God from Kiriath-iearim."
+        },
+        {
+          "number": 6,
+          "text": "And Dauid went vp and all Israel to Baalath, in Kiriath-iearim, that was in Iudah, to bring vp from thence the Arke of God the Lord that dwelleth betweene the Cherubims, where his Name is called on."
+        },
+        {
+          "number": 7,
+          "text": "And they caryed the Arke of God in a newe cart out of the house of Abinadab: and Vzza and Ahio guided the cart."
+        },
+        {
+          "number": 8,
+          "text": "And Dauid and all Israel played before God with all their might, both with songes and with harpes, and with violes, and with timbrels and with cymbales and with trumpets."
+        },
+        {
+          "number": 9,
+          "text": "And when they came vnto the thresshing floore of Chidon, Vzza put forth his hand to holde the Arke, for the oxen did shake it."
+        },
+        {
+          "number": 10,
+          "text": "But the wrath of the Lord was kindled against Vzza, and he smote him, because he layed his hande vpon the Arke: so he dyed there before God."
+        },
+        {
+          "number": 11,
+          "text": "And Dauid was angrie, because the Lord had made a breach in Vzza, and he called the name of that place Perez-vzza vnto this day."
+        },
+        {
+          "number": 12,
+          "text": "And Dauid feared God that day, saying, Howe shall I bring in to me the Arke of God?"
+        },
+        {
+          "number": 13,
+          "text": "Therefore Dauid brought not the Arke to him into the citie of Dauid, but caused it to turne into the house of Obed Edom the Gittite."
+        },
+        {
+          "number": 14,
+          "text": "So the Arke of God remained in the house of Obed Edom, euen in his house three moneths: and the Lord blessed the house of Obed Edom, and all that he had."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Then sent Hiram the King of Tyrus messengers to Dauid, and cedar trees, with masons and carpenters to builde him an house."
+        },
+        {
+          "number": 2,
+          "text": "Therefore Dauid knewe that the Lord had confirmed him King ouer Israel, and that his kingdome was lift vp on hie, because of his people Israel."
+        },
+        {
+          "number": 3,
+          "text": "Also Dauid tooke moe wiues at Ierusalem, and Dauid begate moe sonnes and daughters."
+        },
+        {
+          "number": 4,
+          "text": "And these are the names of the children which he had at Ierusalem, Shammua, and Shobab, Nathan, and Salomon,"
+        },
+        {
+          "number": 5,
+          "text": "And Ibhar, and Elishua, and Elpalet,"
+        },
+        {
+          "number": 6,
+          "text": "And Nogah, and Nepheg, and Iaphia,"
+        },
+        {
+          "number": 7,
+          "text": "And Elishama, and Beeliada, and Eliphalet."
+        },
+        {
+          "number": 8,
+          "text": "But when the Philistims heard that Dauid was anointed King ouer Israel, all the Philistims came vp to seeke Dauid. And when Dauid heard, he went out against them."
+        },
+        {
+          "number": 9,
+          "text": "And the Philistims came, and spred them selues in the valley of Rephaim."
+        },
+        {
+          "number": 10,
+          "text": "Then Dauid asked counsel at God, saying, Shall I goe vp against the Philistims, and wilt thou deliuer them into mine hande? And the Lord saide vnto him, Goe vp: for I will deliuer them into thine hande."
+        },
+        {
+          "number": 11,
+          "text": "So they came vp to Baal-perazim, and Dauid smote them there: and Dauid said, God hath deuided mine enemies with mine hande, as waters are deuided: therefore they called the name of that place, Baal-perazim."
+        },
+        {
+          "number": 12,
+          "text": "And there they had left their gods: and Dauid said, Let them euen be burnt with fire."
+        },
+        {
+          "number": 13,
+          "text": "Againe the Philistims came and spread them selues in the valley."
+        },
+        {
+          "number": 14,
+          "text": "And when Dauid asked againe counsell at God, God said to him, Thou shalt not goe vp after them, but turne away from them, that thou mayest come vpon them ouer against the mulberie trees."
+        },
+        {
+          "number": 15,
+          "text": "And when thou hearest the noyse of one going in the toppes of the mulberie trees, then goe out to battel: for God is gone foorth before thee, to smite the hoste of the Philistims."
+        },
+        {
+          "number": 16,
+          "text": "So Dauid did as God had commanded him: and they smote the hoste of the Philistims from Gibeon euen to Gezer."
+        },
+        {
+          "number": 17,
+          "text": "And the fame of Dauid went out into all landes, and the Lord brought the feare of him vpon all nations."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And Dauid made him houses in the citie of Dauid, and prepared a place for the Arke of God, and pitched for it a tent."
+        },
+        {
+          "number": 2,
+          "text": "Then Dauid saide, None ought to carie the Arke of God, but the Leuites: for the Lord hath chosen them to beare the Arke of the Lord, and to minister vnto him for euer."
+        },
+        {
+          "number": 3,
+          "text": "And Dauid gathered all Israel together to Ierusalem to bring vp the Arke of the Lord vnto his place, which he had ordeined for it."
+        },
+        {
+          "number": 4,
+          "text": "And Dauid assembled the sonnes of Aaron, and the Leuites."
+        },
+        {
+          "number": 5,
+          "text": "Of the sonnes of Kohath, Vriel the chiefe, and his brethren sixe score."
+        },
+        {
+          "number": 6,
+          "text": "Of the sonnes of Merari, Asaiah the chiefe, and his brethren two hundreth and twentie."
+        },
+        {
+          "number": 7,
+          "text": "Of the sonnes of Gershom, Ioel the chiefe, and his brethren an hundreth and thirtie."
+        },
+        {
+          "number": 8,
+          "text": "Of the sonnes of Elizaphan, Shemaiah the chiefe, and his brethren two hundreth."
+        },
+        {
+          "number": 9,
+          "text": "Of the sonnes of Hebron, Eliel the chiefe, and his brethren fourescore."
+        },
+        {
+          "number": 10,
+          "text": "Of the sonnes of Vzziel, Amminadab the chiefe, and his brethren an hundreth and twelue."
+        },
+        {
+          "number": 11,
+          "text": "And Dauid called Zadok and Abiathar the Priestes, and of the Leuites, Vriel, Asaiah and Ioel, Shemaiah, and Eliel, and Amminadab:"
+        },
+        {
+          "number": 12,
+          "text": "And he saide vnto them, Ye are the chiefe fathers of the Leuites: sanctifie your selues, and your brethren, and bring vp the Arke of the Lord God of Israel vnto the place that I haue prepared for it."
+        },
+        {
+          "number": 13,
+          "text": "For because ye were not there at the first, the Lord our God made a breach among vs: for we sought him not after due order."
+        },
+        {
+          "number": 14,
+          "text": "So the Priestes and the Leuites sanctified them selues to bring vp the Arke of the Lord God of Israel."
+        },
+        {
+          "number": 15,
+          "text": "And the sonnes of the Leuites bare the Arke of God vpon their shoulders with the barres, as Moses had commanded, according to the worde of the Lord."
+        },
+        {
+          "number": 16,
+          "text": "And Dauid spake to the chiefe of the Leuites, that they should appoint certaine of their brethren to sing with instruments of musike, with violes and harpes, and cymbales, that they might make a sounde, and lift vp their voyce with ioye."
+        },
+        {
+          "number": 17,
+          "text": "So the Leuites appointed Heman the sonne of Ioel, and of his brethren Asaph the sonne of Berechiah, and of the sonnes of Merari their brethren, Ethan the sonne of Kushaiah,"
+        },
+        {
+          "number": 18,
+          "text": "And with them their brethren in the seconde degree, Zechariah, Ben, and Iaaziel, and Shemiramoth, and Iehiel, and Vnni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneah, and Obed Edom, and Ieiel the porters."
+        },
+        {
+          "number": 19,
+          "text": "So Heman, Asaph and Ethan were fingers to make a sounde with cymbales of brasse,"
+        },
+        {
+          "number": 20,
+          "text": "And Zechariah, and Aziel, and Shemiramoth, and Iehiel, and Vnni, and Eliab, and Maaseiah, and Benaiah with violes on Alamoth,"
+        },
+        {
+          "number": 21,
+          "text": "And Mattithiah, and Elipheleh, and Mikneah, and Obed Edom, and Ieiel, and Azaziah, with harpes vpon Sheminith Ienazzeah."
+        },
+        {
+          "number": 22,
+          "text": "But Chenaniah the chiefe of the Leuites had the charge, bearing ye burden in the charge, for he was able to instruct."
+        },
+        {
+          "number": 23,
+          "text": "And Berechiah and Elkanah were porters for the Arke."
+        },
+        {
+          "number": 24,
+          "text": "And Shecaniah and Iehoshaphat and Nethaneel and Amasai, and Zechariah, and Benaiah, and Eliezer the Priestes did blowe with trumpets before the Arke of God, and Obed Edom and Ieiiah were porters for the Arke."
+        },
+        {
+          "number": 25,
+          "text": "So Dauid and the Elders of Israel and the captaines of thousandes went to bring vp the Arke of the couenant of the Lord from the house of Obed Edom with ioye."
+        },
+        {
+          "number": 26,
+          "text": "And because that God helped the Leuites that bare the Arke of the couenant of the Lord, they offered seuen bullockes and seuen rammes."
+        },
+        {
+          "number": 27,
+          "text": "And Dauid had on him a linen garment, as all the Leuites that bare the Arke, and the singers and Chenaniah that had the chiefe charge of the singers: and vpon Dauid was a linnen Ephod."
+        },
+        {
+          "number": 28,
+          "text": "Thus all Israel brought vp the Arke of the Lordes couenant with shouting and sounde of cornet, and with trumpets, and with cymbales, making a sound with violes and with harpes."
+        },
+        {
+          "number": 29,
+          "text": "And when the Arke of the couenant of the Lord came into the citie of Dauid, Michal the daughter of Saul looked out at a windowe, and sawe King Dauid dauncing and playing, and she despised him in her heart."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So they brought in the Arke of God, and set it in the middes of the Tabernacle that Dauid had pitched for it, and they offred burnt offrings and peace offrings before God."
+        },
+        {
+          "number": 2,
+          "text": "And when Dauid had made an ende of offering the burnt offering and the peace offerings, hee blessed the people in the Name of the Lord."
+        },
+        {
+          "number": 3,
+          "text": "And he dealt to euery one of Israel both man and woman, to euery one a cake of breade, and a piece of flesh, and a bottel of wine."
+        },
+        {
+          "number": 4,
+          "text": "And he appointed certaine of the Leuites to minister before the Arke of the Lord, and to rehearse and to thanke and prayse the Lord God of Israel:"
+        },
+        {
+          "number": 5,
+          "text": "Asaph the chiefe, and next to him Zechariah, Ieiel, and Shemiramoth, and Iehiel, and Mattithiah, and Eliab, and Benaiah, and Obed Edom, euen Ieiel with instruments, violes and harpes, and Asaph to make a sound with cymbales,"
+        },
+        {
+          "number": 6,
+          "text": "And Benaiah and Iahaziel Priestes, with trumpets continually before the Arke of the couenant of God."
+        },
+        {
+          "number": 7,
+          "text": "Then at that time Dauid did appoint at the beginning to giue thankes to the Lord by the hand of Asaph and his brethren."
+        },
+        {
+          "number": 8,
+          "text": "Praise the Lord and call vpon his Name: declare his workes among the people."
+        },
+        {
+          "number": 9,
+          "text": "Sing vnto him, sing praise vnto him, and talke of all his wonderfull workes."
+        },
+        {
+          "number": 10,
+          "text": "Reioyce in his holy Name: let the hearts of them that seeke the Lord reioyce."
+        },
+        {
+          "number": 11,
+          "text": "Seeke the Lord and his strength: seeke his face continually."
+        },
+        {
+          "number": 12,
+          "text": "Remember his marueilous workes that he hath done, his wonders, and the iudgements of his mouth,"
+        },
+        {
+          "number": 13,
+          "text": "O seede of Israel his seruant, O the children of Iaakob his chosen."
+        },
+        {
+          "number": 14,
+          "text": "He is the Lord our God: his iudgements are throughout all the earth."
+        },
+        {
+          "number": 15,
+          "text": "Remember his couenant for euer, and the worde, which hee commanded to a thousand generations:"
+        },
+        {
+          "number": 16,
+          "text": "Which he made with Abraham, and his othe to Izhak:"
+        },
+        {
+          "number": 17,
+          "text": "And hath confirmed it to Iaakob for a Law, and to Israel for an euerlasting couenant,"
+        },
+        {
+          "number": 18,
+          "text": "Saying, To thee will I giue the land of Canaan, the lot of your inheritance."
+        },
+        {
+          "number": 19,
+          "text": "When ye were fewe in number, yea, a very fewe, and strangers therein,"
+        },
+        {
+          "number": 20,
+          "text": "And walked about from nation to nation, and from one kingdome to another people,"
+        },
+        {
+          "number": 21,
+          "text": "He suffered no man to do them wrong, but rebuked Kings for their sakes, saying,"
+        },
+        {
+          "number": 22,
+          "text": "Touch not mine anoynted, and doe my Prophets no harme."
+        },
+        {
+          "number": 23,
+          "text": "Sing vnto the Lord all the earth: declare his saluation from day to day."
+        },
+        {
+          "number": 24,
+          "text": "Declare his glory among the nations, and his wonderful workes among all people."
+        },
+        {
+          "number": 25,
+          "text": "For the Lord is great and much to be praised, and hee is to bee feared aboue all gods."
+        },
+        {
+          "number": 26,
+          "text": "For all the gods of the people are idoles, but the Lord made the heauens."
+        },
+        {
+          "number": 27,
+          "text": "Prayse and glory are before him: power and beautie are in his place."
+        },
+        {
+          "number": 28,
+          "text": "Giue vnto the Lord, ye families of the people: giue vnto the Lord glory and power."
+        },
+        {
+          "number": 29,
+          "text": "Giue vnto the Lord ye glory of his Name: bring an offring and come before him, and worship the Lord in the glorious Sanctuarie."
+        },
+        {
+          "number": 30,
+          "text": "Tremble ye before him, al the earth: surely the world shalbe stable and not moue."
+        },
+        {
+          "number": 31,
+          "text": "Let the heauens reioyce, and let the earth be glad, and let them say among the nations, The Lord reigneth."
+        },
+        {
+          "number": 32,
+          "text": "Let the sea roare, and all that therein is: Let the field be ioyfull and all that is in it."
+        },
+        {
+          "number": 33,
+          "text": "Let the trees of the wood then reioyce at the presence of the Lord: for he commeth to iudge the earth."
+        },
+        {
+          "number": 34,
+          "text": "Prayse the Lord, for hee is good, for his mercie endureth for euer."
+        },
+        {
+          "number": 35,
+          "text": "And say ye, Saue vs, O God, our saluation, and gather vs, and deliuer vs from the heathen, that we may prayse thine holy Name, and glorie in thy praise."
+        },
+        {
+          "number": 36,
+          "text": "Blessed be the Lord God of Israel for euer and euer: and let all people say, So be it, and praise the Lord."
+        },
+        {
+          "number": 37,
+          "text": "Then he left there before the Arke of the Lordes couenant Asaph and his brethren to minister continually before the Arke, that which was to be done euery day:"
+        },
+        {
+          "number": 38,
+          "text": "And Obed Edom and his brethren, three score and eight: and Obed Edom the sonne of Ieduthun, and Hosah were porters."
+        },
+        {
+          "number": 39,
+          "text": "And Zadok the Priest and his brethren the Priestes were before the Tabernacle of ye Lord, in the hie place that was at Gibeon,"
+        },
+        {
+          "number": 40,
+          "text": "To offer burnt offrings vnto the Lord, vpon the burnt offring altar continually, in the morning and in the euening, euen according vnto all that is written in the law of the Lord, which hee commanded Israel."
+        },
+        {
+          "number": 41,
+          "text": "And with them were Heman, and Ieduthun, and the rest that were chosen (which were appointed by names) to praise the Lord, because his mercie endureth for euer."
+        },
+        {
+          "number": 42,
+          "text": "Euen with them were Heman and Ioduthun, to make a sound with the cornets and with the cymbales, with excellent instruments of musicke: and the sonnes of Ieduthun were at the gate."
+        },
+        {
+          "number": 43,
+          "text": "And all the people departed, euerie man to his house: and Dauid returned to blesse his house."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nowe afterward when Dauid dwelt in his house, he saide to Nathan the Prophet, Beholde, I dwell in an house of cedar trees, but the Arke of the Lordes couenant remaineth vnder curtaines."
+        },
+        {
+          "number": 2,
+          "text": "Then Nathan said to Dauid, Do all that is in thine heart: for God is with thee."
+        },
+        {
+          "number": 3,
+          "text": "And the same night euen the word of God came to Nathan, saying,"
+        },
+        {
+          "number": 4,
+          "text": "Goe, and tell Dauid my seruant, Thus saith the Lord, Thou shalt not buylde me an house to dwell in:"
+        },
+        {
+          "number": 5,
+          "text": "For I haue dwelt in no house, since the day that I brought out the childre of Israel vnto this daye, but I haue bene from tent to tent, and from habitation to habitation."
+        },
+        {
+          "number": 6,
+          "text": "Wheresoeuer I haue walked with all Israel spake I one word to any of the iudges of Israel (whome I commanded to feede my people) saying, Why haue ye not built mee an house of cedar trees?"
+        },
+        {
+          "number": 7,
+          "text": "Nowe therefore thus shalt thou say vnto my seruant Dauid, Thus saith the Lord of hostes, I tooke thee from the sheepecoat and from following the sheepe, that thou shouldest bee a prince ouer my people Israel."
+        },
+        {
+          "number": 8,
+          "text": "And I haue bene with thee whithersoeuer thou hast walked, and haue destroyed all thine enemies out of thy sight, and haue made thee a name, like the name of the great men that are in the earth."
+        },
+        {
+          "number": 9,
+          "text": "(Also I will appoynt a place for my people Israel, and will plant it, that they may dwell in their place, and moue no more: neither shall the wicked people vexe them any more, as at the beginning,"
+        },
+        {
+          "number": 10,
+          "text": "And since the time that I commanded iudges ouer my people Israel) And I wil subdue all thine enemies: therefore I say vnto thee, that the Lord wil buylde thee an house."
+        },
+        {
+          "number": 11,
+          "text": "And when thy dayes shalbe fulfilled to go with thy fathers, then will I rayse vp thy seede after thee, which shalbe of thy sonnes, and will stablish his kingdome."
+        },
+        {
+          "number": 12,
+          "text": "He shall builde me an house, and I will stablish his throne for euer."
+        },
+        {
+          "number": 13,
+          "text": "I wil be his father, and he shalbe my sonne, aud I will not take my mercie away from him, as I tooke it from him that was before thee."
+        },
+        {
+          "number": 14,
+          "text": "But I wil establish him in mine house, and in my kingdome for euer, and his throne shalbe stablished for euer,"
+        },
+        {
+          "number": 15,
+          "text": "According to all these wordes, and according to al this vision. So Nathan spake to Dauid."
+        },
+        {
+          "number": 16,
+          "text": "And Dauid the King went in and sate before the Lord and said, Who am I, O Lord God, and what is mine house, that thou hast brought me hitherto?"
+        },
+        {
+          "number": 17,
+          "text": "Yet thou esteeming this a small thing, O God, hast also spoken concerning the house of thy seruaut for a great while, and hast regarded me according to the estate of a man of hie degree, O Lord God."
+        },
+        {
+          "number": 18,
+          "text": "What can Dauid desire more of thee for the honour of thy seruant? for thou knowest thy seruant."
+        },
+        {
+          "number": 19,
+          "text": "O Lord, for thy seruantes sake, euen according to thine heart hast thou done all this great thing to declare all magnificence."
+        },
+        {
+          "number": 20,
+          "text": "Lord, there is none like thee, neither is there any God besides thee, according to all that we haue heard with our eares."
+        },
+        {
+          "number": 21,
+          "text": "Moreouer what one nation in the earth is like thy people Israel, whose God went to redeeme them to be his people, and to make thy selfe a Name, and to doe great and terrible things by casting out nations from before thy people, whom thou hast deliuered out of Egypt?"
+        },
+        {
+          "number": 22,
+          "text": "For thou hast ordeined thy people Israel to be thine owne people for euer, and thou Lord art become their God."
+        },
+        {
+          "number": 23,
+          "text": "Therefore nowe Lord, let the thing that thou hast spoken concerning thy seruant and concerning his house, be confirmed for euer, and doe as thou hast sayd,"
+        },
+        {
+          "number": 24,
+          "text": "And let thy name be stable and magnified for euer, that it may be sayd, The Lord of hostes, God of Israel, is the God of Israel, and let the house of Dauid thy seruant bee stablished before thee."
+        },
+        {
+          "number": 25,
+          "text": "For thou, O my God, hast reueiled vnto the eare of thy seruant, that thou wilt builde him an house: therefore thy seruant hath bene bolde to pray before thee."
+        },
+        {
+          "number": 26,
+          "text": "Therefore nowe Lord (for thou art God, and hast spoken this goodnesse vnto thy seruant)"
+        },
+        {
+          "number": 27,
+          "text": "Now therfore, it hath pleased thee to blesse the house of thy seruant, that it may bee before thee for euer: for thou, O Lord, hast blessed it, and it shalbe blessed for euer."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And after this Dauid smote the Philistims, and subdued them, and tooke Gath, and the villages thereof out of the hand of the Philistims."
+        },
+        {
+          "number": 2,
+          "text": "And he smote Moab, and the Moabites became Dauids seruants, and brought giftes."
+        },
+        {
+          "number": 3,
+          "text": "And Dauid smote Hadarezer King of Zobah vnto Hamath, as he went to stablish his border by the riuer Perath."
+        },
+        {
+          "number": 4,
+          "text": "And Dauid tooke from him a thousand charets, and seuen thousand horsemen, and twentie thousand footemen, and destroyed all the charets, but he reserued of them an hundreth charets."
+        },
+        {
+          "number": 5,
+          "text": "Then came the Aramites of Damascus to succour Hadarezer King of Zobah, but Dauid slewe of the Aramites two and twentie thousand."
+        },
+        {
+          "number": 6,
+          "text": "And Dauid put a garison in Aram of Damascus, and the Aramites became Dauids seruants, and brought giftes: and the Lord preserued Dauid wheresoeuer he went."
+        },
+        {
+          "number": 7,
+          "text": "And Dauid tooke the shieldes of gold that were of the seruants of Hadarezer, and brought them to Ierusalem."
+        },
+        {
+          "number": 8,
+          "text": "And from Tibhath, and from Chun (cities of Hadarezer) brought Dauid exceeding much brasse, wherewith Salomon made the brasen Sea, and the pillars and the vessels of brasse."
+        },
+        {
+          "number": 9,
+          "text": "Then Tou King of Hamath heard howe Dauid had smitten all the hoste of Hadarezer King of Zobah:"
+        },
+        {
+          "number": 10,
+          "text": "Therefore he sent Hadoram his sonne to King Dauid, to salute him, and to reioyce with him, because he had fought against Hadarezer, and beaten him (for Tou had warre with Hadarezer) who brought all vessels of golde and siluer and brasse."
+        },
+        {
+          "number": 11,
+          "text": "And King Dauid did dedicate them vnto the Lord, with the siluer and golde that hee brought from all the nations, from Edom, and from Moab, and from the children of Ammon, and from the Philistims, and from Amalek."
+        },
+        {
+          "number": 12,
+          "text": "And Abishai the sonne of Zeruiah smote of Edom in the salt valley eighteene thousand,"
+        },
+        {
+          "number": 13,
+          "text": "And he put a garison in Edom, and all the Edomites became Dauids seruantes: and the Lord preserued Dauid wheresoeuer he went."
+        },
+        {
+          "number": 14,
+          "text": "So Dauid reigned ouer all Israel, and executed iudgement and iustice to all his people."
+        },
+        {
+          "number": 15,
+          "text": "And Ioab the sonne of Zeruiah was ouer the hoste, and Iehoshaphat the sonne of Ahilud recorder,"
+        },
+        {
+          "number": 16,
+          "text": "And Zadok the sonne of Ahitub, and Abimelech the sonne of Abiathar were the Priests, and Shausha the Scribe,"
+        },
+        {
+          "number": 17,
+          "text": "And Benaiah the sonne of Iehoiada was ouer the Cherethites and the Pelethites: and the sonnes of Dauid were chiefe about the King."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "After this also Nahash the King of the children of Ammon dyed, and his sonne reigned in his stead."
+        },
+        {
+          "number": 2,
+          "text": "And Dauid said, I will shew kindnesse vnto Hanun the sonne of Nahash, because his father shewed kindnesse vnto me. And Dauid sent messengers to comfort him for his father. So the seruants of Dauid came into the lande of the children of Ammon to Hanun to comfort him."
+        },
+        {
+          "number": 3,
+          "text": "And the princes of the children of Ammon said to Hanun, Thinkest thou that Dauid doeth honour thy father, that he hath sent comforters vnto thee? Are not his seruants come to thee to search, to seeke and to spie out the land?"
+        },
+        {
+          "number": 4,
+          "text": "Wherefore Hanun tooke Dauids seruants, and shaued them, and cut off their garments by the halfe vnto the buttocks, and sent them away."
+        },
+        {
+          "number": 5,
+          "text": "And there went certaine and tolde Dauid concerning the men: and he sent to meete them (for the men were exceedingly ashamed) and the King saide, Tarie at Iericho, vntill your beardes be growen: then returne."
+        },
+        {
+          "number": 6,
+          "text": "When the children of Ammon saw that they stanke in the sight of Dauid, then sent Hanun and the children of Ammon a thousande talents of siluer to hire them charets and horsemen out of Aram Naharaim and out of Aram Maachah, and out of Zobah."
+        },
+        {
+          "number": 7,
+          "text": "And they hired them two and thirty thousande charets, and the King of Maachah and his people, which came and pitched before Medeba: and the children of Ammon gathered themselues together from their cities, and came to the battell."
+        },
+        {
+          "number": 8,
+          "text": "And when Dauid heard, he sent Ioab and all the hoste of the valiant men."
+        },
+        {
+          "number": 9,
+          "text": "And the children of Ammon came out, and set their battell in aray at the gate of the citie. And the Kings that were come, were by them selues in the fielde."
+        },
+        {
+          "number": 10,
+          "text": "When Ioab saw that the front of the battel was against him before and behinde, then he chose out of all the choyse of Israel, and set him selfe in aray to meete the Aramites."
+        },
+        {
+          "number": 11,
+          "text": "And the rest of the people he deliuered vnto the hande of Abishai his brother, and they put them selues in aray against the children of Ammon."
+        },
+        {
+          "number": 12,
+          "text": "And he saide, If Aram be too strong for me, then thou shalt succour me: and if the children of Ammon preuaile against thee, then I wil succour thee."
+        },
+        {
+          "number": 13,
+          "text": "Be strong, and let vs shewe our selues valiant for our people, and for the cities of our God, and let the Lord doe that which is good in his owne sight."
+        },
+        {
+          "number": 14,
+          "text": "So Ioab and the people that was with him, came neere before the Aramites vnto the battel, and they fled before him."
+        },
+        {
+          "number": 15,
+          "text": "And when the children of Ammon sawe that the Aramites fled, they fled also before Abishai his brother, and entred into the citie: so Ioab came to Ierusalem."
+        },
+        {
+          "number": 16,
+          "text": "And when the Aramites sawe that they were discomfited before Israel, they sent messengers and caused the Aramites to come forth that were beyond the riuer: and Shophach the captaine of the hoste of Hadarezer went before them."
+        },
+        {
+          "number": 17,
+          "text": "And when it was shewed Dauid, he gathered all Israel, and went ouer Iorden, and came vnto them, and put him selfe in aray against them: And when Dauid had put him selfe in battel aray to meete the Aramites, they fought with him."
+        },
+        {
+          "number": 18,
+          "text": "But the Aramites fled before Israel, and Dauid destroyed of the Aramites seuen thousand charets, and fourtie thousand footemen, and killed Shophach the captaine of the hoste."
+        },
+        {
+          "number": 19,
+          "text": "And when the seruants of Hadarezer sawe that they fell before Israel, they made peace with Dauid, and serued him. And the Aramites would no more succour the children of Ammon."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And when the yere was expired, in the time that Kings goe out a warfare, Ioab caryed out the strength of the armie, and destroyed the countrey of the children of Ammon, and came and besieged Rabbah (but Dauid taryed at Ierusalem) and Ioab smote Rabbah and destroyed it."
+        },
+        {
+          "number": 2,
+          "text": "Then Dauid tooke the crowne of their King from off his head, and founde it the weight of a talent of golde, with precious stones in it: and it was set on Dauids head, and he brought away the spoyle of the citie exceeding much."
+        },
+        {
+          "number": 3,
+          "text": "And he caryed away the people that were in it, and cut them with sawes, and with harowes of yron, and with axes: euen thus did Dauid with all the cities of the children of Ammon. Then Dauid and all the people came againe to Ierusalem."
+        },
+        {
+          "number": 4,
+          "text": "And after this also there arose warre at Gezer with the Philistims: then Sibbechai the Hushathite slewe Sippai, of the children of Haraphah, and they were subdued."
+        },
+        {
+          "number": 5,
+          "text": "And there was yet another battell with the Philistims: and Elhanan the sonne of Iair slewe Lahmi, the brother of Goliath the Gittite, whose spearestaffe was like a weauers beame."
+        },
+        {
+          "number": 6,
+          "text": "And yet againe there was a battel at Gath, where was a man of a great stature, and his fingers were by sixes, euen foure and twentie, and was also the sonne of Haraphah."
+        },
+        {
+          "number": 7,
+          "text": "And when he reuiled Israel, Iehonathan the sonne of Shimea Dauids brother did slay him."
+        },
+        {
+          "number": 8,
+          "text": "These were borne vnto Haraphah at Gath, and fell by the hand of Dauid: and by the hands of his seruants."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And Satan stoode vp against Israel, and prouoked Dauid to nomber Israel."
+        },
+        {
+          "number": 2,
+          "text": "Therefore Dauid said to Ioab, and to the rulers of the people, Go, and nomber Israel from Beer-sheba euen to Dan, and bring it to me, that I may knowe the nomber of them."
+        },
+        {
+          "number": 3,
+          "text": "And Ioab answered, The Lord increase his people an hundreth times so many as they be, O my lord the King: are they not all my lords seruats? wherefore doeth my lord require this thing? why should he be a cause of trespasse to Israel?"
+        },
+        {
+          "number": 4,
+          "text": "Neuerthelesse the Kings word preuailed against Ioab. And Ioab departed and went thorowe all Israel, and returned to Ierusalem."
+        },
+        {
+          "number": 5,
+          "text": "And Ioab gaue the nomber and summe of the people vnto Dauid: and all Israel were eleuen hundreth thousande men that drewe sword: and Iudah was foure hundreth and seuentie thousande men that drewe sword."
+        },
+        {
+          "number": 6,
+          "text": "But the Leuites and Beniamin counted he not among them: for the Kings worde was abominable to Ioab."
+        },
+        {
+          "number": 7,
+          "text": "And God was displeased with this thing: therefore he smote Israel."
+        },
+        {
+          "number": 8,
+          "text": "Then Dauid saide vnto God, I haue sinned greatly, because I haue done this thing: but now, I beseech thee, remooue the iniquitie of thy seruant: for I haue done very foolishly."
+        },
+        {
+          "number": 9,
+          "text": "And the Lord spake vnto Gad Dauids Seer, saying,"
+        },
+        {
+          "number": 10,
+          "text": "Goe and tell Dauid, saying, Thus saith the Lord, I offer thee three thinges: choose thee one of them, that I may doe it vnto thee."
+        },
+        {
+          "number": 11,
+          "text": "So Gad came to Dauid, and sayde vnto him, Thus saith the Lord, Take to thee"
+        },
+        {
+          "number": 12,
+          "text": "Either three yeeres famine, or three moneths to be destroyed before thine aduersaries, and the sworde of thine enemies to take thee, or els the sworde of the Lord and pestilence in the lande three dayes, that the Angel of the Lord may destroy throughout all the coastes of Israel: nowe therefore aduise thee, what word I shall bring againe to him that sent me."
+        },
+        {
+          "number": 13,
+          "text": "And Dauid said vnto Gad, I am in a wonderfull strait. let me nowe fall into the hande of the Lord: for his mercies are exceeding great, and let me not fall into the hande of man."
+        },
+        {
+          "number": 14,
+          "text": "So the Lord sent a pestilence in Israel, and there fell of Israel seuentie thousande men."
+        },
+        {
+          "number": 15,
+          "text": "And God sent the Angel into Ierusalem to destroy it. And as he was destroying, the Lord behelde, and repented of the euill and sayde to the Angel that destroyed, It is nowe ynough, let thine hande cease. Then the Angel of the Lord stoode by the thresshing floore of Ornan the Iebusite."
+        },
+        {
+          "number": 16,
+          "text": "And Dauid lift vp his eyes, and sawe the Angel of the Lord stande betweene the earth and the heauen with his sworde drawen in his hand, and stretched out towarde Ierusalem. Then Dauid and the Elders of Israel, which were clothed in sacke, fell vpon their faces."
+        },
+        {
+          "number": 17,
+          "text": "And Dauid said vnto God, Is it not I that commanded to nomber the people? It is euen I that haue sinned and haue committed euil, but these sheepe what haue they done? O Lord my God, I beseech thee, let thine hande be on me and on my fathers house, and not on thy people for their destruction."
+        },
+        {
+          "number": 18,
+          "text": "Then the Angel of the Lord commanded Gad to say to Dauid, that Dauid should goe vp, and set vp an altar vnto the Lord in the thresshing floore of Ornan the Iebusite."
+        },
+        {
+          "number": 19,
+          "text": "So Dauid went vp according to the saying of Gad, which he had spoken in the Name of the Lord."
+        },
+        {
+          "number": 20,
+          "text": "And Ornan turned about, and sawe the Angel, and his foure sonnes, that were with him, hid them selues, and Ornan thresshed wheat."
+        },
+        {
+          "number": 21,
+          "text": "And as Dauid came to Ornan, Ornan looked and sawe Dauid, and went out of the thresshing floore, and bowed himselfe to Dauid with his face to the grounde."
+        },
+        {
+          "number": 22,
+          "text": "And Dauid saide to Ornan, Giue me the place of thy thresshing floore, that I may builde an altar therein vnto the Lord: giue it me for sufficient money, that the plague may be stayed from the people."
+        },
+        {
+          "number": 23,
+          "text": "Then Ornan saide vnto Dauid, Take it to thee, and let my lord the King do that which seemeth him good: loe, I giue thee bullockes for burnt offrings, and thresshing instruments for wood, and wheat for meate offring, I giue it all."
+        },
+        {
+          "number": 24,
+          "text": "And King Dauid saide to Ornan, Not so: but I will bye it for sufficient money: for I wil not take that which is thine for the Lord, nor offer burnt offrings without cost."
+        },
+        {
+          "number": 25,
+          "text": "So Dauid gaue to Ornan for that place sixe hundreth shekels of golde by weight."
+        },
+        {
+          "number": 26,
+          "text": "And Dauid built there an altar vnto the Lord, and offred burnt offrings, and peace offrings, and called vpon the Lord, and he answered him by fire from heauen vpon the altar of burnt offring."
+        },
+        {
+          "number": 27,
+          "text": "And when the Lord had spoken to the Angel, he put vp his sworde againe into his sheath."
+        },
+        {
+          "number": 28,
+          "text": "At that time when Dauid sawe that the Lord had heard him in the thresshing floore of Ornan the Iebusite, then he sacrificed there."
+        },
+        {
+          "number": 29,
+          "text": "(But the Tabernacle of the Lord which Moses had made in the wildernesse, and the altar of burnt offring were at that season in the hie place at Gibeon."
+        },
+        {
+          "number": 30,
+          "text": "And Dauid could not go before it to aske counsel at God: for he was afraide of the sworde of the Angel of the Lord.)"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And Dauid saide, This is the house of the Lord God, and this is the altar for the burnt offring of Israel."
+        },
+        {
+          "number": 2,
+          "text": "And Dauid commanded to gather together the strangers that were in the lande of Israel, and he set masons to hewe and polish stones to builde the house of God."
+        },
+        {
+          "number": 3,
+          "text": "Dauid also prepared much yron for the nayles of the doores and of the gates, and for the ioynings, and abundance of brasse passing weight,"
+        },
+        {
+          "number": 4,
+          "text": "And cedar trees without nomber: for the Zidonians and they of Tyrus brought much cedar wood to Dauid."
+        },
+        {
+          "number": 5,
+          "text": "And Dauid saide, Salomon my sonne is yong and tender, and we must builde an house for the Lord, magnificall, excellent and of great fame and dignitie throughout all countreyes. I will therefore nowe prepare for him. So Dauid prepared very much before his death."
+        },
+        {
+          "number": 6,
+          "text": "Then he called Salomon his sonne, and charged him to builde an house for the Lord God of Israel."
+        },
+        {
+          "number": 7,
+          "text": "And Dauid said to Salomon, My sonne, I purposed with my selfe to builde an house to the Name of the Lord my God,"
+        },
+        {
+          "number": 8,
+          "text": "But the worde of the Lord came to me, saying, Thou hast shed much blood, and hast made great battels: thou shalt not builde an house vnto my Name: for thou hast shead much blood vpon the earth in my sight."
+        },
+        {
+          "number": 9,
+          "text": "Beholde, a sonne is borne to thee, which shalbe a man of rest, for I will giue him rest from all his enemies rounde about: therefore his name is Salomon: and I will sende peace and quietnes vpon Israel in his dayes."
+        },
+        {
+          "number": 10,
+          "text": "Hee shall builde an house for my Name, and he shalbe my sonne, and I will be his father, and I will establish the throne of his kingdome vpon Israel for euer."
+        },
+        {
+          "number": 11,
+          "text": "Nowe therefore my sonne, the Lord shalbe with thee, and thou shalt prosper, and thou shalt builde an house to the Lord thy God, as he hath spoken of thee."
+        },
+        {
+          "number": 12,
+          "text": "Onely the Lord giue thee wisedome and vnderstanding, and giue thee charge ouer Israel, euen to keepe the Lawe of the Lord thy God."
+        },
+        {
+          "number": 13,
+          "text": "Then thou shalt prosper, if thou take heede to obserue the statutes and the iudgements which the Lord commanded Moses for Israel: be strong and of good courage: feare not, neither bee afraide."
+        },
+        {
+          "number": 14,
+          "text": "For beholde, according to my pouertie haue I prepared for the house of the Lord an hundreth thousand talents of golde, and a thousand thousande talents of siluer, and of brasse and of yron passing weight: for there was abundance: I haue also prepared timber and stone, and thou mayest prouide more thereto."
+        },
+        {
+          "number": 15,
+          "text": "Moreouer thou hast workmen with thee enough, hewers of stone, and workemen for timber, and all men expert in euery worke."
+        },
+        {
+          "number": 16,
+          "text": "Of golde, of siluer, and of brasse, and of yron there is no nomber: Vp therefore, and be doing, and the Lord wilbe with thee."
+        },
+        {
+          "number": 17,
+          "text": "Dauid also commanded all the princes of Israel to helpe Salomon his sonne, saying,"
+        },
+        {
+          "number": 18,
+          "text": "Is not the Lord your God with you, and hath giuen you rest on euerie side? for hee hath giuen the inhabitants of the land into mine hand, and the land is subdued before the Lord and before his people."
+        },
+        {
+          "number": 19,
+          "text": "Nowe set your hearts and your soules to seeke the Lord your God, and arise, and builde the Sanctuarie of the Lord God to bring the Arke of the couenant of the Lord, and the holy vessels of God into the house built for the Name of the Lord."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So when Dauid was olde and full of dayes, he made Salomon his sonne King ouer Israel."
+        },
+        {
+          "number": 2,
+          "text": "And hee gathered together all the princes of Israel with the Priestes and the Leuites."
+        },
+        {
+          "number": 3,
+          "text": "And the Leuites were numbred from ye age of thirtie yeere and aboue, and their nomber according to their summe was eight and thirtie thousand men."
+        },
+        {
+          "number": 4,
+          "text": "Of these foure and twentie thousande were set to aduance the worke of the house of the Lord, and sixe thousand were ouerseers and iudges."
+        },
+        {
+          "number": 5,
+          "text": "And foure thousand were porters, and foure thousande praised the Lord with instruments which he made to praise the Lord."
+        },
+        {
+          "number": 6,
+          "text": "So Dauid deuided offices vnto them, to wit, to the sonnes of Leui, to Gershon, Kohath, and Merari."
+        },
+        {
+          "number": 7,
+          "text": "Of the Gershonites were Laadan and Shimei."
+        },
+        {
+          "number": 8,
+          "text": "The sonnes of Laadan, the chiefe was Iehiel, and Zetham and Ioel, three."
+        },
+        {
+          "number": 9,
+          "text": "The Sonnes of Shimei, Shelomith, and Haziel, and Haram, three: these were the chiefe fathers of Laadan."
+        },
+        {
+          "number": 10,
+          "text": "Also the sonnes of Shimei were Iahath, Zina, Ieush, and Beriah: these foure were ye sonnes of Shimei."
+        },
+        {
+          "number": 11,
+          "text": "And Iahath was the chiefe, and Zizah the seconde, but Ieush and Beriah had not many sonnes: therfore they were in the families of their father, counted but as one."
+        },
+        {
+          "number": 12,
+          "text": "The sonnes of Kohath were Amram, Izhar, Hebron aud Vzziel, foure."
+        },
+        {
+          "number": 13,
+          "text": "The sonnes of Amram, Aaron and Moses: and Aaron was separated to sanctifie the most holy place, hee and his sonnes for euer to burne incense before the Lord, to minister to him, and to blesse in his Name for euer."
+        },
+        {
+          "number": 14,
+          "text": "Moses also the man of God, and his children were named with the tribe of Leui."
+        },
+        {
+          "number": 15,
+          "text": "The sonnes of Moses were Gershom, and Eliezer,"
+        },
+        {
+          "number": 16,
+          "text": "Of the sonnes of Gershom was Shebuel the chiefe."
+        },
+        {
+          "number": 17,
+          "text": "And the sonne of Eliezer was Rehabiah the chiefe: for Eliezer had none other sonnes: but the sonnes of Rehabiah were very many."
+        },
+        {
+          "number": 18,
+          "text": "The sone of Izhar was Shelomith ye chiefe."
+        },
+        {
+          "number": 19,
+          "text": "The sonnes of Hebron were Ieriah the first, Amariah the second, Iahaziel the third, and Iekamiam the fourth."
+        },
+        {
+          "number": 20,
+          "text": "The sones of Vzziel were Michah the first, and Isshiah the second."
+        },
+        {
+          "number": 21,
+          "text": "The sonnes of Merari were Mahli and Mushi. The sonnes of Mahli, Eleazar and Kish."
+        },
+        {
+          "number": 22,
+          "text": "And Eleazar dyed, and had no sonnes, but daughters, and their brethren the sonnes of Kish tooke them."
+        },
+        {
+          "number": 23,
+          "text": "The sonnes of Mushi were Mahli, and Eder, and Ierimoth, three."
+        },
+        {
+          "number": 24,
+          "text": "These were the sonnes of Leui according to the house of their fathers, euen the chiefe fathers according to their offices, according to the nomber of names and their summe that did the worke for the seruice of the house of the Lord from the age of twentie yeeres and aboue."
+        },
+        {
+          "number": 25,
+          "text": "For Dauid sayde, The Lord God of Israel hath giuen rest vnto his people, that they may dwell in Ierusalem for euer."
+        },
+        {
+          "number": 26,
+          "text": "And also the Leuites shall no more beare the Tabernacle and al the vessels for the seruice thereof."
+        },
+        {
+          "number": 27,
+          "text": "Therefore according to the last wordes of Dauid, the Leuites were nombred from twentie yeere and aboue,"
+        },
+        {
+          "number": 28,
+          "text": "And their office was vnder the hand of the sonnes of Aaron, for the seruice of the house of the Lord in the courtes, and chambers, and in the purifiyng of all holy thinges, and in the worke of the seruice of the house of God,"
+        },
+        {
+          "number": 29,
+          "text": "Both for the shewbread, and for the fine floure, for the meate offring, and for the vnleauened cakes, and for the fryed things, and for that which was rosted, and for all measures and cise,"
+        },
+        {
+          "number": 30,
+          "text": "And for to stand euery morning, to giue thanks and praise to the Lord, and likewise at euen,"
+        },
+        {
+          "number": 31,
+          "text": "And to offer all burnt offrings vnto the Lord, in the Sabbaths, in the moneths, and at the appointed times, according to the nomber and according to their custome continually before the Lord,"
+        },
+        {
+          "number": 32,
+          "text": "And that they should keepe the charge of the Tabernacle of the Congregation, and the charge of ye holy place, and the charge of ye sonnes of Aaron their brethren in the seruice of ye house of the Lord."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "These are also the diuisions of the sonnes of Aaron: The sonnes of Aaron were Nadab, and Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "number": 2,
+          "text": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the Priestes office."
+        },
+        {
+          "number": 3,
+          "text": "And Dauid distributed them, euen Zadok of the sonnes of Eleazar, and Ahimelech of the sonnes of Ithamar according to their offices in their ministration."
+        },
+        {
+          "number": 4,
+          "text": "And there were found more of the sonnes of Eleazar by the number of men, then of the sonnes of Ithamar. and they deuided them, to wit, among the sonnes of Eleazar, sixteene heads, according to the houshould of their fathers, and among ye sonnes of Ithamar, according to the housholde of their fathers, eight."
+        },
+        {
+          "number": 5,
+          "text": "Thus they distributed them by lot the one from the other, and so the rulers of the Sanctuarie and the rulers of the house of God were of the sonnes of Eleazar and of the sonnes of Ithamar."
+        },
+        {
+          "number": 6,
+          "text": "And Shemaiah the sonne of Nethaneel the scribe of the Leuites, wrote them before ye King and the princes, and Zadok the Priest, and Ahimelech the sonne of Abiathar, and before ye chiefe fathers of the Priests and of the Leuites, one familie being reserued for Eleazar, and another reserued for Ithamar."
+        },
+        {
+          "number": 7,
+          "text": "And the first lot fell to Iehoiarib, and the second to Iedaiah,"
+        },
+        {
+          "number": 8,
+          "text": "The third to Harim, the fourth to Seorim,"
+        },
+        {
+          "number": 9,
+          "text": "The fifth to Malchiiah, the sixt to Miiamin,"
+        },
+        {
+          "number": 10,
+          "text": "The seuenth to Hakkoz, the eight to Abiiah,"
+        },
+        {
+          "number": 11,
+          "text": "The ninth to Ieshua, the tenth to Shecaniah,"
+        },
+        {
+          "number": 12,
+          "text": "The eleuenth to Eliashib, the twelft to Iakim,"
+        },
+        {
+          "number": 13,
+          "text": "The thirteenth to Huppa, the fouretenth to Ieshebeab,"
+        },
+        {
+          "number": 14,
+          "text": "The fiftenth to Bilgah, the sixtenth to Immer,"
+        },
+        {
+          "number": 15,
+          "text": "The seuententh to Hezir, the eightenth to Happizzer,"
+        },
+        {
+          "number": 16,
+          "text": "The ninetenth to Pethahiah, the twentieth to Iehezekel,"
+        },
+        {
+          "number": 17,
+          "text": "The one and twentie to Iachin, the two and twentie to Gamul,"
+        },
+        {
+          "number": 18,
+          "text": "The three and twentie to Deliah, the foure and twentie to Maaziah."
+        },
+        {
+          "number": 19,
+          "text": "These were their orders according to their offices, when they entred into the house of the Lord according to their custome vnder the hande of Aaron their father, as the Lord God of Israel had commanded him."
+        },
+        {
+          "number": 20,
+          "text": "And of the sonnes of Leui that remained of the sonnes of Amram, was Shubael, of the sonnes of Shubael, Iedeiah,"
+        },
+        {
+          "number": 21,
+          "text": "Of Rehabiah. euen of the sonnes of Rehabiah, the first Isshiiah,"
+        },
+        {
+          "number": 22,
+          "text": "Of Izhari, Shelomoth, of the sonnes of Shelomoth, Iahath,"
+        },
+        {
+          "number": 23,
+          "text": "And his sonnes Ieriah the first, Amariah the second, Iahaziel the thirde, and Iekameam the fourth,"
+        },
+        {
+          "number": 24,
+          "text": "The sonne of Vzziel was Michah, ye sonne of Michah was Shamir,"
+        },
+        {
+          "number": 25,
+          "text": "The brother of Michah was Isshiiah, the sonne of Isshiiah, Zechariah,"
+        },
+        {
+          "number": 26,
+          "text": "The sonnes of Merari, were Mahli and Mushi, the sonne of Iaaziiah was Beno,"
+        },
+        {
+          "number": 27,
+          "text": "The sonnes of Merari of Iahaziah were Beno, and Shoham, and Zaccur and Ibri."
+        },
+        {
+          "number": 28,
+          "text": "Of Mahli came Eleazar, which had no sonnes."
+        },
+        {
+          "number": 29,
+          "text": "Of Kish. the sonne of Kish was Ierahmeel,"
+        },
+        {
+          "number": 30,
+          "text": "And the sonnes of Mushi were Mahli, and Eder, and Ierimoth: these were sonnes of the Leuites after the houshold of their fathers."
+        },
+        {
+          "number": 31,
+          "text": "And these also cast lots with their brethren the sonnes of Aaron before King Dauid, and Zadok and Ahimelech and the chiefe fathers of the Priests, and of the Leuites, euen the chiefe of the families against their yonger brethren."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "So Dauid and the captaines of the armie separated for the ministerie the sonnes of Asaph, and Heman, and Ieduthun, who should sing prophesies with harpes, with violes, and with cymbales, and their nomber was euen of the men for the office of their ministerie, to wit,"
+        },
+        {
+          "number": 2,
+          "text": "Of the sonnes of Asaph, Zaccur, and Ioseph, and Nethaniah, and Asharelah the sonnes of Asaph were vnder the hand of Asaph, which sang prophesies by the commission of the King."
+        },
+        {
+          "number": 3,
+          "text": "Of Ieduthun, the sonnes of Ieduthun, Gedaliah, and Zeri, and Ieshaiah, Ashabiah and Mattithiah, six, vnder the hands of their father: Ieduthun sang prophecies with an harpe, for to giue thankes and to praise the Lord."
+        },
+        {
+          "number": 4,
+          "text": "Of Heman, the sonnes of Heman, Bukkiah, Mattaniah, Vzziel, Shebuel, and Ierimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Ioshbekashah, Mallothi, Hothir, and Mahazioth."
+        },
+        {
+          "number": 5,
+          "text": "All these were the sonnes of Heman, the Kings Seer in the wordes of God to lift vp the horne: and God gaue to Heman fourtene sonnes and three daughters."
+        },
+        {
+          "number": 6,
+          "text": "All these were vnder the hande of their father, singing in the house of the Lord with cymbales, violes and harpes, for the seruice of the house of God, and Asaph, and Ieduthun, and Heman were at the Kings commandement."
+        },
+        {
+          "number": 7,
+          "text": "So was their nomber with their brethre that were instruct in ye songs of the Lord, euen of al that were cunning, two hundreth foure score and eight."
+        },
+        {
+          "number": 8,
+          "text": "And they cast lottes, charge against charge, aswel small as great, the cunning man as the scholer."
+        },
+        {
+          "number": 9,
+          "text": "And the first lot fell to Ioseph which was of Asaph, the second, to Gedaliah, who with his brethren and his sonnes were twelue."
+        },
+        {
+          "number": 10,
+          "text": "The third, to Zaccur, he, his sonnes and his brethren were twelue."
+        },
+        {
+          "number": 11,
+          "text": "The fourth, to Izri, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 12,
+          "text": "The fift, to Nethaniah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 13,
+          "text": "The sixt, to Bukkiah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 14,
+          "text": "The seuenth, to Iesharelah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 15,
+          "text": "The eight, to Ieshaiah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 16,
+          "text": "The ninth, to Mattaniah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 17,
+          "text": "The tenth, to Shimei, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 18,
+          "text": "The eleuenth, to Azareel, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 19,
+          "text": "The twelft, to Ashabiah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 20,
+          "text": "The thirteenth, to Shubael, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 21,
+          "text": "The fourtenth, to Mattithiah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 22,
+          "text": "The fifteenth, to Ierimoth, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 23,
+          "text": "The sixteenth, to Hananiah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 24,
+          "text": "The seuenteenth, to Ioshbekashah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 25,
+          "text": "The eighteenth, to Hanani, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 26,
+          "text": "The ninteenth, to Mallothi, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 27,
+          "text": "The twentieth, to Eliathah, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 28,
+          "text": "The one and twentieth, to Hothir, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 29,
+          "text": "The two and twentieth, to Giddalti, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 30,
+          "text": "The three and twentieth, to Mahazioth, he, his sonnes and his brethren twelue."
+        },
+        {
+          "number": 31,
+          "text": "The foure and twentieth, to Romamti-ezer, he, his sonnes and his brethren twelue."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Concerning the diuisions of the porters, of the Korhites, Meshelemiah the sonne of Kore of the sonnes of Asaph."
+        },
+        {
+          "number": 2,
+          "text": "And the sonnes of Meshelemiah, Zechariah the eldest, Iediael the seconde, Zebadiah the third, Iathniel the fourth,"
+        },
+        {
+          "number": 3,
+          "text": "Elam the fift, Ichohanan the sixt, and Eliehoenai the seuenth."
+        },
+        {
+          "number": 4,
+          "text": "And the sonnes of Obed Edom, Shemaiah the eldest, Iehozabad the second, Ioah the third, and Sacar the fourth, and Nethaneel the fift,"
+        },
+        {
+          "number": 5,
+          "text": "Ammiel the sixt, Issachar the seuenth, Peulthai the eight: for God had blessed him."
+        },
+        {
+          "number": 6,
+          "text": "And to Shemaiah his sonne, were sonnes borne, that ruled in the house of their father, for they were men of might."
+        },
+        {
+          "number": 7,
+          "text": "The sonnes of Shemaiah were Othni, and Rephael, and Obed, Elzabad and his brethren, strong men: Elihu also, and Semachiah."
+        },
+        {
+          "number": 8,
+          "text": "All these were of the sonnes of Obed Edom, they and their sonnes and their brethren mightie and strong to serue, euen three score and two of Obed Edom."
+        },
+        {
+          "number": 9,
+          "text": "And of Meshelemiah sonnes and brethren, eighteene mightie men."
+        },
+        {
+          "number": 10,
+          "text": "And of Hosah of the sonnes of Merari, the sonnes were Shuri the chiefe, and (though he was not the eldest, yet his father made him the chiefe)"
+        },
+        {
+          "number": 11,
+          "text": "Helkiah the second, Tebaliah the third, and Zechariah the fourth: all the sonnes and the brethren of Hosa were thirteene."
+        },
+        {
+          "number": 12,
+          "text": "Of these were the diuisions of the porters of the chiefe men, hauing the charge against their brethren, to serue in the house of the Lord."
+        },
+        {
+          "number": 13,
+          "text": "And they cast lottes both small and great for the house of their fathers, for euery gate."
+        },
+        {
+          "number": 14,
+          "text": "And the lot on the East side fel to Shelemiah: then they cast lottes for Zechariah his sonne a wise couseller, and his lot came out Northward:"
+        },
+        {
+          "number": 15,
+          "text": "To Obed Edom Southwarde, and to his sonnes the house of Asuppim:"
+        },
+        {
+          "number": 16,
+          "text": "To Shuppim and to Hosah Westwarde with the gate of Shallecheth by the paued streete that goeth vpward, warde ouer against warde."
+        },
+        {
+          "number": 17,
+          "text": "Eastward were sixe Leuites, and Northwarde foure a day, and Southward foure a day, and toward Asuppim two and two."
+        },
+        {
+          "number": 18,
+          "text": "In Parbar towarde the West were foure by the paued streete, and two in Parbar."
+        },
+        {
+          "number": 19,
+          "text": "These are the diuisions of the porters of the sonnes of Kore, and of the sonnes of Merari."
+        },
+        {
+          "number": 20,
+          "text": "And of the Leuites. Ahiiah was ouer the treasures of the house of God, and ouer the treasures of the dedicate things."
+        },
+        {
+          "number": 21,
+          "text": "Of the sonnes of Laadan the sonnes of the Gershunnites descending of Laadan, the chiefe fathers of Laadan were Gershunni and Iehieli."
+        },
+        {
+          "number": 22,
+          "text": "The sonnes of Iehieli were Zethan and Ioel his brother, appoynted ouer the treasures of the house of the Lord."
+        },
+        {
+          "number": 23,
+          "text": "Of the Amramites, of the Izharites, of the Hebronites and of the Ozielites."
+        },
+        {
+          "number": 24,
+          "text": "And Shebuel the sonne of Gershom, the sonne of Moses, a ruler ouer the treasures."
+        },
+        {
+          "number": 25,
+          "text": "And of his brethren which came of Eliezer, was Rehabiah his sonne, and Ieshaiah his sonne, and Ioram his sonne, and Zichri his sonne, and Shelomith his sonne."
+        },
+        {
+          "number": 26,
+          "text": "Which Shelomith and his brethren were ouer al the treasures of the dedicate things, which Dauid the King, and the chiefe fathers, the captaines ouer thousands, and hundreths, and the captaines of the armie had dedicated."
+        },
+        {
+          "number": 27,
+          "text": "(For of the battels and of the spoyles they did dedicate to maintaine the house of the Lord)"
+        },
+        {
+          "number": 28,
+          "text": "And al that Samuel the Seer had dedicate and Saul the sonne of Kish and Abner the sonne of Ner, and Ioab the sonne of Zeruiah, and whosoeuer had dedicate any thing, it was vnder the hand of Shelomith, and his brethren."
+        },
+        {
+          "number": 29,
+          "text": "Of the Izharites was Chenaniah and his sonnes, for the busines without ouer Israel, for officers and for Iudges."
+        },
+        {
+          "number": 30,
+          "text": "Of the Hebronites, Ashabiah and his brethren, men of actiuitie, a thousande, and seuen hundreth were officers for Israel beyonde Iorden Westward, in all the busines of the Lord, and for the seruice of the King."
+        },
+        {
+          "number": 31,
+          "text": "Among the Hebronites was Iediiah the chiefest, euen the Hebronites by his generations according to the families. And in the fourtieth yere of the reigne of Dauid they were sought for: and there were founde among them men of actiuitie at Iazer in Gilead."
+        },
+        {
+          "number": 32,
+          "text": "And his brethren men of actiuitie, two thousand and seuen hundreth chiefe fathers, whom King Dauid made rulers ouer the Reubenites, and the Gadites, and the halfe tribe of Manasseh, for euery matter perteining to God, and for the Kings busines."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "The children of Israel also after their nomber, euen the chiefe fathers and captaines of thousandes and of hundreths, and their officers that serued the King by diuers courses, which came and in went out, moneth by moneth throughout al the moneths of the yeere: in euery course were foure and twentie thousand."
+        },
+        {
+          "number": 2,
+          "text": "Ouer the first course for the first moneth was Iashobeam the sonne of Zabdiel: and in his course were foure and twentie thousand."
+        },
+        {
+          "number": 3,
+          "text": "Of the sonnes of Perez was the chiefe ouer all the princes of the armies for the first moneth."
+        },
+        {
+          "number": 4,
+          "text": "And ouer the course of the second moneth was Dodai, an Ahohite, and this was his course, and Mikloth was a captaine, and in his course were foure and twentie thousand."
+        },
+        {
+          "number": 5,
+          "text": "The captaine of the thirde hoste for the third moneth was Benaiah the sonne of Iehoiada the chiefe Priest: and in his course were foure and twentie thousand."
+        },
+        {
+          "number": 6,
+          "text": "This Benaiah was mightie among thirtie and aboue the thirtie, and in his course was Amizabad his sonne."
+        },
+        {
+          "number": 7,
+          "text": "The fourth for the fourth moneth was Asahel the brother of Ioab, and Zebadiah his sonne after him: and in his course were foure and twentie thousand."
+        },
+        {
+          "number": 8,
+          "text": "The fift for ye fift moneth was prince Shamhuth the Izrahite: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 9,
+          "text": "The sixt for the sixt moneth was Ira the sonne of Ikkesh the Tekoite: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 10,
+          "text": "The seuenth for the seuenth moneth was Helez the Pelonite, of the sonnes of Ephraim: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 11,
+          "text": "The eight for the eight moneth was Sibbecai the Hushathite of the Zarhites: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 12,
+          "text": "The ninth for the ninth moneth was Abiezer the Anethothite of the sonnes of Iemini: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 13,
+          "text": "The tenth for the tenth moneth was Maharai, the Netophathite of the Zarhites: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 14,
+          "text": "The eleueth for the eleuenth moneth was Benaiah the Pirathonite of the sonnes of Ephraim: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 15,
+          "text": "The twelft for the twelft moneth was Heldai the Netophathite, of Othniel: and in his course foure and twentie thousand."
+        },
+        {
+          "number": 16,
+          "text": "Moreouer the rulers ouer the tribes of Israel were these: ouer the Reubenites was ruler, Eliezer the sonne of Zichri: ouer the Shimeonites, Shephatiah the sonne of Maachah:"
+        },
+        {
+          "number": 17,
+          "text": "Ouer the Leuites, Hashabiah the sonne of Remuel: ouer them of Aharon, and Zadok:"
+        },
+        {
+          "number": 18,
+          "text": "Ouer Iudah, Elihu of the brethren of Dauid: ouer Issachar, Omri the sonne of Michael:"
+        },
+        {
+          "number": 19,
+          "text": "Ouer Zebulun, Ishmaiah the sonne of Obadiah: ouer Naphtali, Ierimoth the sonne of Azriel:"
+        },
+        {
+          "number": 20,
+          "text": "Ouer the sonnes of Ephraim, Hoshea the sonne of Azazziah: ouer the halfe tribe of Manasseh, Ioel the sonne of Pedaiah:"
+        },
+        {
+          "number": 21,
+          "text": "Ouer the other halfe of Manasseh in Gilead, Iddo the sonne of Zechariah: ouer Beniamin, Iaasiel the sonne of Abner:"
+        },
+        {
+          "number": 22,
+          "text": "Ouer Dan, Azariel the sonne of Ieroham. these are the princes of the tribes of Israel."
+        },
+        {
+          "number": 23,
+          "text": "But Dauid tooke not the nober of them from twentie yeere olde and vnder, because the Lord had sayde that he would increase Israel like vnto the starres of the heauens."
+        },
+        {
+          "number": 24,
+          "text": "And Ioab the sonne of Zeruiah beganne to nomber: but hee finished it not, because there came wrath for it against Israel, neither was the nomber put into the Chronicles of King Dauid."
+        },
+        {
+          "number": 25,
+          "text": "And ouer the Kings treasures was Azmaueth the sonne of Adiel: and ouer the treasures in the fieldes, in the cities and in the villages and in the towers was Iehonathan the sonne of Vzziah:"
+        },
+        {
+          "number": 26,
+          "text": "And ouer the workemen in the fielde that tilled the ground, was Ezri the sonne of Chelub:"
+        },
+        {
+          "number": 27,
+          "text": "And ouer them that dressed the vines, was Shimei the Ramathite: and ouer that which apperteined to the vines, and ouer the store of the wine was Sabdi the Shiphmite:"
+        },
+        {
+          "number": 28,
+          "text": "And ouer the oliue trees and mulberie trees that were in the valleys, was Baal Hanan the Gederite: and ouer the store of the oyle was Ioash:"
+        },
+        {
+          "number": 29,
+          "text": "And ouer the oxen that fed in Sharon, was Shetrai the Sharonite: and ouer the oxen in the valleyes was Shaphat the sonne of Adlai:"
+        },
+        {
+          "number": 30,
+          "text": "And ouer the camels was Obil the Ishmaelite: and ouer the asses was Iehdeiah the Meronothite:"
+        },
+        {
+          "number": 31,
+          "text": "And ouer the sheepe was Iaziz the Hagerite: all these were the rulers of the substance that was King Dauids."
+        },
+        {
+          "number": 32,
+          "text": "And Iehonathan Dauids vncle a man of counsell and vnderstanding (for he was a scribe) and Iehiel the sonne of Hachmoni were with the Kings sonnes."
+        },
+        {
+          "number": 33,
+          "text": "And Ahitophel was the Kings counseller, and Hushai the Archite the Kings friend."
+        },
+        {
+          "number": 34,
+          "text": "And after Ahitophel was Iehoiada the sonne of Benaiah and Abiathar: and captaine of the Kings armie was Ioab."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nowe Dauid assembled all the princes of Israel: the princes of the tribes, and the captaines of the bandes that serued the King, and the captaines of thousands and the captaines of hundreths, and the rulers of all the substance and possession of the King, and of his sonnes, with the eunuches, and the mightie, and all the men of power, vnto Ierusalem."
+        },
+        {
+          "number": 2,
+          "text": "And King Dauid stoode vp vpon his feete; and saide, Heare ye me, my brethren and my people: I purposed to haue buylt an house of rest for the Arke of the couenant of the Lord, and for a footestoole of our God, and haue made ready for the building,"
+        },
+        {
+          "number": 3,
+          "text": "But God sayde vnto me, Thou shalt not buylde an house for my Name, because thou hast bene a man of warre, and hast shed blood."
+        },
+        {
+          "number": 4,
+          "text": "Yet as the Lord God of Israel chose me before all the house of my father, to be King ouer Israel for euer (for in Iudah woulde he chuse a prince, and of the house of Iudah is the house of my father, and among the sonnes of my father he delited in me to make me King ouer all Israel)"
+        },
+        {
+          "number": 5,
+          "text": "So of all my sonnes (for the Lord hath giuen me many sonnes) he hath euen chosen Salomon my sonne to sit vpon the throne of the kingdome of the Lord ouer Israel."
+        },
+        {
+          "number": 6,
+          "text": "And he sayd vnto me, Salomon thy sonne, he shall build mine house and my courtes: for I haue chosen him to be my sonne, and I will be his father."
+        },
+        {
+          "number": 7,
+          "text": "I will stablish therefore his kingdome for euer, if he endeuour himselfe to do my commandements, and my iudgements, as this day."
+        },
+        {
+          "number": 8,
+          "text": "Now therefore in the sight of all Israel the Congregation of the Lord, and in the audience of our God, keepe and seeke for all the commandements of the Lord your God, that ye may possesse this good lande, and leaue it for an inheritance for your children after you for euer."
+        },
+        {
+          "number": 9,
+          "text": "And thou, Salomon my sonne, know thou the God of thy father, and serue him with a perfit heart, and with a willing minde: For the Lord searcheth all hearts, and vnderstandeth all the imaginations of thoughts: if thou seeke him, he will be found of thee, but if thou forsake him, he will cast thee off for euer."
+        },
+        {
+          "number": 10,
+          "text": "Take heede now, for the Lord hath chosen thee to buylde the house of the Sanctuarie: be strong therefore, and doe it."
+        },
+        {
+          "number": 11,
+          "text": "Then Dauid gaue to Salomon his sonne the paterne of the porch and of the houses thereof, and of the closets thereof, and of the galleries thereof, and of the chambers thereof that are within, and of the house of the mercieseate,"
+        },
+        {
+          "number": 12,
+          "text": "And the paterne of all that he had in his minde for the courtes of the house of the Lord, and for all the chambers round about, for the treasures of the house of God, and for the treasures of the dedicate things,"
+        },
+        {
+          "number": 13,
+          "text": "And for the courses of the Priestes, and of the Leuites, and for all the woorke for the seruice of the house of the Lord, and for all the vessels of the ministerie of the house of the Lord."
+        },
+        {
+          "number": 14,
+          "text": "He gaue of golde by weight, for the vessels of gold, for all the vessels of all maner of seruice, and all the vessels of siluer by weight, for all maner vessels of all maner of seruice."
+        },
+        {
+          "number": 15,
+          "text": "The weight also of golde for the candlestickes, and gold for their lampes, with the weight for euery candlesticke, and for the lampes thereof, and for the candlestickes of siluer by the weight of the candlesticke, and the lampes thereof, according to the vse of euery candlesticke,"
+        },
+        {
+          "number": 16,
+          "text": "And the weight of the gold for the tables of shewbread, for euery table, and siluer for the tables of siluer,"
+        },
+        {
+          "number": 17,
+          "text": "And pure golde for the fleshhookes, and the bowles, and plates, and for basens, golde in weight for euery basen, and for siluer basens, by weight for euery basen,"
+        },
+        {
+          "number": 18,
+          "text": "And for the altar of incense, pure golde by weight, and golde for the paterne of the charet of the Cherubs that spread themselues, and couered the Arke of the couenant of the Lord:"
+        },
+        {
+          "number": 19,
+          "text": "All, said he, by writing sent to me by the hand of the Lord, which made me vnderstand all the workemanship of the paterne."
+        },
+        {
+          "number": 20,
+          "text": "And Dauid said to Salomon his sonne, Be strong, and of a valiant courage and doe it: feare not, nor be afraide: for the Lord God, euen my God is with thee: he will not leaue thee nor forsake thee till thou hast finished all the worke for the seruice of the house of the Lord."
+        },
+        {
+          "number": 21,
+          "text": "Beholde also, the companies of the Priests and the Leuites for all the seruice of the house of God, euen they shall be with thee for the whole worke, with euery free heart that is skilfull in any maner of seruice. The princes also and all the people will be wholy at thy commandement."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Moreouer Dauid the King sayde vnto all the Congregation, God hath chosen Salomon mine onely sonne yong and tender, and the worke is great: for this house is not for man, but for the Lord God."
+        },
+        {
+          "number": 2,
+          "text": "Now I haue prepared with all my power for the house of my God, golde for vessels of golde, and siluer for them of siluer, and brasse for things of brasse, yron for things of yron, and wood for things of wood, and onix stones, and stones to be set, and carbuncle stones and of diuers colours, and all precious stones, and marble stones in aboundance."
+        },
+        {
+          "number": 3,
+          "text": "Moreouer, because I haue delite in the house of my God, I haue of mine owne golde and siluer, which I haue giuen to the house of my God, beside all that I haue prepared for the house of the Sanctuarie,"
+        },
+        {
+          "number": 4,
+          "text": "Euen three thousand talents of gold of the golde of Ophir, and seuen thousand talents of fined siluer to ouerlay the walles of the houses."
+        },
+        {
+          "number": 5,
+          "text": "The golde for the things of golde, and the siluer for things of siluer, and for all the worke by the handes of artificers: and who is willing to fill his hand to day vnto the Lord?"
+        },
+        {
+          "number": 6,
+          "text": "So the princes of the families, and the princes of the tribes of Israel, and the captaines of thousands and of hundreths, with the rulers of the Kings worke, offred willingly,"
+        },
+        {
+          "number": 7,
+          "text": "And they gaue for the seruice of the house of God fiue thousande talents of golde, and ten thousand pieces, and ten thousand talents of siluer, and eighteene thousand talents of brasse, and one hundreth thousand talents of yron."
+        },
+        {
+          "number": 8,
+          "text": "And they with whom precious stones were found, gaue them to the treasure of ye house of the Lord, by the hand of Iehiel the Gershunnite."
+        },
+        {
+          "number": 9,
+          "text": "And the people reioyced when they offred willingly: for they offred willingly vnto ye Lord, with a perfite heart. And Dauid the King also reioyced with great ioy."
+        },
+        {
+          "number": 10,
+          "text": "Therefore Dauid blessed the Lord before all the Congregation, and Dauid sayde, Blessed be thou, O Lord God, of Israel our father, for euer and euer."
+        },
+        {
+          "number": 11,
+          "text": "Thine, O Lord, is greatnesse and power, and glory, and victorie and praise: for all that is in heauen and in earth is thine: thine is the kingdome, O Lord, and thou excellest as head ouer all."
+        },
+        {
+          "number": 12,
+          "text": "Both riches and honour come of thee, and thou reignest ouer all, and in thine hand is power and strength, and in thine hande it is to make great, and to giue strength vnto all."
+        },
+        {
+          "number": 13,
+          "text": "Now therefore our God, we thanke thee, and prayse thy glorious Name."
+        },
+        {
+          "number": 14,
+          "text": "But who am I, and what is my people, that we shoulde be able to offer willingly after this sort? for all things come of thee: and of thine owne hand we haue giuen thee."
+        },
+        {
+          "number": 15,
+          "text": "For we are stragers before thee, and soiourners, like all our fathers: our dayes are like ye shadowe vpon the earth, and there is none abiding."
+        },
+        {
+          "number": 16,
+          "text": "O Lord our God, all this abundance that we haue prepared to buylde thee an house for thine holy Name, is of thine hand and all is thine."
+        },
+        {
+          "number": 17,
+          "text": "I knowe also, my God, that thou tryest the heart, and hast pleasure in righteousnesse: I haue offred willingly in the vprightnesse of mine heart all these things: now also haue I seene thy people which are found here, to offer vnto thee willingly with ioy."
+        },
+        {
+          "number": 18,
+          "text": "O Lord God of Abraham, Izhak and Israel our fathers, keepe this for euer in the purpose, and the thoughts of the heart of thy people, and prepare their hearts vnto thee."
+        },
+        {
+          "number": 19,
+          "text": "And giue vnto Salomon my sonne a perfit heart to keepe thy commandements, thy testimonies, and thy statutes, and to doe all things, and to builde the house which I haue prepared."
+        },
+        {
+          "number": 20,
+          "text": "And Dauid said to all the Congregation, Now blesse the Lord your God. And all the Congregation blessed the Lord God of their fathers, and bowed downe their heads, and worshipped the Lord and the King."
+        },
+        {
+          "number": 21,
+          "text": "And they offred sacrifices vnto the Lord, and on the morowe after that day, they offered burnt offrings vnto the Lord, euen a thousande yong bullocks, a thousand rammes and a thousand sheepe, with their drinke offrings, and sacrifices in abundance for all Israel."
+        },
+        {
+          "number": 22,
+          "text": "And they did eate and drinke before the Lord the same day with great ioy, and they made Salomon the sonne of Dauid King the seconde time, and anoynted him prince before the Lord, and Zadok for the hie Priest."
+        },
+        {
+          "number": 23,
+          "text": "So Salomon sate on the throne of the Lord, as King in steade of Dauid his father, and prospered: and all Israel obeyed him."
+        },
+        {
+          "number": 24,
+          "text": "And all the princes and men of power, and all the sonnes of King Dauid submitted them selues vnder King Salomon."
+        },
+        {
+          "number": 25,
+          "text": "And the Lord magnified Salomon in dignitie, in the sight of all Israel, and gaue him so glorious a kingdome, as no King had before him in Israel."
+        },
+        {
+          "number": 26,
+          "text": "Thus Dauid the sonne of Ishai reigned ouer all Israel."
+        },
+        {
+          "number": 27,
+          "text": "And the space that he reigned ouer Israel, was fourtie yeere: seuen yeere reigned he in Hebron, and three and thirtie yeere reigned he in Ierusalem:"
+        },
+        {
+          "number": 28,
+          "text": "And he dyed in a good age, full of dayes, riches and honour, and Salomon his sonne reigned in his steade."
+        },
+        {
+          "number": 29,
+          "text": "Concerning the actes of Dauid the King first and last, behold, they are written in the booke of Samuel the Seer, and in the booke of Nathan the Prophet, and in the booke of Gad the Seer,"
+        },
+        {
+          "number": 30,
+          "text": "With all his reigne and his power, and times that went ouer him, and ouer Israel and ouer all the kingdomes of the earth."
+        }
+      ]
+    }
+  ]
+}

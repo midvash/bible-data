@@ -1,0 +1,642 @@
+{
+  "version": "clem",
+  "book": "Amos",
+  "bookId": 30,
+  "englishName": "Amos",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Verba Amos, qui fuit in pastoribus de Thecue, qu vidit super Isral in diebus Ozi, regis Juda, et in diebus Jeroboam, filii Joas, regis Isral, ante duos annos terrmotus."
+        },
+        {
+          "number": 2,
+          "text": "Et dixit: [Dominus de Sion rugiet, et de Jerusalem dabit vocem suam; et luxerunt speciosa pastorum, et exsiccatus est vertex Carmeli."
+        },
+        {
+          "number": 3,
+          "text": "Hc dicit Dominus: Super tribus sceleribus Damasci, et super quatuor non convertam eum, eo quod trituraverint in plaustris ferreis Galaad."
+        },
+        {
+          "number": 4,
+          "text": "Et mittam ignem in domum Azal, et devorabit domos Benadad."
+        },
+        {
+          "number": 5,
+          "text": "Et conteram vectem Damasci: et disperdam habitatorem de campo idoli, et tenentem sceptrum de domo voluptatis: et transferetur populus Syri Cyrenen, dicit Dominus."
+        },
+        {
+          "number": 6,
+          "text": "Hc dicit Dominus: Super tribus sceleribus Gaz, et super quatuor non convertam eum, eo quod transtulerint captivitatem perfectam, ut concluderent eam in Iduma."
+        },
+        {
+          "number": 7,
+          "text": "Et mittam ignem in murum Gaz, et devorabit des ejus."
+        },
+        {
+          "number": 8,
+          "text": "Et disperdam habitatorem de Azoto, et tenentem sceptrum de Ascalone: et convertam manum meam super Accaron, et peribunt reliqui Philisthinorum, dicit Dominus Deus."
+        },
+        {
+          "number": 9,
+          "text": "Hc dicit Dominus: Super tribus sceleribus Tyri, et super quatuor non convertam eum, eo quod concluserint captivitatem perfectam in Iduma, et non sint recordati fderis fratrum."
+        },
+        {
+          "number": 10,
+          "text": "Et mittam ignem in murum Tyri, et devorabit des ejus."
+        },
+        {
+          "number": 11,
+          "text": "Hc dicit Dominus: Super tribus sceleribus Edom, et super quatuor non convertam eum, eo quod persecutus sit in gladio fratrem suum, et violaverit misericordiam ejus, et tenuerit ultra furorem suum, et indignationem suam servaverit usque in finem."
+        },
+        {
+          "number": 12,
+          "text": "Mittam ignem in Theman, et devorabit des Bosr."
+        },
+        {
+          "number": 13,
+          "text": "Hc dicit Dominus: Super tribus sceleribus filiorum Ammon, et super quatuor non convertam eum, eo quod dissecuerit prgnantes Galaad ad dilatandum terminum suum."
+        },
+        {
+          "number": 14,
+          "text": "Et succendam ignem in muro Rabba, et devorabit des ejus in ululatu in die belli, et in turbine in die commotionis."
+        },
+        {
+          "number": 15,
+          "text": "Et ibit Melchom in captivitatem, ipse et principes ejus simul, dicit Dominus.]"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[Hc dicit Dominus: Super tribus sceleribus Moab, et super quatuor non convertam eum, eo quod incenderit ossa regis Idum usque ad cinerem."
+        },
+        {
+          "number": 2,
+          "text": "Et mittam ignem in Moab, et devorabit des Carioth: et morietur in sonitu Moab, in clangore tub."
+        },
+        {
+          "number": 3,
+          "text": "Et disperdam judicem de medio ejus, et omnes principes ejus interficiam cum eo, dicit Dominus.]"
+        },
+        {
+          "number": 4,
+          "text": "[Hc dicit Dominus: Super tribus sceleribus Juda, et super quatuor non convertam eum, eo quod abjecerit legem Domini et mandata ejus non custodierit: deceperant enim eos idola sua, post qu abierant patres eorum."
+        },
+        {
+          "number": 5,
+          "text": "Et mittam ignem in Juda, et devorabit des Jerusalem."
+        },
+        {
+          "number": 6,
+          "text": "Hc dicit Dominus: Super tribus sceleribus Isral, et super quatuor non convertam eum, pro eo quod vendiderit pro argento justum, et pauperem pro calceamentis."
+        },
+        {
+          "number": 7,
+          "text": "Qui conterunt super pulverem terr capita pauperum, et viam humilium declinant: et filius ac pater ejus ierunt ad puellam, ut violarent nomen sanctum meum."
+        },
+        {
+          "number": 8,
+          "text": "Et super vestimentis pignoratis accubuerunt juxta omne altare, et vinum damnatorum bibebant in domo Dei sui."
+        },
+        {
+          "number": 9,
+          "text": "Ego autem exterminavi Amorrhum a facie eorum, cujus altitudo, cedrorum altitudo ejus, et fortis ipse quasi quercus; et contrivi fructum ejus desuper, et radices ejus subter."
+        },
+        {
+          "number": 10,
+          "text": "Ego sum qui ascendere vos feci de terra gypti, et duxi vos in deserto quadraginta annis, ut possideretis terram Amorrhi."
+        },
+        {
+          "number": 11,
+          "text": "Et suscitavi de filiis vestris in prophetas, et de juvenibus vestris nazaros. Numquid non ita est, filii Isral? dicit Dominus."
+        },
+        {
+          "number": 12,
+          "text": "Et propinabitis nazaris vinum, et prophetis mandabitis, dicentes: Ne prophetetis."
+        },
+        {
+          "number": 13,
+          "text": "Ecce ego stridebo subter vos, sicut stridet plaustrum onustum fno."
+        },
+        {
+          "number": 14,
+          "text": "Et peribit fuga a veloce, et fortis non obtinebit virtutem suam, et robustus non salvabit animam suam:"
+        },
+        {
+          "number": 15,
+          "text": "et tenens arcum non stabit, et velox pedibus suis non salvabitur, et ascensor equi non salvabit animam suam:"
+        },
+        {
+          "number": 16,
+          "text": "et robustus corde inter fortes nudus fugiet in illa die, dicit Dominus.]"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[Audite verbum quod locutus est Dominus super vos, filii Isral, super omnem cognationem quam eduxi de terra gypti, dicens:"
+        },
+        {
+          "number": 2,
+          "text": "Tantummodo vos cognovi ex omnibus cognationibus terr; idcirco visitabo super vos omnes iniquitates vestras."
+        },
+        {
+          "number": 3,
+          "text": "Numquid ambulabunt duo pariter, nisi convenerit eis?"
+        },
+        {
+          "number": 4,
+          "text": "numquid rugiet leo in saltu, nisi habuerit prdam? numquid dabit catulus leonis vocem de cubili suo, nisi aliquid apprehenderit?"
+        },
+        {
+          "number": 5,
+          "text": "numquid cadet avis in laqueum terr absque aucupe? numquid auferetur laqueus de terra antequam quid ceperit?"
+        },
+        {
+          "number": 6,
+          "text": "si clanget tuba in civitate, et populus non expavescet? si erit malum in civitate, quod Dominus non fecerit?"
+        },
+        {
+          "number": 7,
+          "text": "Quia non facit Dominus Deus verbum, nisi revelaverit secretum suum ad servos suos prophetas."
+        },
+        {
+          "number": 8,
+          "text": "Leo rugiet, quis non timebit? Dominus Deus locutus est, quis non prophetabit?"
+        },
+        {
+          "number": 9,
+          "text": "Auditum facite in dibus Azoti, et in dibus terr gypti, et dicite: Congregamini super montes Samari, et videte insanias multas in medio ejus, et calumniam patientes in penetralibus ejus."
+        },
+        {
+          "number": 10,
+          "text": "Et nescierunt facere rectum, dicit Dominus, thesaurizantes iniquitatem et rapinas in dibus suis."
+        },
+        {
+          "number": 11,
+          "text": "Propterea hc dicit Dominus Deus: Tribulabitur et circuietur terra: et detrahetur ex te fortitudo tua, et diripientur des tu."
+        },
+        {
+          "number": 12,
+          "text": "Hc dicit Dominus: Quomodo si eruat pastor de ore leonis duo crura, aut extremum auricul, sic eruentur filii Isral, qui habitant in Samaria in plaga lectuli, et in Damasci grabato."
+        },
+        {
+          "number": 13,
+          "text": "Audite, et contestamini in domo Jacob, dicit Dominus Deus exercituum;"
+        },
+        {
+          "number": 14,
+          "text": "quia in die cum visitare cpero prvaricationes Isral, super eum visitabo, et super altaria Bethel; et amputabuntur cornua altaris, et cadent in terram."
+        },
+        {
+          "number": 15,
+          "text": "Et percutiam domum hiemalem cum domo stiva, et peribunt domus eburne, et dissipabuntur des mult, dicit Dominus.]"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[Audite verbum hoc, vacc pingues, qu estis in monte Samari, qu calumniam facitis egenis et confringitis pauperes; qu dicitis dominis vestris: Afferte, et bibemus."
+        },
+        {
+          "number": 2,
+          "text": "Juravit Dominus Deus in sancto suo, quia ecce dies venient super vos, et levabunt vos in contis, et reliquias vestras in ollis ferventibus."
+        },
+        {
+          "number": 3,
+          "text": "Et per aperturas exibitis altera contra alteram, et projiciemini in Armon, dicit Dominus.]"
+        },
+        {
+          "number": 4,
+          "text": "[Venite ad Bethel, et impie agite; ad Galgalam, et multiplicate prvaricationem: et afferte mane victimas vestras, tribus diebus decimas vestras."
+        },
+        {
+          "number": 5,
+          "text": "Et sacrificate de fermentato laudem, et vocate voluntarias oblationes, et annuntiate; sic enim voluistis, filii Isral, dicit Dominus Deus."
+        },
+        {
+          "number": 6,
+          "text": "Unde et ego dedi vobis stuporem dentium in cunctis urbibus vestris, et indigentiam panum in omnibus locis vestris; et non estis reversi ad me, dicit Dominus."
+        },
+        {
+          "number": 7,
+          "text": "Ego quoque prohibui a vobis imbrem, cum adhuc tres menses superessent usque ad messem: et plui super unam civitatem, et super alteram civitatem non plui; pars una compluta est, et pars super quam non plui, aruit."
+        },
+        {
+          "number": 8,
+          "text": "Et venerunt du et tres civitates ad unam civitatem ut biberent aquam, et non sunt satiat; et non redistis ad me, dicit Dominus."
+        },
+        {
+          "number": 9,
+          "text": "Percussi vos in vento urente, et in aurugine: multitudinem hortorum vestrorum et vinearum vestrarum, oliveta vestra et ficeta vestra comedit eruca: et non redistis ad me, dicit Dominus."
+        },
+        {
+          "number": 10,
+          "text": "Misi in vos mortem in via gypti; percussi in gladio juvenes vestros, usque ad captivitatem equorum vestrorum, et ascendere feci putredinem castrorum vestrorum in nares vestras: et non redistis ad me, dicit Dominus."
+        },
+        {
+          "number": 11,
+          "text": "Subverti vos sicut subvertit Deus Sodomam et Gomorrham, et facti estis quasi torris raptus ab incendio: et non redistis ad me, dicit Dominus."
+        },
+        {
+          "number": 12,
+          "text": "Quapropter hc faciam tibi, Isral: postquam autem hc fecero tibi, prparare in occursum Dei tui, Isral."
+        },
+        {
+          "number": 13,
+          "text": "Quia ecce formans montes, et creans ventum, et annuntians homini eloquium suum, faciens matutinam nebulam, et gradiens super excelsa terr: Dominus Deus exercituum nomen ejus.]"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[Audite verbum istud, quod ego levo super vos planctum: domus Isral cecidit, et non adjiciet ut resurgat."
+        },
+        {
+          "number": 2,
+          "text": "Virgo Isral projecta est in terram suam, non est qui suscitet eam."
+        },
+        {
+          "number": 3,
+          "text": "Quia hc dicit Dominus Deus: Urbs de qua egrediebantur mille, relinquentur in ea centum; et de qua egrediebantur centum, relinquentur in ea decem in domo Isral."
+        },
+        {
+          "number": 4,
+          "text": "Quia hc dicit Dominus domui Isral: Qurite me, et vivetis."
+        },
+        {
+          "number": 5,
+          "text": "Et nolite qurere Bethel, et in Galgalam nolite intrare, et in Bersabee non transibitis, quia Galgala captiva ducetur, et Bethel erit inutilis."
+        },
+        {
+          "number": 6,
+          "text": "Qurite Dominum, et vivite (ne forte comburatur ut ignis domus Joseph, et devorabit, et non erit qui extinguat Bethel:"
+        },
+        {
+          "number": 7,
+          "text": "qui convertitis in absinthium judicium, et justitiam in terra relinquitis):"
+        },
+        {
+          "number": 8,
+          "text": "facientem Arcturum et Orionem, et convertentem in mane tenebras, et diem in noctem mutantem; qui vocat aquas maris, et effundit eas super faciem terr; Dominus nomen est ejus:"
+        },
+        {
+          "number": 9,
+          "text": "qui subridet vastitatem super robustum, et depopulationem super potentem affert."
+        },
+        {
+          "number": 10,
+          "text": "Odio habuerunt corripientem in porta, et loquentem perfecte abominati sunt."
+        },
+        {
+          "number": 11,
+          "text": "Idcirco, pro eo quod diripiebatis pauperem, et prdam electam tollebatis ab eo, domos quadro lapide dificabitis, et non habitabitis in eis; vineas plantabis amantissimas, et non bibetis vinum earum."
+        },
+        {
+          "number": 12,
+          "text": "Quia cognovi multa scelera vestra, et fortia peccata vestra: hostes justi, accipientes munus, et pauperes deprimentes in porta."
+        },
+        {
+          "number": 13,
+          "text": "Ideo prudens in tempore illo tacebit, quia tempus malum est."
+        },
+        {
+          "number": 14,
+          "text": "Qurite bonum, et non malum, ut vivatis; et erit Dominus Deus exercituum vobiscum, sicut dixistis."
+        },
+        {
+          "number": 15,
+          "text": "Odite malum et diligite bonum, et constituite in porta judicium: si forte misereatur Dominus Deus exercituum reliquiis Joseph."
+        },
+        {
+          "number": 16,
+          "text": "Propterea hc dicit Dominus Deus exercituum, dominator: In omnibus plateis planctus; et in cunctis qu foris sunt, dicetur: V, v! et vocabunt agricolam ad luctum, et ad planctum eos qui sciunt plangere."
+        },
+        {
+          "number": 17,
+          "text": "Et in omnibus vineis erit planctus, quia pertransibo in medio tui, dicit Dominus.]"
+        },
+        {
+          "number": 18,
+          "text": "[V desiderantibus diem Domini! ad quid eam vobis? Dies Domini ista, tenebr, et non lux."
+        },
+        {
+          "number": 19,
+          "text": "Quomodo si fugiat vir a facie leonis, et occurrat ei ursus; et ingrediatur domum, et innitatur manu sua super parietem, et mordeat eum coluber."
+        },
+        {
+          "number": 20,
+          "text": "Numquid non tenebr dies Domini, et non lux; et caligo, et non splendor in ea?"
+        },
+        {
+          "number": 21,
+          "text": "Odi, et projeci festivitates vestras, et non capiam odorem ctuum vestrorum."
+        },
+        {
+          "number": 22,
+          "text": "Quod si obtuleritis mihi holocautomata, et munera vestra, non suscipiam; et vota pinguium vestrorum non respiciam."
+        },
+        {
+          "number": 23,
+          "text": "Aufer a me tumultum carminum tuorum; et cantica lyr tu non audiam."
+        },
+        {
+          "number": 24,
+          "text": "Et revelabitur quasi aqua judicium, et justitia quasi torrens fortis."
+        },
+        {
+          "number": 25,
+          "text": "Numquid hostias et sacrificium obtulistis mihi in deserto quadraginta annis, domus Isral?"
+        },
+        {
+          "number": 26,
+          "text": "et portastis tabernaculum Moloch vestro, et imaginem idolorum vestrorum, sidus dei vestri, qu fecistis vobis."
+        },
+        {
+          "number": 27,
+          "text": "Et migrare vos faciam trans Damascum, dicit Dominus: Deus exercituum nomen ejus.]"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[V qui opulenti estis in Sion, et confiditis in monte Samari: optimates capita populorum, ingredientes pompatice domum Isral!"
+        },
+        {
+          "number": 2,
+          "text": "Transite in Chalane, et videte, et ite inde in Emath magnam, et descendite in Geth Palstinorum, et ad optima quque regna horum: si latior terminus eorum termino vestro est."
+        },
+        {
+          "number": 3,
+          "text": "Qui separati estis in diem malum, et appropinquatis solio iniquitatis;"
+        },
+        {
+          "number": 4,
+          "text": "qui dormitis in lectis eburneis, et lascivitis in stratis vestris; qui comeditis agnum de grege, et vitulos de medio armenti;"
+        },
+        {
+          "number": 5,
+          "text": "qui canitis ad vocem psalterii, sicut David putaverunt se habere vasa cantici,"
+        },
+        {
+          "number": 6,
+          "text": "bibentes vinum in phialis, et optimo unguento delibuti, et nihil patiebantur super contritione Joseph."
+        },
+        {
+          "number": 7,
+          "text": "Quapropter nunc migrabunt in capite transmigrantium, et auferetur factio lascivientium."
+        },
+        {
+          "number": 8,
+          "text": "Juravit Dominus Deus in anima sua, dicit Dominus Deus exercituum: Detestor ego superbiam Jacob, et domos ejus odi, et tradam civitatem cum habitatoribus suis."
+        },
+        {
+          "number": 9,
+          "text": "Quod si reliqui fuerint decem viri in domo una, et ipsi morientur."
+        },
+        {
+          "number": 10,
+          "text": "Et tollet eum propinquus suus, et comburet eum, ut efferat ossa de domo; et dicet ei, qui in penetralibus domus est: Numquid adhuc est penes te?"
+        },
+        {
+          "number": 11,
+          "text": "Et respondebit: Finis est. Et dicet ei: Tace, et non recorderis nominis Domini."
+        },
+        {
+          "number": 12,
+          "text": "Quia ecce Dominus mandabit, et percutiet domum majorem ruinis, et domum minorem scissionibus."
+        },
+        {
+          "number": 13,
+          "text": "Numquid currere queunt in petris equi, aut arari potest in bubalis? quoniam convertistis in amaritudinem judicium, et fructum justiti in absinthium."
+        },
+        {
+          "number": 14,
+          "text": "Qui ltamini in nihilo; qui dicitis: Numquid non in fortitudine nostra assumpsimus nobis cornua?"
+        },
+        {
+          "number": 15,
+          "text": "Ecce enim suscitabo super vos, domus Isral, dicit Dominus Deus exercituum, gentem, et conteret vos ab introitu Emath usque ad torrentem deserti.]"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hc ostendit mihi Dominus Deus: et ecce fictor locust in principio germinantium serotini imbris, et ecce serotinus post tonsionem regis."
+        },
+        {
+          "number": 2,
+          "text": "Et factum est, cum consummasset comedere herbam terr, dixi: Domine Deus, propitius esto, obsecro; quis suscitabit Jacob, quia parvulus est?"
+        },
+        {
+          "number": 3,
+          "text": "Misertus est Dominus super hoc: Non erit, dixit Dominus."
+        },
+        {
+          "number": 4,
+          "text": "Hc ostendit mihi Dominus Deus: et ecce vocabat judicium ad ignem Dominus Deus; et devoravit abyssum multam, et comedit simul partem."
+        },
+        {
+          "number": 5,
+          "text": "Et dixi: Domine Deus, quiesce, obsecro; quis suscitabit Jacob, quia parvulus est?"
+        },
+        {
+          "number": 6,
+          "text": "Misertus est Dominus super hoc: Sed et istud non erit, dixit Dominus."
+        },
+        {
+          "number": 7,
+          "text": "Hc ostendit mihi Dominus: et ecce Dominus stans super murum litum, et in manu ejus trulla cmentarii."
+        },
+        {
+          "number": 8,
+          "text": "Et dixit Dominus ad me: Quid tu vides, Amos? Et dixi: Trullam cmentarii. Et dixit Dominus: [Ecce ego ponam trullam in medio populi mei Isral; non adjiciam ultra superinducere eum."
+        },
+        {
+          "number": 9,
+          "text": "Et demolientur excelsa idoli, et sanctificationes Isral desolabuntur, et consurgam super domum Jeroboam in gladio.]"
+        },
+        {
+          "number": 10,
+          "text": "Et misit Amasias, sacerdos Bethel, ad Jeroboam, regem Isral, dicens: Rebellavit contra te Amos in medio domus Isral; non poterit terra sustinere universos sermones ejus."
+        },
+        {
+          "number": 11,
+          "text": "Hc enim dicit Amos: In gladio morietur Jeroboam, et Isral captivus migrabit de terra sua."
+        },
+        {
+          "number": 12,
+          "text": "Et dixit Amasias ad Amos: Qui vides, gradere: fuge in terram Juda, et comede ibi panem, et prophetabis ibi."
+        },
+        {
+          "number": 13,
+          "text": "Et in Bethel non adjicies ultra ut prophetes, quia sanctificatio regis est, et domus regni est."
+        },
+        {
+          "number": 14,
+          "text": "Responditque Amos, et dixit ad Amasiam: Non sum propheta, et non sum filius prophet: sed armentarius ego sum vellicans sycomoros."
+        },
+        {
+          "number": 15,
+          "text": "Et tulit me Dominus cum sequerer gregem, et dixit Dominus ad me: Vade, propheta ad populum meum Isral."
+        },
+        {
+          "number": 16,
+          "text": "Et nunc audi verbum Domini: [Tu dicis: Non prophetabis super Isral, et non stillabis super domum idoli."
+        },
+        {
+          "number": 17,
+          "text": "Propter hoc hc dicit Dominus: Uxor tua in civitate fornicabitur, et filii tui et fili tu in gladio cadent, et humus tua funiculo metietur: et tu in terra polluta morieris, et Isral captivus migrabit de terra sua.]"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hc ostendit mihi Dominus Deus: et ecce uncinus pomorum."
+        },
+        {
+          "number": 2,
+          "text": "Et dixit: Quid tu vides, Amos? Et dixi: Uncinum pomorum. Et dixit Dominus ad me: [Venit finis super populum meum Isral; non adjiciam ultra ut pertranseam eum."
+        },
+        {
+          "number": 3,
+          "text": "Et stridebunt cardines templi in die illa, dicit Dominus Deus: multi morientur; in omni loco projicietur silentium.]"
+        },
+        {
+          "number": 4,
+          "text": "[Audite hoc, qui conteritis pauperem, et deficere facitis egenos terr,"
+        },
+        {
+          "number": 5,
+          "text": "dicentes: Quando transibit mensis, et venundabimus merces? et sabbatum, et aperiemus frumentum, ut imminuamus mensuram, et augeamus siclum, et supponamus stateras dolosas,"
+        },
+        {
+          "number": 6,
+          "text": "ut possideamus in argento egenos et pauperes pro calceamentis, et quisquilias frumenti vendamus?"
+        },
+        {
+          "number": 7,
+          "text": "Juravit Dominus in superbiam Jacob: Si oblitus fuero usque ad finem omnia opera eorum."
+        },
+        {
+          "number": 8,
+          "text": "Numquid super isto non commovebitur terra, et lugebit omnis habitator ejus, et ascendet quasi fluvius universus, et ejicicetur, et defluet, quasi rivus gypti?"
+        },
+        {
+          "number": 9,
+          "text": "Et erit in die illa, dicit Dominus Deus: occidet sol in meridie, et tenebrescere faciam terram in die luminis:"
+        },
+        {
+          "number": 10,
+          "text": "et convertam festivitates vestras in luctum, et omnia cantica vestra in planctum, et inducam super omne dorsum vestrum saccum, et super omne caput calvitium: et ponam eam quasi luctum unigeniti, et novissima ejus quasi diem amarum."
+        },
+        {
+          "number": 11,
+          "text": "Ecce dies veniunt, dicet Dominus, et mittam famem in terram: non famem panis, neque sitim aqu, sed audiendi verbum Domini."
+        },
+        {
+          "number": 12,
+          "text": "Et commovebuntur a mari usque ad mare, et ab aquilone usque ad orientem: circuibunt qurentes verbum Domini, et non invenient."
+        },
+        {
+          "number": 13,
+          "text": "In die illa deficient virgines pulchr et adolescentes in siti,"
+        },
+        {
+          "number": 14,
+          "text": "qui jurant in delicto Samari, et dicunt: Vivit Deus tuus, Dan, et vivit via Bersabee; et cadent, et non resurgent ultra.]"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vidi Dominum stantem super altare, et dixit: [Percute cardinem, et commoveantur superliminaria: avaritia enim in capite omnium, et novissimum eorum in gladio interficiam; non erit fuga eis. Fugient, et non salvabitur ex eis qui fugerit."
+        },
+        {
+          "number": 2,
+          "text": "Si descenderint usque ad infernum, inde manus mea educet eos; et si ascenderint usque in clum, inde detraham eos."
+        },
+        {
+          "number": 3,
+          "text": "Et si absconditi fuerint in vertice Carmeli, inde scrutans auferam eos; et si celaverint se ab oculis meis in profundo maris, ibi mandabo serpenti, et mordebit eos."
+        },
+        {
+          "number": 4,
+          "text": "Et si abierint in captivitatem coram inimicis suis, ibi mandabo gladio, et occidet eos: et ponam oculos meos super eos in malum, et non in bonum."
+        },
+        {
+          "number": 5,
+          "text": "Et Dominus Deus exercituum, qui tangit terram, et tabescet, et lugebunt omnes habitantes in ea: et ascendet sicut rivus omnis, et defluet sicut fluvius gypti."
+        },
+        {
+          "number": 6,
+          "text": "Qui dificat in clo ascensionem suam, et fasciculum suum super terram fundavit; qui vocat aquas maris, et effundit eas super faciem terr: Dominus nomen ejus."
+        },
+        {
+          "number": 7,
+          "text": "Numquid non ut filii thiopum vos estis mihi, filii Isral? ait Dominus. Numquid non Isral ascendere feci de terra gypti, et Palstinos de Cappadocia, et Syros de Cyrene?]"
+        },
+        {
+          "number": 8,
+          "text": "[Ecce oculi Domini Dei super regnum peccans: et conteram illud a facie terr; verumtamen conterens non conteram domum Jacob, dicit Dominus."
+        },
+        {
+          "number": 9,
+          "text": "Ecce enim mandabo ego, et concutiam in omnibus gentibus domum Isral, sicut concutitur triticum in cribro, et non cadet lapillus super terram."
+        },
+        {
+          "number": 10,
+          "text": "In gladio morientur omnes peccatores populi mei, qui dicunt: Non appropinquabit, et non veniet super nos malum."
+        },
+        {
+          "number": 11,
+          "text": "In die illa suscitabo tabernaculum David, quod cecidit: et redificabo aperturas murorum ejus, et ea qu corruerant instaurabo: et redificabo illud sicut in diebus antiquis,"
+        },
+        {
+          "number": 12,
+          "text": "ut possideant reliquias Idum, et omnes nationes: eo quod invocatum sit nomen meum super eos, dicit Dominus faciens hc."
+        },
+        {
+          "number": 13,
+          "text": "Ecce dies veniunt, dicit Dominus, et comprehendet arator messorem, et calcator uv mittentem semen: et stillabunt montes dulcedinem, et omnes colli culti erunt."
+        },
+        {
+          "number": 14,
+          "text": "Et convertam captivitatem populi mei Isral; et dificabunt civitates desertas, et inhabitabunt; et plantabunt vineas, et bibent vinum earum, et facient hortos, et comedent fructus eorum."
+        },
+        {
+          "number": 15,
+          "text": "Et plantabo eos super humum suam, et non evellam eos ultra de terra sua, quam dedi eis, dicit Dominus Deus tuus.]"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "version": "kar",
+  "book": "Gal",
+  "bookId": 48,
+  "englishName": "Galatians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pál, apostol (nem emberektől, sem nem ember által, hanem Jézus Krisztus által és az Atya Isten által, a ki feltámasztotta őt a halálból);"
+        },
+        {
+          "number": 2,
+          "text": "És a velem levő összes atyafiak, Galátzia gyülekezeteinek:"
+        },
+        {
+          "number": 3,
+          "text": "Kegyelem néktek és békesség az Atya Istentől, és a mi Urunk Jézus Krisztustól,"
+        },
+        {
+          "number": 4,
+          "text": "A ki adta önmagát a mi bűneinkért hogy kiszabadítson minket e jelenvaló gonosz világból, az Istennek és a mi Atyánknak akarata szerint."
+        },
+        {
+          "number": 5,
+          "text": "A kinek dicsőség örökkön örökké! Ámen."
+        },
+        {
+          "number": 6,
+          "text": "Csodálkozom, hogy Attól, a ki titeket Krisztus kegyelme által elhívott, ily hamar más evangyéliomra hajlotok."
+        },
+        {
+          "number": 7,
+          "text": "Holott nincs más; de némelyek zavarnak titeket, és el akarják ferdíteni a Krisztus evangyéliomát."
+        },
+        {
+          "number": 8,
+          "text": "De ha szinte mi, avagy mennyből való angyal hirdetne is néktek valamit azon kívül, a mit néktek hirdettünk, legyen átok."
+        },
+        {
+          "number": 9,
+          "text": "A mint előbb mondottuk, most is ismét mondom: Ha valaki néktek hirdet valamit azon kívül, a mit elfogadtatok, átok legyen."
+        },
+        {
+          "number": 10,
+          "text": "Mert most embereknek engedek-é, avagy az Istennek? Vagy embereknek igyekezem-é tetszeni? Bizonyára, ha még embereknek igyekezném tetszeni, Krisztus szolgája nem volnék."
+        },
+        {
+          "number": 11,
+          "text": "Tudtotokra adom pedig atyámfiai, hogy az az evangyéliom, melyet én hirdettem, nem ember szerint való;"
+        },
+        {
+          "number": 12,
+          "text": "Mert én sem embertől vettem azt, sem nem tanítottak arra, hanem a Jézus Krisztus kijelentése által."
+        },
+        {
+          "number": 13,
+          "text": "Mert hallottátok, mint forgolódtam én egykor a zsidóságban, hogy én felette igen háborgattam az Isten anyaszentegyházát, és pusztítottam azt."
+        },
+        {
+          "number": 14,
+          "text": "És felülmultam a zsidóságban nemzetembeli sok kortársamat, szerfelett rajongván atyai hagyományaimért."
+        },
+        {
+          "number": 15,
+          "text": "De mikor az Istennek tetszett, ki elválasztott engem az én anyám méhétől fogva és elhívott az ő kegyelme által,"
+        },
+        {
+          "number": 16,
+          "text": "Hogy kijelentse az ő Fiát én bennem, hogy hirdessem őt a pogányok között: azonnal nem tanácskoztam testtel és vérrel,"
+        },
+        {
+          "number": 17,
+          "text": "Sem nem mentem Jeruzsálembe az előttem való apostolokhoz, hanem elmentem Arábiába, és ismét visszatértem Damaskusba."
+        },
+        {
+          "number": 18,
+          "text": "Azután három esztendő mulva fölmentem Jeruzsálembe, hogy Pétert meglátogassam, és nála maradtam tizenöt napig."
+        },
+        {
+          "number": 19,
+          "text": "Az apostolok közül pedig mást nem láttam, hanem csak Jakabot, az Úr atyjafiát."
+        },
+        {
+          "number": 20,
+          "text": "A miket pedig néktek írok, ímé Isten előtt mondom, hogy nem hazudom."
+        },
+        {
+          "number": 21,
+          "text": "Azután mentem Siriának és Ciliciának tartományaiba."
+        },
+        {
+          "number": 22,
+          "text": "Ismeretlen valék pedig személyesen a Júdeában levő keresztyén gyülekezetek előtt;"
+        },
+        {
+          "number": 23,
+          "text": "Hanem csak hallották, hogy: A ki minket üldözött egykor, most hirdeti azt a hitet, a melyet egykor pusztított."
+        },
+        {
+          "number": 24,
+          "text": "És dicsőíték bennem az Istent."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Azután tizennégy esztendő mulva ismét fölmentem Jeruzsálembe Barnabással együtt, elvivén Titust is."
+        },
+        {
+          "number": 2,
+          "text": "Fölmentem pedig kijelentés következtében és eléjök adtam az evangyéliomot, melyet hirdetek a pogányok között, de külön a tekintélyeseknek, hogy valami módon hiába ne fussak, avagy ne futottam légyen."
+        },
+        {
+          "number": 3,
+          "text": "De még a velem levő Titus sem kényszeríttetett a körülmetélkedésre, noha görög vala,"
+        },
+        {
+          "number": 4,
+          "text": "Tudniillik a belopózkodott hamis atyafiakért, a kik alattomban közénk jöttek, hogy kikémleljék a mi szabadságunkat, melylyel bírunk a Krisztus Jézusban, hogy minket szolgákká tegyenek:"
+        },
+        {
+          "number": 5,
+          "text": "Kiknek egy pillanatra sem adtuk meg magunkat, hogy az evangyéliom igazsága megmaradjon számotokra."
+        },
+        {
+          "number": 6,
+          "text": "A tekintélyesektől pedig, (bárminők valának régen, azzal nem törődöm; Isten nem nézi az embernek személyét): mert velem a tekintélyesek semmit sem közöltek;"
+        },
+        {
+          "number": 7,
+          "text": "Sőt ellenkezőleg, mikor látták, hogy én reám van bízva a körülmetéletlenség evangyélioma, mint Péterre a körülmetélésé;"
+        },
+        {
+          "number": 8,
+          "text": "(Mert a ki erős volt Péterben a körülmetélkedés apostolságára, bennem is erős volt a pogányok között)."
+        },
+        {
+          "number": 9,
+          "text": "És elismervén a nékem adatott kegyelmet, Jakab és Kéfás, meg János, kik oszlopokul tekintetnek, bajtársi jobbjukat nyujták nékem és Barnabásnak, hogy mi a pogányok között, ők pedig a körülmetélés között prédikáljunk:"
+        },
+        {
+          "number": 10,
+          "text": "Csakhogy a szegényekről megemlékezzünk; a mit is én igyekeztem megcselekedni."
+        },
+        {
+          "number": 11,
+          "text": "Mikor pedig Péter Antiókhiába jött, szemtől szembe ellene állottam, mivel panasz volt rá."
+        },
+        {
+          "number": 12,
+          "text": "Mert mielőtt némelyek oda jöttek Jakabtól, a pogányokkal együtt evett; mikor pedig oda jöttek, félrevonult és elkülönítette magát, félvén a körülmetélkedésből valóktól."
+        },
+        {
+          "number": 13,
+          "text": "És vele képmutatóskodtak a többi zsidók is, úgy hogy Barnabás szintén elcsábíttatott az ő tettetésök által."
+        },
+        {
+          "number": 14,
+          "text": "De mikor láttam, hogy nem egyenesen járnak az evangyéliom igazságához képest, mondék Péternek mindnyájok előtt: Ha te zsidó létedre pogány módra élsz és nem zsidó módra, miként kényszeríted a pogányokat, hogy zsidó módra éljenek?"
+        },
+        {
+          "number": 15,
+          "text": "Mi, természet szerint zsidók és nem pogányok közül való bűnösök,"
+        },
+        {
+          "number": 16,
+          "text": "Tudván azt, hogy az ember nem igazul meg a törvény cselekedeteiből, hanem a Jézus Krisztusban való hit által, mi is Krisztus Jézusban hittünk, hogy megigazuljunk a Krisztusban való hitből és nem a törvény cselekedeteiből; Mivel a törvény cselekedeteiből nem igazul meg egy test sem."
+        },
+        {
+          "number": 17,
+          "text": "Ha pedig Krisztusban keresvén a megigazulást, mimagunk is bűnösöknek találtatunk, avagy Krisztus bűnnek szolgája-é? Távol legyen."
+        },
+        {
+          "number": 18,
+          "text": "Mert, ha a miket elrontottam, azokat ismét fölépítem, önmagamat teszem bűnössé."
+        },
+        {
+          "number": 19,
+          "text": "Mert én a törvény által meghaltam a törvénynek, hogy Istennek éljek."
+        },
+        {
+          "number": 20,
+          "text": "Krisztussal együtt megfeszíttettem. Élek pedig többé nem én, hanem él bennem a Krisztus; a mely életet pedig most testben élek, az Isten Fiában való hitben élem, a ki szeretett engem és önmagát adta érettem."
+        },
+        {
+          "number": 21,
+          "text": "Nem törlöm el az Isten kegyelmét; mert ha a törvény által van az igazság, tehát Krisztus ok nélkül halt meg."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Óh balgatag Galátziabeliek, kicsoda ígézett meg titeket, hogy ne engedelmeskedjetek az igazságnak, kiknek szemei előtt a Jézus Krisztus úgy íratott le, mintha ti köztetek feszíttetett volna meg?"
+        },
+        {
+          "number": 2,
+          "text": "Csak azt akarom megtudni tőletek: a törvény cselekedeteiből kaptátok-é a Lelket, avagy a hit hallásából?"
+        },
+        {
+          "number": 3,
+          "text": "Ennyire esztelenek vagytok? A mit Lélekben kezdtetek el, most testben fejeznétek be?"
+        },
+        {
+          "number": 4,
+          "text": "Annyit szenvedtetek hiába? ha ugyan hiába."
+        },
+        {
+          "number": 5,
+          "text": "Annakokáért, a ki a Lelket szolgáltatja néktek, és hatalmas dolgokat művel bennetek, a törvény cselekedeteiből, vagy a hit hallásából cselekeszi-é?"
+        },
+        {
+          "number": 6,
+          "text": "Miképen Ábrahám hitt az Istennek, és tulajdoníttatott néki igazságul."
+        },
+        {
+          "number": 7,
+          "text": "Értsétek meg tehát, hogy a kik hitből vannak, azok az Ábrahám fiai."
+        },
+        {
+          "number": 8,
+          "text": "Előre látván pedig az Írás, hogy Isten hitből fogja megigazítani a pogányokat, eleve hirdette Ábrahámnak, hogy: Te benned fognak megáldatni minden népek."
+        },
+        {
+          "number": 9,
+          "text": "Ekként a hitből valók áldatnak meg a hívő Ábrahámmal."
+        },
+        {
+          "number": 10,
+          "text": "Mert a kik törvény cselekedeteiből vannak, átok alatt vannak; minthogy meg van írva: Átkozott minden, a ki meg nem marad mindazokban, a mik megirattak a törvény könyvében, hogy azokat cselekedje."
+        },
+        {
+          "number": 11,
+          "text": "Hogy pedig a törvény által senki sem igazul meg Isten előtt, nyilvánvaló, mert az igaz ember hitből él."
+        },
+        {
+          "number": 12,
+          "text": "A törvény pedig nincs hitből, hanem a mely ember cselekeszi azokat, élni fog azok által."
+        },
+        {
+          "number": 13,
+          "text": "Krisztus váltott meg minket a törvény átkától, átokká levén érettünk; mert meg van írva: Átkozott minden, a ki fán függ:"
+        },
+        {
+          "number": 14,
+          "text": "Hogy az Ábrahám áldása Krisztus Jézusban legyen a pogányokon, hogy a Lélek ígéretét elnyerjük hit által."
+        },
+        {
+          "number": 15,
+          "text": "Atyámfiai! ember szerint szólok. Lám az embernek megerősített testámentomát senki erőtelenné nem teszi, sem ahhoz hozzá nem ád."
+        },
+        {
+          "number": 16,
+          "text": "Az ígéretek pedig Ábrahámnak adattak és az ő magvának. Nem mondja: És a magvaknak, mint sokról; hanem mint egyről. És a te magodnak, a ki a Krisztus."
+        },
+        {
+          "number": 17,
+          "text": "Ezt mondom pedig, hogy a kötést, melyet Isten először megerősített a Krisztusra nézve, a négyszázharmincz esztendő multán keletkezett törvény nem teszi erőtelenné, hogy megsemmisítse az ígéretet."
+        },
+        {
+          "number": 18,
+          "text": "Mert ha törvényből van az örökség, akkor többé nem ígéretből; Ábrahámnak pedig ígéret által ajándékozta azt az Isten."
+        },
+        {
+          "number": 19,
+          "text": "Micsoda tehát a törvény? A bűnök okáért adatott, a míg eljő a Mag, a kinek tétetett az ígéret; rendeltetvén angyalok által, közbenjáró kezében."
+        },
+        {
+          "number": 20,
+          "text": "A közbenjáró pedig nem egyé, Isten ellenben egy."
+        },
+        {
+          "number": 21,
+          "text": "A törvény tehát az Isten ígéretei ellen van-é? Távol legyen! Mert ha olyan törvény adatott volna, a mely képes megeleveníteni, valóban a törvényből volna az igazság."
+        },
+        {
+          "number": 22,
+          "text": "De az Írás mindent bűn alá rekesztett, hogy az ígéret Jézus Krisztusban való hitből adassék a hívőknek."
+        },
+        {
+          "number": 23,
+          "text": "Minekelőtte pedig eljött a hit, törvény alatt őriztettünk, egybezárva az eljövendő hit kinyilatkoztatásáig."
+        },
+        {
+          "number": 24,
+          "text": "Ekként a törvény Krisztusra vezérlő mesterünkké lett, hogy hitből igazuljunk meg."
+        },
+        {
+          "number": 25,
+          "text": "De minekutána eljött a hit, nem vagyunk többé a vezérlő mester alatt."
+        },
+        {
+          "number": 26,
+          "text": "Mert mindnyájan Isten fiai vagytok a Krisztus Jézusban való hit által."
+        },
+        {
+          "number": 27,
+          "text": "Mert a kik Krisztusba keresztelkedtetek meg, Krisztust öltöztétek fel."
+        },
+        {
+          "number": 28,
+          "text": "Nincs zsidó, sem görög; nincs szolga, sem szabad; nincs férfi, sem nő; mert ti mindnyájan egyek vagytok a Krisztus Jézusban."
+        },
+        {
+          "number": 29,
+          "text": "Ha pedig Krisztuséi vagytok, tehát az Ábrahám magva vagytok, és ígéret szerint örökösök."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mondom pedig, hogy a meddig az örökös kiskorú, semmiben sem különbözik a szolgától, jóllehet ura mindennek;"
+        },
+        {
+          "number": 2,
+          "text": "Hanem gyámok és gondviselők alatt van az atyjától rendelt ideig."
+        },
+        {
+          "number": 3,
+          "text": "Azonképen mi is, mikor kiskorúak valánk, a világ elemei alá voltunk vettetve szolgaként:"
+        },
+        {
+          "number": 4,
+          "text": "Mikor pedig eljött az időnek teljessége, kibocsátotta Isten az ő Fiát, a ki asszonytól lett, a ki törvény alatt lett,"
+        },
+        {
+          "number": 5,
+          "text": "Hogy a törvény alatt levőket megváltsa, hogy elnyerjük a fiúságot."
+        },
+        {
+          "number": 6,
+          "text": "Minthogy pedig fiak vagytok, kibocsátotta az Isten az ő Fiának Lelkét a ti szíveitekbe, ki ezt kiáltja: Abba, Atya!"
+        },
+        {
+          "number": 7,
+          "text": "Azért nem vagy többé szolga, hanem fiú; ha pedig fiú, Istennek örököse is Krisztus által."
+        },
+        {
+          "number": 8,
+          "text": "Ámde akkor, mikor még nem ismertétek az Istent, azoknak szolgáltatok, a mik természet szerint nem istenek;"
+        },
+        {
+          "number": 9,
+          "text": "Most azonban, hogy megismertétek az Istent, sőt hogy megismert titeket az Isten, miként tértek vissza ismét az erőtelen és gyarló elemekhez, a melyeknek megint újból szolgálni akartok?"
+        },
+        {
+          "number": 10,
+          "text": "Megtartjátok a napokat és hónapokat és időket, meg az esztendőket."
+        },
+        {
+          "number": 11,
+          "text": "Féltelek titeket, hogy hiába fáradoztam körültetek."
+        },
+        {
+          "number": 12,
+          "text": "Legyetek olyanok, mint én; mert én is olyanná lettem, mint ti: atyámfiai, kérlek titeket, semmivel sem bántottatok meg engem."
+        },
+        {
+          "number": 13,
+          "text": "Tudjátok pedig, hogy testem erőtelensége miatt hirdettem néktek az evangyéliomot először."
+        },
+        {
+          "number": 14,
+          "text": "És megkísértetvén testemben, nem vetettetek meg, sem nem útáltatok meg engem, hanem úgy fogadtatok, mint Istennek angyalát, mint Krisztus Jézust."
+        },
+        {
+          "number": 15,
+          "text": "Hová lőn tehát a ti boldogságotok? Mert bizonyságot teszek néktek, hogy ti, ha lehetséges volt volna, szemeiteket kivájván, nékem adtátok volna."
+        },
+        {
+          "number": 16,
+          "text": "Tehát ellenségetek lettem-é, megmondván néktek az igazat?"
+        },
+        {
+          "number": 17,
+          "text": "Nem szépen buzgolkodnak érettetek, sőt minket ki akarnak rekeszteni, hogy mellettök buzgolkodjatok."
+        },
+        {
+          "number": 18,
+          "text": "Szép dolog pedig fáradozni a jóban mindenkor, és nem csupán akkor, ha köztetek vagyok."
+        },
+        {
+          "number": 19,
+          "text": "Gyermekeim! kiket ismét fájdalommal szűlök, míglen kiábrázolódik bennetek Krisztus."
+        },
+        {
+          "number": 20,
+          "text": "Szeretnék pedig most köztetek jelen lenni és változtatni a hangomon; mert bizonytalanságban vagyok felőletek."
+        },
+        {
+          "number": 21,
+          "text": "Mondjátok meg nékem, kik a törvény alatt akartok lenni: nem halljátok-é a törvényt?"
+        },
+        {
+          "number": 22,
+          "text": "Mert meg van írva, hogy Ábrahámnak két fia volt; egyik a szolgálótól, és a másik a szabadostól."
+        },
+        {
+          "number": 23,
+          "text": "De a szolgálótól való test szerint született; a szabadostól való pedig az ígéret által."
+        },
+        {
+          "number": 24,
+          "text": "Ezek mást példáznak: mert azok az asszonyok a két szövetség, az egyik a Sinai hegyről való, szolgaságra szűlő, ez Hágár,"
+        },
+        {
+          "number": 25,
+          "text": "Mert Hágár a Sinai hegy Arábiában, hasonlatos pedig a mostani Jeruzsálemhez, nevezetesen fiaival együtt szolgál."
+        },
+        {
+          "number": 26,
+          "text": "De a magasságos Jeruzsálem szabad, ez mindnyájunknak anyja,"
+        },
+        {
+          "number": 27,
+          "text": "Mert meg van írva: Ujjongj te meddő, ki nem szűlsz; vígadozzál és kiálts, ki nem vajudol; mert sokkal több az elhagyottnak magzatja, mint a kinek férje vagyon."
+        },
+        {
+          "number": 28,
+          "text": "Mi pedig, atyámfiai, Izsák szerint, ígéretnek gyermekei vagyunk."
+        },
+        {
+          "number": 29,
+          "text": "De valamint akkor a test szerint született üldözte a Lélek szerint valót, úgy most is."
+        },
+        {
+          "number": 30,
+          "text": "De mit mond az Írás? Űzd ki a szolgálót és az ő fiát; mert a szolgáló fia nem örököl a szabad nő fiával."
+        },
+        {
+          "number": 31,
+          "text": "Annakokáért, atyámfiai, nem vagyunk a szolgáló fiai, hanem a szabadoséi."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Annakokáért a szabadságban, melyre minket Krisztus megszabadított, álljatok meg, és ne kötelezzétek meg ismét magatokat szolgaságnak igájával."
+        },
+        {
+          "number": 2,
+          "text": "Ímé, én Pál mondom néktek, hogy ha körülmetélkedtek, Krisztus néktek semmit sem használ."
+        },
+        {
+          "number": 3,
+          "text": "Bizonyságot teszek pedig ismét minden embernek, a ki körülmetélkedik, hogy köteles az egész törvényt megtartani."
+        },
+        {
+          "number": 4,
+          "text": "Elszakadtatok Krisztustól, a kik a törvény által akartok megigazulni, a kegyelemből kiestetek."
+        },
+        {
+          "number": 5,
+          "text": "Mert mi a Lélek által, hitből várjuk az igazság reménységét."
+        },
+        {
+          "number": 6,
+          "text": "Mert Krisztus Jézusban sem a körülmetélkedés nem ér semmit, sem a körülmetélkedetlenség, hanem a szeretet által munkálkodó hit."
+        },
+        {
+          "number": 7,
+          "text": "Jól futottatok; kicsoda gátolt meg titeket, hogy ne engedelmeskedjetek az igazságnak?"
+        },
+        {
+          "number": 8,
+          "text": "Ez a hitetés nem attól van, a ki titeket hív."
+        },
+        {
+          "number": 9,
+          "text": "Kis kovász az egész tésztát megkeleszti."
+        },
+        {
+          "number": 10,
+          "text": "Bizodalmam van az Úrban ti hozzátok, hogy más értelemben nem lesztek; de a ki titeket megzavar, elveszi az ítéletet, bárki legyen."
+        },
+        {
+          "number": 11,
+          "text": "Én pedig atyámfiai, ha még a körülmetélést hirdetem, miért üldöztetem mégis? Akkor eltöröltetett a kereszt botránya."
+        },
+        {
+          "number": 12,
+          "text": "Bárcsak ki is metszetnék magukat, a kik titeket bujtogatnak."
+        },
+        {
+          "number": 13,
+          "text": "Mert ti szabadságra hivattatok atyámfiai; csakhogy a szabadság ürügy ne legyen a testnek, sőt szeretettel szolgáljatok egymásnak."
+        },
+        {
+          "number": 14,
+          "text": "Mert az egész törvény ez egy ígében teljesedik be: Szeresd felebarátodat, mint magadat."
+        },
+        {
+          "number": 15,
+          "text": "Ha pedig egymást marjátok és faljátok, vigyázzatok, hogy egymást fel ne emészszétek."
+        },
+        {
+          "number": 16,
+          "text": "Mondom pedig, Lélek szerint járjatok, és a testnek kívánságát véghez ne vigyétek."
+        },
+        {
+          "number": 17,
+          "text": "Mert a test a lélek ellen törekedik, a lélek pedig a test ellen; ezek pedig egymással ellenkeznek, hogy ne azokat cselekedjétek, a miket akartok."
+        },
+        {
+          "number": 18,
+          "text": "Ha azonban a Lélektől vezéreltettek, nem vagytok a törvény alatt."
+        },
+        {
+          "number": 19,
+          "text": "A testnek cselekedetei pedig nyilvánvalók, melyek ezek: házasságtörés, paráznaság, tisztátalanság, bujálkodás."
+        },
+        {
+          "number": 20,
+          "text": "Bálványimádás, varázslás, ellenségeskedések, versengések, gyűlölködések, harag, patvarkodások, viszszavonások, pártütések,"
+        },
+        {
+          "number": 21,
+          "text": "Irígységek, gyilkosságok, részegségek, dobzódások és ezekhez hasonlók: melyekről előre mondom néktek, a miképen már ezelőtt is mondottam, hogy a kik ilyeneket cselekesznek, Isten országának örökösei nem lesznek."
+        },
+        {
+          "number": 22,
+          "text": "De a Léleknek gyümölcse: szeretet, öröm, békesség, béketűrés, szívesség, jóság, hűség, szelídség, mértékletesség."
+        },
+        {
+          "number": 23,
+          "text": "Az ilyenek ellen nincs törvény."
+        },
+        {
+          "number": 24,
+          "text": "A kik pedig Krisztuséi, a testet megfeszítették indulataival és kívánságaival együtt."
+        },
+        {
+          "number": 25,
+          "text": "Ha Lélek szerint élünk, Lélek szerint is járjunk."
+        },
+        {
+          "number": 26,
+          "text": "Ne legyünk hiú dicsőség kívánók, egymást ingerlők, egymásra irígykedők."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Atyámfiai, még ha előfogja is az embert valami bűn, ti lelkiek, igazítsátok útba az olyant szelídségnek lelkével, ügyelvén magadra, hogy meg ne kísértessél te magad is."
+        },
+        {
+          "number": 2,
+          "text": "Egymás terhét hordozzátok, és úgy töltsétek be a Krisztus törvényét."
+        },
+        {
+          "number": 3,
+          "text": "Mert ha valaki azt véli, hogy ő valami, holott semmi, önmagát csalja meg."
+        },
+        {
+          "number": 4,
+          "text": "Minden ember pedig az ő maga cselekedetét vizsgálja meg, és akkor csakis önmagára nézve lesz dicsekedése és nem másra nézve."
+        },
+        {
+          "number": 5,
+          "text": "Mert kiki a maga terhét hordozza."
+        },
+        {
+          "number": 6,
+          "text": "A ki pedig az ígére taníttatik, közölje minden javát tanítójával."
+        },
+        {
+          "number": 7,
+          "text": "Ne tévelyegjetek, Isten nem csúfoltatik meg; mert a mit vet az ember, azt aratándja is."
+        },
+        {
+          "number": 8,
+          "text": "Mert a ki vet az ő testének, a testből arat veszedelmet; a ki pedig vet a léleknek, a lélekből arat örök életet."
+        },
+        {
+          "number": 9,
+          "text": "A jótéteményben pedig meg ne restüljünk, mert a maga idejében aratunk, ha el nem lankadunk."
+        },
+        {
+          "number": 10,
+          "text": "Annakokáért míg időnk van, cselekedjünk jót mindenekkel, kiváltképen pedig a mi hitünknek cselédeivel."
+        },
+        {
+          "number": 11,
+          "text": "Látjátok, mekkora betűkkel írok néktek a saját kezemmel!"
+        },
+        {
+          "number": 12,
+          "text": "A kik testre szépek szeretnének lenni, azok kényszerítenek titeket a körülmetélkedésre; csak azért, hogy a Krisztus keresztjéért ne üldöztessenek."
+        },
+        {
+          "number": 13,
+          "text": "Mert magok a körülmetélkedettek sem tartják meg a törvényt; hanem azért akarják, hogy ti körülmetélkedjetek, hogy a ti testetekkel dicsekedjenek."
+        },
+        {
+          "number": 14,
+          "text": "Nékem pedig ne legyen másban dicsekedésem, hanem a mi Urunk Jézus Krisztus keresztjében, a ki által nékem megfeszíttetett a világ, és én is a világnak."
+        },
+        {
+          "number": 15,
+          "text": "Mert Krisztus Jézusban sem a körülmetélkedés, sem a körülmetéletlenség nem használ semmit, hanem az új teremtés."
+        },
+        {
+          "number": 16,
+          "text": "És a kik e szabály szerint élnek, békesség és irgalmasság azokon, és az Istennek Izráelén."
+        },
+        {
+          "number": 17,
+          "text": "Ennekutána senki nékem bántásomra ne legyen; mert én az Úr Jézusnak bélyegeit hordozom az én testemben."
+        },
+        {
+          "number": 18,
+          "text": "A mi Urunk Jézus Krisztusnak kegyelme legyen a ti lelketekkel atyámfiai! Ámen."
+        }
+      ]
+    }
+  ]
+}

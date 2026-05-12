@@ -1,0 +1,491 @@
+{
+  "version": "lsg",
+  "book": "1Tim",
+  "bookId": 54,
+  "englishName": "1 Timothy",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paul, apôtre de Jésus-Christ, par ordre de Dieu notre Sauveur et de Jésus-Christ notre espérance,"
+        },
+        {
+          "number": 2,
+          "text": "Timothée, mon enfant légitime en la foi: que la grâce, la miséricorde et la paix, te soient données de la part de Dieu le Père et de Jésus-Christ notre Seigneur!"
+        },
+        {
+          "number": 3,
+          "text": "Je te rappelle l''exhortation que je te fis, à mon départ pour la Macédoine, lorsque je t''engageai à rester à Ephèse, afin de recommander à certaines personnes de ne pas enseigner d''autres doctrines,"
+        },
+        {
+          "number": 4,
+          "text": "et de ne pas s''attacher à des fables et à des généalogies sans fin, qui produisent des discussions plutôt qu''elles n''avancent l''oeuvre de Dieu dans la foi."
+        },
+        {
+          "number": 5,
+          "text": "Le but du commandement, c''est une charité venant d''un coeur pur, d''une bonne conscience, et d''une foi sincère."
+        },
+        {
+          "number": 6,
+          "text": "Quelques-uns, s''étant détournés de ces choses, se sont égarés dans de vains discours;"
+        },
+        {
+          "number": 7,
+          "text": "ils veulent être docteurs de la loi, et ils ne comprennent ni ce qu''ils disent, ni ce qu''ils affirment."
+        },
+        {
+          "number": 8,
+          "text": "Nous n''ignorons pas que la loi est bonne, pourvu qu''on en fasse un usage légitime,"
+        },
+        {
+          "number": 9,
+          "text": "sachant bien que la loi n''est pas faite pour le juste, mais pour les méchants et les rebelles, les impies et les pécheurs, les irréligieux et les profanes, les parricides, les meurtriers,"
+        },
+        {
+          "number": 10,
+          "text": "les impudiques, les infâmes, les voleurs d''hommes, les menteurs, les parjures, et tout ce qui est contraire à la saine doctrine, -"
+        },
+        {
+          "number": 11,
+          "text": "conformément à l''Evangile de la gloire du Dieu bienheureux, Evangile qui m''a été confié."
+        },
+        {
+          "number": 12,
+          "text": "Je rends grâces à celui qui m''a fortifié, à Jésus-Christ notre Seigneur, de ce qu''il m''a jugé fidèle, en m''établissant dans le ministère,"
+        },
+        {
+          "number": 13,
+          "text": "moi qui étais auparavant un blasphémateur, un persécuteur, un homme violent. Mais j''ai obtenu miséricorde, parce que j''agissais par ignorance, dans l''incrédulité;"
+        },
+        {
+          "number": 14,
+          "text": "et la grâce de notre Seigneur a surabondé, avec la foi et la charité qui est en Jésus-Christ."
+        },
+        {
+          "number": 15,
+          "text": "C''est une parole certaine et entièrement digne d''être reçue, que Jésus-Christ est venu dans le monde pour sauver les pécheurs, dont je suis le premier."
+        },
+        {
+          "number": 16,
+          "text": "Mais j''ai obtenu miséricorde, afin que Jésus-Christ fît voir en moi le premier toute sa longanimité, pour que je servisse d''exemple à ceux qui croiraient en lui pour la vie éternelle."
+        },
+        {
+          "number": 17,
+          "text": "Au roi des siècles, immortel, invisible, seul Dieu, soient honneur et gloire, aux siècles des siècles! Amen!"
+        },
+        {
+          "number": 18,
+          "text": "Le commandement que je t''adresse, Timothée, mon enfant, selon les prophéties faites précédemment à ton sujet, c''est que, d''après elles, tu combattes le bon combat,"
+        },
+        {
+          "number": 19,
+          "text": "en gardant la foi et une bonne conscience. Cette conscience, quelques-uns l''ont perdue, et ils ont fait naufrage par rapport à la foi."
+        },
+        {
+          "number": 20,
+          "text": "De ce nombre sont Hyménée et Alexandre, que j''ai livrés à Satan, afin qu''ils apprennent à ne pas blasphémer."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "J''exhorte donc, avant toutes choses, à faire des prières, des supplications, des requêtes, des actions de grâces, pour tous les hommes,"
+        },
+        {
+          "number": 2,
+          "text": "pour les rois et pour tous ceux qui sont élevés en dignité, afin que nous menions une vie paisible et tranquille, en toute piété et honnêteté."
+        },
+        {
+          "number": 3,
+          "text": "Cela est bon et agréable devant Dieu notre Sauveur,"
+        },
+        {
+          "number": 4,
+          "text": "qui veut que tous les hommes soient sauvés et parviennent à la connaissance de la vérité."
+        },
+        {
+          "number": 5,
+          "text": "Car il y a un seul Dieu, et aussi un seul médiateur entre Dieu et les hommes, Jésus-Christ homme,"
+        },
+        {
+          "number": 6,
+          "text": "qui s''est donné lui-même en rançon pour tous. C''est là le témoignage rendu en son propre temps,"
+        },
+        {
+          "number": 7,
+          "text": "et pour lequel j''ai été établi prédicateur et apôtre, -je dis la vérité, je ne mens pas, -chargé d''instruire les païens dans la foi et la vérité."
+        },
+        {
+          "number": 8,
+          "text": "Je veux donc que les hommes prient en tout lieu, en élevant des mains pures, sans colère ni mauvaises pensées."
+        },
+        {
+          "number": 9,
+          "text": "Je veux aussi que les femmes, vêtues d''une manière décente, avec pudeur et modestie, ne se parent ni de tresses, ni d''or, ni de perles, ni d''habits somptueux,"
+        },
+        {
+          "number": 10,
+          "text": "mais qu''elles se parent de bonnes oeuvres, comme il convient à des femmes qui font profession de servir Dieu."
+        },
+        {
+          "number": 11,
+          "text": "Que la femme écoute l''instruction en silence, avec une entière soumission."
+        },
+        {
+          "number": 12,
+          "text": "Je ne permets pas à la femme d''enseigner, ni de prendre de l''autorité sur l''homme; mais elle doit demeurer dans le silence."
+        },
+        {
+          "number": 13,
+          "text": "Car Adam a été formé le premier, Eve ensuite;"
+        },
+        {
+          "number": 14,
+          "text": "et ce n''est pas Adam qui a été séduit, c''est la femme qui, séduite, s''est rendue coupable de transgression."
+        },
+        {
+          "number": 15,
+          "text": "Elle sera néanmoins sauvée en devenant mère, si elle persévère avec modestie dans la foi, dans la charité, et dans la sainteté."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cette parole est certaine: Si quelqu''un aspire à la charge d''évêque, il désire une oeuvre excellente."
+        },
+        {
+          "number": 2,
+          "text": "Il faut donc que l''évêque soit irréprochable, mari d''une seule femme, sobre, modéré, réglé dans sa conduite, hospitalier, propre à l''enseignement."
+        },
+        {
+          "number": 3,
+          "text": "Il faut qu''il ne soit ni adonné au vin, ni violent, mais indulgent, pacifique, désintéressé."
+        },
+        {
+          "number": 4,
+          "text": "Il faut qu''il dirige bien sa propre maison, et qu''il tienne ses enfants dans la soumission et dans une parfaite honnêteté;"
+        },
+        {
+          "number": 5,
+          "text": "car si quelqu''un ne sait pas diriger sa propre maison, comment prendra-t-il soin de l''Eglise de Dieu?"
+        },
+        {
+          "number": 6,
+          "text": "Il ne faut pas qu''il soit un nouveau converti, de peur qu''enflé d''orgueil il ne tombe sous le jugement du diable."
+        },
+        {
+          "number": 7,
+          "text": "Il faut aussi qu''il reçoive un bon témoignage de ceux du dehors, afin de ne pas tomber dans l''opprobre et dans les pièges du diable."
+        },
+        {
+          "number": 8,
+          "text": "Les diacres aussi doivent être honnêtes, éloignés de la duplicité, des excès du vin, d''un gain sordide,"
+        },
+        {
+          "number": 9,
+          "text": "conservant le mystère de la foi dans une conscience pure."
+        },
+        {
+          "number": 10,
+          "text": "Qu''on les éprouve d''abord, et qu''ils exercent ensuite leur ministère, s''ils sont sans reproche."
+        },
+        {
+          "number": 11,
+          "text": "Les femmes, de même, doivent être honnêtes, non médisantes, sobres, fidèles en toutes choses."
+        },
+        {
+          "number": 12,
+          "text": "Les diacres doivent être maris d''une seule femme, et diriger bien leurs enfants et leurs propres maisons;"
+        },
+        {
+          "number": 13,
+          "text": "car ceux qui remplissent convenablement leur ministère s''acquièrent un rang honorable, et une grande assurance dans la foi en Jésus-Christ."
+        },
+        {
+          "number": 14,
+          "text": "Je t''écris ces choses, avec l''espérance d''aller bientôt vers toi,"
+        },
+        {
+          "number": 15,
+          "text": "mais afin que tu saches, si je tarde, comment il faut se conduire dans la maison de Dieu, qui est l''Eglise du Dieu vivant, la colonne et l''appui de la vérité."
+        },
+        {
+          "number": 16,
+          "text": "Et, sans contredit, le mystère de la piété est grand: celui qui a été manifesté en chair, justifié par l''Esprit, vu des anges, prêché aux Gentils, cru dans le monde, élevé dans la gloire."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mais l''Esprit dit expressément que, dans les derniers temps, quelques-uns abandonneront la foi, pour s''attacher à des esprits séducteurs et à des doctrines de démons,"
+        },
+        {
+          "number": 2,
+          "text": "par l''hypocrisie de faux docteurs portant la marque de la flétrissure dans leur propre conscience,"
+        },
+        {
+          "number": 3,
+          "text": "prescrivant de ne pas se marier, et de s''abstenir d''aliments que Dieu a créés pour qu''ils soient pris avec actions de grâces par ceux qui sont fidèles et qui ont connu la vérité."
+        },
+        {
+          "number": 4,
+          "text": "Car tout ce que Dieu a créé est bon, et rien ne doit être rejeté, pourvu qu''on le prenne avec actions de grâces,"
+        },
+        {
+          "number": 5,
+          "text": "parce que tout est sanctifié par la parole de Dieu et par la prière."
+        },
+        {
+          "number": 6,
+          "text": "En exposant ces choses aux frères, tu seras un bon ministre de Jésus Christ, nourri des paroles de la foi et de la bonne doctrine que tu as exactement suivie."
+        },
+        {
+          "number": 7,
+          "text": "Repousse les contes profanes et absurdes. Exerce-toi à la piété;"
+        },
+        {
+          "number": 8,
+          "text": "car l''exercice corporel est utile à peu de chose, tandis que la piété est utile à tout, ayant la promesse de la vie présente et de celle qui est à venir."
+        },
+        {
+          "number": 9,
+          "text": "C''est là une parole certaine et entièrement digne d''être reçue."
+        },
+        {
+          "number": 10,
+          "text": "Nous travaillons, en effet, et nous combattons, parce que nous mettons notre espérance dans le Dieu vivant, qui est le Sauveur de tous les hommes, principalement des croyants."
+        },
+        {
+          "number": 11,
+          "text": "Déclare ces choses, et enseigne-les."
+        },
+        {
+          "number": 12,
+          "text": "Que personne ne méprise ta jeunesse; mais sois un modèle pour les fidèles, en parole, en conduite, en charité, en foi, en pureté."
+        },
+        {
+          "number": 13,
+          "text": "Jusqu''à ce que je vienne, applique-toi à la lecture, à l''exhortation, à l''enseignement."
+        },
+        {
+          "number": 14,
+          "text": "Ne néglige pas le don qui est en toi, et qui t''a été donné par prophétie avec l''imposition des mains de l''assemblée des anciens."
+        },
+        {
+          "number": 15,
+          "text": "Occupe-toi de ces choses, donne-toi tout entier à elles, afin que tes progrès soient évidents pour tous."
+        },
+        {
+          "number": 16,
+          "text": "Veille sur toi-même et sur ton enseignement; persévère dans ces choses, car, en agissant ainsi, tu te sauveras toi-même, et tu sauveras ceux qui t''écoutent."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ne réprimande pas rudement le vieillard, mais exhorte-le comme un père; exhorte les jeunes gens comme des frères,"
+        },
+        {
+          "number": 2,
+          "text": "les femmes âgées comme des mères, celles qui sont jeunes comme des soeurs, en toute pureté."
+        },
+        {
+          "number": 3,
+          "text": "Honore les veuves qui sont véritablement veuves."
+        },
+        {
+          "number": 4,
+          "text": "Si une veuve a des enfants ou des petits-enfants, qu''ils apprennent avant tout à exercer la piété envers leur propre famille, et à rendre à leurs parents ce qu''ils ont reçu d''eux; car cela est agréable à Dieu."
+        },
+        {
+          "number": 5,
+          "text": "Celle qui est véritablement veuve, et qui est demeurée dans l''isolement, met son espérance en Dieu et persévère nuit et jour dans les supplications et les prières."
+        },
+        {
+          "number": 6,
+          "text": "Mais celle qui vit dans les plaisirs est morte, quoique vivante."
+        },
+        {
+          "number": 7,
+          "text": "Déclare-leur ces choses, afin qu''elles soient irréprochables."
+        },
+        {
+          "number": 8,
+          "text": "Si quelqu''un n''a pas soin des siens, et principalement de ceux de sa famille, il a renié la foi, et il est pire qu''un infidèle."
+        },
+        {
+          "number": 9,
+          "text": "Qu''une veuve, pour être inscrite sur le rôle, n''ait pas moins de soixante ans, qu''elle ait été femme d''un seul mari,"
+        },
+        {
+          "number": 10,
+          "text": "qu''elle soit recommandable par de bonnes oeuvres, ayant élevé des enfants, exercé l''hospitalité, lavé les pieds des saints, secouru les malheureux, pratiqué toute espèce de bonne oeuvre."
+        },
+        {
+          "number": 11,
+          "text": "Mais refuse les jeunes veuves; car, lorsque la volupté les détache du Christ, elles veulent se marier,"
+        },
+        {
+          "number": 12,
+          "text": "et se rendent coupables en ce qu''elles violent leur premier engagement."
+        },
+        {
+          "number": 13,
+          "text": "Avec cela, étant oisives, elles apprennent à aller de maison en maison; et non seulement elles sont oisives, mais encore causeuses et intrigantes, disant ce qu''il ne faut pas dire."
+        },
+        {
+          "number": 14,
+          "text": "Je veux donc que les jeunes se marient, qu''elles aient des enfants, qu''elles dirigent leur maison, qu''elles ne donnent à l''adversaire aucune occasion de médire;"
+        },
+        {
+          "number": 15,
+          "text": "car déjà quelques-unes se sont détournées pour suivre Satan."
+        },
+        {
+          "number": 16,
+          "text": "Si quelque fidèle, homme ou femme, a des veuves, qu''il les assiste, et que l''Eglise n''en soit point chargée, afin qu''elle puisse assister celles qui sont véritablement veuves."
+        },
+        {
+          "number": 17,
+          "text": "Que les anciens qui dirigent bien soient jugés dignes d''un double honneur, surtout ceux qui travaillent à la prédication et à l''enseignement."
+        },
+        {
+          "number": 18,
+          "text": "Car l''Ecriture dit: Tu n''emmuselleras point le boeuf quand il foule le grain. Et l''ouvrier mérite son salaire."
+        },
+        {
+          "number": 19,
+          "text": "Ne reçois point d''accusation contre un ancien, si ce n''est sur la déposition de deux ou trois témoins."
+        },
+        {
+          "number": 20,
+          "text": "Ceux qui pèchent, reprends-les devant tous, afin que les autres aussi éprouvent de la crainte."
+        },
+        {
+          "number": 21,
+          "text": "Je te conjure devant Dieu, devant Jésus-Christ, et devant les anges élus, d''observer ces choses sans prévention, et de ne rien faire par faveur."
+        },
+        {
+          "number": 22,
+          "text": "N''impose les mains à personne avec précipitation, et ne participe pas aux péchés d''autrui; toi-même, conserve-toi pur."
+        },
+        {
+          "number": 23,
+          "text": "Ne continue pas à ne boire que de l''eau; mais fais usage d''un peu de vin, à cause de ton estomac et de tes fréquentes indispositions."
+        },
+        {
+          "number": 24,
+          "text": "Les péchés de certains hommes sont manifestes, même avant qu''on les juge, tandis que chez d''autres, ils ne se découvrent que dans la suite."
+        },
+        {
+          "number": 25,
+          "text": "De même, les bonnes oeuvres sont manifestes, et celles qui ne le sont pas ne peuvent rester cachées."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Que tous ceux qui sont sous le joug de la servitude regardent leurs maîtres comme dignes de tout honneur, afin que le nom de Dieu et la doctrine ne soient pas blasphémés."
+        },
+        {
+          "number": 2,
+          "text": "Et que ceux qui ont des fidèles pour maîtres ne les méprisent pas, sous prétexte qu''ils sont frères; mais qu''ils les servent d''autant mieux que ce sont des fidèles et des bien-aimés qui s''attachent à leur faire du bien. Enseigne ces choses et recommande-les."
+        },
+        {
+          "number": 3,
+          "text": "Si quelqu''un enseigne de fausses doctrines, et ne s''attache pas aux saines paroles de notre Seigneur Jésus-Christ et à la doctrine qui est selon la piété,"
+        },
+        {
+          "number": 4,
+          "text": "il est enflé d''orgueil, il ne sait rien, et il a la maladie des questions oiseuses et des disputes de mots, d''où naissent l''envie, les querelles, les calomnies, les mauvais soupçons,"
+        },
+        {
+          "number": 5,
+          "text": "les vaines discussions d''hommes corrompus d''entendement, privés de la vérité, et croyant que la piété est une source de gain."
+        },
+        {
+          "number": 6,
+          "text": "C''est, en effet, une grande source de gain que la piété avec le contentement;"
+        },
+        {
+          "number": 7,
+          "text": "car nous n''avons rien apporté dans le monde, et il est évident que nous n''en pouvons rien emporter;"
+        },
+        {
+          "number": 8,
+          "text": "si donc nous avons la nourriture et le vêtement, cela nous suffira."
+        },
+        {
+          "number": 9,
+          "text": "Mais ceux qui veulent s''enrichir tombent dans la tentation, dans le piège, et dans beaucoup de désirs insensés et pernicieux qui plongent les hommes dans la ruine et la perdition."
+        },
+        {
+          "number": 10,
+          "text": "Car l''amour de l''argent est une racine de tous les maux; et quelques-uns, en étant possédés, se sont égarés loin de la foi, et se sont jetés eux-mêmes dans bien des tourments."
+        },
+        {
+          "number": 11,
+          "text": "Pour toi, homme de Dieu, fuis ces choses, et recherche la justice, la piété, la foi, la charité, la patience, la douceur."
+        },
+        {
+          "number": 12,
+          "text": "Combats le bon combat de la foi, saisis la vie éternelle, à laquelle tu as été appelé, et pour laquelle tu as fait une belle confession en présence d''un grand nombre de témoins."
+        },
+        {
+          "number": 13,
+          "text": "Je te recommande, devant Dieu qui donne la vie à toutes choses, et devant Jésus-Christ, qui fit une belle confession devant Ponce Pilate,"
+        },
+        {
+          "number": 14,
+          "text": "de garder le commandement, et de vivre sans tache, sans reproche, jusqu''à l''apparition de notre Seigneur Jésus Christ,"
+        },
+        {
+          "number": 15,
+          "text": "que manifestera en son temps le bienheureux et seul souverain, le roi des rois, et le Seigneur des seigneurs,"
+        },
+        {
+          "number": 16,
+          "text": "qui seul possède l''immortalité, qui habite une lumière inaccessible, que nul homme n''a vu ni ne peut voir, à qui appartiennent l''honneur et la puissance éternelle. Amen!"
+        },
+        {
+          "number": 17,
+          "text": "Recommande aux riches du présent siècle de ne pas être orgueilleux, et de ne pas mettre leur espérance dans des richesses incertaines, mais de la mettre en Dieu, qui nous donne avec abondance toutes choses pour que nous en jouissions."
+        },
+        {
+          "number": 18,
+          "text": "Recommande-leur de faire du bien, d''être riches en bonnes oeuvres, d''avoir de la libéralité, de la générosité,"
+        },
+        {
+          "number": 19,
+          "text": "et de s''amasser ainsi pour l''avenir un trésor placé sur un fondement solide, afin de saisir la vie véritable."
+        },
+        {
+          "number": 20,
+          "text": "O Timothée, garde le dépôt, en évitant les discours vains et profanes, et les disputes de la fausse science"
+        },
+        {
+          "number": 21,
+          "text": "dont font profession quelques-uns, qui se sont ainsi détournés de la foi. Que la grâce soit avec vous!"
+        }
+      ]
+    }
+  ]
+}

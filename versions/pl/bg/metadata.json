@@ -1,0 +1,18 @@
+{
+  "slug": "bg",
+  "shortName": "BG",
+  "name": "Biblia Gdańska",
+  "language": "pl",
+  "year": 1632,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Gdańsk Bible, 1632).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31073
+  },
+  "readerUrl": "https://midvash.com/bg",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

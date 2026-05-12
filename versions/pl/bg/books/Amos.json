@@ -1,0 +1,638 @@
+{
+  "version": "bg",
+  "book": "Amos",
+  "bookId": 30,
+  "englishName": "Amos",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Słowa Amosa, który był między pasterzami z Tekua, które widział o Izraelu za dni Uzyjasza, króla Judzkiego, i za dni Jeroboama, syna Joazowego, króla Izraelskiego, dwa lata przed trzęsieniem ziemi."
+        },
+        {
+          "number": 2,
+          "text": "i rzekł: Zaryczy Pan z Syonu, z Jeruzalemu wyda głos swój;i będą płakały mieszkania pasterzy, a wyschną pola najwyborniejsze."
+        },
+        {
+          "number": 3,
+          "text": "Tak mówi Pan: Dla trzech występków Damaszku, owszem, dla czterech, nie przepuszczę mu, przeto, że młócili wozami żelaznemi Galaada;"
+        },
+        {
+          "number": 4,
+          "text": "Ale poślę ogień na dom Hazaela, który pożre pałace Benadadowe."
+        },
+        {
+          "number": 5,
+          "text": "Połamię też zaworę w Damaszku, a wykorzenię obywatela z doliny Awen, i tego, który trzyma sceptr z domu Heden; i pójdzie w niewolę lud Syryjski do Kir, mówi Pan."
+        },
+        {
+          "number": 6,
+          "text": "Tak mówi Pan: Dla trzech występków Gazy, owszem, dla czterech, nie przepuszczę im, przeto, że ich pojmawszy, w więzienie wieczne podawali Edomczykom;"
+        },
+        {
+          "number": 7,
+          "text": "Ale poślę ogień na mur Gazy, który pożre pałace jej."
+        },
+        {
+          "number": 8,
+          "text": "Wykorzenię też obywatela z Azotu, i tego, który trzyma sceptr z Aszkalonu, i obrócę rękę moję przeciwko Akkaronowi, że zginie ostatek Filistynów, mówi panujący Pan."
+        },
+        {
+          "number": 9,
+          "text": "Tak mówi Pan: Dla trzech występków Tyru, owszem, dla czterech, nie przepuszczę mu, przeto, że ich w więzienie wieczne podali Edomczykom, a nie wspomnieli na przymierze braterskie;"
+        },
+        {
+          "number": 10,
+          "text": "Ale poślę ogień na mur Tyrski, który pożre pałace jego."
+        },
+        {
+          "number": 11,
+          "text": "Tak mówi Pan: Dla trzech występków Edoma, owszem, dla czterech, nie przepuszczę mu, przeto, że zepsowawszy w sobie wszelaką litość swoję prześladuje mieczem brata swego, a gniewem swym ustawicznie pała, owszem, zapalczywość jego rozsila się bez przestania;"
+        },
+        {
+          "number": 12,
+          "text": "Ale poślę ogień na Teman, i pożre pałace w Bocra."
+        },
+        {
+          "number": 13,
+          "text": "Tak mówi Pan: Dla trzech występków synów Amonowych, owszem, dla czterech, nie przepuszczę mu, przeto, iż rozcinali brzemienne w Galaad, tylko aby rozszerzali granice swoje;"
+        },
+        {
+          "number": 14,
+          "text": "Ale rozniecę ogień na murze Rabby, który pożre pałace jego z krzykiem w dzień wojny, i z wichrem w dzień niepogody."
+        },
+        {
+          "number": 15,
+          "text": "I pójdzie król ich w niewolę, on i książęta jego z nim, mówi Pan."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tak mówi Pan: Dla trzech występków Moaba, owszem, dla czterech, nie przepuszczę mu, przeto, iż spalił kości króla Edomskiego na popiół;"
+        },
+        {
+          "number": 2,
+          "text": "Ale poślę ogień na Moaba, który pożre pałace Karyjot; i umrze Moab w huku, w krzyku i w głosie trąby."
+        },
+        {
+          "number": 3,
+          "text": "I wygładzę sędziów z pośrodku jego, i wszystkich książąt jego pobiję z nim, mówi Pan."
+        },
+        {
+          "number": 4,
+          "text": "Tak mówi Pan: Dla trzech występków Judzkich, owszem, dla czterech, nie przepuszczę mu, przeto, że odrzucają zakon Pański, i ustaw jego nie przestrzegają, a dadzą się zwodzić kłamstwom swoim, których naśladowali ojcowie ich;"
+        },
+        {
+          "number": 5,
+          "text": "Ale poślę ogień na Judę, który pożre pałace Jeruzalemskie."
+        },
+        {
+          "number": 6,
+          "text": "Tak mówi Pan: Dla trzech występków Izraelskich, owszem, dla czterech, nie przepuszczę mu, przeto, że sprawiedliwego za pieniądze sprzedawają, a ubogiego za parę trzewików;"
+        },
+        {
+          "number": 7,
+          "text": "Którzy usiłują, aby na proch potarli głowy ubogich, a drogę pokornych podwracają; nadto syn i ojciec jego wchodzą do jednejże dziewki, aby splugawili imię świętobliwości mojej;"
+        },
+        {
+          "number": 8,
+          "text": "I na szatach zastawionych kłaniają się przy każdym ołtarzu, a wino tych, co podpadli pod kaźń, piją w domu bogów swoich."
+        },
+        {
+          "number": 9,
+          "text": "Chociażem Ja wytracił Amorejczyka od oblicza ich, którego wysokość była jako wysokość cedrów, aczkolwiek warownie stał jako dąb, wszakżem skaził owoc jego z wierzchu, a korzenie jego ze spodku."
+        },
+        {
+          "number": 10,
+          "text": "A was wywiodłem z ziemi Egipskiej, i prowadziłem was po puszczy czterdzieści lat, żebyście posiedli ziemię Amorejczyka."
+        },
+        {
+          "number": 11,
+          "text": "Nadto wzbudzałem z synów waszych proroków, a z młodzieńców waszych Nazarejczyków; izali nie tak jest, o synowie Izraelowi? mówi Pan."
+        },
+        {
+          "number": 12,
+          "text": "Aleście wy napawali Nazarejczyków winem, a prorokom zakazywaliście, mówiąc: Nie prorokujcie."
+        },
+        {
+          "number": 13,
+          "text": "Oto Ja ścisnę ziemię waszę, tak jako ciśnie wóz napełniony snopami."
+        },
+        {
+          "number": 14,
+          "text": "I zginie ucieczka od prędkiego, a mocarz nie pokrzepi mocy swojej, i duży nie wybawi duszy swojej;"
+        },
+        {
+          "number": 15,
+          "text": "A ten, który trzyma łuk, nie ostoi się, i prędki na nogi swe nie uciecze, a ten, który jeździ na koniu, nie zachowa duszy swej,"
+        },
+        {
+          "number": 16,
+          "text": "Ale i rycerz serca zmężałego między mocarzami nago uciecze w on dzień, mówi Pan."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Słuchajcie słowa tego, które mówi Pan przeciwko wam, synowie Izraelscy! przeciwko wszystkiemu rodzajowi, którym wywiódł z ziemi Egipskiej, mówiąc:"
+        },
+        {
+          "number": 2,
+          "text": "Tylkom was samych poznał ze wszystkich rodzajów ziemi; przetoż was nawiedzę dla wszystkich nieprawości waszych."
+        },
+        {
+          "number": 3,
+          "text": "Izali dwa społem pójdą nie zgodziwszy się?"
+        },
+        {
+          "number": 4,
+          "text": "Izali zaryczy lew w lesie, gdyby nie miał łupu? Izali wyda lwię głos swój z jaskini swojej, gdyby łapać nie miało?"
+        },
+        {
+          "number": 5,
+          "text": "Izali ptak wpadnie w sidło na ziemi, gdyby sidła nie było? Izali będzie podniesione sidło z ziemi, gdyby nic nie uwięzło?"
+        },
+        {
+          "number": 6,
+          "text": "Izali się ludzie nie lękają, gdy trąba w mieście zabrzmi? izali jest w mieście co złego, którego by Pan nie uczynił?"
+        },
+        {
+          "number": 7,
+          "text": "Zaiste nic nie czyni panujący Pan, chyba żeby objawił tajemnice swoję sługom swoim, prorokom."
+        },
+        {
+          "number": 8,
+          "text": "Lew ryczy, któżby się nie bał? Panujący Pan mówi, któżby nie prorokował?"
+        },
+        {
+          "number": 9,
+          "text": "Obwołajcie w pałacach w Azocie i w pałacach ziemi Egipskiej, a mówcie: Zbierzcie się na góry Samaryi, a obaczcie wielkie zamięszania w pośrodku jej, i ucisk cierpiących w niej;"
+        },
+        {
+          "number": 10,
+          "text": "I że nie umieją czynić, co jest prawego, mówi Pan, zbierając na pałacach swoich skarby z zdzierstwa i z łupiestwa."
+        },
+        {
+          "number": 11,
+          "text": "Przetoż tak mówi panujący Pan: Oto nieprzyjaciel około tej ziemi, a ten odejmie od ciebie siłę twoję, i rozchwycone będą pałace twoje."
+        },
+        {
+          "number": 12,
+          "text": "Tak mówi Pan: Jako wyrywa pasterz z paszczęki lwiej dwa gnaty albo kęs ucha, tak wyrwani będą synowie Izraelscy, którzy mieszkają w Samaryi na stronie łoża, i na stronie pościeli."
+        },
+        {
+          "number": 13,
+          "text": "Słuchajcie a oświadczajcie w domu Jakóbowym, mówi panujący Pan, Bóg zastępów."
+        },
+        {
+          "number": 14,
+          "text": "Bo dnia onego, którego Izraela nawiedzę dla przestępstwa jego, nawiedzę też ołtarze w Betel, i odcięte będą rogi ołtarza, tak, że na ziemię upadną;"
+        },
+        {
+          "number": 15,
+          "text": "I uderzę dom zimy o dom lata, a zginą domy z kości słoniowych, a domy zacne koniec wezmą, mówi Pan."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Słuchajcie słowa tego, o krowy Basańskie! któreście na górach Samaryi, które uciskacie nędzników a niszczycie ubogich, które mówicie panom ich: Przynieście, abyśmy piły."
+        },
+        {
+          "number": 2,
+          "text": "Przysiągł panujący Pan przez świętobliwość swoję, iż oto dni idą na was, których nieprzyjaciel weźmie was na haki, a potomki wasze na wędy rybackie, i wyjdziecie przerwami, każda tak jako stoi;"
+        },
+        {
+          "number": 3,
+          "text": "I będziecie rozrzucać cokolwiek było w pałacach waszych, mówi Pan."
+        },
+        {
+          "number": 4,
+          "text": "Idźcież do Betel a bądzcie tułaczami w Galgal; rozmnóżcie przestępstwa, a przynoście na każdy poranek ofiary wasze, i trzeciego roku dziesięciny wasze;"
+        },
+        {
+          "number": 5,
+          "text": "A paląc ofiarę chwały z kwaszonych rzeczy, obwołajcie ofiary dobrowolne, i rozgłoście, ponieważ się wam tak podoba, o synowie Izraelscy! mówi panujący Pan."
+        },
+        {
+          "number": 6,
+          "text": "A chociażem Ja wam dał czystość zębów we wszystkich miastach waszych, to jest, niedostatek chleba po wszystkich miejscach waszych, wszakżeście się nie nawrócili do mnie, mówi Pan."
+        },
+        {
+          "number": 7,
+          "text": "Jam też zahamował od was deszcz, gdy jeszcze były trzy miesięce do żniwa, a spuściłem deszcz na jedne miasto, a na drugiem miasto nie spuścił; jedna dziedzina była deszczem odwilżona, a druga dziedzina, na którą deszcz nie padał, uschła."
+        },
+        {
+          "number": 8,
+          "text": "I chodziły dwa i trzy miasta do jednego miasta, aby piły wodę, a nie mogły się napić; a wszakżeście się nie nawrócili do mnie, mówi Pan."
+        },
+        {
+          "number": 9,
+          "text": "Uderzyłem was suszą i rdzą; obfitość, którą przynosiły ogrody wasze, i winnice wasze, i figowe sady wasze, i oliwnice wasze, gąsienice pożarły, a wszakżeście się nie nawrócili do mnie, mówi Pan."
+        },
+        {
+          "number": 10,
+          "text": "Posłałem na was mór, tak jako na Egipt, pobiłem mieczem młodzieńców waszych, w pojmaniem podał konie wasze, i sprawiłem, że smród wojsk waszych występował w nozdrza wasze; a wszakżeście się nie nawrócili do mnie, mówi Pan."
+        },
+        {
+          "number": 11,
+          "text": "Wywróciłem was, jako Bóg wywrócił Sodomę i Gomorę, tak, żeście byli jako głownia wyrwana z ognia; a wszakżeście się nie nawrócili do mnie, mówi Pan."
+        },
+        {
+          "number": 12,
+          "text": "Przetoż tak ci uczynię, o Izraelu! a iż ci tak uczynić chcę, bądźże gotowym na zabieżenie Bogu swemu, o Izraelu!"
+        },
+        {
+          "number": 13,
+          "text": "Albowiem oto on jest, który kształtuje góry, a tworzy wiatry, i który oznajmuje człowiekowi, jaka jest myśl jego; on z rannej zorzy ciemność czyni, a depcze wysokości ziemi; Pan Bóg zastępów jest imię jego."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Słuchajcie słowa tego, które Ja wydaję przeciwko wam, to jest narzekania, o domie Izraelski!"
+        },
+        {
+          "number": 2,
+          "text": "Upadnie, a nie powstanie więcej panna Izraelska; opuszczona będzie w ziemi swej, a nie będzie, ktoby ją podniósł."
+        },
+        {
+          "number": 3,
+          "text": "Bo tak mówi panujący Pan: W mieście, z którego wychodziło tysiąc, zostanie sto, a w tem, z którego wychodziło sto, zostanie dziesięć domowi Izraelskiemu."
+        },
+        {
+          "number": 4,
+          "text": "Bo tak mówi Pan domowi Izraelskiemu: Szukajcie mię, a żyć będziecie;"
+        },
+        {
+          "number": 5,
+          "text": "A nie szukajcie Betela, ani chodźcie do Galgal, i do Beerseby nie udawajcie się,; bo Galgal w niewolę zawiedzione będzie, a Betel się wniwecz obróci."
+        },
+        {
+          "number": 6,
+          "text": "Szukajcie Pana, a żyć będziecie, by snać domu Józefowego nie przeniknął jako ogień, i nie pochłonął Betel, a nie byłby, ktoby ugasił;"
+        },
+        {
+          "number": 7,
+          "text": "Którzy obracacie sąd w piołun, a sprawiedliwość na ziemi opuszczacie: Szukajcie, mówię."
+        },
+        {
+          "number": 8,
+          "text": "Tego, który uczynił Baby na niebie i Oriona, który cień śmierci w poranek odmienia i dzień w ciemności nocne; który przywołuje wody morskie, a wylewa je na oblicze ziemi, Pan jest imię jego;"
+        },
+        {
+          "number": 9,
+          "text": "Który pokrzepia słabego przeciwko mocarzowi, tak że ten osłabiały do twierdzy uchodzi."
+        },
+        {
+          "number": 10,
+          "text": "Mają w nienawiści tego, który ich w bramie karze; a tym, co mówi rzeczy dobre, brzydzą się."
+        },
+        {
+          "number": 11,
+          "text": "Przetoż, iż uciskacie ubogiego, a brzemię zboża bierzecie od niego, domuweście wprawdzie z ciosanego kamienia nabudowali, ale nie będziecie w nich mieszkać; winnic rozkosznych nasadziliście, ale wina z nich pić nie będziecie."
+        },
+        {
+          "number": 12,
+          "text": "Bo wiem o wielkich przestępstwach waszych, i srogich grzechach waszych, że ciemiężycie sprawiedliwego, biorąc poczty, a ubogich sprawy w bramie podwracacie."
+        },
+        {
+          "number": 13,
+          "text": "Przetoż roztropny czasu onego milczeć musi; bo czas zły jest."
+        },
+        {
+          "number": 14,
+          "text": "Szukajcie dobrego a nie złego, abyście żyli; a będzie tak Pan Bóg zastępów z wami, jako mówicie."
+        },
+        {
+          "number": 15,
+          "text": "Miejcie w nienawiści złe, a miłujcie dobre, a sąd postanówcie w bramie; owa się snać Pan, Bóg zastępów, nad ostatkiem Józefa zmiłuje."
+        },
+        {
+          "number": 16,
+          "text": "Przetoż tak mówi panujący Pan, Bóg zastępów: Po wszystkich ulicach będzie narzekanie, a po wszystkich stronach zakrzykną: Biada, biada! i zawołają oracza do płaczu i do kwilenia z tymi, którzy narzekać umieją."
+        },
+        {
+          "number": 17,
+          "text": "Owszem, i po wszystkich winnicach będzie narzekanie, gdy przejdę przez pośrodek ciebie, mówi Pan."
+        },
+        {
+          "number": 18,
+          "text": "Biada tym, którzy żądają dnia Pańskiego! cóż wam po tym dniu Pańskim, ponieważ jest ciemnością, a nie światłością?"
+        },
+        {
+          "number": 19,
+          "text": "Jako gdyby kto uciekał przede lwem, a zabieżał mu niedźwiedź; albo gdyby wszedł do domu, a podparł się ręką swą na ścianie, ukąsiłby go wąż."
+        },
+        {
+          "number": 20,
+          "text": "Izali dzień Pański nie jest dzień ciemności, a nie światłości, w którym niemasz jasności, ale chmura?"
+        },
+        {
+          "number": 21,
+          "text": "Mam w nienawiści i odrzuciłem uroczyste święta wasze, ani się kocham w ofiarach zgromadzenia waszego."
+        },
+        {
+          "number": 22,
+          "text": "Bo jeźli mi ofiarować będziecie całopalenia, i śniedne ofiary wasze, nie przyjmę ich, a na spokojne ofiary tłustych bydeł waszych nie wejrzę."
+        },
+        {
+          "number": 23,
+          "text": "Odejmij odemnie wrzask pieśni swoich; bo ich i dźwięku harf waszych słuchać nie chcę."
+        },
+        {
+          "number": 24,
+          "text": "Ale sąd nawalnie popłynie, jako woda, a sprawiedliwość jako strumień gwałtowny."
+        },
+        {
+          "number": 25,
+          "text": "Izaliście mi ofiary i dar ofiarowali na puszczy przez czterdzieści lat, domie Izraelski?"
+        },
+        {
+          "number": 26,
+          "text": "Owszem, nosiliście namiot Molocha waszego i Kijuna, obrazy wasze, gwiazdę bogów waszych, którycheście sobie naczynili."
+        },
+        {
+          "number": 27,
+          "text": "Przetoż was zaprowadzę za Damaszek, mówi Pan, Bóg zastępów imię jego."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Biada bezpiecznym na Syonie, i ufającym w górze Samaryjskiej! którzy są sławni mimo innych u tych narodów, do których się schodzi dom Izraelski."
+        },
+        {
+          "number": 2,
+          "text": "Zajdźcie do Chalny, i idźcie z onąd do Emat wielkiego, a zstąpcie do Giet Filistyńskiego, a obaczcie, sąli które królestwa lepsze niżeli te, i jeżeli szersza jest granica ich, niż granica wasza."
+        },
+        {
+          "number": 3,
+          "text": "(Biada wam) którzy mniemacie, że daleki jest dzień zły, a przystawiacie stolicę drapiestwa!"
+        },
+        {
+          "number": 4,
+          "text": "Którzy sypiacie na łożach słoniowych, a rozciągacie się na pościelach waszych; którzy jadacie barany z trzody, a cielce tuczone ze stani;"
+        },
+        {
+          "number": 5,
+          "text": "Którzy śpiewacie przy lutni, wymyślając sobie naczynia muzyczne, jako Dawid;"
+        },
+        {
+          "number": 6,
+          "text": "Którzy pijacie wino czaszami, a drogiemi się maściami namazujecie, i nie bolejecie nad utrapieniem Józefowem."
+        },
+        {
+          "number": 7,
+          "text": "Przetoż teraz pójdą w niewolę na czele pojmanych; a tak odstąpi biesiada od zbyteczników."
+        },
+        {
+          "number": 8,
+          "text": "Przysiągł panujący Pan sam przez się, mówi Pan, Bóg zastępów: Zbrzydziłem sobie pychę Jakóbową i pałace jego mam w nienawiści; przetoż podam miasto i wszystko, co w niem jest, nieprzyjacielowi;"
+        },
+        {
+          "number": 9,
+          "text": "A zostanieli dziesięć osób w domu jednym, i ci pomrą."
+        },
+        {
+          "number": 10,
+          "text": "I weźmie każdego z nich stryj jego, i spali go, aby wyniósł kości z domu, a rzecze temu, który jest w gmachach domu: Jestże kto więcej z tobą? I odpowie: Niemasz. Tedy rzecze: Milcz; przeto, że nie wspominali imienia Pańskiego."
+        },
+        {
+          "number": 11,
+          "text": "Bo oto Pan rozkaże, i uderzy na dom wielki rozstąpieniem, a na dom mniejszy rozpadlinami."
+        },
+        {
+          "number": 12,
+          "text": "Izali konie mogą biegać po skale? Izali tam wołami orać mogą? Boście obrócili sąd w truciznę, a owoc sprawiedliwości w piołun;"
+        },
+        {
+          "number": 13,
+          "text": "Biada wam! którzy się weselicie, a niemasz z czego, mówiąc: Izaliśmy sobie nie naszą mocą wzięli rogi?"
+        },
+        {
+          "number": 14,
+          "text": "Ale oto Ja wzbudzę przeciwko wam, o domie Izraelski! mówi Pan, Bóg zastępów, naród, który was uciśnie od wejścia do Emat aż do strumienia pustyni."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "To mi ukazał panujący Pan. Oto tworzył szarańczę, gdy najpierwej począł odrastać potraw, gdy oto potraw był po pokoszeniu królewskiem."
+        },
+        {
+          "number": 2,
+          "text": "A gdy zjadły trawę ziemi, rzekłem: Panujący Panie! sfolguj proszę; bo któż zostanie Jakóbowi, gdyż maluczki jest?"
+        },
+        {
+          "number": 3,
+          "text": "I żałował Pan tego; a rzekł Pan: Nie stanie się."
+        },
+        {
+          "number": 4,
+          "text": "Tedy mi ukazał panujący Pan, a oto panujący Pan wołał, że sprawę swoję powiedzie ogniem, a spaliwszy przepaść wielką, spalił i część królestwa Izraelskiego."
+        },
+        {
+          "number": 5,
+          "text": "Tedym rzekł: Panujący Panie! przestań proszę; bo któż zostanie Jakóbowi, gdyż maluczki jest?"
+        },
+        {
+          "number": 6,
+          "text": "I żałował Pan tego, a rzekł panujący Pan: I toć się nie stanie."
+        },
+        {
+          "number": 7,
+          "text": "Potem ukazał mi, a oto Pan stał na murze według sznuru zbudowanym, w którego ręku było prawidło."
+        },
+        {
+          "number": 8,
+          "text": "I rzekł Pan do mnie: Cóż widzisz Amosie? I rzekłem: Prawidło. Tedy rzekł Pan: Oto Ja położę prawidło w pośrodku ludu mego Izraelskiego, a już mu więcej nie będę przeglądał."
+        },
+        {
+          "number": 9,
+          "text": "Bo wyżyny Izaakowe spustoszone będą, a świątnice Izraelskie zburzone będą, gdy powstanę przeciwko domowi Jeroboamowemu z mieczem."
+        },
+        {
+          "number": 10,
+          "text": "Tedy posłał Amazyjasz, kapłan Betelski, do Jeroboama, króla Izraelskiego, mówiąc: Sprzysiągł się przeciwko tobie w pośrodku domu Izraelskiego, tak, iż ziemia nie może znieść wszystkich słów jego."
+        },
+        {
+          "number": 11,
+          "text": "Bo tak mówi Amos: Jeroboam od miecza umrze, a Izrael zapewne do więzienia z ziemi swojej zaprowadzony będzie."
+        },
+        {
+          "number": 12,
+          "text": "Potem rzekł Amazyjasz do Amosa: O widzący! uchodź, uciekaj do ziemi Judzkiej, a jedz tam chleb, i tam prorokuj;"
+        },
+        {
+          "number": 13,
+          "text": "Ale w Betelu więcej nie prorokuj; bo to jest świątnica królewska, i dom królewski."
+        },
+        {
+          "number": 14,
+          "text": "Tedy odpowiedział i rzekł do Amazyjasza: Nie byłem ja prorokiem, nawet ani synem prorockim; alem był skotarzem, a zbierałem figi leśne."
+        },
+        {
+          "number": 15,
+          "text": "Ale mię Pan wziął, gdym chodził za bydłem, i rzekł do mnie Pan: Idź, prorokuj ludowi memu Izraelskiemu."
+        },
+        {
+          "number": 16,
+          "text": "Teraz tedy słuchaj słowa Pańskiego. Ty mówisz: Nie prorokuj w Izraelu, i nie każ w domu Izaakowym;"
+        },
+        {
+          "number": 17,
+          "text": "Przetoż tak mówi Pan: Żona twoja w mieście nierząd płodzić będzie, a synowie twoi i córki twoje od miecza polegną, a ziemia twoja sznurem będzie podzielona, a ty w ziemi splugawionej umrzesz; lecz Izrael zapewne zaprowadzony będzie do więzienia z ziemi swojej."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "To mi jeszcze ukazał panujący Pan, oto był kosz letniego owocu."
+        },
+        {
+          "number": 2,
+          "text": "Tedy rzekł: Cóż widzisz Amosie? I rzekłem: Kosz letniego owocu. Znowu rzekł Pan do mnie: Przyszedł koniec ludowi memu Izraelskiemu, nie będę mu już więcej przeglądał."
+        },
+        {
+          "number": 3,
+          "text": "Tedy się obrócą w kwilenie pieśni kościelne dnia onego, mówi panujący Pan, mnóstwa trupów na każde miejsce po cichu narzucają."
+        },
+        {
+          "number": 4,
+          "text": "Słuchajcież tego, którzy pożeracie ubogiego, abyście wygubili chudziny z ziemi;"
+        },
+        {
+          "number": 5,
+          "text": "I mawiacie: Kiedyż przeminie nów miesiąca, abyśmy sprzedawali zboże? i sabat, abyśmy otworzyli spichlerze? abyśmy umniejszyli miary efa, a podwyższyli wagi, a szale zdradliwie sfałszowali."
+        },
+        {
+          "number": 6,
+          "text": "Kupując ubogich za pieniądze, a chudzinę za parę trzewików; nadto abyśmy odmieciny zbóż sprzedawali."
+        },
+        {
+          "number": 7,
+          "text": "Przysiągł Pan przez zacność Jakóbową, że nie zapomnę na wieki wszystkich spraw ich."
+        },
+        {
+          "number": 8,
+          "text": "Izali by się i ziemia nad tem nie poruszyła, i nie płakałby każdy, kto mieszka na niej? i owszem, wzbierze wszystka jako rzeka, i porwana i zatopiona będzie jako rzeką Egipską."
+        },
+        {
+          "number": 9,
+          "text": "A dnia onego, mówi panujący Pan, sprawię, że słońce zajdzie o południu, i przywiodę ciemność na ziemię w dzień jasny;"
+        },
+        {
+          "number": 10,
+          "text": "I obrócę w płacz święta wasze, a wszystkie pieśni wasze w narzekanie, i sprawię to, że będzie na wszystkich biodrach wór, i na każdej głowie obłysienie; i będzie w tej ziemi kwilenie, jako nad jednorocznym, a ostateczne rzeczy jej jako dzień gorz kości."
+        },
+        {
+          "number": 11,
+          "text": "Oto dni przychodzą, mówi panujący Pan, że poślę głód na ziemię, nie głód chleba, ani pragnienie wody, ale słuchania słów Pańskich,"
+        },
+        {
+          "number": 12,
+          "text": "Tak, że się tułać będą od morza aż do morza, i od północy aż na wschód biegać będą, szukając słowa Pańskiego, wszakże nie znajdą."
+        },
+        {
+          "number": 13,
+          "text": "Dnia onego pomdleją panienki piękne, nawet i młodzieńcy od onego pragnienia;"
+        },
+        {
+          "number": 14,
+          "text": "Którzy przysięgają przez obrzydliwość Samaryi, i mówią: Jako żyje Bóg twój, o Dan! i jako żyje droga Beerseba; i upadną, a nie powstaną więcej."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Widziałem Pana stojącego na ołtarzu, który rzekł: Uderz w gałkę, aż zadrżą podwoje, a rozetnij je wszystkie od wierzchu ich, a ostatek mieczem pobiję; żaden z nich nie uciecze, i nie będzie z nich nikt, coby tego uszedł."
+        },
+        {
+          "number": 2,
+          "text": "Choćby się zakopali w ziemię, i stamtądby ich ręka moja wzięła; choćby wstąpili aż do nieba, i stamtądby ich stargnął."
+        },
+        {
+          "number": 3,
+          "text": "A choćby się skryli na wierzchu Karmelu, wyszpieguję i wezmę ich stamtąd; a choćby się skryli przed oczyma mojemi na dnie morskiem, przykażę wężowi, aby ich i stamtąd wykąsał;"
+        },
+        {
+          "number": 4,
+          "text": "A choćby poszli w niewolę przed nieprzyjaciółmi swymi, i tam przykażę mieczowi, aby ich pomordował; obrócę zaiste przeciwko nim oko swe na złe, a nie na dobre."
+        },
+        {
+          "number": 5,
+          "text": "Bo panujący Pan zastępów, gdy się dotknie ziemi, rozpływa się, a płaczą wszyscy mieszkający na niej, i wzbiera wszystka jako rzeka, a zatopiona bywa jako rzeką Egipską."
+        },
+        {
+          "number": 6,
+          "text": "Który na niebiesiech zbudował pałace swoje, a zastęp swój na ziemi uszykował; który może zawołać wody morskie, a wylać je na oblicze ziemi; Pan jest imię jego."
+        },
+        {
+          "number": 7,
+          "text": "Izali nie jesteście podobni synom Murzyńskim przedemną, o synowie Izraelscy? mówi Pan; izalim Izraela nie wywiódł z ziemi Egipskiej jako Filistyńczyków z Kaftor, i Syryjczyków z Kir?"
+        },
+        {
+          "number": 8,
+          "text": "Oto oczy panującego Pana przeciwko temu królestwu grzeszącemu, abym je wygładził z oblicza ziemi; wszakże nie wygładzę do szczętu domu Jakóbowemu, mówi Pan."
+        },
+        {
+          "number": 9,
+          "text": "Bom oto Ja rozkazał, a rozmiecę między wszystkie narody dom Izraelski jako miotana bywa pszenica na przetaku, tak, iż nie przepadnie i kamyk na ziemię."
+        },
+        {
+          "number": 10,
+          "text": "Wszyscy grzesznicy z ludu mojego od miecza pomrą, którzy mówią: Nie przybliży się do nas, ani nas zachwyci to złe."
+        },
+        {
+          "number": 11,
+          "text": "Dnia onego wystawię upadły przybytek Dawidowy, a zagrodzę rozerwanie jego, i obaliny jego naprawię, a pobuduję go, jako za dni dawnych;"
+        },
+        {
+          "number": 12,
+          "text": "Aby posiedli ostatki Edomczyków i wszystkie narody nad którymi wzywano imienia mojego, mówi Pan, który to czyni."
+        },
+        {
+          "number": 13,
+          "text": "Oto dni idą, mówi Pan, że oracz żeńcę zajmie, a ten, co tłoczy winne jagody, rozsiewającego nasienie; a góry moszczem kropić będą, a wszystkie pagórki się rozpłyną."
+        },
+        {
+          "number": 14,
+          "text": "I nawrócę zaś z więzienia lud mój Izraelski, i pobudują miasta spustoszone, a mieszkać w nich będą; sądzić też będą winnice, i wino z nich pić będą; sadów też naszczepią, i owoc ich jeść będą."
+        },
+        {
+          "number": 15,
+          "text": "A tak ich wszczepię w ziemi ich, że nie będą więcej wykorzenieni z ziemi swojej, którąm im dał, mówi Pan, Bóg twój."
+        }
+      ]
+    }
+  ]
+}

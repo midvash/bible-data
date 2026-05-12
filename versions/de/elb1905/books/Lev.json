@@ -1,0 +1,3580 @@
+{
+  "version": "elb1905",
+  "book": "Lev",
+  "bookId": 3,
+  "englishName": "Leviticus",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova rief Mose, und er redete zu ihm aus dem Zelte der Zusammenkunft und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Wenn ein Mensch von euch dem Jehova eine Opfergabe darbringen will, so sollt ihr vom Vieh, vom Rind-und Kleinvieh, eure Opfergabe darbringen."
+        },
+        {
+          "number": 3,
+          "text": "Wenn seine Opfergabe ein Brandopfer ist vom Rindvieh, so soll er sie darbringen, ein Männliches ohne Fehl; an dem Eingang des Zeltes der Zusammenkunft soll er sie darbringen, zum Wohlgefallen für ihn vor Jehova."
+        },
+        {
+          "number": 4,
+          "text": "Und er soll seine Hand auf den Kopf des Brandopfers legen, und es wird wohlgefällig für ihn sein, um Sühnung für ihn zu tun."
+        },
+        {
+          "number": 5,
+          "text": "Und er soll das junge Rind schlachten vor Jehova; und die Söhne Aarons, die Priester, sollen das Blut herzubringen und das Blut ringsum an den Altar sprengen, der an dem Eingang des Zeltes der Zusammenkunft ist."
+        },
+        {
+          "number": 6,
+          "text": "Und er soll dem Brandopfer die Haut abziehen und es in seine Stücke zerlegen."
+        },
+        {
+          "number": 7,
+          "text": "Und die Söhne Aarons, des Priesters, sollen Feuer auf den Altar legen und Holz auf dem Feuer zurichten;"
+        },
+        {
+          "number": 8,
+          "text": "und die Söhne Aarons, die Priester, sollen die Stücke, den Kopf und das Fett auf dem Holze zurichten über dem Feuer, das auf dem Altar ist."
+        },
+        {
+          "number": 9,
+          "text": "Und sein Eingeweide und seine Schenkel soll er mit Wasser waschen; und der Priester soll das Ganze auf dem Altar räuchern: es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 10,
+          "text": "Und wenn seine Opfergabe vom Kleinvieh ist, von den Schafen oder von den Ziegen, zum Brandopfer, so soll er sie darbringen, ein Männliches ohne Fehl."
+        },
+        {
+          "number": 11,
+          "text": "Und er soll es schlachten an der Seite des Altars gegen Norden, vor Jehova; und die Söhne Aarons, die Priester, sollen sein Blut an den Altar sprengen ringsum."
+        },
+        {
+          "number": 12,
+          "text": "Und er soll es in seine Stücke zerlegen mit seinem Kopf und seinem Fett; und der Priester soll sie auf dem Holze zurichten, über dem Feuer, das auf dem Altar ist."
+        },
+        {
+          "number": 13,
+          "text": "Und das Eingeweide und die Schenkel soll er mit Wasser waschen; und der Priester soll das Ganze darbringen und auf dem Altar räuchern: es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn ein Brandopfer vom Geflügel seine Opfergabe ist dem Jehova, so soll er von den Turteltauben oder von den jungen Tauben seine Opfergabe darbringen."
+        },
+        {
+          "number": 15,
+          "text": "Und der Priester bringe sie zum Altar und kneipe ihr den Kopf ein und räuchere sie auf dem Altar, und ihr Blut soll ausgedrückt werden an die Wand des Altars."
+        },
+        {
+          "number": 16,
+          "text": "Und er trenne ihren Kropf mit seinem Unrat ab und werfe ihn neben den Altar gegen Osten, an den Ort der Fettasche."
+        },
+        {
+          "number": 17,
+          "text": "Und er soll sie an den Flügeln einreißen, es soll sie nicht zertrennen; und der Priester soll sie auf dem Altar räuchern, auf dem Holze, das über dem Feuer ist: es ist ein Brandopfer, ein Feueropfer lieblichen Geruchs dem Jehova."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und wenn jemand die Opfergabe eines Speisopfers dem Jehova darbringen will, so soll seine Opfergabe Feinmehl sein; und er soll Öl darauf gießen und Weihrauch darauf legen."
+        },
+        {
+          "number": 2,
+          "text": "Und er soll es zu den Söhnen Aarons, den Priestern, bringen; und er nehme davon seine Hand voll, von seinem Feinmehl und von seinem Öl samt all seinem Weihrauch, und der Priester räuchere das Gedächtnisteil desselben auf dem Altar: es ist ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 3,
+          "text": "Und das Übrige von dem Speisopfer soll für Aaron und für seine Söhne sein: ein Hochheiliges von den Feueropfern Jehovas."
+        },
+        {
+          "number": 4,
+          "text": "Und wenn du als Opfergabe eines Speisopfers ein Ofengebäck darbringen willst, so soll es Feinmehl sein, ungesäuerte Kuchen, gemengt mit Öl, und ungesäuerte Fladen, gesalbt mit Öl."
+        },
+        {
+          "number": 5,
+          "text": "Und wenn deine Opfergabe ein Speisopfer in der Pfanne ist, so soll es Feinmehl sein, gemengt mit Öl, ungesäuert;"
+        },
+        {
+          "number": 6,
+          "text": "du sollst es in Stücke zerbrechen und Öl darauf gießen: es ist ein Speisopfer."
+        },
+        {
+          "number": 7,
+          "text": "Und wenn deine Opfergabe ein Speisopfer im Napfe ist, so soll es von Feinmehl mit Öl gemacht werden."
+        },
+        {
+          "number": 8,
+          "text": "Und du sollst das Speisopfer, das von diesen Dingen gemacht wird, dem Jehova bringen; und man soll es dem Priester überreichen, und er soll es an den Altar tragen."
+        },
+        {
+          "number": 9,
+          "text": "Und der Priester hebe von dem Speisopfer dessen Gedächtnisteil ab und räuchere es auf dem Altar: es ist ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 10,
+          "text": "Und das Übrige von dem Speisopfer soll für Aaron und für seine Söhne sein: ein Hochheiliges von den Feueropfern Jehovas."
+        },
+        {
+          "number": 11,
+          "text": "Alles Speisopfer, das ihr dem Jehova darbringet, soll nicht aus Gesäuertem gemacht werden; denn aller Sauerteig und aller Honig, davon sollt ihr kein Feueropfer dem Jehova räuchern."
+        },
+        {
+          "number": 12,
+          "text": "Was die Opfergabe der Erstlinge betrifft, so sollt ihr sie Jehova darbringen; aber auf den Altar sollen sie nicht kommen zum lieblichen Geruch."
+        },
+        {
+          "number": 13,
+          "text": "Und alle Opfergaben deines Speisopfers sollst du mit Salz salzen und sollst das Salz des Bundes deines Gottes nicht fehlen lassen bei deinem Speisopfer; bei allen deinen Opfergaben sollst du Salz darbringen."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn du ein Speisopfer von den ersten Früchten dem Jehova darbringen willst, so sollst du Ähren, am Feuer geröstet, Schrot von Gartenkorn, darbringen als Speisopfer von deinen ersten Früchten."
+        },
+        {
+          "number": 15,
+          "text": "Und du sollst Öl darauf tun und Weihrauch darauf legen: es ist ein Speisopfer."
+        },
+        {
+          "number": 16,
+          "text": "Und der Priester soll das Gedächtnisteil desselben räuchern, von seinem Schrote und von seinem Öle, samt allem seinem Weihrauch: es ist ein Feueropfer dem Jehova."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und wenn seine Opfergabe ein Friedensopfer ist: wenn er sie von den Rindern darbringt, es sei ein Männliches oder ein Weibliches, so soll er sie ohne Fehl vor Jehova darbringen."
+        },
+        {
+          "number": 2,
+          "text": "Und er soll seine Hand auf den Kopf seines Opfers legen und es schlachten an dem Eingang des Zeltes der Zusammenkunft; und die Söhne Aarons, die Priester, sollen das Blut an den Altar sprengen ringsum."
+        },
+        {
+          "number": 3,
+          "text": "Und er soll von dem Friedensopfer ein Feueropfer dem Jehova darbringen: das Fett, welches das Eingeweide bedeckt, und alles Fett, das am Eingeweide ist,"
+        },
+        {
+          "number": 4,
+          "text": "und die beiden Nieren und das Fett, das an ihnen, das an den Lenden ist, und das Netz über der Leber: samt den Nieren soll er es abtrennen."
+        },
+        {
+          "number": 5,
+          "text": "Und die Söhne Aarons sollen es auf dem Altar räuchern, auf dem Brandopfer, welches auf dem Holze über dem Feuer ist: es ist ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 6,
+          "text": "Und wenn seine Opfergabe vom Kleinvieh ist zum Friedensopfer dem Jehova, ein Männliches oder ein Weibliches, so soll er sie ohne Fehl darbringen."
+        },
+        {
+          "number": 7,
+          "text": "Wenn er ein Schaf darbringt als seine Opfergabe, so soll er es vor Jehova herzubringen;"
+        },
+        {
+          "number": 8,
+          "text": "und er soll seine Hand auf den Kopf seines Opfers legen und es schlachten vor dem Zelte der Zusammenkunft; und die Söhne Aarons sollen sein Blut an den Altar sprengen ringsum."
+        },
+        {
+          "number": 9,
+          "text": "Und er soll von dem Friedensopfer als Feueropfer dem Jehova darbringen: sein Fett, den ganzen Fettschwanz; dicht beim Rückgrat soll er ihn abtrennen; und das Fett, welches das Eingeweide bedeckt, und alles Fett, das am Eingeweide ist,"
+        },
+        {
+          "number": 10,
+          "text": "und die beiden Nieren und das Fett, das an ihnen, das an den Lenden ist, und das Netz über der Leber: samt den Nieren soll er es abtrennen."
+        },
+        {
+          "number": 11,
+          "text": "Und der Priester soll es auf dem Altar räuchern: es ist eine Speise des Feueropfers dem Jehova. -"
+        },
+        {
+          "number": 12,
+          "text": "Und wenn seine Opfergabe eine Ziege ist, so soll er sie vor Jehova herzubringen;"
+        },
+        {
+          "number": 13,
+          "text": "und er soll seine Hand auf ihren Kopf legen und sie schlachten vor dem Zelte der Zusammenkunft; und die Söhne Aarons sollen ihr Blut an den Altar sprengen ringsum."
+        },
+        {
+          "number": 14,
+          "text": "Und er soll davon seine Opfergabe als Feueropfer dem Jehova darbringen: das Fett, welches das Eingeweide bedeckt, und alles Fett, das am Eingeweide ist,"
+        },
+        {
+          "number": 15,
+          "text": "und die beiden Nieren und das Fett, das an ihnen, das an den Lenden ist, und das Netz über der Leber: samt den Nieren soll er es abtrennen."
+        },
+        {
+          "number": 16,
+          "text": "Und der Priester soll es auf dem Altar räuchern: es ist eine Speise des Feueropfers zum lieblichen Geruch; alles Fett gehört Jehova."
+        },
+        {
+          "number": 17,
+          "text": "Eine ewige Satzung bei euren Geschlechtern in allen euren Wohnsitzen: alles Fett und alles Blut sollt ihr nicht essen."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach: Rede zu den Kindern Israel und sprich:"
+        },
+        {
+          "number": 2,
+          "text": "Wenn jemand aus Versehen sündigt gegen irgend eines der Verbote Jehovas, die nicht getan werden sollen, und irgend eines derselben tut, -"
+        },
+        {
+          "number": 3,
+          "text": "wenn der gesalbte Priester sündigt nach einem Vergehen des Volkes, so soll er für seine Sünde, die er begangen hat, einen jungen Farren ohne Fehl dem Jehova darbringen zum Sündopfer."
+        },
+        {
+          "number": 4,
+          "text": "Und er soll den Farren an den Eingang des Zeltes der Zusammenkunft vor Jehova bringen und seine Hand auf den Kopf des Farren legen und den Farren schlachten vor Jehova."
+        },
+        {
+          "number": 5,
+          "text": "Und der gesalbte Priester nehme von dem Blute des Farren und bringe es in das Zelt der Zusammenkunft;"
+        },
+        {
+          "number": 6,
+          "text": "und der Priester tauche seinen Finger in das Blut und sprenge von dem Blute siebenmal vor Jehova gegen den Vorhang des Heiligtums hin."
+        },
+        {
+          "number": 7,
+          "text": "Und der Priester tue von dem Blute an die Hörner des Altars des wohlriechenden Räucherwerks, der im Zelte der Zusammenkunft ist, vor Jehova; und alles Blut des Farren soll er an den Fuß des Brandopferaltars gießen, der an dem Eingang des Zeltes der Zusammenkunft ist."
+        },
+        {
+          "number": 8,
+          "text": "Und alles Fett von dem Farren des Sündopfers soll er von ihm abheben: das Fett, welches das Eingeweide bedeckt, und alles Fett, das am Eingeweide ist,"
+        },
+        {
+          "number": 9,
+          "text": "und die beiden Nieren und das Fett, das an ihnen, das an den Lenden ist, und das Netz über der Leber: samt den Nieren soll er es abtrennen,"
+        },
+        {
+          "number": 10,
+          "text": "so wie es abgehoben wird von dem Rinde des Friedensopfers; und der Priester soll es auf dem Brandopferaltar räuchern."
+        },
+        {
+          "number": 11,
+          "text": "Und die Haut des Farren und all sein Fleisch samt seinem Kopfe und seinen Schenkeln und seinem Eingeweide und seinem Mist:"
+        },
+        {
+          "number": 12,
+          "text": "den ganzen Farren soll er hinausbringen außerhalb des Lagers an einen reinen Ort, nach dem Schutthaufen der Fettasche, und soll ihn auf Holzscheiten mit Feuer verbrennen; auf dem Schutthaufen der Fettasche soll er verbrannt werden."
+        },
+        {
+          "number": 13,
+          "text": "Und wenn die ganze Gemeinde Israel aus Versehen sündigt und die Sache ist verborgen vor den Augen der Versammlung, und sie tun eines von allen Verboten Jehovas, die nicht getan werden sollen, und verschulden sich,"
+        },
+        {
+          "number": 14,
+          "text": "und die Sünde wird bekannt, die sie wider dasselbe begangen haben, so soll die Versammlung einen jungen Farren darbringen zum Sündopfer und ihn vor das Zelt der Zusammenkunft bringen."
+        },
+        {
+          "number": 15,
+          "text": "Und die Ältesten der Gemeinde sollen ihre Hände auf den Kopf des Farren legen vor Jehova, und man soll den Farren vor Jehova schlachten."
+        },
+        {
+          "number": 16,
+          "text": "Und der gesalbte Priester bringe von dem Blute des Farren in das Zelt der Zusammenkunft,"
+        },
+        {
+          "number": 17,
+          "text": "und der Priester tauche seinen Finger in das Blut und sprenge siebenmal vor Jehova gegen den Vorhang hin."
+        },
+        {
+          "number": 18,
+          "text": "Und er tue von dem Blute an die Hörner des Altars, der vor Jehova, der im Zelte der Zusammenkunft ist; und alles Blut soll er an den Fuß des Brandopferaltars gießen, der an dem Eingang des Zeltes der Zusammenkunft ist."
+        },
+        {
+          "number": 19,
+          "text": "Und all sein Fett soll er von ihm abheben und auf dem Altar räuchern."
+        },
+        {
+          "number": 20,
+          "text": "Und er soll mit dem Farren tun, wie er mit dem Farren des Sündopfers getan hat; also soll er damit tun. Und so tue der Priester Sühnung für sie, und es wird ihnen vergeben werden."
+        },
+        {
+          "number": 21,
+          "text": "Und er soll den Farren hinausbringen außerhalb des Lagers und ihn verbrennen, so wie er den ersten Farren verbrannt hat: es ist ein Sündopfer der Versammlung."
+        },
+        {
+          "number": 22,
+          "text": "Wenn ein Fürst sündigt und tut aus Versehen eines von allen den Verboten Jehovas, seines Gottes, die nicht getan werden sollen, und verschuldet sich,"
+        },
+        {
+          "number": 23,
+          "text": "und seine Sünde wird ihm kundgetan, worin er gesündigt hat, so soll er seine Opfergabe bringen, einen Ziegenbock, ein Männlein ohne Fehl."
+        },
+        {
+          "number": 24,
+          "text": "Und er soll seine Hand auf den Kopf des Bockes legen und ihn schlachten an dem Orte, wo man das Brandopfer vor Jehova schlachtet: es ist ein Sündopfer."
+        },
+        {
+          "number": 25,
+          "text": "Und der Priester nehme von dem Blute des Sündopfers mit seinem Finger und tue es an die Hörner des Brandopferaltars; und sein Blut soll er an den Fuß des Brandopferaltars gießen."
+        },
+        {
+          "number": 26,
+          "text": "Und all sein Fett soll er auf dem Altar räuchern, wie das Fett des Friedensopfers. Und so tue der Priester Sühnung für ihn wegen seiner Sünde, und es wird ihm vergeben werden."
+        },
+        {
+          "number": 27,
+          "text": "Und wenn jemand vom Volke des Landes aus Versehen sündigt, indem er eines von den Verboten Jehovas tut, die nicht getan werden sollen, und sich verschuldet"
+        },
+        {
+          "number": 28,
+          "text": "und seine Sünde wird ihm kundgetan, die er begangen hat, so soll er seine Opfergabe bringen, eine Ziege ohne Fehl, ein Weiblein, für seine Sünde, die er begangen hat."
+        },
+        {
+          "number": 29,
+          "text": "Und er soll seine Hand auf den Kopf des Sündopfers legen und das Sündopfer schlachten an dem Orte des Brandopfers."
+        },
+        {
+          "number": 30,
+          "text": "Und der Priester nehme von seinem Blute mit seinem Finger und tue es an die Hörner des Brandopferaltars; und all sein Blut soll er an den Fuß des Altars gießen."
+        },
+        {
+          "number": 31,
+          "text": "Und all sein Fett soll er abtrennen, so wie das Fett von dem Friedensopfer abgetrennt wird; und der Priester soll es auf dem Altar räuchern zum lieblichen Geruch dem Jehova. Und so tue der Priester Sühnung für ihn, und es wird ihm vergeben werden. -"
+        },
+        {
+          "number": 32,
+          "text": "Und wenn er ein Schaf bringt als seine Opfergabe zum Sündopfer, so soll es ein Weiblein ohne Fehl sein, das er bringt."
+        },
+        {
+          "number": 33,
+          "text": "Und er soll seine Hand auf den Kopf des Sündopfers legen und es zum Sündopfer schlachten an dem Orte, wo man das Brandopfer schlachtet."
+        },
+        {
+          "number": 34,
+          "text": "Und der Priester nehme von dem Blute des Sündopfers mit seinem Finger und tue es an die Hörner des Brandopferaltars; und all sein Blut soll er an den Fuß des Altars gießen."
+        },
+        {
+          "number": 35,
+          "text": "Und all sein Fett soll er abtrennen, so wie das Fett des Schafes von dem Friedensopfer abgetrennt wird; und der Priester soll es auf dem Altar räuchern, auf den Feueropfern Jehovas. Und so tue der Priester Sühnung für ihn wegen seiner Sünde, die er begangen hat, und es wird ihm vergeben werden."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und wenn jemand sündigt, daß er die Stimme des Fluches hört, und er war Zeuge, sei es daß er es gesehen oder gewußt hat, wenn er es nicht anzeigt, so soll er seine Ungerechtigkeit tragen;"
+        },
+        {
+          "number": 2,
+          "text": "oder wenn jemand irgend etwas Unreines anrührt, sei es das Aas eines unreinen wilden Tieres, oder das Aas eines unreinen Viehes, oder das Aas eines unreinen kriechenden Tieres, ist es ihm auch verborgen, so ist er unrein und schuldig;"
+        },
+        {
+          "number": 3,
+          "text": "oder wenn er die Unreinigkeit eines Menschen anrührt, was für eine Unreinigkeit von ihm es auch sei, durch welche er unrein wird, und es ist ihm verborgen, erkennt er es, so ist er schuldig;"
+        },
+        {
+          "number": 4,
+          "text": "oder wenn jemand schwört, indem er unbesonnen mit den Lippen redet, Böses oder Gutes zu tun, nach allem was ein Mensch mit einem Schwur unbesonnen reden mag, und es ist ihm verborgen, erkennt er es, so ist er schuldig in einem von diesen."
+        },
+        {
+          "number": 5,
+          "text": "Und es soll geschehen, wenn er sich in einem von diesen verschuldet, so bekenne er, worin er gesündigt hat;"
+        },
+        {
+          "number": 6,
+          "text": "und er bringe sein Schuldopfer dem Jehova für seine Sünde, die er begangen hat: ein Weiblein vom Kleinvieh, ein Schaf oder eine Ziege zum Sündopfer; und der Priester soll Sühnung für ihn tun wegen seiner Sünde."
+        },
+        {
+          "number": 7,
+          "text": "Und wenn seine Hand das zu einem Stück Kleinvieh Hinreichende nicht aufbringen kann, so soll er für seine Schuld, die er auf sich geladen hat, zwei Turteltauben oder zwei junge Tauben dem Jehova bringen: eine zum Sündopfer und eine zum Brandopfer."
+        },
+        {
+          "number": 8,
+          "text": "Und er soll sie zu dem Priester bringen; und dieser bringe die zum Sündopfer bestimmte zuerst dar und kneipe ihr den Kopf ein dicht beim Genick; er soll ihn aber nicht abtrennen."
+        },
+        {
+          "number": 9,
+          "text": "Und er sprenge von dem Blute des Sündopfers an die Wand des Altars, und das Übrige von dem Blute soll ausgedrückt werden an den Fuß des Altars: es ist ein Sündopfer."
+        },
+        {
+          "number": 10,
+          "text": "Und die andere soll er als Brandopfer opfern nach der Vorschrift. Und so tue der Priester Sühnung für ihn wegen seiner Sünde, die er begangen hat, und es wird ihm vergeben werden."
+        },
+        {
+          "number": 11,
+          "text": "Und wenn seine Hand zwei Turteltauben oder zwei junge Tauben nicht aufbringen kann, so bringe der, welcher gesündigt hat, als seine Opfergabe ein Zehntel Epha Feinmehl zum Sündopfer; er soll kein Öl darauf tun und keinen Weihrauch darauf legen, denn es ist ein Sündopfer."
+        },
+        {
+          "number": 12,
+          "text": "Und er soll es zu dem Priester bringen; und der Priester nehme davon seine Hand voll, das Gedächtnisteil desselben, und räuchere es auf dem Altar, auf den Feueropfern Jehovas: es ist ein Sündopfer."
+        },
+        {
+          "number": 13,
+          "text": "Und so tue der Priester Sühnung für ihn wegen seiner Sünde, die er begangen hat in einem von diesen, und es wird ihm vergeben werden; und es soll dem Priester gehören wie das Speisopfer."
+        },
+        {
+          "number": 14,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 15,
+          "text": "Wenn jemand Untreue begeht und aus Versehen an den heiligen Dingen Jehovas sündigt, so soll er sein Schuldopfer dem Jehova bringen, einen Widder ohne Fehl vom Kleinvieh, nach deiner Schätzung an Sekeln Silber, nach den Sekel des Heiligtums, zum Schuldopfer."
+        },
+        {
+          "number": 16,
+          "text": "Und was er an dem Heiligen gesündigt hat, soll er erstatten und dessen Fünftel darüber hinzufügen und es dem Priester geben; und der Priester soll Sühnung für ihn tun mit dem Widder des Schuldopfers, und es wird ihm vergeben werden."
+        },
+        {
+          "number": 17,
+          "text": "Und wenn jemand sündigt und eines von allen den Verboten Jehovas tut, die nicht getan werden sollen, hat er es auch nicht gewußt, so ist er schuldig und soll seine Ungerechtigkeit tragen."
+        },
+        {
+          "number": 18,
+          "text": "Und er soll einen Widder ohne Fehl vom Kleinvieh nach deiner Schätzung zu dem Priester bringen, zum Schuldopfer; und der Priester soll Sühnung für ihn tun wegen seines Versehens, das er begangen hat, ohne es zu wissen; und es wird ihm vergeben werden."
+        },
+        {
+          "number": 19,
+          "text": "Es ist ein Schuldopfer; er hat sich gewißlich an Jehova verschuldet."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "(05:20) Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "(05:21) Wenn jemand sündigt und Untreue wider Jehova begeht, daß er seinem Nächsten ein anvertrautes Gut ableugnet oder ein Darlehn oder etwas Geraubtes; oder er hat von seinem Nächsten etwas erpreßt,"
+        },
+        {
+          "number": 3,
+          "text": "(05:22) oder er hat Verlorenes gefunden, und leugnet es ab; und er schwört falsch über irgend etwas von allem, was ein Mensch tun mag, sich darin zu versündigen:"
+        },
+        {
+          "number": 4,
+          "text": "(05:23) so soll es geschehen, wenn er gesündigt und sich verschuldet hat, daß er zurückerstatte das Geraubte, das er geraubt, oder das Erpreßte, das er erpreßt hat, oder das Anvertraute, das ihm anvertraut worden ist, oder das Verlorene, das er gefunden hat,"
+        },
+        {
+          "number": 5,
+          "text": "(05:24) oder alles, worüber er falsch geschworen hat; und er soll es erstatten nach seiner vollen Summe und dessen Fünftel darüber hinzufügen; wem es gehört, dem soll er es geben am Tage seines Schuldopfers."
+        },
+        {
+          "number": 6,
+          "text": "(05:25) Und sein Schuldopfer soll er Jehova bringen, einen Widder ohne Fehl vom Kleinvieh, nach deiner Schätzung, zum Schuldopfer, zu dem Priester;"
+        },
+        {
+          "number": 7,
+          "text": "(05:26) und der Priester soll Sühnung für ihn tun vor Jehova, und es wird ihm vergeben werden wegen irgend etwas von allem, was er getan hat, sich darin zu verschulden."
+        },
+        {
+          "number": 8,
+          "text": "(06:1) Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 9,
+          "text": "(06:2) Gebiete Aaron und seinen Söhnen und sprich: Dies ist das Gesetz des Brandopfers. Dieses, das Brandopfer, soll auf seiner Feuerstelle sein, auf dem Altar, die ganze Nacht bis an den Morgen; und das Feuer des Altars soll auf demselben in Brand erhalten werden."
+        },
+        {
+          "number": 10,
+          "text": "(06:3) Und der Priester soll sein leinenes Kleid anziehen, und soll seine leinenen Beinkleider anziehen über sein Fleisch; und er soll die Fettasche abheben, zu welcher das Feuer das Brandopfer auf dem Altar verzehrt hat, und soll sie neben den Altar schütten."
+        },
+        {
+          "number": 11,
+          "text": "(06:4) Und er soll seine Kleider ausziehen und andere Kleider anlegen und die Fettasche hinaustragen außerhalb des Lagers an einen reinen Ort."
+        },
+        {
+          "number": 12,
+          "text": "(06:5) Und das Feuer auf dem Altar soll auf demselben in Brand erhalten werden, es soll nicht erlöschen; und der Priester soll Holz auf ihm anzünden, Morgen für Morgen, und das Brandopfer auf ihm zurichten, und die Fettstücke der Friedensopfer auf ihm räuchern."
+        },
+        {
+          "number": 13,
+          "text": "(06:6) Ein beständiges Feuer soll auf dem Altar in Brand erhalten werden, es soll nicht erlöschen."
+        },
+        {
+          "number": 14,
+          "text": "(06:7) Und dies ist das Gesetz des Speisopfers: Einer der Söhne Aarons soll es vor Jehova darbringen vor dem Altar."
+        },
+        {
+          "number": 15,
+          "text": "(06:8) Und er soll davon seine Hand voll nehmen, vom Feinmehl des Speisopfers und von dessen Öl, und allen Weihrauch, der auf dem Speisopfer ist, und es auf dem Altar räuchern: es ist ein lieblicher Geruch, sein Gedächtnisteil für Jehova."
+        },
+        {
+          "number": 16,
+          "text": "(06:9) Und das Übrige davon sollen Aaron und seine Söhne essen; ungesäuert soll es gegessen werden an heiligem Orte; im Vorhofe des Zeltes der Zusammenkunft sollen sie es essen."
+        },
+        {
+          "number": 17,
+          "text": "(06:10) Es soll nicht gesäuert gebacken werden; als ihren Anteil habe ich es ihnen gegeben von meinen Feueropfern: hochheilig ist es, wie das Sündopfer und wie das Schuldopfer."
+        },
+        {
+          "number": 18,
+          "text": "(06:11) Alles Männliche unter den Kindern Aarons soll es essen: Ein für ewig Bestimmtes bei euren Geschlechtern von den Feueropfern Jehovas. Alles, was sie anrührt, wird heilig sein."
+        },
+        {
+          "number": 19,
+          "text": "(06:12) Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 20,
+          "text": "(06:13) Dies ist die Opfergabe Aarons und seiner Söhne, welche sie Jehova darbringen sollen an dem Tage, da er gesalbt wird: Ein Zehntel Epha Feinmehl als beständiges Speisopfer, die Hälfte davon am Morgen und die Hälfte davon am Abend."
+        },
+        {
+          "number": 21,
+          "text": "(06:14) Es soll in der Pfanne mit Öl bereitet werden, eingerührt mit Öl sollst du es bringen; gebackene Speisopferstücke sollst du darbringen als einen lieblichen Geruch dem Jehova."
+        },
+        {
+          "number": 22,
+          "text": "(06:15) Und der Priester, der unter seinen Söhnen an seiner Statt gesalbt wird, soll es opfern; eine ewige Satzung: es soll dem Jehova ganz geräuchert werden."
+        },
+        {
+          "number": 23,
+          "text": "(06:16) Und jedes Speisopfer des Priesters soll ein Ganzopfer sein; es soll nicht gegessen werden."
+        },
+        {
+          "number": 24,
+          "text": "(06:17) Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 25,
+          "text": "(06:18) Rede zu Aaron und zu seinen Söhnen und sprich: Dies ist das Gesetz des Sündopfers. An dem Orte, wo das Brandopfer geschlachtet wird, soll das Sündopfer geschlachtet werden vor Jehova: hochheilig ist es."
+        },
+        {
+          "number": 26,
+          "text": "(06:19) Der Priester, der es als Sündopfer opfert, soll es essen; an heiligem Orte soll es gegessen werden, im Vorhofe des Zeltes der Zusammenkunft."
+        },
+        {
+          "number": 27,
+          "text": "(06:20) Alles, was sein Fleisch anrührt, wird heilig sein; und wenn von seinem Blute auf ein Kleid spritzt das, worauf es spritzt, sollst du waschen an heiligem Orte."
+        },
+        {
+          "number": 28,
+          "text": "(06:21) Und das irdene Gefäß, in welchem es gekocht wird, soll zerbrochen werden, und wenn es in einem ehernen Gefäß gekocht wird, so soll dieses gescheuert und mit Wasser gespült werden."
+        },
+        {
+          "number": 29,
+          "text": "(06:22) Alles Männliche unter den Priestern soll es essen: hochheilig ist es."
+        },
+        {
+          "number": 30,
+          "text": "(06:23) Aber alles Sündopfer, von dessen Blut in das Zelt der Zusammenkunft gebracht wird, um im Heiligtum Sühnung zu tun, soll nicht gegessen werden; es soll mit Feuer verbrannt werden."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und dies ist das Gesetz des Schuldopfers; es ist hochheilig."
+        },
+        {
+          "number": 2,
+          "text": "An dem Orte, wo man das Brandopfer schlachtet, soll man das Schuldopfer schlachten; und sein Blut soll er an den Altar sprengen ringsum."
+        },
+        {
+          "number": 3,
+          "text": "Und alles Fett soll er davon darbringen, den Fettschwanz und das Fett, welches das Eingeweide bedeckt,"
+        },
+        {
+          "number": 4,
+          "text": "und die beiden Nieren und das Fett, das an ihnen, das an den Lenden ist, und das Netz über der Leber: samt den Nieren soll er es abtrennen."
+        },
+        {
+          "number": 5,
+          "text": "Und der Priester soll es auf dem Altar räuchern als ein Feueropfer dem Jehova: es ist ein Schuldopfer."
+        },
+        {
+          "number": 6,
+          "text": "Alles Männliche unter den Priestern soll es essen; an heiligem Orte soll es gegessen werden: hochheilig ist es."
+        },
+        {
+          "number": 7,
+          "text": "Wie das Sündopfer, so das Schuldopfer: ein Gesetz soll für sie sein. Der Priester, der damit Sühnung tut, ihm soll es gehören. -"
+        },
+        {
+          "number": 8,
+          "text": "Und der Priester, der jemandes Brandopfer darbringt: ihm, dem Priester, soll die Haut des Brandopfers gehören, das er dargebracht hat."
+        },
+        {
+          "number": 9,
+          "text": "Und alles Speisopfer, das im Ofen gebacken, und alles, was im Napfe oder in der Pfanne bereitet wird: dem Priester, der es darbringt, ihm soll es gehören."
+        },
+        {
+          "number": 10,
+          "text": "Und alles Speisopfer, das mit Öl gemengt oder trocken ist, soll allen Söhnen Aarons gehören, dem einen wie dem anderen."
+        },
+        {
+          "number": 11,
+          "text": "Und dies ist das Gesetz des Friedensopfers, das man Jehova darbringt:"
+        },
+        {
+          "number": 12,
+          "text": "Wenn man es zum Danke darbringt, so bringe man nebst dem Dankopfer ungesäuerte Kuchen dar, gemengt mit Öl, und ungesäuerte Fladen, gesalbt mit Öl, und Feinmehl, eingerührt mit Öl: Kuchen, gemengt mit Öl."
+        },
+        {
+          "number": 13,
+          "text": "Nebst den Kuchen soll man gesäuertes Brot als Opfergabe darbringen, nebst seinem Dankfriedensopfer."
+        },
+        {
+          "number": 14,
+          "text": "Und man soll je eines davon, von der ganzen Opfergabe, dem Jehova als Hebopfer darbringen; dem Priester, der das Blut des Friedensopfers sprengt, ihm soll es gehören."
+        },
+        {
+          "number": 15,
+          "text": "Und das Fleisch seines Dankfriedensopfers soll am Tage seiner Darbringung gegessen werden; er soll nichts davon liegen lassen bis an den Morgen."
+        },
+        {
+          "number": 16,
+          "text": "Und wenn das Schlachtopfer seiner Opfergabe ein Gelübde oder eine freiwillige Gabe ist, so soll es an dem Tage, da er sein Schlachtopfer darbringt, gegessen werden; und am anderen Tage soll dann, was davon übrigbleibt, gegessen werden;"
+        },
+        {
+          "number": 17,
+          "text": "und was vom Fleische des Schlachtopfers am dritten Tage übrigbleibt, soll mit Feuer verbrannt werden."
+        },
+        {
+          "number": 18,
+          "text": "Und wenn irgendwie vom Fleische seines Friedensopfers am dritten Tage gegessen wird, so wird es nicht wohlgefällig sein; wer es dargebracht hat, dem wird es nicht zugerechnet werden: ein Greuel wird es sein; und die Seele, die davon isset, wird ihre Ungerechtigkeit tragen."
+        },
+        {
+          "number": 19,
+          "text": "Und das Fleisch, das irgend etwas Unreines berührt, soll nicht gegessen werden, mit Feuer soll es verbrannt werden. Und was das Fleisch betrifft, jeder Reine darf das Fleisch essen;"
+        },
+        {
+          "number": 20,
+          "text": "aber die Seele, welche Fleisch von dem Friedensopfer isset, das Jehova gehört, und ihre Unreinigkeit ist an ihr, selbige Seele soll ausgerottet werden aus ihren Völkern."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn eine Seele irgend etwas Unreines anrührt, die Unreinigkeit eines Menschen oder ein unreines Vieh oder irgend ein unreines Scheusal, und sie isset von dem Fleische des Friedensopfers, das Jehova gehört: selbige Seele soll ausgerottet werden aus ihren Völkern."
+        },
+        {
+          "number": 22,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 23,
+          "text": "Rede zu den Kindern Israel und sprich: Kein Fett vom Rindvieh und von Schaf und Ziege sollt ihr essen."
+        },
+        {
+          "number": 24,
+          "text": "Und das Fett vom Aas und das Fett vom Zerrissenen kann verwendet werden zu allerlei Werk; aber ihr sollt es durchaus nicht essen."
+        },
+        {
+          "number": 25,
+          "text": "Denn jeder, der Fett isset vom Vieh, wovon man ein Feueropfer dem Jehova darbringt die Seele, die es isset, soll ausgerottet werden aus ihren Völkern."
+        },
+        {
+          "number": 26,
+          "text": "Und kein Blut sollt ihr essen in allen euren Wohnsitzen, es sei vom Gevögel oder vom Vieh."
+        },
+        {
+          "number": 27,
+          "text": "Jede Seele, die irgend Blut isset, selbige Seele soll ausgerottet werden aus ihren Völkern."
+        },
+        {
+          "number": 28,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 29,
+          "text": "Rede zu den Kindern Israel und sprich: Wer sein Friedensopfer dem Jehova darbringt, soll von seinem Friedensopfer seine Opfergabe dem Jehova bringen."
+        },
+        {
+          "number": 30,
+          "text": "Seine Hände sollen die Feueropfer Jehovas bringen; das Fett, samt der Brust soll er es bringen: die Brust, um sie als Webopfer vor Jehova zu weben."
+        },
+        {
+          "number": 31,
+          "text": "Und der Priester soll das Fett auf dem Altar räuchern, und die Brust soll Aaron und seinen Söhnen gehören."
+        },
+        {
+          "number": 32,
+          "text": "Und den rechten Schenkel sollt ihr als Hebopfer von euren Friedensopfern dem Priester geben."
+        },
+        {
+          "number": 33,
+          "text": "Wer von den Söhnen Aarons das Blut des Friedensopfers und das Fett darbringt, dem soll der rechte Schenkel zuteil werden."
+        },
+        {
+          "number": 34,
+          "text": "Und die Brust des Webopfers und den Schenkel des Hebopfers habe ich von den Kindern Israel genommen, von ihren Friedensopfern, und habe sie Aaron, dem Priester, und seinen Söhnen gegeben als eine ewige Gebühr von seiten der Kinder Israel. -"
+        },
+        {
+          "number": 35,
+          "text": "Das ist das Salbungsteil Aarons und das Salbungsteil seiner Söhne von den Feueropfern Jehovas, an dem Tage, da man sie herzunahen ließ, um Jehova den Priesterdienst auszuüben,"
+        },
+        {
+          "number": 36,
+          "text": "das Jehova geboten hat, ihnen zu geben von seiten der Kinder Israel, an dem Tage, da man sie salbte: eine ewige Satzung bei ihren Geschlechtern."
+        },
+        {
+          "number": 37,
+          "text": "Das ist das Gesetz des Brandopfers, des Speisopfers und des Sündopfers und des Schuldopfers und des Einweihungsopfers und des Friedensopfers,"
+        },
+        {
+          "number": 38,
+          "text": "welches Jehova dem Mose geboten hat auf dem Berge Sinai, an dem Tage, da er den Kindern Israel gebot, ihre Opfergaben dem Jehova darzubringen, in der Wüste Sinai."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Nimm Aaron und seine Söhne mit ihm, und die Kleider und das Salböl und den Farren des Sündopfers und die zwei Widder und den Korb des Ungesäuerten;"
+        },
+        {
+          "number": 3,
+          "text": "und versammle die ganze Gemeinde am Eingang des Zeltes der Zusammenkunft."
+        },
+        {
+          "number": 4,
+          "text": "Und Mose tat, so wie Jehova ihm geboten hatte; und die Gemeinde versammelte sich am Eingang des Zeltes der Zusammenkunft."
+        },
+        {
+          "number": 5,
+          "text": "Und Mose sprach zu der Gemeinde: Dies ist es, was Jehova zu tun geboten hat."
+        },
+        {
+          "number": 6,
+          "text": "Und Mose ließ Aaron und seine Söhne herzunahen und wusch sie mit Wasser."
+        },
+        {
+          "number": 7,
+          "text": "Und er legte ihm den Leibrock an und umgürtete ihn mit dem Gürtel; und er bekleidete ihn mit dem Oberkleide und legte ihm das Ephod an und umgürtete ihn mit dem gewirkten Gürtel des Ephods und band es ihm damit an;"
+        },
+        {
+          "number": 8,
+          "text": "und er setzte das Brustschild darauf und legte in das Brustschild die Urim und die Thummim;"
+        },
+        {
+          "number": 9,
+          "text": "und er setzte den Kopfbund auf sein Haupt und setzte an den Kopfbund, an seine Vorderseite, das Goldblech, das heilige Diadem: so wie Jehova dem Mose geboten hatte."
+        },
+        {
+          "number": 10,
+          "text": "Und Mose nahm das Salböl und salbte die Wohnung und alles, was darin war, und heiligte sie."
+        },
+        {
+          "number": 11,
+          "text": "Und er sprengte davon siebenmal auf den Altar, und er salbte den Altar und alle seine Geräte und das Becken und sein Gestell, um sie zu heiligen."
+        },
+        {
+          "number": 12,
+          "text": "Und er goß von dem Salböl auf das Haupt Aarons und salbte ihn, um ihn zu heiligen."
+        },
+        {
+          "number": 13,
+          "text": "Und Mose ließ die Söhne Aarons herzunahen und bekleidete sie mit den Leibröcken und umgürtete sie mit den Gürteln und band ihnen die hohen Mützen um: so wie Jehova dem Mose geboten hatte."
+        },
+        {
+          "number": 14,
+          "text": "Und er brachte den Farren des Sündopfers herzu; und Aaron und seine Söhne legten ihre Hände auf den Kopf des Farren des Sündopfers."
+        },
+        {
+          "number": 15,
+          "text": "Und er schlachtete ihn, und Mose nahm das Blut und tat davon mit seinem Finger an die Hörner des Altars ringsum und entsündigte den Altar; und das Blut goß er an den Fuß des Altars und heiligte ihn, indem er Sühnung für ihn tat."
+        },
+        {
+          "number": 16,
+          "text": "Und er nahm das ganze Fett, das am Eingeweide ist, und das Netz der Leber und die beiden Nieren und ihr Fett, und Mose räucherte es auf dem Altar."
+        },
+        {
+          "number": 17,
+          "text": "Und den Farren und seine Haut und sein Fleisch und seinen Mist verbrannte er mit Feuer außerhalb des Lagers: so wie Jehova dem Mose geboten hatte. -"
+        },
+        {
+          "number": 18,
+          "text": "Und er brachte den Widder des Brandopfers herzu; und Aaron und seine Söhne legten ihre Hände auf den Kopf des Widders."
+        },
+        {
+          "number": 19,
+          "text": "Und er schlachtete ihn, und Mose sprengte das Blut an den Altar ringsum."
+        },
+        {
+          "number": 20,
+          "text": "Und den Widder zerlegte er in seine Stücke, und Mose räucherte den Kopf und die Stücke und das Fett;"
+        },
+        {
+          "number": 21,
+          "text": "und das Eingeweide und die Schenkel wusch er mit Wasser. Und Mose räucherte den ganzen Widder auf dem Altar: es war ein Brandopfer zum lieblichen Geruch, es war ein Feueropfer dem Jehova, so wie Jehova dem Mose geboten hatte. -"
+        },
+        {
+          "number": 22,
+          "text": "Und er brachte den zweiten Widder, den Widder der Einweihung, herzu; und Aaron und seine Söhne legten ihre Hände auf den Kopf des Widders."
+        },
+        {
+          "number": 23,
+          "text": "Und er schlachtete ihn, und Mose nahm von seinem Blute und tat es auf das rechte Ohrläppchen Aarons und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes."
+        },
+        {
+          "number": 24,
+          "text": "Und er ließ die Söhne Aarons herzunahen, und Mose tat von dem Blute auf ihr rechtes Ohrläppchen und auf den Daumen ihrer rechten Hand und auf die große Zehe ihres rechten Fußes; und Mose sprengte das Blut an den Altar ringsum."
+        },
+        {
+          "number": 25,
+          "text": "Und er nahm das Fett und den Fettschwanz und alles Fett, das am Eingeweide ist, und das Netz der Leber und die beiden Nieren und ihr Fett und den rechten Schenkel;"
+        },
+        {
+          "number": 26,
+          "text": "und er nahm aus dem Korbe des Ungesäuerten, der vor Jehova war, einen ungesäuerten Kuchen und einen Kuchen geölten Brotes und einen Fladen, und legte es auf die Fettstücke und auf den rechten Schenkel;"
+        },
+        {
+          "number": 27,
+          "text": "und er legte das alles auf die Hände Aarons und auf die Hände seiner Söhne, und webte es als Webopfer vor Jehova."
+        },
+        {
+          "number": 28,
+          "text": "Und Mose nahm es von ihren Händen weg und räucherte es auf dem Altar, auf dem Brandopfer: es war ein Einweihungsopfer zum lieblichen Geruch, es war ein Feueropfer dem Jehova."
+        },
+        {
+          "number": 29,
+          "text": "Und Mose nahm die Brust und webte sie als Webopfer vor Jehova; von dem Einweihungswidder ward sie dem Mose zuteil, so wie Jehova dem Mose geboten hatte."
+        },
+        {
+          "number": 30,
+          "text": "Und Mose nahm von dem Salböl und von dem Blute, das auf dem Altar war, und sprengte es auf Aaron, auf seine Kleider, und auf seine Söhne und auf die Kleider seiner Söhne mit ihm; und er heiligte Aaron, seine Kleider, und seine Söhne und die Kleider seiner Söhne mit ihm."
+        },
+        {
+          "number": 31,
+          "text": "Und Mose sprach zu Aaron und zu seinen Söhnen: Kochet das Fleisch an dem Eingang des Zeltes der Zusammenkunft; und ihr sollt es daselbst essen und das Brot, das im Korbe des Einweihungsopfers ist, so wie ich geboten habe und gesagt: Aaron und seine Söhne sollen es essen."
+        },
+        {
+          "number": 32,
+          "text": "Und das Übrige von dem Fleische und von dem Brote sollt ihr mit Feuer verbrennen."
+        },
+        {
+          "number": 33,
+          "text": "Und von dem Eingang des Zeltes der Zusammenkunft sollt ihr nicht weggehen sieben Tage lang, bis zu dem Tage, da die Tage eures Einweihungsopfers erfüllt sind; denn sieben Tage sollt ihr eingeweiht werden."
+        },
+        {
+          "number": 34,
+          "text": "So wie man an diesem Tage getan, hat Jehova zu tun geboten, um Sühnung für euch zu tun."
+        },
+        {
+          "number": 35,
+          "text": "Und ihr sollt an dem Eingang des Zeltes der Zusammenkunft Tag und Nacht bleiben, sieben Tage lang, und sollt die Vorschriften Jehovas beobachten, daß ihr nicht sterbet; denn also ist mir geboten worden."
+        },
+        {
+          "number": 36,
+          "text": "Und Aaron und seine Söhne taten alles, was Jehova durch Mose geboten hatte."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und es geschah am achten Tage, da rief Mose Aaron und seine Söhne und die Ältesten Israels;"
+        },
+        {
+          "number": 2,
+          "text": "und er sprach zu Aaron: Nimm dir ein junges Kalb zum Sündopfer und einen Widder zum Brandopfer, ohne Fehl, und bringe sie dar vor Jehova."
+        },
+        {
+          "number": 3,
+          "text": "Und zu den Kindern Israel sollst du reden und sprechen: Nehmet einen Ziegenbock zum Sündopfer und ein Kalb und ein Lamm, einjährige, ohne Fehl, zum Brandopfer;"
+        },
+        {
+          "number": 4,
+          "text": "und einen Stier und einen Widder zum Friedensopfer, um sie vor Jehova zu opfern; und ein Speisopfer, gemengt mit Öl; denn heute wird Jehova euch erscheinen."
+        },
+        {
+          "number": 5,
+          "text": "Und sie brachten was Mose geboten hatte, vor das Zelt der Zusammenkunft, und die ganze Gemeinde nahte herzu und stand vor Jehova."
+        },
+        {
+          "number": 6,
+          "text": "Und Mose sprach: Dies ist es, was Jehova geboten hat, daß ihr es tun sollt; und die Herrlichkeit Jehovas wird euch erscheinen."
+        },
+        {
+          "number": 7,
+          "text": "Und Mose sprach zu Aaron: Nahe zum Altar, und opfere dein Sündopfer und dein Brandopfer, und tue Sühnung für dich und für das Volk; und opfere die Opfergabe des Volkes und tue Sühnung für sie, so wie Jehova geboten hat."
+        },
+        {
+          "number": 8,
+          "text": "Und Aaron nahte zum Altar und schlachtete das Kalb des Sündopfers, das für ihn war."
+        },
+        {
+          "number": 9,
+          "text": "Und die Söhne Aarons reichten ihm das Blut dar; und er tauchte seinen Finger in das Blut und tat davon an die Hörner des Altars, und er goß das Blut an den Fuß des Altars."
+        },
+        {
+          "number": 10,
+          "text": "Und das Fett und die Nieren und das Netz der Leber vom Sündopfer räucherte er auf dem Altar, so wie Jehova dem Mose geboten hatte."
+        },
+        {
+          "number": 11,
+          "text": "Und das Fleisch und die Haut verbrannte er mit Feuer außerhalb des Lagers."
+        },
+        {
+          "number": 12,
+          "text": "Und er schlachtete das Brandopfer; und die Söhne Aarons reichten ihm das Blut, und er sprengte es an den Altar ringsum."
+        },
+        {
+          "number": 13,
+          "text": "Und das Brandopfer reichten sie ihm in seinen Stücken und den Kopf, und er räucherte es auf dem Altar."
+        },
+        {
+          "number": 14,
+          "text": "Und er wusch das Eingeweide und die Schenkel und räucherte sie auf dem Brandopfer, auf dem Altar. -"
+        },
+        {
+          "number": 15,
+          "text": "Und er brachte herzu die Opfergabe des Volkes und nahm den Bock des Sündopfers, der für das Volk war, und schlachtete ihn und opferte ihn als Sündopfer, wie das vorige."
+        },
+        {
+          "number": 16,
+          "text": "Und er brachte das Brandopfer herzu und opferte es nach der Vorschrift."
+        },
+        {
+          "number": 17,
+          "text": "Und er brachte das Speisopfer herzu und füllte seine Hand davon und räucherte es auf dem Altar, außer dem Morgenbrandopfer."
+        },
+        {
+          "number": 18,
+          "text": "Und er schlachtete den Stier und den Widder, das Friedensopfer, welches für das Volk war. Und die Söhne Aarons reichten ihm das Blut, und er sprengte es an den Altar ringsum;"
+        },
+        {
+          "number": 19,
+          "text": "und die Fettstücke von dem Stier; und von dem Widder den Fettschwanz, und das Eingeweide bedeckt und die Nieren und das Netz der Leber;"
+        },
+        {
+          "number": 20,
+          "text": "und sie legten die Fettstücke auf die Bruststücke, und er räucherte die Fettstücke auf dem Altar."
+        },
+        {
+          "number": 21,
+          "text": "Und die Bruststücke und den rechten Schenkel webte Aaron als Webopfer vor Jehova, so wie Mose geboten hatte."
+        },
+        {
+          "number": 22,
+          "text": "Und Aaron erhob seine Hände gegen das Volk und segnete sie; und er stieg herab nach der Opferung des Sündopfers und des Brandopfers und des Friedensopfers."
+        },
+        {
+          "number": 23,
+          "text": "Und Mose und Aaron gingen hinein in das Zelt der Zusammenkunft; und sie kamen heraus und segneten das Volk. Und die Herrlichkeit Jehovas erschien dem ganzen Volke;"
+        },
+        {
+          "number": 24,
+          "text": "und es ging Feuer aus von Jehova und verzehrte auf dem Altar das Brandopfer und die Fettstücke; und das ganze Volk sah es, und sie jauchzten und fielen auf ihr Angesicht."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und die Söhne Aarons, Nadab und Abihu, nahmen ein jeder seine Räucherpfanne und taten Feuer hinein und legten Räucherwerk darauf und brachten fremdes Feuer vor Jehova dar, das er ihnen nicht geboten hatte."
+        },
+        {
+          "number": 2,
+          "text": "Da ging Feuer von Jehova aus und verzehrte sie, und sie starben vor Jehova."
+        },
+        {
+          "number": 3,
+          "text": "Und Mose sprach zu Aaron: Dies ist es, was Jehova geredet hat, indem er sprach: In denen, die mir nahen, will ich geheiligt, und vor dem ganzen Volke will ich verherrlicht werden. Und Aaron schwieg."
+        },
+        {
+          "number": 4,
+          "text": "Und Mose rief Misael und Elzaphan, die Söhne Ussiels, des Oheims Aarons, und sprach zu ihnen: Tretet herzu, traget eure Brüder von dem Heiligtum hinweg außerhalb des Lagers."
+        },
+        {
+          "number": 5,
+          "text": "Und sie traten herzu und trugen sie in ihren Leibröcken hinweg außerhalb des Lagers, so wie Mose geredet hatte. -"
+        },
+        {
+          "number": 6,
+          "text": "Und Mose sprach zu Aaron und zu Eleasar und zu Ithamar, seinen Söhnen: Eure Häupter sollt ihr nicht entblößen und eure Kleider nicht zerreißen, damit ihr nicht sterbet, und er nicht erzürne über die ganze Gemeinde; aber eure Brüder, das ganze Haus Israel, sollen diesen Brand beweinen, den Jehova angerichtet hat."
+        },
+        {
+          "number": 7,
+          "text": "Und von dem Eingang des Zeltes der Zusammenkunft sollt ihr nicht weggehen, daß ihr nicht sterbet; denn das Öl der Salbung Jehovas ist auf euch. Und sie taten nach dem Worte Moses."
+        },
+        {
+          "number": 8,
+          "text": "Und Jehova redete zu Aaron und sprach:"
+        },
+        {
+          "number": 9,
+          "text": "Wein und starkes Getränk sollst du nicht trinken, du und deine Söhne mit dir, wenn ihr in das Zelt der Zusammenkunft hineingehet, daß ihr nicht sterbet, eine ewige Satzung bei euren Geschlechtern-"
+        },
+        {
+          "number": 10,
+          "text": "und damit ihr unterscheidet zwischen dem Heiligen und dem Unheiligen und zwischen dem Reinen und dem Unreinen,"
+        },
+        {
+          "number": 11,
+          "text": "und damit ihr die Kinder Israel lehret alle die Satzungen, die Jehova durch Mose zu euch geredet hat."
+        },
+        {
+          "number": 12,
+          "text": "Und Mose redete zu Aaron und zu Eleasar und zu Ithamar, seinen Söhnen, den übriggebliebenen: Nehmet das Speisopfer, das von den Feueropfern Jehovas übrigbleibt, und esset es ungesäuert neben dem Altar; denn hochheilig ist es."
+        },
+        {
+          "number": 13,
+          "text": "Und ihr sollt es essen an heiligem Orte, denn es ist dein Bestimmtes und das Bestimmte deiner Söhne von den Feueropfern Jehovas; denn also ist mir geboten."
+        },
+        {
+          "number": 14,
+          "text": "Und die Brust des Webopfers und den Schenkel des Hebopfers sollt ihr essen an reinem Orte, du und deine Söhne und deine Töchter mit dir; denn als dein Bestimmtes und das Bestimmte deiner Söhne sind sie gegeben von den Friedensopfern der Kinder Israel."
+        },
+        {
+          "number": 15,
+          "text": "Den Schenkel des Hebopfers und die Brust des Webopfers sollen sie nebst den Feueropfern der Fettstücke bringen, um sie als Webopfer vor Jehova zu weben; und sie sollen dir gehören und deinen Söhnen mit dir, als eine ewige Gebühr, so wie Jehova geboten hat."
+        },
+        {
+          "number": 16,
+          "text": "Und Mose suchte eifrig den Bock des Sündopfers, und siehe, er war verbrannt. Und er erzürnte über Eleasar und über Ithamar, die Söhne Aarons, die übriggeblieben, und sprach:"
+        },
+        {
+          "number": 17,
+          "text": "Warum habt ihr nicht das Sündopfer an heiligem Orte gegessen? Denn es ist hochheilig; und er hat es euch gegeben, um die Ungerechtigkeit der Gemeinde zu tragen, um Sühnung für sie zu tun vor Jehova."
+        },
+        {
+          "number": 18,
+          "text": "Siehe, das Blut desselben ist nicht in das Innere des Heiligtums gebracht worden; ihr sollt es jedenfalls im Heiligtum essen, so wie ich geboten habe."
+        },
+        {
+          "number": 19,
+          "text": "Und Aaron redete zu Mose: Siehe, heute haben sie ihr Sündopfer und ihr Brandopfer vor Jehova dargebracht; und solches ist mir begegnet; und hätte ich heute das Sündopfer gegessen, würde es gut gewesen sein in den Augen Jehovas?"
+        },
+        {
+          "number": 20,
+          "text": "Und Mose hörte es, und es war gut in seinen Augen."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und zu Aaron und sprach zu ihnen:"
+        },
+        {
+          "number": 2,
+          "text": "Redet zu den Kindern Israel und sprechet: Dies sind die Tiere, die ihr essen sollt von allen Tieren, die auf der Erde sind."
+        },
+        {
+          "number": 3,
+          "text": "Alles, was gespaltene Hufe, und zwar ganz gespaltene Hufe hat, und wiederkäut unter den Tieren, das sollt ihr essen."
+        },
+        {
+          "number": 4,
+          "text": "Nur diese sollt ihr nicht essen von den wiederkäuenden und von denen, die gespaltene Hufe haben: das Kamel, denn es wiederkäut, aber es hat keine gespaltenen Hufe: unrein soll es euch sein;"
+        },
+        {
+          "number": 5,
+          "text": "und den Klippendachs, denn er wiederkäut, aber er hat keine gespaltenen Hufe: unrein soll er euch sein;"
+        },
+        {
+          "number": 6,
+          "text": "und den Hasen, denn er wiederkäut, aber er hat keine gespaltenen Hufe: unrein soll er euch sein;"
+        },
+        {
+          "number": 7,
+          "text": "und das Schwein, denn es hat gespaltene Hufe, und zwar ganz gespaltene Hufe, aber es wiederkäut nicht: unrein soll es euch sein."
+        },
+        {
+          "number": 8,
+          "text": "Von ihrem Fleische sollt ihr nicht essen und ihr Aas nicht anrühren: unrein sollen sie euch sein."
+        },
+        {
+          "number": 9,
+          "text": "Dieses sollt ihr essen von allem, was in den Wassern ist: alles, was Floßfedern und Schuppen hat in den Wassern, in den Meeren und in den Flüssen, das sollt ihr essen;"
+        },
+        {
+          "number": 10,
+          "text": "aber alles, was keine Floßfedern und Schuppen hat in den Meeren und in den Flüssen, von allem Gewimmel der Wasser und von jedem lebendigen Wesen, das in den Wassern ist, sie sollen euch ein Greuel sein;"
+        },
+        {
+          "number": 11,
+          "text": "ja, ein Greuel sollen sie euch sein: von ihrem Fleische sollt ihr nicht essen, und ihr Aas sollt ihr verabscheuen."
+        },
+        {
+          "number": 12,
+          "text": "Alles, was nicht Floßfedern und Schuppen hat in den Wassern, soll euch ein Greuel sein."
+        },
+        {
+          "number": 13,
+          "text": "Und diese sollt ihr verabscheuen von den Vögeln; sie sollen nicht gegessen werden, ein Greuel sind sie: den Adler und den Beinbrecher und den Meeradler,"
+        },
+        {
+          "number": 14,
+          "text": "und den Falken und die Weihe nach ihrer Art,"
+        },
+        {
+          "number": 15,
+          "text": "alle Raben nach ihrer Art,"
+        },
+        {
+          "number": 16,
+          "text": "und die Straußhenne und den Straußhahn und die Seemöve und den Habicht nach seiner Art,"
+        },
+        {
+          "number": 17,
+          "text": "und die Eule und den Sturzpelikan und die Rohrdommel,"
+        },
+        {
+          "number": 18,
+          "text": "und das Purpurhuhn und den Pelikan und den Aasgeier,"
+        },
+        {
+          "number": 19,
+          "text": "und den Storch und den Fischreiher nach seiner Art, und den Wiedehopf und die Fledermaus."
+        },
+        {
+          "number": 20,
+          "text": "Alles geflügelte Gewürm, das auf Vieren geht, soll euch ein Greuel sein."
+        },
+        {
+          "number": 21,
+          "text": "Nur dieses sollt ihr essen von allem geflügelten Gewürm, das auf Vieren geht: was Schenkel hat oberhalb seiner Füße, um damit auf der Erde zu hüpfen."
+        },
+        {
+          "number": 22,
+          "text": "Diese sollt ihr von ihnen essen: den Arbeh nach seiner Art und den Solham nach seiner Art und den Chargol nach seiner Art und den Chagab nach seiner Art."
+        },
+        {
+          "number": 23,
+          "text": "Aber alles geflügelte Gewürm, das vier Füße hat, soll euch ein Greuel sein."
+        },
+        {
+          "number": 24,
+          "text": "Und durch diese werdet ihr euch verunreinigen; jeder, der ihr Aas anrührt, wird unrein sein bis an den Abend;"
+        },
+        {
+          "number": 25,
+          "text": "und jeder, der von ihrem Aase trägt, soll seine Kleider waschen und wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 26,
+          "text": "Jedes Tier, das gespaltene Hufe, aber nicht ganz gespaltene Hufe hat und nicht wiederkäut: Unrein sollen sie euch sein; jeder, der sie anrührt, wird unrein sein."
+        },
+        {
+          "number": 27,
+          "text": "Und alles, was auf seinen Tatzen geht, unter allem Getier, das auf Vieren geht, sie sollen euch unrein sein; jeder, der ihr Aas anrührt, wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 28,
+          "text": "Und wer ihr Aas trägt, soll seine Kleider waschen und wird unrein sein bis an den Abend; sie sollen euch unrein sein."
+        },
+        {
+          "number": 29,
+          "text": "Und diese sollen euch unrein sein unter dem Gewimmel, das auf der Erde wimmelt: der Maulwurf und die Maus und die Eidechse nach ihrer Art,"
+        },
+        {
+          "number": 30,
+          "text": "und die Anaka und der Koach und der Letaah und der Chomet und das Chamäleon."
+        },
+        {
+          "number": 31,
+          "text": "Diese sollen euch unrein sein unter allem Gewimmel; jeder, der sie anrührt, wenn sie tot sind, wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 32,
+          "text": "Und alles, worauf eines von ihnen fällt, wenn sie tot sind, wird unrein sein: jedes Holzgerät oder Kleid oder Fell oder Sack, jedes Gerät, womit eine Arbeit verrichtet wird, es soll ins Wasser getan werden und wird unrein sein bis an den Abend; dann wird es rein sein."
+        },
+        {
+          "number": 33,
+          "text": "Und jedes irdene Gefäß, in welches eines von ihnen hineinfällt: alles, was darin ist, wird unrein sein, und es selbst sollt ihr zerbrechen."
+        },
+        {
+          "number": 34,
+          "text": "Alle Speise, die gegessen wird, auf welche solches Wasser kommt, wird unrein sein; und alles Getränk, das getrunken wird, wird unrein sein in jedem solchen Gefäße."
+        },
+        {
+          "number": 35,
+          "text": "Und alles, worauf von ihrem Aase fällt, wird unrein sein; Ofen und Herd sollen niedergerissen werden, sie sind unrein, und unrein sollen sie euch sein."
+        },
+        {
+          "number": 36,
+          "text": "Doch Quelle und Zisterne, Wasserbehälter, werden rein sein; wer aber das Aas darin anrührt, wird unrein sein."
+        },
+        {
+          "number": 37,
+          "text": "Und wenn von ihrem Aase auf irgend welchen Saatsamen fällt, der gesät wird, so ist er rein;"
+        },
+        {
+          "number": 38,
+          "text": "wenn aber Wasser auf den Samen getan wurde, und es fällt von ihrem Aase auf denselben, so soll er euch unrein sein."
+        },
+        {
+          "number": 39,
+          "text": "Und wenn eines von dem Vieh stirbt, das euch zur Nahrung dient: wer dessen Aas anrührt, wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 40,
+          "text": "Und wer von dessen Aas isset, soll seine Kleider waschen und wird unrein sein bis an den Abend; und wer dessen Aas trägt, soll seine Kleider waschen und wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 41,
+          "text": "Und alles Gewimmel, das auf der Erde wimmelt, ist ein Greuel; es soll nicht gegessen werden."
+        },
+        {
+          "number": 42,
+          "text": "Alles was auf dem Bauche kriecht, und alles, was auf Vieren geht, bis zu allem Vielfüßigen von allem Gewimmel, das auf der Erde wimmelt: ihr sollt sie nicht essen; denn sie sind ein Greuel."
+        },
+        {
+          "number": 43,
+          "text": "Machet euch selbst nicht zum Greuel durch irgend ein kriechendes Gewürm, und verunreiniget euch nicht durch sie, so daß ihr dadurch unrein werdet."
+        },
+        {
+          "number": 44,
+          "text": "Denn ich bin Jehova, euer Gott; so heiliget euch und seid heilig, denn ich bin heilig. Und ihr sollt euch selbst nicht verunreinigen durch irgend ein Gewürm, das sich auf der Erde regt."
+        },
+        {
+          "number": 45,
+          "text": "Denn ich bin Jehova, der euch aus dem Lande Ägypten heraufgeführt hat, um euer Gott zu sein: so seid heilig, denn ich bin heilig."
+        },
+        {
+          "number": 46,
+          "text": "Das ist das Gesetz von dem Vieh und dem Gevögel und von jedem lebendigen Wesen, das sich in den Wassern regt, und von jedem Wesen, das auf der Erde kriecht;"
+        },
+        {
+          "number": 47,
+          "text": "um zu unterscheiden zwischen dem Unreinen und dem Reinen, und zwischen dem Getier, das gegessen wird, und dem Getier, das nicht gegessen werden soll."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich: Wenn ein Weib empfängt und ein männliches Kind gebiert, so wird sie unrein sein sieben Tage; wie in den Tagen der Unreinheit ihrer Krankheit wird sie unrein sein."
+        },
+        {
+          "number": 3,
+          "text": "Und am achten Tage soll das Fleisch seiner Vorhaut beschnitten werden."
+        },
+        {
+          "number": 4,
+          "text": "Und sie soll dreiunddreißig Tage im Blute der Reinigung bleiben; nichts Heiliges soll sie anrühren, und zum Heiligtum soll sie nicht kommen, bis die Tage ihrer Reinigung erfüllt sind."
+        },
+        {
+          "number": 5,
+          "text": "Und wenn sie ein weibliches Kind gebiert, so wird sie zwei Wochen unrein sein, wie bei ihrer Unreinheit; und sechsundsechzig Tage soll sie im Blute der Reinigung daheim bleiben."
+        },
+        {
+          "number": 6,
+          "text": "Und wenn die Tage ihrer Reinigung erfüllt sind für einen Sohn oder für eine Tochter, so soll sie ein einjähriges Lamm bringen zum Brandopfer, und eine junge Taube oder eine Turteltaube zum Sündopfer an den Eingang des Zeltes der Zusammenkunft zu dem Priester."
+        },
+        {
+          "number": 7,
+          "text": "Und er soll es vor Jehova darbringen und Sühnung für sie tun, und sie wird rein sein von dem Flusse ihres Blutes. Das ist das Gesetz der Gebärenden bei einem männlichen oder bei einem weiblichen Kinde."
+        },
+        {
+          "number": 8,
+          "text": "Und wenn ihre Hand das zu einem Schafe Hinreichende nicht aufbringen kann, so soll sie zwei Turteltauben oder zwei junge Tauben nehmen, eine zum Brandopfer und eine zum Sündopfer; und der Priester soll Sühnung für sie tun, und sie wird rein sein."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und zu Aaron und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Wenn ein Mensch in der Haut seines Fleisches eine Erhöhung oder einen Grind oder einen Flecken bekommt, und es wird in der Haut seines Fleisches zu einem Aussatzübel, so soll er zu Aaron, dem Priester, gebracht werden, oder zu einem von seinen Söhnen, den Priestern."
+        },
+        {
+          "number": 3,
+          "text": "Und besieht der Priester das Übel in der Haut des Fleisches, und das Haar in dem Übel hat sich in weiß verwandelt, und das Übel erscheint tiefer als die Haut seines Fleisches, so ist es das Übel des Aussatzes; und sieht es der Priester, so soll er ihn für unrein erklären."
+        },
+        {
+          "number": 4,
+          "text": "Und wenn der Flecken in der Haut seines Fleisches weiß ist, und er nicht tiefer erscheint als die Haut, und sein Haar hat sich nicht in weiß verwandelt, so soll der Priester den, der das Übel hat, sieben Tage einschließen."
+        },
+        {
+          "number": 5,
+          "text": "Und besieht es der Priester am siebten Tage, und siehe, das Übel ist in seinen Augen stehen geblieben, das Übel hat nicht um sich gegriffen in der Haut, so soll der Priester ihn zum zweiten Male sieben Tage einschließen."
+        },
+        {
+          "number": 6,
+          "text": "Und besieht es der Priester am siebten Tage zum zweiten Male, und siehe, das Übel ist blaß geworden, und das Übel hat nicht um sich gegriffen in der Haut, so soll der Priester ihn für rein erklären: es ist ein Grind; und er soll seine Kleider waschen, und er ist rein."
+        },
+        {
+          "number": 7,
+          "text": "Wenn aber der Grind in der Haut um sich greift, nachdem er sich dem Priester gezeigt hat zu seiner Reinigung, so soll er sich dem Priester zum zweiten Male zeigen;"
+        },
+        {
+          "number": 8,
+          "text": "und besieht ihn der Priester, und siehe, der Grind hat in der Haut um sich gegriffen, so soll der Priester ihn für unrein erklären: es ist der Aussatz."
+        },
+        {
+          "number": 9,
+          "text": "Wenn ein Aussatzübel an einem Menschen entsteht, so soll er zu dem Priester gebracht werden."
+        },
+        {
+          "number": 10,
+          "text": "Und besieht ihn der Priester, und siehe, es ist eine weiße Erhöhung in der Haut, und sie hat das Haar in weiß verwandelt, und ein Mal rohen Fleisches ist in der Erhöhung,"
+        },
+        {
+          "number": 11,
+          "text": "so ist es ein alter Aussatz in der Haut seines Fleisches, und der Priester soll ihn für unrein erklären; er soll ihn nicht einschließen, denn er ist unrein."
+        },
+        {
+          "number": 12,
+          "text": "Wenn aber der Aussatz in der Haut ausbricht, und der Aussatz die ganze Haut dessen, der das Übel hat, bedeckt, von seinem Kopfe bis zu seinen Füßen, wohin auch die Augen des Priesters blicken;"
+        },
+        {
+          "number": 13,
+          "text": "und der Priester besieht ihn, und siehe, der Aussatz hat sein ganzes Fleisch bedeckt, so soll er den, der das Übel hat, für rein erklären; hat es sich ganz in weiß verwandelt, so ist er rein."
+        },
+        {
+          "number": 14,
+          "text": "An dem Tage aber, da rohes Fleisch an ihm gesehen wird, wird er unrein sein."
+        },
+        {
+          "number": 15,
+          "text": "Und sieht der Priester das rohe Fleisch, so soll er ihn für unrein erklären; das rohe Fleisch ist unrein: es ist der Aussatz."
+        },
+        {
+          "number": 16,
+          "text": "Wenn aber das rohe Fleisch sich ändert und in weiß verwandelt wird, so soll er zu dem Priester kommen;"
+        },
+        {
+          "number": 17,
+          "text": "und besieht ihn der Priester, und siehe, das Übel ist in weiß verwandelt, so soll der Priester den, der das Übel hat, für rein erklären: er ist rein."
+        },
+        {
+          "number": 18,
+          "text": "Und wenn im Fleische, in dessen Haut, eine Beule entsteht und wieder heilt,"
+        },
+        {
+          "number": 19,
+          "text": "und es entsteht an der Stelle der Beule eine weiße Erhöhung oder ein weiß-rötlicher Flecken, so soll er sich dem Priester zeigen;"
+        },
+        {
+          "number": 20,
+          "text": "und besieht ihn der Priester, und siehe, der Flecken erscheint niedriger als die Haut, und sein Haar hat sich in weiß verwandelt, so soll der Priester ihn für unrein erklären; es ist das Übel des Aussatzes, er ist in der Beule ausgebrochen."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn der Priester ihn besieht, und siehe, es ist kein weißes Haar darin, und der Flecken ist nicht niedriger als die Haut und ist blaß, so soll der Priester ihn sieben Tage einschließen."
+        },
+        {
+          "number": 22,
+          "text": "Wenn er aber in der Haut um sich greift, so soll der Priester ihn für unrein erklären: es ist das Übel."
+        },
+        {
+          "number": 23,
+          "text": "Und wenn der Flecken an seiner Stelle stehen bleibt, wenn er nicht um sich gegriffen hat, so ist es die Narbe der Beule; und der Priester soll ihn für rein erklären."
+        },
+        {
+          "number": 24,
+          "text": "Oder wenn in der Haut des Fleisches eine feurige Entzündung entsteht, und das Mal der Entzündung wird ein weiß-rötlicher oder weißer Flecken,"
+        },
+        {
+          "number": 25,
+          "text": "und der Priester besieht ihn, und siehe, das Haar ist in weiß verwandelt in dem Flecken, und er erscheint tiefer als die Haut, so ist es der Aussatz; er ist in der Entzündung ausgebrochen, und der Priester soll ihn für unrein erklären: es ist das Übel des Aussatzes."
+        },
+        {
+          "number": 26,
+          "text": "Und wenn der Priester ihn besieht, und siehe, es ist kein weißes Haar in dem Flecken, und er ist nicht niedriger als die Haut und ist blaß, so soll der Priester ihn sieben Tage einschließen."
+        },
+        {
+          "number": 27,
+          "text": "Und der Priester soll ihn am siebten Tage besehen; wenn er in der Haut um sich greift, so soll der Priester ihn für unrein erklären: es ist das Übel des Aussatzes."
+        },
+        {
+          "number": 28,
+          "text": "Und wenn der Flecken an seiner Stelle stehen bleibt, wenn er nicht um sich gegriffen hat in der Haut und ist blaß, so ist es die Erhöhung der Entzündung; und der Priester soll ihn für rein erklären, denn es ist die Narbe der Entzündung."
+        },
+        {
+          "number": 29,
+          "text": "Und wenn ein Mann oder ein Weib ein Übel am Haupte oder am Barte bekommt,"
+        },
+        {
+          "number": 30,
+          "text": "und der Priester besieht das Übel, und siehe, es erscheint tiefer als die Haut, und goldgelbes, dünnes Haar ist darin, so soll der Priester ihn für unrein erklären: es ist Schorf, es ist der Aussatz des Hauptes oder des Bartes."
+        },
+        {
+          "number": 31,
+          "text": "Und wenn der Priester das Übel des Schorfes besieht, und siehe, es erscheint nicht tiefer als die Haut, und es ist kein schwarzes Haar darin, so soll der Priester den, der das Übel des Schorfes hat, sieben Tage einschließen."
+        },
+        {
+          "number": 32,
+          "text": "Und besieht der Priester das Übel am siebten Tage, und siehe, der Schorf hat nicht um sich gegriffen, und es ist kein goldgelbes Haar darin, und der Schorf erscheint nicht tiefer als die Haut,"
+        },
+        {
+          "number": 33,
+          "text": "so soll er sich scheren; aber den Schorf soll er nicht scheren; und der Priester schließe den, der den Schorf hat, zum zweiten Male sieben Tage ein."
+        },
+        {
+          "number": 34,
+          "text": "Und besieht der Priester den Schorf am siebten Tage, und siehe, der Schorf hat nicht um sich gegriffen in der Haut, und er erscheint nicht tiefer als die Haut, so soll der Priester ihn für rein erklären; und er soll seine Kleider waschen, und er ist rein."
+        },
+        {
+          "number": 35,
+          "text": "Wenn aber, nach seiner Reinigung, der Schorf in der Haut um sich greift,"
+        },
+        {
+          "number": 36,
+          "text": "und der Priester besieht ihn, und siehe, der Schorf hat in der Haut um sich gegriffen, so soll der Priester nicht nach dem goldgelben Haare forschen; er ist unrein."
+        },
+        {
+          "number": 37,
+          "text": "Und wenn in seinen Augen der Schorf stehen geblieben ist, und es ist schwarzes Haar darin gewachsen, so ist der Schorf geheilt; er ist rein, und der Priester soll ihn für rein erklären."
+        },
+        {
+          "number": 38,
+          "text": "Und wenn ein Mann oder ein Weib in der Haut ihres Fleisches Flecken bekommen, weiße Flecken,"
+        },
+        {
+          "number": 39,
+          "text": "und der Priester besieht sie, und siehe, in der Haut ihres Fleisches sind blasse, weiße Flecken, so ist es ein Ausschlag, der in der Haut ausgebrochen ist: er ist rein."
+        },
+        {
+          "number": 40,
+          "text": "Und wenn einem Manne das Haupthaar ausfällt, so ist er ein Glatzkopf: er ist rein;"
+        },
+        {
+          "number": 41,
+          "text": "und wenn ihm das Haupthaar gegen das Gesicht zu ausfällt, so ist er ein Kahlkopf: er ist rein."
+        },
+        {
+          "number": 42,
+          "text": "Und wenn an der Hinter-oder an der Vorderglatze ein weiß-rötliches Übel ist, so ist es der Aussatz, der an seiner Hinter-oder an seiner Vorderglatze ausgebrochen ist."
+        },
+        {
+          "number": 43,
+          "text": "Und besieht ihn der Priester, und siehe, die Erhöhung des Übels ist weiß-rötlich an seiner Hinter-oder an seiner Vorderglatze, gleich dem Aussehen des Aussatzes in der Haut des Fleisches,"
+        },
+        {
+          "number": 44,
+          "text": "so ist er ein aussätziger Mann: Er ist unrein; der Priester soll ihn für gänzlich unrein erklären; sein Übel ist an seinem Haupte."
+        },
+        {
+          "number": 45,
+          "text": "Und der Aussätzige, an dem das Übel ist, seine Kleider sollen zerrissen, und sein Haupt soll entblößt sein, und er soll seinen Bart verhüllen und ausrufen: Unrein, unrein!"
+        },
+        {
+          "number": 46,
+          "text": "Alle die Tage, da das Übel an ihm ist, soll er unrein sein; er ist unrein: allein soll er wohnen, außerhalb des Lagers soll seine Wohnung sein."
+        },
+        {
+          "number": 47,
+          "text": "Und wenn an einem Kleide ein Aussatzübel entsteht, an einem Kleide von Wolle oder an einem Kleide von Linnen;"
+        },
+        {
+          "number": 48,
+          "text": "oder an einer Kette oder an einem Einschlag von Linnen oder von Wolle; oder an einem Felle oder an irgend einem Fellwerk;"
+        },
+        {
+          "number": 49,
+          "text": "und das Übel ist grünlich oder rötlich am Kleide, oder am Felle, oder an der Kette oder am Einschlag, oder an irgend einem Gerät von Fell, so ist es das Übel des Aussatzes, und man soll es den Priester besehen lassen."
+        },
+        {
+          "number": 50,
+          "text": "Und der Priester besehe das Übel und schließe das, woran das Übel ist, sieben Tage ein."
+        },
+        {
+          "number": 51,
+          "text": "Und sieht er das Übel am siebten Tage, daß das Übel um sich gegriffen hat am Kleide, oder an der Kette oder am Einschlag, oder am Felle nach allem, wozu das Fell verarbeitet wird, so ist das Übel ein fressender Aussatz: es ist unrein."
+        },
+        {
+          "number": 52,
+          "text": "Und man soll das Kleid, oder die Kette oder den Einschlag von Wolle oder von Linnen, oder jedes Gerät von Fell, woran das Übel ist, verbrennen; denn es ist ein fressender Aussatz: es soll mit Feuer verbrannt werden."
+        },
+        {
+          "number": 53,
+          "text": "Und wenn der Priester es besieht, und siehe, das Übel hat nicht um sich gegriffen am Kleide, oder an der Kette oder am Einschlag, oder an irgend einem Gerät von Fell,"
+        },
+        {
+          "number": 54,
+          "text": "so soll der Priester gebieten, daß man das wasche, woran das Übel ist; und er soll es zum zweiten Male sieben Tage einschließen."
+        },
+        {
+          "number": 55,
+          "text": "Und besieht der Priester das Übel nach dem Waschen, und siehe, das Übel hat sein Aussehen nicht geändert, und das Übel hat nicht um sich gegriffen, so ist es unrein; du sollst es mit Feuer verbrennen: es ist eine Vertiefung auf seiner kahlen Hinter-oder Vorderseite."
+        },
+        {
+          "number": 56,
+          "text": "Und wenn der Priester es besieht, und siehe, das Übel ist blaß geworden nach dem Waschen, so soll er es abreißen vom Kleide, oder vom Felle, oder von der Kette oder vom Einschlag."
+        },
+        {
+          "number": 57,
+          "text": "Und wenn es noch gesehen wird am Kleide, oder an der Kette oder am Einschlag, oder an irgend einem Gerät von Fell, so ist es ein ausbrechender Aussatz: du sollst mit Feuer verbrennen, woran das Übel ist."
+        },
+        {
+          "number": 58,
+          "text": "Und das Kleid, oder die Kette oder der Einschlag, oder irgend ein Gerät von Fell, das du wäschest, und das Übel weicht daraus: es soll zum zweiten Male gewaschen werden, und es ist rein."
+        },
+        {
+          "number": 59,
+          "text": "Das ist das Gesetz des Aussatzübels an einem Kleide von Wolle oder von Linnen, oder an einer Kette oder an einem Einschlag, oder an irgend einem Gerät von Fell, um es für rein oder für unrein zu erklären."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Dies soll das Gesetz des Aussätzigen sein am Tage seiner Reinigung: Er soll zu dem Priester gebracht werden;"
+        },
+        {
+          "number": 3,
+          "text": "und der Priester soll außerhalb des Lagers gehen; und besieht ihn der Priester, und siehe, das Übel des Aussatzes ist heil geworden an dem Aussätzigen,"
+        },
+        {
+          "number": 4,
+          "text": "so soll der Priester gebieten, daß man für den, der zu reinigen ist, zwei lebendige, reine Vögel nehme und Cedernholz und Karmesin und Ysop."
+        },
+        {
+          "number": 5,
+          "text": "Und der Priester soll gebieten, daß man den einen Vogel schlachte in ein irdenes Gefäß über lebendigem Wasser."
+        },
+        {
+          "number": 6,
+          "text": "Den lebendigen Vogel soll er nehmen, ihn und das Cedernholz und das Karmesin und den Ysop, und dieses und den lebendigen Vogel in das Blut des Vogels tauchen, der geschlachtet worden ist über dem lebendigen Wasser;"
+        },
+        {
+          "number": 7,
+          "text": "und er soll auf den, der vom Aussatze zu reinigen ist, siebenmal sprengen und ihn für rein erklären; und den lebendigen Vogel soll er ins freie Feld fliegen lassen."
+        },
+        {
+          "number": 8,
+          "text": "Und der zu reinigen ist, soll seine Kleider waschen und all sein Haar scheren und sich im Wasser baden; und er ist rein. Und danach darf er ins Lager kommen, aber er soll sieben Tage außerhalb seines Zeltes bleiben."
+        },
+        {
+          "number": 9,
+          "text": "Und es soll geschehen, am siebten Tage soll er all sein Haar scheren, sein Haupt und seinen Bart und seine Augenbrauen; ja, all sein Haar soll er scheren und seine Kleider waschen und sein Fleisch im Wasser baden; und er ist rein."
+        },
+        {
+          "number": 10,
+          "text": "Und am achten Tage soll er zwei Lämmer nehmen, ohne Fehl, und ein weibliches Lamm, einjährig, ohne Fehl, und drei Zehntel Feinmehl, gemengt mit Öl, zum Speisopfer, und ein Log Öl."
+        },
+        {
+          "number": 11,
+          "text": "Und der reinigende Priester soll den Mann, der zu reinigen ist, und diese Dinge vor Jehova stellen an den Eingang des Zeltes der Zusammenkunft."
+        },
+        {
+          "number": 12,
+          "text": "Und der Priester nehme das eine Lamm und bringe es zum Schuldopfer dar mit dem Log Öl und webe sie als Webopfer vor Jehova;"
+        },
+        {
+          "number": 13,
+          "text": "Und er schlachte das Lamm an dem Orte, wo man das Sündopfer und das Brandopfer schlachtet, an heiligem Orte; denn wie das Sündopfer, so gehört das Schuldopfer dem Priester: es ist hochheilig."
+        },
+        {
+          "number": 14,
+          "text": "Und der Priester nehme von dem Blute des Schuldopfers, und der Priester tue es auf das rechte Ohrläppchen dessen, der zu reinigen ist, und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes."
+        },
+        {
+          "number": 15,
+          "text": "Und der Priester nehme von dem Log Öl und gieße es in seine linke Hand;"
+        },
+        {
+          "number": 16,
+          "text": "und der Priester tauche seinen rechten Finger in das Öl, das in seiner linken Hand ist, und sprenge von dem Öle mit seinem Finger siebenmal vor Jehova."
+        },
+        {
+          "number": 17,
+          "text": "Und von dem Übrigen des Öles, das in seiner Hand ist, soll der Priester auf das rechte Ohrläppchen dessen tun, der zu reinigen ist, und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes, auf das Blut des Schuldopfers."
+        },
+        {
+          "number": 18,
+          "text": "Und das Übrige des Öles, das in der Hand des Priesters ist, soll er auf das Haupt dessen tun, der zu reinigen ist; und der Priester soll Sühnung für ihn tun vor Jehova."
+        },
+        {
+          "number": 19,
+          "text": "Und der Priester soll das Sündopfer opfern und Sühnung tun für den, der von seiner Unreinheit zu reinigen ist; und danach soll er das Brandopfer schlachten."
+        },
+        {
+          "number": 20,
+          "text": "Und der Priester soll das Brandopfer und das Speisopfer auf dem Altar opfern. Und so tue der Priester Sühnung für ihn; und er ist rein."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn er arm ist und seine Hand es nicht aufbringen kann, so soll er ein Lamm als Schuldopfer nehmen zum Webopfer, um Sühnung für ihn zu tun; und ein Zehntel Feinmehl, gemengt mit Öl, zum Speisopfer, und ein Log Öl;"
+        },
+        {
+          "number": 22,
+          "text": "und zwei Turteltauben oder zwei junge Tauben, die seine Hand aufbringen kann; und die eine soll ein Sündopfer und die andere ein Brandopfer sein."
+        },
+        {
+          "number": 23,
+          "text": "Und er soll sie am achten Tage seiner Reinigung zu dem Priester bringen an den Eingang des Zeltes der Zusammenkunft vor Jehova."
+        },
+        {
+          "number": 24,
+          "text": "Und der Priester nehme das Lamm des Schuldopfers und das Log Öl, und der Priester webe sie als Webopfer vor Jehova."
+        },
+        {
+          "number": 25,
+          "text": "Und er schlachte das Lamm des Schuldopfers; und der Priester nehme von dem Blute des Schuldopfers und tue es auf das rechte Ohrläppchen dessen, der zu reinigen ist, und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes."
+        },
+        {
+          "number": 26,
+          "text": "Und der Priester gieße von dem Öle in seine linke Hand;"
+        },
+        {
+          "number": 27,
+          "text": "und der Priester sprenge mit seinem rechten Finger von dem Öle, das in seiner linken Hand ist, siebenmal vor Jehova."
+        },
+        {
+          "number": 28,
+          "text": "Und der Priester tue von dem Öle, das in seiner Hand ist, auf das rechte Ohrläppchen dessen, der zu reinigen ist, und auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten Fußes, auf die Stelle des Blutes des Schuldopfers."
+        },
+        {
+          "number": 29,
+          "text": "Und das Übrige des Öles, das in der Hand des Priesters ist, soll er auf das Haupt dessen tun, der zu reinigen ist, um Sühnung für ihn zu tun vor Jehova."
+        },
+        {
+          "number": 30,
+          "text": "Und er soll die eine von den Turteltauben oder von den jungen Tauben opfern, von dem, was seine Hand aufbringen kann, -"
+        },
+        {
+          "number": 31,
+          "text": "das, was seine Hand aufbringen kann: Die eine als Sündopfer und die andere als Brandopfer, nebst dem Speisopfer. Und so tue der Priester Sühnung vor Jehova für den, der zu reinigen ist."
+        },
+        {
+          "number": 32,
+          "text": "Das ist das Gesetz für den, an welchem das Übel des Aussatzes ist, dessen Hand bei seiner Reinigung nicht aufbringen kann, was vorgeschrieben ist."
+        },
+        {
+          "number": 33,
+          "text": "Und Jehova redete zu Mose und zu Aaron und sprach:"
+        },
+        {
+          "number": 34,
+          "text": "Wenn ihr in das Land Kanaan kommet, das ich euch zum Eigentum gebe, und ich ein Aussatzübel an ein Haus setze im Lande eures Eigentums,"
+        },
+        {
+          "number": 35,
+          "text": "so soll der, dem das Haus gehört, kommen und es dem Priester anzeigen und sprechen: Es sieht mir aus wie ein Übel am Hause."
+        },
+        {
+          "number": 36,
+          "text": "Und der Priester soll gebieten, daß man das Haus ausräume, ehe der Priester hineingeht, das Übel zu besehen, damit nicht unrein werde alles, was im Hause ist; und danach soll der Priester hineingehen, das Haus zu besehen."
+        },
+        {
+          "number": 37,
+          "text": "Und besieht er das Übel, und siehe, das Übel ist an den Wänden des Hauses, grünliche oder rötliche Vertiefungen, und sie erscheinen tiefer als die Wand,"
+        },
+        {
+          "number": 38,
+          "text": "so soll der Priester aus dem Hause hinaus an den Eingang des Hauses gehen und das Haus sieben Tage verschließen."
+        },
+        {
+          "number": 39,
+          "text": "Und der Priester soll am siebten Tage wiederkommen; und besieht er es, und siehe, das Übel hat um sich gegriffen an den Wänden des Hauses,"
+        },
+        {
+          "number": 40,
+          "text": "so soll der Priester gebieten, daß man die Steine, an denen das Übel ist, herausreiße, und sie hinauswerfe außerhalb der Stadt an einen unreinen Ort."
+        },
+        {
+          "number": 41,
+          "text": "Und das Haus soll man inwendig ringsum abkratzen, und den Lehm, den man abgekratzt hat, hinausschütten außerhalb der Stadt an einen unreinen Ort."
+        },
+        {
+          "number": 42,
+          "text": "Und man soll andere Steine nehmen und sie an die Stelle der Steine bringen, und man soll anderen Lehm nehmen und das Haus bewerfen."
+        },
+        {
+          "number": 43,
+          "text": "Und wenn das Übel wiederkehrt und am Hause ausbricht nach dem Ausreißen der Steine und nach dem Abkratzen des Hauses und nach dem Bewerfen,"
+        },
+        {
+          "number": 44,
+          "text": "so soll der Priester kommen; und besieht er es, und siehe, das Übel hat um sich gegriffen am Hause, so ist es ein fressender Aussatz am Hause: es ist unrein."
+        },
+        {
+          "number": 45,
+          "text": "Und man soll das Haus niederreißen, seine Steine und sein Holz und allen Lehm des Hauses, und es hinausschaffen außerhalb der Stadt an einen unreinen Ort."
+        },
+        {
+          "number": 46,
+          "text": "Und wer in das Haus hineingeht, so lange es verschlossen ist, wird unrein bis an den Abend;"
+        },
+        {
+          "number": 47,
+          "text": "und wer in dem Hause schläft, soll seine Kleider waschen; und wer in dem Hause isset, soll seine Kleider waschen."
+        },
+        {
+          "number": 48,
+          "text": "Wenn aber der Priester hineingeht und es besieht, und siehe, das Übel hat nicht um sich gegriffen am Hause nach dem Bewerfen des Hauses, so soll der Priester das Haus für rein erklären; denn das Übel ist heil geworden."
+        },
+        {
+          "number": 49,
+          "text": "Und er soll, um das Haus zu entsündigen, zwei Vögel nehmen und Cedernholz und Karmesin und Ysop;"
+        },
+        {
+          "number": 50,
+          "text": "und er schlachte den einen Vogel in ein irdenes Gefäß über lebendigem Wasser;"
+        },
+        {
+          "number": 51,
+          "text": "und er nehme das Cedernholz und den Ysop und das Karmesin und den lebendigen Vogel und tauche sie in das Blut des geschlachteten Vogels und in das lebendige Wasser und besprenge das Haus siebenmal;"
+        },
+        {
+          "number": 52,
+          "text": "und er entsündige das Haus mit dem Blute des Vogels und mit dem lebendigen Wasser und mit dem lebendigen Vogel und mit dem Cedernholz und mit dem Ysop und mit dem Karmesin;"
+        },
+        {
+          "number": 53,
+          "text": "und den lebendigen Vogel soll er ins freie Feld fliegen lassen außerhalb der Stadt. Und so tue er Sühnung für das Haus; und er wird rein sein."
+        },
+        {
+          "number": 54,
+          "text": "Das ist das Gesetz für alles Übel des Aussatzes und für den Schorf,"
+        },
+        {
+          "number": 55,
+          "text": "und für den Aussatz der Kleider und der Häuser,"
+        },
+        {
+          "number": 56,
+          "text": "und für die Erhöhung und für den Grind und für den Flecken;"
+        },
+        {
+          "number": 57,
+          "text": "um zu belehren, wann für unrein und wann für rein zu erklären ist: das ist das Gesetz des Aussatzes."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und zu Aaron und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Redet zu den Kindern Israel und sprechet zu ihnen: Wenn irgend ein Mann an seinem Fleische flüssig ist, so ist er unrein durch seinen Fluß."
+        },
+        {
+          "number": 3,
+          "text": "Und dies wird seine Unreinheit sein bei seinem Flusse: Läßt sein Fleisch seinen Fluß triefen, oder hält sein Fleisch seinen Fluß zurück, so ist das seine Unreinheit."
+        },
+        {
+          "number": 4,
+          "text": "Jedes Lager, worauf der Flüssige liegt, wird unrein sein, und jedes Gerät, worauf er sitzt, wird unrein sein."
+        },
+        {
+          "number": 5,
+          "text": "Und wer sein Lager anrührt, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 6,
+          "text": "Und wer sich auf das Gerät setzt, worauf der Flüssige gesessen hat, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 7,
+          "text": "Und wer das Fleisch des Flüssigen anrührt, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 8,
+          "text": "Und wenn der Flüssige auf einen Reinen speit, so soll dieser seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 9,
+          "text": "Und jeder Wagen, auf welchem der Flüssige fährt, wird unrein sein."
+        },
+        {
+          "number": 10,
+          "text": "Und jeder, der irgend etwas anrührt, was er unter sich hat, wird unrein sein bis an den Abend; und wer es trägt, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 11,
+          "text": "Und jeder, den der Flüssige anrührt, und er hat seine Hände nicht im Wasser abgespült, der soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 12,
+          "text": "Und das irdene Gefäß, das der Flüssige anrührt, soll zerbrochen werden, und jedes hölzerne Gefäß soll im Wasser gespült werden."
+        },
+        {
+          "number": 13,
+          "text": "Und wenn der Flüssige rein wird von seinem Flusse, so soll er sich sieben Tage zählen zu seiner Reinigung; und er soll seine Kleider waschen und sein Fleisch in lebendigem Wasser baden, und er wird rein sein."
+        },
+        {
+          "number": 14,
+          "text": "Und am achten Tage soll er sich zwei Turteltauben oder zwei junge Tauben nehmen und vor Jehova kommen an den Eingang des Zeltes der Zusammenkunft und sie dem Priester geben;"
+        },
+        {
+          "number": 15,
+          "text": "und der Priester soll sie opfern, die eine als Sündopfer und die andere als Brandopfer. Und so tue der Priester Sühnung für ihn vor Jehova wegen seines Flusses."
+        },
+        {
+          "number": 16,
+          "text": "Und wenn einem Manne der Samenerguß entgeht, so soll er sein ganzes Fleisch im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 17,
+          "text": "Und jedes Kleid und jedes Fell, worauf der Samenerguß kommt, soll im Wasser gewaschen werden, und es wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 18,
+          "text": "Und ein Weib, bei welchem ein Mann liegt mit Samenerguß, sie sollen sich im Wasser baden, und werden unrein sein bis an den Abend."
+        },
+        {
+          "number": 19,
+          "text": "Und wenn ein Weib flüssig ist, und ihr Fluß an ihrem Fleische Blut ist, so soll sie sieben Tage in ihrer Unreinheit sein; und jeder, der sie anrührt, wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 20,
+          "text": "Und alles, worauf sie in ihrer Unreinheit liegt, wird unrein sein, und alles, worauf sie sitzt, wird unrein sein."
+        },
+        {
+          "number": 21,
+          "text": "Und jeder, der ihr Lager anrührt, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 22,
+          "text": "Und jeder, der irgend ein Gerät anrührt, worauf sie gesessen hat, soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 23,
+          "text": "Und wenn etwas auf dem Lager oder auf dem Gerät ist, worauf sie gesessen hat, wenn er es anrührt, wird er unrein sein bis an den Abend."
+        },
+        {
+          "number": 24,
+          "text": "Und wenn etwa ein Mann neben ihr liegt, und ihre Unreinigkeit kommt an ihn, so wird er sieben Tage unrein sein; und jedes Lager, worauf er liegt, wird unrein sein."
+        },
+        {
+          "number": 25,
+          "text": "Und wenn ein Weib ihren Blutfluß viele Tage hat außer der Zeit ihrer Unreinheit, oder wenn sie den Fluß hat über ihre Unreinheit hinaus, so soll sie alle die Tage des Flusses ihrer Unreinigkeit sein wie in den Tagen ihrer Unreinheit: sie ist unrein."
+        },
+        {
+          "number": 26,
+          "text": "Jedes Lager, worauf sie alle Tage ihres Flusses liegt, soll ihr sein wie das Lager ihrer Unreinheit, und jedes Gerät, worauf sie sitzt, wird unrein sein nach der Unreinigkeit ihrer Unreinheit."
+        },
+        {
+          "number": 27,
+          "text": "Und jeder, der es anrührt, wird unrein sein; und er soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend."
+        },
+        {
+          "number": 28,
+          "text": "Und wenn sie rein geworden ist von ihrem Flusse, so soll sie sich sieben Tage zählen, und danach wird sie rein sein."
+        },
+        {
+          "number": 29,
+          "text": "Und am achten Tage soll sie sich zwei Turteltauben oder zwei junge Tauben nehmen und sie zu dem Priester bringen an den Eingang des Zeltes der Zusammenkunft;"
+        },
+        {
+          "number": 30,
+          "text": "und der Priester soll die eine als Sündopfer und die andere als Brandopfer opfern. Und so tue der Priester Sühnung für sie vor Jehova wegen des Flusses ihrer Unreinigkeit."
+        },
+        {
+          "number": 31,
+          "text": "Und ihr sollt die Kinder Israel absondern von ihrer Unreinigkeit, daß sie nicht in ihrer Unreinigkeit sterben, indem sie meine Wohnung verunreinigen, die in ihrer Mitte ist."
+        },
+        {
+          "number": 32,
+          "text": "Das ist das Gesetz für den Flüssigen und für den, dem der Samenerguß entgeht, so daß er durch ihn unrein wird;"
+        },
+        {
+          "number": 33,
+          "text": "und für die, welche krank ist in ihrer Unreinheit, und für den, der seinen Fluß hat, es sei Mann oder Weib, und für den Mann, der neben einer Unreinen liegt."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose nach dem Tode der beiden Söhne Aarons, als sie vor Jehova nahten und starben;"
+        },
+        {
+          "number": 2,
+          "text": "und Jehova sprach zu Mose: Rede zu deinem Bruder Aaron, daß er nicht zu aller Zeit in das Heiligtum hineingehe innerhalb des Vorhangs, vor den Deckel, der auf der Lade ist, damit er nicht sterbe; denn ich erscheine in der Wolke über dem Deckel."
+        },
+        {
+          "number": 3,
+          "text": "Auf diese Weise soll Aaron in das Heiligtum hineingehen: mit einem jungen Farren zum Sündopfer und einem Widder zum Brandopfer."
+        },
+        {
+          "number": 4,
+          "text": "Er soll einen heiligen Leibrock von Linnen anziehen, und Beinkleider von Linnen sollen auf seinem Fleische sein, und mit einem Gürtel von Linnen soll er sich umgürten, und einen Kopfbund von Linnen sich umbinden: das sind heilige Kleider; und er soll sein Fleisch im Wasser baden und sie anziehen."
+        },
+        {
+          "number": 5,
+          "text": "Und von der Gemeinde der Kinder Israel soll er zwei Ziegenböcke nehmen zum Sündopfer und einen Widder zum Brandopfer."
+        },
+        {
+          "number": 6,
+          "text": "Und Aaron soll den Farren des Sündopfers, der für ihn ist, herzubringen und Sühnung tun für sich und für sein Haus."
+        },
+        {
+          "number": 7,
+          "text": "Und er soll die zwei Böcke nehmen und sie vor Jehova stellen an den Eingang des Zeltes der Zusammenkunft."
+        },
+        {
+          "number": 8,
+          "text": "Und Aaron soll Lose werfen über die zwei Böcke, ein Los für Jehova und ein Los für Asasel."
+        },
+        {
+          "number": 9,
+          "text": "Und Aaron soll den Bock herzubringen, auf welchen das Los für Jehova gefallen ist, und ihn opfern als Sündopfer."
+        },
+        {
+          "number": 10,
+          "text": "Und der Bock, auf welchen das Los für Asasel gefallen ist, soll lebendig vor Jehova gestellt werden, um auf ihm Sühnung zu tun, um ihn als Asasel fortzuschicken in die Wüste."
+        },
+        {
+          "number": 11,
+          "text": "Und Aaron bringe den Farren des Sündopfers, der für ihn ist, herzu und tue Sühnung für sich und für sein Haus, und schlachte den Farren des Sündopfers, der für ihn ist."
+        },
+        {
+          "number": 12,
+          "text": "Und er nehme eine Pfanne voll Feuerkohlen von dem Altar, vor Jehova, und seine beiden Hände voll wohlriechenden, kleingestoßenen Räucherwerks, und bringe es innerhalb des Vorhangs."
+        },
+        {
+          "number": 13,
+          "text": "Und er lege das Räucherwerk auf das Feuer vor Jehova, damit die Wolke des Räucherwerks den Deckel bedecke, der auf dem Zeugnis ist, und er nicht sterbe."
+        },
+        {
+          "number": 14,
+          "text": "Und er nehme von dem Blute des Farren und sprenge mit seinem Finger auf die Vorderseite des Deckels gegen Osten; und vor den Deckel soll er von dem Blute siebenmal sprengen mit seinem Finger."
+        },
+        {
+          "number": 15,
+          "text": "Und er schlachte den Bock des Sündopfers, der für das Volk ist, und bringe sein Blut innerhalb des Vorhangs, und tue mit seinem Blute, so wie er mit dem Blute des Farren getan hat, und sprenge es auf den Deckel und vor den Deckel;"
+        },
+        {
+          "number": 16,
+          "text": "Und er tue Sühnung für das Heiligtum wegen der Unreinigkeiten der Kinder Israel und wegen ihrer Übertretungen, nach allen ihren Sünden; und ebenso soll er für das Zelt der Zusammenkunft tun, das bei ihnen weilt, inmitten ihrer Unreinigkeiten."
+        },
+        {
+          "number": 17,
+          "text": "Und kein Mensch soll in dem Zelte der Zusammenkunft sein, wenn er hineingeht, um Sühnung zu tun im Heiligtum, bis er hinausgeht. Und so tue er Sühnung für sich und für sein Haus und für die ganze Versammlung Israels."
+        },
+        {
+          "number": 18,
+          "text": "Und er soll hinausgehen zu dem Altar, der vor Jehova ist, und Sühnung für ihn tun; und er nehme von dem Blute des Farren und von dem Blute des Bockes und tue es an die Hörner des Altars ringsum,"
+        },
+        {
+          "number": 19,
+          "text": "und sprenge von dem Blute mit seinem Finger siebenmal an denselben und reinige ihn und heilige ihn von den Unreinigkeiten der Kinder Israel."
+        },
+        {
+          "number": 20,
+          "text": "Und hat er die Sühnung des Heiligtums und des Zeltes der Zusammenkunft und des Altars vollendet, so soll er den lebendigen Bock herzubringen."
+        },
+        {
+          "number": 21,
+          "text": "Und Aaron lege seine beiden Hände auf den Kopf des lebendigen Bockes und bekenne auf ihn alle Ungerechtigkeiten der Kinder Israel und alle ihre Übertretungen nach allen ihren Sünden; und er lege sie auf den Kopf des Bockes und schicke ihn durch einen bereitstehenden Mann fort in die Wüste,"
+        },
+        {
+          "number": 22,
+          "text": "damit der Bock alle ihre Ungerechtigkeiten auf sich trage in ein ödes Land; und er schicke den Bock fort in die Wüste."
+        },
+        {
+          "number": 23,
+          "text": "Und Aaron soll in das Zelt der Zusammenkunft hineingehen und die Kleider von Linnen ausziehen, die er anzog, als er in das Heiligtum hineinging, und sie dort niederlegen;"
+        },
+        {
+          "number": 24,
+          "text": "und er soll sein Fleisch im Wasser baden an heiligem Orte und seine Kleider anziehen; und er soll hinausgehen und sein Brandopfer und das Brandopfer des Volkes opfern und Sühnung tun für sich und für das Volk."
+        },
+        {
+          "number": 25,
+          "text": "Und das Fett des Sündopfers soll er auf dem Altar räuchern."
+        },
+        {
+          "number": 26,
+          "text": "Und wer den Bock als Asasel fortführt, soll seine Kleider waschen und sein Fleisch im Wasser baden; und danach darf er ins Lager kommen."
+        },
+        {
+          "number": 27,
+          "text": "Und den Farren des Sündopfers und den Bock des Sündopfers, deren Blut hineingebracht worden ist, um Sühnung zu tun im Heiligtum, soll man hinausschaffen außerhalb des Lagers, und ihre Häute und ihr Fleisch und ihren Mist mit Feuer verbrennen."
+        },
+        {
+          "number": 28,
+          "text": "Und der sie verbrennt, soll seine Kleider waschen und sein Fleisch im Wasser baden; und danach darf er ins Lager kommen."
+        },
+        {
+          "number": 29,
+          "text": "Und dies soll euch zur ewigen Satzung sein: Im siebten Monat, am Zehnten des Monats, sollt ihr eure Seelen kasteien und keinerlei Arbeit tun, der Eingeborene und der Fremdling, der in eurer Mitte weilt;"
+        },
+        {
+          "number": 30,
+          "text": "denn an diesem Tage wird man Sühnung für euch tun, um euch zu reinigen: von allen euren Sünden werdet ihr rein sein vor Jehova."
+        },
+        {
+          "number": 31,
+          "text": "Ein Sabbath der Ruhe soll er euch sein, und ihr sollt eure Seelen kasteien, eine ewige Satzung."
+        },
+        {
+          "number": 32,
+          "text": "Und es soll Sühnung tun der Priester, den man salben und den man weihen wird, um den Priesterdienst auszuüben an seines Vaters Statt; und er soll die Kleider von Linnen anziehen, die heiligen Kleider;"
+        },
+        {
+          "number": 33,
+          "text": "und er soll Sühnung tun für das heilige Heiligtum und für das Zelt der Zusammenkunft, und für den Altar soll er Sühnung tun, und für die Priester und für das ganze Volk der Gemeinde soll er Sühnung tun."
+        },
+        {
+          "number": 34,
+          "text": "Und das soll euch zur ewigen Satzung sein, um für die Kinder Israel Sühnung zu tun wegen aller ihrer Sünden einmal im Jahre. Und er tat, so wie Jehova dem Mose geboten hatte."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu Aaron und zu seinen Söhnen und zu allen Kindern Israel und sprich zu ihnen: Dies ist es, was Jehova geboten und gesagt hat:"
+        },
+        {
+          "number": 3,
+          "text": "Jedermann aus dem Hause Israel, der ein Rind oder ein Schaf oder eine Ziege im Lager schlachtet, oder der außerhalb des Lagers schlachtet,"
+        },
+        {
+          "number": 4,
+          "text": "und es nicht an den Eingang des Zeltes der Zusammenkunft gebracht hat, um es Jehova als Opfergabe darzubringen vor der Wohnung Jehovas, selbigem Manne soll Blut zugerechnet werden: Blut hat er vergossen, und selbiger Mann soll ausgerottet werden aus der Mitte seines Volkes;"
+        },
+        {
+          "number": 5,
+          "text": "auf daß die Kinder Israel ihre Schlachtopfer bringen, die sie auf freiem Felde schlachten, daß sie sie Jehova bringen an den Eingang des Zeltes der Zusammenkunft zu dem Priester und sie als Friedensopfer dem Jehova schlachten."
+        },
+        {
+          "number": 6,
+          "text": "Und der Priester soll das Blut an den Altar Jehovas sprengen vor dem Eingang des Zeltes der Zusammenkunft und das Fett räuchern zum lieblichen Geruch dem Jehova."
+        },
+        {
+          "number": 7,
+          "text": "Und sie sollen nicht mehr ihre Schlachtopfer den Dämonen schlachten, denen sie nachhuren. Das soll ihnen eine ewige Satzung sein bei ihren Geschlechtern."
+        },
+        {
+          "number": 8,
+          "text": "Und du sollst zu ihnen sagen: Jedermann aus dem Hause Israel und von den Fremdlingen, die in ihrer Mitte weilen, der ein Brandopfer oder Schlachtopfer opfert"
+        },
+        {
+          "number": 9,
+          "text": "und es nicht an den Eingang des Zeltes der Zusammenkunft bringt, um es Jehova zu opfern, selbiger Mann soll ausgerottet werden aus seinen Völkern."
+        },
+        {
+          "number": 10,
+          "text": "Und jedermann aus dem Hause Israel und von den Fremdlingen, die in ihrer Mitte weilen, der irgend Blut essen wird, wider die Seele, die das Blut isset, werde ich mein Angesicht richten und sie ausrotten aus der Mitte ihres Volkes."
+        },
+        {
+          "number": 11,
+          "text": "Denn die Seele des Fleisches ist im Blute, und ich habe es euch auf den Altar gegeben, um Sühnung zu tun für eure Seelen; denn das Blut ist es, welches Sühnung tut durch die Seele."
+        },
+        {
+          "number": 12,
+          "text": "Darum habe ich zu den Kindern Israel gesagt: Niemand von euch soll Blut essen; auch der Fremdling, der in eurer Mitte weilt, soll nicht Blut essen."
+        },
+        {
+          "number": 13,
+          "text": "Und jedermann von den Kindern Israel und von den Fremdlingen, die in eurer Mitte weilen, der ein Wildbret oder einen Vogel erjagt, die gegessen werden, soll ihr Blut ausfließen lassen und es mit Erde bedecken."
+        },
+        {
+          "number": 14,
+          "text": "Denn die Seele alles Fleisches: sein Blut, das ist seine Seele; und ich habe zu den Kindern Israel gesagt: Das Blut irgend welches Fleisches sollt ihr nicht essen, denn die Seele alles Fleisches ist sein Blut; jeder, der es isset, soll ausgerottet werden. -"
+        },
+        {
+          "number": 15,
+          "text": "Und jeder, der ein Aas oder Zerrissenes isset, er sei Eingeborener oder Fremdling, der soll seine Kleider waschen und sich im Wasser baden, und er wird unrein sein bis an den Abend; dann wird er rein sein."
+        },
+        {
+          "number": 16,
+          "text": "Und wenn er sie nicht wäscht und sein Fleisch nicht badet, so wird er seine Ungerechtigkeit tragen."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 3,
+          "text": "Nach dem Tun des Landes Ägypten, in welchem ihr gewohnt habt, sollt ihr nicht tun; und nach dem Tun des Landes Kanaan, wohin ich euch bringe, sollt ihr nicht tun; und in ihren Satzungen sollt ihr nicht wandeln."
+        },
+        {
+          "number": 4,
+          "text": "Meine Rechte sollt ihr tun und meine Satzungen sollt ihr beobachten, darin zu wandeln. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 5,
+          "text": "Und meine Satzungen und meine Rechte sollt ihr beobachten, durch welche der Mensch, wenn er sie tut, leben wird. Ich bin Jehova."
+        },
+        {
+          "number": 6,
+          "text": "Kein Mensch soll sich irgend einer seiner Blutsverwandten nahen, um ihre Blöße aufzudecken. Ich bin Jehova."
+        },
+        {
+          "number": 7,
+          "text": "Die Blöße deines Vaters und die Blöße deiner Mutter sollst du nicht aufdecken; sie ist deine Mutter, du sollst ihre Blöße nicht aufdecken;"
+        },
+        {
+          "number": 8,
+          "text": "Die Blöße des Weibes deines Vaters sollst du nicht aufdecken; es ist die Blöße deines Vaters."
+        },
+        {
+          "number": 9,
+          "text": "Die Blöße deiner Schwester, der Tochter deines Vaters, oder der Tochter deiner Mutter, daheim geboren oder draußen geboren, ihre Blöße sollst du nicht aufdecken."
+        },
+        {
+          "number": 10,
+          "text": "Die Blöße der Tochter deines Sohnes oder der Tochter deiner Tochter ihre Blöße sollst du nicht aufdecken, denn es ist deine Blöße."
+        },
+        {
+          "number": 11,
+          "text": "Die Blöße der Tochter des Weibes deines Vaters, von deinem Vater gezeugt, sie ist deine Schwester, ihre Blöße sollst du nicht aufdecken."
+        },
+        {
+          "number": 12,
+          "text": "Die Blöße der Schwester deines Vaters sollst du nicht aufdecken: sie ist die Blutsverwandte deines Vaters."
+        },
+        {
+          "number": 13,
+          "text": "Die Blöße der Schwester deiner Mutter sollst du nicht aufdecken, denn sie ist die Blutsverwandte deiner Mutter."
+        },
+        {
+          "number": 14,
+          "text": "Die Blöße des Bruders deines Vaters sollst du nicht aufdecken: zu seinem Weibe sollst du nicht nahen, sie ist deine Muhme."
+        },
+        {
+          "number": 15,
+          "text": "Die Blöße deiner Schwiegertochter sollst du nicht aufdecken; sie ist das Weib deines Sohnes, ihre Blöße sollst du nicht aufdecken."
+        },
+        {
+          "number": 16,
+          "text": "Die Blöße des Weibes deines Bruders sollst du nicht aufdecken; es ist die Blöße deines Bruders."
+        },
+        {
+          "number": 17,
+          "text": "Die Blöße eines Weibes und ihrer Tochter sollst du nicht aufdecken; die Tochter ihres Sohnes und die Tochter ihrer Tochter sollst du nicht nehmen, um ihre Blöße aufzudecken; sie sind Blutsverwandte: es ist eine Schandtat."
+        },
+        {
+          "number": 18,
+          "text": "Und du sollst nicht ein Weib zu ihrer Schwester nehmen, sie eifersüchtig zu machen, indem du ihre Blöße neben derselben aufdeckst bei ihrem Leben. -"
+        },
+        {
+          "number": 19,
+          "text": "Und einem Weibe in der Unreinheit ihrer Unreinigkeit sollst du nicht nahen, um ihre Blöße aufzudecken."
+        },
+        {
+          "number": 20,
+          "text": "Und bei dem Weibe deines Nächsten sollst du nicht liegen zur Begattung, daß du durch sie unrein werdest. -"
+        },
+        {
+          "number": 21,
+          "text": "Und von deinen Kindern sollst du nicht hingeben, um sie dem Molech durch das Feuer gehen zu lassen, und du sollst den Namen Jehovas, deines Gottes, nicht entweihen. Ich bin Jehova. -"
+        },
+        {
+          "number": 22,
+          "text": "Und bei einem Manne sollst du nicht liegen, wie man bei einem Weibe liegt: es ist ein Greuel."
+        },
+        {
+          "number": 23,
+          "text": "Und bei keinem Vieh sollst du liegen, so daß du dich an ihm verunreinigst; und ein Weib soll sich nicht vor ein Vieh hinstellen, um mit ihm zu schaffen zu haben: es ist eine schändliche Befleckung."
+        },
+        {
+          "number": 24,
+          "text": "Verunreiniget euch nicht durch alles dieses; denn durch alles dieses haben die Nationen sich verunreinigt, die ich vor euch vertreibe."
+        },
+        {
+          "number": 25,
+          "text": "Und das Land wurde verunreinigt, und ich suchte seine Ungerechtigkeit an ihm heim, und das Land spie seine Bewohner aus."
+        },
+        {
+          "number": 26,
+          "text": "Ihr aber, ihr sollt meine Satzungen und meine Rechte beobachten, und ihr sollt nichts tun von allen diesen Greueln, der Eingeborene und der Fremdling, der in eurer Mitte weilt, -"
+        },
+        {
+          "number": 27,
+          "text": "denn alle diese Greuel haben die Leute dieses Landes getan, die vor euch waren, und das Land ist verunreinigt worden, -"
+        },
+        {
+          "number": 28,
+          "text": "damit das Land euch nicht ausspeie, wenn ihr es verunreiniget, so wie es die Nation ausgespieen hat, die vor euch war:"
+        },
+        {
+          "number": 29,
+          "text": "denn jeder, der einen von allen diesen Greueln tut, die Seelen, die ihn tun, sollen ausgerottet werden aus der Mitte ihres Volkes."
+        },
+        {
+          "number": 30,
+          "text": "Und ihr sollt meine Vorschriften beobachten, daß ihr keine der greulichen Bräuche übet, die vor euch geübt worden sind, und euch nicht durch dieselben verunreiniget. Ich bin Jehova, euer Gott."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu der ganzen Gemeinde der Kinder Israel und sprich zu ihnen: Ihr sollt heilig sein; denn ich, Jehova, euer Gott, bin heilig."
+        },
+        {
+          "number": 3,
+          "text": "Ihr sollt ein jeder seine Mutter und seinen Vater fürchten; und meine Sabbathe sollt ihr beobachten. Ich bin Jehova, euer Gott. -"
+        },
+        {
+          "number": 4,
+          "text": "Ihr sollt euch nicht zu den Götzen wenden, und gegossene Götter sollt ihr euch nicht machen. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 5,
+          "text": "Und wenn ihr ein Friedensopfer dem Jehova opfert, so sollt ihr es zum Wohlgefallen für euch opfern."
+        },
+        {
+          "number": 6,
+          "text": "An dem Tage, da ihr es opfert, und am anderen Tage soll es gegessen werden; und was bis zum dritten Tage übrigbleibt, soll mit Feuer verbrannt werden."
+        },
+        {
+          "number": 7,
+          "text": "Und wenn es irgend am dritten Tage gegessen wird, so ist es ein Greuel, es wird nicht wohlgefällig sein;"
+        },
+        {
+          "number": 8,
+          "text": "und wer es isset, wird seine Ungerechtigkeit tragen, denn das Heilige Jehovas hat er entweiht; und selbige Seele soll ausgerottet werden aus ihren Völkern."
+        },
+        {
+          "number": 9,
+          "text": "Und wenn ihr die Ernte eures Landes erntet, so sollst du den Rand deines Feldes nicht gänzlich abernten und sollst keine Nachlese deiner Ernte halten."
+        },
+        {
+          "number": 10,
+          "text": "Und in deinem Weinberge sollst du nicht nachlesen, und die abgefallenen Beeren deines Weinberges sollst du nicht auflesen: für den Armen und für den Fremdling sollst du sie lassen. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 11,
+          "text": "Ihr sollt nicht stehlen; und ihr sollt nicht lügen und nicht trüglich handeln einer gegen den anderen."
+        },
+        {
+          "number": 12,
+          "text": "Und ihr sollt nicht falsch schwören bei meinem Namen, daß du den Namen deines Gottes entweihest. Ich bin Jehova. -"
+        },
+        {
+          "number": 13,
+          "text": "Du sollst deinen Nächsten nicht bedrücken und sollst ihn nicht berauben; der Lohn des Tagelöhners soll nicht bei dir über Nacht bleiben bis an den Morgen."
+        },
+        {
+          "number": 14,
+          "text": "Du sollst einem Tauben nicht fluchen und vor einen Blinden keinen Anstoß legen, und du sollst dich fürchten vor deinem Gott. Ich bin Jehova. -"
+        },
+        {
+          "number": 15,
+          "text": "Ihr sollt nicht unrecht tun im Gericht; du sollst nicht die Person des Geringen ansehen und nicht die Person des Großen ehren; in Gerechtigkeit sollst du deinen Nächsten richten."
+        },
+        {
+          "number": 16,
+          "text": "Du sollst nicht als ein Verleumder unter deinen Völkern umhergehen. Du sollst nicht wider das Blut deines Nächsten auftreten. Ich bin Jehova. -"
+        },
+        {
+          "number": 17,
+          "text": "Du sollst deinen Bruder nicht hassen in deinem Herzen. Du sollst deinen Nächsten ernstlich zurechtweisen, damit du nicht seinetwegen Schuld tragest."
+        },
+        {
+          "number": 18,
+          "text": "Du sollst dich nicht rächen und den Kindern deines Volkes nichts nachtragen, und sollst deinen Nächsten lieben wie dich selbst. Ich bin Jehova."
+        },
+        {
+          "number": 19,
+          "text": "Meine Satzungen sollt ihr beobachten. Dein Vieh von zweierlei Art sollst du sich nicht begatten lassen; dein Feld sollst du nicht mit zweierlei Samen besäen, und ein Kleid, aus zweierlei Stoff gewebt, soll nicht auf dich kommen."
+        },
+        {
+          "number": 20,
+          "text": "Und wenn ein Mann bei einem Weibe liegt zur Begattung, und sie ist eine Magd, einem Manne verlobt, und sie ist keineswegs losgekauft, noch ist ihr die Freiheit geschenkt, so soll Züchtigung stattfinden; sie sollen nicht getötet werden, denn sie ist nicht frei gewesen."
+        },
+        {
+          "number": 21,
+          "text": "Und er soll sein Schuldopfer dem Jehova bringen an den Eingang des Zeltes der Zusammenkunft, einen Widder als Schuldopfer;"
+        },
+        {
+          "number": 22,
+          "text": "und der Priester soll vor Jehova Sühnung für ihn tun mit dem Widder des Schuldopfers für seine Sünde, die er begangen hat; und seine Sünde, die er begangen hat, wird ihm vergeben werden."
+        },
+        {
+          "number": 23,
+          "text": "Und wenn ihr in das Land kommet und allerlei Bäume zur Speise pflanzet, so sollt ihr ihre erste Frucht als ihre Vorhaut achten; drei Jahre sollen sie euch als unbeschnitten gelten, es soll nichts von ihnen gegessen werden;"
+        },
+        {
+          "number": 24,
+          "text": "und im vierten Jahre soll all ihre Frucht heilig sein, Jehova zum Preise;"
+        },
+        {
+          "number": 25,
+          "text": "und im fünften Jahre sollt ihr ihre Frucht essen, um euch ihren Ertrag zu mehren. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 26,
+          "text": "Ihr sollt nichts mit Blut essen. Ihr sollt nicht Wahrsagerei noch Zauberei treiben."
+        },
+        {
+          "number": 27,
+          "text": "Ihr sollt nicht den Rand eures Haupthaares rund scheren, und den Rand deines Bartes sollst du nicht zerstören."
+        },
+        {
+          "number": 28,
+          "text": "Und Einschnitte wegen eines Toten sollt ihr an eurem Fleische nicht machen; und Ätzschrift sollt ihr an euch nicht machen. Ich bin Jehova."
+        },
+        {
+          "number": 29,
+          "text": "Du sollst deine Tochter nicht entweihen, sie der Hurerei hinzugeben, daß das Land nicht Hurerei treibe und das Land voll Schandtaten werde."
+        },
+        {
+          "number": 30,
+          "text": "Meine Sabbathe sollt ihr beobachten, und mein Heiligtum sollt ihr fürchten. Ich bin Jehova."
+        },
+        {
+          "number": 31,
+          "text": "Ihr sollt euch nicht zu den Totenbeschwörern und zu den Wahrsagern wenden; ihr sollt sie nicht aufsuchen, euch an ihnen zu verunreinigen. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 32,
+          "text": "Vor grauem Haare sollst du aufstehen und die Person eines Greises ehren, und du sollst dich fürchten vor deinem Gott. Ich bin Jehova."
+        },
+        {
+          "number": 33,
+          "text": "Und wenn ein Fremdling bei dir weilt in eurem Lande, so sollt ihr ihn nicht bedrücken."
+        },
+        {
+          "number": 34,
+          "text": "Wie ein Eingeborener unter euch soll euch der Fremdling sein, der bei euch weilt, und du sollst ihn lieben wie dich selbst; denn Fremdlinge seid ihr gewesen im Lande Ägypten. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 35,
+          "text": "Ihr sollt nicht unrecht tun im Gericht, im Längenmaß, im Gewicht und im Hohlmaß;"
+        },
+        {
+          "number": 36,
+          "text": "gerechte Waage, gerechte Gewichtsteine, gerechtes Epha und gerechtes Hin sollt ihr haben. Ich bin Jehova, euer Gott, der ich euch aus dem Lande Ägypten herausgeführt habe."
+        },
+        {
+          "number": 37,
+          "text": "Und so sollt ihr alle meine Satzungen und alle meine Rechte beobachten und sie tun. Ich bin Jehova."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Und zu den Kindern Israel sollst du sprechen: Jedermann von den Kindern Israel und von den Fremdlingen, die in Israel weilen, der von seinen Kindern dem Molech gibt, soll gewißlich getötet werden; das Volk des Landes soll ihn steinigen."
+        },
+        {
+          "number": 3,
+          "text": "Und ich werde mein Angesicht wider selbigen Mann richten und ihn ausrotten aus der Mitte seines Volkes, weil er von seinen Kindern dem Molech gegeben hat, mein Heiligtum zu verunreinigen und meinen heiligen Namen zu entweihen."
+        },
+        {
+          "number": 4,
+          "text": "Und wenn das Volk des Landes seine Augen irgend verhüllt vor selbigem Manne, wenn er von seinen Kindern dem Molech gibt, so daß es ihn nicht tötet,"
+        },
+        {
+          "number": 5,
+          "text": "so werde ich mein Angesicht wider selbigen Mann richten und wider sein Geschlecht, und werde ihn und alle, die ihm nachhuren, um dem Molech nachzuhuren, ausrotten aus der Mitte ihres Volkes."
+        },
+        {
+          "number": 6,
+          "text": "Und die Seele, die sich zu den Totenbeschwörern und zu den Wahrsagern wendet, um ihnen nachzuhuren, wider selbige Seele werde ich mein Angesicht richten und sie ausrotten aus der Mitte ihres Volkes. -"
+        },
+        {
+          "number": 7,
+          "text": "So heiliget euch und seid heilig, denn ich bin Jehova, euer Gott;"
+        },
+        {
+          "number": 8,
+          "text": "und beobachtet meine Satzungen und tut sie. Ich bin Jehova, der euch heiligt."
+        },
+        {
+          "number": 9,
+          "text": "Jedermann, der seinem Vater oder seiner Mutter flucht, soll gewißlich getötet werden; er hat seinem Vater oder seiner Mutter geflucht, sein Blut ist auf ihm."
+        },
+        {
+          "number": 10,
+          "text": "Und wenn ein Mann Ehebruch treibt mit dem Weibe eines Mannes, wenn er Ehebruch treibt mit dem Weibe seines Nächsten, so sollen der Ehebrecher und die Ehebrecherin gewißlich getötet werden."
+        },
+        {
+          "number": 11,
+          "text": "Und wenn ein Mann bei dem Weibe seines Vaters liegt: er hat die Blöße seines Vaters aufgedeckt; beide sollen gewißlich getötet werden, ihr Blut ist auf ihnen."
+        },
+        {
+          "number": 12,
+          "text": "Und wenn ein Mann bei seiner Schwiegertochter liegt, so sollen beide gewißlich getötet werden; sie haben eine schändliche Befleckung verübt, ihr Blut ist auf ihnen."
+        },
+        {
+          "number": 13,
+          "text": "Und wenn ein Mann bei einem Manne liegt, wie man bei einem Weibe liegt, so haben beide einen Greuel verübt; sie sollen gewißlich getötet werden, ihr Blut ist auf ihnen."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn ein Mann ein Weib nimmt und ihre Mutter, das ist eine Schandtat; man soll ihn und sie mit Feuer verbrennen, daß keine Schandtat in eurer Mitte sei."
+        },
+        {
+          "number": 15,
+          "text": "Und wenn ein Mann bei einem Vieh liegt, so soll er gewißlich getötet werden, und das Vieh sollt ihr umbringen."
+        },
+        {
+          "number": 16,
+          "text": "Und wenn ein Weib sich irgend einem Vieh naht, um mit ihm zu schaffen zu haben, so sollst du das Weib und das Vieh umbringen; sie sollen gewißlich getötet werden, ihr Blut ist auf ihnen."
+        },
+        {
+          "number": 17,
+          "text": "Und wenn ein Mann seine Schwester nimmt, die Tochter seines Vaters oder die Tochter seiner Mutter, und er sieht ihre Blöße, und sie sieht seine Blöße: das ist eine Schande, und sie sollen ausgerottet werden vor den Augen der Kinder ihres Volkes; er hat die Blöße seiner Schwester aufgedeckt, er soll seine Ungerechtigkeit tragen."
+        },
+        {
+          "number": 18,
+          "text": "Und wenn ein Mann bei einem Weibe liegt in ihrer Krankheit und ihre Blöße aufdeckt, so hat er ihre Quelle enthüllt, und sie hat die Quelle ihres Blutes aufgedeckt; sie sollen beide ausgerottet werden aus der Mitte ihres Volkes."
+        },
+        {
+          "number": 19,
+          "text": "Und die Blöße der Schwester deiner Mutter und der Schwester deines Vaters sollst du nicht aufdecken; denn wer das tut, hat seine Blutsverwandte entblößt: sie sollen ihre Ungerechtigkeit tragen."
+        },
+        {
+          "number": 20,
+          "text": "Und wenn ein Mann bei dem Weibe seines Oheims liegt, so hat er die Blöße seines Oheims aufgedeckt; sie sollen ihre Sünde tragen, kinderlos sollen sie sterben."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn ein Mann das Weib seines Bruders nimmt: das ist eine Unreinigkeit; Er hat die Blöße seines Bruders aufgedeckt, sie sollen kinderlos sein."
+        },
+        {
+          "number": 22,
+          "text": "Und ihr sollt alle meine Satzungen und alle meine Rechte beobachten und sie tun, damit euch das Land nicht ausspeie, wohin ich euch bringe, um darin zu wohnen."
+        },
+        {
+          "number": 23,
+          "text": "und ihr sollt nicht wandeln in den Satzungen der Nationen, die ich vor euch vertreibe; denn alle jene Dinge haben sie getan, und sie sind mir zum Ekel geworden;"
+        },
+        {
+          "number": 24,
+          "text": "Und ich habe zu euch gesagt: Ihr sollt ihr Land besitzen, und ich werde es euch zum Besitz geben, ein Land, das von Milch und Honig fließt. Ich bin Jehova euer Gott, der ich euch von den Völkern abgesondert habe."
+        },
+        {
+          "number": 25,
+          "text": "Und ihr sollt unterscheiden zwischen dem reinen Vieh und dem unreinen, und zwischen dem unreinen Gevögel und dem reinen, und sollt euch selbst nicht zu einem Greuel machen durch das Vieh und durch das Gevögel und durch alles, was sich auf dem Erdboden regt, welches ich euch als unrein ausgesondert habe."
+        },
+        {
+          "number": 26,
+          "text": "Und ihr sollt mir heilig sein, denn ich bin heilig, ich, Jehova; und ich habe euch von den Völkern abgesondert, um mein zu sein."
+        },
+        {
+          "number": 27,
+          "text": "Und wenn in einem Manne oder einem Weibe ein Totenbeschwörer-oder Wahrsagergeist ist, so sollen sie gewißlich getötet werden; man soll sie steinigen, ihr Blut ist auf ihnen."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova sprach zu Mose: Rede zu den Priestern, den Söhnen Aarons, und spricht zu ihnen: Keiner von ihnen soll sich wegen einer Leiche verunreinigen unter seinen Völkern:"
+        },
+        {
+          "number": 2,
+          "text": "außer wegen seines Blutsverwandten, der ihm nahe steht: wegen seiner Mutter und wegen seines Vaters und wegen seines Sohnes und wegen seiner Tochter und wegen seines Bruders;"
+        },
+        {
+          "number": 3,
+          "text": "und wegen seiner Schwester, der Jungfrau, sie ihm nahe steht, die noch keines Mannes geworden ist: wegen dieser darf er sich verunreinigen."
+        },
+        {
+          "number": 4,
+          "text": "Er soll sich nicht verunreinigen als Herr unter seinen Völkern, sich zu entweihen."
+        },
+        {
+          "number": 5,
+          "text": "Sie sollen keine Glatze auf ihrem Haupte machen, und den Rand ihres Bartes sollen sie nicht abscheren, und an ihrem Fleische sollen sie keine Einschnitte machen."
+        },
+        {
+          "number": 6,
+          "text": "Sie sollen ihrem Gott heilig sein, und den Namen ihres Gottes, sollen sie nicht entweihen, denn die Feueropfer Jehovas, das Brot ihres Gottes bringen sie dar; und sie sollen heilig sein."
+        },
+        {
+          "number": 7,
+          "text": "Eine Hure und eine Entehrte sollen sie nicht zum Weibe nehmen, und ein von ihrem Manne verstoßenes Weib sollen sie nicht nehmen; denn heilig ist er seinem Gott."
+        },
+        {
+          "number": 8,
+          "text": "Und du sollst ihn für heilig achten, denn das Brot deines Gottes bringt er dar; er soll dir heilig sein; denn heilig bin ich Jehova, der euch heiligt."
+        },
+        {
+          "number": 9,
+          "text": "Und wenn die Tochter eines Priesters sich durch Hurerei entweiht, so entweiht sie ihren Vater: sie soll mit Feuer verbrannt werden. -"
+        },
+        {
+          "number": 10,
+          "text": "Und der Hohepriester unter seinen Brüdern, auf dessen Haupt das Salböl gegossen worden, und der geweiht ist, um die heiligen Kleider anzulegen, soll sein Haupt nicht entblößen und soll seine Kleider nicht zerreißen."
+        },
+        {
+          "number": 11,
+          "text": "Und er soll zu keiner Leiche kommen; wegen seines Vaters und wegen seiner Mutter soll er sich nicht verunreinigen."
+        },
+        {
+          "number": 12,
+          "text": "Und aus dem Heiligtum soll er nicht hinausgehen und nicht entweihen das Heiligtum seines Gottes; denn die Weihe des Salböls seines Gottes ist auf ihm. Ich bin Jehova."
+        },
+        {
+          "number": 13,
+          "text": "Und derselbe soll ein Weib in ihrer Jungfrauschaft nehmen."
+        },
+        {
+          "number": 14,
+          "text": "Eine Witwe und eine Verstoßene und eine Entehrte, eine Hure, diese soll er nicht nehmen; sondern eine Jungfrau aus seinen Völkern soll er zum Weibe nehmen."
+        },
+        {
+          "number": 15,
+          "text": "Und er soll seinen Samen nicht entweihen unter seinen Völkern; denn ich bin Jehova, der ihn heiligt."
+        },
+        {
+          "number": 16,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 17,
+          "text": "Rede zu Aaron und sprich: Jemand von deinem Samen bei ihren Geschlechtern, an dem ein Gebrechen ist, soll nicht herzunahen, um das Brot seines Gottes darzubringen;"
+        },
+        {
+          "number": 18,
+          "text": "denn jedermann, an dem ein Gebrechen ist, soll nicht herzunahen, es sei ein blinder Mann oder ein lahmer oder ein stumpfnasiger, oder der ein Glied zu lang hat,"
+        },
+        {
+          "number": 19,
+          "text": "oder ein Mann, der einen Bruch am Fuße oder einen Bruch an der Hand hat,"
+        },
+        {
+          "number": 20,
+          "text": "oder ein Höckeriger oder ein Zwerg, oder der einen Flecken an seinem Auge hat, oder der die Krätze oder Flechte, oder der zerdrückte Hoden hat."
+        },
+        {
+          "number": 21,
+          "text": "Jedermann vom Samen Aarons, des Priesters, der ein Gebrechen hat, soll nicht herzutreten, die Feueropfer Jehovas darzubringen; ein Gebrechen ist an ihm, er soll nicht herzutreten, das Brot seines Gottes darzubringen."
+        },
+        {
+          "number": 22,
+          "text": "Das Brot seines Gottes von dem Hochheiligen und von dem Heiligen mag er essen;"
+        },
+        {
+          "number": 23,
+          "text": "allein zum Vorhang soll er nicht kommen, und zum Altar soll er nicht nahen, denn ein Gebrechen ist an ihm, daß er nicht meine Heiligtümer entweihe; denn ich bin Jehova, der sie heiligt."
+        },
+        {
+          "number": 24,
+          "text": "Und so redete Mose zu Aaron und zu seinen Söhnen und zu allen Kindern Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu Aaron und zu seinen Söhnen, daß sie sich enthalten von den heiligen Dingen der Kinder Israel, die sie mir heiligen, und meinen heiligen Namen nicht entweihen. Ich bin Jehova."
+        },
+        {
+          "number": 3,
+          "text": "Sprich zu ihnen: Wer irgend von all eurem Samen, bei euren Geschlechtern, sich den heiligen Dingen naht, welche die Kinder Israel Jehova heiligen, und seine Unreinigkeit ist an ihm, selbige Seele soll ausgerottet werden vor meinem Angesicht hinweg. Ich bin Jehova."
+        },
+        {
+          "number": 4,
+          "text": "Jedermann vom Samen Aarons, der aussätzig oder flüssig ist, soll nicht von den heiligen Dingen essen, bis er rein ist. Und wer irgend einen anrührt, der durch eine Leiche verunreinigt ist, oder jemanden, dem der Samenerguß entgeht;"
+        },
+        {
+          "number": 5,
+          "text": "oder wer irgend ein kriechendes Tier anrührt, durch welches er unrein wird, oder einen Menschen, durch den er unrein wird nach irgend welcher Unreinigkeit, die er hat:"
+        },
+        {
+          "number": 6,
+          "text": "Einer, der solches anrührt, der wird unrein sein bis an den Abend; und er soll nicht von den heiligen Dingen essen, sondern soll sein Fleisch im Wasser baden;"
+        },
+        {
+          "number": 7,
+          "text": "und ist die Sonne untergegangen, so ist er rein; und danach darf er von den heiligen Dingen essen, denn es ist sein Brot."
+        },
+        {
+          "number": 8,
+          "text": "Aas und Zerrissenes soll er nicht essen, daß er sich dadurch verunreinige. Ich bin Jehova."
+        },
+        {
+          "number": 9,
+          "text": "Und sie sollen meine Vorschriften beobachten, damit sie nicht deswegen Sünde auf sich laden und dadurch sterben, weil sie es entweihen. Ich bin Jehova, der sie heiligt."
+        },
+        {
+          "number": 10,
+          "text": "Und kein Fremder soll Heiliges essen; der Beisasse und der Tagelöhner eines Priesters sollen Heiliges nicht essen."
+        },
+        {
+          "number": 11,
+          "text": "Wenn aber ein Priester eine Seele für Geld kauft, so darf diese davon essen; und seine Hausgeborenen, sie dürfen von seinem Brote essen."
+        },
+        {
+          "number": 12,
+          "text": "Und wenn die Tochter eines Priesters das Weib eines fremden Mannes wird, so soll sie nicht von dem Hebopfer der heiligen Dinge essen."
+        },
+        {
+          "number": 13,
+          "text": "Und wenn die Tochter eines Priesters Witwe oder verstoßen wird, und keine Kinder hat und in das Haus ihres Vaters zurückkehrt, wie in ihrer Jugend, so darf sie von dem Brote ihres Vaters essen. Aber kein Fremder soll davon essen."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn jemand aus Versehen Heiliges isset, so soll er das Fünftel davon hinzufügen und dem Priester das Heilige erstatten."
+        },
+        {
+          "number": 15,
+          "text": "Und man soll die heiligen Dinge der Kinder Israel nicht entweihen, die sie dem Jehova heben,"
+        },
+        {
+          "number": 16,
+          "text": "und ihnen so die Ungerechtigkeit einer Schuld aufladen, wenn sie ihre heiligen Dinge essen; denn ich bin Jehova, der sie heiligt."
+        },
+        {
+          "number": 17,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 18,
+          "text": "Rede zu Aaron und zu seinen Söhnen und zu allen Kindern Israel und sprich zu ihnen: Jedermann vom Hause Israel und von den Fremdlingen in Israel, der seine Opfergabe darbringt, nach allen ihren Gelübden und nach allen ihren freiwilligen Gaben, welche sie Jehova als Brandopfer darbringen, -"
+        },
+        {
+          "number": 19,
+          "text": "zum Wohlgefallen für euch soll es sein, ohne Fehl, männlich, von den Rindern, von den Schafen oder von den Ziegen."
+        },
+        {
+          "number": 20,
+          "text": "Alles, woran ein Gebrechen ist, sollt ihr nicht darbringen, denn es wird nicht zum Wohlgefallen für euch sein."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn jemand dem Jehova ein Friedensopfer darbringt, um ein Gelübde zu erfüllen, oder als freiwillige Gabe vom Rind-oder Kleinvieh: ohne Fehl soll es sein, zum Wohlgefallen; keinerlei Gebrechen soll an ihm sein."
+        },
+        {
+          "number": 22,
+          "text": "Ein blindes oder verletztes oder verstümmeltes Tier, oder eines, das Geschwüre oder die Krätze oder die Flechte hat, diese sollt ihr Jehova nicht darbringen, und sollt Jehova keine Feueropfer davon auf den Altar geben."
+        },
+        {
+          "number": 23,
+          "text": "Und ein Stück Rind-oder Kleinvieh, an welchem ein Glied zu lang oder zu kurz ist, das magst du als freiwillige Gabe opfern; aber zu einem Gelübde wird es nicht wohlgefällig sein."
+        },
+        {
+          "number": 24,
+          "text": "Und dem die Hoden zerquetscht oder zerstoßen oder ausgerissen oder ausgeschnitten sind, sollt ihr Jehova nicht darbringen; und in eurem Lande sollt ihr dergleichen nicht tun."
+        },
+        {
+          "number": 25,
+          "text": "Und aus der Hand eines Fremden sollt ihr das Brot eures Gottes aus allen diesen nicht darbringen; denn ihr Verderben ist an ihnen, ein Gebrechen ist an ihnen; sie werden nicht wohlgefällig für euch sein."
+        },
+        {
+          "number": 26,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 27,
+          "text": "Wenn ein Rind oder ein Schaf oder eine Ziege geboren wird, so soll es sieben Tage unter seiner Mutter sein; und vom achten Tage an und weiterhin wird es wohlgefällig sein zur Opfergabe eines Feueropfers dem Jehova. -"
+        },
+        {
+          "number": 28,
+          "text": "Und ein Stück Rind-oder Kleinvieh, es selbst und sein Junges, sollt ihr nicht schlachten an einem Tage."
+        },
+        {
+          "number": 29,
+          "text": "Und wenn ihr dem Jehova ein Dankopfer opfert, so sollt ihr es zum Wohlgefallen für euch opfern:"
+        },
+        {
+          "number": 30,
+          "text": "An demselben Tage soll es gegessen werden; ihr sollt nichts davon übriglassen bis an den Morgen. Ich bin Jehova."
+        },
+        {
+          "number": 31,
+          "text": "Und ihr sollt meine Gebote beobachten und sie tun. Ich bin Jehova."
+        },
+        {
+          "number": 32,
+          "text": "Und ihr sollt meinen heiligen Namen nicht entweihen, damit ich geheiligt werde in der Mitte der Kinder Israel."
+        },
+        {
+          "number": 33,
+          "text": "Ich bin Jehova, der euch heiligt, der euch aus dem Lande Ägypten herausgeführt hat, um euer Gott zu sein. Ich bin Jehova."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Die Feste Jehovas, die ihr als heilige Versammlungen ausrufen sollt, meine Feste sind diese:"
+        },
+        {
+          "number": 3,
+          "text": "Sechs Tage soll man Arbeit tun; aber am siebten Tage ist ein Sabbath der Ruhe, eine heilige Versammlung; keinerlei Arbeit sollt ihr tun; es ist ein Sabbath dem Jehova in allen euren Wohnsitzen."
+        },
+        {
+          "number": 4,
+          "text": "Dies sind die Feste Jehovas, heilige Versammlungen, die ihr ausrufen sollt zu ihrer bestimmten Zeit:"
+        },
+        {
+          "number": 5,
+          "text": "Im ersten Monat, am Vierzehnten des Monats, zwischen den zwei Abenden, ist Passah dem Jehova."
+        },
+        {
+          "number": 6,
+          "text": "Und am fünfzehnten Tage dieses Monats ist das Fest der ungesäuerten Brote dem Jehova; sieben Tage sollt ihr Ungesäuertes essen."
+        },
+        {
+          "number": 7,
+          "text": "Am ersten Tage soll euch eine heilige Versammlung sein, keinerlei Dienstarbeit sollt ihr tun."
+        },
+        {
+          "number": 8,
+          "text": "Und ihr sollt Jehova ein Feueropfer darbringen sieben Tage; am siebten Tage ist eine heilige Versammlung, keinerlei Dienstarbeit sollt ihr tun."
+        },
+        {
+          "number": 9,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 10,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land kommet, das ich euch gebe, und ihr seine Ernte erntet, so sollt ihr eine Garbe der Erstlinge eurer Ernte zu dem Priester bringen;"
+        },
+        {
+          "number": 11,
+          "text": "und er soll die Garbe vor Jehova weben zum Wohlgefallen für euch; am anderen Tage nach dem Sabbath soll sie der Priester weben."
+        },
+        {
+          "number": 12,
+          "text": "Und ihr sollt an dem Tage, da ihr die Garbe webet, ein Lamm opfern, ohne Fehl, einjährig, zum Brandopfer dem Jehova;"
+        },
+        {
+          "number": 13,
+          "text": "und sein Speisopfer: zwei Zehntel Feinmehl, gemengt mit Öl, ein Feueropfer dem Jehova, ein lieblicher Geruch; und sein Trankopfer: ein viertel Hin Wein."
+        },
+        {
+          "number": 14,
+          "text": "Und Brot und geröstete Körner und Gartenkorn sollt ihr nicht essen bis zu diesem selbigen Tage, bis ihr die Opfergabe eures Gottes gebracht habt: eine ewige Satzung bei euren Geschlechtern in allen euren Wohnsitzen."
+        },
+        {
+          "number": 15,
+          "text": "Und ihr sollt euch zählen vom anderen Tage nach dem Sabbath, von dem Tage, da ihr die Webegarbe gebracht habt: es sollen sieben volle Wochen sein."
+        },
+        {
+          "number": 16,
+          "text": "Bis zum anderen Tage nach dem siebten Sabbath sollt ihr fünfzig Tage zählen; und ihr sollt Jehova ein neues Speisopfer darbringen."
+        },
+        {
+          "number": 17,
+          "text": "Aus euren Wohnungen sollt ihr Webebrote bringen, zwei von zwei Zehnteln Feinmehl sollen es sein, gesäuert sollen sie gebacken werden, als Erstlinge dem Jehova."
+        },
+        {
+          "number": 18,
+          "text": "Und ihr sollt zu dem Brote darbringen sieben einjährige Lämmer ohne Fehl, und einen jungen Farren und zwei Widder (sie sollen ein Brandopfer dem Jehova sein) und ihr Speisopfer und ihre Trankopfer: ein Feueropfer lieblichen Geruchs dem Jehova."
+        },
+        {
+          "number": 19,
+          "text": "Und ihr sollt einen Ziegenbock zum Sündopfer opfern und zwei einjährige Lämmer zum Friedensopfer."
+        },
+        {
+          "number": 20,
+          "text": "Und der Priester soll sie weben samt dem Brote der Erstlinge als Webopfer vor Jehova, samt den zwei Lämmern: sie sollen Jehova heilig sein für den Priester."
+        },
+        {
+          "number": 21,
+          "text": "Und ihr sollt an diesem selbigen Tage einen Ruf ergehen lassen, eine heilige Versammlung soll euch sein; keinerlei Dienstarbeit sollt ihr tun: eine ewige Satzung in allen euren Wohnsitzen bei euren Geschlechtern. -"
+        },
+        {
+          "number": 22,
+          "text": "Und wenn ihr die Ernte eures Landes erntet, sollst du den Rand deines Feldes nicht gänzlich abernten, und sollst keine Nachlese deiner Ernte halten; für den Armen und für den Fremdling sollst du sie lassen. Ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 23,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 24,
+          "text": "Rede zu den Kindern Israel und sprich: Im siebten Monat, am Ersten des Monats, soll euch Ruhe sein, ein Gedächtnis des Posaunenhalls, eine heilige Versammlung."
+        },
+        {
+          "number": 25,
+          "text": "Keinerlei Dienstarbeit sollt ihr tun, und ihr sollt Jehova ein Feueropfer darbringen."
+        },
+        {
+          "number": 26,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 27,
+          "text": "Doch am Zehnten dieses siebten Monats ist der Versöhnungstag; eine heilige Versammlung soll euch sein, und ihr sollt eure Seelen kasteien, und sollt Jehova ein Feueropfer darbringen."
+        },
+        {
+          "number": 28,
+          "text": "Und keinerlei Arbeit sollt ihr tun an diesem selbigen Tage; denn es ist der Versöhnungstag, um Sühnung für euch zu tun vor Jehova, eurem Gott."
+        },
+        {
+          "number": 29,
+          "text": "Denn jede Seele, die sich nicht kasteit an diesem selbigen Tage, die soll ausgerottet werden aus ihren Völkern;"
+        },
+        {
+          "number": 30,
+          "text": "und jede Seele, die irgend eine Arbeit tut an diesem selbigen Tage, selbige Seele werde ich vertilgen aus der Mitte ihres Volkes."
+        },
+        {
+          "number": 31,
+          "text": "Keinerlei Arbeit sollt ihr tun: eine ewige Satzung bei euren Geschlechtern in allen euren Wohnsitzen."
+        },
+        {
+          "number": 32,
+          "text": "Ein Sabbath der Ruhe soll er für euch sein, und ihr sollt eure Seelen kasteien; am Neunten des Monats, am Abend, vom Abend bis zum Abend sollt ihr euren Sabbath feiern."
+        },
+        {
+          "number": 33,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 34,
+          "text": "Rede zu den Kindern Israel und sprich: Am fünfzehnten Tage dieses siebten Monats ist das Fest der Laubhütten sieben Tage dem Jehova."
+        },
+        {
+          "number": 35,
+          "text": "Am ersten Tage soll eine heilige Versammlung sein, keinerlei Dienstarbeit sollt ihr tun."
+        },
+        {
+          "number": 36,
+          "text": "Sieben Tage sollt ihr Jehova ein Feueropfer darbringen; am achten Tage soll euch eine heilige Versammlung sein, und ihr sollt Jehova ein Feueropfer darbringen: es ist eine Festversammlung, keinerlei Dienstarbeit sollt ihr tun."
+        },
+        {
+          "number": 37,
+          "text": "Das sind die Feste Jehovas, die ihr ausrufen sollt als heilige Versammlungen, um Jehova darzubringen Feueropfer, Brandopfer und Speisopfer, Schlachtopfer und Trankopfer, die Gebühr des Tages an seinem Tage:"
+        },
+        {
+          "number": 38,
+          "text": "außer den Sabbathen Jehovas und außer euren Gaben und außer allen euren Gelübden und außer allen euren freiwilligen Gaben, die ihr Jehova gebet."
+        },
+        {
+          "number": 39,
+          "text": "Doch am fünfzehnten Tage des siebten Monats, wenn ihr den Ertrag des Landes eingesammelt habt, sollt ihr das Fest Jehovas feiern sieben Tage; am ersten Tage soll Ruhe sein, und am achten Tage soll Ruhe sein."
+        },
+        {
+          "number": 40,
+          "text": "Und ihr sollt euch am ersten Tage Frucht von schönen Bäumen nehmen, Palmzweige und Zweige von dichtbelaubten Bäumen und von Bachweiden, und sollt euch vor Jehova, eurem Gott, freuen sieben Tage."
+        },
+        {
+          "number": 41,
+          "text": "Und ihr sollt dasselbe sieben Tage im Jahre als Fest dem Jehova feiern: eine ewige Satzung bei euren Geschlechtern; im siebten Monat sollt ihr dasselbe feiern."
+        },
+        {
+          "number": 42,
+          "text": "In Laubhütten sollt ihr wohnen sieben Tage; alle Eingeborenen in Israel sollen in Laubhütten wohnen;"
+        },
+        {
+          "number": 43,
+          "text": "auf daß eure Geschlechter wissen, daß ich die Kinder Israel in Laubhütten habe wohnen lassen, als ich sie aus dem Lande Ägypten herausführte. Ich bin Jehova, euer Gott. -"
+        },
+        {
+          "number": 44,
+          "text": "Und Mose sagte den Kindern Israel die Feste Jehovas."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Gebiete den Kindern Israel, daß sie dir reines, zerstoßenes Olivenöl bringen zum Licht, um die Lampen anzuzünden beständig."
+        },
+        {
+          "number": 3,
+          "text": "Außerhalb des Vorhangs des Zeugnisses, im Zelte der Zusammenkunft, soll Aaron sie zurichten, vom Abend bis zum Morgen, vor Jehova beständig: eine ewige Satzung bei euren Geschlechtern."
+        },
+        {
+          "number": 4,
+          "text": "Auf dem reinen Leuchter soll er die Lampen beständig vor Jehova zurichten."
+        },
+        {
+          "number": 5,
+          "text": "Und du sollst Feinmehl nehmen und daraus zwölf Kuchen backen: von zwei Zehnteln soll ein Kuchen sein."
+        },
+        {
+          "number": 6,
+          "text": "Und du sollst sie in zwei Schichten legen, sechs in eine Schicht, auf den reinen Tisch vor Jehova."
+        },
+        {
+          "number": 7,
+          "text": "Und du sollst auf jede Schicht reinen Weihrauch legen, und er soll dem Brote zum Gedächtnis sein, ein Feueropfer dem Jehova."
+        },
+        {
+          "number": 8,
+          "text": "Sabbathtag für Sabbathtag soll es beständig vor Jehova zurichten: ein ewiger Bund von seiten der Kinder Israel."
+        },
+        {
+          "number": 9,
+          "text": "Und es soll Aaron und seinen Söhnen gehören, und sie sollen es essen an heiligem Orte; denn als ein Hochheiliges von den Feueropfern Jehovas soll es ihm gehören: eine ewige Satzung."
+        },
+        {
+          "number": 10,
+          "text": "Und der Sohn eines israelitischen Weibes, er war aber der Sohn eines ägyptischen Mannes, ging aus unter die Kinder Israel; und der Sohn der Israelitin und ein israelitischer Mann zankten sich im Lager."
+        },
+        {
+          "number": 11,
+          "text": "Und der Sohn des israelitischen Weibes lästerte den Namen Jehovas und fluchte ihm; und sie brachten ihn zu Mose. Der Name seiner Mutter aber war Schelomith, die Tochter Dibris, vom Stamme Dan."
+        },
+        {
+          "number": 12,
+          "text": "Und sie legten ihn in Gewahrsam, damit ihnen nach dem Munde Jehovas beschieden werde."
+        },
+        {
+          "number": 13,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 14,
+          "text": "Führe den Flucher außerhalb des Lagers; und alle, die es gehört haben, sollen ihre Hände auf seinen Kopf legen, und die ganze Gemeinde soll ihn steinigen."
+        },
+        {
+          "number": 15,
+          "text": "Und zu den Kindern Israel sollst du reden und sprechen: Wenn irgend jemand seinem Gott flucht, so soll er seine Sünde tragen."
+        },
+        {
+          "number": 16,
+          "text": "Und wer den Namen Jehovas lästert, soll gewißlich getötet werden, steinigen soll ihn die ganze Gemeinde; wie der Fremdling, so der Eingeborene: wenn er den Namen lästert, soll er getötet werden."
+        },
+        {
+          "number": 17,
+          "text": "Und wenn jemand irgend einen Menschen totschlägt, so soll er gewißlich getötet werden."
+        },
+        {
+          "number": 18,
+          "text": "Und wer ein Vieh totschlägt, soll es erstatten: Leben um Leben."
+        },
+        {
+          "number": 19,
+          "text": "Und wenn jemand seinem Nächsten eine Verletzung zufügt: wie er getan hat, also soll ihm getan werden:"
+        },
+        {
+          "number": 20,
+          "text": "Bruch um Bruch, Auge um Auge, Zahn um Zahn; wie er einem Menschen eine Verletzung zufügt, also soll ihm zugefügt werden."
+        },
+        {
+          "number": 21,
+          "text": "Und wer ein Vieh totschlägt, soll es erstatten; wer aber einen Menschen totschlägt, soll getötet werden."
+        },
+        {
+          "number": 22,
+          "text": "Einerlei Recht sollt ihr haben: wie der Fremdling, so soll der Eingeborene sein; denn ich bin Jehova, euer Gott. -"
+        },
+        {
+          "number": 23,
+          "text": "Und Mose redete zu den Kindern Israel, und sie führten den Flucher vor das Lager hinaus und steinigten ihn; und die Kinder Israel taten, wie Jehova dem Mose geboten hatte."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose auf dem Berge Sinai und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Wenn ihr in das Land kommet, das ich euch geben werde, so soll das Land dem Jehova einen Sabbath feiern."
+        },
+        {
+          "number": 3,
+          "text": "Sechs Jahre sollst du dein Feld besäen und sechs Jahre deinen Weinberg beschneiden und den Ertrag des Landes einsammeln."
+        },
+        {
+          "number": 4,
+          "text": "Aber im siebten Jahre soll ein Sabbath der Ruhe für das Land sein, ein Sabbath dem Jehova; dein Feld sollst du nicht besäen und deinen Weinberg nicht beschneiden;"
+        },
+        {
+          "number": 5,
+          "text": "den Nachwuchs deiner Ernte sollst du nicht einernten, und die Trauben deines unbeschnittenen Weinstocks sollst du nicht abschneiden: Es soll ein Jahr der Ruhe für das Land sein."
+        },
+        {
+          "number": 6,
+          "text": "Und der Sabbath des Landes soll euch zur Speise dienen, dir und deinem Knechte und deiner Magd und deinem Tagelöhner und deinem Beisassen, die sich bei dir aufhalten;"
+        },
+        {
+          "number": 7,
+          "text": "und deinem Vieh und dem wilden Getier, das in deinem Lande ist, soll all sein Ertrag zur Speise dienen."
+        },
+        {
+          "number": 8,
+          "text": "Und du sollst dir sieben Jahrsabbathe zählen, siebenmal sieben Jahre, so daß die Tage von sieben Jahrsabbathen dir neunundvierzig Jahre ausmachen."
+        },
+        {
+          "number": 9,
+          "text": "Und du sollst im siebten Monat, am Zehnten des Monats, den Posaunenschall ergehen lassen; an dem Versöhnungstage sollt ihr die Posaune ergehen lassen durch euer ganzes Land."
+        },
+        {
+          "number": 10,
+          "text": "Und ihr sollt das Jahr des fünfzigsten Jahres heiligen und sollt im Lande Freiheit ausrufen für alle seine Bewohner. Ein Jubeljahr soll es euch sein, und ihr werdet ein jeder wieder zu seinem Eigentum kommen, und ein jeder zurückkehren zu seinem Geschlecht."
+        },
+        {
+          "number": 11,
+          "text": "Ein Jubeljahr soll dasselbe, das Jahr des fünfzigsten Jahres, euch sein; ihr sollt nicht säen und seinen Nachwuchs nicht ernten und seine unbeschnittenen Weinstöcke nicht lesen;"
+        },
+        {
+          "number": 12,
+          "text": "denn ein Jubeljahr ist es: es soll euch heilig sein; vom Felde weg sollt ihr seinen Ertrag essen."
+        },
+        {
+          "number": 13,
+          "text": "In diesem Jahre des Jubels sollt ihr ein jeder wieder zu seinem Eigentum kommen."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn ihr eurem Nächsten etwas verkaufet oder von der Hand eures Nächsten etwas kaufet, so soll keiner seinen Bruder bedrücken."
+        },
+        {
+          "number": 15,
+          "text": "Nach der Zahl der Jahre seit dem Jubeljahre sollst du von deinem Nächsten kaufen, nach der Zahl der Erntejahre soll er dir verkaufen."
+        },
+        {
+          "number": 16,
+          "text": "Nach Verhältnis der größeren Zahl von Jahren sollst du ihm den Kaufpreis mehren, und nach Verhältnis der geringeren Zahl von Jahren sollst du ihm den Kaufpreis mindern; denn eine Zahl von Ernten verkauft er dir."
+        },
+        {
+          "number": 17,
+          "text": "Und so soll keiner von euch seinen Nächsten bedrücken, und du sollst dich fürchten vor deinem Gott; denn ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 18,
+          "text": "Und so tut meine Satzungen, und beobachtet meine Rechte und tut sie, so werdet ihr sicher wohnen in eurem Lande."
+        },
+        {
+          "number": 19,
+          "text": "Und das Land wird seine Frucht geben, und ihr werdet essen bis zur Sättigung und sicher in demselben wohnen."
+        },
+        {
+          "number": 20,
+          "text": "Und wenn ihr sprechet: Was sollen wir im siebten Jahre essen? Siehe, wir säen nicht, und unseren Ertrag sammeln wir nicht ein: -"
+        },
+        {
+          "number": 21,
+          "text": "Ich werde euch ja im sechsten Jahre meinen Segen entbieten, daß es den Ertrag für drei Jahre bringe;"
+        },
+        {
+          "number": 22,
+          "text": "und wenn ihr im achten Jahre säet, werdet ihr noch vom alten Ertrage essen; bis ins neunte Jahr, bis sein Ertrag einkommt, werdet ihr Altes essen."
+        },
+        {
+          "number": 23,
+          "text": "Und das Land soll nicht für immer verkauft werden, denn mein ist das Land; denn Fremdlinge und Beisassen seid ihr bei mir."
+        },
+        {
+          "number": 24,
+          "text": "Und im ganzen Lande eures Eigentums sollt ihr dem Lande Lösung gestatten."
+        },
+        {
+          "number": 25,
+          "text": "Wenn dein Bruder verarmt und von seinem Eigentum verkauft, so mag sein Löser, sein nächster Verwandter, kommen und das Verkaufte seines Bruders lösen."
+        },
+        {
+          "number": 26,
+          "text": "Und wenn jemand keinen Löser hat, und seine Hand erwirbt und findet, was zu seiner Lösung hinreicht,"
+        },
+        {
+          "number": 27,
+          "text": "so soll er die Jahre seines Verkaufs berechnen und das Übrige dem Manne zurückzahlen, an den er verkauft hat, und so wieder zu seinem Eigentum kommen."
+        },
+        {
+          "number": 28,
+          "text": "Und wenn seine Hand nicht gefunden hat, was hinreicht, um ihm zurückzuzahlen, so soll das von ihm Verkaufte in der Hand des Käufers desselben bleiben bis zum Jubeljahre; und im Jubeljahre soll es frei ausgehen, und er soll wieder zu seinem Eigentum kommen."
+        },
+        {
+          "number": 29,
+          "text": "Und wenn jemand ein Wohnhaus in einer ummauerten Stadt verkauft, so soll sein Lösungsrecht bestehen bis zum Ende des Jahres seines Verkaufs; ein volles Jahr soll sein Lösungsrecht bestehen."
+        },
+        {
+          "number": 30,
+          "text": "Wenn es aber nicht gelöst wird, bis ihm ein ganzes Jahr voll ist, so soll das Haus, das in der ummauerten Stadt ist, für immer dem Käufer desselben verbleiben, bei seinen Geschlechtern; es soll im Jubeljahre nicht frei ausgehen."
+        },
+        {
+          "number": 31,
+          "text": "Aber die Häuser der Dörfer, welche keine Mauer ringsum haben, sollen dem Felde des Landes gleichgeachtet werden; es soll Lösungsrecht für sie sein, und im Jubeljahre sollen sie frei ausgehen."
+        },
+        {
+          "number": 32,
+          "text": "Und was die Städte der Leviten, die Häuser der Städte ihres Eigentums betrifft, so soll ein ewiges Lösungsrecht für die Leviten sein."
+        },
+        {
+          "number": 33,
+          "text": "Und wenn jemand von einem der Leviten löst, so soll das verkaufte Haus in der Stadt seines Eigentums im Jubeljahre frei ausgehen; denn die Häuser der Städte der Leviten sind ihr Eigentum unter den Kindern Israel."
+        },
+        {
+          "number": 34,
+          "text": "Aber das Feld des Bezirks ihrer Städte soll nicht verkauft werden, denn es gehört ihnen als ewiges Eigentum."
+        },
+        {
+          "number": 35,
+          "text": "Und wenn dein Bruder verarmt und seine Hand bei dir wankend wird, so sollst du ihn unterstützen; wie der Fremdling und der Beisasse soll er bei dir leben."
+        },
+        {
+          "number": 36,
+          "text": "Du sollst nicht Zins und Wucher von ihm nehmen, und sollst dich fürchten vor deinem Gott, damit dein Bruder bei dir lebe."
+        },
+        {
+          "number": 37,
+          "text": "Dein Geld sollst du ihm nicht um Zins geben und deine Nahrungsmittel nicht um Wucher geben."
+        },
+        {
+          "number": 38,
+          "text": "Ich bin Jehova, euer Gott, der ich euch aus dem Lande Ägypten herausgeführt habe, um euch das Land Kanaan zu geben, um euer Gott zu sein."
+        },
+        {
+          "number": 39,
+          "text": "Und wenn dein Bruder bei dir verarmt und sich dir verkauft, so sollst du ihn nicht Sklavendienst tun lassen; wie ein Tagelöhner,"
+        },
+        {
+          "number": 40,
+          "text": "wie ein Beisasse soll er bei dir sein; bis zum Jubeljahre soll er bei dir dienen."
+        },
+        {
+          "number": 41,
+          "text": "Dann soll er frei von dir ausgehen, er und seine Kinder mit ihm, und zu seinem Geschlecht zurückkehren und wieder zu dem Eigentum seiner Väter kommen."
+        },
+        {
+          "number": 42,
+          "text": "Denn sie sind meine Knechte, die ich aus dem Lande Ägypten herausgeführt habe; sie sollen nicht verkauft werden, wie man Sklaven verkauft."
+        },
+        {
+          "number": 43,
+          "text": "Du sollst nicht mit Härte über ihn herrschen, und sollst dich fürchten vor deinem Gott."
+        },
+        {
+          "number": 44,
+          "text": "Was aber deinen Knecht und deine Magd betrifft, die du haben wirst: von den Nationen, die rings um euch her sind, von ihnen möget ihr Knecht und Magd kaufen."
+        },
+        {
+          "number": 45,
+          "text": "Und auch von den Kindern der Beisassen, die sich bei euch aufhalten, von ihnen möget ihr kaufen und von ihrem Geschlecht, das bei euch ist, das sie in eurem Lande gezeugt haben; und sie mögen euch zum Eigentum sein,"
+        },
+        {
+          "number": 46,
+          "text": "und ihr möget sie euren Söhnen nach euch vererben, um sie als Eigentum zu besitzen. Diese möget ihr auf ewig dienen lassen; aber über eure Brüder, die Kinder Israel, sollt ihr nicht einer über den anderen herrschen mit Härte."
+        },
+        {
+          "number": 47,
+          "text": "Und wenn die Hand eines Fremdlings oder eines Beisassen bei dir etwas erwirbt, und dein Bruder bei ihm verarmt und sich dem Fremdling, dem Beisassen bei dir, oder einem Sprößling aus dem Geschlecht des Fremdlings verkauft,"
+        },
+        {
+          "number": 48,
+          "text": "so soll, nachdem er sich verkauft hat, Lösungsrecht für ihn sein; einer von seinen Brüdern mag ihn lösen."
+        },
+        {
+          "number": 49,
+          "text": "Entweder sein Oheim oder der Sohn seines Oheims mag ihn lösen, oder einer von seinen nächsten Blutsverwandten aus seinem Geschlecht mag ihn lösen; oder hat seine Hand etwas erworben, so mag er sich selbst lösen."
+        },
+        {
+          "number": 50,
+          "text": "Und er soll mit seinem Käufer rechnen von dem Jahre an, da er sich ihm verkauft hat, bis zum Jubeljahre; und der Preis, um den er sich verkauft hat, soll der Zahl der Jahre gemäß sein; nach den Tagen eines Tagelöhners soll er bei ihm sein."
+        },
+        {
+          "number": 51,
+          "text": "Wenn der Jahre noch viele sind, so soll er nach ihrem Verhältnis seine Lösung von seinem Kaufgelde zurückzahlen;"
+        },
+        {
+          "number": 52,
+          "text": "und wenn wenig übrig ist an den Jahren bis zum Jubeljahre, so soll er es ihm berechnen: nach Verhältnis seiner Jahre soll er seine Lösung zurückzahlen."
+        },
+        {
+          "number": 53,
+          "text": "Wie ein Tagelöhner soll er Jahr für Jahr bei ihm sein; er soll nicht vor deinen Augen mit Härte über ihn herrschen."
+        },
+        {
+          "number": 54,
+          "text": "Und wenn er nicht in dieser Weise gelöst wird, so soll er im Jubeljahre frei ausgehen, er und seine Kinder mit ihm."
+        },
+        {
+          "number": 55,
+          "text": "Denn mir sind die Kinder Israel Knechte; meine Knechte sind sie, die ich aus dem Lande Ägypten herausgeführt habe. Ich bin Jehova, euer Gott."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ihr sollt euch keine Götzen machen und sollt euch kein geschnitztes Bild und keine Bildsäule aufrichten, und keinen Stein mit Bildwerk sollt ihr in eurem Lande setzen, um euch davor niederzubeugen; denn ich bin Jehova, euer Gott."
+        },
+        {
+          "number": 2,
+          "text": "Meine Sabbathe sollt ihr beobachten, und mein Heiligtum sollt ihr fürchten. Ich bin Jehova."
+        },
+        {
+          "number": 3,
+          "text": "Wenn ihr in meinen Satzungen wandelt und meine Gebote beobachtet und sie tut,"
+        },
+        {
+          "number": 4,
+          "text": "so werde ich eure Regen geben zu ihrer Zeit, und das Land wird seinen Ertrag geben, und die Bäume des Feldes werden ihre Frucht geben;"
+        },
+        {
+          "number": 5,
+          "text": "und die Dreschzeit wird bei euch reichen bis an die Weinlese, und die Weinlese wird reichen bis an die Saatzeit; und ihr werdet euer Brot essen bis zur Sättigung und werdet sicher in eurem Lande wohnen."
+        },
+        {
+          "number": 6,
+          "text": "Und ich werde Frieden im Lande geben, daß ihr euch niederleget und niemand sei, der euch aufschreckt; und ich werde die bösen Tiere aus dem Lande vertilgen, und das Schwert wird nicht durch euer Land gehen."
+        },
+        {
+          "number": 7,
+          "text": "Und ihr werdet eure Feinde jagen, und sie werden vor euch fallen durchs Schwert;"
+        },
+        {
+          "number": 8,
+          "text": "und fünf von euch werden hundert jagen, und hundert von euch werden zehntausend jagen, und eure Feinde werden vor euch fallen durchs Schwert."
+        },
+        {
+          "number": 9,
+          "text": "Und ich werde mich zu euch wenden und euch fruchtbar machen und euch mehren und meinen Bund mit euch aufrechthalten;"
+        },
+        {
+          "number": 10,
+          "text": "und ihr werdet das altgewordene Alte essen, und das Alte wegräumen vor dem Neuen."
+        },
+        {
+          "number": 11,
+          "text": "Und ich werde meine Wohnung in eure Mitte setzen, und meine Seele wird euch nicht verabscheuen;"
+        },
+        {
+          "number": 12,
+          "text": "und ich werde in eurer Mitte wandeln und werde euer Gott sein und ihr werdet mein Volk sein."
+        },
+        {
+          "number": 13,
+          "text": "Ich bin Jehova, euer Gott, der ich euch aus dem Lande Ägypten herausgeführt habe, daß ihr nicht ihre Knechte sein solltet; und ich habe die Stäbe eures Joches zerbrochen und euch aufrecht wandeln lassen."
+        },
+        {
+          "number": 14,
+          "text": "Wenn ihr mir aber nicht gehorchet und nicht alle diese Gebote tut,"
+        },
+        {
+          "number": 15,
+          "text": "und wenn ihr meine Satzungen verachtet, und eure Seele meine Rechte verabscheut, so daß ihr nicht alle meine Gebote tut, und daß ihr meinen Bund brechet,"
+        },
+        {
+          "number": 16,
+          "text": "so werde auch ich euch dieses tun: Ich werde Schrecken über euch bestellen, Schwindsucht und Fieberglut, welche machen werden, daß die Augen erlöschen und die Seele verschmachtet; und ihr werdet vergeblich euren Samen säen, denn eure Feinde werden ihn verzehren;"
+        },
+        {
+          "number": 17,
+          "text": "und ich werde mein Angesicht wider euch richten, daß ihr vor euren Feinden geschlagen werdet; und eure Hasser werden über euch herrschen, und ihr werdet fliehen, obwohl niemand euch jagt."
+        },
+        {
+          "number": 18,
+          "text": "Und wenn ihr auf dieses hin mir nicht gehorchet, so werde ich euch siebenmal mehr züchtigen wegen eurer Sünden."
+        },
+        {
+          "number": 19,
+          "text": "Und ich werde euren starren Hochmut brechen, und werde euren Himmel wie Eisen machen und eure Erde wie Erz;"
+        },
+        {
+          "number": 20,
+          "text": "und eure Kraft wird sich umsonst verbrauchen, und euer Land wird seinen Ertrag nicht geben, und die Bäume des Feldes werden ihre Frucht nicht geben."
+        },
+        {
+          "number": 21,
+          "text": "Und wenn ihr mir entgegen wandelt und mir nicht gehorchen wollt, so werde ich euch noch siebenmal mehr schlagen, nach euren Sünden."
+        },
+        {
+          "number": 22,
+          "text": "Und ich werde das Getier des Feldes unter euch senden, daß es euch eurer Kinder beraube und euer Vieh ausrotte und euer weniger mache; und eure Straßen sollen öde werden."
+        },
+        {
+          "number": 23,
+          "text": "Und wenn ihr euch durch dieses nicht von mir zurechtweisen laßt und mir entgegen wandelt,"
+        },
+        {
+          "number": 24,
+          "text": "so werde auch ich euch entgegen wandeln, und auch ich werde euch siebenfach schlagen wegen eurer Sünden."
+        },
+        {
+          "number": 25,
+          "text": "Und ich werde das Schwert über euch bringen, das die Rache des Bundes vollzieht; und ziehet ihr euch in eure Städte zurück, so werde ich die Pest in eure Mitte senden, und ihr werdet in die Hand des Feindes gegeben werden."
+        },
+        {
+          "number": 26,
+          "text": "Indem ich euch die Stütze des Brotes zerbreche, werden zehn Weiber euer Brot backen in einem Ofen, und sie werden euch das Brot zurückgeben nach dem Gewicht; und ihr werdet essen und nicht satt werden."
+        },
+        {
+          "number": 27,
+          "text": "Und wenn ihr bei alledem mir nicht gehorchet und mir entgegen wandelt,"
+        },
+        {
+          "number": 28,
+          "text": "so werde auch ich euch entgegen wandeln im Grimm, und werde euch siebenfach züchtigen wegen eurer Sünden."
+        },
+        {
+          "number": 29,
+          "text": "Und ihr werdet das Fleisch eurer Söhne essen, und das Fleisch eurer Töchter werdet ihr essen."
+        },
+        {
+          "number": 30,
+          "text": "Und ich werde eure Höhen vertilgen und eure Sonnensäulen ausrotten und werde eure Leichname auf die Leichname eurer Götzen werfen, und meine Seele wird euch verabscheuen."
+        },
+        {
+          "number": 31,
+          "text": "Und ich werde eure Städte zur Öde machen und eure Heiligtümer verwüsten, und werde euren lieblichen Geruch nicht riechen."
+        },
+        {
+          "number": 32,
+          "text": "Und ich werde das Land verwüsten, daß eure Feinde, die darin wohnen, sich darüber entsetzen sollen."
+        },
+        {
+          "number": 33,
+          "text": "Euch aber werde ich unter die Nationen zerstreuen, und ich werde das Schwert ziehen hinter euch her; und euer Land wird eine Wüste sein und eure Städte eine Öde."
+        },
+        {
+          "number": 34,
+          "text": "Dann wird das Land seine Sabbathe genießen alle die Tage seiner Verwüstung, während ihr im Lande eurer Feinde seid; dann wird das Land ruhen und seine Sabbathe genießen;"
+        },
+        {
+          "number": 35,
+          "text": "alle die Tage seiner Verwüstung wird es ruhen, was es nicht geruht hat in euren Sabbathen, als ihr darin wohntet."
+        },
+        {
+          "number": 36,
+          "text": "Und die Übriggebliebenen von euch, in ihr Herz werde ich Feigheit bringen in den Ländern ihrer Feinde: Und es wird sie jagen das Rauschen eines verwehten Blattes, und sie werden fliehen, wie man vor dem Schwerte flieht, und fallen, obwohl niemand sie jagt;"
+        },
+        {
+          "number": 37,
+          "text": "und sie werden einer über den anderen hinstürzen, wie vor dem Schwerte, obwohl niemand sie jagt; und ihr werdet nicht standhalten können vor euren Feinden."
+        },
+        {
+          "number": 38,
+          "text": "Und ihr werdet umkommen unter den Nationen, und das Land eurer Feinde wird euch fressen."
+        },
+        {
+          "number": 39,
+          "text": "Und die Übriggebliebenen von euch werden in den Ländern eurer Feinde hinschwinden in ihrer Ungerechtigkeit, und auch in den Ungerechtigkeiten ihrer Väter mit ihnen hinschwinden."
+        },
+        {
+          "number": 40,
+          "text": "Und sie werden ihre Ungerechtigkeit bekennen und die Ungerechtigkeit ihrer Väter infolge ihrer Treulosigkeit, die sie gegen mich begangen haben, und auch daß, weil sie mir entgegen gewandelt sind,"
+        },
+        {
+          "number": 41,
+          "text": "auch ich ihnen entgegen wandelte und sie in das Land ihrer Feinde brachte. Wenn alsdann ihr unbeschnittenes Herz sich demütigt und sie dann die Strafe ihrer Ungerechtigkeit annehmen,"
+        },
+        {
+          "number": 42,
+          "text": "so werde ich meines Bundes mit Jakob gedenken; und auch meines Bundes mit Isaak und auch meines Bundes mit Abraham werde ich gedenken, und des Landes werde ich gedenken."
+        },
+        {
+          "number": 43,
+          "text": "Denn das Land wird von ihnen verlassen sein, und es wird seine Sabbathe genießen, in seiner Verwüstung ohne sie; und sie selbst werden die Strafe ihrer Ungerechtigkeit annehmen, darum, ja darum, daß sie meine Rechte verachtet und ihre Seele meine Satzungen verabscheut hat."
+        },
+        {
+          "number": 44,
+          "text": "Aber selbst auch dann, wenn sie in dem Lande ihrer Feinde sind, werde ich sie nicht verachten und sie nicht verabscheuen, ihnen den Garaus zu machen, meinen Bund mit ihnen zu brechen; denn ich bin Jehova, ihr Gott."
+        },
+        {
+          "number": 45,
+          "text": "Und ich werde ihnen meines Bundes mit den Vorfahren gedenken, die ich aus dem Lande Ägypten vor den Augen der Nationen herausgeführt habe, um ihr Gott zu sein. Ich bin Jehova."
+        },
+        {
+          "number": 46,
+          "text": "Das sind die Satzungen und die Rechte und die Gesetze, welche Jehova zwischen ihm und den Kindern Israel auf dem Berge Sinai durch Mose gegeben hat."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Und Jehova redete zu Mose und sprach:"
+        },
+        {
+          "number": 2,
+          "text": "Rede zu den Kindern Israel und sprich zu ihnen: Wenn jemand ein Gelübde erfüllt, so sollen die Seelen nach deiner Schätzung für Jehova sein."
+        },
+        {
+          "number": 3,
+          "text": "Und es sei deine Schätzung eines Mannes von zwanzig Jahren alt bis zu sechzig Jahren alt, und zwar sei deine Schätzung fünfzig Sekel Silber, nach dem Sekel des Heiligtums;"
+        },
+        {
+          "number": 4,
+          "text": "Und wenn es ein Weib ist, so sei deine Schätzung dreißig Sekel."
+        },
+        {
+          "number": 5,
+          "text": "Und wenn es von fünf Jahren alt bis zu zwanzig Jahren alt ist, so sei deine Schätzung einer männlichen Person zwanzig Sekel, und einer weiblichen zehn Sekel;"
+        },
+        {
+          "number": 6,
+          "text": "Und wenn es von einem Monat alt bis zu fünf Jahren alt ist, so sei deine Schätzung eines Knaben fünf Sekel Silber, und deine Schätzung eines Mädchens drei Sekel Silber;"
+        },
+        {
+          "number": 7,
+          "text": "und wenn es von sechzig Jahren alt und darüber ist, so sei deine Schätzung, wenn es ein Mann ist, fünfzehn Sekel, und eines Weibes zehn Sekel."
+        },
+        {
+          "number": 8,
+          "text": "Und wenn der Gelobende zu arm ist für deine Schätzung, so soll man ihn vor den Priester stellen, und der Priester soll ihn schätzen; nach Verhältnis dessen, was die Hand des Gelobenden aufbringen kann, soll der Priester ihn schätzen."
+        },
+        {
+          "number": 9,
+          "text": "Und wenn es ein Vieh ist, wovon man Jehova eine Opfergabe darbringt, so soll alles, was man Jehova davon gibt, heilig sein."
+        },
+        {
+          "number": 10,
+          "text": "Man soll es nicht auswechseln noch vertauschen, ein gutes um ein schlechtes, oder ein schlechtes um ein gutes; und wenn man dennoch Vieh um Vieh vertauscht, so wird dasselbe heilig und das eingetauschte heilig sein."
+        },
+        {
+          "number": 11,
+          "text": "Und wenn es irgend ein unreines Vieh ist, wovon man Jehova keine Opfergabe darbringt, so soll man das Vieh vor den Priester stellen,"
+        },
+        {
+          "number": 12,
+          "text": "und der Priester soll es schätzen, ob es gut oder schlecht sei; nach deiner, des Priesters, Schätzung, also soll es sein."
+        },
+        {
+          "number": 13,
+          "text": "Wenn man es aber lösen will, so soll man zu deiner Schätzung ein Fünftel hinzufügen."
+        },
+        {
+          "number": 14,
+          "text": "Und wenn jemand sein Haus heiligt, daß es Jehova heilig sei, so soll es der Priester schätzen, ob es gut oder schlecht sei; so wie der Priester es schätzt, also soll es festgestellt sein."
+        },
+        {
+          "number": 15,
+          "text": "Und wenn der Heiligende sein Haus lösen will, so soll er das Fünftel des Geldes deiner Schätzung darüber hinzufügen, und es soll ihm gehören."
+        },
+        {
+          "number": 16,
+          "text": "Und wenn jemand von dem Felde seines Eigentums Jehova heiligt, so soll deine Schätzung nach Verhältnis seiner Aussaat sein: ein Homer Gerste Aussaat zu fünfzig Sekel Silber."
+        },
+        {
+          "number": 17,
+          "text": "Wenn er vom Jubeljahre an sein Feld heiligt, so soll es nach deiner Schätzung festgestellt sein;"
+        },
+        {
+          "number": 18,
+          "text": "und wenn er nach dem Jubeljahre sein Feld heiligt, so soll der Priester ihm das Geld berechnen nach dem Verhältnis der Jahre, die bis zum Jubeljahre übrig sind, und es soll von deiner Schätzung abgezogen werden."
+        },
+        {
+          "number": 19,
+          "text": "Wenn aber der Heiligende das Feld lösen will, so soll er das Fünftel des Geldes deiner Schätzung darüber hinzufügen, und es soll ihm verbleiben."
+        },
+        {
+          "number": 20,
+          "text": "Und wenn er das Feld nicht löst, oder wenn er das Feld einem anderen Manne verkauft, so kann es nicht wieder gelöst werden;"
+        },
+        {
+          "number": 21,
+          "text": "und das Feld soll, wenn es im Jubeljahre frei ausgeht, Jehova heilig sein, wie ein verbanntes Feld; es soll dem Priester als Eigentum gehören."
+        },
+        {
+          "number": 22,
+          "text": "Und wenn er ein von ihm erkauftes Feld, das nicht zum Felde seines Eigentums gehört, Jehova heiligt,"
+        },
+        {
+          "number": 23,
+          "text": "so soll ihm der Priester den Betrag deiner Schätzung berechnen bis zum Jubeljahre; und er soll deine Schätzung am gleichen Tage, als ein dem Jehova Heiliges, entrichten."
+        },
+        {
+          "number": 24,
+          "text": "Im Jubeljahre soll das Feld wieder an den kommen, von welchem er es gekauft hatte, an den, welchem das Land eigentümlich gehörte."
+        },
+        {
+          "number": 25,
+          "text": "Und all deine Schätzung soll nach dem Sekel des Heiligtums geschehen; zwanzig Gera soll der Sekel sein."
+        },
+        {
+          "number": 26,
+          "text": "Nur das Erstgeborene unter dem Vieh, das als Erstgeburt Jehova gehört, das soll kein Mensch heiligen; sei es ein Stück Rind-oder Kleinvieh, es gehört Jehova."
+        },
+        {
+          "number": 27,
+          "text": "Wenn es aber vom unreinen Vieh ist, so soll man es lösen nach deiner Schätzung und dessen Fünftel darüber hinzufügen; und wenn es nicht gelöst wird, so soll es verkauft werden nach deiner Schätzung. -"
+        },
+        {
+          "number": 28,
+          "text": "Jedoch alles Verbannte, das jemand dem Jehova verbannt, von allem, was sein ist, es seien Menschen oder Vieh oder Feld seines Eigentums, soll nicht verkauft und nicht gelöst werden; alles Verbannte ist dem Jehova hochheilig."
+        },
+        {
+          "number": 29,
+          "text": "Alles, was an Menschen verbannt wird, soll nicht gelöst werden: es soll gewißlich getötet werden."
+        },
+        {
+          "number": 30,
+          "text": "Und aller Zehnte des Landes, vom Samen des Landes, von der Frucht der Bäume, gehört Jehova; er ist Jehova heilig."
+        },
+        {
+          "number": 31,
+          "text": "Wenn aber jemand von seinem Zehnten lösen will, so soll er dessen Fünftel hinzufügen."
+        },
+        {
+          "number": 32,
+          "text": "Und aller Zehnte vom Rind-und Kleinvieh, von allem, was unter dem Stabe vorüberzieht, das Zehnte soll Jehova heilig sein;"
+        },
+        {
+          "number": 33,
+          "text": "man soll nicht untersuchen, ob es gut oder schlecht sei, und soll es nicht vertauschen; und wenn man es dennoch vertauscht, so wird dasselbe heilig und das eingetauschte heilig sein; es soll nicht gelöst werden."
+        },
+        {
+          "number": 34,
+          "text": "Das sind die Gebote, welche Jehova dem Mose auf dem Berge Sinai an die Kinder Israel aufgetragen hat."
+        }
+      ]
+    }
+  ]
+}

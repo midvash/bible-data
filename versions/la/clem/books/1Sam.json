@@ -1,0 +1,3408 @@
+{
+  "version": "clem",
+  "book": "1Sam",
+  "bookId": 9,
+  "englishName": "1 Samuel",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fuit vir unus de Ramathaimsophim, de monte Ephraim, et nomen ejus Elcana, filius Jeroham, filii Eliu, filii Thohu, filii Suph, Ephrathus:"
+        },
+        {
+          "number": 2,
+          "text": "et habuit duas uxores, nomen uni Anna, et nomen secund Phenenna. Fueruntque Phenenn filii: Ann autem non erant liberi."
+        },
+        {
+          "number": 3,
+          "text": "Et ascendebat vir ille de civitate sua statutis diebus, ut adoraret et sacrificaret Domino exercituum in Silo. Erant autem ibi duo filii Heli, Ophni et Phinees, sacerdotes Domini."
+        },
+        {
+          "number": 4,
+          "text": "Venit ergo dies, et immolavit Elcana, deditque Phenenn uxori su, et cunctis filiis ejus et filiabus, partes:"
+        },
+        {
+          "number": 5,
+          "text": "Ann autem dedit partem unam tristis, quia Annam diligebat. Dominus autem concluserat vulvam ejus."
+        },
+        {
+          "number": 6,
+          "text": "Affligebat quoque eam mula ejus, et vehementer angebat, in tantum ut exprobraret quod Dominus conclusisset vulvam ejus:"
+        },
+        {
+          "number": 7,
+          "text": "sicque faciebat per singulos annos: cum redeunte tempore ascenderent ad templum Domini, et sic provocabat eam: porro illa flebat, et non capiebat cibum."
+        },
+        {
+          "number": 8,
+          "text": "Dixit ergo ei Elcana vir suus: Anna, cur fles? et quare non comedis? et quam ob rem affligitur cor tuum? numquid non ego melior tibi sum, quam decem filii?"
+        },
+        {
+          "number": 9,
+          "text": "Surrexit autem Anna postquam comederat et biberat in Silo. Et Heli sacerdote sedente super sellam ante postes templi Domini,"
+        },
+        {
+          "number": 10,
+          "text": "cum esset Anna amaro animo, oravit ad Dominum, flens largiter,"
+        },
+        {
+          "number": 11,
+          "text": "et votum vovit, dicens: Domine exercituum, si respiciens videris afflictionem famul tu, et recordatus mei fueris, nec oblitus ancill tu, dederisque serv tu sexum virilem: dabo eum Domino omnibus diebus vit ejus, et novacula non ascendet super caput ejus."
+        },
+        {
+          "number": 12,
+          "text": "Factum est autem, cum illa multiplicaret preces coram Domino, ut Heli observaret os ejus."
+        },
+        {
+          "number": 13,
+          "text": "Porro Anna loquebatur in corde suo, tantumque labia illius movebantur, et vox penitus non audiebatur. stimavit ergo eam Heli temulentam,"
+        },
+        {
+          "number": 14,
+          "text": "dixitque ei: Usquequo ebria eris? digere paulisper vinum, quo mades."
+        },
+        {
+          "number": 15,
+          "text": "Respondens Anna: Nequaquam, inquit, domine mi: nam mulier infelix nimis ego sum: vinumque et omne quod inebriare potest, non bibi, sed effudi animam meam in conspectu Domini."
+        },
+        {
+          "number": 16,
+          "text": "Ne reputes ancillam tuam quasi unam de filiabus Belial: quia ex multitudine doloris et mroris mei locuta sum usque in prsens."
+        },
+        {
+          "number": 17,
+          "text": "Tunc Heli ait ei: Vade in pace: et Deus Isral det tibi petitionem tuam quam rogasti eum."
+        },
+        {
+          "number": 18,
+          "text": "Et illa dixit: Utinam inveniat ancilla tua gratiam in oculis tuis. Et abiit mulier in viam suam, et comedit, vultusque illius non sunt amplius in diversa mutati."
+        },
+        {
+          "number": 19,
+          "text": "Et surrexerunt mane, et adoraverunt coram Domino: reversique sunt, et venerunt in domum suam Ramatha. Cognovit autem Elcana Annam uxorem suam: et recordatus est ejus Dominus."
+        },
+        {
+          "number": 20,
+          "text": "Et factum est post circulum dierum, concepit Anna, et peperit filium: vocavitque nomen ejus Samuel, eo quod a Domino postulasset eum."
+        },
+        {
+          "number": 21,
+          "text": "Ascendit autem vir ejus Elcana, et omnis domus ejus, ut immolaret Domino hostiam solemnem, et votum suum."
+        },
+        {
+          "number": 22,
+          "text": "Et Anna non ascendit: dixit enim viro suo: Non vadam donec ablactetur infans, et ducam eum, ut appareat ante conspectum Domini, et maneat ibi jugiter."
+        },
+        {
+          "number": 23,
+          "text": "Et ait ei Elcana vir suus: Fac quod bonum tibi videtur, et mane donec ablactes eum: precorque ut impleat Dominus verbum suum. Mansit ergo mulier, et lactavit filium suum, donec amoveret eum a lacte."
+        },
+        {
+          "number": 24,
+          "text": "Et adduxit eum secum, postquam ablactaverat, in vitulis tribus, et tribus modiis farin, et amphora vini, et adduxit eum ad domum Domini in Silo. Puer autem erat adhuc infantulus:"
+        },
+        {
+          "number": 25,
+          "text": "et immolaverunt vitulum, et obtulerunt puerum Heli."
+        },
+        {
+          "number": 26,
+          "text": "Et ait Anna: Obsecro mi domine, vivit anima tua, domine: ego sum illa mulier, qu steti coram te hic orans Dominum."
+        },
+        {
+          "number": 27,
+          "text": "Pro puero isto oravi, et dedit mihi Dominus petitionem meam quam postulavi eum."
+        },
+        {
+          "number": 28,
+          "text": "Idcirco et ego commodavi eum Domino cunctis diebus quibus fuerit commodatus Domino. Et adoraverunt ibi Dominum. Et oravit Anna, et ait:"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "[Exultavit cor meum in Domino, et exaltatum est cornu meum in Deo meo; dilatatum est os meum super inimicos meos: quia ltata sum in salutari tuo."
+        },
+        {
+          "number": 2,
+          "text": "Non est sanctus, ut est Dominus, neque enim est alius extra te, et non est fortis sicut Deus noster."
+        },
+        {
+          "number": 3,
+          "text": "Nolite multiplicare loqui sublimia gloriantes; recedant vetera de ore vestro: quia Deus scientiarum Dominus est, et ipsi prparantur cogitationes."
+        },
+        {
+          "number": 4,
+          "text": "Arcus fortium superatus est, et infirmi accincti sunt robore."
+        },
+        {
+          "number": 5,
+          "text": "Repleti prius, pro panibus se locaverunt: et famelici saturati sunt, donec sterilis peperit plurimos: et qu multos habebat filios, infirmata est."
+        },
+        {
+          "number": 6,
+          "text": "Dominus mortificat et vivificat; deducit ad inferos et reducit."
+        },
+        {
+          "number": 7,
+          "text": "Dominus pauperem facit et ditat, humiliat et sublevat."
+        },
+        {
+          "number": 8,
+          "text": "Suscitat de pulvere egenum, et de stercore elevat pauperem: ut sedeat cum principibus, et solium glori teneat. Domini enim sunt cardines terr, et posuit super eos orbem."
+        },
+        {
+          "number": 9,
+          "text": "Pedes sanctorum suorum servabit, et impii in tenebris conticescent: quia non in fortitudine sua roborabitur vir."
+        },
+        {
+          "number": 10,
+          "text": "Dominum formidabunt adversarii ejus: et super ipsos in clis tonabit. Dominus judicabit fines terr, et dabit imperium regi suo, et sublimabit cornu christi sui.]"
+        },
+        {
+          "number": 11,
+          "text": "Et abiit Elcana Ramatha, in domum suam: puer autem erat minister in conspectu Domini ante faciem Heli sacerdotis."
+        },
+        {
+          "number": 12,
+          "text": "Porro filii Heli, filii Belial, nescientes Dominum,"
+        },
+        {
+          "number": 13,
+          "text": "neque officium sacerdotum ad populum: sed quicumque immolasset victimam, veniebat puer sacerdotis, dum coquerentur carnes, et habebat fuscinulam tridentem in manu sua,"
+        },
+        {
+          "number": 14,
+          "text": "et mittebat eam in lebetem, vel in caldariam, aut in ollam, sive in cacabum: et omne quod levabat fuscinula, tollebat sacerdos sibi: sic faciebant universo Israli venientium in Silo."
+        },
+        {
+          "number": 15,
+          "text": "Etiam antequam adolerent adipem, veniebat puer sacerdotis, et dicebat immolanti: Da mihi carnem, ut coquam sacerdoti: non enim accipiam a te carnem coctam, sed crudam."
+        },
+        {
+          "number": 16,
+          "text": "Dicebatque illi immolans: Incendatur primum juxta morem hodie adeps, et tolle tibi quantumcumque desiderat anima tua. Qui respondens aiebat ei: Nequaquam: nunc enim dabis, alioquin tollam vi."
+        },
+        {
+          "number": 17,
+          "text": "Erat ergo peccatum puerorum grande nimis coram Domino: quia retrahebant homines a sacrificio Domini."
+        },
+        {
+          "number": 18,
+          "text": "Samuel autem ministrabat ante faciem Domini, puer accinctus ephod lineo."
+        },
+        {
+          "number": 19,
+          "text": "Et tunicam parvam faciebat ei mater sua, quam afferebat statutis diebus, ascendens cum viro suo, ut immolaret hostiam solemnem."
+        },
+        {
+          "number": 20,
+          "text": "Et benedixit Heli Elcan et uxori ejus: dixitque ei: Reddat tibi Dominus semen de muliere hac, pro fnore quod commodasti Domino. Et abierunt in locum suum."
+        },
+        {
+          "number": 21,
+          "text": "Visitavit ergo Dominus Annam, et concepit, et peperit tres filios, et duas filias: et magnificatus est puer Samuel apud Dominum."
+        },
+        {
+          "number": 22,
+          "text": "Heli autem erat senex valde, et audivit omnia qu faciebant filii sui universo Israli, et quomodo dormiebant cum mulieribus qu observabant ad ostium tabernaculi:"
+        },
+        {
+          "number": 23,
+          "text": "et dixit eis: Quare facitis res hujuscemodi quas ego audio, res pessimas, ab omni populo?"
+        },
+        {
+          "number": 24,
+          "text": "Nolite, filii mei: non enim est bona fama quam ego audio, ut transgredi faciatis populum Domini."
+        },
+        {
+          "number": 25,
+          "text": "Si peccaverit vir in virum, placari ei potest Deus: si autem in Dominum peccaverit vir, quis orabit pro eo? Et non audierunt vocem patris sui: quia voluit Dominus occidere eos."
+        },
+        {
+          "number": 26,
+          "text": "Puer autem Samuel proficiebat atque crescebat, et placebat tam Domino quam hominibus."
+        },
+        {
+          "number": 27,
+          "text": "Venit autem vir Dei ad Heli, et ait ad eum: Hc dicit Dominus: Numquid non aperte revelatus sum domui patris tui, cum essent in gypto in domo Pharaonis?"
+        },
+        {
+          "number": 28,
+          "text": "Et elegi eum ex omnibus tribubus Isral mihi in sacerdotem, ut ascenderet ad altare meum, et adoleret mihi incensum, et portaret ephod coram me: et dedi domui patris tui omnia de sacrificiis filiorum Isral."
+        },
+        {
+          "number": 29,
+          "text": "Quare calce abjecistis victimam meam, et munera mea qu prcepi ut offerrentur in templo: et magis honorasti filios tuos quam me, ut comederetis primitias omnis sacrificii Isral populi mei?"
+        },
+        {
+          "number": 30,
+          "text": "Propterea ait Dominus Deus Isral: Loquens locutus sum, ut domus tua, et domus patris tui, ministraret in conspectu meo usque in sempiternum. Nunc autem dicit Dominus: Absit hoc a me: sed quicumque glorificaverit me, glorificabo eum: qui autem contemnunt me, erunt ignobiles."
+        },
+        {
+          "number": 31,
+          "text": "Ecce dies veniunt, et prcidam brachium tuum, et brachium domus patris tui, ut non sit senex in domo tua."
+        },
+        {
+          "number": 32,
+          "text": "Et videbis mulum tuum in templo, in universis prosperis Isral: et non erit senex in domo tua omnibus diebus."
+        },
+        {
+          "number": 33,
+          "text": "Verumtamen non auferam penitus virum ex te ab altari meo: sed ut deficiant oculi tui, et tabescat anima tua: et pars magna domus tu morietur cum ad virilem tatem venerit."
+        },
+        {
+          "number": 34,
+          "text": "Hoc autem erit tibi signum, quod venturum est duobus filiis tuis, Ophni et Phinees: in die uno morientur ambo."
+        },
+        {
+          "number": 35,
+          "text": "Et suscitabo mihi sacerdotem fidelem, qui juxta cor meum et animam meam faciet: et dificabo ei domum fidelem, et ambulabit coram christo meo cunctis diebus."
+        },
+        {
+          "number": 36,
+          "text": "Futurum est autem, ut quicumque remanserit in domo tua, veniat ut oretur pro eo, et offerat nummum argenteum, et tortam panis, dicatque: Dimitte me, obsecro, ad unam partem sacerdotalem, ut comedam buccellam panis."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Puer autem Samuel ministrabat Domino coram Heli, et sermo Domini erat pretiosus in diebus illis: non erat visio manifesta."
+        },
+        {
+          "number": 2,
+          "text": "Factum est ergo in die quadam, Heli jacebat in loco suo, et oculi ejus caligaverant, nec poterat videre:"
+        },
+        {
+          "number": 3,
+          "text": "lucerna Dei antequam extingueretur, Samuel dormiebat in templo Domini, ubi erat arca Dei."
+        },
+        {
+          "number": 4,
+          "text": "Et vocavit Dominus Samuel. Qui respondens, ait: Ecce ego."
+        },
+        {
+          "number": 5,
+          "text": "Et cucurrit ad Heli, et dixit: Ecce ego: vocasti enim me. Qui dixit: Non vocavi: revertere, et dormi. Et abiit, et dormivit."
+        },
+        {
+          "number": 6,
+          "text": "Et adjecit Dominus rursum vocare Samuelem. Consurgensque Samuel, abiit ad Heli, et dixit: Ecce ego, quia vocasti me. Qui respondit: Non vocavi te, fili mi: revertere et dormi."
+        },
+        {
+          "number": 7,
+          "text": "Porro Samuel necdum sciebat Dominum, neque revelatus fuerat ei sermo Domini."
+        },
+        {
+          "number": 8,
+          "text": "Et adjecit Dominus, et vocavit adhuc Samuelem tertio. Qui consurgens abiit ad Heli,"
+        },
+        {
+          "number": 9,
+          "text": "et ait: Ecce ego, quia vocasti me. Intellexit ergo Heli quia Dominus vocaret puerum: et ait ad Samuelem: Vade, et dormi: et si deinceps vocaverit te, dices: Loquere, Domine, quia audit servus tuus. Abiit ergo Samuel, et dormivit in loco suo."
+        },
+        {
+          "number": 10,
+          "text": "Et venit Dominus, et stetit: et vocavit, sicut vocaverat secundo: Samuel, Samuel. Et ait Samuel: Loquere, Domine, quia audit servus tuus."
+        },
+        {
+          "number": 11,
+          "text": "Et dixit Dominus ad Samuelem: Ecce ego facio verbum in Isral, quod quicumque audierit, tinnient amb aures ejus."
+        },
+        {
+          "number": 12,
+          "text": "In die illa suscitabo adversum Heli omnia qu locutus sum super domum ejus: incipiam, et complebo."
+        },
+        {
+          "number": 13,
+          "text": "Prdixi enim ei quod judicaturus essem domum ejus in ternum propter iniquitatem, eo quod noverat indigne agere filios suos, et non corripuerit eos."
+        },
+        {
+          "number": 14,
+          "text": "Idcirco juravi domui Heli quod non expietur iniquitas domus ejus victimis et muneribus usque in ternum."
+        },
+        {
+          "number": 15,
+          "text": "Dormivit autem Samuel usque mane, aperuitque ostia domus Domini. Et Samuel timebat indicare visionem Heli."
+        },
+        {
+          "number": 16,
+          "text": "Vocavit ergo Heli Samuelem, et dixit: Samuel fili mi? Qui respondens ait: Prsto sum."
+        },
+        {
+          "number": 17,
+          "text": "Et interrogavit eum: Quis est sermo, quem locutus est Dominus ad te? oro te ne celaveris me: hc faciat tibi Deus, et hc addat, si absconderis a me sermonem ex omnibus verbis qu dicta sunt tibi."
+        },
+        {
+          "number": 18,
+          "text": "Indicavit itaque ei Samuel universos sermones, et non abscondit ab eo. Et ille respondit: Dominus est: quod bonum est in oculis suis faciat."
+        },
+        {
+          "number": 19,
+          "text": "Crevit autem Samuel, et Dominus erat cum eo, et non cecidit ex omnibus verbis ejus in terram."
+        },
+        {
+          "number": 20,
+          "text": "Et cognovit universus Isral, a Dan usque Bersabee, quod fidelis Samuel propheta esset Domini."
+        },
+        {
+          "number": 21,
+          "text": "Et addidit Dominus ut appareret in Silo, quoniam revelatus fuerat Dominus Samueli in Silo juxta verbum Domini. Et evenit sermo Samuelis universo Israli."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et factum est in diebus illis, convenerunt Philisthiim in pugnam: et egressus est Isral obviam Philisthiim in prlium, et castrametatus est juxta lapidem Adjutorii. Porro Philisthiim venerunt in Aphec,"
+        },
+        {
+          "number": 2,
+          "text": "et instruxerunt aciem contra Isral. Inito autem certamine, terga vertit Isral Philisthis: et csa sunt in illo certamine passim per agros, quasi quatuor millia virorum."
+        },
+        {
+          "number": 3,
+          "text": "Et reversus est populus ad castra: dixeruntque majores natu de Isral: Quare percussit nos Dominus hodie coram Philisthiim? afferamus ad nos de Silo arcam fderis Domini, et veniat in medium nostri, ut salvet nos de manu inimicorum nostrorum."
+        },
+        {
+          "number": 4,
+          "text": "Misit ergo populus in Silo, et tulerunt inde arcam fderis Domini exercituum sedentis super cherubim: erantque duo filii Heli cum arca fderis Dei, Ophni et Phinees."
+        },
+        {
+          "number": 5,
+          "text": "Cumque venisset arca fderis Domini in castra, vociferatus est omnis Isral clamore grandi, et personuit terra."
+        },
+        {
+          "number": 6,
+          "text": "Et audierunt Philisthiim vocem clamoris, dixeruntque: Qunam est hc vox clamoris magni in castris Hebrorum? Et cognoverunt quod arca Domini venisset in castra."
+        },
+        {
+          "number": 7,
+          "text": "Timueruntque Philisthiim, dicentes: Venit Deus in castra. Et ingemuerunt, dicentes:"
+        },
+        {
+          "number": 8,
+          "text": "V nobis: non enim fuit tanta exultatio heri et nudiustertius: v nobis. Quis nos salvabit de manu deorum sublimium istorum? hi sunt dii, qui percusserunt gyptum omni plaga in deserto."
+        },
+        {
+          "number": 9,
+          "text": "Confortamini, et estote viri, Philisthiim, ne serviatis Hebris, sicut et illi servierunt vobis: confortamini, et bellate."
+        },
+        {
+          "number": 10,
+          "text": "Pugnaverunt ergo Philisthiim, et csus est Isral, et fugit unusquisque in tabernaculum suum: et facta est plaga magna nimis, et ceciderunt de Isral triginta millia peditum."
+        },
+        {
+          "number": 11,
+          "text": "Et arca Dei capta est: duo quoque filii Heli mortui sunt, Ophni et Phinees."
+        },
+        {
+          "number": 12,
+          "text": "Currens autem vir de Benjamin ex acie, venit in Silo in die illa, scissa veste, et conspersus pulvere caput."
+        },
+        {
+          "number": 13,
+          "text": "Cumque ille venisset, Heli sedebat super sellam contra viam spectans. Erat enim cor ejus pavens pro arca Dei. Vir autem ille postquam ingressus est, nuntiavit urbi: et ululavit omnis civitas."
+        },
+        {
+          "number": 14,
+          "text": "Et audivit Heli sonitum clamoris, dixitque: Quis est hic sonitus tumultus hujus? At ille festinavit, et venit, et nuntiavit Heli."
+        },
+        {
+          "number": 15,
+          "text": "Heli autem erat nonaginta et octo annorum, et oculi ejus caligaverant, et videre non poterat."
+        },
+        {
+          "number": 16,
+          "text": "Et dixit ad Heli: Ego sum qui veni de prlio, et ego qui de acie fugi hodie. Cui ille ait: Quid actum est, fili mi?"
+        },
+        {
+          "number": 17,
+          "text": "Respondens autem ille qui nuntiabat: Fugit, inquit, Isral coram Philisthiim, et ruina magna facta est in populo: insuper et duo filii tui mortui sunt, Ophni et Phinees, et arca Dei capta est."
+        },
+        {
+          "number": 18,
+          "text": "Cumque ille nominasset arcam Dei, cecidit de sella retrorsum juxta ostium, et fractis cervicibus mortuus est. Senex enim erat vir et grandvus: et ipse judicavit Isral quadraginta annis."
+        },
+        {
+          "number": 19,
+          "text": "Nurus autem ejus, uxor Phinees, prgnans erat, vicinaque partui: et audito nuntio quod capta esset arca Dei, et mortuus esset socer suus et vir suus, incurvavit se et peperit: irruerant enim in eam dolores subiti."
+        },
+        {
+          "number": 20,
+          "text": "In ipso autem momento mortis ejus, dixerunt ei qu stabant circa eam: Ne timeas, quia filium peperisti. Qu non respondit eis, neque animadvertit."
+        },
+        {
+          "number": 21,
+          "text": "Et vocabit puerum Ichabod, dicens: Translata est gloria de Isral, quia capta est arca Dei, et pro socero suo et pro viro suo;"
+        },
+        {
+          "number": 22,
+          "text": "et ait: Translata est gloria ab Isral, eo quod capta esset arca Dei."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Philisthiim autem tulerunt arcam Dei, et asportaverunt eam a lapide Adjutorii in Azotum."
+        },
+        {
+          "number": 2,
+          "text": "Tuleruntque Philisthiim arcam Dei, et intulerunt eam in templum Dagon, et statuerunt eam juxta Dagon."
+        },
+        {
+          "number": 3,
+          "text": "Cumque surrexissent diluculo Azotii altera die, ecce Dagon jacebat pronus in terra ante arcam Domini: et tulerunt Dagon, et restituerunt eum in locum suum."
+        },
+        {
+          "number": 4,
+          "text": "Rursumque mane die altera consurgentes, invenerunt Dagon jacentem super faciem suam in terra coram arca Domini: caput autem Dagon, et du palm manuum ejus absciss erant super limen:"
+        },
+        {
+          "number": 5,
+          "text": "porro Dagon solus truncus remanserat in loco suo. Propter hanc causam non calcant sacerdotes Dagon, et omnes qui ingrediuntur templum ejus, super limen Dagon in Azoto, usque in hodiernum diem."
+        },
+        {
+          "number": 6,
+          "text": "Aggravata est autem manus Domini super Azotios, et demolitus est eos: et percussit in secretiori parte natium Azotum, et fines ejus. Et ebullierunt vill et agri in medio regionis illius, et nati sunt mures et facta est confusio mortis magn in civitate."
+        },
+        {
+          "number": 7,
+          "text": "Videntes autem viri Azotii hujuscemodi plagam, dixerunt: Non maneat arca Dei Isral apud nos: quoniam dura est manus ejus super nos, et super Dagon deum nostrum."
+        },
+        {
+          "number": 8,
+          "text": "Et mittentes congregaverunt omnes satrapas Philisthinorum ad se, et dixerunt: Quid faciemus de arca Dei Isral? Responderuntque Gethi: Circumducatur arca Dei Isral. Et circumduxerunt arcam Dei Isral."
+        },
+        {
+          "number": 9,
+          "text": "Illis autem circumducentibus eam, fiebat manus Domini per singulas civitates interfectionis magn nimis: et percutiebat viros uniuscujusque urbis, a parvo usque ad majorem, et computrescebant prominentes extales eorum. Inieruntque Gethi consilium, et fecerunt sibi sedes pelliceas."
+        },
+        {
+          "number": 10,
+          "text": "Miserunt ergo arcam Dei in Accaron. Cumque venisset arca Dei in Accaron, exclamaverunt Accaronit, dicentes: Adduxerunt ad nos arcam Dei Isral ut interficiat nos et populum nostrum."
+        },
+        {
+          "number": 11,
+          "text": "Miserunt itaque et congregaverunt omnes satrapas Philisthinorum: qui dixerunt: Dimittite arcam Dei Isral, et revertatur in locum suum, et non interficiat nos cum populo nostro."
+        },
+        {
+          "number": 12,
+          "text": "Fiebat enim pavor mortis in singulis urbibus, et gravissima valde manus Dei. Viri quoque qui mortui non fuerant, percutiebantur in secretiori parte natium: et ascendebat ululatus uniuscujusque civitatis in clum."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fuit ergo arca Domini in regione Philisthinorum septem mensibus."
+        },
+        {
+          "number": 2,
+          "text": "Et vocaverunt Philisthiim sacerdotes et divinos, dicentes: Quid faciemus de arca Domini? indicate nobis quomodo remittamus eam in locum suum. Qui dixerunt:"
+        },
+        {
+          "number": 3,
+          "text": "Si remittitis arcam Dei Isral, nolite dimittere eam vacuam, sed quod debetis, reddite ei pro peccato, et tunc curabimini: et scietis quare non recedat manus ejus a vobis."
+        },
+        {
+          "number": 4,
+          "text": "Qui dixerunt: Quid est quod pro delicto reddere debeamus ei? Responderuntque illi:"
+        },
+        {
+          "number": 5,
+          "text": "Juxta numerum provinciarum Philisthinorum quinque anos aureos facietis, et quinque mures aureos: quia plaga una fuit omnibus vobis, et satrapis vestris. Facietisque similitudines anorum vestrorum, et similitudines murium, qui demoliti sunt terram: et dabitis Deo Isral gloriam, si forte relevet manum suam a vobis, et a diis vestris, et a terra vestra."
+        },
+        {
+          "number": 6,
+          "text": "Quare aggravatis corda vestra, sicut aggravavit gyptus et Pharao cor suum? nonne postquam percussus est, tunc dimisit eos, et abierunt?"
+        },
+        {
+          "number": 7,
+          "text": "Nunc ergo arripite et facite plaustrum novum unum: et duas vaccas ftas, quibus non est impositum jugum, jungite in plaustro, et recludite vitulos earum domi."
+        },
+        {
+          "number": 8,
+          "text": "Tolletisque arcam Domini, et ponetis in plaustro, et vasa aurea qu exsolvistis ei pro delicto, ponetis in capsellam ad latus ejus: et dimittite eam ut vadat."
+        },
+        {
+          "number": 9,
+          "text": "Et aspicietis: et si quidem per viam finium suorum ascenderit contra Bethsames, ipse fecit nobis hoc malum grande: sin autem, minime: sciemus quia nequaquam manus ejus tetigit nos, sed casu accidit."
+        },
+        {
+          "number": 10,
+          "text": "Fecerunt ergo illi hoc modo: et tollentes duas vaccas qu lactabant vitulos, junxerunt ad plaustrum, vitulosque earum concluserunt domi."
+        },
+        {
+          "number": 11,
+          "text": "Et posuerunt arcam Dei super plaustrum, et capsellam qu habebat mures aureos et similitudines anorum."
+        },
+        {
+          "number": 12,
+          "text": "Ibant autem in directum vacc per viam qu ducit Bethsames, et itinere uno gradiebantur, pergentes et mugientes: et non declinabant neque ad dextram neque ad sinistram: sed et satrap Philisthiim sequebantur usque ad terminos Bethsames."
+        },
+        {
+          "number": 13,
+          "text": "Porro Bethsamit metebant triticum in valle: et elevantes oculos suos, viderunt arcam, et gavisi sunt cum vidissent."
+        },
+        {
+          "number": 14,
+          "text": "Et plaustrum venit in agrum Josue Bethsamit, et stetit ibi. Erat autem ibi lapis magnus, et conciderunt ligna plaustri, vaccasque imposuerunt super ea holocaustum Domino."
+        },
+        {
+          "number": 15,
+          "text": "Levit autem deposuerunt arcam Dei, et capsellam qu erat juxta eam, in qua erant vasa aurea, et posuerunt super lapidem grandem. Viri autem Bethsamit obtulerunt holocausta, et immolaverunt victimas in die illa Domino."
+        },
+        {
+          "number": 16,
+          "text": "Et quinque satrap Philisthinorum viderunt, et reversi sunt in Accaron in die illa."
+        },
+        {
+          "number": 17,
+          "text": "Hi sunt autem ani aurei quos reddiderunt Philisthiim pro delicto, Domino: Azotus unum, Gaza unum, Ascalon unum, Geth unum, Accaron unum:"
+        },
+        {
+          "number": 18,
+          "text": "et mures aureos secundum numerum urbium Philisthiim, quinque provinciarum, ab urbe murata usque ad villam qu erat absque muro, et usque ad Abelmagnum, super quem posuerunt arcam Domini, qu erat usque in illum diem in agro Josue Bethsamitis."
+        },
+        {
+          "number": 19,
+          "text": "Percussit autem de viris Bethsamitibus, eo quod vidissent arcam Domini: et percussit de populo septuaginta viros, et quinquaginta millia plebis. Luxitque populus, eo quod Dominus percussisset plebem plaga magna."
+        },
+        {
+          "number": 20,
+          "text": "Et dixerunt viri Bethsamit: Quis poterit stare in conspectu Domini Dei sancti hujus? et ad quem ascendet a nobis?"
+        },
+        {
+          "number": 21,
+          "text": "Miseruntque nuntios ad habitatores Cariathiarim, dicentes: Reduxerunt Philisthiim arcam Domini: descendite, et reducite eam ad vos."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Venerunt ergo viri Cariathiarim, et reduxerunt arcam Domini, et intulerunt eam in domum Abinadab in Gabaa: Eleazarum autem filium ejus sanctificaverunt, ut custodiret arcam Domini."
+        },
+        {
+          "number": 2,
+          "text": "Et factum est, ex qua die mansit arca Domini in Cariathiarim, multiplicati sunt dies (erat quippe jam annus vigesimus), et requievit omnis domus Isral post Dominum."
+        },
+        {
+          "number": 3,
+          "text": "Ait autem Samuel ad universam domum Isral, dicens: Si in toto corde vestro revertimini ad Dominum, auferte deos alienos de medio vestri, Baalim et Astaroth: et prparate corda vestra Domino, et servite ei soli, et eruet vos de manu Philisthiim."
+        },
+        {
+          "number": 4,
+          "text": "Abstulerunt ergo filii Isral Baalim et Astaroth, et servierunt Domino soli."
+        },
+        {
+          "number": 5,
+          "text": "Dixit autem Samuel: Congregate universum Isral in Masphath, ut orem pro vobis Dominum."
+        },
+        {
+          "number": 6,
+          "text": "Et convenerunt in Masphath: hauseruntque aquam, et effuderunt in conspectu Domini: et jejunaverunt in die illa atque dixerunt ibi: Peccavimus Domino. Judicavitque Samuel filios Isral in Masphath."
+        },
+        {
+          "number": 7,
+          "text": "Et audierunt Philisthiim quod congregati essent filii Isral in Masphath, et ascenderunt satrap Philisthinorum ad Isral. Quod cum audissent filii Isral, timuerunt a facie Philisthinorum."
+        },
+        {
+          "number": 8,
+          "text": "Dixeruntque ad Samuelem: Ne cesses pro nobis clamare ad Dominum Deum nostrum, ut salvet nos de manu Philisthinorum."
+        },
+        {
+          "number": 9,
+          "text": "Tulit autem Samuel agnum lactentem unum, et obtulit illum holocaustum integrum Domino: et clamavit Samuel ad Dominum pro Isral, et exaudivit eum Dominus."
+        },
+        {
+          "number": 10,
+          "text": "Factum est autem, cum Samuel offerret holocaustum, Philisthiim iniere prlium contra Isral: intonuit autem Dominus fragore magno in die illa super Philisthiim, et exterruit eos, et csi sunt a facie Isral."
+        },
+        {
+          "number": 11,
+          "text": "Egressique viri Isral de Masphath, persecuti sunt Philisthos, et percusserunt eos usque ad locum qui erat subter Bethchar."
+        },
+        {
+          "number": 12,
+          "text": "Tulit autem Samuel lapidem unum, et posuit eum inter Masphath et inter Sen: et vocavit nomen loci illius, Lapis adjutorii. Dixitque: Hucusque auxiliatus est nobis Dominus."
+        },
+        {
+          "number": 13,
+          "text": "Et humiliati sunt Philisthiim, nec apposuerunt ultra ut venirent in terminos Isral. Facta est itaque manus Domini super Philisthos cunctis diebus Samuelis."
+        },
+        {
+          "number": 14,
+          "text": "Et reddit sunt urbes quas tulerant Philisthiim ab Isral, Israli, ab Accaron usque Geth, et terminos suos: liberavitque Isral de manu Philisthinorum, eratque pax inter Isral et Amorrhum."
+        },
+        {
+          "number": 15,
+          "text": "Judicabat quoque Samuel Isralem cunctis diebus vit su:"
+        },
+        {
+          "number": 16,
+          "text": "et ibat per singulos annos circuiens Bethel et Galgala et Masphath, et judicabat Isralem in supradictis locis."
+        },
+        {
+          "number": 17,
+          "text": "Revertebaturque in Ramatha: ibi enim erat domus ejus, et ibi judicabat Isralem: dificavit etiam ibi altare Domino."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Factum est autem cum senuisset Samuel, posuit filios suos judices Isral."
+        },
+        {
+          "number": 2,
+          "text": "Fuitque nomen filii ejus primogeniti Jol: et nomen secundi Abia, judicum in Bersabee."
+        },
+        {
+          "number": 3,
+          "text": "Et non ambulaverunt filii illius in viis ejus: sed declinaverunt post avaritiam, acceperuntque munera, et perverterunt judicium."
+        },
+        {
+          "number": 4,
+          "text": "Congregati ergo universi majores natu Isral, venerunt ad Samuelem in Ramatha."
+        },
+        {
+          "number": 5,
+          "text": "Dixeruntque ei: Ecce tu senuisti, et filii tui non ambulant in viis tuis: constitue nobis regem, ut judicet nos, sicut et univers habent nationes."
+        },
+        {
+          "number": 6,
+          "text": "Displicuit sermo in oculis Samuelis, eo quod dixissent: Da nobis regem, ut judicet nos. Et oravit Samuel ad Dominum."
+        },
+        {
+          "number": 7,
+          "text": "Dixit autem Dominus ad Samuelem: Audi vocem populi in omnibus qu loquuntur tibi: non enim te abjecerunt, sed me, ne regnem super eos."
+        },
+        {
+          "number": 8,
+          "text": "Juxta omnia opera sua qu fecerunt, a die qua eduxi eos de gypto usque ad diem hanc: sicut dereliquerunt me, et servierunt diis alienis, sic faciunt etiam tibi."
+        },
+        {
+          "number": 9,
+          "text": "Nunc ergo vocem eorum audi: verumtamen contestare eos, et prdic eis jus regis, qui regnaturus est super eos."
+        },
+        {
+          "number": 10,
+          "text": "Dixit itaque Samuel omnia verba Domini ad populum, qui petierat a se regem."
+        },
+        {
+          "number": 11,
+          "text": "Et ait: Hoc erit jus regis, qui imperaturus est vobis: filios vestros tollet, et ponet in curribus suis: facietque sibi equites et prcursores quadrigarum suarum,"
+        },
+        {
+          "number": 12,
+          "text": "et constituet sibi tribunos, et centuriones, et aratores agrorum suorum, et messores segetum, et fabros armorum et curruum suorum."
+        },
+        {
+          "number": 13,
+          "text": "Filias quoque vestras faciet sibi unguentarias, et focarias, et panificas."
+        },
+        {
+          "number": 14,
+          "text": "Agros quoque vestros, et vineas, et oliveta optima tollet, et dabit servis suis."
+        },
+        {
+          "number": 15,
+          "text": "Sed et segetes vestras et vinearum reditus addecimabit, ut det eunuchis et famulis suis."
+        },
+        {
+          "number": 16,
+          "text": "Servos etiam vestros, et ancillas, et juvenes optimos, et asinos, auferet, et ponet in opere suo."
+        },
+        {
+          "number": 17,
+          "text": "Greges quoque vestros addecimabit, vosque eritis ei servi."
+        },
+        {
+          "number": 18,
+          "text": "Et clamabitis in die illa a facie regis vestri, quem elegistis vobis: et non exaudiet vos Dominus in die illa, quia petistis vobis regem."
+        },
+        {
+          "number": 19,
+          "text": "Noluit autem populus audire vocem Samuelis, sed dixerunt: Nequaquam: rex enim erit super nos,"
+        },
+        {
+          "number": 20,
+          "text": "et erimus nos quoque sicut omnes gentes: et judicabit nos rex noster, et egredietur ante nos, et pugnabit bella nostra pro nobis."
+        },
+        {
+          "number": 21,
+          "text": "Et audivit Samuel omnia verba populi, et locutus est ea in auribus Domini."
+        },
+        {
+          "number": 22,
+          "text": "Dixit autem Dominus ad Samuelem: Audi vocem eorum, et constitue super eos regem. Et ait Samuel ad viros Isral: Vadat unusquisque in civitatem suam."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et erat vir de Benjamin nomine Cis, filius Abiel, filii Seror, filii Bechorath, filii Aphia, filii viri Jemini, fortis robore."
+        },
+        {
+          "number": 2,
+          "text": "Et erat ei filius vocabulo Saul, electus et bonus: et non erat vir de filiis Isral melior illo: ab humero et sursum eminebat super omnem populum."
+        },
+        {
+          "number": 3,
+          "text": "Perierant autem asin Cis patris Saul: et dixit Cis ad Saul filium suum: Tolle tecum unum de pueris, et consurgens vade, et qure asinas. Qui cum transissent per montem Ephraim"
+        },
+        {
+          "number": 4,
+          "text": "et per terram Salisa, et non invenissent, transierunt etiam per terram Salim, et non erant: sed et per terram Jemini, et minime repererunt."
+        },
+        {
+          "number": 5,
+          "text": "Cum autem venissent in terram Suph, dixit Saul ad puerum qui erat cum eo: Veni et revertamur, ne forte dimiserit pater meus asinas, et sollicitus sit pro nobis."
+        },
+        {
+          "number": 6,
+          "text": "Qui ait ei: Ecce vir Dei est in civitate hac, vir nobilis: omne quod loquitur, sine ambiguitate venit. Nunc ergo eamus illuc, si forte indicet nobis de via nostra, propter quam venimus."
+        },
+        {
+          "number": 7,
+          "text": "Dixitque Saul ad puerum suum: Ecce ibimus: quid feremus ad virum Dei? panis defecit in sitarciis nostris, et sportulam non habemus ut demus homini Dei, nec quidquam aliud."
+        },
+        {
+          "number": 8,
+          "text": "Rursum puer respondit Sauli, et ait: Ecce inventa est in manu mea quarta pars stateris argenti: demus homini Dei, ut indicet nobis viam nostram."
+        },
+        {
+          "number": 9,
+          "text": "(Olim in Isral sic loquebatur unusquisque vadens consulere Deum: Venite, et eamus ad videntem. Qui enim propheta dicitur hodie, vocabatur olim videns.)"
+        },
+        {
+          "number": 10,
+          "text": "Et dixit Saul ad puerum suum: Optimus sermo tuus. Veni, eamus. Et ierunt in civitatem in qua erat vir Dei."
+        },
+        {
+          "number": 11,
+          "text": "Cumque ascenderent clivum civitatis, invenerunt puellas egredientes ad hauriendam aquam, et dixerunt eis: Num hic est videns?"
+        },
+        {
+          "number": 12,
+          "text": "Qu respondentes, dixerunt illis: Hic est: ecce ante te, festina nunc: hodie enim venit in civitatem, quia sacrificium est hodie populi in excelso."
+        },
+        {
+          "number": 13,
+          "text": "Ingredientes urbem, statim invenietis eum antequam ascendat excelsum ad vescendum, neque enim comesurus est populus donec ille veniat: quia ipse benedicit hosti, et deinceps comedunt qui vocati sunt. Nunc ergo conscendite, quia hodie reperietis eum."
+        },
+        {
+          "number": 14,
+          "text": "Et ascenderunt in civitatem. Cumque illi ambularent in medio urbis, apparuit Samuel egrediens obviam eis, ut ascenderet in excelsum."
+        },
+        {
+          "number": 15,
+          "text": "Dominus autem revelaverat auriculam Samuelis ante unam diem quam veniret Saul, dicens:"
+        },
+        {
+          "number": 16,
+          "text": "Hac ipsa hora qu nunc est, cras mittam virum ad te de terra Benjaminm, et unges eum ducem super populum meum Isral: et salvabit populum meum de manu Philisthinorum, quia respexi populum meum: venit enim clamor eorum ad me."
+        },
+        {
+          "number": 17,
+          "text": "Cumque aspexisset Samuel Saulem, Dominus dixit ei: Ecce vir quem dixeram tibi: iste dominabitur populo meo."
+        },
+        {
+          "number": 18,
+          "text": "Accessit autem Saul ad Samuelem in medio port, et ait: Indica, oro, mihi, ubi est domus videntis."
+        },
+        {
+          "number": 19,
+          "text": "Et respondit Samuel Sauli, dicens: Ego sum videns: ascende ante me in excelsum, ut comedatis mecum hodie, et dimittam te mane: et omnia qu sunt in corde tuo indicabo tibi."
+        },
+        {
+          "number": 20,
+          "text": "Et de asinis quas nudiustertius perdidisti, ne sollicitus sis, quia invent sunt. Et cujus erunt optima quque Isral? nonne tibi et omni domui patris tui?"
+        },
+        {
+          "number": 21,
+          "text": "Respondens autem Saul, ait: Numquid non filius Jemini ego sum de minima tribu Isral, et cognatio mea novissima inter omnes familias de tribu Benjamin? quare ergo locutus est mihi sermonem istum?"
+        },
+        {
+          "number": 22,
+          "text": "Assumens itaque Samuel Saulem et puerum ejus, introduxit eos in triclinium, et dedit eis locum in capite eorum qui fuerant invitati: erant enim quasi triginta viri."
+        },
+        {
+          "number": 23,
+          "text": "Dixitque Samuel coco: Da partem quam dedi tibi, et prcepi ut reponeres seorsum apud te."
+        },
+        {
+          "number": 24,
+          "text": "Levavit autem cocus armum, et posuit ante Saul. Dixitque Samuel: Ecce quod remansit: pone ante te, et comede, quia de industria servatum est tibi quando populum vocavi. Et comedit Saul cum Samuele in die illa."
+        },
+        {
+          "number": 25,
+          "text": "Et descenderunt de excelso in oppidum, et locutus est cum Saule in solario: stravitque Saul in solario, et dormivit."
+        },
+        {
+          "number": 26,
+          "text": "Cumque mane surrexissent, et jam elucesceret, vocavit Samuel Saulem in solario, dicens: Surge, et dimittam te. Et surrexit Saul: egressique sunt ambo, ipse videlicet, et Samuel."
+        },
+        {
+          "number": 27,
+          "text": "Cumque descenderent in extrema parte civitatis, Samuel dixit ad Saul: Dic puero ut antecedat nos et transeat: tu autem subsiste paulisper, ut indicem tibi verbum Domini."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tulit autem Samuel lenticulam olei, et effudit super caput ejus: et deosculatus est eum, et ait: Ecce unxit te Dominus super hreditatem suam in principem, et liberabis populum suum de manibus inimicorum ejus qui in circuitu ejus sunt. Et hoc tibi signum, quia unxit te Deus in principem."
+        },
+        {
+          "number": 2,
+          "text": "Cum abieris hodie a me, invenies duos viros juxta sepulchrum Rachel in finibus Benjamin, in meridie: dicentque tibi: Invent sunt asin ad quas ieras perquirendas: et intermissis pater tuus asinis, sollicitus est pro vobis, et dicit: Quid faciam de filio meo?"
+        },
+        {
+          "number": 3,
+          "text": "Cumque abieris inde, et ultra transieris, et veneris ad quercum Thabor, invenient te ibi tres viri ascendentes ad Deum in Bethel, unus portans tres hdos, et alius tres tortas panis, et alius portans lagenam vini."
+        },
+        {
+          "number": 4,
+          "text": "Cumque te salutaverint, dabunt tibi duos panes, et accipies de manu eorum."
+        },
+        {
+          "number": 5,
+          "text": "Post hc venies in collem Dei, ubi est statio Philisthinorum: et cum ingressus fueris ibi urbem, obvium habebis gregem prophetarum descendentium de excelso, et ante eos psalterium, et tympanum, et tibiam, et citharam, ipsosque prophetantes."
+        },
+        {
+          "number": 6,
+          "text": "Et insiliet in te spiritus Domini, et prophetabis cum eis, et mutaberis in virum alium."
+        },
+        {
+          "number": 7,
+          "text": "Quando ergo evenerint signa hc omnia tibi, fac qucumque invenerit manus tua, quia Dominus tecum est."
+        },
+        {
+          "number": 8,
+          "text": "Et descendes ante me in Galgala (ego quippe descendam ad te), ut offeras oblationem, et immoles victimas pacificas: septem diebus expectabis, donec veniam ad te, et ostendam tibi quid facias."
+        },
+        {
+          "number": 9,
+          "text": "Itaque cum avertisset humerum suum ut abiret a Samuele, immutavit ei Deus cor aliud, et venerunt omnia signa hc in die illa."
+        },
+        {
+          "number": 10,
+          "text": "Veneruntque ad prdictum collem, et ecce cuneus prophetarum obvius ei: et insiluit super eum spiritus Domini, et prophetavit in medio eorum."
+        },
+        {
+          "number": 11,
+          "text": "Videntes autem omnes qui noverant eum heri et nudiustertius quod esset cum prophetis, et prophetaret, dixerunt ad invicem: Qunam res accidit filio Cis? num et Saul inter prophetas?"
+        },
+        {
+          "number": 12,
+          "text": "Responditque alius ad alterum, dicens: Et quis pater eorum? Propterea versum est in proverbium: Num et Saul inter prophetas?"
+        },
+        {
+          "number": 13,
+          "text": "Cessavit autem prophetare, et venit ad excelsum."
+        },
+        {
+          "number": 14,
+          "text": "Dixitque patruus Saul ad eum, et ad puerum ejus: Quo abistis? Qui responderunt: Qurere asinas: quas cum non reperissemus, venimus ad Samuelem."
+        },
+        {
+          "number": 15,
+          "text": "Et dixit ei patruus suus: Indica mihi quid dixerit tibi Samuel."
+        },
+        {
+          "number": 16,
+          "text": "Et ait Saul ad patruum suum: Indicavit nobis quia invent essent asin. De sermone autem regni non indicavit ei quem locutus fuerat ei Samuel."
+        },
+        {
+          "number": 17,
+          "text": "Et convocavit Samuel populum ad Dominum in Maspha:"
+        },
+        {
+          "number": 18,
+          "text": "et ait ad filios Isral: Hc dicit Dominus Deus Isral: Ego eduxi Isral de gypto, et erui vos de manu gyptiorum, et de manu omnium regum qui affligebant vos."
+        },
+        {
+          "number": 19,
+          "text": "Vos autem hodie projecistis Deum vestrum, qui solus salvavit vos de universis malis et tribulationibus vestris: et dixistis: Nequaquam: sed regem constitue super nos. Nunc ergo state coram Domino per tribus vestras, et per familias."
+        },
+        {
+          "number": 20,
+          "text": "Et applicuit Samuel omnes tribus Isral, et cecidit sors tribus Benjamin."
+        },
+        {
+          "number": 21,
+          "text": "Et applicuit tribum Benjamin et cognationes ejus, et cecidit cognatio Metri: et pervenit usque ad Saul filium Cis. Qusierunt ergo eum, et non est inventus."
+        },
+        {
+          "number": 22,
+          "text": "Et consuluerunt post hc Dominum utrumnam venturus esset illuc. Responditque Dominus: Ecce absconditus est domi."
+        },
+        {
+          "number": 23,
+          "text": "Cucurrerunt itaque et tulerunt eum inde: stetitque in medio populi, et altior fuit universo populo ab humero et sursum."
+        },
+        {
+          "number": 24,
+          "text": "Et ait Samuel ad omnem populum: Certe videtis quem elegit Dominus, quoniam non sit similis illi in omni populo. Et clamavit omnis populus, et ait: Vivat rex."
+        },
+        {
+          "number": 25,
+          "text": "Locutus est autem Samuel ad populum legem regni, et scripsit in libro, et reposuit coram Domino: et dimisit Samuel omnem populum, singulos in domum suam."
+        },
+        {
+          "number": 26,
+          "text": "Sed et Saul abiit in domum suam in Gabaa: et abiit cum eo pars exercitus, quorum tetigerat Deus corda."
+        },
+        {
+          "number": 27,
+          "text": "Filii vero Belial dixerunt: Num salvare nos poterit iste? Et despexerunt eum, et non attulerunt ei munera: ille vero dissimulabat se audire."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et factum est quasi post mensem, ascendit Naas Ammonites, et pugnare cpit adversum Jabes Galaad. Dixeruntque omnes viri Jabes ad Naas: Habeto nos fderatos, et serviemus tibi."
+        },
+        {
+          "number": 2,
+          "text": "Et respondit ad eos Naas Ammonites: In hoc feriam vobiscum fdus, ut eruam omnium vestrum oculos dextros, ponamque vos opprobrium in universo Isral."
+        },
+        {
+          "number": 3,
+          "text": "Et dixerunt ad eum seniores Jabes: Concede nobis septem dies, ut mittamus nuntios ad universos terminos Isral, et si non fuerit qui defendat nos, egrediemur ad te."
+        },
+        {
+          "number": 4,
+          "text": "Venerunt ergo nuntii in Gabaa Saulis: et locuti sunt verba hc, audiente populo: et levavit omnis populus vocem suam, et flevit."
+        },
+        {
+          "number": 5,
+          "text": "Et ecce Saul veniebat, sequens boves de agro, et ait: Quid habet populus quod plorat? Et narraverunt ei verba virorum Jabes."
+        },
+        {
+          "number": 6,
+          "text": "Et insilivit spiritus Domini in Saul cum audisset verba hc, et iratus est furor ejus nimis."
+        },
+        {
+          "number": 7,
+          "text": "Et assumens utrumque bovem, concidit in frustra, misitque in omnes terminos Isral per manum nuntiorum, dicens: Quicumque non exierit, et secutus fuerit Saul et Samuel, sic fiet bobus ejus. Invasit ergo timor Domini populum, et egressi sunt quasi vir unus."
+        },
+        {
+          "number": 8,
+          "text": "Et recensuit eos in Bezech: fueruntque filiorum Isral trecenta millia, virorum autem Juda triginta millia."
+        },
+        {
+          "number": 9,
+          "text": "Et dixerunt nuntiis qui venerant: Sic dicetis viris qui sunt in Jabes Galaad: Cras erit vobis salus, cum incaluerit sol. Venerunt ergo nuntii, et annuntiaverunt viris Jabes: qui ltati sunt."
+        },
+        {
+          "number": 10,
+          "text": "Et dixerunt: Mane exibimus ad vos: et facietis nobis omne quod placuerit vobis."
+        },
+        {
+          "number": 11,
+          "text": "Et factum est, cum dies crastinus venisset, constituit Saul populum in tres partes: et ingressus est media castra in vigilia matutina, et percussit Ammon usque dum incalesceret dies: reliqui autem dispersi sunt, ita ut non relinquerentur in eis duo pariter."
+        },
+        {
+          "number": 12,
+          "text": "Et ait populus ad Samuelem: Quis est iste qui dixit: Saul num regnabit super nos? Date viros, et interficiemus eos."
+        },
+        {
+          "number": 13,
+          "text": "Et ait Saul: Non occidetur quisquam in die hac, quia hodie fecit Dominus salutem in Isral."
+        },
+        {
+          "number": 14,
+          "text": "Dixit autem Samuel ad populum: Venite, et eamus in Galgala, et innovemus ibi regnum."
+        },
+        {
+          "number": 15,
+          "text": "Et perrexit omnis populus in Galgala, et fecerunt ibi regem Saul coram Domino in Galgala, et immolaverunt ibi victimas pacificas coram Domino. Et ltatus est ibi Saul, et cuncti viri Isral nimis."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dixit autem Samuel ad universum Isral: Ecce audivi vocem vestram juxta omnia qu locuti estis ad me, et constitui super vos regem."
+        },
+        {
+          "number": 2,
+          "text": "Et nunc rex graditur ante vos: ego autem senui, et incanui: porro filii mei vobiscum sunt: itaque conversatus coram vobis ab adolescentia mea usque ad hanc diem, ecce prsto sum."
+        },
+        {
+          "number": 3,
+          "text": "Loquimini de me coram Domino, et coram christo ejus, utrum bovem cujusquam tulerim, aut asinum: si quempiam calumniatus sum, si oppressi aliquem, si de manu cujusquam munus accepi: et contemnam illud hodie, restituamque vobis."
+        },
+        {
+          "number": 4,
+          "text": "Et dixerunt: Non es calumniatus nos, neque oppressisti, neque tulisti de manu alicujus quippiam."
+        },
+        {
+          "number": 5,
+          "text": "Dixitque ad eos: Testis est Dominus adversum vos, et testis christus ejus in die hac, quia non inveneritis in manu mea quippiam. Et dixerunt: Testis."
+        },
+        {
+          "number": 6,
+          "text": "Et ait Samuel ad populum: Dominus, qui fecit Moysen et Aaron, et eduxit patres nostros de terra gypti."
+        },
+        {
+          "number": 7,
+          "text": "Nunc ergo state, ut judicio contendam adversum vos coram Domino de omnibus misericordiis Domini quas fecit vobiscum et cum patribus vestris:"
+        },
+        {
+          "number": 8,
+          "text": "quomodo Jacob ingressus est in gyptum, et clamaverunt patres vestri ad Dominum: et misit Dominus Moysen et Aaron, et eduxit patres vestros de gypto, et collocavit eos in loco hoc."
+        },
+        {
+          "number": 9,
+          "text": "Qui obliti sunt Domini Dei sui, et tradidit eos in manu Sisar magistri militi Hasor, et in manu Philisthinorum, et in manu regis Moab: et pugnaverunt adversum eos."
+        },
+        {
+          "number": 10,
+          "text": "Postea autem clamaverunt ad Dominum, et dixerunt: Peccavimus, quia dereliquimus Dominum, et servivimus Baalim et Astaroth: nunc ergo erue nos de manu inimicorum nostrorum, et serviemus tibi."
+        },
+        {
+          "number": 11,
+          "text": "Et misit Dominus Jerobaal, et Badan, et Jephte, et Samuel, et eruit vos de manu inimicorum vestrorum per circuitum, et habitastis confidenter."
+        },
+        {
+          "number": 12,
+          "text": "Videntes autem quod Naas rex filiorum Ammon venisset adversum vos, dixistis mihi: Nequaquam, sed rex imperabit nobis: cum Dominus Deus vester regnaret in vobis."
+        },
+        {
+          "number": 13,
+          "text": "Nunc ergo prsto est rex vester, quem elegistis et petistis: ecce dedit vobis Dominus regem."
+        },
+        {
+          "number": 14,
+          "text": "Si timueritis Dominum, et servieritis ei, et audieritis vocem ejus, et non exasperaveritis os Domini, eritis et vos, et rex qui imperat vobis, sequentes Dominum Deum vestrum:"
+        },
+        {
+          "number": 15,
+          "text": "si autem non audieritis vocem Domini, sed exasperaveritis sermones ejus, erit manus Domini super vos, et super patres vestros."
+        },
+        {
+          "number": 16,
+          "text": "Sed et nunc state, et videte rem istam grandem quam facturus est Dominus in conspectu vestro."
+        },
+        {
+          "number": 17,
+          "text": "Numquid non messis tritici est hodie? invocabo Dominum, et dabit voces et pluvias: et scietis, et videbitis, quia grande malum feceritis vobis in conspectu Domini, petentes super vos regem."
+        },
+        {
+          "number": 18,
+          "text": "Et clamavit Samuel ad Dominum, et dedit Dominus voces et pluvias in illa die."
+        },
+        {
+          "number": 19,
+          "text": "Et timuit omnis populus nimis Dominum et Samuelem, et dixit universus populus ad Samuelem: Ora pro servis tuis ad Dominum Deum tuum, ut non moriamur: addidimus enim universis peccatis nostris malum, ut peteremus nobis regem."
+        },
+        {
+          "number": 20,
+          "text": "Dixit autem Samuel ad populum: Nolite timere: vos fecistis universum malum hoc, verumtamen nolite recedere a tergo Domini, sed servite Domino in omni corde vestro."
+        },
+        {
+          "number": 21,
+          "text": "Et nolite declinare post vana, qu non proderunt vobis, neque eruent vos, quia vana sunt."
+        },
+        {
+          "number": 22,
+          "text": "Et non derelinquet Dominus populum suum propter nomen suum magnum: quia juravit Dominus facere vos sibi populum."
+        },
+        {
+          "number": 23,
+          "text": "Absit autem a me hoc peccatum in Dominum, ut cessem orare pro vobis, et docebo vos viam bonam et rectam."
+        },
+        {
+          "number": 24,
+          "text": "Igitur timete Dominum, et servite ei in veritate, et ex toto corde vestro: vidistis enim magnifica qu in vobis gesserit."
+        },
+        {
+          "number": 25,
+          "text": "Quod si perseveraveritis in malitia, et vos et rex vester pariter peribitis."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Filius unius anni erat Saul cum regnare cpisset: duobus autem annis regnavit super Isral."
+        },
+        {
+          "number": 2,
+          "text": "Et elegit sibi Saul tria millia de Isral: et erant cum Saul duo millia in Machmas, et in monte Bethel: mille autem cum Jonatha in Gabaa Benjamin: porro ceterum populum remisit unumquemque in tabernacula sua."
+        },
+        {
+          "number": 3,
+          "text": "Et percussit Jonathas stationem Philisthinorum qu erat in Gabaa. Quod cum audissent Philisthiim, Saul cecinit buccina in omni terra, dicens: Audiant Hebri."
+        },
+        {
+          "number": 4,
+          "text": "Et universus Isral audivit hujuscemodi famam: Percussit Saul stationem Philisthinorum, et erexit se Isral adversus Philisthiim. Clamavit ergo populus post Saul in Galgala."
+        },
+        {
+          "number": 5,
+          "text": "Et Philisthiim congregati sunt ad prliandum contra Isral, triginta millia curruum, et sex millia equitum, et reliquum vulgus, sicut arena qu est in littore maris plurima. Et ascendentes castrametati sunt in Machmas ad orientem Bethaven."
+        },
+        {
+          "number": 6,
+          "text": "Quod cum vidissent viri Isral se in arcto positos (afflictus enim erat populus), absconderunt se in speluncis, et in abditis, in petris quoque, et in antris, et in cisternis."
+        },
+        {
+          "number": 7,
+          "text": "Hebri autem transierunt Jordanem in terram Gad et Galaad. Cumque adhuc esset Saul in Galgala, universus populus perterritus est qui sequebatur eum."
+        },
+        {
+          "number": 8,
+          "text": "Et expectavit septem diebus juxta placitum Samuelis, et non venit Samuel in Galgala, dilapsusque est populus ab eo."
+        },
+        {
+          "number": 9,
+          "text": "Ait ergo Saul: Afferte mihi holocaustum et pacifica. Et obtulit holocaustum."
+        },
+        {
+          "number": 10,
+          "text": "Cumque complesset offerens holocaustum, ecce Samuel veniebat: et egressus est Saul obviam ei ut salutaret eum."
+        },
+        {
+          "number": 11,
+          "text": "Locutusque est ad eum Samuel: Quid fecisti? Respondit Saul: Quia vidi quod populus dilaberetur a me, et tu non veneras juxta placitos dies, porro Philisthiim congregati fuerant in Machmas,"
+        },
+        {
+          "number": 12,
+          "text": "dixi: Nunc descendent Philisthiim ad me in Galgala, et faciem Domini non placavi. Necessitate compulsus, obtuli holocaustum."
+        },
+        {
+          "number": 13,
+          "text": "Dixitque Samuel ad Saul: Stulte egisti, nec custodisti mandata Domini Dei tui qu prcepit tibi. Quod si non fecisses, jam nunc prparasset Dominus regnum tuum super Isral in sempiternum:"
+        },
+        {
+          "number": 14,
+          "text": "sed nequaquam regnum tuum ultra consurget. Qusivit Dominus sibi virum juxta cor suum: et prcepit ei Dominus ut esset dux super populum suum, eo quod non servaveris qu prcepit Dominus."
+        },
+        {
+          "number": 15,
+          "text": "Surrexit autem Samuel, et ascendit de Galgalis in Gabaa Benjamin. Et reliqui populi ascenderunt post Saul obviam populo, qui expugnabant eos venientes de Galgala in Gabaa, in colle Benjamin. Et recensuit Saul populum qui inventi fuerant cum eo, quasi sexcentos viros."
+        },
+        {
+          "number": 16,
+          "text": "Et Saul et Jonathas filius ejus, populusque qui inventus fuerat cum eis, erat in Gabaa Benjamin: porro Philisthiim consederant in Machmas."
+        },
+        {
+          "number": 17,
+          "text": "Et egressi sunt ad prdandum de castris Philisthinorum tres cunei. Unus cuneus pergebat contra viam Ephra ad terram Sual:"
+        },
+        {
+          "number": 18,
+          "text": "porro alius ingrediebatur per viam Beth-horon: tertius autem verterat se ad iter termini imminentis valli Seboim contra desertum."
+        },
+        {
+          "number": 19,
+          "text": "Porro faber ferrarius non inveniebatur in omni terra Isral: caverant enim Philisthiim, ne forte facerent Hebri gladium aut lanceam."
+        },
+        {
+          "number": 20,
+          "text": "Descendebat ergo omnis Isral ad Philisthiim, ut exacueret unusquisque vomerem suum, et ligonem, et securim, et sarculum."
+        },
+        {
+          "number": 21,
+          "text": "Retus itaque erant acies vomerum, et ligonum, et tridentum, et securium, usque ad stimulum corrigendum."
+        },
+        {
+          "number": 22,
+          "text": "Cumque venisset dies prlii, non est inventus ensis et lancea in manu totius populi qui erat cum Saule et Jonatha, excepto Saul et Jonatha filio ejus."
+        },
+        {
+          "number": 23,
+          "text": "Egressa est autem statio Philisthiim, ut transcenderet in Machmas."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et accidit quadam die ut diceret Jonathas filius Saul ad adolescentem armigerum suum: Veni, et transeamus ad stationem Philisthinorum, qu est trans locum illum. Patri autem suo hoc ipsum non indicavit."
+        },
+        {
+          "number": 2,
+          "text": "Porro Saul morabatur in extrema parte Gabaa sub malogranato, qu erat in Magron: et erat populus cum eo quasi sexcentorum virorum."
+        },
+        {
+          "number": 3,
+          "text": "Et Achias filius Achitob fratris Ichabod filii Phinees, qui ortus fuerat ex Heli sacerdote Domini in Silo, portabat ephod. Sed et populus ignorabat quo isset Jonathas."
+        },
+        {
+          "number": 4,
+          "text": "Erant autem inter ascensus per quos nitebatur Jonathas transire ad stationem Philisthinorum, eminentes petr ex utraque parte, et quasi in modum dentium scopuli hinc et inde prrupti: nomen uni Boses, et nomen alteri Sene:"
+        },
+        {
+          "number": 5,
+          "text": "unus scopulus prominens ad aquilonem ex adverso Machmas, et alter ad meridiem contra Gabaa."
+        },
+        {
+          "number": 6,
+          "text": "Dixit autem Jonathas ad adolescentem armigerum suum: Veni, transeamus ad stationem incircumcisorum horum, si forte faciat Dominus pro nobis: quia non est Domino difficile salvare, vel in multis, vel in paucis."
+        },
+        {
+          "number": 7,
+          "text": "Dixitque ei armiger suus: Fac omnia qu placent animo tuo: perge quo cupis, et ero tecum ubicumque volueris."
+        },
+        {
+          "number": 8,
+          "text": "Et ait Jonathas: Ecce nos transimus ad viros istos. Cumque apparuerimus eis,"
+        },
+        {
+          "number": 9,
+          "text": "si taliter locuti fuerint ad nos: Manete donec veniamus ad vos: stemus in loco nostro, nec ascendamus ad eos."
+        },
+        {
+          "number": 10,
+          "text": "Si autem dixerint: Ascendite ad nos: ascendamus, quia tradidit eos Dominus in manibus nostris: hoc erit nobis signum."
+        },
+        {
+          "number": 11,
+          "text": "Apparuit igitur uterque stationi Philisthinorum: dixeruntque Philisthiim: En Hebri egrediuntur de cavernis in quibus absconditi fuerant."
+        },
+        {
+          "number": 12,
+          "text": "Et locuti sunt viri de statione ad Jonathan et ad armigerum ejus, dixeruntque: Ascendite ad nos, et ostendemus vobis rem. Et ait Jonathas ad armigerum suum: Ascendamus: sequere me: tradidit enim Dominus eos in manus Isral."
+        },
+        {
+          "number": 13,
+          "text": "Ascendit autem Jonathas manibus et pedibus reptans, et armiger ejus post eum. Itaque alii cadebant ante Jonathan, alios armiger ejus interficiebat sequens eum."
+        },
+        {
+          "number": 14,
+          "text": "Et facta est plaga prima qua percussit Jonathas et armiger ejus, quasi viginti virorum in media parte jugeri quam par boum in die arare consuevit."
+        },
+        {
+          "number": 15,
+          "text": "Et factum est miraculum in castris per agros: sed et omnis populus stationis eorum qui ierant ad prdandum, obstupuit, et conturbata est terra: et accidit quasi miraculum a Deo."
+        },
+        {
+          "number": 16,
+          "text": "Et respexerunt speculatores Saul qui erant in Gabaa Benjamin, et ecce multitudo prostrata, et huc illucque diffugiens."
+        },
+        {
+          "number": 17,
+          "text": "Et ait Saul populo qui erat cum eo: Requirite, et videte quis abierit ex nobis. Cumque requisissent, repertum est non adesse Jonathan et armigerum ejus."
+        },
+        {
+          "number": 18,
+          "text": "Et ait Saul ad Achiam: Applica arcam Dei. (Erat enim ibi arca Dei in die illa cum filiis Isral.)"
+        },
+        {
+          "number": 19,
+          "text": "Cumque loqueretur Saul ad sacerdotem, tumultus magnus exortus est in castris Philisthinorum: crescebatque paulatim, et clarius resonabat. Et ait Saul ad sacerdotem: Contrahe manum tuam."
+        },
+        {
+          "number": 20,
+          "text": "Conclamavit ergo Saul, et omnis populus qui erat cum eo, et venerunt usque ad locum certaminis: et ecce versus fuerat gladius uniuscujusque ad proximum suum, et cdes magna nimis."
+        },
+        {
+          "number": 21,
+          "text": "Sed et Hebri qui fuerant cum Philisthiim heri et nudiustertius, ascenderantque cum eis in castris, reversi sunt ut essent cum Isral qui erant cum Saul et Jonatha."
+        },
+        {
+          "number": 22,
+          "text": "Omnes quoque Isralit qui se absconderant in monte Ephraim, audientes quod fugissent Philisthi, sociaverunt se cum suis in prlio. Et erant cum Saul quasi decem millia virorum."
+        },
+        {
+          "number": 23,
+          "text": "Et salvavit Dominus in die illa Isral: pugna autem pervenit usque ad Bethaven."
+        },
+        {
+          "number": 24,
+          "text": "Et viri Isral sociati sunt sibi in die illa: adjuravit autem Saul populum, dicens: Maledictus vir qui comederit panem usque ad vesperam, donec ulciscar de inimicis meis. Et non manducavit universus populus panem:"
+        },
+        {
+          "number": 25,
+          "text": "omneque terr vulgus venit in saltum, in quo erat mel super faciem agri."
+        },
+        {
+          "number": 26,
+          "text": "Ingressus est itaque populus saltum, et apparuit fluens mel, nullusque applicuit manum ad os suum: timebat enim populus juramentum."
+        },
+        {
+          "number": 27,
+          "text": "Porro Jonathas non audierat cum adjuraret pater ejus populum: extenditque summitatem virg quam habebat in manu, et intinxit in favum mellis: et convertit manum suam ad os suum, et illuminati sunt oculi ejus."
+        },
+        {
+          "number": 28,
+          "text": "Respondensque unus de populo, ait: Jurejurando constrinxit pater tuus populum, dicens: Maledictus vir qui comederit panem hodie. (Defecerat autem populus.)"
+        },
+        {
+          "number": 29,
+          "text": "Dixitque Jonathas: Turbavit pater meus terram: vidistis ipsi quia illuminati sunt oculi mei, eo quod gustaverim paululum de melle isto:"
+        },
+        {
+          "number": 30,
+          "text": "quanto magis si comedisset populus de prda inimicorum suorum, quam reperit? nonne major plaga facta fuisset in Philisthiim?"
+        },
+        {
+          "number": 31,
+          "text": "Percusserunt ergo in die illa Philisthos a Machmis usque in Ajalon. Defatigatus est autem populus nimis:"
+        },
+        {
+          "number": 32,
+          "text": "et versus ad prdam tulit oves, et boves, et vitulos, et mactaverunt in terra: comeditque populus cum sanguine."
+        },
+        {
+          "number": 33,
+          "text": "Nuntiaverunt autem Sauli dicentes quod populus peccasset Domino, comedens cum sanguine. Qui ait: Prvaricati estis: volvite ad me jam nunc saxum grande."
+        },
+        {
+          "number": 34,
+          "text": "Et dixit Saul: Dispergimini in vulgus, et dicite eis ut adducat ad me unusquisque bovem suum et arietem, et occidite super istud, et vescimini, et non peccabitis Domino comedentes cum sanguine. Adduxit itaque omnis populus unusquisque bovem in manu sua usque ad noctem: et occiderunt ibi."
+        },
+        {
+          "number": 35,
+          "text": "dificavit autem Saul altare Domino, tuncque primum cpit dificare altare Domino."
+        },
+        {
+          "number": 36,
+          "text": "Et dixit Saul: Irruamus super Philisthos nocte, et vastemus eos usque dum illucescat mane, nec relinquamus ex eis virum. Dixitque populus: Omne quod bonum videtur in oculis tuis, fac. Et ait sacerdos: Accedamus huc ad Deum."
+        },
+        {
+          "number": 37,
+          "text": "Et consuluit Saul Dominum: Num persequar Philisthiim? si trades eos in manus Isral? Et non respondit ei in die illa."
+        },
+        {
+          "number": 38,
+          "text": "Dixitque Saul: Applicate huc universos angulos populi: et scitote, et videte per quem acciderit peccatum hoc hodie."
+        },
+        {
+          "number": 39,
+          "text": "Vivit Dominus salvator Isral, quia si per Jonathan filium meum factum est, absque retractione morietur. Ad quod nullus contradixit ei de omni populo."
+        },
+        {
+          "number": 40,
+          "text": "Et ait ad universum Isral: Separamini vos in partem unam, et ego cum Jonatha filio meo ero in parte altera. Responditque populus ad Saul: Quod bonum videtur in oculis tuis, fac."
+        },
+        {
+          "number": 41,
+          "text": "Et dixit Saul ad Dominum Deum Isral: Domine Deus Isral, da indicium: quid est quod non responderis servo tuo hodie? si in me, aut in Jonatha filio meo, est iniquitas hc, da ostensionem: aut si hc iniquitas est in populo tuo, da sanctitatem. Et deprehensus est Jonathas et Saul: populus autem exivit."
+        },
+        {
+          "number": 42,
+          "text": "Et ait Saul: Mittite sortem inter me et inter Jonathan filium meum. Et captus est Jonathas."
+        },
+        {
+          "number": 43,
+          "text": "Dixit autem Saul ad Jonathan: Indica mihi quid feceris. Et indicavit ei Jonathas, et ait: Gustans gustavi in summitate virg qu erat in manu mea, paululum mellis, et ecce ego morior."
+        },
+        {
+          "number": 44,
+          "text": "Et ait Saul: Hc faciat mihi Deus, et hc addat, quia morte morieris, Jonatha."
+        },
+        {
+          "number": 45,
+          "text": "Dixitque populus ad Saul: Ergone Jonathas morietur, qui fecit salutem hanc magnam in Isral? hoc nefas est: vivit Dominus, si ceciderit capillus de capite ejus in terram, quia cum Deo operatus est hodie. Liberavit ergo populus Jonathan, ut non moreretur."
+        },
+        {
+          "number": 46,
+          "text": "Recessitque Saul, nec persecutus est Philisthiim: porro Philisthiim abierunt in loca sua."
+        },
+        {
+          "number": 47,
+          "text": "Et Saul, confirmato regno super Isral, pugnabat per circuitum adversum omnes inimicos ejus, contra Moab, et filios Ammon, et Edom, et reges Soba, et Philisthos: et quocumque se verterat, superabat."
+        },
+        {
+          "number": 48,
+          "text": "Congregatoque exercitu, percussit Amalec, et eruit Isral de manu vastatorum ejus."
+        },
+        {
+          "number": 49,
+          "text": "Fuerunt autem filii Saul, Jonathas, et Jessui, et Melchisua: et nomina duarum filiarum ejus, nomen primogenit Merob, et nomen minoris Michol."
+        },
+        {
+          "number": 50,
+          "text": "Et nomen uxoris Saul Achinoam filia Achimaas: et nomen principis militi ejus Abner filius Ner, patruelis Saul."
+        },
+        {
+          "number": 51,
+          "text": "Porro Cis fuit pater Saul, et Ner pater Abner, filius Abiel."
+        },
+        {
+          "number": 52,
+          "text": "Erat autem bellum potens adversum Philisthos omnibus diebus Saul. Nam quemcumque viderat Saul virum fortem, et aptum ad prlium, sociabat eum sibi."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et dixit Samuel ad Saul: Me misit Dominus ut ungerem te in regem super populum ejus Isral: nunc ergo audi vocem Domini."
+        },
+        {
+          "number": 2,
+          "text": "Hc dicit Dominus exercituum: Recensui qucumque fecit Amalec Israli: quomodo restitit ei in via cum ascenderet de gypto."
+        },
+        {
+          "number": 3,
+          "text": "Nunc ergo vade, et percute Amalec, et demolire universa ejus: non parcas ei, et non concupiscas ex rebus ipsius aliquid, sed interfice a viro usque ad mulierem, et parvulum atque lactentem, bovem et ovem, camelum et asinum."
+        },
+        {
+          "number": 4,
+          "text": "Prcepit itaque Saul populo, et recensuit eos quasi agnos: ducenta millia peditum, et decem millia virorum Juda."
+        },
+        {
+          "number": 5,
+          "text": "Cumque venisset Saul usque ad civitatem Amalec, tetendit insidias in torrente."
+        },
+        {
+          "number": 6,
+          "text": "Dixitque Saul Cino: Abite, recedite, atque descendite ab Amalec, ne forte involvam te cum eo: tu enim fecisti misericordiam cum omnibus filiis Isral, cum ascenderent de gypto. Et recessit Cinus de medio Amalec."
+        },
+        {
+          "number": 7,
+          "text": "Percussitque Saul Amalec ab Hevila donec venias ad Sur, qu est e regione gypti."
+        },
+        {
+          "number": 8,
+          "text": "Et apprehendit Agag regem Amalec vivum: omne autem vulgus interfecit in ore gladii."
+        },
+        {
+          "number": 9,
+          "text": "Et pepercit Saul et populus Agag, et optimis gregibus ovium et armentorum, et vestibus et arietibus, et universis qu pulchra erant, nec voluerunt disperdere ea: quidquid vero vile fuit et reprobum, hoc demoliti sunt."
+        },
+        {
+          "number": 10,
+          "text": "Factum est autem verbum Domini ad Samuel, dicens:"
+        },
+        {
+          "number": 11,
+          "text": "Pnitet me quod constituerim Saul regem: quia dereliquit me, et verba mea opere non implevit. Contristatusque est Samuel, et clamavit ad Dominum tota nocte."
+        },
+        {
+          "number": 12,
+          "text": "Cumque de nocte surrexisset Samuel ut iret ad Saul mane, nuntiatum est Samueli eo quod venisset Saul in Carmelum, et erexisset sibi fornicem triumphalem, et reversus transisset, descendissetque in Galgala. Venit ergo Samuel ad Saul, et Saul offerebat holocaustum Domino de initiis prdarum qu attulerat ex Amalec."
+        },
+        {
+          "number": 13,
+          "text": "Et cum venisset Samuel ad Saul, dixit ei Saul: Benedictus tu Domino: implevi verbum Domini."
+        },
+        {
+          "number": 14,
+          "text": "Dixitque Samuel: Et qu est hc vox gregum, qu resonat in auribus meis, et armentorum, quam ego audio?"
+        },
+        {
+          "number": 15,
+          "text": "Et ait Saul: De Amalec adduxerunt ea: pepercit enim populus melioribus ovibus et armentis ut immolarentur Domino Deo tuo, reliqua vero occidimus."
+        },
+        {
+          "number": 16,
+          "text": "Ait autem Samuel ad Saul: Sine me, et indicabo tibi qu locutus sit Dominus ad me nocte. Dixitque ei: Loquere."
+        },
+        {
+          "number": 17,
+          "text": "Et ait Samuel: Nonne cum parvulus esses in oculis tuis, caput in tribubus Isral factus es? unxitque te Dominus in regem super Isral,"
+        },
+        {
+          "number": 18,
+          "text": "et misit te Dominus in viam, et ait: Vade, et interfice peccatores Amalec, et pugnabis contra eos usque ad internecionem eorum?"
+        },
+        {
+          "number": 19,
+          "text": "Quare ergo non audisti vocem Domini: sed versus ad prdam es, et fecisti malum in oculis Domini?"
+        },
+        {
+          "number": 20,
+          "text": "Et ait Saul ad Samuelem: Immo audivi vocem Domini, et ambulavi in via per quam misit me Dominus, et adduxi Agag regem Amalec, et Amalec interfeci."
+        },
+        {
+          "number": 21,
+          "text": "Tulit autem de prda populus oves et boves, primitias eorum qu csa sunt, ut immolet Domino Deo suo in Galgalis."
+        },
+        {
+          "number": 22,
+          "text": "Et ait Samuel: Numquid vult Dominus holocausta et victimas, et non potius ut obediatur voci Domini? melior est enim obedientia quam victim, et auscultare magis quam offerre adipem arietum."
+        },
+        {
+          "number": 23,
+          "text": "Quoniam quasi peccatum ariolandi est, repugnare: et quasi scelus idololatri, nole acquiescere. Pro eo ergo quod abjecisti sermonem Domini, abjecit te Dominus ne sis rex."
+        },
+        {
+          "number": 24,
+          "text": "Dixitque Saul ad Samuelem: Peccavi, quia prvaricatus sum sermonem Domini et verba tua, timens populum, et obediens voci eorum."
+        },
+        {
+          "number": 25,
+          "text": "Sed nunc porta, quso, peccatum meum, et revertere mecum, ut adorem Dominum."
+        },
+        {
+          "number": 26,
+          "text": "Et ait Samuel ad Saul: Non revertar tecum, quia projecisti sermonem Domini, et projecit te Dominus ne sis rex super Isral."
+        },
+        {
+          "number": 27,
+          "text": "Et conversus est Samuel ut abiret: ille autem apprehendit summitatem pallii ejus, qu et scissa est."
+        },
+        {
+          "number": 28,
+          "text": "Et ait ad eum Samuel: Scidit Dominus regnum Isral a te hodie, et tradidit illud proximo tuo meliori te."
+        },
+        {
+          "number": 29,
+          "text": "Porro triumphator in Isral non parcet, et pnitudine non flectetur: neque enim homo est ut agat pnitentiam."
+        },
+        {
+          "number": 30,
+          "text": "At ille ait: Peccavi: sed nunc honora me coram senioribus populi mei et coram Isral, et revertere mecum, ut adorem Dominum Deum tuum."
+        },
+        {
+          "number": 31,
+          "text": "Reversus ergo Samuel secutus est Saulem: et adoravit Saul Dominum."
+        },
+        {
+          "number": 32,
+          "text": "Dixitque Samuel: Adducite ad me Agag regem Amalec. Et oblatus est ei Agag, pinguissimus et tremens. Et dixit Agag: Siccine separat amara mors?"
+        },
+        {
+          "number": 33,
+          "text": "Et ait Samuel: Sicut fecit absque liberis mulieres gladius tuus, sic absque liberis erit inter mulieres mater tua. Et in frustra concidit eum Samuel coram Domino in Galgalis."
+        },
+        {
+          "number": 34,
+          "text": "Abiit autem Samuel in Ramatha: Saul vero ascendit in domum suam in Gabaa."
+        },
+        {
+          "number": 35,
+          "text": "Et non vidit Samuel ultra Saul usque ad diem mortis su: verumtamen lugebat Samuel Saulem, quoniam Dominum pnitebat quod constituisset eum regem super Isral."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dixitque Dominus ad Samuelem: Usquequo tu luges Saul, cum ego projecerim eum ne regnet super Isral? Imple cornu tuum oleo, et veni, ut mittam te ad Isai Bethlehemitem: providi enim in filiis ejus mihi regem."
+        },
+        {
+          "number": 2,
+          "text": "Et ait Samuel: Quomodo vadam? audiet enim Saul, et interficiet me. Et ait Dominus: Vitulum de armento tolles in manu tua, et dices: Ad immolandum Domino veni."
+        },
+        {
+          "number": 3,
+          "text": "Et vocabis Isai ad victimam, et ego ostendam tibi quid facias, et unges quemcumque monstravero tibi."
+        },
+        {
+          "number": 4,
+          "text": "Fecit ergo Samuel sicut locutus est ei Dominus. Venitque in Bethlehem, et admirati sunt seniores civitatis occurrentes ei: dixeruntque: Pacificusne est ingressus tuus?"
+        },
+        {
+          "number": 5,
+          "text": "Et ait: Pacificus: ad immolandum Domino veni: sanctificamini, et venite mecum ut immolem. Sanctificavit ergo Isai et filios ejus, et vocavit eos ad sacrificium."
+        },
+        {
+          "number": 6,
+          "text": "Cumque ingressi essent, vidit Eliab, et ait: Num coram Domino est christus ejus?"
+        },
+        {
+          "number": 7,
+          "text": "Et dixit Dominus ad Samuelem: Ne respicias vultum ejus, neque altitudinem statur ejus: quoniam abjeci eum, nec juxta intuitum hominis ego judico: homo enim videt ea qu parent, Dominus autem intuetur cor."
+        },
+        {
+          "number": 8,
+          "text": "Et vocavit Isai Abinadab, et adduxit eum coram Samuele. Qui dixit: Nec hunc elegit Dominus."
+        },
+        {
+          "number": 9,
+          "text": "Adduxit autem Isai Samma, de quo ait: Etiam hunc non elegit Dominus."
+        },
+        {
+          "number": 10,
+          "text": "Adduxit itaque Isai septem filios suos coram Samuele: et ait Samuel ad Isai: Non elegit Dominus ex istis."
+        },
+        {
+          "number": 11,
+          "text": "Dixitque Samuel ad Isai: Numquid jam completi sunt filii? Qui respondit: Adhuc reliquus est parvulus, et pascit oves. Et ait Samuel ad Isai: Mitte, et adduc eum: nec enim discumbemus priusquam huc ille veniat."
+        },
+        {
+          "number": 12,
+          "text": "Misit ergo, et adduxit eum. Erat autem rufus, et pulcher aspectu, decoraque facie: et ait Dominus: Surge, unge eum: ipse est enim."
+        },
+        {
+          "number": 13,
+          "text": "Tulit ergo Samuel cornu olei, et unxit eum in medio fratrum ejus: et directus est spiritus Domini a die illa in David, et deinceps. Surgensque Samuel abiit in Ramatha."
+        },
+        {
+          "number": 14,
+          "text": "Spiritus autem Domini recessit a Saul, et exagitabat eum spiritus nequam a Domino."
+        },
+        {
+          "number": 15,
+          "text": "Dixeruntque servi Saul ad eum: Ecce spiritus Dei malus exagitat te."
+        },
+        {
+          "number": 16,
+          "text": "Jubeat dominus noster, et servi tui qui coram te sunt qurent hominem scientem psallere cithara, ut quando arripuerit te spiritus Domini malus, psallat manu sua, et levius feras."
+        },
+        {
+          "number": 17,
+          "text": "Et ait Saul ad servos suos: Providete ergo mihi aliquem bene psallentem, et adducite eum ad me."
+        },
+        {
+          "number": 18,
+          "text": "Et respondens unus de pueris, ait: Ecce vidi filium Isai Bethlehemitem scientem psallere, et fortissimum robore, et virum bellicosum, et prudentem in verbis, et virum pulchrum: et Dominus est cum eo."
+        },
+        {
+          "number": 19,
+          "text": "Misit ergo Saul nuntios ad Isai, dicens: Mitte ad me David filium tuum, qui est in pascuis."
+        },
+        {
+          "number": 20,
+          "text": "Tulit itaque Isai asinum plenum panibus, et lagenam vini, et hdum de capris unum, et misit per manum David filii sui Sauli."
+        },
+        {
+          "number": 21,
+          "text": "Et venit David ad Saul, et stetit coram eo: at ille dilexit eum nimis, et factus est ejus armiger."
+        },
+        {
+          "number": 22,
+          "text": "Misitque Saul ad Isai, dicens: Stet David in conspectu meo: invenit enim gratiam in oculis meis."
+        },
+        {
+          "number": 23,
+          "text": "Igitur quandocumque spiritus Domini malus arripiebat Saul, David tollebat citharam, et percutiebat manu sua, et refocillabatur Saul, et levius habebat: recedebat enim ab eo spiritus malus."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Congregantes autem Philisthiim agmina sua in prlium, convenerunt in Socho Jud: et castrametati sunt inter Socho et Azeca in finibus Dommim."
+        },
+        {
+          "number": 2,
+          "text": "Porro Saul et filii Isral congregati venerunt in Vallem terebinthi, et direxerunt aciem ad pugnandum contra Philisthiim."
+        },
+        {
+          "number": 3,
+          "text": "Et Philisthiim stabant super montem ex parte hac, et Isral stabat supra montem ex altera parte: vallisque erat inter eos."
+        },
+        {
+          "number": 4,
+          "text": "Et egressus est vir spurius de castris Philisthinorum nomine Goliath, de Geth, altitudinis sex cubitorum et palmi:"
+        },
+        {
+          "number": 5,
+          "text": "et cassis rea super caput ejus, et lorica squamata induebatur. Porro pondus loric ejus, quinque millia siclorum ris erat:"
+        },
+        {
+          "number": 6,
+          "text": "et ocreas reas habebat in cruribus, et clypeus reus tegebat humeros ejus."
+        },
+        {
+          "number": 7,
+          "text": "Hastile autem hast ejus erat quasi liciatorium texentium: ipsum autem ferrum hast ejus sexcentos siclos habebat ferri: et armiger ejus antecedebat eum."
+        },
+        {
+          "number": 8,
+          "text": "Stansque clamabat adversum phalangas Isral, et dicebat eis: Quare venistis parati ad prlium? numquid ego non sum Philisthus, et vos servi Saul? eligite ex vobis virum, et descendat ad singulare certamen."
+        },
+        {
+          "number": 9,
+          "text": "Si quiverit pugnare mecum, et percusserit me, erimus vobis servi: si autem ego prvaluero, et percussero eum, vos servi eritis, et servietis nobis."
+        },
+        {
+          "number": 10,
+          "text": "Et aiebat Philisthus: Ego exprobravi agminibus Isral hodie: date mihi virum, et ineat mecum singulare certamen."
+        },
+        {
+          "number": 11,
+          "text": "Audiens autem Saul et omnes Isralit sermones Philisthi hujuscemodi, stupebant, et metuebant nimis."
+        },
+        {
+          "number": 12,
+          "text": "David autem erat filius viri Ephrathi, de quo supra dictum est, de Bethlehem Juda, cui nomen erat Isai, qui habebat octo filios, et erat vir in diebus Saul senex, et grandvus inter viros."
+        },
+        {
+          "number": 13,
+          "text": "Abierunt autem tres filii ejus majores post Saul in prlium: et nomina trium filiorum ejus qui perrexerunt ad bellum, Eliab primogenitus, et secundus Abinadab, tertiusque Samma."
+        },
+        {
+          "number": 14,
+          "text": "David autem erat minimus. Tribus ergo majoribus secutis Saulem,"
+        },
+        {
+          "number": 15,
+          "text": "abiit David, et reversus est a Saul ut pasceret gregem patris sui in Bethlehem."
+        },
+        {
+          "number": 16,
+          "text": "Procedebat vero Philisthus mane et vespere, et stabat quadraginta diebus."
+        },
+        {
+          "number": 17,
+          "text": "Dixit autem Isai ad David filium suum: Accipe fratribus tuis ephi polent, et decem panes istos, et curre in castra ad fratres tuos,"
+        },
+        {
+          "number": 18,
+          "text": "et decem formellas casei has deferes ad tribunum: et fratres tuos visitabis, si recte agant: et cum quibus ordinati sunt, disce."
+        },
+        {
+          "number": 19,
+          "text": "Saul autem, et illi, et omnes filii Isral, in Valle terebinthi pugnabant adversum Philisthiim."
+        },
+        {
+          "number": 20,
+          "text": "Surrexit itaque David mane, et commendavit gregem custodi: et onustus abiit, sicut prceperat ei Isai. Et venit ad locum Magala, et ad exercitum, qui egressus ad pugnam vociferatus erat in certamine."
+        },
+        {
+          "number": 21,
+          "text": "Direxerat enim aciem Isral, sed et Philisthiim ex adverso fuerant prparati."
+        },
+        {
+          "number": 22,
+          "text": "Derelinquens ergo David vasa qu attulerat sub manu custodis ad sarcinas, cucurrit ad locum certaminis, et interrogabat si omnia recte agerentur erga fratres suos."
+        },
+        {
+          "number": 23,
+          "text": "Cumque adhuc ille loqueretur eis, apparuit vir ille spurius ascendens, Goliath nomine, Philisthus de Geth, de castris Philisthinorum: et loquente eo hc eadem verba audivit David."
+        },
+        {
+          "number": 24,
+          "text": "Omnes autem Isralit, cum vidissent virum, fugerunt a facie ejus, timentes eum valde."
+        },
+        {
+          "number": 25,
+          "text": "Et dixit unus quispiam de Isral: Num vidistis virum hunc, qui ascendit? ad exprobrandum enim Israli ascendit. Virum ergo qui percusserit eum, ditabit rex divitiis magnis, et filiam suam dabit ei, et domum patris ejus faciet absque tributo in Isral."
+        },
+        {
+          "number": 26,
+          "text": "Et ait David ad viros qui stabant secum, dicens: Quid dabitur viro qui percusserit Philisthum hunc, et tulerit opprobrium de Isral? quis enim est hic Philisthus incircumcisus, qui exprobravit acies Dei viventis?"
+        },
+        {
+          "number": 27,
+          "text": "Referebat autem ei populus eumdem sermonem, dicens: Hc dabuntur viro qui percusserit eum."
+        },
+        {
+          "number": 28,
+          "text": "Quod cum audisset Eliab frater ejus major, loquente eo cum aliis, iratus est contra David, et ait: Quare venisti, et quare dereliquisti pauculas oves illas in deserto? Ego novi superbiam tuam, et nequitiam cordis tui: quia ut videres prlium, descendisti."
+        },
+        {
+          "number": 29,
+          "text": "Et dixit David: Quid feci? numquid non verbum est?"
+        },
+        {
+          "number": 30,
+          "text": "Et declinavit paululum ab eo ad alium: dixitque eumdem sermonem. Et respondit ei populus verbum sicut prius."
+        },
+        {
+          "number": 31,
+          "text": "Audita sunt autem verba qu locutus est David, et annuntiata in conspectu Saul."
+        },
+        {
+          "number": 32,
+          "text": "Ad quem cum fuisset adductus, locutus est ei: Non concidat cor cujusquam in eo: ego servus tuus vadam, et pugnabo adversus Philisthum."
+        },
+        {
+          "number": 33,
+          "text": "Et ait Saul ad David: Non vales resistere Philistho isti, nec pugnare adversus eum, quia puer es: hic autem vir bellator est ab adolescentia sua."
+        },
+        {
+          "number": 34,
+          "text": "Dixitque David ad Saul: Pascebat servus tuus patris sui gregem, et veniebat leo vel ursus, et tollebat arietem de medio gregis:"
+        },
+        {
+          "number": 35,
+          "text": "et persequebar eos, et percutiebam, eruebamque de ore eorum: et illi consurgebant adversum me, et apprehendebam mentum eorum, et suffocabam, interficiebamque eos."
+        },
+        {
+          "number": 36,
+          "text": "Nam et leonem et ursum interfeci ego servus tuus: erit igitur et Philisthus hic incircumcisus quasi unus ex eis. Nunc vadam, et auferam opprobrium populi: quoniam quis est iste Philisthus incircumcisus, qui ausus est maledicere exercitui Dei viventis?"
+        },
+        {
+          "number": 37,
+          "text": "Et ait David: Dominus qui eripuit me de manu leonis, et de manu ursi, ipse me liberabit de manu Philisthi hujus. Dixit autem Saul ad David: Vade, et Dominus tecum sit."
+        },
+        {
+          "number": 38,
+          "text": "Et induit Saul David vestimentis suis, et imposuit galeam ream super caput ejus, et vestivit eum lorica."
+        },
+        {
+          "number": 39,
+          "text": "Accinctus ergo David gladio ejus super vestem suam, cpit tentare si armatus posset incedere: non enim habebat consuetudinem. Dixitque David ad Saul: Non possum sic incedere, quia non usum habeo. Et deposuit ea,"
+        },
+        {
+          "number": 40,
+          "text": "et tulit baculum suum, quem semper habebat in manibus: et elegit sibi quinque limpidissimos lapides de torrente, et misit eos in peram pastoralem quam habebat secum, et fundam manu tulit: et processit adversum Philisthum."
+        },
+        {
+          "number": 41,
+          "text": "Ibat autem Philisthus incedens, et appropinquans adversum David, et armiger ejus ante eum."
+        },
+        {
+          "number": 42,
+          "text": "Cumque inspexisset Philisthus, et vidisset David, despexit eum. Erat enim adolescens, rufus, et pulcher aspectu."
+        },
+        {
+          "number": 43,
+          "text": "Et dixit Philisthus ad David: Numquid ego canis sum, quod tu venis ad me cum baculo? Et maledixit Philisthus David in diis suis:"
+        },
+        {
+          "number": 44,
+          "text": "dixitque ad David: Veni ad me, et dabo carnes tuas volatilibus cli et bestiis terr."
+        },
+        {
+          "number": 45,
+          "text": "Dixit autem David ad Philisthum: Tu venis ad me cum gladio, et hasta, et clypeo: ego autem venio ad te in nomine Domini exercituum, Dei agminum Isral quibus exprobrasti"
+        },
+        {
+          "number": 46,
+          "text": "hodie, et dabit te Dominus in manu mea, et percutiam te, et auferam caput tuum a te: et dabo cadavera castrorum Philisthiim hodie volatilibus cli, et bestiis terr, ut sciat omnis terra quia est Deus in Isral,"
+        },
+        {
+          "number": 47,
+          "text": "et noverit universa ecclesia hc, quia non in gladio nec in hasta salvat Dominus: ipsius enim est bellum, et tradet vos in manus nostras."
+        },
+        {
+          "number": 48,
+          "text": "Cum ergo surrexisset Philisthus, et veniret, et appropinquaret contra David, festinavit David et cucurrit ad pugnam ex adverso Philisthi."
+        },
+        {
+          "number": 49,
+          "text": "Et misit manum suam in peram, tulitque unum lapidem, et funda jecit, et circumducens percussit Philisthum in fronte: et infixus est lapis in fronte ejus, et cecidit in faciem suam super terram."
+        },
+        {
+          "number": 50,
+          "text": "Prvaluitque David adversum Philisthum in funda et lapide, percussumque Philisthum interfecit. Cumque gladium non haberet in manu David,"
+        },
+        {
+          "number": 51,
+          "text": "cucurrit, et stetit super Philisthum, et tulit gladium ejus, et eduxit eum de vagina sua: et interfecit eum, prciditque caput ejus. Videntes autem Philisthiim quod mortuus esset fortissimus eorum, fugerunt."
+        },
+        {
+          "number": 52,
+          "text": "Et consurgentes viri Isral et Juda vociferati sunt, et persecuti sunt Philisthos usque dum venirent in vallem, et usque ad portas Accaron: cecideruntque vulnerati de Philisthiim in via Saraim, et usque ad Geth, et usque ad Accaron."
+        },
+        {
+          "number": 53,
+          "text": "Et revertentes filii Isral postquam persecuti fuerant Philisthos, invaserunt castra eorum."
+        },
+        {
+          "number": 54,
+          "text": "Assumens autem David caput Philisthi, attulit illud in Jerusalem: arma vero ejus posuit in tabernaculo suo."
+        },
+        {
+          "number": 55,
+          "text": "Eo autem tempore quo viderat Saul David egredientem contra Philisthum, ait ad Abner principem militi: De qua stirpe descendit hic adolescens, Abner? Dixitque Abner: Vivit anima tua, rex, si novi."
+        },
+        {
+          "number": 56,
+          "text": "Et ait rex: Interroga tu, cujus filius sit iste puer."
+        },
+        {
+          "number": 57,
+          "text": "Cumque regressus esset David, percusso Philistho, tulit eum Abner, et introduxit coram Saule, caput Philisthi habentem in manu."
+        },
+        {
+          "number": 58,
+          "text": "Et ait ad eum Saul: De qua progenie es, o adolescens? Dixitque David: Filius servi tui Isai Bethlehemit ego sum."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et factum est cum complesset loqui ad Saul, anima Jonath conglutinata est anim David, et dilexit eum Jonathas quasi animam suam."
+        },
+        {
+          "number": 2,
+          "text": "Tulitque eum Saul in die illa, et non concessit ei ut reverteretur in domum patris sui."
+        },
+        {
+          "number": 3,
+          "text": "Inierunt autem David et Jonathas fdus: diligebat enim eum quasi animam suam."
+        },
+        {
+          "number": 4,
+          "text": "Nam expoliavit se Jonathas tunica qua erat indutus, et dedit eam David, et reliqua vestimenta sua, usque ad gladium et arcum suum, et usque ad balteum."
+        },
+        {
+          "number": 5,
+          "text": "Egrediebatur quoque David ad omnia qucumque misisset eum Saul, et prudenter se agebat: posuitque eum Saul super viros belli, et acceptus erat in oculis universi populi, maximeque in conspectu famulorum Saul."
+        },
+        {
+          "number": 6,
+          "text": "Porro cum reverteretur percusso Philistho David, egress sunt mulieres de universis urbibus Isral, cantantes, chorosque ducentes in occursum Saul regis, in tympanis ltiti, et in sistris."
+        },
+        {
+          "number": 7,
+          "text": "Et prcinebant mulieres, ludentes, atque dicentes: [Percussit Saul mille, et David decem millia.]"
+        },
+        {
+          "number": 8,
+          "text": "Iratus est autem Saul nimis, et displicuit in oculis ejus sermo iste: dixitque: Dederunt David decem millia, et mihi mille dederunt: quid ei superest, nisi solum regnum?"
+        },
+        {
+          "number": 9,
+          "text": "Non rectis ergo oculis Saul aspiciebat David a die illa et deinceps."
+        },
+        {
+          "number": 10,
+          "text": "Post diem autem alteram, invasit spiritus Dei malus Saul, et prophetabat in medio domus su: David autem psallebat manu sua, sicut per singulos dies. Tenebatque Saul lanceam,"
+        },
+        {
+          "number": 11,
+          "text": "et misit eam, putans quod configere posset David cum pariete: et declinavit David a facie ejus secundo."
+        },
+        {
+          "number": 12,
+          "text": "Et timuit Saul David, eo quod Dominus esset cum eo, et a se recessisset."
+        },
+        {
+          "number": 13,
+          "text": "Amovit ergo eum Saul a se, et fecit eum tribunum super mille viros: et egrediebatur, et intrabat in conspectu populi."
+        },
+        {
+          "number": 14,
+          "text": "In omnibus quoque viis suis David prudenter agebat, et Dominus erat cum eo."
+        },
+        {
+          "number": 15,
+          "text": "Vidit itaque Saul quod prudens esset nimis, et cpit cavere eum."
+        },
+        {
+          "number": 16,
+          "text": "Omnis autem Isral et Juda diligebat David: ipse enim ingrediebatur et egrediebatur ante eos."
+        },
+        {
+          "number": 17,
+          "text": "Dixitque Saul ad David: Ecce filia mea major Merob: ipsam dabo tibi uxorem: tantummodo esto vir fortis, et prliare bella Domini. Saul autem reputabat, dicens: Non sit manus mea in eum, sed sit super eum manus Philisthinorum."
+        },
+        {
+          "number": 18,
+          "text": "Ait autem David ad Saul: Quis ego sum, aut qu est vita mea, aut cognatio patris mei in Isral, ut fiam gener regis?"
+        },
+        {
+          "number": 19,
+          "text": "Factum est autem tempus cum deberet dari Merob filia Saul David, data est Hadrieli Molathit uxor."
+        },
+        {
+          "number": 20,
+          "text": "Dilexit autem David Michol filia Saul altera. Et nuntiatum est Saul, et placuit ei."
+        },
+        {
+          "number": 21,
+          "text": "Dixitque Saul: Dabo eam illi, ut fiat ei in scandalum, et sit super eum manus Philisthinorum. Dixitque Saul ad David: In duabus rebus gener meus eris hodie."
+        },
+        {
+          "number": 22,
+          "text": "Et mandavit Saul servis suis: Loquimini ad David clam me, dicentes: Ecce places regi, et omnes servi ejus diligunt te: nunc ergo esto gener regis."
+        },
+        {
+          "number": 23,
+          "text": "Et locuti sunt servi Saul in auribus David omnia verba hc. Et ait David: Num parum videtur vobis, generum esse regis? ego autem sum vir pauper et tenuis."
+        },
+        {
+          "number": 24,
+          "text": "Et renuntiaverunt servi Saul dicentes: Hujuscemodi verba locutus est David."
+        },
+        {
+          "number": 25,
+          "text": "Dixit autem Saul: Sic loquimini ad David: Non habet rex sponsalia necesse, nisi tantum centum prputia Philisthinorum, ut fiat ultio de inimicis regis. Porro Saul cogitabat tradere David in manus Philisthinorum."
+        },
+        {
+          "number": 26,
+          "text": "Cumque renuntiassent servi ejus David verba qu dixerat Saul, placuit sermo in oculis David, ut fieret gener regis."
+        },
+        {
+          "number": 27,
+          "text": "Et post paucos dies surgens David, abiit cum viris qui sub eo erant. Et percussit ex Philisthiim ducentos viros, et attulit eorum prputia et annumeravit ea regi, ut esset gener ejus. Dedit itaque Saul ei Michol filiam suam uxorem."
+        },
+        {
+          "number": 28,
+          "text": "Et vidit Saul, et intellexit quod Dominus esset cum David. Michol autem filia Saul diligebat eum."
+        },
+        {
+          "number": 29,
+          "text": "Et Saul magis cpit timere David: factusque est Saul inimicus David cunctis diebus."
+        },
+        {
+          "number": 30,
+          "text": "Et egressi sunt principes Philisthinorum. A principio autem egressionis eorum, prudentius se gerebat David quam omnes servi Saul, et celebre factum est nomen ejus nimis."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Locutus est autem Saul ad Jonathan filium suum, et ad omnes servos suos, ut occiderent David. Porro Jonathas filius Saul diligebat David valde:"
+        },
+        {
+          "number": 2,
+          "text": "et indicavit Jonathas David, dicens: Qurit Saul pater meus occidere te: quapropter observa te, quso, mane: et manebis clam, et absconderis."
+        },
+        {
+          "number": 3,
+          "text": "Ego autem egrediens stabo juxta patrem meum in agro, ubicumque fueris: et ego loquar de te ad patrem meum, et quodcumque videro, nuntiabo tibi."
+        },
+        {
+          "number": 4,
+          "text": "Locutus est ergo Jonathas de David bona ad Saul patrem suum: dixitque ad eum: Ne pecces rex in servum tuum David, quia non peccavit tibi, et opera ejus bona sunt tibi valde."
+        },
+        {
+          "number": 5,
+          "text": "Et posuit animam suam in manu sua, et percussit Philisthum, et fecit Dominus salutem magnam universo Israli: vidisti, et ltatus es. Quare ergo peccas in sanguine innoxio, interficiens David, qui est absque culpa?"
+        },
+        {
+          "number": 6,
+          "text": "Quod cum audisset Saul, placatus voce Jonath, juravit: Vivit Dominus, quia non occidetur."
+        },
+        {
+          "number": 7,
+          "text": "Vocavit itaque Jonathas David, et indicavit ei omnia verba hc: et introduxit Jonathas David ad Saul, et fuit ante eum sicut fuerat heri et nudiustertius."
+        },
+        {
+          "number": 8,
+          "text": "Motum est autem rursum bellum: et egressus David, pugnavit adversum Philisthiim: percussitque eos plaga magna, et fugerunt a facie ejus."
+        },
+        {
+          "number": 9,
+          "text": "Et factus est spiritus Domini malus in Saul: sedebat autem in domo sua, et tenebat lanceam: porro David psallebat manu sua."
+        },
+        {
+          "number": 10,
+          "text": "Nisusque est Saul configere David lancea in pariete, et declinavit David a facie Saul: lancea autem casso vulnere perlata est in parietem, et David fugit, et salvatus est nocte illa."
+        },
+        {
+          "number": 11,
+          "text": "Misit ergo Saul satellites suos in domum David, ut custodirent eum, et interficeretur mane. Quod cum annuntiasset David Michol uxor sua, dicens: Nisi salvaveris te nocte hac, cras morieris:"
+        },
+        {
+          "number": 12,
+          "text": "deposuit eum per fenestram. Porro ille abiit et aufugit, atque salvatus est."
+        },
+        {
+          "number": 13,
+          "text": "Tulit autem Michol statuam, et posuit eam super lectum, et pellem pilosam caprarum posuit ad caput ejus, et operuit eam vestimentis."
+        },
+        {
+          "number": 14,
+          "text": "Misit autem Saul apparitores, qui raperent David: et responsum est quod grotaret."
+        },
+        {
+          "number": 15,
+          "text": "Rursumque misit Saul nuntios ut viderent David, dicens: Afferte eum ad me in lecto, ut occidatur."
+        },
+        {
+          "number": 16,
+          "text": "Cumque venissent nuntii, inventum est simulacrum super lectum, et pellis caprarum ad caput ejus."
+        },
+        {
+          "number": 17,
+          "text": "Dixitque Saul ad Michol: Quare sic illusisti mihi, et dimisisti inimicum meum ut fugeret? Et respondit Michol ad Saul: Quia ipse locutus est mihi: Dimitte me, alioquin interficiam te."
+        },
+        {
+          "number": 18,
+          "text": "David autem fugiens salvatus est, et venit ad Samuel in Ramatha, et nuntiavit ei omnia qu fecerat sibi Saul: et abierunt ipse et Samuel, et morati sunt in Najoth."
+        },
+        {
+          "number": 19,
+          "text": "Nuntiatum est autem Sauli a dicentibus: Ecce David in Najoth in Ramatha."
+        },
+        {
+          "number": 20,
+          "text": "Misit ergo Saul lictores, ut raperent David: qui cum vidissent cuneum prophetarum vaticinantium, et Samuelem stantem super eos, factus est etiam spiritus Domini in illis, et prophetare cperunt etiam ipsi."
+        },
+        {
+          "number": 21,
+          "text": "Quod cum nuntiatum esset Sauli, misit et alios nuntios: prophetaverunt autem et illi. Et rursum misit Saul tertios nuntios: qui et ipsi prophetaverunt. Et iratus iracundia Saul,"
+        },
+        {
+          "number": 22,
+          "text": "abiit etiam ipse in Ramatha, et venit usque ad cisternam magnam qu est in Socho, et interrogavit, et dixit: In quo loco sunt Samuel et David? Dictumque est ei: Ecce in Najoth sunt in Ramatha."
+        },
+        {
+          "number": 23,
+          "text": "Et abiit in Najoth in Ramatha, et factus est etiam super eum spiritus Domini, et ambulabat ingrediens, et prophetabat usque dum veniret in Najoth in Ramatha."
+        },
+        {
+          "number": 24,
+          "text": "Et expoliavit etiam ipse se vestimentis suis, et prophetavit cum ceteris coram Samuele, et cecidit nudus tota die illa et nocte. Unde et exivit proverbium: Num et Saul inter prophetas?"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fugit autem David de Najoth, qu est in Ramatha, veniensque locutus est coram Jonatha: Quid feci? qu est iniquitas mea, et quod peccatum meum in patrem tuum, quia qurit animam meam?"
+        },
+        {
+          "number": 2,
+          "text": "Qui dixit ei: Absit, non morieris: neque enim faciet pater meus quidquam grande vel parvum, nisi prius indicaverit mihi: hunc ergo celavit me pater meus sermonem tantummodo? nequaquam erit istud."
+        },
+        {
+          "number": 3,
+          "text": "Et juravit rursum Davidi. Et ille ait: Scit profecto pater tuus quia inveni gratiam in oculis tuis, et dicet: Nesciat hoc Jonathas, ne forte tristetur. Quinimmo vivit Dominus, et vivit anima tua, quia uno tantum (ut ita dicam) gradu ego morsque dividimur."
+        },
+        {
+          "number": 4,
+          "text": "Et ait Jonathas ad David: Quodcumque dixerit mihi anima tua, faciam tibi."
+        },
+        {
+          "number": 5,
+          "text": "Dixit autem David ad Jonathan: Ecce calend sunt crastino, et ego ex more sedere soleo juxta regem ad vescendum: dimitte ergo me ut abscondar in agro usque ad vesperam diei terti."
+        },
+        {
+          "number": 6,
+          "text": "Si respiciens requisierit me pater tuus, respondebis ei: Rogavit me David ut iret celeriter in Bethlehem civitatem suam, quia victim solemnes ibi sunt universis contribulibus suis."
+        },
+        {
+          "number": 7,
+          "text": "Si dixerit: Bene: pax erit servo tuo. Si autem fuerit iratus, scito quia completa est malitia ejus."
+        },
+        {
+          "number": 8,
+          "text": "Fac ergo misericordiam in servum tuum, quia fdus Domini me famulum tuum tecum inire fecisti: si autem est iniquitas aliqua in me, tu me interfice, et ad patrem tuum ne introducas me."
+        },
+        {
+          "number": 9,
+          "text": "Et ait Jonathas: Absit hoc a te: neque enim fieri potest, ut si certe cognovero completam esse patris mei malitiam contra te, non annuntiem tibi."
+        },
+        {
+          "number": 10,
+          "text": "Responditque David ad Jonathan: Quis renuntiabit mihi, si quid forte responderit tibi pater tuus dure de me?"
+        },
+        {
+          "number": 11,
+          "text": "Et ait Jonathas ad David: Veni, et egrediamur foras in agrum. Cumque exissent ambo in agrum,"
+        },
+        {
+          "number": 12,
+          "text": "ait Jonathas ad David: Domine Deus Isral, si investigavero sententiam patris mei crastino vel perendie, et aliquid boni fuerit super David, et non statim misero ad te, et notum tibi fecero,"
+        },
+        {
+          "number": 13,
+          "text": "hc faciat Dominus Jonath, et hc addat. Si autem perseveraverit patris mei malitia adversum te, revelabo aurem tuam, et dimittam te, ut vadas in pace, et sit Dominus tecum, sicut fuit cum patre meo."
+        },
+        {
+          "number": 14,
+          "text": "Et si vixero, facies mihi misericordiam Domini: si vero mortuus fuero,"
+        },
+        {
+          "number": 15,
+          "text": "non auferes misericordiam tuam a domo mea usque in sempiternum, quando eradicaverit Dominus inimicos David, unumquemque de terra: auferat Jonathan de domo sua, et requirat Dominus de manu inimicorum David."
+        },
+        {
+          "number": 16,
+          "text": "Pepigit ergo Jonathas fdus cum domo David: et requisivit Dominus de manu inimicorum David."
+        },
+        {
+          "number": 17,
+          "text": "Et addidit Jonathas dejerare David, eo quod diligeret illum: sicut enim animam suam, ita diligebat eum."
+        },
+        {
+          "number": 18,
+          "text": "Dixitque ad eum Jonathas: Cras calend sunt, et requireris:"
+        },
+        {
+          "number": 19,
+          "text": "requiretur enim sessio tua usque perendie. Descendes ergo festinus, et venies in locum ubi celandus es in die qua operari licet, et sedebis juxta lapidem cui nomen est Ezel."
+        },
+        {
+          "number": 20,
+          "text": "Et ego tres sagittas mittam juxta eum, et jaciam quasi exercens me ad signum."
+        },
+        {
+          "number": 21,
+          "text": "Mittam quoque et puerum, dicens ei: Vade, et affer mihi sagittas."
+        },
+        {
+          "number": 22,
+          "text": "Si dixero puero: Ecce sagitt intra te sunt, tolle eas: tu veni ad me, quia pax tibi est, et nihil est mali, vivit Dominus. Si autem sic locutus fuero puero: Ecce sagitt ultra te sunt: vade in pace, quia dimisit te Dominus."
+        },
+        {
+          "number": 23,
+          "text": "De verbo autem quod locuti sumus ego et tu, sit Dominus inter me et te usque in sempiternum."
+        },
+        {
+          "number": 24,
+          "text": "Absconditus est ergo David in agro, et venerunt calend, et sedit rex ad comedendum panem."
+        },
+        {
+          "number": 25,
+          "text": "Cumque sedisset rex super cathedram suam (secundum consuetudinem) qu erat juxta parietem, surrexit Jonathas, et sedit Abner ex latere Saul: vacuusque apparuit locus David."
+        },
+        {
+          "number": 26,
+          "text": "Et non est locutus Saul quidquam in die illa: cogitabat enim quod forte evenisset ei, ut non esset mundus, nec purificatus."
+        },
+        {
+          "number": 27,
+          "text": "Cumque illuxisset dies secunda post calendas, rursus apparuit vacuus locus David. Dixitque Saul ad Jonathan filium suum: Cur non venit filius Isai nec heri nec hodie ad vescendum?"
+        },
+        {
+          "number": 28,
+          "text": "Responditque Jonathas Sauli: Rogavit me obnixe ut iret in Bethlehem,"
+        },
+        {
+          "number": 29,
+          "text": "et ait: Dimitte me, quoniam sacrificium solemne est in civitate, unus de fratribus meis accersivit me: nunc ergo si inveni gratiam in oculis tuis, vadam cito, et videbo fratres meos. Ob hanc causam non venit ad mensam regis."
+        },
+        {
+          "number": 30,
+          "text": "Iratus autem Saul adversum Jonathan, dixit ei: Fili mulieris virum ultro rapientis, numquid ignoro quia diligis filium Isai in confusionem tuam, et in confusionem ignominios matris tu?"
+        },
+        {
+          "number": 31,
+          "text": "Omnibus enim diebus quibus filius Isai vixerit super terram, non stabilieris tu, neque regnum tuum. Itaque jam nunc mitte, et adduc eum ad me: quia filius mortis est."
+        },
+        {
+          "number": 32,
+          "text": "Respondens autem Jonathas Sauli patri suo, ait: Quare morietur? quid fecit?"
+        },
+        {
+          "number": 33,
+          "text": "Et arripuit Saul lanceam ut percuteret eum. Et intellexit Jonathas quod definitum esset a patre suo, ut interficeret David."
+        },
+        {
+          "number": 34,
+          "text": "Surrexit ergo Jonathas a mensa in ira furoris, et non comedit in die calendarum secunda panem. Contristatus est enim super David, eo quod confudisset eum pater suus."
+        },
+        {
+          "number": 35,
+          "text": "Cumque illuxisset mane, venit Jonathas in agrum juxta placitum David, et puer parvulus cum eo."
+        },
+        {
+          "number": 36,
+          "text": "Et ait ad puerum suum: Vade, et affer mihi sagittas quas ego jacio. Cumque puer cucurrisset, jecit aliam sagittam trans puerum."
+        },
+        {
+          "number": 37,
+          "text": "Venit itaque puer ad locum jaculi quod miserat Jonathas: et clamavit Jonathas post tergum pueri, et ait: Ecce ibi est sagitta porro ultra te."
+        },
+        {
+          "number": 38,
+          "text": "Clamavitque iterum Jonathas post tergum pueri, dicens: Festina velociter, ne steteris. Collegit autem puer Jonath sagittas, et attulit ad dominum suum:"
+        },
+        {
+          "number": 39,
+          "text": "et quid ageretur, penitus ignorabat, tantummodo enim Jonathas et David rem noverant."
+        },
+        {
+          "number": 40,
+          "text": "Dedit ergo Jonathas arma sua puero, et dixit ei: Vade, et defer in civitatem."
+        },
+        {
+          "number": 41,
+          "text": "Cumque abiisset puer, surrexit David de loco qui vergebat ad austrum, et cadens pronus in terram, adoravit tertio: et osculantes se alterutrum, fleverunt pariter, David autem amplius."
+        },
+        {
+          "number": 42,
+          "text": "Dixit ergo Jonathas ad David: Vade in pace: qucumque juravimus ambo in nomine Domini, dicentes: Dominus sit inter me et te, et inter semen meum et semen tuum usque in sempiternum."
+        },
+        {
+          "number": 43,
+          "text": "Et surrexit David, et abiit: sed et Jonathas ingressus est civitatem."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Venit autem David in Nobe ad Achimelech sacerdotem: et obstupuit Achimelech, eo quod venisset David. Et dixit ei: Quare tu solus, et nullus est tecum?"
+        },
+        {
+          "number": 2,
+          "text": "Et ait David ad Achimelech sacerdotem: Rex prcepit mihi sermonem, et dixit: Nemo sciat rem propter quam missus es a me, et cujusmodi prcepta tibi dederim: nam et pueris condixi in illum et illum locum."
+        },
+        {
+          "number": 3,
+          "text": "Nunc ergo si quid habes ad manum, vel quinque panes, da mihi, aut quidquid inveneris."
+        },
+        {
+          "number": 4,
+          "text": "Et respondens sacerdos ad David, ait illi: Non habeo laicos panes ad manum, sed tantum panem sanctum: si mundi sunt pueri, maxime a mulieribus?"
+        },
+        {
+          "number": 5,
+          "text": "Et respondit David sacerdoti, et dixit ei: Equidem, si de mulieribus agitur: continuimus nos ab heri et nudiustertius quando egrediebamur, et fuerunt vasa puerorum sancta. Porro via hc polluta est, sed et ipsa hodie sanctificabitur in vasis."
+        },
+        {
+          "number": 6,
+          "text": "Dedit ergo ei sacerdos sanctificatum panem: neque enim erat ibi panis, nisi tantum panes propositionis, qui sublati fuerant a facie Domini, ut ponerentur panes calidi."
+        },
+        {
+          "number": 7,
+          "text": "Erat autem ibi vir quidam de servis Saul in die illa, intus in tabernaculo Domini: et nomen ejus Dog Idumus, potentissimus pastorum Saul."
+        },
+        {
+          "number": 8,
+          "text": "Dixit autem David ad Achimelech: Si habes hic ad manum hastam aut gladium? quia gladium meum et arma mea non tuli mecum: sermo enim regis urgebat."
+        },
+        {
+          "number": 9,
+          "text": "Et dixit sacerdos: Ecce hic gladius Goliath Philisthi, quem percussisti in Valle terebinthi: est involutus pallio post ephod: si istum vis tollere, tolle: neque enim hic est alius absque eo. Et ait David: Non est huic alter similis: da mihi eum."
+        },
+        {
+          "number": 10,
+          "text": "Surrexit itaque David, et fugit in die illa a facie Saul: et venit ad Achis regem Geth."
+        },
+        {
+          "number": 11,
+          "text": "Dixeruntque servi Achis ad eum cum vidissent David: Numquid non iste est David rex terr? nonne huic cantabant per choros, dicentes: [Percussit Saul mille, et David decem millia?]"
+        },
+        {
+          "number": 12,
+          "text": "Posuit autem David sermones istos in corde suo, et extimuit valde a facie Achis regis Geth."
+        },
+        {
+          "number": 13,
+          "text": "Et immutavit os suum coram eis, et collabebatur inter manus eorum: et impingebat in ostia port, defluebantque saliv ejus in barbam."
+        },
+        {
+          "number": 14,
+          "text": "Et ait Achis ad servos suos: Vidistis hominem insanum: quare adduxistis eum ad me?"
+        },
+        {
+          "number": 15,
+          "text": "an desunt nobis furiosi, quod introduxistis istum, ut fureret me prsente? hiccine ingredietur domum meam?"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Abiit ergo David inde, et fugit in speluncam Odollam. Quod cum audissent fratres ejus, et omnis domus patris ejus, descenderunt ad eum illuc."
+        },
+        {
+          "number": 2,
+          "text": "Et convenerunt ad eum omnes qui erant in angustia constituti, et oppressi re alieno, et amaro animo: et factus est eorum princeps, fueruntque cum eo quasi quadringenti viri."
+        },
+        {
+          "number": 3,
+          "text": "Et profectus est David inde in Maspha, qu est Moab: et dixit ad regem Moab: Maneat, oro, pater meus et mater mea vobiscum, donec sciam quid faciat mihi Deus."
+        },
+        {
+          "number": 4,
+          "text": "Et reliquit eos ante faciem regis Moab: manseruntque apud eum cunctis diebus quibus David fuit in prsidio."
+        },
+        {
+          "number": 5,
+          "text": "Dixitque Gad propheta ad David: Noli manere in prsidio: proficiscere, et vade in terram Juda. Et profectus est David, et venit in saltum Haret."
+        },
+        {
+          "number": 6,
+          "text": "Et audivit Saul quod apparuisset David, et viri qui erant cum eo. Saul autem cum maneret in Gabaa, et esset in nemore quod est in Rama, hastam manu tenens, cunctique servi ejus circumstarent eum,"
+        },
+        {
+          "number": 7,
+          "text": "ait ad servos suos qui assistebant ei: Audite nunc, filii Jemini: numquid omnibus vobis dabit filius Isai agros et vineas, et universos vos faciet tribunos et centuriones?"
+        },
+        {
+          "number": 8,
+          "text": "quoniam conjurastis omnes adversum me, et non est qui mihi renuntiet, maxime cum et filius meus fdus inierit cum filio Isai. Non est qui vicem meam doleat ex vobis, nec qui annuntiet mihi: eo quod suscitaverit filius meus servum meum adversum me, insidiantem mihi usque hodie."
+        },
+        {
+          "number": 9,
+          "text": "Respondens autem Dog Idumus, qui assistebat, et erat primus inter servos Saul: Vidi, inquit, filium Isai in Nobe apud Achimelech filium Achitob sacerdotem."
+        },
+        {
+          "number": 10,
+          "text": "Qui consuluit pro eo Dominum, et cibaria dedit ei: sed et gladium Goliath Philisthi dedit illi."
+        },
+        {
+          "number": 11,
+          "text": "Misit ergo rex ad accersendum Achimelech sacerdotem filium Achitob, et omnem domum patris ejus, sacerdotum qui erant in Nobe, qui universi venerunt ad regem."
+        },
+        {
+          "number": 12,
+          "text": "Et ait Saul ad Achimelech: Audi, fili Achitob. Qui respondit: Prsto sum, domine."
+        },
+        {
+          "number": 13,
+          "text": "Dixitque ad eum Saul: Quare conjurastis adversum me, tu et filius Isai, et dedisti ei panes et gladium, et consuluisti pro eo Deum, ut consurgeret adversum me, insidiator usque hodie permanens?"
+        },
+        {
+          "number": 14,
+          "text": "Respondensque Achimelech regi, ait: Et quis in omnibus servis tuis sicut David, fidelis, et gener regis, et pergens ad imperium tuum, et gloriosus in domo tua?"
+        },
+        {
+          "number": 15,
+          "text": "num hodie cpi pro eo consulere Deum? absit hoc a me: ne suspicetur rex adversus servum suum rem hujuscemodi, in universa domo patris mei: non enim scivit servus tuus quidquam super hoc negotio, vel modicum vel grande."
+        },
+        {
+          "number": 16,
+          "text": "Dixitque rex: Morte morieris Achimelech, tu et omnis domus patris tui."
+        },
+        {
+          "number": 17,
+          "text": "Et ait rex emissariis qui circumstabant eum: Convertimini, et interficite sacerdotes Domini, nam manus eorum cum David est: scientes quod fugisset, et non indicaverunt mihi. Noluerunt autem servi regis extendere manus suas in sacerdotes Domini."
+        },
+        {
+          "number": 18,
+          "text": "Et ait rex ad Dog: Convertere tu, et irrue in sacerdotes. Conversusque Dog Idumus, irruit in sacerdotes, et trucidavit in die illa octoginta quinque viros vestitos ephod lineo."
+        },
+        {
+          "number": 19,
+          "text": "Nobe autem civitatem sacerdotum percussit in ore gladii, viros et mulieres, et parvulos et lactentes, bovemque, et asinum, et ovem in ore gladii."
+        },
+        {
+          "number": 20,
+          "text": "Evadens autem unus filius Achimelech filii Achitob, cujus nomen erat Abiathar, fugit ad David,"
+        },
+        {
+          "number": 21,
+          "text": "et annuntiavit ei quod occidisset Saul sacerdotes Domini."
+        },
+        {
+          "number": 22,
+          "text": "Et ait David ad Abiathar: Sciebam in die illa quod cum ibi esset Dog Idumus, procul dubio annuntiaret Sauli: ego sum reus omnium animarum patris tui."
+        },
+        {
+          "number": 23,
+          "text": "Mane mecum: ne timeas: si quis qusierit animam meam, quret et animam tuam, mecumque servaberis."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et annuntiaverunt David, dicentes: Ecce Philisthiim oppugnant Ceilam et diripiunt areas."
+        },
+        {
+          "number": 2,
+          "text": "Consuluit ergo David Dominum, dicens: Num vadam, et percutiam Philisthos istos? Et ait Dominus ad David: Vade, et percuties Philisthos, et Ceilam salvabis."
+        },
+        {
+          "number": 3,
+          "text": "Et dixerunt viri qui erant cum David ad eum: Ecce nos hic in Juda consistentes timemus: quanto magis si ierimus in Ceilam adversum agmina Philisthinorum?"
+        },
+        {
+          "number": 4,
+          "text": "Rursum ergo David consuluit Dominum. Qui respondens, ait ei: Surge, et vade in Ceilam: ego enim tradam Philisthos in manu tua."
+        },
+        {
+          "number": 5,
+          "text": "Abiit ergo David et viri ejus in Ceilam, et pugnavit adversum Philisthos: et abegit jumenta eorum, et percussit eos plaga magna: et salvavit David habitatores Ceil."
+        },
+        {
+          "number": 6,
+          "text": "Porro eo tempore quo fugiebat Abiathar filius Achimelech ad David in Ceilam, ephod secum habens descenderat."
+        },
+        {
+          "number": 7,
+          "text": "Nuntiatum est autem Sauli quod venisset David in Ceilam: et ait Saul: Tradidit eum Deus in manus meas, conclususque est introgressus urbem, in qua port et ser sunt."
+        },
+        {
+          "number": 8,
+          "text": "Et prcepit Saul omni populo ut ad pugnam descenderet in Ceilam, et obsideret David et viros ejus."
+        },
+        {
+          "number": 9,
+          "text": "Quod cum David rescisset quia prpararet ei Saul clam malum, dixit ad Abiathar sacerdotem: Applica ephod."
+        },
+        {
+          "number": 10,
+          "text": "Et ait David: Domine Deus Isral, audivit famam servus tuus, quod disponat Saul venire in Ceilam, ut evertat urbem propter me:"
+        },
+        {
+          "number": 11,
+          "text": "si tradent me viri Ceil in manus ejus? et si descendet Saul, sicut audivit servus tuus? Domine Deus Isral, indica servo tuo. Et ait Dominus: Descendet."
+        },
+        {
+          "number": 12,
+          "text": "Dixitque David: Si tradent me viri Ceil, et viros qui sunt mecum, in manus Saul? Et dixit Dominus: Tradent."
+        },
+        {
+          "number": 13,
+          "text": "Surrexit ergo David et viri ejus quasi sexcenti, et egressi de Ceila, huc atque illuc vagabantur incerti: nuntiatumque est Sauli quod fugisset David de Ceila, et salvatus esset: quam ob rem dissimulavit exire."
+        },
+        {
+          "number": 14,
+          "text": "Morabatur autem David in deserto in locis firmissimis, mansitque in monte solitudinis Ziph, in monte opaco: qurebat eum tamen Saul cunctis diebus, et non tradidit eum Deus in manus ejus."
+        },
+        {
+          "number": 15,
+          "text": "Et vidit David quod egressus esset Saul ut qureret animam ejus. Porro David erat in deserto Ziph in silva."
+        },
+        {
+          "number": 16,
+          "text": "Et surrexit Jonathas filius Saul, et abiit ad David in silvam, et confortavit manus ejus in Deo: dixitque ei:"
+        },
+        {
+          "number": 17,
+          "text": "Ne timeas: neque enim inveniet te manus Saul patris mei, et tu regnabis super Isral, et ego ero tibi secundus: sed et Saul pater meus scit hoc."
+        },
+        {
+          "number": 18,
+          "text": "Percussit ergo uterque fdus coram Domino: mansitque David in silva, Jonathas autem reversus est in domum suam."
+        },
+        {
+          "number": 19,
+          "text": "Ascenderunt autem Ziphi ad Saul in Gabaa, dicentes: Nonne ecce David latitat apud nos in locis tutissimis silv, in colle Hachila, qu est ad dexteram deserti?"
+        },
+        {
+          "number": 20,
+          "text": "Nunc ergo, sicut desideravit anima tua ut descenderes, descende: nostrum autem erit ut tradamus eum in manus regis."
+        },
+        {
+          "number": 21,
+          "text": "Dixitque Saul: Benedicti vos a Domino, quia doluistis vicem meam."
+        },
+        {
+          "number": 22,
+          "text": "Abite ergo, oro, et diligentius prparate, et curiosius agite, et considerate locum ubi sit pes ejus, vel quis viderit eum ibi: recogitat enim de me, quod callide insidier ei."
+        },
+        {
+          "number": 23,
+          "text": "Considerate, et videte omnia latibula ejus in quibus absconditur: et revertimini ad me ad rem certam, ut vadam vobiscum. Quod si etiam in terram se abstruserit, perscrutabor eum in cunctis millibus Juda."
+        },
+        {
+          "number": 24,
+          "text": "At illi surgentes abierunt in Ziph ante Saul: David autem et viri ejus erant in deserto Maon, in campestribus ad dexteram Jesimon."
+        },
+        {
+          "number": 25,
+          "text": "Ivit ergo Saul et socii ejus ad qurendum eum. Et nuntiatum est David: statimque descendit ad petram, et versabatur in deserto Maon: quod cum audisset Saul, persecutus est David in deserto Maon."
+        },
+        {
+          "number": 26,
+          "text": "Et ibat Saul ad latus montis ex parte una: David autem et viri ejus erant in latere montis ex parte altera. Porro David desperabat se posse evadere a facie Saul: itaque Saul et viri ejus in modum coron cingebant David et viros ejus, ut caperent eos."
+        },
+        {
+          "number": 27,
+          "text": "Et nuntius venit ad Saul, dicens: Festina, et veni, quoniam infuderunt se Philisthiim super terram."
+        },
+        {
+          "number": 28,
+          "text": "Reversus est ergo Saul desistens persequi David, et perrexit in occursum Philisthinorum: propter hoc vocaverunt locum illum, Petram dividentem."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ascendit ergo David inde: et habitavit in locis tutissimis Engaddi."
+        },
+        {
+          "number": 2,
+          "text": "Cumque reversus esset Saul, postquam persecutus est Philisthos, nuntiaverunt ei, dicentes: Ecce David in deserto est Engaddi."
+        },
+        {
+          "number": 3,
+          "text": "Assumens ergo Saul tria millia electorum virorum ex omni Isral, perrexit ad investigandum David et viros ejus, etiam super abruptissimas petras, qu solis ibicibus pervi sunt."
+        },
+        {
+          "number": 4,
+          "text": "Et venit ad caulas ovium, qu se offerebant vianti: eratque ibi spelunca, quam ingressus est Saul ut purgaret ventrem: porro David et viri ejus in interiore parte spelunc latebant."
+        },
+        {
+          "number": 5,
+          "text": "Et dixerunt servi David ad eum: Ecce dies de qua locutus est Dominus ad te: Ego tradam tibi inimicum tuum, ut facias ei sicut placuerit in oculis tuis. Surrexit ergo David, et prcidit oram chlamydis Saul silenter."
+        },
+        {
+          "number": 6,
+          "text": "Post hc percussit cor suum David, eo quod abscidisset oram chlamydis Saul."
+        },
+        {
+          "number": 7,
+          "text": "Dixitque ad viros suos: Propitius sit mihi Dominus, ne faciam hanc rem domino meo, christo Domini, ut mittam manum meam in eum: quia christus Domini est."
+        },
+        {
+          "number": 8,
+          "text": "Et confregit David viros suos sermonibus, et non permisit eos ut consurgerent in Saul: porro Saul exsurgens de spelunca, pergebat cpto itinere."
+        },
+        {
+          "number": 9,
+          "text": "Surrexit autem et David post eum: et egressus de spelunca, clamavit post tergum Saul, dicens: Domine mi rex. Et respexit Saul post se: et inclinans se David pronus in terram adoravit,"
+        },
+        {
+          "number": 10,
+          "text": "dixitque ad Saul: Quare audis verba hominum loquentium: David qurit malum adversum te?"
+        },
+        {
+          "number": 11,
+          "text": "Ecce hodie viderunt oculi tui quod tradiderit te Dominus in manu mea in spelunca: et cogitavi ut occiderem te, sed pepercit tibi oculus meus: dixi enim: Non extendam manum meam in dominum meum, quia christus Domini est."
+        },
+        {
+          "number": 12,
+          "text": "Quin potius pater mi, vide, et cognosce oram chlamydis tu in manu mea: quoniam cum prscinderem summitatem chlamydis tu, nolui extendere manum meam in te: animadverte, et vide, quoniam non est in manu mea malum, neque iniquitas, neque peccavi in te: tu autem insidiaris anim me ut auferas eam."
+        },
+        {
+          "number": 13,
+          "text": "Judicet Dominus inter me et te, et ulciscatur me Dominus ex te: manus autem mea non sit in te."
+        },
+        {
+          "number": 14,
+          "text": "Sicut et in proverbio antiquo dicitur: Ab impiis egredietur impietas: manus ergo mea non sit in te."
+        },
+        {
+          "number": 15,
+          "text": "Quem persequeris, rex Isral? quem persequeris? canem mortuum persequeris, et pulicem unum."
+        },
+        {
+          "number": 16,
+          "text": "Sit Dominus judex, et judicet inter me et te: et videat, et judicet causam meam, et eruat me de manu tua."
+        },
+        {
+          "number": 17,
+          "text": "Cum autem complesset David loquens sermones hujuscemodi ad Saul, dixit Saul: Numquid vox hc tua est, fili mi David? Et levavit Saul vocem suam, et flevit:"
+        },
+        {
+          "number": 18,
+          "text": "dixitque ad David: Justior tu es quam ego: tu enim tribuisti mihi bona, ego autem reddidi tibi mala."
+        },
+        {
+          "number": 19,
+          "text": "Et tu indicasti hodie qu feceris mihi bona: quomodo tradiderit me Dominus in manum tuam, et non occideris me."
+        },
+        {
+          "number": 20,
+          "text": "Quis enim cum invenerit inimicum suum, dimittet eum in via bona? sed Dominus reddat tibi vicissitudinem hanc pro eo quod hodie operatus es in me."
+        },
+        {
+          "number": 21,
+          "text": "Et nunc quia scio quod certissime regnaturus sis, et habiturus in manu tua regnum Isral:"
+        },
+        {
+          "number": 22,
+          "text": "jura mihi in Domino, ne deleas semen meum post me, neque auferas nomen meum de domo patris mei."
+        },
+        {
+          "number": 23,
+          "text": "Et juravit David Sauli. Abiit ergo Saul in domum suam: et David et viri ejus ascenderunt ad tutiora loca."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mortuus est autem Samuel, et congregatus est universus Isral, et planxerunt eum, et sepelierunt eum in domo sua in Ramatha. Consurgensque David descendit in desertum Pharan."
+        },
+        {
+          "number": 2,
+          "text": "Erat autem vir quispiam in solitudine Maon, et possessio ejus in Carmelo, et homo ille magnus nimis: erantque ei oves tria millia, et mille capr: et accidit ut tonderetur grex ejus in Carmelo."
+        },
+        {
+          "number": 3,
+          "text": "Nomen autem viri illius erat Nabal. Et nomen uxoris ejus Abigail: eratque mulier illa prudentissima, et speciosa: porro vir ejus durus, et pessimus, et malitiosus: erat autem de genere Caleb."
+        },
+        {
+          "number": 4,
+          "text": "Cum ergo audisset David in deserto quod tonderet Nabal gregem suum,"
+        },
+        {
+          "number": 5,
+          "text": "misit decem juvenes, et dixit eis: Ascendite in Carmelum, et venietis ad Nabal, et salutabitis eum ex nomine meo pacifice."
+        },
+        {
+          "number": 6,
+          "text": "Et dicetis: Sit fratribus meis et tibi pax, et domui tu pax, et omnibus, qucumque habes, sit pax."
+        },
+        {
+          "number": 7,
+          "text": "Audivi quod tonderent pastores tui, qui erant nobiscum in deserto: numquam eis molesti fuimus, nec aliquando defuit quidquam eis de grege, omni tempore quo fuerunt nobiscum in Carmelo."
+        },
+        {
+          "number": 8,
+          "text": "Interroga pueros tuos, et indicabunt tibi. Nunc ergo inveniant pueri tui gratiam in oculis tuis: in die enim bona venimus: quodcumque invenerit manus tua, da servis tuis, et filio tuo David."
+        },
+        {
+          "number": 9,
+          "text": "Cumque venissent pueri David, locuti sunt ad Nabal omnia verba hc ex nomine David: et siluerunt."
+        },
+        {
+          "number": 10,
+          "text": "Respondens autem Nabal pueris David, ait: Quis est David? et quis est filius Isai? hodie increverunt servi qui fugiunt dominos suos."
+        },
+        {
+          "number": 11,
+          "text": "Tollam ergo panes meos, et aquas meas, et carnes pecorum qu occidi tonsoribus meis, et dabo viris quos nescio unde sint?"
+        },
+        {
+          "number": 12,
+          "text": "Regressi sunt itaque pueri David per viam suam, et reversi venerunt, et nuntiaverunt ei omnia verba qu dixerat."
+        },
+        {
+          "number": 13,
+          "text": "Tunc ait David pueris suis: Accingatur unusquisque gladio suo. Et accincti sunt singuli gladiis suis, accinctusque est et David ense suo: et secuti sunt David quasi quadringenti viri: porro ducenti remanserunt ad sarcinas."
+        },
+        {
+          "number": 14,
+          "text": "Abigail autem uxori Nabal nuntiavit unus de pueris suis, dicens: Ecce David misit nuntios de deserto, ut benedicerent domino nostro: et aversatus est eos."
+        },
+        {
+          "number": 15,
+          "text": "Homines isti boni satis fuerant nobis, et non molesti: nec quidquam aliquando periit omni tempore quo fuimus conversati cum eis in deserto:"
+        },
+        {
+          "number": 16,
+          "text": "pro muro erant nobis tam in nocte quam in die, omnibus diebus quibus pavimus apud eos greges."
+        },
+        {
+          "number": 17,
+          "text": "Quam ob rem considera, et recogita quid facias: quoniam completa est malitia adversum virum tuum, et adversum domum tuam, et ipse est filius Belial, ita ut nemo possit ei loqui."
+        },
+        {
+          "number": 18,
+          "text": "Festinavit igitur Abigail, et tulit ducentos panes, et duos utres vini, et quinque arietes coctos, et quinque sata polent, et centum ligaturas uv pass, et ducentas massas caricarum, et posuit super asinos:"
+        },
+        {
+          "number": 19,
+          "text": "dixitque pueris suis: Prcedite me: ecce ego post tergum sequar vos: viro autem suo Nabal non indicavit."
+        },
+        {
+          "number": 20,
+          "text": "Cum ergo ascendisset asinum, et descenderet ad radices montis, David et viri ejus descendebant in occursum ejus: quibus et illa occurrit."
+        },
+        {
+          "number": 21,
+          "text": "Et ait David: Vere frustra servavi omnia qu hujus erant in deserto, et non periit quidquam de cunctis qu ad eum pertinebant: et reddidit mihi malum pro bono."
+        },
+        {
+          "number": 22,
+          "text": "Hc faciat Deus inimicis David, et hc addat, si reliquero de omnibus qu ad ipsum pertinent usque mane mingentem ad parietem."
+        },
+        {
+          "number": 23,
+          "text": "Cum autem vidisset Abigail David, festinavit, et descendit de asino, et procidit coram David super faciem suam, et adoravit super terram,"
+        },
+        {
+          "number": 24,
+          "text": "et cecidit ad pedes ejus, et dixit: In me sit, domine mi, hc iniquitas: loquatur, obsecro, ancilla tua in auribus tuis, et audi verba famul tu."
+        },
+        {
+          "number": 25,
+          "text": "Ne ponat, oro, dominus meus rex cor suum super virum istum iniquum Nabal: quoniam secundum nomen suum stultus est, et stultitia est cum eo: ego autem ancilla tua non vidi pueros tuos, domine mi, quos misisti."
+        },
+        {
+          "number": 26,
+          "text": "Nunc ergo, domine mi, vivit Dominus, et vivit anima tua, qui prohibuit te ne venires in sanguinem, et salvavit manum tuam tibi: et nunc fiant sicut Nabal inimici tui, et qui qurunt domino meo malum."
+        },
+        {
+          "number": 27,
+          "text": "Quapropter suscipe benedictionem hanc, quam attulit ancilla tua tibi domino meo, et da pueris qui sequuntur te dominum meum."
+        },
+        {
+          "number": 28,
+          "text": "Aufer iniquitatem famul tu: faciens enim faciet Dominus tibi domino meo domum fidelem, quia prlia Domini, domine mi, tu prliaris: malitia ergo non inveniatur in te omnibus diebus vit tu."
+        },
+        {
+          "number": 29,
+          "text": "Si enim surrexerit aliquando homo persequens te, et qurens animam tuam, erit anima domini mei custodita quasi in fasciculo viventium apud Dominum Deum tuum: porro inimicorum tuorum anima rotabitur, quasi in impetu et circulo fund."
+        },
+        {
+          "number": 30,
+          "text": "Cum ergo fecerit Dominus tibi domino meo omnia qu locutus est bona de te, et constituerit te ducem super Isral,"
+        },
+        {
+          "number": 31,
+          "text": "non erit tibi hoc in singultum, et in scrupulum cordis domino meo, quod effuderis sanguinem innoxium, aut ipse te ultus fueris: et cum benefecerit Dominus domino meo, recordaberis ancill tu."
+        },
+        {
+          "number": 32,
+          "text": "Et ait David ad Abigail: Benedictus Dominus Deus Isral, qui misit hodie te in occursum meum, et benedictum eloquium tuum,"
+        },
+        {
+          "number": 33,
+          "text": "et benedicta tu, qu prohibuisti me hodie ne irem ad sanguinem, et ulciscerer me manu mea."
+        },
+        {
+          "number": 34,
+          "text": "Alioquin vivit Dominus Deus Isral, qui prohibuit me ne malum facerem tibi: nisi cito venisses in occursum mihi, non remansisset Nabal usque ad lucem matutinam mingens ad parietem."
+        },
+        {
+          "number": 35,
+          "text": "Suscepit ergo David de manu ejus omnia qu attulerat ei, dixitque ei: Vade pacifice in domum tuam: ecce audivi vocem tuam, et honoravi faciem tuam."
+        },
+        {
+          "number": 36,
+          "text": "Venit autem Abigail ad Nabal: et ecce erat ei convivium in domo ejus quasi convivium regis, et cor Nabal jucundum: erat enim ebrius nimis: et non indicavit ei verbum pusillum aut grande usque mane."
+        },
+        {
+          "number": 37,
+          "text": "Diluculo autem cum digessisset vinum Nabal, indicavit ei uxor sua verba hc: et emortuum est cor ejus intrinsecus, et factus est quasi lapis."
+        },
+        {
+          "number": 38,
+          "text": "Cumque pertransissent decem dies, percussit Dominus Nabal, et mortuus est."
+        },
+        {
+          "number": 39,
+          "text": "Quod cum audisset David mortuum Nabal, ait: Benedictus Dominus, qui judicavit causam opprobrii mei de manu Nabal, et servum suum custodivit a malo, et malitiam Nabal reddidit Dominus in caput ejus. Misit ergo David, et locutus est ad Abigail, ut sumeret eam sibi in uxorem."
+        },
+        {
+          "number": 40,
+          "text": "Et venerunt pueri David ad Abigail in Carmelum, et locuti sunt ad eam, dicentes: David misit nos ad te, ut accipiat te sibi in uxorem."
+        },
+        {
+          "number": 41,
+          "text": "Qu consurgens, adoravit prona in terram, et ait: Ecce famula tua sit in ancillam, ut lavet pedes servorum domini mei."
+        },
+        {
+          "number": 42,
+          "text": "Et festinavit, et surrexit Abigail, et ascendit super asinum, et quinque puell ierunt cum ea, pedissequ ejus, et secuta est nuntios David: et facta est illi uxor."
+        },
+        {
+          "number": 43,
+          "text": "Sed et Achinoam accepit David de Jezral: et fuit utraque uxor ejus."
+        },
+        {
+          "number": 44,
+          "text": "Saul autem dedit Michol filiam suam, uxorem David, Phalti filio Lais, qui erat de Gallim."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et venerunt Ziphi ad Saul in Gabaa, dicentes: Ecce David absconditus est in colle Hachila, qu est ex adverso solitudinis."
+        },
+        {
+          "number": 2,
+          "text": "Et surrexit Saul, et descendit in desertum Ziph, et cum eo tria millia virorum de electis Isral, ut qureret David in deserto Ziph."
+        },
+        {
+          "number": 3,
+          "text": "Et castrametatus est Saul in Gabaa Hachila, qu erat ex adverso solitudinis in via: David autem habitabat in deserto. Videns autem quod venisset Saul post se in desertum,"
+        },
+        {
+          "number": 4,
+          "text": "misit exploratores, et didicit quod illuc venisset certissime."
+        },
+        {
+          "number": 5,
+          "text": "Et surrexit David clam, et venit ad locum ubi erat Saul: cumque vidisset locum in quo dormiebat Saul, et Abner filius Ner, princeps militi ejus, et Saulem dormientem in tentorio, et reliquum vulgus per circuitum ejus,"
+        },
+        {
+          "number": 6,
+          "text": "ait David ad Achimelech Hethum, et Abisai filium Sarvi fratrem Joab, dicens: Quis descendet mecum ad Saul in castra? Dixitque Abisai: Ego descendam tecum."
+        },
+        {
+          "number": 7,
+          "text": "Venerunt ergo David et Abisai ad populum nocte, et invenerunt Saul jacentem et dormientem in tentorio, et hastam fixam in terra ad caput ejus: Abner autem et populum dormientes in circuitu ejus."
+        },
+        {
+          "number": 8,
+          "text": "Dixitque Abisai ad David: Conclusit Deus inimicum tuum hodie in manus tuas: nunc ergo perfodiam eum lancea in terra semel, et secundo opus non erit."
+        },
+        {
+          "number": 9,
+          "text": "Et dixit David ad Abisai: Ne interficias eum: quis enim extendet manum suam in christum Domini, et innocens erit?"
+        },
+        {
+          "number": 10,
+          "text": "Et dixit David: Vivit Dominus, quia nisi Dominus percusserit eum, aut dies ejus venerit ut moriatur, aut in prlium descendens perierit:"
+        },
+        {
+          "number": 11,
+          "text": "propitius sit mihi Dominus ne extendam manum meam in christum Domini. Nunc igitur tolle hastam qu est ad caput ejus, et scyphum aqu, et abeamus."
+        },
+        {
+          "number": 12,
+          "text": "Tulit igitur David hastam, et scyphum aqu qui erat ad caput Saul, et abierunt: et non erat quisquam qui videret, et intelligeret, et evigilaret, sed omnes dormiebant, quia sopor Domini irruerat super eos."
+        },
+        {
+          "number": 13,
+          "text": "Cumque transisset David ex adverso, et stetisset in vertice montis de longe, et esset grande intervallum inter eos,"
+        },
+        {
+          "number": 14,
+          "text": "clamavit David ad populum, et ad Abner filium Ner, dicens: Nonne respondebis, Abner? Et respondens Abner, ait: Quis es tu, qui clamas, et inquietas regem?"
+        },
+        {
+          "number": 15,
+          "text": "Et ait David ad Abner: Numquid non vir tu es? et quis alius similis tui in Isral? quare ergo non custodisti dominum tuum regem? ingressus est enim unus de turba ut interficeret regem dominum tuum."
+        },
+        {
+          "number": 16,
+          "text": "Non est bonum hoc, quod fecisti: vivit Dominus, quoniam filii mortis estis vos, qui non custodistis dominum vestrum, christum Domini: nunc ergo vide ubi sit hasta regis, et ubi sit scyphus aqu qui erat ad caput ejus."
+        },
+        {
+          "number": 17,
+          "text": "Cognovit autem Saul vocem David, et dixit: Numquid vox hc tua, fili mi David? Et ait David: Vox mea, domine mi rex."
+        },
+        {
+          "number": 18,
+          "text": "Et ait: Quam ob causam dominus meus persequitur servum suum? quid feci? aut quod est malum in manu mea?"
+        },
+        {
+          "number": 19,
+          "text": "Nunc ergo audi, oro, domine mi rex, verba servi tui: si Dominus incitat te adversum me, odoretur sacrificium: si autem filii hominum, maledicti sunt in conspectu Domini qui ejecerunt me hodie ut non habitem in hreditate Domini, dicentes: Vade, servi diis alienis."
+        },
+        {
+          "number": 20,
+          "text": "Et nunc non effundatur sanguis meus in terram coram Domino: quia egressus est rex Isral ut qurat pulicem unum, sicut persequitur perdix in montibus."
+        },
+        {
+          "number": 21,
+          "text": "Et ait Saul: Peccavi: revertere, fili mi David: nequaquam enim ultra tibi malefaciam, eo quod pretiosa fuerit anima mea in oculis tuis hodie: apparet enim quod stulte egerim, et ignoraverim multa nimis."
+        },
+        {
+          "number": 22,
+          "text": "Et respondens David, ait: Ecce hasta regis: transeat unus de pueris regis, et tollat eam."
+        },
+        {
+          "number": 23,
+          "text": "Dominus autem retribuet unicuique secundum justitiam suam et fidem: tradidit enim te Dominus hodie in manum meam, et nolui extendere manum meam in christum Domini."
+        },
+        {
+          "number": 24,
+          "text": "Et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur anima mea in oculis Domini, et liberet me de omni angustia."
+        },
+        {
+          "number": 25,
+          "text": "Ait ergo Saul ad David: Benedictus tu, fili mi David: et quidem faciens facies, et potens poteris. Abiit autem David in viam suam, et Saul reversus est in locum suum."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et ait David in corde suo: Aliquando incidam una die in manus Saul: nonne melius est ut fugiam, et salver in terra Philisthinorum, ut desperet Saul, cessetque me qurere in cunctis finibus Isral? fugiam ergo manus ejus."
+        },
+        {
+          "number": 2,
+          "text": "Et surrexit David, et abiit ipse, et sexcenti viri cum eo, ad Achis filium Maoch regem Geth."
+        },
+        {
+          "number": 3,
+          "text": "Et habitavit David cum Achis in Geth, ipse et viri ejus: vir et domus ejus: et David, et du uxores ejus, Achinoam Jezrahelitis, et Abigail uxor Nabal Carmeli."
+        },
+        {
+          "number": 4,
+          "text": "Et nuntiatum est Sauli quod fugisset David in Geth, et non addidit ultra qurere eum."
+        },
+        {
+          "number": 5,
+          "text": "Dixit autem David ad Achis: Si inveni gratiam in oculis tuis, detur mihi locus in una urbium regionis hujus, ut habitem ibi: cur enim manet servus tuus in civitate regis tecum?"
+        },
+        {
+          "number": 6,
+          "text": "Dedit itaque ei Achis in die illa Siceleg: propter quam causam facta est Siceleg regum Juda usque in diem hanc."
+        },
+        {
+          "number": 7,
+          "text": "Fuit autem numerus dierum quibus habitavit David in regione Philisthinorum, quatuor mensium."
+        },
+        {
+          "number": 8,
+          "text": "Et ascendit David et viri ejus, et agebant prdas de Gessuri, et de Gerzi, et de Amalecitis: hi enim pagi habitabantur in terra antiquitus, euntibus Sur usque ad terram gypti."
+        },
+        {
+          "number": 9,
+          "text": "Et percutiebat David omnem terram, nec relinquebat viventem virum et mulierem: tollensque oves, et boves, et asinos, et camelos, et vestes, revertebatur, et veniebat ad Achis."
+        },
+        {
+          "number": 10,
+          "text": "Dicebat autem ei Achis: In quem irruisti hodie? Respondebat David: Contra meridiem Jud, et contra meridiem Jerameel, et contra meridiem Ceni."
+        },
+        {
+          "number": 11,
+          "text": "Virum et mulierem non vivificabat David, nec adducebat in Geth, dicens: Ne forte loquantur adversum nos: Hc fecit David: et hoc erat decretum illi omnibus diebus quibus habitavit in regione Philisthinorum."
+        },
+        {
+          "number": 12,
+          "text": "Credidit ergo Achis David, dicens: Multa mala operatus est contra populum suum Isral: erit igitur mihi servus sempiternus."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Factum est autem in diebus illis, congregaverunt Philisthiim agmina sua, ut prpararentur ad bellum contra Isral: dixitque Achis ad David: Sciens nunc scito quoniam mecum egredieris in castris, tu et viri tui."
+        },
+        {
+          "number": 2,
+          "text": "Dixitque David ad Achis: Nunc scies qu facturus est servus tuus. Et ait Achis ad David: Et ego custodem capitis mei ponam te cunctis diebus."
+        },
+        {
+          "number": 3,
+          "text": "Samuel autem mortuus est, planxitque eum omnis Isral, et sepelierunt eum in Ramatha urbe sua. Et Saul abstulit magos et hariolos de terra."
+        },
+        {
+          "number": 4,
+          "text": "Congregatique sunt Philisthiim, et venerunt, et castrametati sunt in Sunam: congregavit autem et Saul universum Isral, et venit in Gelbo."
+        },
+        {
+          "number": 5,
+          "text": "Et vidit Saul castra Philisthiim, et timuit, et expavit cor ejus nimis."
+        },
+        {
+          "number": 6,
+          "text": "Consuluitque Dominum, et non respondit ei neque per somnia, neque per sacerdotes, neque per prophetas."
+        },
+        {
+          "number": 7,
+          "text": "Dixitque Saul servis suis: Qurite mihi mulierem habentem pythonem, et vadam ad eam, et sciscitabor per illam. Et dixerunt servi ejus ad eum: Est mulier pythonem habens in Endor."
+        },
+        {
+          "number": 8,
+          "text": "Mutavit ergo habitum suum, vestitusque est aliis vestimentis, et abiit ipse, et duo viri cum eo: veneruntque ad mulierem nocte, et ait illi: Divina mihi in pythone, et suscita mihi quem dixero tibi."
+        },
+        {
+          "number": 9,
+          "text": "Et ait mulier ad eum: Ecce, tu nosti quanta fecerit Saul, et quomodo eraserit magos et hariolos de terra: quare ergo insidiaris anim me, ut occidar?"
+        },
+        {
+          "number": 10,
+          "text": "Et juravit ei Saul in Domino, dicens: Vivit Dominus, quia non eveniet tibi quidquam mali propter hanc rem."
+        },
+        {
+          "number": 11,
+          "text": "Dixitque ei mulier: Quem suscitabo tibi? Qui ait: Samuelem mihi suscita."
+        },
+        {
+          "number": 12,
+          "text": "Cum autem vidisset mulier Samuelem, exclamavit voce magna, et dixit ad Saul: Quare imposuisti mihi? tu es enim Saul."
+        },
+        {
+          "number": 13,
+          "text": "Dixitque ei rex: Noli timere: quid vidisti? Et ait mulier ad Saul: Deos vidi ascendentes de terra."
+        },
+        {
+          "number": 14,
+          "text": "Dixitque ei: Qualis est forma ejus? Qu ait: Vir senex ascendit, et ipse amictus est pallio. Et intellexit Saul quod Samuel esset, et inclinavit se super faciem suam in terra, et adoravit."
+        },
+        {
+          "number": 15,
+          "text": "Dixit autem Samuel ad Saul: Quare inquietasti me ut suscitarer? Et ait Saul: Coarctor nimis: siquidem Philisthiim pugnant adversum me, et Deus recessit a me, et exaudire me noluit neque in manu prophetarum, neque per somnia: vocavi ergo te, ut ostenderes mihi quid faciam."
+        },
+        {
+          "number": 16,
+          "text": "Et ait Samuel: Quid interrogas me, cum Dominus recesserit a te, et transierit ad mulum tuum?"
+        },
+        {
+          "number": 17,
+          "text": "Faciet enim tibi Dominus sicut locutus est in manu mea, et scindet regnum tuum de manu tua et dabit illud proximo tuo David:"
+        },
+        {
+          "number": 18,
+          "text": "quia non obedisti voci Domini, neque fecisti iram furoris ejus in Amalec: idcirco quod pateris, fecit tibi Dominus hodie."
+        },
+        {
+          "number": 19,
+          "text": "Et dabit Dominus etiam Isral tecum in manus Philisthiim: cras autem tu et filii tui mecum eritis: sed et castra Isral tradet Dominus in manus Philisthiim."
+        },
+        {
+          "number": 20,
+          "text": "Statimque Saul cecidit porrectus in terram: extimuerat enim verba Samuelis, et robur non erat in eo, quia non comederat panem tota die illa."
+        },
+        {
+          "number": 21,
+          "text": "Ingressa est itaque mulier illa ad Saul (conturbatus enim erat valde), dixitque ad eum: Ecce obedivit ancilla tua voci tu, et posui animam meam in manu mea: et audivi sermones tuos, quos locutus es ad me."
+        },
+        {
+          "number": 22,
+          "text": "Nunc igitur audi et tu vocem ancill tu, et ponam coram te buccellam panis, ut comedens convalescas, et possis iter agere."
+        },
+        {
+          "number": 23,
+          "text": "Qui renuit, et ait: Non comedam. Cogerunt autem eum servi sui et mulier, et tandem audita voce eorum surrexit de terra, et sedit super lectum."
+        },
+        {
+          "number": 24,
+          "text": "Mulier autem illa habebat vitulum pascualem in domo, et festinavit, et occidit eum: tollensque farinam, miscuit eam, et coxit azyma,"
+        },
+        {
+          "number": 25,
+          "text": "et posuit ante Saul et ante servos ejus. Qui cum comedissent, surrexerunt, et ambulaverunt per totam noctem illam."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Congregata sunt ergo Philisthiim universa agmina in Aphec: sed et Isral castrametatus est super fontem qui erat in Jezrahel."
+        },
+        {
+          "number": 2,
+          "text": "Et satrap quidem Philisthiim incedebant in centuriis et millibus: David autem et viri ejus erant in novissimo agmine cum Achis."
+        },
+        {
+          "number": 3,
+          "text": "Dixeruntque principes Philisthiim ad Achis: Quid sibi volunt Hebri isti? Et ait Achis ad principes Philisthiim: Num ignoratis David, qui fuit servus Saul regis Isral, et est apud me multis diebus, vel annis, et non inveni in eo quidquam ex die qua transfugit ad me usque ad diem hanc?"
+        },
+        {
+          "number": 4,
+          "text": "Irati sunt autem adversus eum principes Philisthiim, et dixerunt ei: Revertatur vir iste, et sedeat in loco suo in quo constituisti eum, et non descendat nobiscum in prlium, ne fiat nobis adversarius, cum prliari cperimus: quomodo enim aliter poterit placare dominum suum, nisi in capitibus nostris?"
+        },
+        {
+          "number": 5,
+          "text": "Nonne iste est David, cui cantabant in choris, dicentes: [Percussit Saul in millibus suis, et David in decem millibus suis?]"
+        },
+        {
+          "number": 6,
+          "text": "Vocavit ergo Achis David, et ait ei: Vivit Dominus, quia rectus es tu, et bonus in conspectu meo: et exitus tuus, et introitus tuus mecum est in castris: et non inveni in te quidquam mali ex die qua venisti ad me usque in diem hanc: sed satrapis non places."
+        },
+        {
+          "number": 7,
+          "text": "Revertere ergo, et vade in pace, et non offendas oculos satraparum Philisthiim."
+        },
+        {
+          "number": 8,
+          "text": "Dixitque David ad Achis: Quid enim feci, et quid invenisti in me servo tuo, a die qua fui in conspectu tuo usque in diem hanc, ut non veniam et pugnem contra inimicos domini mei regis?"
+        },
+        {
+          "number": 9,
+          "text": "Respondens autem Achis, locutus est ad David: Scio quia bonus es tu in oculis meis, sicut angelus Dei: sed principes Philisthinorum dixerunt: Non ascendet nobiscum in prlium."
+        },
+        {
+          "number": 10,
+          "text": "Igitur consurge mane tu, et servi domini tui qui venerunt tecum: et cum de nocte surrexeritis, et cperit dilucescere, pergite."
+        },
+        {
+          "number": 11,
+          "text": "Surrexit itaque de nocte David, ipse et viri ejus, ut proficiscerentur mane, et reverterentur ad terram Philisthiim: Philisthiim autem ascenderunt in Jezrahel."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cumque venissent David et viri ejus in Siceleg die tertia, Amalecit impetum fecerant ex parte australi in Siceleg, et percusserant Siceleg, et succenderant eam igni."
+        },
+        {
+          "number": 2,
+          "text": "Et captivas duxerant mulieres ex ea, a minimo usque ad magnum: et non interfecerant quemquam, sed secum duxerant, et pergebant itinere suo."
+        },
+        {
+          "number": 3,
+          "text": "Cum ergo venissent David et viri ejus ad civitatem, et invenissent eam succensam igni, et uxores suas, et filios suos et filias, ductas esse captivas,"
+        },
+        {
+          "number": 4,
+          "text": "levaverunt David et populus qui erat cum eo voces suas, et planxerunt donec deficerent in eis lacrim."
+        },
+        {
+          "number": 5,
+          "text": "Siquidem et du uxores David captiv duct fuerant, Achinoam Jezrahelites, et Abigail uxor Nabal Carmeli."
+        },
+        {
+          "number": 6,
+          "text": "Et contristatus est David valde: volebat enim eum populus lapidare, quia amara erat anima uniuscujusque viri super filiis suis et filiabus: confortatus est autem David in Domino Deo suo."
+        },
+        {
+          "number": 7,
+          "text": "Et ait ad Abiathar sacerdotem filium Achimelech: Applica ad me ephod. Et applicavit Abiathar ephod ad David."
+        },
+        {
+          "number": 8,
+          "text": "Et consuluit David Dominum, dicens: Persequar latrunculos hos, et comprehendam eos, an non? Dixitque ei Dominus: Persequere: absque dubio enim comprehendes eos, et excuties prdam."
+        },
+        {
+          "number": 9,
+          "text": "Abiit ergo David, ipse et sexcenti viri qui erant cum eo, et venerunt usque ad torrentem Besor: et lassi quidam substiterunt."
+        },
+        {
+          "number": 10,
+          "text": "Persecutus est autem David ipse, et quadringenti viri: substiterant enim ducenti, qui lassi transire non poterant torrentem Besor."
+        },
+        {
+          "number": 11,
+          "text": "Et invenerunt virum gyptium in agro, et adduxerunt eum ad David: dederuntque ei panem ut comederet, et biberet aquam,"
+        },
+        {
+          "number": 12,
+          "text": "sed et fragmen mass caricarum, et duas ligaturas uv pass. Qu cum comedisset, reversus est spiritus ejus, et refocillatus est: non enim comederat panem, neque biberat aquam, tribus diebus et tribus noctibus."
+        },
+        {
+          "number": 13,
+          "text": "Dixit itaque ei David: Cujus es tu? vel unde? et quo pergis? Qui ait: Puer gyptius ego sum, servus viri Amalecit: dereliquit autem me dominus meus, quia grotare cpi nudiustertius."
+        },
+        {
+          "number": 14,
+          "text": "Siquidem nos erupimus ad australem plagam Cerethi, et contra Judam, et ad meridiem Caleb, et Siceleg succendimus igni."
+        },
+        {
+          "number": 15,
+          "text": "Dixitque ei David: Potes me ducere ad cuneum istum? Qui ait: Jura mihi per Deum quod non occidas me, et non tradas me in manus domini mei, et ego ducam te ad cuneum istum. Et juravit ei David."
+        },
+        {
+          "number": 16,
+          "text": "Qui cum duxisset eum, ecce illi discumbebant super faciem univers terr comedentes et bibentes, et quasi festum celebrantes diem, pro cuncta prda et spoliis qu ceperant de terra Philisthiim et de terra Juda."
+        },
+        {
+          "number": 17,
+          "text": "Et percussit eos David a vespere usque ad vesperam alterius diei, et non evasit ex eis quisquam, nisi quadringenti viri adolescentes, qui ascenderant camelos et fugerant."
+        },
+        {
+          "number": 18,
+          "text": "Eruit ergo David omnia qu tulerant Amalecit, et duas uxores suas eruit."
+        },
+        {
+          "number": 19,
+          "text": "Nec defuit quidquam a parvo usque ad magnum, tam de filiis quam de filiabus, et de spoliis, et qucumque rapuerant: omnia reduxit David."
+        },
+        {
+          "number": 20,
+          "text": "Et tulit universos greges et armenta, et minavit ante faciem suam: dixeruntque: Hc est prda David."
+        },
+        {
+          "number": 21,
+          "text": "Venit autem David ad ducentos viros qui lassi subsisterant, nec sequi potuerant David, et residere eos jusserat in torrente Besor: qui egressi sunt obviam David et populo qui erat cum eo. Accedens autem David ad populum, salutavit eos pacifice."
+        },
+        {
+          "number": 22,
+          "text": "Respondensque omnis vir pessimus et iniquus de viris qui ierant cum David, dixit: Quia non venerunt nobiscum, non dabimus eis quidquam de prda quam eruimus: sed sufficiat unicuique uxor sua et filii: quos cum acceperint, recedant."
+        },
+        {
+          "number": 23,
+          "text": "Dixit autem David: Non sic facietis, fratres mei, de his qu tradidit nobis Dominus, et custodivit nos, et dedit latrunculos qui eruperant adversum nos, in manus nostras:"
+        },
+        {
+          "number": 24,
+          "text": "nec audiet vos quisquam super sermone hoc: qua enim pars erit descendentis ad prlium, et remanentis ad sarcinas, et similiter divident."
+        },
+        {
+          "number": 25,
+          "text": "Et factum est hoc ex die illa et deinceps, constitutum et prfinitum, et quasi lex in Isral usque in diem hanc."
+        },
+        {
+          "number": 26,
+          "text": "Venit ergo David in Siceleg, et misit dona de prda senioribus Juda proximis suis, dicens: Accipite benedictionem de prda hostium Domini:"
+        },
+        {
+          "number": 27,
+          "text": "his qui erant in Bethel, et qui in Ramoth ad meridiem, et qui in Jether,"
+        },
+        {
+          "number": 28,
+          "text": "et qui in Aror, et qui in Sephamoth, et qui in Esthamo,"
+        },
+        {
+          "number": 29,
+          "text": "et qui in Rachal, et qui in urbibus Jerameel, et qui in urbibus Ceni,"
+        },
+        {
+          "number": 30,
+          "text": "et qui in Arama, et qui in lacu Asan, et qui in Athach,"
+        },
+        {
+          "number": 31,
+          "text": "et qui in Hebron, et reliquis qui erant in his locis in quibus commoratus fuerat David, ipse et viri ejus."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Philisthiim autem pugnabant adversum Isral: et fugerunt viri Isral ante faciem Philisthiim, et ceciderunt interfecti in monte Gelbo."
+        },
+        {
+          "number": 2,
+          "text": "Irrueruntque Philisthiim in Saul et in filios ejus, et percusserunt Jonathan, et Abinadab, et Melchisua filios Saul:"
+        },
+        {
+          "number": 3,
+          "text": "totumque pondus prlii versum est in Saul, et consecuti sunt eum viri sagittarii, et vulneratus est vehementer a sagittariis."
+        },
+        {
+          "number": 4,
+          "text": "Dixitque Saul ad armigerum suum: Evagina gladium tuum, et percute me: ne forte veniant incircumcisi isti, et interficiant me, illudentes mihi. Et noluit armiger ejus: fuerat enim nimio terrore perterritus. Arripuit itaque Saul gladium, et irruit super eum."
+        },
+        {
+          "number": 5,
+          "text": "Quod cum vidisset armiger ejus, videlicet quod mortuus esset Saul, irruit etiam ipse super gladium suum, et mortuus est cum eo."
+        },
+        {
+          "number": 6,
+          "text": "Mortuus est ergo Saul, et tres filii ejus, et armiger illius, et universi viri ejus in die illa pariter."
+        },
+        {
+          "number": 7,
+          "text": "Videntes autem viri Isral qui erant trans vallem et trans Jordanem, quod fugissent viri Isralit, et quod mortuus esset Saul et filii ejus, reliquerunt civitates suas, et fugerunt: veneruntque Philisthiim, et habitaverunt ibi."
+        },
+        {
+          "number": 8,
+          "text": "Facta autem die altera, venerunt Philisthiim ut spoliarent interfectos, et invenerunt Saul et tres filios ejus jacentes in monte Gelbo."
+        },
+        {
+          "number": 9,
+          "text": "Et prciderunt caput Saul, et spoliaverunt eum armis: et miserunt in terram Philisthinorum per circuitum, ut annuntiaretur in templo idolorum, et in populis."
+        },
+        {
+          "number": 10,
+          "text": "Et posuerunt arma ejus in templo Astaroth, corpus vero ejus suspenderunt in muro Bethsan."
+        },
+        {
+          "number": 11,
+          "text": "Quod cum audissent habitatores Jabes Galaad, qucumque fecerant Philisthiim Saul,"
+        },
+        {
+          "number": 12,
+          "text": "surrexerunt omnes viri fortissimi, et ambulaverunt tota nocte, et tulerunt cadaver Saul, et cadavera filiorum ejus, de muro Bethsan: veneruntque Jabes Galaad, et combusserunt ea ibi:"
+        },
+        {
+          "number": 13,
+          "text": "et tulerunt ossa eorum, et sepelierunt in nemore Jabes, et jejunaverunt septem diebus."
+        }
+      ]
+    }
+  ]
+}

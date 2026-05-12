@@ -1,0 +1,1821 @@
+{
+  "version": "bkr",
+  "book": "Rom",
+  "bookId": 45,
+  "englishName": "Romans",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pavel, služebník Jezukristův, povolaný apoštol, oddělený k kázaní evangelium Božího,"
+        },
+        {
+          "number": 2,
+          "text": "(Kteréžto zdávna zaslíbil skrze proroky své v Písmích svatých,)"
+        },
+        {
+          "number": 3,
+          "text": "O Synu jeho, (zplozeném z semene Davidova s strany těla,"
+        },
+        {
+          "number": 4,
+          "text": "Kterýž prokázán jest býti Synem Božím mocně, podle Ducha posvěcení, skrze z mrtvých vstání,) totiž o Ježíši Kristu, Pánu našem,"
+        },
+        {
+          "number": 5,
+          "text": "Skrze něhožto jsme přijali milost a apoštolství ku poslušenství víry mezi všemi národy pro jméno jeho,"
+        },
+        {
+          "number": 6,
+          "text": "Z nichžto i vy jste povolaní Ježíše Krista,"
+        },
+        {
+          "number": 7,
+          "text": "Všechněm, kteříž jste v Římě, milým Božím, povolaným svatým: Milost vám a pokoj od Boha Otce našeho a Pána Ježíše Krista."
+        },
+        {
+          "number": 8,
+          "text": "Nejprve pak díky činím Bohu svému skrze Ježíše Krista ze všech vás, že víra vaše rozhlašuje se po všem světě."
+        },
+        {
+          "number": 9,
+          "text": "Svědek mi jest zajisté Bůh, kterémužto sloužím duchem mým v evangelium Syna jeho, žeť bez přestání zmínku o vás činím,"
+        },
+        {
+          "number": 10,
+          "text": "Vždycky na svých modlitbách žádaje, abych aspoň někdy mohl šťastně k vám, byla-li by vůle Boží, přijíti."
+        },
+        {
+          "number": 11,
+          "text": "Neboť velice žádám viděti vás, abych vám udělil částku nějakou milosti duchovní ku potvrzení vašemu,"
+        },
+        {
+          "number": 12,
+          "text": "To jest, abych spolu s vámi potěšen byl, skrze společnou i vaši i mou víru."
+        },
+        {
+          "number": 13,
+          "text": "Nechciť pak, bratří, abyste nevěděli, žeť jsem mnohokrát již uložil přijíti k vám, (ale překážky jsem měl až dosavad,) abych nějaký užitek také i mezi vámi měl, jako i mezi jinými národy."
+        },
+        {
+          "number": 14,
+          "text": "Nebo Řekům i kterýmkoli jiným národům, i moudrým i nemoudrým, dlužník jsem."
+        },
+        {
+          "number": 15,
+          "text": "A tak, pokudž na mně jest, hotov jsem i vám, kteříž v Římě jste, zvěstovati evangelium."
+        },
+        {
+          "number": 16,
+          "text": "Neboť se nestydím za evangelium Kristovo; moc zajisté Boží jest k spasení každému věřícímu, Židu předně, potom i Řeku."
+        },
+        {
+          "number": 17,
+          "text": "Nebo spravedlnost Boží zjevuje se skrze ně z víry u víru, jakož psáno jest: Spravedlivý pak z víry živ bude."
+        },
+        {
+          "number": 18,
+          "text": "Zjevuje se zajisté hněv Boží s nebe proti každé bezbožnosti a nepravosti lidí, pravdu Boží v nepravosti zadržujících."
+        },
+        {
+          "number": 19,
+          "text": "Nebo což poznáno býti může o Bohu, známé jest jim učiněno, Bůh zajisté zjevil jim."
+        },
+        {
+          "number": 20,
+          "text": "Nebo neviditelné věci jeho mohou vidíny býti, když z skutků při stvoření světa stalých rozumem pochopeny bývají, totiž ta jeho věčná moc a Božství, tak aby již byli bez výmluvy,"
+        },
+        {
+          "number": 21,
+          "text": "Protože poznavše Boha, nectili jako Boha, ani jemu děkovali, ale marní učiněni jsou v myšleních svých, a zatmíno jest nemoudré srdce jejich."
+        },
+        {
+          "number": 22,
+          "text": "Měvše se za moudré, blázni učiněni jsou."
+        },
+        {
+          "number": 23,
+          "text": "Nebo směnili slávu neporušitelného Boha v slávu podobenství obraza porušitelného člověka, i ptactva, i hovad čtvernohých, i zeměplazů."
+        },
+        {
+          "number": 24,
+          "text": "Protož i Bůh vydal je v žádosti srdce jejich, v nečistotu, aby zprznili těla svá vespolek,"
+        },
+        {
+          "number": 25,
+          "text": "Jakožto ty, kteříž jsou směnili pravdu Boží za lež, a ctili i sloužili stvoření raději nežli Stvořiteli, kterýž jest požehnaný na věky. Amen."
+        },
+        {
+          "number": 26,
+          "text": "Protož je vydal Bůh v žádosti ohavné. Nebo i ženy jejich změnily přirozené sebe užívání v to, kteréž jest proti přirození."
+        },
+        {
+          "number": 27,
+          "text": "A podobně i mužské pohlaví, opustivše přirozené užívání ženy, rozpálili se v žádostech svých jedni k druhým, mužské pohlaví vespolek mrzkost pášíce, a tak spravedlivou mzdu, kteráž na jejich blud slušela, sami na sebe uvodíce."
+        },
+        {
+          "number": 28,
+          "text": "A jakož sobě málo vážili známosti Boha, takž také Bůh vydal je v převrácený smysl, aby činili to, což nesluší,"
+        },
+        {
+          "number": 29,
+          "text": "Jsouce naplněni vší nepravostí, zlostí, smilstvem, nešlechetností, lakomstvím, plní závisti, vraždy, svárů, lsti, zlých obyčejů,"
+        },
+        {
+          "number": 30,
+          "text": "Utrhači, pomluvači, Boha nenávidící, hanliví, pyšní, chlubní, nalezači zlých věcí, rodičů neposlušní,"
+        },
+        {
+          "number": 31,
+          "text": "Nemoudří, smluv nezdrželiví, beze vší lítosti, neukojitelní a nemilosrdní."
+        },
+        {
+          "number": 32,
+          "text": "Kteřížto vědouce o tom právu Božím, že ti, kteříž takové věci činí, hodni jsou smrti, avšak netoliko ty věci činí, ale i jiným též činícím nakládají."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Protož nemůžeš se vymluviti, ó člověče každý, potupuje jiného. Nebo tím, že jiného potupuješ, sám sebe odsuzuješ, poněvadž totéž činíš, což na jiném tupíš."
+        },
+        {
+          "number": 2,
+          "text": "Vímeť zajisté, že soud Boží jest podle pravdy proti těm, kteříž takové věci činí."
+        },
+        {
+          "number": 3,
+          "text": "Zdali se domníváš, ó člověče, jenž soudíš ty, kdož takové věci činí, a sám totéž čině, že ty ujdeš soudu Božího?"
+        },
+        {
+          "number": 4,
+          "text": "Èili bohatstvím dobrotivosti jeho a snášelivosti i dlouhočekání pohrdáš, nevěda, že dobrotivost Boží ku pokání tebe vede?"
+        },
+        {
+          "number": 5,
+          "text": "Ale podle tvrdosti své a srdce nekajícího shromažďuješ sobě hněv ke dni hněvu a zjevení spravedlivého soudu Božího,"
+        },
+        {
+          "number": 6,
+          "text": "Kterýž odplatí jednomu každému podle skutků jeho,"
+        },
+        {
+          "number": 7,
+          "text": "Těm zajisté, kteříž trvajíce v dobrém skutku, slávy a cti a nesmrtelnosti hledají, životem věčným,"
+        },
+        {
+          "number": 8,
+          "text": "Těm pak, kteříž jsou svárliví a pravdě nepovolují, ale povolují nepravosti, prchlivostí a hněvem,"
+        },
+        {
+          "number": 9,
+          "text": "Trápením a úzkostí, a to každé duši člověka činícího zlé, i Žida předně, a též i Řeka."
+        },
+        {
+          "number": 10,
+          "text": "Ale slávu a čest a pokoj dá každému, kdož činí dobré, i Židu předně, a též i Řeku."
+        },
+        {
+          "number": 11,
+          "text": "Neboť není přijímání osob u Boha."
+        },
+        {
+          "number": 12,
+          "text": "Kteřížkoli zajisté bez Zákona hřešili, bez Zákona i zahynou; a kteřížkoli pod Zákonem byvše hřešili, skrze Zákon odsouzeni budou,"
+        },
+        {
+          "number": 13,
+          "text": "(Nebo ne ti, jenž slyší Zákon, spravedlivi jsou před Bohem, ale činitelé Zákona spravedlivi budou."
+        },
+        {
+          "number": 14,
+          "text": "Nebo když pohané Zákona nemajíce, od přirození činí to, což přikazuje Zákon, takoví Zákona nemajíce, sami sobě zákonem jsou,"
+        },
+        {
+          "number": 15,
+          "text": "Kteřížto ukazují dílo Zákona napsané na srdcích svých, když jim to osvědčuje svědomí jejich i myšlení, kteráž se vespolek obviňují, anebo také vymlouvají.)"
+        },
+        {
+          "number": 16,
+          "text": "V ten den, kdyžto souditi bude Bůh tajné věci lidské, podle evangelium mého skrze Jezukrista."
+        },
+        {
+          "number": 17,
+          "text": "Aj, ty sloveš Žid, a spoléháš na Zákon, a chlubíš se Bohem,"
+        },
+        {
+          "number": 18,
+          "text": "A znáš vůli jeho, a rozeznáváš, co sluší neb nesluší, naučen jsa z Zákona,"
+        },
+        {
+          "number": 19,
+          "text": "A za to máš, že jsi ty vůdcím slepých, světlem těch, kteříž jsou ve tmě,"
+        },
+        {
+          "number": 20,
+          "text": "Ředitelem nemoudrých, učitelem nemluvňat, majícím formu umění a pravdy v Zákoně."
+        },
+        {
+          "number": 21,
+          "text": "Kterakž tedy jiného uče, sám sebe neučíš? Vyhlašuje, že nemá kradeno býti, sám kradeš?"
+        },
+        {
+          "number": 22,
+          "text": "Pravě: Nezcizoložíš, a cizoložství pácháš? V ohavnosti maje modly, svatokrádeže se dopouštíš?"
+        },
+        {
+          "number": 23,
+          "text": "Zákonem se chlubě, přestupováním Zákona Bohu neúctu činíš?"
+        },
+        {
+          "number": 24,
+          "text": "Nebo jméno Boží pro vás v porouhání jest mezi pohany, jakož psáno jest."
+        },
+        {
+          "number": 25,
+          "text": "Obřezáníť zajisté prospěje, budeš-li Zákon plniti; pakli budeš přestupitelem Zákona, obřezání tvé učiněno jest neobřezáním."
+        },
+        {
+          "number": 26,
+          "text": "A protož jestližeť by neobřízka ostříhala práv Zákona, zdaliž nebude počtena neobřízka jejich za obřízku?"
+        },
+        {
+          "number": 27,
+          "text": "A odsoudí ti, kteříž jsou z přirození neobřízka, zachovávajíce Zákon, tebe, kterýž pod literou a obřízkou přestupník jsi Zákona?"
+        },
+        {
+          "number": 28,
+          "text": "Nebo ne ten jest pravý Žid, kterýž jest zjevně Židem; aniž to jest pravé obřezání, kteréž bývá zjevně na těle;"
+        },
+        {
+          "number": 29,
+          "text": "Ale ten jest pravý Žid, kterýžto vnitř jest Židem, a to jest pravé obřezání, kteréž jest srdečné v duchu, a ne podle litery; jehožto chvála ne z lidí jest, ale z Boha."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Což tedy má více Žid nežli pohan? Aneb jaký jest užitek obřízky?"
+        },
+        {
+          "number": 2,
+          "text": "Mnohý všelikterak. Přední zajisté ten, že jest jim svěřen Zákon Boží."
+        },
+        {
+          "number": 3,
+          "text": "Nebo což jest do toho, jestliže byli někteří z nich nevěrní? Zdaliž nevěra jejich věrnost Boží vyprázdní?"
+        },
+        {
+          "number": 4,
+          "text": "Nikoli, nýbrž budiž Bůh pravdomluvný, ale každý člověk lhář, jakož psáno jest: Aby ospravedlněn byl v řečech svých, a přemohl, když by soudil."
+        },
+        {
+          "number": 5,
+          "text": "Ale jestližeť pak nepravost naše spravedlnost Boží zvelebuje, což díme? Zdali nespravedlivý jest Bůh, jenž uvodí hněv? (Po lidskuť pravím.)"
+        },
+        {
+          "number": 6,
+          "text": "Nikoli, sic jinak kterakž by Bůh soudil svět?"
+        },
+        {
+          "number": 7,
+          "text": "Nebo jestližeť pravda Boží mou lží rozmohla se k slávě jeho, i pročež pak já jako hříšník bývám souzen?"
+        },
+        {
+          "number": 8,
+          "text": "A ne raději (jakž o nás zle mluví a jakož někteří praví, že bychom říkali,): Èiňme zlé věci, aby přišly dobré? Jichžto spravedlivé jest odsouzení."
+        },
+        {
+          "number": 9,
+          "text": "Což tedy? My převyšujeme pohany? Nikoli, nebo jsme již prve dokázali toho, že jsou, i Židé i Řekové, všickni pod hříchem,"
+        },
+        {
+          "number": 10,
+          "text": "Jakož psáno jest: Že není spravedlivého ani jednoho."
+        },
+        {
+          "number": 11,
+          "text": "Není rozumného, není, kdo by hledal Boha."
+        },
+        {
+          "number": 12,
+          "text": "Všickni se uchýlili, spolu neužiteční učiněni jsou; není, kdo by činil dobré, není ani jednoho."
+        },
+        {
+          "number": 13,
+          "text": "Hrob otevřený hrdlo jejich, jazyky svými lstivě mluvili, jed lítých hadů pod rty jejich."
+        },
+        {
+          "number": 14,
+          "text": "Kterýchžto ústa plná jsou zlořečení a hořkosti."
+        },
+        {
+          "number": 15,
+          "text": "Nohy jejich rychlé k vylévání krve."
+        },
+        {
+          "number": 16,
+          "text": "Setření a bída na cestách jejich."
+        },
+        {
+          "number": 17,
+          "text": "A cesty pokoje nepoznali."
+        },
+        {
+          "number": 18,
+          "text": "Není bázně Boží před očima jejich."
+        },
+        {
+          "number": 19,
+          "text": "Víme pak, že cožkoli Zákon mluví, těm, kteříž jsou pod Zákonem, mluví, aby všeliká ústa zacpána byla a aby vinen byl všecken svět Bohu."
+        },
+        {
+          "number": 20,
+          "text": "Protož z skutků Zákona nebude ospravedlněn žádný člověk před obličejem jeho; nebo skrze Zákon přichází poznání hřícha."
+        },
+        {
+          "number": 21,
+          "text": "Ale nyní bez Zákona spravedlnost Boží zjevena jest, osvědčená Zákonem i Proroky,"
+        },
+        {
+          "number": 22,
+          "text": "Spravedlnost totiž Boží, skrze víru Ježíše Krista, ke všem a na všecky věřící."
+        },
+        {
+          "number": 23,
+          "text": "Neboť není rozdílu. Všickniť zajisté zhřešili, a nemají slávy Boží."
+        },
+        {
+          "number": 24,
+          "text": "Spravedlivi pak učiněni bývají darmo, milostí jeho, skrze vykoupení, kteréž se stalo v Kristu Ježíši,"
+        },
+        {
+          "number": 25,
+          "text": "Jehožto Bůh vydal za smírci, skrze víru ve krvi jeho, k ukázání spravedlnosti své, skrze odpuštění předešlých hříchů,"
+        },
+        {
+          "number": 26,
+          "text": "V shovívání Božím, k dokázání spravedlnosti své v nynějším času, k tomu, aby on spravedlivým byl a ospravedlňujícím toho, jenž jest z víry Ježíšovy."
+        },
+        {
+          "number": 27,
+          "text": "Kdež jest tedy chlouba tvá? Vyprázdněna jest. Skrze který zákon? Skutků-li? Nikoli, ale skrze zákon víry."
+        },
+        {
+          "number": 28,
+          "text": "Protož za to máme, že člověk bývá spravedliv učiněn věrou bez skutků Zákona."
+        },
+        {
+          "number": 29,
+          "text": "Zdaliž jest toliko Bůh Židů? Zdali také není i pohanů? Ba, jistě i pohanů,"
+        },
+        {
+          "number": 30,
+          "text": "Poněvadž jeden jest Bůh, kterýž ospravedlňuje obřízku z víry, a neobřízku skrze víru."
+        },
+        {
+          "number": 31,
+          "text": "Což tedy Zákon vyprazdňujeme skrze víru? Nikoli, nýbrž Zákon tvrdíme."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Což tedy díme, čeho jest došel podle těla Abraham otec náš?"
+        },
+        {
+          "number": 2,
+          "text": "Nebo byl-liť Abraham z skutků spravedliv učiněn, máť se čím chlubiti, ale ne u Boha."
+        },
+        {
+          "number": 3,
+          "text": "Nebo co praví Písmo? Uvěřil pak Abraham Bohu, i počteno jemu za spravedlnost."
+        },
+        {
+          "number": 4,
+          "text": "Kdožť skutky činí, tomuť odplata nebývá počtena podle milosti, ale podle dluhu."
+        },
+        {
+          "number": 5,
+          "text": "Tomu pak, kdož nečiní skutků, ale věří v toho, kterýž spravedlivého činí bezbožníka, bývá počtena víra jeho za spravedlnost,"
+        },
+        {
+          "number": 6,
+          "text": "Jakož i David vypravuje blahoslavenství člověka, jemuž Bůh přivlastňuje spravedlnost bez skutků, řka:"
+        },
+        {
+          "number": 7,
+          "text": "Blahoslavení, jichžto odpuštěny jsou nepravosti a jejichžto přikryti jsou hříchové."
+        },
+        {
+          "number": 8,
+          "text": "Blahoslavený muž, kterémuž Pán nepočítá hříchu."
+        },
+        {
+          "number": 9,
+          "text": "Blahoslavenství tedy toto k obřízce-li se vztahuje toliko, čili také k neobřízce? Nebo pravíme, že Abrahamovi víra jest počtena za spravedlnost."
+        },
+        {
+          "number": 10,
+          "text": "Kterak pak jest počtena? Zdali když byl obřezán, čili před obřezáním? Ne v obřízce, ale před obřezáním."
+        },
+        {
+          "number": 11,
+          "text": "A potom znamení, totiž obřízku, přijal za znamení spravedlnosti víry, kteráž byla před obřezáním, na to, aby byl otcem všech věřících v neobřízce, aby i jim přičtena byla spravedlnost,"
+        },
+        {
+          "number": 12,
+          "text": "A aby byl otcem obřízky, těch totiž, kteříž ne z obřízky toliko jsou, ale kteříž kráčejí šlépějemi víry otce našeho Abrahama, kteráž byla před obřezáním."
+        },
+        {
+          "number": 13,
+          "text": "Nebo ne skrze Zákon stalo se zaslíbení Abrahamovi, aneb semeni jeho, aby byl dědicem světa, ale skrze spravedlnost víry."
+        },
+        {
+          "number": 14,
+          "text": "Nebo jestližeť toliko ti, kteříž jsou z Zákona, dědicové jsou, zmařena jest víra a zrušeno zaslíbení."
+        },
+        {
+          "number": 15,
+          "text": "Zákon zajisté hněv působí; nebo kdež není Zákona, tu ani přestoupení."
+        },
+        {
+          "number": 16,
+          "text": "A protož z víry jde dědictví, aby šlo podle milosti, proto aby pevné bylo zaslíbení všemu semeni, netoliko tomu, kteréž z Zákona jest, ale i tomu, jenž jest z víry Abrahamovy, kterýž jest otec všech nás,"
+        },
+        {
+          "number": 17,
+          "text": "(Jakož psáno jest: Otcem mnohých národů postavil jsem tebe,) před obličejem Boha, jemuž uvěřil, kterýž obživuje mrtvé a povolává i těch věcí, jichž není, jako by byly."
+        },
+        {
+          "number": 18,
+          "text": "Kterýžto Abraham v naději proti naději uvěřil, že bude otcem mnohých národů, podle toho povědění: Takť bude símě tvé, jakožto hvězdy nebeské a jako písek mořský."
+        },
+        {
+          "number": 19,
+          "text": "A nezemdlev u víře, nepatřil na své tělo již umrtvené, ješto téměř ve stu letech byl, ani na život Sáry také již umrtvený."
+        },
+        {
+          "number": 20,
+          "text": "Ale o zaslíbení Božím nepochyboval z nedověry, nýbrž posilnil se věrou, dav chválu Bohu,"
+        },
+        {
+          "number": 21,
+          "text": "Jsa tím jist, že cožkoli zaslíbil, mocen jest i učiniti."
+        },
+        {
+          "number": 22,
+          "text": "A protož počteno jest jemu to za spravedlnost."
+        },
+        {
+          "number": 23,
+          "text": "Jestiť pak to napsáno ne pro něj toliko, že jemu to počteno bylo za spravedlnost,"
+        },
+        {
+          "number": 24,
+          "text": "Ale i pro nás, kterýmžto bude počteno za spravedlnost, věřícím v toho, kterýž vzkřísil Ježíše Pána našeho z mrtvých,"
+        },
+        {
+          "number": 25,
+          "text": "Kterýž vydán jest na smrt pro hříchy naše a vstal z mrtvých pro ospravedlnění naše."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ospravedlněni tedy jsouce z víry, pokoj máme s Bohem skrze Pána našeho Jezukrista,"
+        },
+        {
+          "number": 2,
+          "text": "Skrze něhož i přístup měli jsme věrou k milosti této, kterouž stojíme. A chlubíme se nadějí slávy Boží."
+        },
+        {
+          "number": 3,
+          "text": "A ne toliko nadějí, ale také chlubíme se souženími, vědouce, že soužení trpělivost působí,"
+        },
+        {
+          "number": 4,
+          "text": "A trpělivost zkušení, zkušení pak naději,"
+        },
+        {
+          "number": 5,
+          "text": "A nadějeť nezahanbuje. Nebo láska Boží rozlita jest v srdcích našich skrze Ducha svatého, kterýž dán jest nám."
+        },
+        {
+          "number": 6,
+          "text": "Kristus zajisté, když jsme my ještě mdlí byli, v čas příhodný za bezbožné umřel."
+        },
+        {
+          "number": 7,
+          "text": "Ješto sotva kdo za spravedlivého umře, ač za dobréhoť by někdo snad i umříti směl."
+        },
+        {
+          "number": 8,
+          "text": "Dokazujeť pak Bůh lásky své k nám; nebo když jsme ještě hříšníci byli, Kristus umřel za nás."
+        },
+        {
+          "number": 9,
+          "text": "Èím tedy více nyní již ospravedlněni jsouce krví jeho, spaseni budeme skrze něho od hněvu."
+        },
+        {
+          "number": 10,
+          "text": "Poněvadž byvše nepřátelé, smířeni jsme s Bohem skrze smrt Syna jeho, nadtoť již smíření spaseni budeme skrze život jeho."
+        },
+        {
+          "number": 11,
+          "text": "A ne toliko to, ale chlubíme se také i Bohem, skrze Pána našeho Jezukrista, skrze něhož nyní smíření jsme došli."
+        },
+        {
+          "number": 12,
+          "text": "A protož jakož skrze jednoho člověka hřích na svět všel a skrze hřích smrt, a tak na všecky lidi smrt přišla, v němž všickni zhřešili."
+        },
+        {
+          "number": 13,
+          "text": "Nebo až do Zákona hřích byl na světě, ale hřích se nepočítá, když Zákona není."
+        },
+        {
+          "number": 14,
+          "text": "Kralovala pak smrt od Adama až do Mojžíše také i nad těmi, kteříž nehřešili ku podobenství přestoupení Adamova, kterýž jest figura toho budoucího Adama."
+        },
+        {
+          "number": 15,
+          "text": "Ale ne jako hřích, tak i milost. Nebo poněvadž onoho pádem jednoho mnoho jich zemřelo, mnohemť více milost Boží a dar z milosti toho jednoho člověka Jezukrista na mnohé rozlit jest."
+        },
+        {
+          "number": 16,
+          "text": "Avšak ne jako skrze jednoho, kterýž zhřešil, tak zase milost. Nebo vina z jednoho pádu přivedla všecky k odsouzení, ale milost z mnohých hříchů přivodí k ospravedlnění."
+        },
+        {
+          "number": 17,
+          "text": "Nebo poněvadž pro pád jeden smrt kralovala pro jednoho, mnohemť více, kteříž by rozhojněnou milost a dar spravedlnosti přijali, v životě novém kralovati budou skrze jednoho Jezukrista."
+        },
+        {
+          "number": 18,
+          "text": "A tak tedy, jakž skrze pád jeden všickni lidé přišli k odsouzení, tak i skrze ospravedlnění jednoho všickni lidé mohou přijíti k ospravedlnění života."
+        },
+        {
+          "number": 19,
+          "text": "Neb jakož skrze neposlušenství jednoho člověka učiněno jest mnoho hříšných, tak i skrze poslušenství jednoho spravedlivi učiněni budou mnozí."
+        },
+        {
+          "number": 20,
+          "text": "Zákon pak vkročil mezi to, aby se rozhojnil hřích, a když se rozhojnil hřích, tedy ještě více rozhojnila se milost,"
+        },
+        {
+          "number": 21,
+          "text": "Aby jakož jest kraloval hřích k smrti, tak aby i milost kralovala skrze spravedlnost k životu věčnému, skrze Jezukrista Pána našeho."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Což tedy díme? Snad zůstaneme v hříchu, aby se milost rozhojnila?"
+        },
+        {
+          "number": 2,
+          "text": "Nikoli. Kteříž jsme zemřeli hříchu, kterakž ještě živi budeme v něm?"
+        },
+        {
+          "number": 3,
+          "text": "Zdaliž nevíte, že kteřížkoli pokřtěni jsme v Krista Ježíše, v smrt jeho pokřtěni jsme?"
+        },
+        {
+          "number": 4,
+          "text": "Pohřbeni jsme tedy s ním skrze křest v smrt, abychom, jakož z mrtvých vstal Kristus k slávě Otce, tak i my v novotě života chodili."
+        },
+        {
+          "number": 5,
+          "text": "Nebo poněvadž jsme v něj vštípeni připodobněním smrti jeho, tedy i vzkříšením jemu připodobněni budeme,"
+        },
+        {
+          "number": 6,
+          "text": "To vědouce, že starý člověk náš s ním spolu ukřižován jest, aby bylo umrtveno tělo hřícha, abychom již potom nesloužili hříchu."
+        },
+        {
+          "number": 7,
+          "text": "Nebo kdožť umřel, ospravedlněn jest od hříchu."
+        },
+        {
+          "number": 8,
+          "text": "Jestližeť jsme pak zemřeli s Kristem, věřímeť, že spolu s ním také živi budeme,"
+        },
+        {
+          "number": 9,
+          "text": "Vědouce, že Kristus vstav z mrtvých, již více neumírá, smrt nad ním již více nepanuje."
+        },
+        {
+          "number": 10,
+          "text": "Nebo že jest umřel, hříchu umřel jednou; že pak jest živ, živ jest Bohu."
+        },
+        {
+          "number": 11,
+          "text": "Tak i vy za to mějte, že jste zemřeli zajisté hříchu, ale živi jste Bohu v Kristu Ježíši, Pánu našem."
+        },
+        {
+          "number": 12,
+          "text": "Nepanujž tedy hřích v smrtelném těle vašem, tak abyste povolovali jemu v žádostech jeho."
+        },
+        {
+          "number": 13,
+          "text": "Aniž vydávejte údů svých za odění nepravosti kterémukoli hříchu, ale vydávejte se k sloužení Bohu, jakožto vstavše z mrtvých a jsouce živi, a údy své vydávejte za odění spravedlnosti Bohu."
+        },
+        {
+          "number": 14,
+          "text": "Nebo hřích nebude panovati nad vámi; nejste zajisté pod Zákonem, ale pod milostí."
+        },
+        {
+          "number": 15,
+          "text": "Což tedy? Hřešiti budeme, když nejsme pod Zákonem, ale pod milostí? Nikoli."
+        },
+        {
+          "number": 16,
+          "text": "Zdaliž nevíte, že komuž se vydáváte za služebníky ku poslušenství, toho jste služebníci, kohož posloucháte, buďto hříchu k smrti, buďto poslušenství k spravedlnosti?"
+        },
+        {
+          "number": 17,
+          "text": "Ale díka Bohu, že byvše služebníci hřícha, uposlechli jste z srdce způsobu učení toho, v kteréž uvedeni jste."
+        },
+        {
+          "number": 18,
+          "text": "Vysvobozeni jsouce pak od hříchu, učiněni jste služebníci spravedlnosti."
+        },
+        {
+          "number": 19,
+          "text": "Po lidsku pravím, pro mdlobu těla vašeho: Jakž jste vydávali údy vaše v službu nečistotě a nepravosti k tomu, abyste činili nepravost, tak již nyní vydávejte údy vaše v službu spravedlnosti ku posvěcení."
+        },
+        {
+          "number": 20,
+          "text": "Nebo když jste byli služebníci hřícha, cizí jste byli od spravedlnosti."
+        },
+        {
+          "number": 21,
+          "text": "Jaký jste pak užitek měli tehdáž toho, začež se nyní stydíte? Konec zajisté těch věcí jest smrt."
+        },
+        {
+          "number": 22,
+          "text": "Nyní pak vysvobozeni jsouce od hříchu a podmaněni v službu Bohu, máte užitek váš ku posvěcení, cíl pak život věčný."
+        },
+        {
+          "number": 23,
+          "text": "Nebo odplata za hřích jest smrt, ale milost Boží jest život věčný v Kristu Ježíši, Pánu našem."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Zdaliž nevíte, bratří, (nebo povědomým Zákona mluvím) že Zákon panuje nad člověkem, dokudž živ jest člověk?"
+        },
+        {
+          "number": 2,
+          "text": "Nebo žena, kteráž za mužem jest, živému muži přivázána jest zákonem; pakli by umřel muž její, rozvázána jest od zákona muže."
+        },
+        {
+          "number": 3,
+          "text": "A protož dokudž jest živ muž její, slouti bude cizoložnice, bude-li s jiným mužem; pakliť by muž její umřel, jižť jest svobodna od zákona toho, takže již nebude cizoložnice, bude-li s jiným mužem."
+        },
+        {
+          "number": 4,
+          "text": "Takž, bratří moji, i vy umrtveni jste Zákonu skrze tělo Kristovo, abyste byli jiného, totiž toho, kterýž z mrtvých vstal, abychom ovoce nesli Bohu."
+        },
+        {
+          "number": 5,
+          "text": "Nebo když jsme byli v těle, žádosti hříchů příčinou Zákona vzbuzené moc svou provodily v údech našich k nesení ovoce ne Bohu, ale smrti."
+        },
+        {
+          "number": 6,
+          "text": "Nyní pak osvobozeni jsme od Zákona, když umřel ten, v němž jsme držáni byli, tak abychom již sloužili v novotě ducha, a ne v vetchosti litery."
+        },
+        {
+          "number": 7,
+          "text": "Což tedy díme? Že Zákon jest hříchem? Nikoli; nýbrž hříchu jsem nepoznal, než skrze Zákon. Nebo i o žádosti byl bych nevěděl, aby hříchem byla, by byl Zákon neřekl: Nepožádáš."
+        },
+        {
+          "number": 8,
+          "text": "Ale příčinu vzav hřích skrze přikázaní, zplodil ve mně všelikou žádost. Bez Zákona zajisté hřích mrtev jest."
+        },
+        {
+          "number": 9,
+          "text": "Jáť pak byl jsem živ někdy bez Zákona, ale když přišlo přikázání, hřích ožil,"
+        },
+        {
+          "number": 10,
+          "text": "a já umřel. I shledáno jest, že to přikázání, kteréž mělo mi býti k životu, že jest mi k smrti."
+        },
+        {
+          "number": 11,
+          "text": "Nebo hřích, vzav příčinu skrze to přikázání, podvedl mne, a skrze ně i zabil."
+        },
+        {
+          "number": 12,
+          "text": "A tak Zákon zajisté svatý, a přikázání svaté i spravedlivé a dobré jest."
+        },
+        {
+          "number": 13,
+          "text": "Tedy to dobré učiněno jest mi smrt? Nikoli, ale hřích, kterýž aby se okázal býti hříchem, skrze to dobré zplodil mi smrt, aby tak byl příliš velmi hřešící hřích skrze přikázání."
+        },
+        {
+          "number": 14,
+          "text": "Víme zajisté, že Zákon jest duchovní, ale já jsem tělesný, prodaný hříchu."
+        },
+        {
+          "number": 15,
+          "text": "Nebo toho, což činím, neoblibuji; nebo ne, což chci, to činím, ale, což v nenávisti mám, to činím."
+        },
+        {
+          "number": 16,
+          "text": "Jestližeť pak, což nechci, to činím, tedy povoluji Zákonu, že jest dobrý."
+        },
+        {
+          "number": 17,
+          "text": "A tak již ne já to činím, ale ten, kterýž přebývá ve mně, hřích."
+        },
+        {
+          "number": 18,
+          "text": "Vímť zajisté, že nepřebývá ve mně, (to jest v těle mém), dobré. Nebo chtění hotové mám, ale vykonati dobrého, tohoť nenalézám."
+        },
+        {
+          "number": 19,
+          "text": "Nebo nečiním toho dobrého, což chci, ale činím to zlé, čehož nechci."
+        },
+        {
+          "number": 20,
+          "text": "A poněvadž pak, čehož já nechci, to činím, tedyť již ne já činím to, ale ten, kterýž přebývá ve mně, hřích."
+        },
+        {
+          "number": 21,
+          "text": "Nalézám tedy takový při sobě zákon, když chci činiti dobré, že se mne přídrží zlé."
+        },
+        {
+          "number": 22,
+          "text": "Nebo zvláštní libost mám v Zákoně Božím podle vnitřního člověka;"
+        },
+        {
+          "number": 23,
+          "text": "Ale vidím jiný zákon v údech svých, odporující zákonu mysli mé a jímající mne, tak abych byl vězeň zákona hřícha, kterýž jest v údech mých."
+        },
+        {
+          "number": 24,
+          "text": "Bídný já člověk! Kdo mne vysvobodí z toho těla smrti?"
+        },
+        {
+          "number": 25,
+          "text": "Ale děkujiť Bohu skrze Jezukrista Pána našeho. A takžť já sloužím myslí Zákonu Božímu, ale tělem zákonu hřícha."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A protož neníť již žádného odsouzení těm, kteříž jsou v Kristu Ježíši, totiž nechodícím podle těla, ale podle Ducha."
+        },
+        {
+          "number": 2,
+          "text": "Nebo zákon Ducha života v Kristu Ježíši, vysvobodil mne od zákona hřícha a smrti."
+        },
+        {
+          "number": 3,
+          "text": "Nebo seč nemohl býti Zákon, byv mdlý pro tělo, Bůh poslav Syna svého v podobnosti těla hřícha, a to příčinou hřícha, odsoudil hřích na těle,"
+        },
+        {
+          "number": 4,
+          "text": "Aby spravedlnost Zákona vyplněna byla v nás, kteříž nechodíme podle těla, ale podle Ducha."
+        },
+        {
+          "number": 5,
+          "text": "Ti zajisté, kteříž jsou podle těla živi, chutnají to, což jest těla, ale ti, kteříž jsou živi podle Ducha, oblibují to, což jest Ducha."
+        },
+        {
+          "number": 6,
+          "text": "Nebo smýšlení těla jest smrt, smýšlení pak Ducha život a pokoj,"
+        },
+        {
+          "number": 7,
+          "text": "Protože smýšlení těla jest nepřátelské Bohu; nebo Zákonu Božímu není poddáno, a aniž hned může býti."
+        },
+        {
+          "number": 8,
+          "text": "Protož ti, kteříž jsou v těle, Bohu se líbiti nemohou."
+        },
+        {
+          "number": 9,
+          "text": "Vy pak nejste v těle, ale v Duchu, poněvadž Duch Boží přebývá v vás. Jestližeť pak kdo Ducha Kristova nemá, tenť není jeho."
+        },
+        {
+          "number": 10,
+          "text": "A jest-liť Kristus v vás, tedy ač tělo umrtveno jest pro hřích, však duch živ jest pro spravedlnost."
+        },
+        {
+          "number": 11,
+          "text": "Jestližeť pak Duch toho, kterýž vzkřísil Ježíše z mrtvých, přebývá v vás, ten, kterýž vzkřísil Krista z mrtvých, obživí i smrtelná těla vaše, pro přebývajícího Ducha jeho v vás."
+        },
+        {
+          "number": 12,
+          "text": "A takž tedy, bratří, dlužníciť jsme ne tělu, abychom podle těla živi byli."
+        },
+        {
+          "number": 13,
+          "text": "Nebo budete-li podle těla živi, zemřete; pakli byste Duchem skutky těla mrtvili, živi budete."
+        },
+        {
+          "number": 14,
+          "text": "Nebo kteřížkoli Duchem Božím vedeni bývají, ti jsou synové Boží."
+        },
+        {
+          "number": 15,
+          "text": "Nepřijali jste zajisté Ducha služby opět k bázni, ale přijali jste Ducha synovství, v němžto voláme Abba, totiž Otče."
+        },
+        {
+          "number": 16,
+          "text": "A tenť Duch osvědčuje duchu našemu, že jsme synové Boží."
+        },
+        {
+          "number": 17,
+          "text": "A jestliže synové, tedy i dědicové, dědicové zajisté Boží, spolu pak dědicové Kristovi, však tak, jestliže spolu s ním trpíme, abychom spolu i oslaveni byli."
+        },
+        {
+          "number": 18,
+          "text": "Nebo tak za to mám, že nejsou rovná utrpení nynější oné budoucí slávě, kteráž se zjeviti má na nás."
+        },
+        {
+          "number": 19,
+          "text": "Nebo pečlivé očekávání všeho stvoření očekává žádostivého zjevení synů Božích."
+        },
+        {
+          "number": 20,
+          "text": "Marnosti zajisté poddáno jest stvoření, nechtě, ale pro toho, kterýž je poddal,"
+        },
+        {
+          "number": 21,
+          "text": "V naději, že i ono vysvobozeno bude od služby porušení a přivedeno v svobodu slávy synů Božích."
+        },
+        {
+          "number": 22,
+          "text": "Nebo víme, že všecko stvoření spolu lká a spolu ku porodu pracuje až posavad,"
+        },
+        {
+          "number": 23,
+          "text": "A netoliko ono, ale i my, prvotiny Ducha mající, i myť také sami v sobě lkáme, zvolení synů Božích očekávajíce, a tak vykoupení těla našeho."
+        },
+        {
+          "number": 24,
+          "text": "Nebo nadějí spaseni jsme. Naděje pak, kteráž se vidí, není naděje. Nebo což kdo vidí, proč by se toho nadál?"
+        },
+        {
+          "number": 25,
+          "text": "Pakli čehož nevidíme, toho se nadějeme, tedy toho skrze trpělivost očekáváme."
+        },
+        {
+          "number": 26,
+          "text": "Ano také i Duch svatý pomocen jest mdlobám našim. Nebo zač bychom se měli modliti, jakž by náleželo, nevíme, ale ten Duch prosí za nás lkáními nevypravitelnými."
+        },
+        {
+          "number": 27,
+          "text": "Ten pak, kterýž jest zpytatel srdcí, zná, jaký by byl smysl Ducha, že podle Boha prosí za svaté."
+        },
+        {
+          "number": 28,
+          "text": "Vímeť pak, že milujícím Boha všecky věci napomáhají k dobrému, totiž těm, kteříž podle uložení jeho povoláni jsou."
+        },
+        {
+          "number": 29,
+          "text": "Nebo kteréž předzvěděl, ty i předzřídil, aby byli připodobněni obrazu Syna jeho, aby tak on byl prvorozený mezi mnohými bratřími."
+        },
+        {
+          "number": 30,
+          "text": "Kteréž pak předzřídil, těch i povolal, a kterýchž povolal, ty i ospravedlnil, a kteréž ospravedlnil, ty i oslavil."
+        },
+        {
+          "number": 31,
+          "text": "Což tedy díme k tomu? Kdyžť jest Bůh s námi, i kdo proti nám?"
+        },
+        {
+          "number": 32,
+          "text": "Kterýž ani vlastnímu Synu svému neodpustil, ale za nás za všecky vydal jej, i kterakž by tedy nám s ním všech věcí nedal?"
+        },
+        {
+          "number": 33,
+          "text": "Kdo bude žalovati na vyvolené Boží? Bůh jest, jenž ospravedlňuje."
+        },
+        {
+          "number": 34,
+          "text": "Kdo jest, ješto by je odsoudil? Kristus jest, kterýž umřel za ně, nýbrž i z mrtvých vstal, a kterýž i na pravici Boží jest, kterýž také i oroduje za nás."
+        },
+        {
+          "number": 35,
+          "text": "A protož kdo nás odloučí od lásky Kristovy? Zdali zarmoucení, aneb úzkost, nebo protivenství? Zdali hlad, čili nahota? Zdali nebezpečenství, čili meč?"
+        },
+        {
+          "number": 36,
+          "text": "Jakož psáno jest: Pro tebe mrtveni býváme celý den, jmíni jsme jako ovce oddané k zabití."
+        },
+        {
+          "number": 37,
+          "text": "Ale v tom ve všem udatně vítězíme, skrze toho, kterýž nás zamiloval."
+        },
+        {
+          "number": 38,
+          "text": "Jist jsem zajisté, že ani smrt, ani život, ani andělé, ani knížatstvo, ani mocnosti, ani nastávající věci, ani budoucí,"
+        },
+        {
+          "number": 39,
+          "text": "Ani vysokost, ani hlubokost, ani kterékoli jiné stvoření, nebude moci nás odloučiti od lásky Boží, kteráž jest v Kristu Ježíši, Pánu našem."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pravduť pravím v Kristu a neklamámť, čemuž i svědomí mé svědectví vydává v Duchu svatém,"
+        },
+        {
+          "number": 2,
+          "text": "Žeť mám veliký zámutek a ustavičnou bolest v srdci svém."
+        },
+        {
+          "number": 3,
+          "text": "Nebo žádal bych já sám zavrženým býti od Krista místo bratří svých, totiž příbuzných svých podle těla."
+        },
+        {
+          "number": 4,
+          "text": "Kteřížto jsou Izraelští, jejichžto jest přijetí za syny, i sláva, i smlouvy, i Zákona dání, i služba Boží, i zaslíbení."
+        },
+        {
+          "number": 5,
+          "text": "Jejichž jsou i otcové, a ti, z nichžto jest Kristus podle těla, kterýž jest nade všecky Bůh požehnaný na věky. Amen."
+        },
+        {
+          "number": 6,
+          "text": "Avšak nemůže zmařeno býti slovo Boží. Nebo ne všickni, kteříž jsou z Izraele, Izraelští jsou."
+        },
+        {
+          "number": 7,
+          "text": "Aniž proto, že jsou símě Abrahamovo, hned také všickni jsou synové, ale v Izákovi nazváno bude tvé símě."
+        },
+        {
+          "number": 8,
+          "text": "To jest, ne všickni ti, jenž jsou synové těla, jsou také synové Boží, ale kteříž jsou synové Božího zaslíbení, ti se počítají za símě."
+        },
+        {
+          "number": 9,
+          "text": "Nebo toto jest slovo zaslíbení: V týž čas přijdu, a Sára bude míti syna."
+        },
+        {
+          "number": 10,
+          "text": "A netoliko to, ale i Rebeka z jednoho počavši, totiž z Izáka, otce našeho, toho důvodem jest."
+        },
+        {
+          "number": 11,
+          "text": "Nebo ještě před narozením obou těch synů, a prve nežli co dobrého nebo zlého učinili, aby uložení Boží, kteréžto jest podle vyvolení, a tak ne z skutků, ale z toho, jenž povolává, pevné bylo,"
+        },
+        {
+          "number": 12,
+          "text": "Řečeno jest jí: Větší sloužiti bude menšímu,"
+        },
+        {
+          "number": 13,
+          "text": "Jakož psáno jest: Jákoba jsem miloval, ale Ezau nenáviděl jsem."
+        },
+        {
+          "number": 14,
+          "text": "I což tedy díme? Zdali nespravedlnost jest u Boha? Nikoli."
+        },
+        {
+          "number": 15,
+          "text": "Nebo Mojžíšovi dí: Smiluji se nad tím, komuž milost učiním, a slituji se nad tím, nad kýmž se slituji."
+        },
+        {
+          "number": 16,
+          "text": "A tak tedy neníť vyvolování na tom, jenž chce, ani na tom, jenž běží, ale na Bohu, jenž se smilovává."
+        },
+        {
+          "number": 17,
+          "text": "Nebo dí Písmo faraonovi: Proto jsem vzbudil tebe, abych na tobě ukázal moc svou a aby rozhlášeno bylo jméno mé po vší zemi."
+        },
+        {
+          "number": 18,
+          "text": "A tak tedy nad kýmž chce, smilovává se, a koho chce, zatvrzuje."
+        },
+        {
+          "number": 19,
+          "text": "Ale díš mi: I pročež se pak hněvá? Nebo vůli jeho kdo odepřel?"
+        },
+        {
+          "number": 20,
+          "text": "Ale ó člověče, kdo jsi ty, že tak odpovídáš Bohu? Zdaž hrnec dí hrnčíři: Pročs mne tak udělal?"
+        },
+        {
+          "number": 21,
+          "text": "Zdaliž hrnčíř nemá moci nad hlinou, aby z jednostejného truple udělal jednu nádobu ke cti a jinou ku potupě?"
+        },
+        {
+          "number": 22,
+          "text": "Což pak divného, že Bůh, chtěje ukázati hněv a oznámiti moc svou, snášel ve mnohé trpělivosti nádoby hněvu, připravené k zahynutí."
+        },
+        {
+          "number": 23,
+          "text": "A takž také, aby známé učinil bohatství slávy své při nádobách milosrdenství, kteréž připravil k slávě."
+        },
+        {
+          "number": 24,
+          "text": "Kterýchžto i povolal, totiž nás, netoliko z Židů, ale také i z pohanů,"
+        },
+        {
+          "number": 25,
+          "text": "Jakož i skrze Ozé dí: Nazovu nelid můj lidem mým, a nemilou nazovu milou."
+        },
+        {
+          "number": 26,
+          "text": "A budeť na tom místě, kdež řečeno bylo jim: Nejste vy lid můj, tuť nazváni budou synové Boha živého."
+        },
+        {
+          "number": 27,
+          "text": "Izaiáš pak volá nad Izraelem, řka: Byť pak byl počet synů Izraelských jako písek mořský, ostatkové toliko spaseni budou."
+        },
+        {
+          "number": 28,
+          "text": "Nebo pohubení učiní spravedlivé, a to jisté, pohubení zajisté učiní Pán na zemi, a to jisté."
+        },
+        {
+          "number": 29,
+          "text": "A jakož prve pověděl Izaiáš: Byť byl Pán zástupů nepozůstavil nám semene, jako Sodoma učiněni bychom byli, a Gomoře byli bychom podobni."
+        },
+        {
+          "number": 30,
+          "text": "Což tedy díme? Že pohané, kteříž nenásledovali spravedlnosti, dosáhli spravedlnosti, a to spravedlnosti té, kteráž jest z víry;"
+        },
+        {
+          "number": 31,
+          "text": "Izrael pak následovav zákona spravedlnosti, k zákonu spravedlnosti nepřišel."
+        },
+        {
+          "number": 32,
+          "text": "Proč? Nebo ne z víry, ale jako z skutků Zákona jí hledali. Urazili se zajisté o kámen urážky,"
+        },
+        {
+          "number": 33,
+          "text": "Jakož psáno jest: Aj, kladu na Sionu kámen urážky a skálu pohoršení, a každý, kdož uvěří v něj, nebude zahanben."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bratří, příchylnost zajisté s zvláštní libostí srdce mého jestiť k Izraelovi, i modlitba za něj k Bohu, aby spasen byl."
+        },
+        {
+          "number": 2,
+          "text": "Neboť jim svědectví vydávám, žeť horlivost Boží mají, ale ne podle umění."
+        },
+        {
+          "number": 3,
+          "text": "Nebo neznajíce Boží spravedlnosti, a svou vlastní spravedlnost hledajíce vystaviti, spravedlnosti Boží nebyli poddáni."
+        },
+        {
+          "number": 4,
+          "text": "Nebo konec Zákona jest Kristus k ospravedlnění všelikému věřícímu."
+        },
+        {
+          "number": 5,
+          "text": "Nebo Mojžíš píše o spravedlnosti, kteráž jest z Zákona, pravě: Který by koli člověk činil ty věci, živ bude v nich."
+        },
+        {
+          "number": 6,
+          "text": "Ta pak spravedlnost, kteráž jest z víry, takto praví: Neříkej v srdci svém: Kdo vstoupí na nebe? To jest Krista s výsosti svésti."
+        },
+        {
+          "number": 7,
+          "text": "Aneb kdo sstoupí do propasti? To jest Krista z mrtvých vzbuditi."
+        },
+        {
+          "number": 8,
+          "text": "Ale co dí spravedlnost z víry? Blízko tebe jestiť slovo, v ústech tvých a v srdci tvém. A toť jest slovo to víry, kteréž kážeme,"
+        },
+        {
+          "number": 9,
+          "text": "Totiž, vyznáš-li ústy svými Pána Ježíše a srdcem svým uvěříš-li, že jej Bůh vzkřísil z mrtvých, spasen budeš."
+        },
+        {
+          "number": 10,
+          "text": "Nebo srdcem se věří k spravedlnosti, ale ústy vyznání děje se k spasení."
+        },
+        {
+          "number": 11,
+          "text": "Nebo dí Písmo: Všeliký, kdož věří v něj, nebude zahanben."
+        },
+        {
+          "number": 12,
+          "text": "Neníť zajisté rozdílu mezi Židem a Řekem; nebo tentýž Pán všech, bohatý jest ke všem vzývajícím jej."
+        },
+        {
+          "number": 13,
+          "text": "Každý zajisté, kdožkoli vzýval by jméno Páně, spasen bude."
+        },
+        {
+          "number": 14,
+          "text": "Ale kterak budou vzývati toho, v kteréhož neuvěřili? A kterak uvěří tomu, o němž neslyšeli? A kterak uslyší bez kazatele?"
+        },
+        {
+          "number": 15,
+          "text": "A kterak kázati budou, jestliže nebudou posláni? Jakož psáno jest: Aj, jak krásné nohy zvěstujících pokoj, zvěstujících dobré věci."
+        },
+        {
+          "number": 16,
+          "text": "Ale ne všickni uposlechli evangelium. Nebo Izaiáš praví: Pane, kdo uvěřil kázání našemu?"
+        },
+        {
+          "number": 17,
+          "text": "Tedy víra z slyšení, a slyšení skrze slovo Boží."
+        },
+        {
+          "number": 18,
+          "text": "Ale pravímť: Zdaliž jsou neslyšeli? Anobrž po vší zemi rozšel se zvuk jejich a až do končin okršlku země slova jejich."
+        },
+        {
+          "number": 19,
+          "text": "Ale pravím: Zdaliž nepoznal Izrael toho? Ano první z nich Mojžíš řekl: Já k závisti vás přivedu skrze národ ten, kteréhož nemáte za lid můj; skrze lid nemoudrý k hněvu popudím vás."
+        },
+        {
+          "number": 20,
+          "text": "A Izaiáš směle dí: Nalezen jsem od těch, kteříž mne nehledali; zjeven jsem těm, kteříž se na mne neptali."
+        },
+        {
+          "number": 21,
+          "text": "Ale proti lidu Izraelskému dí: Přes celý den roztahoval jsem ruce své k lidu nepovolnému a protivnému."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Protož pravím: Zdali jest Bůh zavrhl lid svůj? Nikoli; nebo i já Izraelský jsem, z semene Abrahamova, z pokolení Beniaminova."
+        },
+        {
+          "number": 2,
+          "text": "Nezavrhlť jest Bůh lidu svého, kterýž předzvěděl. Zdali nevíte, co Písmo praví o Eliášovi? Kterak se modlí Bohu proti lidu Izraelskému řka:"
+        },
+        {
+          "number": 3,
+          "text": "Pane, proroky tvé zmordovali a oltáře tvé rozkopali, já pak zůstal jsem sám, a i méť duše hledají."
+        },
+        {
+          "number": 4,
+          "text": "Ale co jemu dí odpověd Boží? Pozůstavil jsem sobě sedm tisíců mužů, kteříž neskláněli kolen před Bálem."
+        },
+        {
+          "number": 5,
+          "text": "Takť i nyní ostatkové podle vyvolení jdoucího z pouhé milosti Boží zůstali,"
+        },
+        {
+          "number": 6,
+          "text": "A poněvadž z milosti, tedy ne z skutků, sic jinak milost již by nebyla milost. Pakli z skutků, tedy již není milost, jinak skutek nebyl by skutek."
+        },
+        {
+          "number": 7,
+          "text": "Což tedy? Èeho hledá Izrael, toho jest nedošel, ale vyvolení došli toho, jiní pak zatvrzeni jsou,"
+        },
+        {
+          "number": 8,
+          "text": "(Jakož psáno jest: Dal jim Bůh ducha zkormoucení, oči, aby neviděli, a uši, aby neslyšeli,) až do dnešního dne."
+        },
+        {
+          "number": 9,
+          "text": "A David dí: Budiž jim stůl jejich osidlem a pastmi a pohoršením i spravedlivým odplacením."
+        },
+        {
+          "number": 10,
+          "text": "Zatmětež se oči jejich, ať nevidí, a hřbet jejich vždycky shýbej."
+        },
+        {
+          "number": 11,
+          "text": "A z toho pravím: Tak-liž jsou pak Židé klesli, aby docela padli? Nikoli, ale jejich klesnutím spasení přiblížilo se pohanům, aby je tak Bůh k závidění přivedl."
+        },
+        {
+          "number": 12,
+          "text": "A poněvadž pak jejich pád jest bohatství světa a zmenšení jejich jest bohatství pohanů, čím více plnost jich?"
+        },
+        {
+          "number": 13,
+          "text": "Vámť zajisté pravím pohanům, jelikož jsem já apoštol pohanský, přisluhování mé oslavuji,"
+        },
+        {
+          "number": 14,
+          "text": "Zda bych jak k závidění vzbuditi mohl ty, jenž jsou tělo mé, a k spasení přivésti aspoň některé z nich."
+        },
+        {
+          "number": 15,
+          "text": "Nebo kdyžť zavržení jich jest smíření světa, co pak bude zase jich přijetí, než život z mrtvých?"
+        },
+        {
+          "number": 16,
+          "text": "Poněvadž prvotiny svaté jsou, takéť svaté jest i těsto; a jest-liť kořen svatý, tedy i ratolesti."
+        },
+        {
+          "number": 17,
+          "text": "Žeť jsou pak některé ratolesti vylomeny, a ty, byv planou olivou, vštípen jsi místo nich a učiněn jsi účastník kořene i tučnosti olivy."
+        },
+        {
+          "number": 18,
+          "text": "Proto ty se nechlub proti ratolestem. Pakli se chlubíš, věz, že ne ty kořen neseš, ale kořen tebe."
+        },
+        {
+          "number": 19,
+          "text": "Pakli díš: Vylomeny jsou ratolesti, abych já byl vštípen,"
+        },
+        {
+          "number": 20,
+          "text": "Dobře pravíš. Pro nevěru vylomeny jsou, ale ty věrou stojíš. Nebudiž vysokomyslný, ale boj se."
+        },
+        {
+          "number": 21,
+          "text": "Nebo poněvadž Bůh ratolestem přirozeným neodpustil, věz, žeť by ani tobě neodpustil."
+        },
+        {
+          "number": 22,
+          "text": "A protož viz dobrotivost i zuřivost Boží. K těm zajisté, kteříž padli, zuřivost, ale k tobě dobrotivost, ač budeš-li trvati v dobrotě. Sic jinak i ty vyťat budeš."
+        },
+        {
+          "number": 23,
+          "text": "Ano i oni, jestliže nezůstanou v nevěře, zase vštípeni budou. Mocenť jest zajisté Bůh zase vštípiti je."
+        },
+        {
+          "number": 24,
+          "text": "Nebo poněvadž ty vyťat jsi z přirozené plané olivy a proti přirození vštípen jsi v dobrou olivu, čím více pak ti, kteříž podle přirození jsou z dobré olivy, vštípeni budou v svou vlastní olivu."
+        },
+        {
+          "number": 25,
+          "text": "Neboť nechci, bratří, abyste nevěděli tohoto tajemství, (abyste nebyli sami u sebe moudří,) že zatvrdilost tato zčástky přihodila se Izraelovi, dokudž by nevešla plnost pohanů."
+        },
+        {
+          "number": 26,
+          "text": "A takť všecken Izrael spasen bude, jakož psáno jest: Přijde z Siona vysvoboditel a odvrátíť bezbožnosti od Jákoba."
+        },
+        {
+          "number": 27,
+          "text": "A tatoť bude smlouva má s nimi, když shladím hříchy jejich."
+        },
+        {
+          "number": 28,
+          "text": "A tak s strany evangelium jsouť nepřátelé pro vás, ale podle vyvolení jsou milí pro otce svaté."
+        },
+        {
+          "number": 29,
+          "text": "Darů zajisté svých a povolání Bůh nelituje."
+        },
+        {
+          "number": 30,
+          "text": "Nebo jakož i vy někdy jste nebyli poslušni Boha, ale nyní milosrdenství jste došli pro jejich nevěru,"
+        },
+        {
+          "number": 31,
+          "text": "Tak i oni nyní neuposlechli, aby pro učiněné vám milosrdenství i oni také milosrdenství dosáhli."
+        },
+        {
+          "number": 32,
+          "text": "Zavřel zajisté Bůh všecky v nevěře, aby se nade všemi smiloval."
+        },
+        {
+          "number": 33,
+          "text": "Ó hlubokosti bohatství i moudrosti i umění Božího! Jak jsou nezpytatelní soudové jeho a nevystižitelné cesty jeho!"
+        },
+        {
+          "number": 34,
+          "text": "Nebo kdo jest poznal mysl Páně? Aneb kdo jemu radil?"
+        },
+        {
+          "number": 35,
+          "text": "Nebo kdo prve dal jemu, a budeť mu odplaceno?"
+        },
+        {
+          "number": 36,
+          "text": "Nebo z něho a skrze něho a v něm jsou všecky věci, jemuž sláva na věky. Amen."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Protož prosím vás, bratří, skrze milosrdenství Boží, abyste vydávali těla svá v obět živou, svatou, Bohu libou, rozumnou službu vaši."
+        },
+        {
+          "number": 2,
+          "text": "A nepřipodobňujte se světu tomuto, ale proměňtež se obnovením mysli vaší, tak abyste zkusili, jaká by byla vůle Boží dobrá, libá a dokonalá."
+        },
+        {
+          "number": 3,
+          "text": "Neboť pravím (skrze milost, kteráž dána jest mi,) každému z těch, jenž jsou mezi vámi, aby ne více smyslil, než sluší smysliti, ale aby smyslil v středmosti, tak jakž jednomu každému Bůh udělil míru víry."
+        },
+        {
+          "number": 4,
+          "text": "Nebo jakož v jednom těle mnohé údy máme, ale nemají všickni údové jednostejného díla,"
+        },
+        {
+          "number": 5,
+          "text": "Tak mnozí jedno tělo jsme v Kristu, a obzvláštně jedni druhých údové."
+        },
+        {
+          "number": 6,
+          "text": "Ale majíce obdarování rozdílná podle milosti, kteráž dána jest nám, buďto proroctví, kteréž ať jest podle pravidla víry;"
+        },
+        {
+          "number": 7,
+          "text": "Buďto úřad, v bedlivém přisluhování; buďto ten, jenž učí, v vyučování."
+        },
+        {
+          "number": 8,
+          "text": "Též kdo napomíná, v napomínání; ten, jenž rozdává, dávej v upřímnosti; kdož jiným předložen jest, konej úřad svůj s pilností; kdo milosrdenství činí, s ochotností."
+        },
+        {
+          "number": 9,
+          "text": "Milování buď bez pokrytství; v ošklivosti mějte zlé, připojeni jsouce k dobrému."
+        },
+        {
+          "number": 10,
+          "text": "Láskou bratrskou jedni k druhým nakloněni jsouce, uctivostí se vespolek předcházejte,"
+        },
+        {
+          "number": 11,
+          "text": "V pracech neleniví, duchem vroucí, příhodnosti času šetřící,"
+        },
+        {
+          "number": 12,
+          "text": "Nadějí se radující, v souženích trpěliví, na modlitbě ustaviční,"
+        },
+        {
+          "number": 13,
+          "text": "V potřebách s svatými se sdělující, přívětivosti k hostem následující."
+        },
+        {
+          "number": 14,
+          "text": "Dobrořečte protivníkům vašim, dobrořečte, pravím, a nezlořečte."
+        },
+        {
+          "number": 15,
+          "text": "Radujte s radujícími, a plačte s plačícími."
+        },
+        {
+          "number": 16,
+          "text": "Buďte vespolek jednomyslní, ne vysoce o sobě smýšlejíce, ale k nízkým se nakloňujíce."
+        },
+        {
+          "number": 17,
+          "text": "Nebuďte opatrní sami u sebe. Žádnému zlého za zlé neodplacujte, opatrujíce dobré přede všemi lidmi,"
+        },
+        {
+          "number": 18,
+          "text": "Jestliže jest možné, pokudž na vás jest, se všemi lidmi pokoj majíce,"
+        },
+        {
+          "number": 19,
+          "text": "Ne sami sebe mstíce, nejmilejší, ale dejte místo hněvu; nebo psáno jest: Mně pomsta, já odplatím, praví Pán."
+        },
+        {
+          "number": 20,
+          "text": "A protož lační-li nepřítel tvůj, nakrm jej, a žízní-li, dej mu píti. Nebo to učině, uhlí řeřavé shrneš na hlavu jeho."
+        },
+        {
+          "number": 21,
+          "text": "Nedej se přemoci zlému, ale přemáhej v dobrém zlé."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Každá duše vrchnostem povýšeným poddána buď. Neboť není vrchnosti, jediné od Boha, a kteréž vrchnosti jsou, ty od Boha zřízené jsou."
+        },
+        {
+          "number": 2,
+          "text": "A protož, kdož se vrchnosti protiví, Božímu zřízení se protiví; kteříž se pak protiví, tiť sobě odsouzení dobudou."
+        },
+        {
+          "number": 3,
+          "text": "Nebo vrchnosti nejsou k strachu dobře činícím, ale zle činícím. Protož chceš-li se nebáti vrchnosti, čiň dobře, a budeš míti chválu od ní."
+        },
+        {
+          "number": 4,
+          "text": "Boží zajisté služebník jest, tobě k dobrému. Pakli bys zle činil, boj se; neboť ne nadarmo nese meč. Boží zajisté služebník jest, mstitel zuřivý nad tím, kdož zle činí."
+        },
+        {
+          "number": 5,
+          "text": "A protož musejíť vrchnostem všickni poddáni býti, netoliko pro hněv, ale i pro svědomí."
+        },
+        {
+          "number": 6,
+          "text": "Nebo proto i daň dáváte, poněvadž služebníci Boží jsou, pilnou práci o to vedouce."
+        },
+        {
+          "number": 7,
+          "text": "Každému tedy což jste povinni, dávejte. Komu daň, tomu daň; komu clo, tomu clo; komu bázeň, tomu bázeň; komu čest, tomu čest."
+        },
+        {
+          "number": 8,
+          "text": "Žádnému nebývejte nic dlužni, než to, abyste se vespolek milovali. Nebo kdož miluje bližního, Zákon naplnil,"
+        },
+        {
+          "number": 9,
+          "text": "Poněvadž to přikázání: Nesesmilníš, nezabiješ, neukradneš, nepromluvíš křivého svědectví, nepožádáš, a jest-li které jiné přikázání, v tomto slovu se zavírá: Milovati budeš bližního svého jako sebe samého."
+        },
+        {
+          "number": 10,
+          "text": "Láska bližnímu zle neučiní, a protož plnost Zákona jestiť láska."
+        },
+        {
+          "number": 11,
+          "text": "A zvláště pak vidouce takovou příhodnost, žeť jest se nám již čas ze sna probuditi. (Nyníť zajisté blíže nás jest spasení, nežli když jsme uvěřili.)"
+        },
+        {
+          "number": 12,
+          "text": "Noc pominula, ale den se přiblížil. Odvrzmež tedy skutky temnosti, a oblecme se v odění světla."
+        },
+        {
+          "number": 13,
+          "text": "Jakožto ve dne poctivě choďme, ne v hodování a v opilství, ne v smilstvích a v chlipnostech, ne v sváru a v závisti,"
+        },
+        {
+          "number": 14,
+          "text": "Ale oblecte se v Pána Jezukrista, a nepečujte o tělo k vyplňování žádostí jeho."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mdlého pak u víře přijímejte, ne k hádkám o nepotřebných otázkách."
+        },
+        {
+          "number": 2,
+          "text": "Nebo někdo věří, že může jísti všecko; jiný pak u víře mdlý jsa, jí zelinu."
+        },
+        {
+          "number": 3,
+          "text": "Ten, kdož jí, nepokládej sobě za nic toho, kdož nejí; a kdo nejí, toho nesuď, kdož jí. Nebo Bůh přijal jej."
+        },
+        {
+          "number": 4,
+          "text": "Ty kdo jsi, abys soudil cizího služebníka? Však Pánu svému stojí, anebo padá. Staneť pak; mocen jest zajisté Bůh utvrditi jej."
+        },
+        {
+          "number": 5,
+          "text": "Nebo někdo rozsuzuje mezi dnem a dnem, a někdo soudí každý den jednostejný býti. Jeden každý v svém smyslu ujištěn buď."
+        },
+        {
+          "number": 6,
+          "text": "Kdož dnů šetří, Pánu šetří; a kdo nešetří, Pánu nešetří. A kdo jí, Pánu jí, nebo děkuje Bohu; a kdož nejí, Pánu nejí, a děkuje Bohu."
+        },
+        {
+          "number": 7,
+          "text": "Žádný zajisté z nás není sám sobě živ, a žádný sobě sám neumírá."
+        },
+        {
+          "number": 8,
+          "text": "Nebo buďto že jsme živi, Pánu živi jsme; buďto že mřeme, Pánu mřeme. A tak buď že jsme živi, buď že umíráme, Páně jsme."
+        },
+        {
+          "number": 9,
+          "text": "Na toť jest zajisté Kristus i umřel, i z mrtvých vstal, i ožil, aby nad živými i nad mrtvými panoval."
+        },
+        {
+          "number": 10,
+          "text": "Ty pak proč odsuzuješ bratra svého? Anebo také ty proč za nic pokládáš bratra svého? Však všickni staneme před stolicí Kristovou."
+        },
+        {
+          "number": 11,
+          "text": "Psáno jest zajisté: Živť jsem já, praví Pán, žeť přede mnou bude klekati každé koleno, a každý jazyk vyznávati bude Boha."
+        },
+        {
+          "number": 12,
+          "text": "A takť jeden každý z nás sám za sebe počet vydávati bude Bohu."
+        },
+        {
+          "number": 13,
+          "text": "Nesuďmež tedy více jedni druhých, ale toto raději rozsuzujte, jak byste nekladli úrazu nebo pohoršení bratru."
+        },
+        {
+          "number": 14,
+          "text": "Vím a v tom ujištěn jsem v Pánu Ježíši, žeť nic nečistého není samo z sebe; než tomu, kdož tak soudí, že by nečisté bylo, jemuť nečisté jest."
+        },
+        {
+          "number": 15,
+          "text": "Ale bývá-liť rmoucen bratr tvůj pro pokrm, již nechodíš podle lásky. Hlediž, abys k zahynutí nepřivedl pokrmem svým toho, za kteréhož Kristus umřel."
+        },
+        {
+          "number": 16,
+          "text": "Nebudiž tedy v porouhání dáno dobré vaše."
+        },
+        {
+          "number": 17,
+          "text": "Království zajisté Boží není pokrm a nápoj, ale spravedlnost a pokoj a radost v Duchu svatém."
+        },
+        {
+          "number": 18,
+          "text": "Nebo kdož v tom slouží Kristu, milý jest Bohu a lidem příjemný."
+        },
+        {
+          "number": 19,
+          "text": "Protož následujme toho, což by sloužilo ku pokoji a k vzdělání vespolek."
+        },
+        {
+          "number": 20,
+          "text": "Nekaziž pro pokrm díla Božího. Všecko zajisté čisté jest, ale zlé jest člověku, kterýž jí s pohoršením."
+        },
+        {
+          "number": 21,
+          "text": "Dobré jest nejísti masa a nepíti vína, ani čehokoli toho, na čemž se uráží bratr tvůj, nebo horší, anebo zemdlívá."
+        },
+        {
+          "number": 22,
+          "text": "Ty víru máš? Mějž ji sám u sebe před Bohem. Blahoslavený, kdož nesoudí sebe samého v tom, což oblibuje."
+        },
+        {
+          "number": 23,
+          "text": "Ale kdož pak rozpakuje se, kdyby jedl, odsouzen jest, nebo ne z víry jí. A cožkoli není z víry, hřích jest."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Povinniť jsme pak my silní mdloby nemocných snášeti, a ne sami sobě se líbiti."
+        },
+        {
+          "number": 2,
+          "text": "Ale jeden každý z nás bližnímu se lib k dobrému pro vzdělání."
+        },
+        {
+          "number": 3,
+          "text": "Nebo i Kristus ne sám se sobě líbil, ale jakož psáno jest: Hanění hanějících tebe připadla jsou na mne."
+        },
+        {
+          "number": 4,
+          "text": "Nebo kteréžkoli věci napsány jsou, k našemu naučení napsány jsou, abychom skrze trpělivost a potěšení Písem naději měli."
+        },
+        {
+          "number": 5,
+          "text": "Bůh pak dárce trpělivosti a potěšení dejž vám jednomyslným býti vespolek podle Jezukrista,"
+        },
+        {
+          "number": 6,
+          "text": "Abyste jednomyslně jedněmi ústy oslavovali Boha a Otce Pána našeho Jezukrista."
+        },
+        {
+          "number": 7,
+          "text": "Protož přijímejte se vespolek, jakož i Kristus přijal nás v slávu Boží."
+        },
+        {
+          "number": 8,
+          "text": "Neboť pravím vám, že Kristus Ježíš byl služebníkem obřízky pro Boží pravost, aby potvrzeni byli slibové otcům učinění,"
+        },
+        {
+          "number": 9,
+          "text": "A aby pohané z milosrdenství slavili Boha, jakož psáno jest: Protož vyznávati tebe budu mezi pohany, a jménu tvému plésati budu."
+        },
+        {
+          "number": 10,
+          "text": "A opět dí: Veselte se pohané s lidem jeho."
+        },
+        {
+          "number": 11,
+          "text": "A opět: Chvalte Hospodina všickni národové, a velebtež ho všickni lidé."
+        },
+        {
+          "number": 12,
+          "text": "A opět Izaiáš dí: Budeť kořen Jesse, a ten, jenž povstane, panovati nad pohany; v němť pohané doufati budou."
+        },
+        {
+          "number": 13,
+          "text": "Bůh pak naděje naplňujž vás všelikou radostí a pokojem u víře, tak abyste se rozhojnili v naději skrze moc Ducha svatého."
+        },
+        {
+          "number": 14,
+          "text": "Vím zajisté, bratří moji, i já také o vás, že i vy jste plní dobroty, naplněni jsouce všelikou známostí, takže se i napomínati můžete vespolek."
+        },
+        {
+          "number": 15,
+          "text": "Ale však proto psal jsem vám, bratří, poněkud směle, jako ku paměti přivodě vám, podle milosti, kteráž jest mi dána od Boha,"
+        },
+        {
+          "number": 16,
+          "text": "K tomu, abych byl služebníkem Ježíše Krista mezi pohany, slouže evangelium Božímu, aby byla obět pohanů vzácná, posvěcena jsuci skrze Ducha svatého."
+        },
+        {
+          "number": 17,
+          "text": "Mám se tedy čím chlubiti v Kristu Ježíši, v Božích věcech."
+        },
+        {
+          "number": 18,
+          "text": "Neboť bych se neodvážil mluviti toho, čehož by skrze mne neučinil Kristus, k tomu, aby ku poslušenství přivedeni byli pohané slovem i skutkem,"
+        },
+        {
+          "number": 19,
+          "text": "V moci divů a zázraků, v síle Ducha Božího, takže jsem od Jeruzaléma vůkol až k Ilyrické zemi naplnil evangelium Kristovým,"
+        },
+        {
+          "number": 20,
+          "text": "A to tak žádostiv jsa kázati evangelium, kdež ani jmenován nebyl Kristus, abych na cizí základ nestavěl,"
+        },
+        {
+          "number": 21,
+          "text": "Ale jakož psáno jest: Kterýmž není zvěstováno o něm, uzří, a ti, jenž neslýchali, srozumějí."
+        },
+        {
+          "number": 22,
+          "text": "A tímť jest mi mnohokrát překaženo přijíti k vám."
+        },
+        {
+          "number": 23,
+          "text": "Nyní pak nemaje již více místa v těchto krajinách a žádost maje přijíti k vám od mnoha let,"
+        },
+        {
+          "number": 24,
+          "text": "Kdyžkoli půjdu do Hišpanie, přijdu k vám. Mámť zajisté naději, že tudy jda, uzřím vás, a že vy mne provodíte tam, avšak až bych prve u vás poněkud pobyl."
+        },
+        {
+          "number": 25,
+          "text": "Nyní pak beru se do Jeruzaléma, službu čině svatým."
+        },
+        {
+          "number": 26,
+          "text": "Nebo za dobré se vidělo Macedonským a Achaiským, aby sbírku nějakou učinili na chudé svaté, kteříž jsou v Jeruzalémě."
+        },
+        {
+          "number": 27,
+          "text": "Takť sobě to oblíbili, a také povinni jsou jim to. Nebo poněvadž duchovních věcí jejich byli účastni pohané, povinniť jsou jim také sloužiti tělesnými."
+        },
+        {
+          "number": 28,
+          "text": "A protož když to vykonám a jim odvedu užitek ten, půjduť skrze vás do Hišpanie."
+        },
+        {
+          "number": 29,
+          "text": "A vímť, že přijda k vám, v hojnosti požehnání evangelium Kristova přijdu."
+        },
+        {
+          "number": 30,
+          "text": "Prosímť pak vás, bratří, skrze Pána našeho Jezukrista a skrze lásku Ducha svatého, abyste spolu se mnou modlili se za mne Bohu snažně,"
+        },
+        {
+          "number": 31,
+          "text": "Abych vysvobozen byl od protivníků, kteříž jsou v Judstvu a aby služba tato má příjemná byla svatým v Jeruzalémě,"
+        },
+        {
+          "number": 32,
+          "text": "Abych k vám bohdá s radostí přišel, a s vámi poodpočinul."
+        },
+        {
+          "number": 33,
+          "text": "Bůh pak pokoje budiž se všemi vámi. Amen."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Poroučímť pak vám Fében, sestru naši, služebnici církve Cenchrenské,"
+        },
+        {
+          "number": 2,
+          "text": "Abyste ji přijali v Pánu, tak jakž sluší na svaté, a abyste jí pomocni byli, jestliže by vás v čem potřebovala. Nebo i ona mnohým hostem ochotně posluhovala, až i mně také."
+        },
+        {
+          "number": 3,
+          "text": "Pozdravte Priscilly a Akvila, pomocníků mých v Kristu Ježíši,"
+        },
+        {
+          "number": 4,
+          "text": "Kteříž pro můj život svých vlastních hrdel nasadili, jimžto ne já sám toliko děkuji, ale i všecky církve pohanské,"
+        },
+        {
+          "number": 5,
+          "text": "I domácího jejich shromáždění. Pozdravte mého milého Epéneta, kterýž jest prvotiny Achaie v Kristu."
+        },
+        {
+          "number": 6,
+          "text": "Pozdravte Marie, kteráž mnoho práce měla s námi."
+        },
+        {
+          "number": 7,
+          "text": "Pozdravte Andronika a Junia, příbuzných mých a spoluvězňů mých, kteříž jsou vzácní u apoštolů a kteříž přede mnou byli v Kristu Ježíši."
+        },
+        {
+          "number": 8,
+          "text": "Pozdravte Amplia mně v Pánu milého."
+        },
+        {
+          "number": 9,
+          "text": "Pozdravte Urbana, pomocníka našeho v Kristu, a Stachyna mého milého."
+        },
+        {
+          "number": 10,
+          "text": "Pozdravte Apella zkušeného v Kristu. Pozdravte těch, kteříž jsou z domu Aristobulova."
+        },
+        {
+          "number": 11,
+          "text": "Pozdravte Herodiona, příbuzného mého. Pozdravte těch, kteří jsou z čeledi Narciškovy věřící v Pána."
+        },
+        {
+          "number": 12,
+          "text": "Pozdravte Tryfény a Tryfózy, kteréž práci vedou v Pánu. Pozdravte Persidy milé, kteráž mnoho pracovala v Pánu."
+        },
+        {
+          "number": 13,
+          "text": "Pozdravte Rufa, zvláštního v Pánu, a matky jeho i mé."
+        },
+        {
+          "number": 14,
+          "text": "Pozdravte Asynkrita, Flegonta, Hermy, Patroba, Merkuria, i jiných bratří, kteříž jsou s nimi."
+        },
+        {
+          "number": 15,
+          "text": "Pozdravte Filologa i Julie, Nerea a sestry jeho, i Olympa i všech svatých, kteříž jsou s nimi."
+        },
+        {
+          "number": 16,
+          "text": "Pozdravte sebe vespolek v políbení svatém. Pozdravujíť vás církve Kristovy."
+        },
+        {
+          "number": 17,
+          "text": "Prosímť pak vás, bratří, abyste šetřili těch, kteříž různice a pohoršení činí, naodpor učení tomu, kterémuž jste vy se naučili, a varujte se jich."
+        },
+        {
+          "number": 18,
+          "text": "Nebo takoví Pánu našemu Ježíši Kristu neslouží, ale svému břichu; a skrze lahodné řeči a pochlebenství svodí srdce prostých."
+        },
+        {
+          "number": 19,
+          "text": "Nebo vaše poslušenství všechněch došlo. A protož se raduji z vás. Než chciť, abyste byli moudří k dobrému, a prostí k zlému."
+        },
+        {
+          "number": 20,
+          "text": "Bůh pak pokoje potře satana pod nohy vaše brzo. Milost Pána našeho Jezukrista budiž s vámi. Amen."
+        },
+        {
+          "number": 21,
+          "text": "Pozdravují vás Timoteus, pomocník můj, a Lucius, a Jázon, a #Sozipater, příbuzní moji."
+        },
+        {
+          "number": 22,
+          "text": "Pozdravuji vás v Pánu já Tercius, kterýž jsem psal tento list."
+        },
+        {
+          "number": 23,
+          "text": "Pozdravuje vás Gáius, hospodář můj i vší církve. Pozdravuje vás Erastus, důchodní písař městský, a Kvartus bratr."
+        },
+        {
+          "number": 24,
+          "text": "Milost Pána našeho Jezukrista se všemi vámi. Amen."
+        },
+        {
+          "number": 25,
+          "text": "Tomu pak, jenž může vás utvrditi podle evangelium mého a kázání Ježíše Krista, podle zjevení tajemství od časů věčných skrytého,"
+        },
+        {
+          "number": 26,
+          "text": "Nyní pak zjeveného i skrze Písma prorocká, podle poručení věčného Boha, ku poslušenství víry všechněm národům oznámeného,"
+        },
+        {
+          "number": 27,
+          "text": "Tomu, pravím, samému moudrému Bohu sláva skrze Jezukrista na věky. Amen List tento k Římanům psán jest z Korintu, a poslán po Fében, služebnici sboru Cenchrenského."
+        }
+      ]
+    }
+  ]
+}

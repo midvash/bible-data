@@ -1,0 +1,18 @@
+{
+  "slug": "sv1917",
+  "shortName": "SV1917",
+  "name": "Bibeln 1917",
+  "language": "sv",
+  "year": 1917,
+  "license": "public-domain",
+  "licenseNote": "Public domain (Swedish 1917 authorized translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31069
+  },
+  "readerUrl": "https://midvash.com/sv1917",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

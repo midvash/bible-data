@@ -1,0 +1,1179 @@
+{
+  "version": "bkr",
+  "book": "Ezra",
+  "bookId": 15,
+  "englishName": "Ezra",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Léta prvního Cýra krále Perského, aby se naplnila řeč Hospodinova skrze ústa Jeremiášova, vzbudil Hospodin ducha Cýrova krále Perského, aby dal provolati po všem království svém, ano také i rozepsal, řka:"
+        },
+        {
+          "number": 2,
+          "text": "Toto praví Cýrus král Perský: Všecka království země dal mi Hospodin Bůh nebeský, a on mi poručil, abych mu vystavěl dům v Jeruzalémě, kterýž jest v Judstvu."
+        },
+        {
+          "number": 3,
+          "text": "Kdo jest mezi vámi ze všeho lidu jeho, budiž Bůh jeho s ním, a nechať jde do Jeruzaléma, kterýž jest v Judstvu, a staví dům Hospodina Boha Izraelského, toho Boha, kterýž jest v Jeruzalémě."
+        },
+        {
+          "number": 4,
+          "text": "Kdož by pak zůstal na kterémkoli místě, kdež jest pohostinu, lidé místa toho ať mu pomohou stříbrem a zlatem, statkem i hovady, mimo oběti dobrovolné k domu Božímu, kterýž jest v Jeruzalémě."
+        },
+        {
+          "number": 5,
+          "text": "I povstali přední z čeledí otců z pokolení Judova a Beniaminova, kněží také a Levítové i každý, číhož ducha vzbudil Bůh, aby šli k stavení domu Hospodinova, kterýž jest v Jeruzalémě."
+        },
+        {
+          "number": 6,
+          "text": "Jimž všickni ti, kteříž bydlili okolo nich, pomáhali nádobami stříbrnými a zlatými, statkem i hovady, a věcmi drahými, mimo všecko, což dobrovolně obětováno bylo."
+        },
+        {
+          "number": 7,
+          "text": "Král také Cýrus vydal nádoby domu Hospodinova, kteréž byl pobral Nabuchodonozor z Jeruzaléma, a dal je byl do domu Boha svého."
+        },
+        {
+          "number": 8,
+          "text": "Vydal je pak Cýrus král Perský skrze Mitridata správce nad poklady, kterýž je vyčtl Sesbazarovi knížeti Judskému."
+        },
+        {
+          "number": 9,
+          "text": "A tento jest počet jejich: Medenic zlatých třidceti, medenic stříbrných tisíc, nožů devětmecítma."
+        },
+        {
+          "number": 10,
+          "text": "Koflíků zlatých třidceti, koflíků stříbrných prostějších čtyři sta a deset, nádob jiných na tisíce."
+        },
+        {
+          "number": 11,
+          "text": "Všech nádob zlatých i stříbrných pět tisíc a čtyři sta. Všecko to odnesl Sesbazar, když se stěhoval lid zajatý z Babylona do Jeruzaléma."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tito pak jsou lidé té krajiny, kteříž se z zajetí a přestěhování toho brali, jakž je byl přestěhoval Nabuchodonozor král Babylonský do Babylona, a navrátili se do Jeruzaléma a do Judstva, jeden každý do města svého,"
+        },
+        {
+          "number": 2,
+          "text": "Kteříž přišli s Zorobábelem, s Jesua, s Nehemiášem, Saraiášem, Reelaiášem, Mardocheem, Bilsanem, Misparem, Bigvajem, Rechumem a Baanou. Počet mužů z lidu Izraelského:"
+        },
+        {
+          "number": 3,
+          "text": "Synů Farosových dva tisíce, sto sedmdesáte dva."
+        },
+        {
+          "number": 4,
+          "text": "Synů Sefatiášových tři sta sedmdesáte dva."
+        },
+        {
+          "number": 5,
+          "text": "Synů Arachových sedm set sedmdesát pět."
+        },
+        {
+          "number": 6,
+          "text": "Synů Pachat Moábových, synů Jesue a Joábových dva tisíce, osm set a dvanácte."
+        },
+        {
+          "number": 7,
+          "text": "Synů Elamových tisíc, dvě stě padesáte čtyři."
+        },
+        {
+          "number": 8,
+          "text": "Synů Zattuových devět set čtyřidceti pět."
+        },
+        {
+          "number": 9,
+          "text": "Synů Zakkai sedm set a šedesát."
+        },
+        {
+          "number": 10,
+          "text": "Synů Báni šest set čtyřidceti dva."
+        },
+        {
+          "number": 11,
+          "text": "Synů Bebai šest set třimecítma."
+        },
+        {
+          "number": 12,
+          "text": "Synů Azgadových tisíc, dvě stě dvamecítma."
+        },
+        {
+          "number": 13,
+          "text": "Synů Adonikamových šest set šedesáte šest."
+        },
+        {
+          "number": 14,
+          "text": "Synů Bigvai dva tisíce, padesáte šest."
+        },
+        {
+          "number": 15,
+          "text": "Synů Adinových čtyři sta padesáte čtyři."
+        },
+        {
+          "number": 16,
+          "text": "Synů Aterových z Ezechiáše devadesát osm."
+        },
+        {
+          "number": 17,
+          "text": "Synů Bezai tři sta třimecítma."
+        },
+        {
+          "number": 18,
+          "text": "Synů Jorahových sto a dvanácte."
+        },
+        {
+          "number": 19,
+          "text": "Synů Chasumových dvě stě třimecítma."
+        },
+        {
+          "number": 20,
+          "text": "Synů Gibbarových devadesáte pět."
+        },
+        {
+          "number": 21,
+          "text": "Synů Betlémských sto třimecítma."
+        },
+        {
+          "number": 22,
+          "text": "Mužů Netofatských padesáte šest."
+        },
+        {
+          "number": 23,
+          "text": "Mužů Anatotských sto osmmecítma."
+        },
+        {
+          "number": 24,
+          "text": "Synů Azmavetských čtyřidceti dva."
+        },
+        {
+          "number": 25,
+          "text": "Synů Kariatarimských, Kafirských a Berotských sedm set čtyřidceti a tři."
+        },
+        {
+          "number": 26,
+          "text": "Synů Ráma a Gabaa šest set jedenmecítma."
+        },
+        {
+          "number": 27,
+          "text": "Mužů Michmas sto dvamecítma."
+        },
+        {
+          "number": 28,
+          "text": "Mužů z Bethel a Hai dvě stě třimecítma."
+        },
+        {
+          "number": 29,
+          "text": "Synů z Nébo padesáte dva."
+        },
+        {
+          "number": 30,
+          "text": "Synů Magbisových sto padesáte šest."
+        },
+        {
+          "number": 31,
+          "text": "Synů Elama druhého tisíc, dvě stě padesáte čtyři."
+        },
+        {
+          "number": 32,
+          "text": "Synů Charimových tři sta dvadceti."
+        },
+        {
+          "number": 33,
+          "text": "Synů Lodových, Chadidových a Onových sedm set dvadceti pět."
+        },
+        {
+          "number": 34,
+          "text": "Synů Jerecho tři sta čtyřidceti pět."
+        },
+        {
+          "number": 35,
+          "text": "Synů Senaa tři tisíce, šest set a třidceti."
+        },
+        {
+          "number": 36,
+          "text": "Kněží, synů Jedaiášových z domu Jesua, devět set sedmdesáte tři."
+        },
+        {
+          "number": 37,
+          "text": "Synů Immerových tisíc, padesáte dva."
+        },
+        {
+          "number": 38,
+          "text": "Synů Paschurových tisíc, dvě stě čtyřidceti sedm."
+        },
+        {
+          "number": 39,
+          "text": "Synů Charimových tisíc a sedmnácte."
+        },
+        {
+          "number": 40,
+          "text": "Levítů, synů Jesua a Kadmiele, synů Hodaviášových, sedmdesáte čtyři."
+        },
+        {
+          "number": 41,
+          "text": "Zpěváků, synů Azafových, sto dvadceti osm."
+        },
+        {
+          "number": 42,
+          "text": "Synů vrátných, synů Sallumových, synů Aterových, synů Talmonových, synů Akkubových, synů Chatita, synů Sobai, všech sto třidceti devět."
+        },
+        {
+          "number": 43,
+          "text": "Netinejských, synů Zicha, synů Chasufa, synů Tabbaot,"
+        },
+        {
+          "number": 44,
+          "text": "Synů Keros, synů Siaha, synů Fádon,"
+        },
+        {
+          "number": 45,
+          "text": "Synů Lebana, synů Chagaba, synů Akkub,"
+        },
+        {
+          "number": 46,
+          "text": "Synů Chagab, synů Samlai, synů Chanan,"
+        },
+        {
+          "number": 47,
+          "text": "Synů Giddel, synů Gachar, synů Reaia,"
+        },
+        {
+          "number": 48,
+          "text": "Synů Rezin, synů Nekoda, synů Gazam,"
+        },
+        {
+          "number": 49,
+          "text": "Synů Uza, synů Paseach, synů Besai,"
+        },
+        {
+          "number": 50,
+          "text": "Synů Asna, synů Meunim, synů Nefusim,"
+        },
+        {
+          "number": 51,
+          "text": "Synů Bakbuk, synů Chakufa, synů Charchur,"
+        },
+        {
+          "number": 52,
+          "text": "Synů Bazlut, synů Mechida, synů Charsa,"
+        },
+        {
+          "number": 53,
+          "text": "Synů Barkos, synů Sisera, synů Tamach,"
+        },
+        {
+          "number": 54,
+          "text": "Synů Neziach, synů Chatifa,"
+        },
+        {
+          "number": 55,
+          "text": "Synů služebníků Šalomounových, synů Sotai, synů Soferet, synů Feruda,"
+        },
+        {
+          "number": 56,
+          "text": "Synů Jaala, synů Darkon, synů Giddel,"
+        },
+        {
+          "number": 57,
+          "text": "Synů Sefatiášových, synů Chattil, synů Pocheret Hazebaim, synů Ami,"
+        },
+        {
+          "number": 58,
+          "text": "Všech Netinejských a synů služebníků Šalomounových tři sta devadesáte dva."
+        },
+        {
+          "number": 59,
+          "text": "Tito také byli, kteříž šli z Telmelach, Telcharsa, Cherub, Addan a Immer, ale nemohli ukázati domu otců svých a semene svého, že by z Izraele byli:"
+        },
+        {
+          "number": 60,
+          "text": "Synů Delaiášových, synů Tobiášových, synů Nekodových šest set padesáte dva."
+        },
+        {
+          "number": 61,
+          "text": "A z synů kněžských synové Chabaiášovi, synové Kózovi, synové Barzillai, kterýž pojav sobě ze dcer Barzillai Galádského manželku, nazván jest jménem jejich."
+        },
+        {
+          "number": 62,
+          "text": "Ti vyhledávali zapsání o sobě, chtíce prokázati rod svůj, ale nenašlo se. Protož zbaveni jsou kněžství."
+        },
+        {
+          "number": 63,
+          "text": "A zapověděl jim Tirsata, aby nejedli z věcí svatosvatých, dokudž by nestál kněz s urim a thumim."
+        },
+        {
+          "number": 64,
+          "text": "Všeho toho shromáždění pospolu čtyřidceti a dva tisíce, tři sta šedesáte,"
+        },
+        {
+          "number": 65,
+          "text": "Kromě služebníků jejich, a děvek jejich, jichž bylo sedm tisíc, tři sta třidceti sedm. A mezi nimi bylo zpěváků a zpěvakyní dvě stě."
+        },
+        {
+          "number": 66,
+          "text": "Koní jejich sedm set třidceti šest, mezků jejich dvě stě čtyřidceti pět."
+        },
+        {
+          "number": 67,
+          "text": "Velbloudů jejich čtyři sta třidceti pět, oslů šest tisíc, sedm set a dvadceti."
+        },
+        {
+          "number": 68,
+          "text": "Z knížat pak čeledí otcovských, někteří, když přišli k domu Hospodinovu, kterýž byl v Jeruzalémě, dobrovolně se oddavše, aby stavěli dům Boží na gruntech jeho,"
+        },
+        {
+          "number": 69,
+          "text": "Vedlé možnosti své dali náklad k dílu: Zlata jeden a šedesáte tisíc drachem, stříbra pak pět tisíc liber, a sukní kněžských sto."
+        },
+        {
+          "number": 70,
+          "text": "A tak osadili se kněží i Levítové a někteří z lidu, i zpěváci i vrátní a Netinejští v městech svých, i všecken Izrael v městech svých."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Když pak nastal měsíc sedmý, a byli synové Izraelští v městech, shromáždil se lid jednomyslně do Jeruzaléma."
+        },
+        {
+          "number": 2,
+          "text": "Tedy vstav Jesua syn Jozadakův s bratřími svými kněžími, a Zorobábel syn Salatielův s bratřími svými, vzdělali oltář Boha Izraelského, aby obětovali na něm oběti zápalné, jakož psáno jest v zákoně Mojžíše muže Božího."
+        },
+        {
+          "number": 3,
+          "text": "A když postavili oltář ten na základích jeho, ačkoli se obávali národů jiných zemí, však obětovali na něm oběti zápalné Hospodinu, oběti zápalné ráno i večer."
+        },
+        {
+          "number": 4,
+          "text": "Drželi také slavnost stánků, jakož psáno jest, obětujíce zápal na každý den, vedlé počtu a vedlé obyčeje každého dne,"
+        },
+        {
+          "number": 5,
+          "text": "A potom obět zápalnou ustavičnou, i na novměsíce i na každou slavnost Hospodinu posvěcenou, i od každého dobrovolně obětujícího dobrovolnou obět Hospodinu."
+        },
+        {
+          "number": 6,
+          "text": "Od prvního dne toho měsíce sedmého počali obětovati zápalů Hospodinu, ačkoli chrám Hospodinův ještě nebyl založen."
+        },
+        {
+          "number": 7,
+          "text": "I dali peníze kameníkům a řemeslníkům, též potravy a nápoje i oleje Sidonským a Tyrským, aby vezli dříví cedrové z Libánu k moři Joppen, podlé povolení jim Cýra krále Perského."
+        },
+        {
+          "number": 8,
+          "text": "Léta pak druhého po jejich se navrácení k domu Božímu do Jeruzaléma, měsíce druhého, začali Zorobábel syn Salatielův, a Jesua syn Jozadakův, i jiní bratří jejich kněží a Levítové a všickni, kteříž byli přišli z toho zajetí do Jeruzaléma, a ustanovili Levíty od dvadcítiletých a výše, aby přihlédali k dílu domu Hospodinova."
+        },
+        {
+          "number": 9,
+          "text": "A tak postaven jest Jesua, synové jeho i bratří jeho, Kadmiel i synové jeho, synové Judovi spolu, aby přihlédali k dílu při domě Božím, potomci Chenadadovi, synové jejich i bratří jejich Levítové."
+        },
+        {
+          "number": 10,
+          "text": "A když zakládali grunty stavitelé chrámu Hospodinova, postavili kněží zobláčené s trubami, a Levíty, syny Azafovy s cymbály, aby chválili Hospodina vedlé nařízení Davida krále Izraelského."
+        },
+        {
+          "number": 11,
+          "text": "I prozpěvovali jedni po druhých, chválíce a oslavujíce Hospodina, nebo dobrý jest, a že na věky trvá milosrdenství jeho nad Izraelem. Všecken také lid prokřikoval hlasem velikým, chválíce Hospodina, proto že založen byl dům Hospodinův."
+        },
+        {
+          "number": 12,
+          "text": "Mnozí pak z kněží a z Levítů i z knížat čeledí otcovských, starci, kteříž byli viděli prvnější dům, když zakládali tento dům před očima jejich, plakali hlasem velikým. Mnozí nazpět prokřikovali s radostí hlasem velikým,"
+        },
+        {
+          "number": 13,
+          "text": "Tak že lid nemohl rozeznati hlasu prokřikování radostného od hlasu plačícího lidu; nebo lid ten prokřikoval hlasem velikým, a hlas ten slyšán byl daleko."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Uslyšavše pak nepřátelé Judovi a Beniaminovi, že by ti, kteříž přestěhováni byli, stavěli chrám Hospodinu Bohu Izraelskému,"
+        },
+        {
+          "number": 2,
+          "text": "Přistoupili k Zorobábelovi a k knížatům čeledí otcovských, a řekli jim: Budeme s vámi stavěti; nebo jako i vy hledati budeme Boha vašeho, jemuž i oběti obětujeme ode dnů Esarchaddona krále Assyrského, kterýž nás sem uvedl."
+        },
+        {
+          "number": 3,
+          "text": "Tedy řekl jim Zorobábel a Jesua i jiná knížata čeledí otcovských z Izraele: Ne vám, ale nám náleží stavěti dům Bohu našemu; nebo my sami stavěti budeme Hospodinu Bohu Izraelskému, jakž přikázal nám král Cýrus, král Perský."
+        },
+        {
+          "number": 4,
+          "text": "A však lid té krajiny zemdléval ruce lidu Judského, a odhrožovali je, aby nestavěli."
+        },
+        {
+          "number": 5,
+          "text": "Anobrž i najímali proti nim rádce, aby rušili rady jejich, po všecky dny Cýra krále Perského, až do kralování Daria krále Perského."
+        },
+        {
+          "number": 6,
+          "text": "Nebo když kraloval Asverus, při začátku kralování jeho sepsali žalobu proti obyvatelům Judským a Jeruzalémským."
+        },
+        {
+          "number": 7,
+          "text": "(Tak jako za dnů Artaxerxa psal Bislam, Mitridates, Tabel a jiní tovaryši jeho k Artaxerxovi králi Perskému.) Písmo pak listu toho psáno bylo Syrsky, i vykládáno Syrsky."
+        },
+        {
+          "number": 8,
+          "text": "Rechum totiž kancléř a Simsai písař napsali jeden list proti Jeruzalému Artaxerxovi králi, takový:"
+        },
+        {
+          "number": 9,
+          "text": "Rechum kancléř a Simsai písař i jiní tovaryši jejich, Dinaiští a Afarsatchaiští, Tarpelaiští, Afarzaiští, Arkevaiští, Babylonští, Susanechaiští, Dehavejští a Elmaiští,"
+        },
+        {
+          "number": 10,
+          "text": "I jiní národové, kteréž byl převedl Asnapar veliký a slavný, a rozsadil v městech Samařských, a jiní za řekou, i Cheenetští,"
+        },
+        {
+          "number": 11,
+          "text": "(Tento jest přípis listu, kterýž poslali k Artaxerxovi králi), služebníci tvoji, lidé za řekou a Cheenetští."
+        },
+        {
+          "number": 12,
+          "text": "Známo buď králi, že Židé, kteříž se vrátili od tebe, přišedše k nám do Jeruzaléma, město odporné a škodlivé stavějí, i zdi dělají, a základy spojují."
+        },
+        {
+          "number": 13,
+          "text": "Protož nyní buď vědomo králi, bude-li to město vystaveno, a zdi dodělány, platuť, cla a úroku dávati nebudou, a tak komoře královské újma bude."
+        },
+        {
+          "number": 14,
+          "text": "Nyní tedy poněvadž dobrodiní paláce užíváme, na obnažování krále neslušelo se nám dívati. Tou příčinou poslali jsme a oznámili to králi,"
+        },
+        {
+          "number": 15,
+          "text": "Aby dal hledati v knihách kronik otců svých, a najdeš v nich, i zvíš, že město to jest město odporné a škodlivé králům i krajinám, a že se v něm puntovávají od starodávna, pročež to město prvé zkaženo bylo."
+        },
+        {
+          "number": 16,
+          "text": "Nadto známoť činíme králi, že bude-li to město vystaveno, a zdi dodělány, tedy vládařství za řekou míti nebudeš."
+        },
+        {
+          "number": 17,
+          "text": "Tedy odeslal odpověd král Rechumovi kancléři a Simsaiovi písaři i jiným tovaryšům jejich, kteříž bydlili v Samaří, a jiným za řekou v Selam i v Cheet:"
+        },
+        {
+          "number": 18,
+          "text": "Psání, kteréž jste k nám poslali, zjevně čteno jest přede mnou."
+        },
+        {
+          "number": 19,
+          "text": "Protož rozkázal jsem, aby hledali. I nalezli, že to město zdávna povstává proti králům, a zprotivování i puntování bývají v něm."
+        },
+        {
+          "number": 20,
+          "text": "Nadto i králové mocní že bývali v Jeruzalémě, a panovali nade vším, co jest za řekou, jimž platové, cla a úrok dáván býval."
+        },
+        {
+          "number": 21,
+          "text": "Protož nyní přikažte, ať jest zastaveno mužům těm, aby to město nebylo staveno, dokudž by ode mne poručeno nebylo."
+        },
+        {
+          "number": 22,
+          "text": "Hleďtež pak, abyste se v té věci nemýlili, a ať skrze to nezroste něco zlého na škodu králům."
+        },
+        {
+          "number": 23,
+          "text": "Když pak ten přípis listu Artaxerxa krále čten byl před Rechumem a Simsaiem písařem a tovaryši jejich, odešli rychle do Jeruzaléma k Židům, a zastavili jim mocí a silou."
+        },
+        {
+          "number": 24,
+          "text": "A tak přetrženo jest dílo domu Božího, kterýž byl v Jeruzalémě, a stálo tak až do druhého léta kralování Daria krále Perského."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Toho času prorokoval Aggeus prorok a Zachariáš syn Iddo, proroci, Židům, kteříž byli v Judstvu a v Jeruzalémě, ve jménu Boha Izraelského mluvíce k nim."
+        },
+        {
+          "number": 2,
+          "text": "Tedy povstavše Zorobábel syn Salatielův, a Jesua syn Jozadakův, počali zase stavěti domu Božího, kterýž jest v Jeruzalémě, a byli s nimi proroci Boží, pomáhajíce jim."
+        },
+        {
+          "number": 3,
+          "text": "Téhož času přišel k nim Tattenai, vývoda za řekou, a Setarbozenai, i tovaryši jejich, kteříž takto k nim řekli: Kdo vám poručil dům tento stavěti a zdi tyto dělati?"
+        },
+        {
+          "number": 4,
+          "text": "Tedy jsme jim řekli takto, ano i ty muže, kteří to stavení dělali, jmenovali."
+        },
+        {
+          "number": 5,
+          "text": "Nad staršími pak Židovskými byla ochrana Boha jejich, tak že nepřekazili jim, dokudž ta věc nepřišla před Daria, jehož tehdáž odpověd přinesli o té věci."
+        },
+        {
+          "number": 6,
+          "text": "Přípis listu, kterýž poslal Tattenai vývoda za řekou, a Setarbozenai s tovaryši svými, i Afarsechaiští, kteříž byli za řekou, k Dariovi králi."
+        },
+        {
+          "number": 7,
+          "text": "List poslali jemu, a takto bylo psáno v něm: Dariovi králi pokoj všeliký."
+        },
+        {
+          "number": 8,
+          "text": "Známo buď králi, že jsme přišli do Judské krajiny k domu Boha velikého. Kterýžto stavějí kamením velikým, a dříví kladou do stěn, a dílo to spěšně se staví, a daří se v rukou jejich."
+        },
+        {
+          "number": 9,
+          "text": "Tedy otázali jsme se těch starších, a takto jsme jim řekli: Kdo vám poručil stavěti dům tento, a zdi tyto dělati?"
+        },
+        {
+          "number": 10,
+          "text": "Ano i na jména jejich ptali jsme se jich, abychom oznámili tobě, a napsali jména mužů těch, kteříž jsou přední mezi nimi."
+        },
+        {
+          "number": 11,
+          "text": "Těmito pak slovy nám odpověděli, řkouce: My jsme služebníci Boha nebe a země, a stavíme dům, kterýž byl ustaven prvé před mnohými lety, jejž byl veliký král Izraelský stavěl i dokonal."
+        },
+        {
+          "number": 12,
+          "text": "Ale potom, když popudili otcové naši Boha nebeského, vydal je v ruku Nabuchodonozora krále v Babyloně, Kaldejského, kterýž dům tento zbořil, a lid převedl do Babylona."
+        },
+        {
+          "number": 13,
+          "text": "A však léta prvního Cýra krále Babylonského, Cýrus král rozkázal, aby tento Boží dům byl staven."
+        },
+        {
+          "number": 14,
+          "text": "Nadto i nádoby domu Božího zlaté a stříbrné, kteréž byl Nabuchodonozor vynesl z chrámu, jenž byl v Jeruzalémě, a vnesl je do chrámu Babylonského, i ty vynesl Cýrus král z chrámu Babylonského, a dány jsou Sesbazarovi, jehož byl vývodou ustanovil."
+        },
+        {
+          "number": 15,
+          "text": "A poručil mu, řka: Nádoby tyto vezma, odejdi a slož je v chrámě, kterýž jest v Jeruzalémě, a dům Boží ať stavějí na místě jeho."
+        },
+        {
+          "number": 16,
+          "text": "Tedy Sesbazar ten přišed, založil grunty domu Božího, kterýž jest v Jeruzalémě, a od toho času až po dnes staví se, a ještě není dokonán."
+        },
+        {
+          "number": 17,
+          "text": "Nyní tedy jestli se za dobré králi vidí, nechť se pohledá mezi poklady královskými, kteříž jsou tam v Babyloně, jest-li tak, že by Cýrus král poručil, aby staven byl dům Boží tento, kterýž jest v Jeruzalémě. Potom vůli královskou nechť nám pošle o té věci."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy král Darius rozkázal, aby hledali v bibliotéce, mezi poklady složenými v Babyloně."
+        },
+        {
+          "number": 2,
+          "text": "I nalezena jest v Achmeta na hradě, kterýž jest v Médské krajině, jedna kniha, a takto zapsána byla v ní pamět:"
+        },
+        {
+          "number": 3,
+          "text": "Léta prvního Cýra krále Cýrus král rozkázal: Dům Boží, kterýž byl v Jeruzalémě, ať jest v městě staven na místě, kdež se obětují oběti, a grunty jeho ať vzhůru ženou, zvýší loktů šedesáti, a zšíří loktů šedesáti,"
+        },
+        {
+          "number": 4,
+          "text": "Třmi řady z kamení velikého, a řad z dříví nového, náklad pak z domu královského bude dáván."
+        },
+        {
+          "number": 5,
+          "text": "Nadto nádobí domu Božího zlaté i stříbrné, kteréž Nabuchodonozor byl pobral z chrámu, jenž byl v Jeruzalémě, a byl je přenesl do Babylona, ať zase navrátí, aby se dostalo do chrámu Jeruzalémského na místo své, a složeno bylo v domě Božím."
+        },
+        {
+          "number": 6,
+          "text": "Protož nyní, ty Tattenai, vývodo za řekou, Setarbozenai s tovaryši svými, i Afarsechaiští, kteříž jste za řekou, ustupte odtud."
+        },
+        {
+          "number": 7,
+          "text": "Nechte jich při díle toho domu Božího. Vůdce Židovský a starší jejich nechať ten dům Boží stavějí na místě jeho."
+        },
+        {
+          "number": 8,
+          "text": "Ode mne také poručeno jest o tom, co byste měli činiti s staršími Židovskými při stavení toho domu Božího, totiž, aby z zboží královského, z důchodů, jenž jsou za řekou, bez meškání náklad dáván byl mužům těm, aby dílo nemělo překážky."
+        },
+        {
+          "number": 9,
+          "text": "A to, čehož by bylo potřebí, buď volků aneb skopců i beránků k zápalným obětem Boha nebeského, obilé, soli, vína i oleje, jakž by rozkázali kněží Jeruzalémští, nechť se jim dává na každý den, a to beze všeho podvodu,"
+        },
+        {
+          "number": 10,
+          "text": "Aby měli z čeho obětovati vůni příjemnou Bohu nebeskému, a aby se modlili za život krále i za syny jeho."
+        },
+        {
+          "number": 11,
+          "text": "Nadto ode mne jest rozkázáno: Kdož by koli zrušil přikázaní toto, aby vybořeno bylo z domu jeho dřevo, a zdviženo bylo, na němž by oběšen byl, a dům jeho ať jest hnojištěm pro takovou věc."
+        },
+        {
+          "number": 12,
+          "text": "Bůh pak, jehož jméno tam přebývá, zkaziž všelikého krále i lid, kterýž by vztáhl ruku svou k změnění toho, a zkáze toho domu Božího, jenž jest v Jeruzalémě. Já Darius přikazuji sám, bez meškání ať se stane."
+        },
+        {
+          "number": 13,
+          "text": "Tedy Tattenai, vývoda za řekou, a Setarbozenai s tovaryši svými vedlé toho, jakž rozkázal Darius král, tak učinili bez meškání."
+        },
+        {
+          "number": 14,
+          "text": "I stavěli starší Židovští, a šťastně se jim vedlo vedlé proroctví Aggea proroka, a Zachariáše syna Iddova. Stavěli tedy a dokonali z rozkázaní Boha Izraelského, a z rozkázaní Cýra a Daria, a Artaxerxa krále Perského."
+        },
+        {
+          "number": 15,
+          "text": "A dokonán jest ten dům k třetímu dni měsíce Adar, a ten byl rok šestý kralování Daria krále."
+        },
+        {
+          "number": 16,
+          "text": "Tedy synové Izraelští, kněží a Levítové, i jiní, kteříž byli přišli z převedení, posvětili toho domu Božího s radostí."
+        },
+        {
+          "number": 17,
+          "text": "A obětovali při posvěcení toho Božího domu sto telat, skopců dvě stě, beránků čtyři sta, a kozlů k oběti za hřích za všecken Izrael dvanáct, vedlé počtu pokolení Izraelského."
+        },
+        {
+          "number": 18,
+          "text": "I postavili kněží v třídách jejich, a Levíty v pořádcích jejich při službě Boží v Jeruzalémě, jakož psáno jest v knize Mojžíšově."
+        },
+        {
+          "number": 19,
+          "text": "Slavili také ti, kteříž se vrátili z přestěhování, velikunoc čtrnáctého dne měsíce prvního."
+        },
+        {
+          "number": 20,
+          "text": "Nebo očistili se byli kněží a Levítové jednomyslně. Všickni čistí byli, a obětovali beránka velikonočního za všecky, jenž zajati byli, i za bratří své kněží, i sami za sebe."
+        },
+        {
+          "number": 21,
+          "text": "A jedli synové Izraelští, kteříž se byli navrátili z přestěhování, i každý, kdož odděliv se od poškvrnění pohanů země, připojil se k nim, aby hledal Hospodina Boha Izraelského."
+        },
+        {
+          "number": 22,
+          "text": "Drželi také slavnost přesnic za sedm dní s veselím, proto že je rozveselil Hospodin, a obrátil srdce krále Assyrského k nim, aby jich posilnil v díle domu Božího, Boha Izraelského."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Po těch pak věcech, za kralování Artaxerxa krále Perského, Ezdráš syn Saraiáše, syna Azariášova, syna Helkiášova,"
+        },
+        {
+          "number": 2,
+          "text": "Syna Sallumova, syna Sádochova, syna Achitobova,"
+        },
+        {
+          "number": 3,
+          "text": "Syna Amariášova, syna Azariášova, syna Meraiotova,"
+        },
+        {
+          "number": 4,
+          "text": "Syna Zerachiášova, syna Uzi, syna Bukki,"
+        },
+        {
+          "number": 5,
+          "text": "Syna Abisuova, syna Fínesova, syna Eleazarova, syna Aronova, kněze nejvyššího,"
+        },
+        {
+          "number": 6,
+          "text": "Tento Ezdráš vyšel z Babylona, a byl člověk zběhlý v zákoně Mojžíšově, kterýž dal Hospodin Bůh Izraelský, a dal mu král podlé toho, jakž ruka Hospodina Boha jeho byla s ním, všecko, zač ho koli žádal."
+        },
+        {
+          "number": 7,
+          "text": "Vyšli také synové Izraelští a kněží, i Levítové a zpěváci, vrátní a Netinejští do Jeruzaléma, léta sedmého Artaxerxa krále."
+        },
+        {
+          "number": 8,
+          "text": "A přišel do Jeruzaléma pátého měsíce. Tenť jest rok sedmý krále Daria."
+        },
+        {
+          "number": 9,
+          "text": "Prvního zajisté dne měsíce prvního vyšel z Babylona, a prvního dne měsíce pátého přišel do Jeruzaléma s pomocí Boha svého."
+        },
+        {
+          "number": 10,
+          "text": "Nebo Ezdráš byl uložil v srdci svém, aby zpytoval zákon Hospodinův i plnil jej, a aby učil lid Izraelský ustanovením a soudům."
+        },
+        {
+          "number": 11,
+          "text": "Tento pak jest přípis listu, kterýž dal král Artaxerxes Ezdrášovi knězi umělému v zákoně, zběhlému v těch věcech, kteréž přikázal Hospodin, a v ustanoveních jeho v Izraeli:"
+        },
+        {
+          "number": 12,
+          "text": "Artaxerxes, král nad králi, Ezdrášovi knězi umělému v zákoně Boha nebeského, muži zachovalému i Cheenetským."
+        },
+        {
+          "number": 13,
+          "text": "Ode mne jest přikázáno, kdož by koli v království mém z lidu Izraelského, a z kněží jeho i z Levítů, dobrovolně jíti chtěl s tebou do Jeruzaléma, aby šel."
+        },
+        {
+          "number": 14,
+          "text": "Poněvadž jsi od krále a sedmi rad jeho poslán, abys dohlédal k Judstvu a k Jeruzalému podlé zákona Boha svého, kterýž máš v ruce své,"
+        },
+        {
+          "number": 15,
+          "text": "A abys donesl stříbro a zlato, kteréž král a rady jeho dobrovolně obětovali Bohu Izraelskému, jehož příbytek jest v Jeruzalémě,"
+        },
+        {
+          "number": 16,
+          "text": "A všecko stříbro a zlato, kteréhož bys dostal ve vší krajině Babylonské u těch, kteříž by z lidu dobrovolně co obětovati chtěli, i s kněžími, kteříž by dobrovolně obětovali k domu Boha svého, kterýž jest v Jeruzalémě,"
+        },
+        {
+          "number": 17,
+          "text": "Abys rychle nakoupil za to stříbro telat, skopců, beránků s suchými i mokrými obětmi jejich, a obětoval je na oltáři domu Boha vašeho v Jeruzalémě."
+        },
+        {
+          "number": 18,
+          "text": "A což se koli tobě a bratřím tvým za dobré viděti bude, s ostatkem stříbra a zlata učiniti, vedlé vůle Boha vašeho učiňte."
+        },
+        {
+          "number": 19,
+          "text": "Nádoby pak, kteréžť jsou dány k službě domu Boha tvého, navrať před Bohem v Jeruzalémě,"
+        },
+        {
+          "number": 20,
+          "text": "I jiné věci přináležející k domu Boha tvého. A což by bylo potřebí dáti, dáš z komory královské."
+        },
+        {
+          "number": 21,
+          "text": "A já, já Artaxerxes král poručil jsem všechněm výběrčím, kteříž jste za řekou, aby všecko, čehož by koli žádal od vás Ezdráš kněz, učitel zákona Boha nebeského, rychle se stalo,"
+        },
+        {
+          "number": 22,
+          "text": "Až do sta centnéřů stříbra, a až do sta měr pšenice, a až do sta sudů vína, a až do sta tun oleje, a soli bez míry."
+        },
+        {
+          "number": 23,
+          "text": "Což by koli bylo z rozkazu Boha nebeského, nechť rychle spraví k domu Boha nebeského. Nebo proč má býti prchlivost jeho proti království královu i synům jeho?"
+        },
+        {
+          "number": 24,
+          "text": "Také vám oznamujeme, aby na žádného z kněží a Levítů, zpěváků, vrátných, Netinejských a služebníků v domě Boha toho, platu, cla a úroku žádný úředník nevzkládal."
+        },
+        {
+          "number": 25,
+          "text": "Přesto, ty Ezdráši, podlé moudrosti Boha svého, kterouž jsi obdařen, nařídíš soudce a rádce, kteříž by soudili všecken lid, jenž jest za řekou, ze všech, kteříž povědomi jsou zákona Boha tvého. A kdo by neuměl, budete učiti."
+        },
+        {
+          "number": 26,
+          "text": "Kdož by pak koli neplnil zákona Boha tvého a zákona králova, ať se i hned soud vynese o něm, buď k smrti, buďto k vypovědění jeho, neb aby na statku pokutován byl, aneb vězením trestán."
+        },
+        {
+          "number": 27,
+          "text": "Požehnaný Hospodin Bůh otců našich, kterýž dal to srdce královo, aby zvelebil dům Hospodinův, kterýž jest v Jeruzalémě,"
+        },
+        {
+          "number": 28,
+          "text": "A naklonil ke mně milosrdenstvím krále i rad jeho, i všech mocných knížat královských. Protož já posilněn jsa rukou Hospodina Boha svého nade mnou, shromáždil jsem z lidu Izraelského přednější, kteříž by šli se mnou."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tito jsou pak přednější po čeledech svých otcovských, a rod těch, kteříž vyšli se mnou za kralování Artaxerxa krále z Babylona:"
+        },
+        {
+          "number": 2,
+          "text": "Z synů Fínesových Gersom, z synů Itamarových Daniel, z synů Davidových Chattus."
+        },
+        {
+          "number": 3,
+          "text": "Z synů Sechaniášových, jenž byl z synů Farosových, Zachariáš, a s ním počet mužů sto a padesáte."
+        },
+        {
+          "number": 4,
+          "text": "Z synů Pachat Moábových Eliehoenai syn Zerachiášův, a s ním dvě stě mužů."
+        },
+        {
+          "number": 5,
+          "text": "Z synů Sechaniášových syn Jachazielův, a s ním tři sta mužů."
+        },
+        {
+          "number": 6,
+          "text": "Z synů Adinových Ebed syn Jonatanův, a s ním padesát mužů."
+        },
+        {
+          "number": 7,
+          "text": "Z synů pak Elamových Izaiáš syn Ataliášův, a s ním sedmdesát mužů."
+        },
+        {
+          "number": 8,
+          "text": "Z synů Sefatiášových Zebadiáš syn Michaelův, a s ním osmdesáte mužů."
+        },
+        {
+          "number": 9,
+          "text": "Z synů Joábových Abdiáš syn Jechielův, a s ním dvě stě a osmnácte mužů."
+        },
+        {
+          "number": 10,
+          "text": "Z synů Selomitových syn Josifiášův, a s ním sto a šedesáte mužů."
+        },
+        {
+          "number": 11,
+          "text": "Z synů Bebai Zachariáš syn Bebai, a s ním osmmecítma mužů."
+        },
+        {
+          "number": 12,
+          "text": "Z synů Azgadových Jochanan syn Hakatanův, a s ním sto a deset mužů."
+        },
+        {
+          "number": 13,
+          "text": "Z synů Adonikamových poslednějších, jichž jména jsou tato: Elifelet, Jehiel, Semaiáš, a s ním šedesáte mužů."
+        },
+        {
+          "number": 14,
+          "text": "Z synů Bigvai Utai a Zabbud, a s nimi sedmdesáte mužů."
+        },
+        {
+          "number": 15,
+          "text": "Shromáždil jsem je pak u potoku, kterýž vpadá do Ahavy, a leželi jsme tu tři dni. Potom přehlédal jsem lid a kněží, a z synů Léví nenašel jsem tu žádného."
+        },
+        {
+          "number": 16,
+          "text": "Protož poslal jsem Eliezera, Ariele, Semaiáše, Elnatana, Jariba, Elnatana, Nátana, Zachariáše a Mesullama, přednější, a Joiariba a Elnatana, muže učené,"
+        },
+        {
+          "number": 17,
+          "text": "A rozkázal jsem jim k Iddovi, knížeti v Chasifia místě, a naučil sem je, jak by měli mluviti k Iddovi, Achivovi a Netinejským v Chasifia místě, aby nám přivedli služebníky domu Boha našeho."
+        },
+        {
+          "number": 18,
+          "text": "I přivedli nám s pomocí Boží muže rozumného z synů Moholi, syna Léví, syna Izraelova, a Serebiáše s syny jeho, a bratří jeho osmnácte,"
+        },
+        {
+          "number": 19,
+          "text": "A Chasabiáše, a s ním Izaiáše z synů Merari, bratří jeho a synů jejich dvadceti."
+        },
+        {
+          "number": 20,
+          "text": "Z Netinejských pak, kteréž byl zřídil David a knížata k službě Levítům, dvě stě a dvadceti Netinejských. A ti všickni ze jména vyčteni byli."
+        },
+        {
+          "number": 21,
+          "text": "Tedy vyhlásil jsem tu půst u řeky Ahava, abychom se ponižovali před Bohem svým, a hledali od něho cesty přímé sobě a dítkám svým, i všemu jmění našemu."
+        },
+        {
+          "number": 22,
+          "text": "Nebo styděl jsem se žádati od krále vojska a jízdných, aby nás bránili před nepřátely na cestě; nebo jsme byli pravili králi, řkouce: Ruka Boha našeho jest nade všemi, kteříž ho hledají upřímě, ale moc a prchlivost jeho proti všechněm, kteříž ho opouštějí."
+        },
+        {
+          "number": 23,
+          "text": "A když jsme se postili a hledali v tom Boha svého, tedy vyslyšel nás."
+        },
+        {
+          "number": 24,
+          "text": "Oddělil jsem pak přednějších kněží dvanácte: Serebiáše, Chasabiáše, a s nimi z bratří jejich deset."
+        },
+        {
+          "number": 25,
+          "text": "I odvážil jsem jim stříbro a zlato, a to nádobí, obět domu Boha našeho, kterouž obětovali král i rady jeho, i knížata jeho a všecken lid Izraelský, což se ho našlo."
+        },
+        {
+          "number": 26,
+          "text": "Odvážil jsem, pravím, do rukou jejich stříbra šest set centnéřů a padesát, a nádobí stříbrného sto centnéřů, a zlata sto centnéřů,"
+        },
+        {
+          "number": 27,
+          "text": "A koflíků zlatých dvadceti, každý v tisíc drachem, a dvě nádoby z mosazi nejlepší, tak vzácné jako zlato."
+        },
+        {
+          "number": 28,
+          "text": "Potom jsem jim řekl: Vy jste posvěceni Hospodinu, i tyto nádoby posvěceny jsou, a to stříbro i zlato jest obět dobrovolná Hospodinu Bohu otců vašich."
+        },
+        {
+          "number": 29,
+          "text": "Pilni toho buďte a ostříhejte, až to i odvážíte před kněžími přednějšími a Levíty, i předními z čeledí otcovských z Izraele v Jeruzalémě v pokojích domu Hospodinova."
+        },
+        {
+          "number": 30,
+          "text": "A tak přijali kněží a Levítové váhu stříbra, zlata a nádobí, aby donesli do Jeruzaléma, do domu Boha našeho."
+        },
+        {
+          "number": 31,
+          "text": "Zatím hnuli jsme se od řeky Ahava, dvanáctého dne měsíce prvního, abychom se brali do Jeruzaléma, a ruka Boha našeho byla s námi, a vytrhla nás z ruky nepřátel a úkladníků na cestě."
+        },
+        {
+          "number": 32,
+          "text": "I přišli jsme do Jeruzaléma, a pobyli jsme tu tři dni."
+        },
+        {
+          "number": 33,
+          "text": "Ètvrtého pak dne odváženo jest stříbro a zlato, a nádobí to v domě Boha našeho k ruce Meremota syna Uriáše kněze, s nímž byl Eleazar syn Fínesův, a pomocníci jejich Jozabad syn Jesua, a Noadiáš syn Binnui, Levítové,"
+        },
+        {
+          "number": 34,
+          "text": "Vše v počtu a váze, a zapsána jest všecka ta váha toho času."
+        },
+        {
+          "number": 35,
+          "text": "Vrátivše se pak z zajetí ti, kteříž byli přestěhováni, obětovali zápaly Bohu Izraelskému, volků dvanáct za všecken lid Izraelský, skopců devadesát a šest, beránků sedmdesát a sedm, kozlů za hřích dvanáct, vše v obět zápalnou Hospodinu."
+        },
+        {
+          "number": 36,
+          "text": "I dali výpovědi královy vládařům královským i vývodám za řekou. Kteříž pomocni byli lidu i domu Božímu."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A když se to vykonalo, přistoupili ke mně knížata, řkouce: Neoddělil se lid Izraelský, ani kněží a Levítové od národů zemí, ale činí podlé ohavností Kananejských, Hetejských, Ferezejských, Jebuzejských, Ammonitských, Moábských, Egyptských a Amorejských."
+        },
+        {
+          "number": 2,
+          "text": "Nebo nabrali sobě a synům svým dcer jejich, a smísili se símě svaté s národy zemí, a knížata a vrchnost první byla v tom přestoupení."
+        },
+        {
+          "number": 3,
+          "text": "Kteroužto věc když jsem uslyšel, roztrhl jsem roucho své i plášť, a trhal jsem vlasy s hlavy své i z brady, a seděl jsem zděšený."
+        },
+        {
+          "number": 4,
+          "text": "I shromáždili se ke mně všickni, třesoucí se před řečmi Boha Izraelského pro přestoupení lidu přestěhovaného, já pak seděl jsem zděšený, až do oběti večerní."
+        },
+        {
+          "number": 5,
+          "text": "Ale v čas oběti večerní vstal jsem od trápení svého, maje na sobě roucho roztržené i plášť svůj, a klekl jsem na kolena svá, rozprostíraje ruce své k Hospodinu Bohu svému."
+        },
+        {
+          "number": 6,
+          "text": "A řekl jsem: Bože můj, stydím se a hanbím pozdvihnouti, Bože můj, tváři své k tobě; nebo nepravosti naše rozmnožily se nad hlavou, a provinění naše vzrostlo až k nebi."
+        },
+        {
+          "number": 7,
+          "text": "Ode dnů otců našich u veliké jsme vině až do tohoto dne, a pro nepravosti naše vydáni jsme my, králové naši i kněží naši v ruku králů zemí pod meč, v zajetí a v loupež, a v zahanbení tváři, tak jakž se to nyní děje."
+        },
+        {
+          "number": 8,
+          "text": "Teď pak rychle stala se nám milost od Hospodina Boha našeho, že zanechal nám ostatků, a dal nám obydlí na místě svatém, aby osvítil oči naše Bůh náš, a dal nám maličké povydchnutí od služby naší."
+        },
+        {
+          "number": 9,
+          "text": "Nebo ač jsme byli služebníci, však nenechal nás Bůh náš v porobě naší, ale naklonil k nám milostí krále Perské, dav nám život, abychom vyzdvihli dům Boha našeho, a zase obnovili pustiny jeho, nýbrž ohradil nás v Judstvu a v Jeruzalémě."
+        },
+        {
+          "number": 10,
+          "text": "Nyní tedy což díme, ó Bože náš, po těch věcech, poněvadž jsme opustili přikázaní tvá,"
+        },
+        {
+          "number": 11,
+          "text": "Kteráž jsi vydal skrze služebníky své proroky, řka: Země ta, do kteréž jdete, abyste jí dědičně vládli, jest země nečistá, pro nečistotu národů těch zemí, pro ohavnosti jejich, kterýmiž ji naplnili všudy naskrze v nečistotě své."
+        },
+        {
+          "number": 12,
+          "text": "Protož nyní dcer vašich nedávejte synům jejich, a dcer jejich nebeřte synům vašim, a nehledejte pokoje jejich a dobrého jejich, až na věky, abyste se zmocnili, a jedli dobré věci země, a k dědičnému vládařství zanechali ji synům svým až na věky."
+        },
+        {
+          "number": 13,
+          "text": "Po všech pak těch věcech, kteréž na nás přišly pro zlé skutky naše, a pro veliké naše provinění, poněvadž ty, Bože náš, netrestal jsi nás podlé nepravostí našich, a dal jsi nám vysvobození takové,"
+        },
+        {
+          "number": 14,
+          "text": "Opět-liž bychom rušiti měli tvá přikázaní, a přízniti se s národy těmito ohavnými? Zdaliž bys se zůřivě nehněval na nás, až bys nás do konce vyhladil, tak že by žádný nezůstal a neušel?"
+        },
+        {
+          "number": 15,
+          "text": "Hospodine Bože Izraelský, ty jsi spravedlivý; nebo jsme pozůstali ostatkové, jakž se to vidí dnešního dne. Aj, my jsme před tebou s proviněním svým, ač bychom neměli postavovati se před tváří tvou pro věci takové."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Když se pak Ezdráš, padna před domem Božím, tak modlil a vyznával s pláčem, sešel se k němu z lidu Izraelského zástup velmi veliký mužů i žen i dětí. A když plakal lid pláčem velikým,"
+        },
+        {
+          "number": 2,
+          "text": "Tedy mluvil Sechaniáš syn Jechielův z synů Elamových, a řekl Ezdrášovi: Myť jsme zhřešili proti Bohu svému, že jsme pojímali ženy cizozemky z národů zemí, a však vždy Izrael může míti naději při té věci."
+        },
+        {
+          "number": 3,
+          "text": "Nyní tedy vejděme v smlouvu s Bohem svým, zapudíce všecky ženy i syny jejich podlé rady Páně a těch, jenž se třesou před přikázaním Boha našeho, a tak podlé zákona ať se stane."
+        },
+        {
+          "number": 4,
+          "text": "Vstaň, nebo na tobě jest ta věc, a my budeme při tobě. Posilň se a učiň tak."
+        },
+        {
+          "number": 5,
+          "text": "I vstal Ezdráš a zavázal přísahou přednější kněží a Levíty a všecken lid Izraelský, aby tak učinili. I přisáhli."
+        },
+        {
+          "number": 6,
+          "text": "A vstav Ezdráš od domu Božího, odšel do pokojíka Jochananova, syna Eliasibova, i všel tam, a nejedl chleba, ani vody nepil; nebo zámutek měl pro přestoupení těch, jenž se přestěhovali."
+        },
+        {
+          "number": 7,
+          "text": "Zatím dali provolati v Judstvu a v Jeruzalémě všechněm přestěhovaným, aby se shromáždili do Jeruzaléma,"
+        },
+        {
+          "number": 8,
+          "text": "Kdo by pak koli nepřišel ve třech dnech, podlé rady knížat a starších, aby všecken statek svůj propadl, a sám odloučen byl od shromáždění přestěhovaných."
+        },
+        {
+          "number": 9,
+          "text": "A protož shromáždili se všickni muži Judští i Beniamin do Jeruzaléma ke dni třetímu, dvadcátého dne měsíce, (a ten měsíc byl devátý). I seděl všecken lid na ulici domu Božího, třesouce se pro tu věc i pro déšť."
+        },
+        {
+          "number": 10,
+          "text": "Tedy vyvstal Ezdráš kněz a řekl k nim: Vy jste zhřešili, že jste pojímali ženy cizozemky, abyste přidali k provinění lidu Izraelského."
+        },
+        {
+          "number": 11,
+          "text": "Protož již vyznejte se Hospodinu Bohu otců svých, a čiňte vůli jeho, a oddělte se od národů cizích, i od žen cizozemek."
+        },
+        {
+          "number": 12,
+          "text": "I odpovědělo všecko to shromáždění, a řekli hlasem velikým: Podlé slova tvého povinni jsme tak učiniti."
+        },
+        {
+          "number": 13,
+          "text": "Ale lidu mnoho jest, a prška, a nemůžeme vně státi. K tomu není ta práce jednoho dne ani dvou, nebo mnoho jest nás, kteříž jsme v tom přestoupili."
+        },
+        {
+          "number": 14,
+          "text": "Nechť jsou postavena, prosíme, knížata naše ze všeho shromáždění, a kdož koli jest v městech našich, kterýž pojal ženy cizozemky, ať přijde v čas uložený, a s nimi starší z jednoho každého města i soudcové jejich, až bychom tak odvrátili hněv prchlivosti Boha našeho od sebe pro tu věc."
+        },
+        {
+          "number": 15,
+          "text": "Takž Jonatan syn Azahelův, a Jachziáš syn Tekue, postaveni byli nad tím, Mesullam pak a Sabbetai, Levítové, pomáhali jim."
+        },
+        {
+          "number": 16,
+          "text": "Tedy učinili tak při těch, jenž přestěhováni byli. I odděleni jsou Ezdráš kněz a muži přední čeledí otcovských po domích otců svých, všickni ti ze jména, a zasedli prvního dne měsíce desátého, aby to vyhledali."
+        },
+        {
+          "number": 17,
+          "text": "Což i konali při všech mužích, kteříž byli pojali ženy cizozemky, až do prvního dne prvního měsíce."
+        },
+        {
+          "number": 18,
+          "text": "Našli se pak z synů kněžských, jenž zpojímali ženy cizozemky tito: Z synů Jesua syna Jozadakova, a z bratří jeho: Maaseiáš, Eliezer, Jarib a Gedaliáš."
+        },
+        {
+          "number": 19,
+          "text": "Ale povolili, aby zapudili ženy své. A ti, kteříž provinili, obětovali skopce z stáda za vinu svou."
+        },
+        {
+          "number": 20,
+          "text": "A z synů Immer: Chanani a Zebadiáš."
+        },
+        {
+          "number": 21,
+          "text": "Z synů Charim: Maaseiáš, Eliah, Semaiáš, Jechiel a Uziáš."
+        },
+        {
+          "number": 22,
+          "text": "Z synů Paschur: Elioenai, Maaseiáš, Izmael, Natanael, Jozabad a Elasa."
+        },
+        {
+          "number": 23,
+          "text": "A z Levítů: Jozabad, Simei, Kelaiáš, (jenž jest Kelita), Petachiáš, Juda a Eliezer."
+        },
+        {
+          "number": 24,
+          "text": "Z zpěváků pak Eliasib, a z vrátných Sallum, Telem a Uri."
+        },
+        {
+          "number": 25,
+          "text": "A z lidu Izraelského, z synů Faresových: Ramiáš, Jeziáš, Malkiáš, Miamin, Eleazar, Malkiáš a Benaiáš."
+        },
+        {
+          "number": 26,
+          "text": "Z synů Elamových: Mataniáš, Zachariáš, Jechiel, Abdi, Jeremot a Eliah."
+        },
+        {
+          "number": 27,
+          "text": "Z synů Zattu: Elioenai, Eliasib, Mataniáš, Jeremot, Zabad, a Aziza."
+        },
+        {
+          "number": 28,
+          "text": "Též z synů Bebai: Jochanan, Chananiáš, Zabbai, Atlai."
+        },
+        {
+          "number": 29,
+          "text": "Z synů Báni: Mesullam, Malluch, Adaiáš, Jasub, Seal, Jeramot."
+        },
+        {
+          "number": 30,
+          "text": "Z synů Pachat Moábových: Adna a Chélal, Benaiáš, Maaseiáš, Mataniáš, Bezaleel, Binnui a Manasse."
+        },
+        {
+          "number": 31,
+          "text": "Z synů Charimových: Eliezer, Isiáš, Malkiáš, Semaiáš, Simeon,"
+        },
+        {
+          "number": 32,
+          "text": "Beniamin, Malluch, Semariáš."
+        },
+        {
+          "number": 33,
+          "text": "Z synů Chasumových: Mattenai, Mattata, Zabad, Elifelet, Jeremai, Manasses, Simei."
+        },
+        {
+          "number": 34,
+          "text": "Z synů Báni: Maadai, Amram, Uel,"
+        },
+        {
+          "number": 35,
+          "text": "Benaiáš, Bediáš, Keluhu,"
+        },
+        {
+          "number": 36,
+          "text": "Vaniáš, Meremot, Eliasib,"
+        },
+        {
+          "number": 37,
+          "text": "Mattaniáš, Mattenai, Jaasav,"
+        },
+        {
+          "number": 38,
+          "text": "Báni, Binnui, Simei,"
+        },
+        {
+          "number": 39,
+          "text": "Selemiáš, Nátan a Adaiáš,"
+        },
+        {
+          "number": 40,
+          "text": "Machnadbai, Sasai, Sarai,"
+        },
+        {
+          "number": 41,
+          "text": "Azarel, Selemiáš, Semariáš,"
+        },
+        {
+          "number": 42,
+          "text": "Sallum, Amariáš a Jozef."
+        },
+        {
+          "number": 43,
+          "text": "Z synů Nébových: Jehiel, Mattitiáš, Zabad, Zebina, Jaddav, Joel a Benaiáš."
+        },
+        {
+          "number": 44,
+          "text": "Ti všickni pojali byli ženy cizozemky, a byly z těch žen některé, že i děti zplodily."
+        }
+      ]
+    }
+  ]
+}

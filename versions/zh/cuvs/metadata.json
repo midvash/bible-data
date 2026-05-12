@@ -1,0 +1,18 @@
+{
+  "slug": "cuvs",
+  "shortName": "CUVS",
+  "name": "和合本 (Chinese Union Version, Simplified)",
+  "language": "zh",
+  "year": 1919,
+  "license": "public-domain",
+  "licenseNote": "Public domain in most jurisdictions (Chinese Union Version, Simplified script). Hong Kong Bible Society claims rights in some regions — see SOURCES.md.",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31021
+  },
+  "readerUrl": "https://midvash.com/cuvs",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

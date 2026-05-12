@@ -1,0 +1,3824 @@
+{
+  "version": "nb1930",
+  "book": "Prov",
+  "bookId": 20,
+  "englishName": "Proverbs",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ordsprog av Salomo, Davids sønn, Israels konge."
+        },
+        {
+          "number": 2,
+          "text": "Av dem kan en lære visdom og tukt og å skjønne forstandige ord;"
+        },
+        {
+          "number": 3,
+          "text": "av dem kan en motta tukt til klokskap og lære rettferdighet og rett og rettvishet;"
+        },
+        {
+          "number": 4,
+          "text": "de kan gi de enfoldige klokskap, de unge kunnskap og tenksomhet."
+        },
+        {
+          "number": 5,
+          "text": "Den vise skal høre på dem og gå frem i lærdom, og den forstandige vinne evne til å leve rett."
+        },
+        {
+          "number": 6,
+          "text": "Av dem kan en lære å forstå ordsprog og billedtale, vismenns ord og deres gåter."
+        },
+        {
+          "number": 7,
+          "text": "Å frykte Herren er begynnelsen til kunnskap; visdom og tukt foraktes av dårer."
+        },
+        {
+          "number": 8,
+          "text": "Hør, min sønn, på din fars tilrettevisning og forlat ikke din mors lære!"
+        },
+        {
+          "number": 9,
+          "text": "For de er en fager krans for ditt hode og kjeder om din hals."
+        },
+        {
+          "number": 10,
+          "text": "Min sønn! Når syndere lokker dig, da samtykk ikke!"
+        },
+        {
+          "number": 11,
+          "text": "Når de sier: Kom med oss! Vi vil lure efter blod, sette feller for de uskyldige uten grunn;"
+        },
+        {
+          "number": 12,
+          "text": "vi vil sluke dem levende som dødsriket, med hud og hår, likesom det sluker dem som farer ned i graven;"
+        },
+        {
+          "number": 13,
+          "text": "vi vil finne alle slags kostelig gods, fylle våre hus med rov;"
+        },
+        {
+          "number": 14,
+          "text": "du skal få kaste lodd om det med oss, vi skal alle ha samme pung -"
+        },
+        {
+          "number": 15,
+          "text": "slå da ikke følge med dem, min sønn, hold din fot borte fra deres sti!"
+        },
+        {
+          "number": 16,
+          "text": "For deres føtter haster til det onde, og de er snare til å utøse blod;"
+        },
+        {
+          "number": 17,
+          "text": "til ingen nytte blir garnet utspent så alle fuglene ser det;"
+        },
+        {
+          "number": 18,
+          "text": "de lurer efter sitt eget blod, de setter feller for sig selv."
+        },
+        {
+          "number": 19,
+          "text": "Så går det hver den som søker urettferdig vinning; den tar livet av sine egne herrer."
+        },
+        {
+          "number": 20,
+          "text": "Visdommen roper høit på gaten, den lar sin røst høre på torvene;"
+        },
+        {
+          "number": 21,
+          "text": "på hjørnet av larmfylte gater roper den, ved portinngangene, rundt omkring i byen taler den og sier:"
+        },
+        {
+          "number": 22,
+          "text": "Hvor lenge vil I uforstandige elske uforstand og spotterne ha lyst til spott og dårene hate kunnskap?"
+        },
+        {
+          "number": 23,
+          "text": "Vend om og gi akt på min tilrettevisning! Da vil jeg la min ånd velle frem for eder, jeg vil kunngjøre eder mine ord."
+        },
+        {
+          "number": 24,
+          "text": "Fordi jeg ropte, og I ikke vilde høre, fordi jeg rakte ut min hånd, og ingen gav akt,"
+        },
+        {
+          "number": 25,
+          "text": "fordi I forsmådde alle mine råd og ikke vilde vite av min tilrettevisning,"
+        },
+        {
+          "number": 26,
+          "text": "så vil også jeg le når ulykken rammer eder, jeg vil spotte når det kommer som I reddes for,"
+        },
+        {
+          "number": 27,
+          "text": "når det I reddes for, kommer som et uvær, og eders ulykke farer frem som en stormvind, når trengsel og nød kommer over eder."
+        },
+        {
+          "number": 28,
+          "text": "Da skal de kalle på mig, men jeg svarer ikke; de skal søke mig, men ikke finne mig."
+        },
+        {
+          "number": 29,
+          "text": "Fordi de hatet kunnskap og ikke vilde frykte Herren,"
+        },
+        {
+          "number": 30,
+          "text": "fordi de ikke vilde vite av mitt råd og foraktet all min tilrettevisning,"
+        },
+        {
+          "number": 31,
+          "text": "derfor skal de ete frukten av sine gjerninger, og av sine onde råd skal de mettes."
+        },
+        {
+          "number": 32,
+          "text": "For de uforstandiges selvrådighet dreper dem, og dårenes trygghet ødelegger dem;"
+        },
+        {
+          "number": 33,
+          "text": "men den som hører på mig, skal bo trygt og leve i ro uten frykt for ulykke."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Min sønn! Dersom du tar imot mine ord og gjemmer mine bud hos dig,"
+        },
+        {
+          "number": 2,
+          "text": "så du vender ditt øre til visdommen og bøier ditt hjerte til klokskapen,"
+        },
+        {
+          "number": 3,
+          "text": "ja, dersom du roper efter innsikten og løfter din røst for å kalle på forstanden,"
+        },
+        {
+          "number": 4,
+          "text": "dersom du leter efter den som efter sølv og graver efter den som efter skjulte skatter,"
+        },
+        {
+          "number": 5,
+          "text": "da skal du forstå Herrens frykt og finne kunnskap om Gud."
+        },
+        {
+          "number": 6,
+          "text": "For Herren er den som gir visdom, fra hans munn kommer kunnskap og forstand,"
+        },
+        {
+          "number": 7,
+          "text": "og han gjemmer frelse for de opriktige, et skjold for dem som lever ustraffelig,"
+        },
+        {
+          "number": 8,
+          "text": "han vokter rettens stier og bevarer sine frommes vei."
+        },
+        {
+          "number": 9,
+          "text": "Da skal du forstå rettferdighet og rett og rettvishet, ja enhver god vei."
+        },
+        {
+          "number": 10,
+          "text": "For visdom skal komme i ditt hjerte, og kunnskap skal glede din sjel;"
+        },
+        {
+          "number": 11,
+          "text": "eftertanke skal holde vakt over dig, forstand skal verne dig,"
+        },
+        {
+          "number": 12,
+          "text": "for å fri dig fra onde veier, fra menn som fører forvendt tale,"
+        },
+        {
+          "number": 13,
+          "text": "fra dem som forlater rettvishets stier for å vandre på mørkets veier,"
+        },
+        {
+          "number": 14,
+          "text": "som gleder sig ved å gjøre ondt og jubler over onde, forvendte gjerninger,"
+        },
+        {
+          "number": 15,
+          "text": "som går på krokete stier og følger vrange veier."
+        },
+        {
+          "number": 16,
+          "text": "Visdommen skal fri dig fra annen manns hustru, fra fremmed kvinne, som taler glatte ord,"
+        },
+        {
+          "number": 17,
+          "text": "som har forlatt sin ungdoms venn og glemt sin Guds pakt;"
+        },
+        {
+          "number": 18,
+          "text": "for hennes hus synker ned i døden, og hennes veier bærer ned til dødningene;"
+        },
+        {
+          "number": 19,
+          "text": "de som går inn til henne, kommer aldri tilbake og når aldri livets stier."
+        },
+        {
+          "number": 20,
+          "text": "Visdommen skal hjelpe dig til å vandre på de godes vei og holde dig på de rettferdiges stier;"
+        },
+        {
+          "number": 21,
+          "text": "for de opriktige skal bo i landet, og de ustraffelige skal bli tilbake i det,"
+        },
+        {
+          "number": 22,
+          "text": "men de ugudelige skal utryddes av landet, og de troløse skal rykkes bort fra det."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Min sønn! Glem ikke min lære og la ditt hjerte bevare mine bud!"
+        },
+        {
+          "number": 2,
+          "text": "For langt liv og mange leveår og fred skal de gi dig i rikt mål."
+        },
+        {
+          "number": 3,
+          "text": "La ikke kjærlighet og trofasthet vike fra dig, bind dem om din hals, skriv dem på ditt hjertes tavle!"
+        },
+        {
+          "number": 4,
+          "text": "Så skal du finne nåde og få god forstand i Guds og menneskers øine."
+        },
+        {
+          "number": 5,
+          "text": "Sett din lit til Herren av hele ditt hjerte, og stol ikke på din forstand!"
+        },
+        {
+          "number": 6,
+          "text": "Tenk på ham på alle dine veier! Så skal han gjøre dine stier rette."
+        },
+        {
+          "number": 7,
+          "text": "Vær ikke vis i egne øine, frykt Herren og vik fra det onde!"
+        },
+        {
+          "number": 8,
+          "text": "Det skal være lægedom for din kropp og gi ny styrke til dine ben."
+        },
+        {
+          "number": 9,
+          "text": "Ær Herren med gaver av ditt gods og med førstegrøden av all din avling!"
+        },
+        {
+          "number": 10,
+          "text": "Så skal dine lader fylles med overflod og dine persekar flyte over av most."
+        },
+        {
+          "number": 11,
+          "text": "Min sønn! Forakt ikke Herrens tukt og vær ikke utålmodig når han refser dig!"
+        },
+        {
+          "number": 12,
+          "text": "For den Herren elsker, ham refser han, som en far refser den sønn han har kjær."
+        },
+        {
+          "number": 13,
+          "text": "Salig er det menneske som har funnet visdom, det menneske som vinner forstand;"
+        },
+        {
+          "number": 14,
+          "text": "for det er bedre å vinne den enn å vinne sølv, og det utbytte den gir, er bedre enn gull."
+        },
+        {
+          "number": 15,
+          "text": "Den er kosteligere enn perler, og alle dine skatter kan ikke lignes med den."
+        },
+        {
+          "number": 16,
+          "text": "Langt liv har den i sin høire hånd, rikdom og ære i sin venstre."
+        },
+        {
+          "number": 17,
+          "text": "Dens veier er fagre veier, og alle dens stier fører til lykke."
+        },
+        {
+          "number": 18,
+          "text": "Den er et livsens tre for dem som griper den, og hver den som holder fast på den, må prises lykkelig."
+        },
+        {
+          "number": 19,
+          "text": "Herren grunnfestet jorden med visdom; han bygget himmelen med forstand."
+        },
+        {
+          "number": 20,
+          "text": "Ved hans kunnskap vellet de dype vann frem, og ved den lar skyene dugg dryppe ned."
+        },
+        {
+          "number": 21,
+          "text": "Min sønn! La dem ikke vike fra dine øine, bevar visdom og klokskap!"
+        },
+        {
+          "number": 22,
+          "text": "Så skal de være liv for din sjel og pryd for din hals."
+        },
+        {
+          "number": 23,
+          "text": "Da skal du vandre din vei trygt og ikke støte din fot."
+        },
+        {
+          "number": 24,
+          "text": "Når du legger dig, skal du ikke frykte, og når du har lagt dig, skal din søvn være søt."
+        },
+        {
+          "number": 25,
+          "text": "Da trenger du ikke å være redd for uventet skrekk, eller for uværet når det kommer over de ugudelige!"
+        },
+        {
+          "number": 26,
+          "text": "For Herren skal være din tillit, og han skal bevare din fot fra å fanges."
+        },
+        {
+          "number": 27,
+          "text": "Nekt ikke de trengende din hjelp, når det står i din makt å gi den!"
+        },
+        {
+          "number": 28,
+          "text": "Si ikke til din næste: Gå bort og kom igjen, jeg skal gi dig imorgen - når du kan gjøre det straks!"
+        },
+        {
+          "number": 29,
+          "text": "Legg ikke op onde råd mot din næste, når han kjenner sig trygg hos dig!"
+        },
+        {
+          "number": 30,
+          "text": "Trett ikke med et menneske uten årsak, når han ikke har gjort dig noget ondt!"
+        },
+        {
+          "number": 31,
+          "text": "Misunn ikke en voldsmann, og velg ikke nogen av alle hans veier!"
+        },
+        {
+          "number": 32,
+          "text": "For en falsk mann er en vederstyggelighet for Herren, men med de opriktige har han fortrolig samfund."
+        },
+        {
+          "number": 33,
+          "text": "Herrens forbannelse er over den ugudeliges hus, men de rettferdiges bolig velsigner han."
+        },
+        {
+          "number": 34,
+          "text": "Spotterne spotter han, men de ydmyke gir han nåde."
+        },
+        {
+          "number": 35,
+          "text": "De vise arver ære, men dårene får skam til lønn."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hør, mine barn, på en fars tilrettevisning og gi akt, så I kan lære klokskap!"
+        },
+        {
+          "number": 2,
+          "text": "For en god lærdom gir jeg eder; mine bud må I ikke forlate."
+        },
+        {
+          "number": 3,
+          "text": "For da jeg var sønn hjemme hos min far, da jeg var liten og min mors eneste barn,"
+        },
+        {
+          "number": 4,
+          "text": "da lærte han mig og sa til mig: La ditt hjerte holde fast ved mine ord, bevar mine bud, så skal du leve."
+        },
+        {
+          "number": 5,
+          "text": "Kjøp visdom, kjøp forstand, glem ikke og vik ikke fra min munns ord!"
+        },
+        {
+          "number": 6,
+          "text": "Forlat den ikke, så skal den vokte dig; elsk den, så skal den være ditt vern."
+        },
+        {
+          "number": 7,
+          "text": "Begynnelsen til visdom er: Kjøp visdom, ja, kjøp forstand for alt ditt gods!"
+        },
+        {
+          "number": 8,
+          "text": "Ophøi den, så skal den ophøie dig; den skal gjøre dig ære, når du favner den."
+        },
+        {
+          "number": 9,
+          "text": "Den skal sette en fager krans på ditt hode; den skal rekke dig en herlig krone."
+        },
+        {
+          "number": 10,
+          "text": "Hør, min sønn, og ta imot mine ord, så skal dine leveår bli mange."
+        },
+        {
+          "number": 11,
+          "text": "Om visdoms vei lærer jeg dig, jeg leder dig på rettvishets stier."
+        },
+        {
+          "number": 12,
+          "text": "Når du går, skal intet hindre dine skritt, og når du løper, skal du ikke snuble."
+        },
+        {
+          "number": 13,
+          "text": "Hold fast ved min tilrettevisning, slipp den ikke! Bevar den, for den er ditt liv."
+        },
+        {
+          "number": 14,
+          "text": "På de ugudeliges sti må du ikke komme og ikke følge de ondes vei."
+        },
+        {
+          "number": 15,
+          "text": "Sky den, følg den ikke, vik fra den og gå forbi!"
+        },
+        {
+          "number": 16,
+          "text": "For de får ikke sove uten de har gjort noget ondt, og søvnen tas fra dem om de ikke har ført nogen til fall."
+        },
+        {
+          "number": 17,
+          "text": "For de eter ugudelighets brød og drikker voldsgjernings vin."
+        },
+        {
+          "number": 18,
+          "text": "Men de rettferdiges sti er lik et strålende lys, som blir klarere og klarere til det er høilys dag."
+        },
+        {
+          "number": 19,
+          "text": "De ugudeliges vei er som det dype mørke; de vet ikke hvad de snubler over."
+        },
+        {
+          "number": 20,
+          "text": "Min sønn! Akt på mine ord, bøi ditt øre til min tale!"
+        },
+        {
+          "number": 21,
+          "text": "La dem ikke vike fra dine øine, bevar dem dypt i ditt hjerte!"
+        },
+        {
+          "number": 22,
+          "text": "For de er liv for hver den som finner dem, og lægedom for hele hans legeme."
+        },
+        {
+          "number": 23,
+          "text": "Bevar ditt hjerte fremfor alt det som bevares; for livet utgår fra det."
+        },
+        {
+          "number": 24,
+          "text": "Hold dig fra svikefulle ord, og la falske leber være langt fra dig!"
+        },
+        {
+          "number": 25,
+          "text": "La dine øine se bent frem og dine øielokk vende rett frem for dig!"
+        },
+        {
+          "number": 26,
+          "text": "Gjør din fots sti jevn, og la alle dine veier være rette!"
+        },
+        {
+          "number": 27,
+          "text": "Bøi ikke av til høire eller til venstre, vend din fot fra det onde!"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Min sønn! Akt på min visdom, bøi ditt øre til min forstand,"
+        },
+        {
+          "number": 2,
+          "text": "så du kan gjemme kloke råd og dine leber bevare kunnskap!"
+        },
+        {
+          "number": 3,
+          "text": "For en fremmed kvinnes leber drypper av honning, og glattere enn olje er hennes tunge;"
+        },
+        {
+          "number": 4,
+          "text": "men til sist er hun besk som malurt, hvass som et tveegget sverd."
+        },
+        {
+          "number": 5,
+          "text": "Hennes føtter går nedover til døden; hennes skritt fører like til dødsriket."
+        },
+        {
+          "number": 6,
+          "text": "På livets sti vil hun ikke vandre; hennes veier går hit og dit, uten at hun vet det."
+        },
+        {
+          "number": 7,
+          "text": "Så hør nu på mig, mine barn, og vik ikke fra min munns ord!"
+        },
+        {
+          "number": 8,
+          "text": "La din vei være langt fra henne, og kom ikke nær til døren på hennes hus,"
+        },
+        {
+          "number": 9,
+          "text": "forat du ikke skal gi andre din pryd og en grusom herre dine år,"
+        },
+        {
+          "number": 10,
+          "text": "forat ikke fremmede skal mettes av din eiendom, og frukten av din møie komme i en annen manns hus,"
+        },
+        {
+          "number": 11,
+          "text": "så du må stønne i din siste stund, når din kropp og ditt kjøtt tæres bort,"
+        },
+        {
+          "number": 12,
+          "text": "Og du må si: Hvorledes har jeg kunnet hate tukt, og hvorledes har mitt hjerte kunnet forakte tilrettevisning,"
+        },
+        {
+          "number": 13,
+          "text": "så jeg ikke hørte på dem som lærte mig, og ikke bøide mitt øre til dem som veiledet mig!"
+        },
+        {
+          "number": 14,
+          "text": "Nær var jeg kommet i den største ulykke midt i forsamlingen og menigheten."
+        },
+        {
+          "number": 15,
+          "text": "Drikk av din egen brønn, drikk rinnende vann av din egen kilde!"
+        },
+        {
+          "number": 16,
+          "text": "Skulde vel dine kilder strømme ut på gaten, dine bekker på torvene?"
+        },
+        {
+          "number": 17,
+          "text": "La dem være for dig alene og ikke for fremmede sammen med dig!"
+        },
+        {
+          "number": 18,
+          "text": "Din kilde være velsignet, gled dig i din ungdoms hustru!"
+        },
+        {
+          "number": 19,
+          "text": "Den elskelige hind og den yndefulle stengjet! Hennes barm kvege dig til enhver tid, av hennes kjærlighet være du alltid drukken!"
+        },
+        {
+          "number": 20,
+          "text": "Hvorfor, min sønn, skulde du da være drukken av attrå efter en annen manns hustru og favne en fremmed kvinnes barm?"
+        },
+        {
+          "number": 21,
+          "text": "For en manns veier ligger åpne for Herrens øine, og Herren jevner alle hans stier."
+        },
+        {
+          "number": 22,
+          "text": "Den ugudelige fanges i sine egne misgjerninger, og han holdes fast i sin egen synds snarer."
+        },
+        {
+          "number": 23,
+          "text": "Han må dø, fordi han ikke lot sig tukte, og for sin store dårskaps skyld tumler han og faller."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Min sønn! Har du gått i borgen for din næste, har du gitt en fremmed ditt håndslag,"
+        },
+        {
+          "number": 2,
+          "text": "har du latt dig binde ved din munns ord, har du latt dig fange i din munns ord,"
+        },
+        {
+          "number": 3,
+          "text": "så gjør således, min sønn, og frels dig, siden du er kommet i din næstes hånd: Gå og kast dig ned for din næste og storm inn på ham,"
+        },
+        {
+          "number": 4,
+          "text": "unn ikke dine øine søvn og dine øielokk blund,"
+        },
+        {
+          "number": 5,
+          "text": "frels dig som et rådyr av jegerens hånd og som en fugl av fuglefangerens hånd!"
+        },
+        {
+          "number": 6,
+          "text": "Gå til mauren, du late, se dens ferd og bli vis!"
+        },
+        {
+          "number": 7,
+          "text": "Enda den ikke har nogen fyrste, foged eller herre,"
+        },
+        {
+          "number": 8,
+          "text": "sørger den dog om sommeren for sitt livsophold og sanker om høsten sin føde."
+        },
+        {
+          "number": 9,
+          "text": "Hvor lenge vil du ligge, du late? Når vil du stå op av din søvn?"
+        },
+        {
+          "number": 10,
+          "text": "Du sier: La mig ennu få sove litt, blunde litt, folde mine hender litt og hvile!"
+        },
+        {
+          "number": 11,
+          "text": "Da kommer armoden over dig som en landstryker og nøden som en mann med skjold."
+        },
+        {
+          "number": 12,
+          "text": "En niding, en ugjerningsmann er den som går omkring med en falsk munn,"
+        },
+        {
+          "number": 13,
+          "text": "som blunker med øinene, skraper med føttene, gjør tegn med fingrene,"
+        },
+        {
+          "number": 14,
+          "text": "som har svik i sitt hjerte, som tenker ut onde ting til enhver tid og volder tretter."
+        },
+        {
+          "number": 15,
+          "text": "Derfor skal ulykken komme brått over ham; i et øieblikk skal han knuses, og det er ingen lægedom for ham."
+        },
+        {
+          "number": 16,
+          "text": "Seks ting er det Herren hater, og syv er vederstyggeligheter for hans sjel:"
+        },
+        {
+          "number": 17,
+          "text": "Stolte øine, falsk tunge og hender som utøser uskyldig blod,"
+        },
+        {
+          "number": 18,
+          "text": "et hjerte som legger op onde råd, føtter som haster til det onde,"
+        },
+        {
+          "number": 19,
+          "text": "den som taler løgn og vidner falsk, og den som volder tretter mellem brødre."
+        },
+        {
+          "number": 20,
+          "text": "Bevar, min sønn, din fars bud og forlat ikke din mors lære!"
+        },
+        {
+          "number": 21,
+          "text": "Bind dem alltid til ditt hjerte, knytt dem fast om din hals!"
+        },
+        {
+          "number": 22,
+          "text": "Når du går, skal de lede dig; når du ligger, skal de verne dig, og når du våkner, skal de tale til dig."
+        },
+        {
+          "number": 23,
+          "text": "For budet er en lykte og læren et lys, og tilrettevisninger til tukt er en vei til livet,"
+        },
+        {
+          "number": 24,
+          "text": "så de bevarer dig fra en ond kvinne, fra en fremmed kvinnes glatte tunge."
+        },
+        {
+          "number": 25,
+          "text": "Attrå ikke hennes skjønnhet i ditt hjerte? og la henne ikke fange dig med sine øiekast!"
+        },
+        {
+          "number": 26,
+          "text": "For en skjøge armer en mann ut like til siste brødleiv, og annen manns hustru fanger en dyr sjel."
+        },
+        {
+          "number": 27,
+          "text": "Kan nogen hente ild i sitt fang uten hans klær brennes op?"
+        },
+        {
+          "number": 28,
+          "text": "Eller kan nogen gå på glør uten hans føtter blir svidd?"
+        },
+        {
+          "number": 29,
+          "text": "Slik blir det med den som går inn til sin næstes hustru; ingen blir ustraffet som rører henne."
+        },
+        {
+          "number": 30,
+          "text": "Blir ikke tyven foraktet, når han stjeler for å stille sin sult?"
+        },
+        {
+          "number": 31,
+          "text": "Og hvis han blir grepet, må han betale syvfold; alt det han eier i sitt hus, må han gi."
+        },
+        {
+          "number": 32,
+          "text": "Den som driver hor med en kvinne, er uten forstand; den som vil ødelegge sin sjel, han gjør slikt."
+        },
+        {
+          "number": 33,
+          "text": "Hugg og skam får han, og hans vanære slettes aldri ut."
+        },
+        {
+          "number": 34,
+          "text": "For nidkjær er mannens vrede, og han sparer ikke på hevnens dag;"
+        },
+        {
+          "number": 35,
+          "text": "han tar ikke imot bøter og lar sig ikke formilde, om du gir ham store gaver."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Min sønn, bevar mine ord og gjem mine bud hos dig!"
+        },
+        {
+          "number": 2,
+          "text": "Bevar mine bud, så skal du leve, bevar min lære som din øiesten!"
+        },
+        {
+          "number": 3,
+          "text": "Bind dem på dine fingrer, skriv dem på ditt hjertes tavle!"
+        },
+        {
+          "number": 4,
+          "text": "Si til visdommen: Du er min søster, og kall forstanden din kjenning,"
+        },
+        {
+          "number": 5,
+          "text": "forat den må bevare dig fra annen manns hustru, fra fremmede kvinner, som taler glatte ord."
+        },
+        {
+          "number": 6,
+          "text": "For jeg så engang ut av vinduet på mitt hus, gjennem mitt gitter,"
+        },
+        {
+          "number": 7,
+          "text": "og da så jeg blandt de uerfarne, jeg blev var blandt de unge en uforstandig gutt,"
+        },
+        {
+          "number": 8,
+          "text": "som gikk forbi på gaten ved hennes hjørne og gikk frem på veien til hennes hus,"
+        },
+        {
+          "number": 9,
+          "text": "i skumringen, da dagen var til ende, i dyp natt og mørke."
+        },
+        {
+          "number": 10,
+          "text": "Da kom en kvinne ham i møte i en skjøges klær og med svikefullt hjerte."
+        },
+        {
+          "number": 11,
+          "text": "Vill er hun og kåt; hennes føtter er ikke i ro i hennes hus."
+        },
+        {
+          "number": 12,
+          "text": "Snart er hun på gater, snart på torver, og ved hvert hjørne lurer hun."
+        },
+        {
+          "number": 13,
+          "text": "Og hun tok fatt på ham og kysset ham, og med frekt åsyn sa hun til ham:"
+        },
+        {
+          "number": 14,
+          "text": "Takkoffer skulde jeg bære frem, og idag har jeg innfridd mine løfter;"
+        },
+        {
+          "number": 15,
+          "text": "derfor gikk jeg ut for å møte dig, for å søke dig op, og jeg fant dig."
+        },
+        {
+          "number": 16,
+          "text": "Jeg har bredt tepper over min seng, brokete tepper av egyptisk garn."
+        },
+        {
+          "number": 17,
+          "text": "Jeg har strødd mitt leie med myrra, aloë og kanel."
+        },
+        {
+          "number": 18,
+          "text": "Kom, la oss beruse oss i kjærlighet inntil morgenen, fryde oss i elskov!"
+        },
+        {
+          "number": 19,
+          "text": "For min mann er ikke hjemme, han er reist langt bort;"
+        },
+        {
+          "number": 20,
+          "text": "pengepungen tok han med sig, først ved fullmåne kommer han hjem."
+        },
+        {
+          "number": 21,
+          "text": "Hun fikk lokket ham ved sin sterke overtalelse, ved sine glatte leber forførte hun ham."
+        },
+        {
+          "number": 22,
+          "text": "Han følger henne straks, lik en okse som går til slakterbenken, som i fotjern, hvormed dåren tuktes,"
+        },
+        {
+          "number": 23,
+          "text": "inntil pilen kløver hans lever - likesom fuglen haster til snaren og ikke vet at det gjelder dens liv."
+        },
+        {
+          "number": 24,
+          "text": "Så hør nu på mig, barn, og akt på min munns ord!"
+        },
+        {
+          "number": 25,
+          "text": "La ikke ditt hjerte vende sig til hennes veier, forvill dig ikke inn på hennes stier!"
+        },
+        {
+          "number": 26,
+          "text": "For mange som har fått ulivssår, har hun fellet, og mangfoldige er de hun har slått ihjel;"
+        },
+        {
+          "number": 27,
+          "text": "fra hennes hus går veier til dødsriket, de fører ned til dødens kammere."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hør, visdommen roper, og forstanden lar sin røst høre."
+        },
+        {
+          "number": 2,
+          "text": "Oppe på hauger ved veien står hun, der hvor stiene møtes;"
+        },
+        {
+          "number": 3,
+          "text": "ved siden av portene, ved byens utgang, i inngangen til portene roper hun høit:"
+        },
+        {
+          "number": 4,
+          "text": "Til eder, I menn, roper jeg, og min røst lyder til menneskenes barn."
+        },
+        {
+          "number": 5,
+          "text": "Lær klokskap, I enfoldige, og lær forstand, I uforstandige!"
+        },
+        {
+          "number": 6,
+          "text": "Hør! Om store ting taler jeg, og jeg oplater mine leber med rettvishet;"
+        },
+        {
+          "number": 7,
+          "text": "min tunge taler sannhet, og ugudelighet er en vederstyggelighet for mine leber."
+        },
+        {
+          "number": 8,
+          "text": "Alle min munns ord er rette, det er intet falskt eller vrangt i dem."
+        },
+        {
+          "number": 9,
+          "text": "De er alle sammen likefremme for den forstandige og rette for dem som har funnet kunnskap."
+        },
+        {
+          "number": 10,
+          "text": "Ta imot min tilrettevisning istedenfor sølv, og ta imot kunnskap fremfor utsøkt gull!"
+        },
+        {
+          "number": 11,
+          "text": "For visdom er bedre enn perler, og ingen skatt kan lignes med den."
+        },
+        {
+          "number": 12,
+          "text": "Jeg, visdommen, har klokskap i eie, og jeg forstår å finne kloke råd."
+        },
+        {
+          "number": 13,
+          "text": "Å frykte Herren er å hate ondt; stolthet og overmot, ond ferd og en falsk munn hater jeg."
+        },
+        {
+          "number": 14,
+          "text": "Mig tilhører råd og sann innsikt, jeg er forstand, mig hører styrke til."
+        },
+        {
+          "number": 15,
+          "text": "Ved mig regjerer kongene, og ved mig fastsetter fyrstene hvad rett er."
+        },
+        {
+          "number": 16,
+          "text": "Ved mig styrer herskerne og høvdingene, alle dommere på jorden."
+        },
+        {
+          "number": 17,
+          "text": "Jeg elsker dem som elsker mig, og de som søker mig, skal finne mig."
+        },
+        {
+          "number": 18,
+          "text": "Hos mig er rikdom og ære, gammelt arvegods og rettferdighet."
+        },
+        {
+          "number": 19,
+          "text": "Min frukt er bedre enn gull, ja det fineste gull, og den vinning jeg gir, er bedre enn utsøkt sølv."
+        },
+        {
+          "number": 20,
+          "text": "På rettferds vei vandrer jeg, midt på rettens stier;"
+        },
+        {
+          "number": 21,
+          "text": "derfor gir jeg dem som elsker mig, sann rikdom til arv og fyller deres forrådskammere."
+        },
+        {
+          "number": 22,
+          "text": "Herren skapte mig som sitt første verk, før sine andre gjerninger, i fordums tid."
+        },
+        {
+          "number": 23,
+          "text": "Fra evighet er jeg blitt til, fra først av, før jorden var."
+        },
+        {
+          "number": 24,
+          "text": "Da avgrunnene ennu ikke var til, blev jeg født, da der ennu ikke fantes kilder fylt med vann."
+        },
+        {
+          "number": 25,
+          "text": "Før fjellene blev senket ned, før haugene blev til, blev jeg født,"
+        },
+        {
+          "number": 26,
+          "text": "før han hadde skapt jord og mark og jorderikes første muldklump."
+        },
+        {
+          "number": 27,
+          "text": "Da han bygget himmelen, var jeg der, da han slo hvelving over avgrunnen."
+        },
+        {
+          "number": 28,
+          "text": "Da han festet skyene oventil, da han bandt avgrunnens kilder,"
+        },
+        {
+          "number": 29,
+          "text": "da han satte grense for havet, så vannene ikke går lenger enn han byder, da han la jordens grunnvoller -"
+        },
+        {
+          "number": 30,
+          "text": "da var jeg verksmester hos ham, og jeg var hans lyst dag efter dag, jeg lekte alltid for hans åsyn;"
+        },
+        {
+          "number": 31,
+          "text": "jeg lekte på hele hans vide jord, og min lyst hadde jeg i menneskenes barn."
+        },
+        {
+          "number": 32,
+          "text": "Og nu, barn, hør på mig! Salige er de som følger mine veier."
+        },
+        {
+          "number": 33,
+          "text": "Hør på min tilrettevisning og bli vise og forakt den ikke!"
+        },
+        {
+          "number": 34,
+          "text": "Salig er det menneske som hører på mig, så han våker ved mine dører dag efter dag og vokter mine dørstolper."
+        },
+        {
+          "number": 35,
+          "text": "For den som finner mig, finner livet og får nåde hos Herren."
+        },
+        {
+          "number": 36,
+          "text": "Men den som ikke finner mig, skader sig selv; alle de som hater mig, elsker døden."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Visdommen har bygget sitt hus, hun har hugget til sine syv stolper."
+        },
+        {
+          "number": 2,
+          "text": "Hun har slaktet sitt slaktefe, blandet sin vin og dekket sitt bord;"
+        },
+        {
+          "number": 3,
+          "text": "hun har sendt ut sine piker, hun roper oppe fra byens høider:"
+        },
+        {
+          "number": 4,
+          "text": "Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:"
+        },
+        {
+          "number": 5,
+          "text": "Kom, et av mitt brød og drikk av den vin jeg har blandet!"
+        },
+        {
+          "number": 6,
+          "text": "Opgi eders uforstand, så skal I leve, og gå bent frem på forstandens vei!"
+        },
+        {
+          "number": 7,
+          "text": "Den som refser en spotter, henter sig selv vanære, og den som viser en ugudelig til rette, får skam av det."
+        },
+        {
+          "number": 8,
+          "text": "Vis ikke spotteren til rette, forat han ikke skal hate dig! Vis den vise til rette, så skal han elske dig."
+        },
+        {
+          "number": 9,
+          "text": "Lær den vise, så blir han ennu visere, lær den rettferdige, så går han frem i lærdom."
+        },
+        {
+          "number": 10,
+          "text": "Å frykte Herren er begynnelsen til visdom, og å kjenne den Hellige er forstand."
+        },
+        {
+          "number": 11,
+          "text": "For ved mig skal dine dager bli mange, og leveår skal gis dig i rikt mål."
+        },
+        {
+          "number": 12,
+          "text": "Er du vis, så er du vis til ditt eget gagn, og er du en spotter, skal du alene lide for det."
+        },
+        {
+          "number": 13,
+          "text": "Dårskapen er en kåt kvinne, bare uforstand og uvitenhet."
+        },
+        {
+          "number": 14,
+          "text": "Hun sitter foran døren til sitt hus på en trone på en høide i byen"
+        },
+        {
+          "number": 15,
+          "text": "for å rope til dem som går forbi på veien, som vandrer bent frem på sine stier:"
+        },
+        {
+          "number": 16,
+          "text": "Den som er enfoldig, han vende sig hit! Til den som er uten forstand, sier hun:"
+        },
+        {
+          "number": 17,
+          "text": "Stjålet vann er søtt, og brød som etes i lønndom, smaker herlig."
+        },
+        {
+          "number": 18,
+          "text": "Men han vet ikke at der bor dødningene, at hennes gjester er i dødsrikets dyp."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Salomos ordsprog. En vis sønn gleder sin far, men en uforstandig sønn er sin mors sorg."
+        },
+        {
+          "number": 2,
+          "text": "Ugudelighets skatter gagner ikke, men rettferdighet frir fra døden."
+        },
+        {
+          "number": 3,
+          "text": "Herren lar ikke den rettferdige sulte, men de ugudeliges attrå støter han bort."
+        },
+        {
+          "number": 4,
+          "text": "Den som arbeider med lat hånd, blir fattig, men den flittiges hånd gjør rik."
+        },
+        {
+          "number": 5,
+          "text": "En klok sønn samler om sommeren; en dårlig sønn sover i høsttiden."
+        },
+        {
+          "number": 6,
+          "text": "Velsignelser kommer over den rettferdiges hode, men de ugudeliges munn skal deres vold skjule."
+        },
+        {
+          "number": 7,
+          "text": "Den rettferdiges minne lever i velsignelse, men de ugudeliges navn råtner bort."
+        },
+        {
+          "number": 8,
+          "text": "Den som har visdom i hjertet, tar imot Guds bud; men den som har dårens leber, går til grunne."
+        },
+        {
+          "number": 9,
+          "text": "Den som vandrer i ustraffelighet, vandrer trygt, og den som går krokveier, blir opdaget."
+        },
+        {
+          "number": 10,
+          "text": "Den som blunker med øiet, volder smerte, og den som har dårens leber, går til grunne."
+        },
+        {
+          "number": 11,
+          "text": "Den rettferdiges munn er en livsens kilde, men de ugudeliges munn skal deres vold skjule."
+        },
+        {
+          "number": 12,
+          "text": "Hat vekker trette, men kjærlighet dekker over alle overtredelser."
+        },
+        {
+          "number": 13,
+          "text": "På den forstandiges leber finnes visdom, men stokken er for den uforstandiges rygg."
+        },
+        {
+          "number": 14,
+          "text": "De vise gjemmer på kunnskap, men dårens munn truer med ødeleggelse."
+        },
+        {
+          "number": 15,
+          "text": "Rikmanns gods er hans faste stad; de fattiges armod er deres ødeleggelse."
+        },
+        {
+          "number": 16,
+          "text": "Det som den rettferdige vinner, blir ham til liv; den ugudeliges inntekt blir ham til synd."
+        },
+        {
+          "number": 17,
+          "text": "En vei til liv er den som akter på tukt; men den som forakter tilrettevisning, fører vill."
+        },
+        {
+          "number": 18,
+          "text": "Den som skjuler hat, har falske leber, og den som fører ut ondt rykte, han er en dåre."
+        },
+        {
+          "number": 19,
+          "text": "Hvor det er mange ord, mangler det ikke på synd; men den som holder sine leber i tømme, er klok."
+        },
+        {
+          "number": 20,
+          "text": "Den rettferdiges tunge er som utsøkt sølv; de ugudeliges hjerte er intet verdt."
+        },
+        {
+          "number": 21,
+          "text": "Den rettferdiges leber nærer mange, men dårer dør, fordi de er uten forstand."
+        },
+        {
+          "number": 22,
+          "text": "Det er Herrens velsignelse som gjør rik, og eget strev legger ikke noget til."
+        },
+        {
+          "number": 23,
+          "text": "For dåren er det en lyst å gjøre skamløse gjerninger, men visdom er en lyst for den forstandige mann."
+        },
+        {
+          "number": 24,
+          "text": "Det som den ugudelige gruer for, det skal komme over ham; men de rettferdiges ønsker skal Gud opfylle."
+        },
+        {
+          "number": 25,
+          "text": "Når en storm farer forbi, så er den ugudelige ikke mere; men den rettferdige har en evig grunnvoll."
+        },
+        {
+          "number": 26,
+          "text": "Som eddik for tennene og røk for øinene, slik er den late for den som sender ham."
+        },
+        {
+          "number": 27,
+          "text": "Herrens frykt forlenger livet, men de ugudeliges år forkortes."
+        },
+        {
+          "number": 28,
+          "text": "De rettferdige har glede i vente, men de ugudeliges håp blir til intet."
+        },
+        {
+          "number": 29,
+          "text": "Herrens vei er en fast borg for den ustraffelige, men den er ødeleggelse for dem som gjør urett."
+        },
+        {
+          "number": 30,
+          "text": "De rettferdige skal aldri rokkes, men de ugudelige skal ikke få bo landet."
+        },
+        {
+          "number": 31,
+          "text": "Den rettferdiges munn bærer visdoms frukt, men den falske tunge skal skjæres av."
+        },
+        {
+          "number": 32,
+          "text": "Den rettferdiges leber forstår hvad der er til behag, men de ugudeliges munn er bare falskhet."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Falsk vekt er en vederstyggelighet for Herren, men fullvektige lodder er ham til velbehag."
+        },
+        {
+          "number": 2,
+          "text": "Med overmot følger skam, men de ydmyke har visdom."
+        },
+        {
+          "number": 3,
+          "text": "De opriktiges rettsinn leder dem, men de troløses forvendte sinn ødelegger dem."
+        },
+        {
+          "number": 4,
+          "text": "Gods hjelper ikke på vredens dag, men rettferdighet frir fra døden."
+        },
+        {
+          "number": 5,
+          "text": "Den ustraffeliges rettferdighet gjør hans vei jevn, men den ugudelige faller ved sin ugudelighet."
+        },
+        {
+          "number": 6,
+          "text": "De opriktiges rettferdighet frelser, men de troløse fanges i sin egen ondskap."
+        },
+        {
+          "number": 7,
+          "text": "Når et ugudelig menneske dør, blir hans håp til intet, og med det som de onde stunder efter, er det forbi."
+        },
+        {
+          "number": 8,
+          "text": "Den rettferdige utfries av trengsel, og den ugudelige kommer i hans sted."
+        },
+        {
+          "number": 9,
+          "text": "Med munnen ødelegger den gudløse sin næste, men ved sin kunnskap utfries de rettferdige."
+        },
+        {
+          "number": 10,
+          "text": "Når det går de rettferdige godt, jubler byen, og når de ugudelige omkommer, lyder fryderop."
+        },
+        {
+          "number": 11,
+          "text": "Ved de opriktiges velsignelse blir en by ophøiet, men de ugudeliges munn bryter den ned."
+        },
+        {
+          "number": 12,
+          "text": "Den som taler foraktelig om sin næste, er uten forstand; men en forstandig mann tier."
+        },
+        {
+          "number": 13,
+          "text": "Den som går omkring som baktaler, åpenbarer hemmeligheter; men den som er trofast i ånden, skjuler saken."
+        },
+        {
+          "number": 14,
+          "text": "Hvor det intet styre er, faller folket; men hvor det er mange rådgivere, der er frelse."
+        },
+        {
+          "number": 15,
+          "text": "Ille går det den som går i borgen for en fremmed; men den som skyr å gi håndslag, er sikker."
+        },
+        {
+          "number": 16,
+          "text": "En yndig kvinne vinner ære, og voldsmenn vinner rikdom."
+        },
+        {
+          "number": 17,
+          "text": "En godgjørende mann gjør vel mot sig selv, men en hårdhjertet mann ødelegger sig."
+        },
+        {
+          "number": 18,
+          "text": "Den ugudelige vinner en lønn som svikter, men den som sår rettferdighet, får en lønn som varer."
+        },
+        {
+          "number": 19,
+          "text": "Den som står fast i rettferdighet, ham blir det til liv; men den som jager efter ondt, volder sin egen død."
+        },
+        {
+          "number": 20,
+          "text": "En vederstyggelighet for Herren er de hvis hjerte er forvendt; men til velbehag for ham er de hvis vei er ustraffelig."
+        },
+        {
+          "number": 21,
+          "text": "Visselig, den onde blir ikke ustraffet, men de rettferdiges ætt slipper unda."
+        },
+        {
+          "number": 22,
+          "text": "Som en gullring i et svinetryne er en fager kvinne som er uten forstand."
+        },
+        {
+          "number": 23,
+          "text": "De rettferdiges attrå er bare det som godt er; de ugudelige har vrede i vente."
+        },
+        {
+          "number": 24,
+          "text": "Den ene strør ut og får ennu mere; den andre holder tilbake mere enn rett er, og det blir dog bare fattigdom."
+        },
+        {
+          "number": 25,
+          "text": "Den som velsigner, skal trives, og den som lesker andre, han blir selv lesket."
+        },
+        {
+          "number": 26,
+          "text": "Den som holder korn tilbake, ham banner folket; men velsignelse kommer over dens hode som selger korn."
+        },
+        {
+          "number": 27,
+          "text": "Den som søker hvad godt er, søker det som er til behag; men den som higer efter ondt, over ham kommer det onde."
+        },
+        {
+          "number": 28,
+          "text": "Den som setter sin lit til sin rikdom, han skal falle; men de rettferdige skal grønnes som løvet."
+        },
+        {
+          "number": 29,
+          "text": "Den som setter sitt hus i ulag, skal arve vind, og dåren blir en tjener for den vise."
+        },
+        {
+          "number": 30,
+          "text": "Den rettferdiges frukt er et livsens tre, og den vise fanger sjeler."
+        },
+        {
+          "number": 31,
+          "text": "Se, den rettferdige får sin lønn på jorden, hvor meget mere da den ugudelige og synderen!"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Den som elsker tukt, elsker kunnskap; men den som hater refselse, er dum."
+        },
+        {
+          "number": 2,
+          "text": "Den gode får nåde hos Herren, men den svikefulle mann fordømmer han."
+        },
+        {
+          "number": 3,
+          "text": "Ugudelighet hjelper intet menneske til å stå støtt, men de rettferdiges rot rokkes ikke."
+        },
+        {
+          "number": 4,
+          "text": "En god hustru er sin manns krone, men en dårlig er som råttenhet i hans ben."
+        },
+        {
+          "number": 5,
+          "text": "De rettferdige tenker bare på det som rett er; de ugudeliges råd er svik."
+        },
+        {
+          "number": 6,
+          "text": "De ugudelige taler alltid om å lure efter blod, men de opriktiges munn frelser dem."
+        },
+        {
+          "number": 7,
+          "text": "De ugudelige kastes over ende, og så er de ikke mere; men de rettferdiges hus står fast."
+        },
+        {
+          "number": 8,
+          "text": "En mann roses alt efter som han har forstand, men den hvis hjerte er forvendt, blir til forakt."
+        },
+        {
+          "number": 9,
+          "text": "Bedre er en småkårsmann som har en tjener, enn en som vil være storkar, men ikke har brød."
+        },
+        {
+          "number": 10,
+          "text": "Den rettferdige har omsorg for sin buskap, men den ugudeliges hjerte er hårdt."
+        },
+        {
+          "number": 11,
+          "text": "Den som dyrker sin jord, mettes med brød; men den som jager efter tomme ting, er uten forstand."
+        },
+        {
+          "number": 12,
+          "text": "Den ugudelige attrår det som er en snare for de onde; men de rettferdige gir Gud fast rot."
+        },
+        {
+          "number": 13,
+          "text": "I lebenes synd ligger en ond snare, men den rettferdige kommer ut av trengsel."
+        },
+        {
+          "number": 14,
+          "text": "Av sin munns frukt mettes en mann med godt, og hvad et menneskes hender har gjort, det gjengjeldes ham."
+        },
+        {
+          "number": 15,
+          "text": "Dårens vei er rett i hans egne øine, men den som hører på råd, er vis."
+        },
+        {
+          "number": 16,
+          "text": "Dårens vrede blir kjent samme dag, men den som skjuler krenkelser, er klok."
+        },
+        {
+          "number": 17,
+          "text": "Den som er ærlig i sine ord, taler sannhet, men et falskt vidne taler svik."
+        },
+        {
+          "number": 18,
+          "text": "Mange taler tankeløse ord, som stikker likesom sverd; men de vises tunge er lægedom."
+        },
+        {
+          "number": 19,
+          "text": "Sannhets lebe blir fast for all tid, men falskhets tunge bare et øieblikk."
+        },
+        {
+          "number": 20,
+          "text": "Det er svik i deres hjerte som smir ondt; men de som råder til fred, får glede."
+        },
+        {
+          "number": 21,
+          "text": "Det rammer ikke den rettferdige noget ondt, men de ugudelige får ulykke i fullt mål."
+        },
+        {
+          "number": 22,
+          "text": "Falske leber er en vederstyggelighet for Herren, men de som går frem med ærlighet, er ham til velbehag."
+        },
+        {
+          "number": 23,
+          "text": "Et klokt menneske skjuler det han vet, men dårers hjerte roper ut sin dårskap."
+        },
+        {
+          "number": 24,
+          "text": "Den flittiges hånd kommer til å styre, men lathet blir træl."
+        },
+        {
+          "number": 25,
+          "text": "Sorg i en manns hjerte trykker det ned, men et godt ord gleder det."
+        },
+        {
+          "number": 26,
+          "text": "Den rettferdige veileder sin næste, men de ugudeliges vei fører dem vill."
+        },
+        {
+          "number": 27,
+          "text": "Lathet steker ikke sin fangst, men flid er en kostelig skatt for et menneske."
+        },
+        {
+          "number": 28,
+          "text": "På rettferds sti er liv, og en ryddet vei fører ikke til døden."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "En vis sønn hører på sin fars tilrettevisning, men en spotter hører ikke på irettesettelse."
+        },
+        {
+          "number": 2,
+          "text": "Av sin munns frukt nyter en mann godt, men de troløses hu står til vold."
+        },
+        {
+          "number": 3,
+          "text": "Den som vokter sin munn, bevarer sitt liv; den som lukker sine leber vidt op, ham blir det til ulykke."
+        },
+        {
+          "number": 4,
+          "text": "Den late attrår og får intet, men de flittige næres rikelig."
+        },
+        {
+          "number": 5,
+          "text": "Den rettferdige hater løgnaktige ord, men den ugudelige gjør det som ondt og skammelig er."
+        },
+        {
+          "number": 6,
+          "text": "Rettferdighet verner den som lever ustraffelig, men ugudelighet feller den som gjør synd."
+        },
+        {
+          "number": 7,
+          "text": "Den ene ter sig som en rik mann og har dog slett ingen ting, og den andre ter sig som en fattig mann og har dog meget gods."
+        },
+        {
+          "number": 8,
+          "text": "En manns rikdom er løsepenger for hans liv, men den fattige er det ingen som truer."
+        },
+        {
+          "number": 9,
+          "text": "De rettferdiges lys skinner lystig, men de ugudeliges lampe slukner."
+        },
+        {
+          "number": 10,
+          "text": "Ved overmot voldes bare trette, men hos dem som lar sig råde, er visdom."
+        },
+        {
+          "number": 11,
+          "text": "Lett vunnet rikdom minker, men den som samler litt efter litt, øker sitt gods."
+        },
+        {
+          "number": 12,
+          "text": "Langvarig venting gjør hjertet sykt, men et opfylt ønske er et livsens tre."
+        },
+        {
+          "number": 13,
+          "text": "Den som forakter ordet, ødelegger sig selv; men den som frykter budet, han får lønn."
+        },
+        {
+          "number": 14,
+          "text": "Den vises lære er en livsens kilde, ved den slipper en fra dødens snarer."
+        },
+        {
+          "number": 15,
+          "text": "Ved god forstand vinner en menneskenes yndest, men de troløses vei er hård."
+        },
+        {
+          "number": 16,
+          "text": "Hver den som er klok, går frem med forstand, men en dåre utbreder dårskap."
+        },
+        {
+          "number": 17,
+          "text": "Et ugudelig sendebud faller i ulykke, men et trofast bud er lægedom."
+        },
+        {
+          "number": 18,
+          "text": "Armod og skam får den som ikke vil vite av tukt; men den som akter på refselse, blir æret."
+        },
+        {
+          "number": 19,
+          "text": "Opfylt ønske er søtt for sjelen, men å holde sig fra det onde er en vederstyggelighet for dårer."
+        },
+        {
+          "number": 20,
+          "text": "Søk omgang med de vise, og du skal bli vis; men dårers venn går det ille."
+        },
+        {
+          "number": 21,
+          "text": "Ulykke forfølger syndere, men rettferdige lønnes med godt."
+        },
+        {
+          "number": 22,
+          "text": "Den gode efterlater arv til barnebarn, men synderens gods er gjemt til den rettferdige."
+        },
+        {
+          "number": 23,
+          "text": "De fattiges nyland gir meget føde; men mangen rykkes bort fordi han ikke gjør det som rett er."
+        },
+        {
+          "number": 24,
+          "text": "Den som sparer sitt ris, hater sin sønn; men den som elsker ham, tukter ham tidlig."
+        },
+        {
+          "number": 25,
+          "text": "Den rettferdige eter så han blir mett, men de ugudeliges buk blir tom."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kvinners visdom bygger sitt hus, men dårskap river det ned med sine hender."
+        },
+        {
+          "number": 2,
+          "text": "Den som vandrer i opriktighet, frykter Herren; men den som går krokveier, forakter ham."
+        },
+        {
+          "number": 3,
+          "text": "I dårens munn er et ris for hans overmot, men de vises leber er deres vern."
+        },
+        {
+          "number": 4,
+          "text": "Hvor det ingen okser er, der er krybben tom; men rikelig vinning kommer ved oksens kraft."
+        },
+        {
+          "number": 5,
+          "text": "Trofast vidne lyver ikke, men den som taler løgn, er et falskt vidne."
+        },
+        {
+          "number": 6,
+          "text": "Spotteren søker visdom, men finner den ikke; men for den forstandige er kunnskap lett å vinne."
+        },
+        {
+          "number": 7,
+          "text": "Når du går fra en dåre, har du ikke funnet forstand på hans leber."
+        },
+        {
+          "number": 8,
+          "text": "Den klokes visdom er at han forstår sin vei, men dårers dårskap er at de bedrar sig selv."
+        },
+        {
+          "number": 9,
+          "text": "Dårer spottes av sitt eget skyldoffer, men blandt de opriktige råder Guds velbehag."
+        },
+        {
+          "number": 10,
+          "text": "Hjertet kjenner sin egen bitre smerte, og i dets glede blander ingen fremmed sig."
+        },
+        {
+          "number": 11,
+          "text": "De ugudeliges hus skal ødelegges, men de opriktiges telt skal blomstre."
+        },
+        {
+          "number": 12,
+          "text": "Mangen vei tykkes en mann rett, men enden på det er dødens veier."
+        },
+        {
+          "number": 13,
+          "text": "Endog under latter har hjertet smerte, og enden på gleden er sorg."
+        },
+        {
+          "number": 14,
+          "text": "Av sin ferd skal den frafalne mettes, og en god mann holder sig borte fra ham."
+        },
+        {
+          "number": 15,
+          "text": "Den enfoldige tror hvert ord, men den kloke akter på sine skritt."
+        },
+        {
+          "number": 16,
+          "text": "Den vise frykter og holder sig fra det onde, men dåren er overmodig og trygg."
+        },
+        {
+          "number": 17,
+          "text": "Den bråsinte gjør dårskap, og en svikefull mann blir hatet."
+        },
+        {
+          "number": 18,
+          "text": "De enfoldige har fått dårskap i arv, men de kloke krones med kunnskap."
+        },
+        {
+          "number": 19,
+          "text": "De onde må bøie sig for de gode, og de ugudelige ved den rettferdiges porter."
+        },
+        {
+          "number": 20,
+          "text": "Endog av sin venn blir den fattige hatet; men de som elsker en rik, er mange."
+        },
+        {
+          "number": 21,
+          "text": "Den som forakter sin næste, synder; men salig er den som ynkes over arminger."
+        },
+        {
+          "number": 22,
+          "text": "Skal ikke de fare vill som tenker ut det som ondt er? Men miskunnhet og trofasthet times dem som optenker godt."
+        },
+        {
+          "number": 23,
+          "text": "Ethvert møiefullt arbeid gir vinning, men tomt snakk fører bare til tap."
+        },
+        {
+          "number": 24,
+          "text": "De vises rikdom er deres krone, men dårenes dårskap er og blir dårskap."
+        },
+        {
+          "number": 25,
+          "text": "Et sanndru vidne frelser liv, men den som taler løgn, er full av svik."
+        },
+        {
+          "number": 26,
+          "text": "Den som frykter Herren, har et sterkt vern, og for hans barn skal Herren være en tilflukt."
+        },
+        {
+          "number": 27,
+          "text": "Å frykte Herren er en livsens kilde, så en slipper fra dødens snarer."
+        },
+        {
+          "number": 28,
+          "text": "Meget folk er kongens ære, men mangel på folk er fyrstens fall."
+        },
+        {
+          "number": 29,
+          "text": "Den langmodige har stor forstand, men den bråsinte viser stor dårskap."
+        },
+        {
+          "number": 30,
+          "text": "Et saktmodig hjerte er legemets liv, men hissighet er råttenhet i benene."
+        },
+        {
+          "number": 31,
+          "text": "Den som trykker en arming, håner hans skaper, men den som har medynk med den fattige, ærer skaperen."
+        },
+        {
+          "number": 32,
+          "text": "Når ulykken rammer den ugudelige, kastes han over ende; men den rettferdige er frimodig i døden."
+        },
+        {
+          "number": 33,
+          "text": "I den forstandiges hjerte holder visdommen sig stille, men i dårers indre gir den sig til kjenne."
+        },
+        {
+          "number": 34,
+          "text": "Rettferdighet ophøier et folk, men synden er folkenes vanære."
+        },
+        {
+          "number": 35,
+          "text": "En klok tjener vinner kongens yndest, men over en dårlig tjener kommer hans vrede."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mildt svar stiller harme, men et sårende ord vekker vrede."
+        },
+        {
+          "number": 2,
+          "text": "De vises tunge gir god kunnskap, men dårenes munn lar dårskap strømme ut."
+        },
+        {
+          "number": 3,
+          "text": "Herrens øine er allesteds, de ser både efter onde og efter gode."
+        },
+        {
+          "number": 4,
+          "text": "En saktmodig tunge er et livsens tre, men en falsk tunge sårer hjertet."
+        },
+        {
+          "number": 5,
+          "text": "Dåren forakter sin fars tukt, men den som akter på tilrettevisning, er klok."
+        },
+        {
+          "number": 6,
+          "text": "I den rettferdiges hus er det meget gods, men den ugudeliges inntekt blir til ødeleggelse for ham."
+        },
+        {
+          "number": 7,
+          "text": "De vises leber strør ut kunnskap, men dårenes sinn er ikke rett."
+        },
+        {
+          "number": 8,
+          "text": "De ugudeliges offer er en vederstyggelighet for Herren, men de opriktiges bønn er ham til velbehag."
+        },
+        {
+          "number": 9,
+          "text": "Den ugudeliges vei er en vederstyggelighet for Herren, men den som jager efter rettferdighet, elsker han."
+        },
+        {
+          "number": 10,
+          "text": "Hård straff rammer den som forlater den rette sti; den som hater tilrettevisning, skal dø."
+        },
+        {
+          "number": 11,
+          "text": "Dødsriket og avgrunnen ligger åpne for Herren, hvor meget mere da menneskenes hjerter!"
+        },
+        {
+          "number": 12,
+          "text": "En spotter liker ikke å bli irettesatt; til de vise går han ikke."
+        },
+        {
+          "number": 13,
+          "text": "Et glad hjerte gjør åsynet lyst, men hjertesorg bryter motet ned."
+        },
+        {
+          "number": 14,
+          "text": "Den forstandiges hjerte søker kunnskap, men dårers munn farer bare med dårskap."
+        },
+        {
+          "number": 15,
+          "text": "Alle den ulykkeliges dager er onde, men et glad hjerte er et stadig gjestebud."
+        },
+        {
+          "number": 16,
+          "text": "Bedre er lite med Herrens frykt enn en stor skatt med uro."
+        },
+        {
+          "number": 17,
+          "text": "Bedre er en rett grønt med kjærlighet enn en fet okse med hat."
+        },
+        {
+          "number": 18,
+          "text": "En hissig mann vekker trette men den langmodige stiller kiv."
+        },
+        {
+          "number": 19,
+          "text": "Den lates vei er som en tornehekk, men de opriktiges vei er ryddet."
+        },
+        {
+          "number": 20,
+          "text": "En vis sønn gleder sin far, men et uforstandig menneske forakter sin mor."
+        },
+        {
+          "number": 21,
+          "text": "Dårskap er en glede for den som er uten forstand; men en forstandig mann går rett frem."
+        },
+        {
+          "number": 22,
+          "text": "Planer blir til intet uten rådslagning; men hvor det er mange rådgivere, har de fremgang."
+        },
+        {
+          "number": 23,
+          "text": "En mann gleder sig når hans munn kan gi svar, og hvor godt er ikke et ord i rette tid!"
+        },
+        {
+          "number": 24,
+          "text": "Den forstandige går livets vei opover for å undgå dødsriket der nede."
+        },
+        {
+          "number": 25,
+          "text": "Herren river ned de overmodiges hus, men enkens markskjell lar han stå fast."
+        },
+        {
+          "number": 26,
+          "text": "Den ondes råd er en vederstyggelighet for Herren, men milde ord er rene for ham."
+        },
+        {
+          "number": 27,
+          "text": "Den som jager efter vinning, setter sitt hus i ulag, men den som hater gaver, skal leve."
+        },
+        {
+          "number": 28,
+          "text": "Den rettferdige tenker i sitt hjerte på hvorledes han skal svare, men de ugudeliges munn lar onde ting strømme ut."
+        },
+        {
+          "number": 29,
+          "text": "Herren er langt borte fra de ugudelige, men de rettferdiges bønn hører han."
+        },
+        {
+          "number": 30,
+          "text": "Øinenes lys gleder hjertet; godt budskap gir benene marg."
+        },
+        {
+          "number": 31,
+          "text": "Den hvis øre hører på tilrettevisning til livet, dveler gjerne blandt vise."
+        },
+        {
+          "number": 32,
+          "text": "Den som ikke vil vite av tukt, forakter sitt liv, men den som hører på tilrettevisning, vinner forstand."
+        },
+        {
+          "number": 33,
+          "text": "Herrens frykt er tukt til visdom, og ydmykhet går forut for ære."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hjertets råd hører mennesket til, men fra Herren får tungen sitt svar."
+        },
+        {
+          "number": 2,
+          "text": "Alle en manns veier er rene i hans egne øine, men Herren veier åndene."
+        },
+        {
+          "number": 3,
+          "text": "Legg dine gjerninger på Herren, så skal dine råd ha fremgang."
+        },
+        {
+          "number": 4,
+          "text": "Herren har gjort hver ting til dens øiemed, også den ugudelige til straffens dag."
+        },
+        {
+          "number": 5,
+          "text": "Enhver overmodig er en vederstyggelighet for Herren; visselig, en slik mann blir ikke ustraffet."
+        },
+        {
+          "number": 6,
+          "text": "Ved kjærlighet og trofasthet utsones misgjerning, og den som frykter Herren, holder sig fra det onde."
+        },
+        {
+          "number": 7,
+          "text": "Når Herren har behag i en manns ferd, da gjør han at endog hans fiender holder fred med ham."
+        },
+        {
+          "number": 8,
+          "text": "Bedre er lite med rettferdighet enn stor vinning med urett."
+        },
+        {
+          "number": 9,
+          "text": "Menneskets hjerte tenker ut sin vei, men Herren styrer hans gang."
+        },
+        {
+          "number": 10,
+          "text": "Guddoms-ord er på kongens leber; hans munn skal ikke forsynde sig når han dømmer."
+        },
+        {
+          "number": 11,
+          "text": "Rett vekt og rette vektskåler hører Herren til; alle vektstener i pungen er hans verk."
+        },
+        {
+          "number": 12,
+          "text": "Ugudelige gjerninger er en vederstyggelighet for konger; for ved rettferdighet blir tronen trygget."
+        },
+        {
+          "number": 13,
+          "text": "Rettferdige leber er til velbehag for konger, og den som taler det som rett er, elsker de."
+        },
+        {
+          "number": 14,
+          "text": "En konges vrede er dødens bud, men en vis mann stiller vreden."
+        },
+        {
+          "number": 15,
+          "text": "I lyset fra kongens åsyn er det liv, og hans nåde er som en sky med vårregn."
+        },
+        {
+          "number": 16,
+          "text": "Å vinne visdom - hvor meget bedre er det ikke enn gull! Og å vinne forstand er mere verdt enn sølv."
+        },
+        {
+          "number": 17,
+          "text": "De opriktiges vei er å holde sig fra det onde; den som akter på sin vei, bevarer sitt liv."
+        },
+        {
+          "number": 18,
+          "text": "Forut for undergang går overmot, og forut for fall stolt mot."
+        },
+        {
+          "number": 19,
+          "text": "Det er bedre å være ydmyk sammen med dem som er i nød, enn å dele bytte med de overmodige."
+        },
+        {
+          "number": 20,
+          "text": "Den som akter på ordet, skal finne lykke, og den som setter sin lit til Herren, er salig."
+        },
+        {
+          "number": 21,
+          "text": "Den som er vis i hjertet, blir kalt forstandig, og lebers sødme fremmer lærdom."
+        },
+        {
+          "number": 22,
+          "text": "Klokskap er en livsens kilde for dem som eier den, men dårers straff er deres egen dårskap."
+        },
+        {
+          "number": 23,
+          "text": "Den vises hjerte gjør hans munn forstandig og legger mere og mere lærdom på hans leber."
+        },
+        {
+          "number": 24,
+          "text": "Milde ord er kostelig honning, søt for sjelen og en lægedom for kroppen."
+        },
+        {
+          "number": 25,
+          "text": "Mangen vei tykkes en mann rett, men enden på det er dødens veier."
+        },
+        {
+          "number": 26,
+          "text": "Arbeiderens sult arbeider for ham; for hans munn driver ham frem."
+        },
+        {
+          "number": 27,
+          "text": "En niding graver en ulykkesgrav, og på hans leber er det likesom en fortærende ild."
+        },
+        {
+          "number": 28,
+          "text": "En falsk mann volder trette, og en øretuter skiller venn fra venn."
+        },
+        {
+          "number": 29,
+          "text": "En voldsmann forlokker sin næste og fører ham inn på en vei som ikke er god."
+        },
+        {
+          "number": 30,
+          "text": "Den som lukker sine øine for å tenke på svik, og den som kniper sine leber sammen, han har allerede fullført det onde."
+        },
+        {
+          "number": 31,
+          "text": "Grå hår er en fager krone; den finnes på rettferdighets vei."
+        },
+        {
+          "number": 32,
+          "text": "Den langmodige er bedre enn en veldig helt, og den som styrer sitt sinn, er bedre enn den som inntar en by."
+        },
+        {
+          "number": 33,
+          "text": "I kappens fold rystes loddet, men avgjørelsen kommer alltid fra Herren."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bedre et stykke tørt brød med ro og fred enn et hus fullt av slakt med trette."
+        },
+        {
+          "number": 2,
+          "text": "En klok tjener får råde over en dårlig sønn, og iblandt brødrene får han del i arven."
+        },
+        {
+          "number": 3,
+          "text": "Der er digel for sølv og ovn for gull; men den som prøver hjertene, er Herren."
+        },
+        {
+          "number": 4,
+          "text": "Den onde akter på ondskaps lebe; løgneren lytter til ødeleggelses tunge."
+        },
+        {
+          "number": 5,
+          "text": "Den som spotter den fattige, håner hans skaper; den som gleder sig over ulykke, skal ikke bli ustraffet."
+        },
+        {
+          "number": 6,
+          "text": "De gamles krone er barnebarn, og barns pryd er deres fedre."
+        },
+        {
+          "number": 7,
+          "text": "Det sømmer sig ikke for dåren å tale store ord, enn mindre for den høibårne å tale løgn."
+        },
+        {
+          "number": 8,
+          "text": "Gave er en edelsten i dens øine som får den; hvor den kommer, gjør den lykke."
+        },
+        {
+          "number": 9,
+          "text": "Den som dekker over overtredelse, søker kjærlighet; men den som ripper op en sak, skiller venn fra venn."
+        },
+        {
+          "number": 10,
+          "text": "Skjenn virker bedre på den forstandige enn hundre slag på dåren."
+        },
+        {
+          "number": 11,
+          "text": "En ond manns hu står bare til gjenstridighet, og en ubarmhjertig engel sendes imot ham."
+        },
+        {
+          "number": 12,
+          "text": "Bedre for en mann å møte en bjørn som ungene er tatt fra, enn en dåre i hans dårskap."
+        },
+        {
+          "number": 13,
+          "text": "Den som gjengjelder godt med ondt, fra hans hus skal ulykken ikke vike."
+        },
+        {
+          "number": 14,
+          "text": "Å begynne trette er som å åpne for vann; la da tretten fare, før den blir for voldsom!"
+        },
+        {
+          "number": 15,
+          "text": "Den som frikjenner en ugudelig, og den som domfeller en rettferdig, de er begge to en vederstyggelighet for Herren."
+        },
+        {
+          "number": 16,
+          "text": "Hvad hjelper penger i dårens hånd til å kjøpe visdom, siden han er uten forstand?"
+        },
+        {
+          "number": 17,
+          "text": "En venn elsker alltid, og en bror fødes til hjelp i nød."
+        },
+        {
+          "number": 18,
+          "text": "Et menneske som ikke har forstand, gir håndslag og går i borgen hos sin næste."
+        },
+        {
+          "number": 19,
+          "text": "Den som elsker trette, elsker synd; den som gjør sin dør høi, søker sin egen undergang."
+        },
+        {
+          "number": 20,
+          "text": "Den som er falsk i hjertet, finner intet godt, og den som er vrang i sin tale, faller i ulykke."
+        },
+        {
+          "number": 21,
+          "text": "Den som har en narr til sønn, får sorg av ham; en dåres far har ingen glede."
+        },
+        {
+          "number": 22,
+          "text": "Et glad hjerte gir god lægedom, men et nedslått mot tar margen fra benene."
+        },
+        {
+          "number": 23,
+          "text": "Den ugudelige tar gaver ut av barmen for å bøie rettens gang."
+        },
+        {
+          "number": 24,
+          "text": "Den forstandige har visdommen for øie, men dårens øine er ved jordens ende."
+        },
+        {
+          "number": 25,
+          "text": "En uforstandig sønn er en gremmelse for sin far og en bitter sorg for henne som fødte ham."
+        },
+        {
+          "number": 26,
+          "text": "Å straffe også den rettferdige er ikke godt; å slå edle menn er tvert imot all rett."
+        },
+        {
+          "number": 27,
+          "text": "Den som er sparsom med sine ord, er klok, og den koldsindige er en forstandig mann."
+        },
+        {
+          "number": 28,
+          "text": "Også dåren aktes for klok når han tier, for vis når han holder sine leber lukket."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Den egensindige følger bare sin egen lyst; mot alle kloke råd viser han tenner."
+        },
+        {
+          "number": 2,
+          "text": "Dåren bryr sig ikke om å være forstandig, men vil bare vise hvad han tenker i sitt hjerte."
+        },
+        {
+          "number": 3,
+          "text": "Når den ugudelige kommer, kommer også forakt, og med skammen følger spott."
+        },
+        {
+          "number": 4,
+          "text": "Ordene i en manns munn er dype vann, visdoms kilde er en fremvellende bekk."
+        },
+        {
+          "number": 5,
+          "text": "Det er ille å gi den skyldige medhold, å bøie retten for den rettferdige."
+        },
+        {
+          "number": 6,
+          "text": "Dårens leber volder trette, og hans munn roper efter pryl."
+        },
+        {
+          "number": 7,
+          "text": "Dårens munn er til ulykke for ham selv, og hans leber er en snare for hans liv."
+        },
+        {
+          "number": 8,
+          "text": "En øretuters ord er som velsmakende retter, og de trenger ned i hjertets indre."
+        },
+        {
+          "number": 9,
+          "text": "Den som er lat i sin gjerning, er også en bror til ødeleggeren."
+        },
+        {
+          "number": 10,
+          "text": "Herrens navn er et fast tårn; til det løper den rettferdige og blir berget."
+        },
+        {
+          "number": 11,
+          "text": "Den rikes gods er hans festning og som en høi mur i hans egen tanke."
+        },
+        {
+          "number": 12,
+          "text": "Forut for fall ophøier en manns hjerte sig, men ydmykhet går forut for ære."
+        },
+        {
+          "number": 13,
+          "text": "Når en svarer før han hører, da blir det til dårskap og skam for ham."
+        },
+        {
+          "number": 14,
+          "text": "En manns mot kan holde ham oppe i hans sykdom; men et nedslått mot - hvem kan bære det?"
+        },
+        {
+          "number": 15,
+          "text": "Den forstandiges hjerte kjøper kunnskap, og de vises øre søker kunnskap."
+        },
+        {
+          "number": 16,
+          "text": "Et menneskes gave gir ham rum og fører ham frem for store herrer."
+        },
+        {
+          "number": 17,
+          "text": "Den som taler først i en rettsstrid, synes å ha rett; men så kommer motparten og gransker hans ord."
+        },
+        {
+          "number": 18,
+          "text": "Loddet gjør ende på tretter og skiller mellem de mektige."
+        },
+        {
+          "number": 19,
+          "text": "En bror som en har gjort urett mot, er vanskeligere å vinne enn en festning, og trette med ham er som en bom for en borg."
+        },
+        {
+          "number": 20,
+          "text": "Ved frukten av en manns munn mettes hans buk; med sine lebers grøde blir han mettet."
+        },
+        {
+          "number": 21,
+          "text": "Død og liv er i tungens vold, og hver den som gjerne bruker den, skal ete dens frukt."
+        },
+        {
+          "number": 22,
+          "text": "Den som har funnet en hustru, har funnet lykke og fått en nådegave av Herren."
+        },
+        {
+          "number": 23,
+          "text": "I ydmyke bønner taler den fattige, men den rike svarer med hårde ord."
+        },
+        {
+          "number": 24,
+          "text": "En mann med mange venner går det ille; men der er venner som henger fastere ved en enn en bror."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bedre er en fattig som vandrer i ustraffelighet, enn en mann med falske leber, som tillike er en dåre."
+        },
+        {
+          "number": 2,
+          "text": "Også den som ikke bruker omtanke, går det ille, og den som er for snar på foten, treder feil."
+        },
+        {
+          "number": 3,
+          "text": "Menneskets egen dårskap ødelegger hans vei, men i sitt hjerte vredes han på Herren."
+        },
+        {
+          "number": 4,
+          "text": "Rikdom skaper mange venner, den fattige blir skilt fra sin venn."
+        },
+        {
+          "number": 5,
+          "text": "Et falskt vidne skal ikke bli ustraffet, og den som taler løgn, skal ikke komme unda."
+        },
+        {
+          "number": 6,
+          "text": "Mange smigrer for den gavmilde, og enhver er venn med den som er rundhåndet."
+        },
+        {
+          "number": 7,
+          "text": "Den fattiges frender hater ham alle; enda mere holder hans venner sig borte fra ham. Han jager efter ord som ikke er å finne."
+        },
+        {
+          "number": 8,
+          "text": "Den som vinner forstand, elsker sitt liv; den som holder fast ved visdom, finner lykke."
+        },
+        {
+          "number": 9,
+          "text": "Et falskt vidne skal ikke bli ustraffet, og den som taler løgn, skal omkomme."
+        },
+        {
+          "number": 10,
+          "text": "Vellevnet høver ikke for en dåre, enda mindre høver det for en træl å herske over fyrster."
+        },
+        {
+          "number": 11,
+          "text": "Et menneskes klokskap gjør ham langmodig, og det er hans ære at han overser krenkelser."
+        },
+        {
+          "number": 12,
+          "text": "En konges vrede er som løvens brøl, men hans yndest som dugg på urter."
+        },
+        {
+          "number": 13,
+          "text": "En uforstandig sønn er bare til ulykke for sin far, og en kvinnes tretter er et stadig takdrypp."
+        },
+        {
+          "number": 14,
+          "text": "Hus og gods er en arv fra foreldre, men en forstandig kvinne er en gave fra Herren."
+        },
+        {
+          "number": 15,
+          "text": "Dovenskap senker i dyp søvn, og den late skal hungre."
+        },
+        {
+          "number": 16,
+          "text": "Den som holder budet, holder sig selv i live; den som ikke akter på sin ferd, skal miste sitt liv."
+        },
+        {
+          "number": 17,
+          "text": "Den som forbarmer sig over den fattige, låner til Herren, og Herren skal gjengjelde ham hans velgjerning."
+        },
+        {
+          "number": 18,
+          "text": "Tukt din sønn, for det er ennu håp; men la dig ikke drive til å drepe ham!"
+        },
+        {
+          "number": 19,
+          "text": "Den hvis vrede er stor, bør bøte; for dersom du hjelper ham, får du gjøre det atter og atter."
+        },
+        {
+          "number": 20,
+          "text": "Hør på råd og ta imot tukt, så du kan bli vis til slutt!"
+        },
+        {
+          "number": 21,
+          "text": "Det er mange tanker i en manns hjerte, men Herrens råd skal få fremgang."
+        },
+        {
+          "number": 22,
+          "text": "Et menneskes miskunnhet er hans glede, og en fattig er lykkeligere enn en stormann som lyver."
+        },
+        {
+          "number": 23,
+          "text": "Herrens frykt fører til liv, og mett får en gå til hvile uten å bli hjemsøkt med ulykke."
+        },
+        {
+          "number": 24,
+          "text": "Den late stikker sin hånd i fatet, men fører den ikke engang tilbake til sin munn."
+        },
+        {
+          "number": 25,
+          "text": "Slå spotteren, så vil den uforstandige bli klok; vis den forstandige til rette, så vil han komme til innsikt og kunnskap."
+        },
+        {
+          "number": 26,
+          "text": "Den som bruker vold mot sin far og jager sin mor bort, er en dårlig, en skamløs sønn."
+        },
+        {
+          "number": 27,
+          "text": "Hold op, min sønn, med å høre på formaning, når du allikevel bare forviller dig bort fra kunnskaps ord!"
+        },
+        {
+          "number": 28,
+          "text": "Et ugudelig vidne spotter det som rett er, og de gudløses munn sluker urett."
+        },
+        {
+          "number": 29,
+          "text": "Straffedommer er fastsatt for spotterne og pryl for dårers rygg."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vinen er en spotter, sterk drikk volder støi, og hver den som raver av den, blir ikke vis."
+        },
+        {
+          "number": 2,
+          "text": "Den redsel en konge vekker, er som løvens brøl; den som gjør ham vred, spiller sitt liv."
+        },
+        {
+          "number": 3,
+          "text": "Det er en ære for en mann at han holder sig borte fra trette, men enhver dåre viser tenner."
+        },
+        {
+          "number": 4,
+          "text": "Om vinteren vil den late ikke pløie, derfor søker han forgjeves efter grøde om høsten."
+        },
+        {
+          "number": 5,
+          "text": "Tankene i en manns hjerte er et dypt vann, men en forstandig mann drar det op."
+        },
+        {
+          "number": 6,
+          "text": "Mange mennesker roper høit, hver om sin kjærlighet; men hvem finner vel en trofast mann?"
+        },
+        {
+          "number": 7,
+          "text": "Den rettferdige vandrer i ustraffelighet; lykkelige er hans barn efter ham."
+        },
+        {
+          "number": 8,
+          "text": "En konge som sitter på sitt dommersete, sikter og skiller ut alt ondt med sine øine."
+        },
+        {
+          "number": 9,
+          "text": "Hvem kan si: Jeg har renset mitt hjerte, jeg er fri for min synd?"
+        },
+        {
+          "number": 10,
+          "text": "To slags vektstener og to slags mål - begge deler er en vederstyggelighet for Herren."
+        },
+        {
+          "number": 11,
+          "text": "Allerede den unge gutt viser ved sine gjerninger om hans ferd vil bli ren og rett."
+        },
+        {
+          "number": 12,
+          "text": "Øret som hører, og øiet som ser - Herren har skapt dem begge to."
+        },
+        {
+          "number": 13,
+          "text": "Elsk ikke søvn, forat du ikke skal bli fattig! Lukk dine øine op, så får du brød nok å ete."
+        },
+        {
+          "number": 14,
+          "text": "Dårlig, dårlig! sier kjøperen; men når han går bort, roser han sig."
+        },
+        {
+          "number": 15,
+          "text": "Det er nok gull og perler i mengde, men kyndige leber er en kostelig ting."
+        },
+        {
+          "number": 16,
+          "text": "Ta hans klær, han har gått i borgen for en annen, og ta pant av ham for fremmedes skyld!"
+        },
+        {
+          "number": 17,
+          "text": "Brød vunnet ved svik smaker mannen søtt, men siden blir hans munn full av småsten."
+        },
+        {
+          "number": 18,
+          "text": "Planer får fremgang ved rådslagning; søk veiledning også når du fører krig!"
+        },
+        {
+          "number": 19,
+          "text": "Den som går omkring som baktaler, åpenbarer hemmeligheter, og med den som er åpenmunnet, skal du ikke ha noget å gjøre."
+        },
+        {
+          "number": 20,
+          "text": "Den som banner sin far og sin mor, hans lampe skal slukne i belgmørke."
+        },
+        {
+          "number": 21,
+          "text": "En arv som en fra først av har revet til sig, blir til sist uten velsignelse."
+        },
+        {
+          "number": 22,
+          "text": "Si ikke: Jeg vil gjengjelde med ondt! Bi på Herren, og han skal frelse dig!"
+        },
+        {
+          "number": 23,
+          "text": "To slags vektstener er en vederstyggelighet for Herren, og falsk vekt er noget ondt."
+        },
+        {
+          "number": 24,
+          "text": "Herren styrer mannens skritt; hvorledes skulde et menneske skjønne sin vei?"
+        },
+        {
+          "number": 25,
+          "text": "Det er farlig for et menneske at han i tankeløshet vier noget til Gud og først bakefter overveier sine løfter."
+        },
+        {
+          "number": 26,
+          "text": "En vis konge skiller ut de ugudelige og lar hjulet gå over dem."
+        },
+        {
+          "number": 27,
+          "text": "Menneskets ånd er en Herrens lampe; den ransaker alle lønnkammerne i hans indre."
+        },
+        {
+          "number": 28,
+          "text": "Miskunnhet og sanndruhet er en vakt om kongen, og han støtter sin trone ved miskunnhet."
+        },
+        {
+          "number": 29,
+          "text": "De unges pryd er deres kraft, og de gamles ære er de grå hår."
+        },
+        {
+          "number": 30,
+          "text": "Et tuktemiddel for de onde er buler og sår og slag, som trenger inn i hjertets indre."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kongens hjerte er som bekker i Herrens hånd, han bøier det dit han vil."
+        },
+        {
+          "number": 2,
+          "text": "Alle en manns veier er rette i hans egne øine, men Herren veier hjertene."
+        },
+        {
+          "number": 3,
+          "text": "Å gjøre rett og skjel er mere verdt for Herren enn offer."
+        },
+        {
+          "number": 4,
+          "text": "Stolte øine og overmodig hjerte - de ugudeliges lampe blir dem til synd."
+        },
+        {
+          "number": 5,
+          "text": "Den flittiges tanker fører bare til vinning, men hastverk bare til tap."
+        },
+        {
+          "number": 6,
+          "text": "Rikdom som vinnes ved svikefull tunge, er et pust som blir borte i luften, og den fører til døden."
+        },
+        {
+          "number": 7,
+          "text": "De ugudeliges vold skal rykke dem selv bort, fordi de ikke vilde gjøre det som rett er."
+        },
+        {
+          "number": 8,
+          "text": "Skyldtynget manns vei er kroket, men den renes ferd er ærlig."
+        },
+        {
+          "number": 9,
+          "text": "Bedre å bo i et hjørne på taket enn med trettekjær kvinne i felles hus."
+        },
+        {
+          "number": 10,
+          "text": "Den ugudeliges sjel har lyst til det onde; hans næste finner ikke barmhjertighet hos ham."
+        },
+        {
+          "number": 11,
+          "text": "Når du straffer en spotter, blir den uforstandige vis, og når du lærer en vis, tar han imot kunnskap."
+        },
+        {
+          "number": 12,
+          "text": "Den Rettferdige gir akt på den ugudeliges hus; han styrter de ugudelige i ulykke."
+        },
+        {
+          "number": 13,
+          "text": "Den som lukker sitt øre for den fattiges skrik, han skal selv rope, men ikke få svar."
+        },
+        {
+          "number": 14,
+          "text": "En gave i lønndom stiller vrede, og en hemmelig foræring stiller stor harme."
+        },
+        {
+          "number": 15,
+          "text": "Det er en glede for den rettferdige å gjøre rett, men en redsel for dem som gjør urett."
+        },
+        {
+          "number": 16,
+          "text": "Det menneske som forviller sig fra klokskaps vei, skal havne blandt dødningene."
+        },
+        {
+          "number": 17,
+          "text": "Fattig blir den som elsker glade dager; den som elsker vin og olje, blir ikke rik."
+        },
+        {
+          "number": 18,
+          "text": "Den ugudelige blir løsepenge for den rettferdige, og den troløse kommer i de opriktiges sted."
+        },
+        {
+          "number": 19,
+          "text": "Bedre å bo i et øde land enn hos en arg og trettekjær kvinne."
+        },
+        {
+          "number": 20,
+          "text": "Kostelige skatter og olje er det i den vises hus, men dåren gjør ende på det."
+        },
+        {
+          "number": 21,
+          "text": "Den som jager efter rettferdighet og miskunnhet, han skal finne liv, rettferdighet og ære."
+        },
+        {
+          "number": 22,
+          "text": "Den vise inntar de veldiges by og river ned det vern som den satte sin lit til."
+        },
+        {
+          "number": 23,
+          "text": "Den som varer sin munn og sin tunge, frir sitt liv fra trengsler."
+        },
+        {
+          "number": 24,
+          "text": "Den som er overmodig og opblåst, kalles en spotter; han farer frem i ustyrlig overmot."
+        },
+        {
+          "number": 25,
+          "text": "Den lates attrå dreper ham, fordi hans hender nekter å arbeide."
+        },
+        {
+          "number": 26,
+          "text": "Hele dagen attrår og attrår han, men den rettferdige gir og sparer ikke."
+        },
+        {
+          "number": 27,
+          "text": "De ugudeliges offer er en vederstyggelighet, og enda mere når de bærer det frem og har ondt i sinne!"
+        },
+        {
+          "number": 28,
+          "text": "Et løgnaktig vidne skal omkomme, men en mann som hører efter, skal alltid få tale."
+        },
+        {
+          "number": 29,
+          "text": "En ugudelig mann ter sig frekt, men den opriktige går sin vei rett frem."
+        },
+        {
+          "number": 30,
+          "text": "Det finnes ingen visdom og ingen forstand og intet råd mot Herren."
+        },
+        {
+          "number": 31,
+          "text": "Hesten gjøres ferdig for stridens dag, men seieren hører Herren til."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et godt navn er mere verdt enn stor rikdom; å være godt likt er bedre enn sølv og gull."
+        },
+        {
+          "number": 2,
+          "text": "Rik og fattig møtes; Herren har skapt dem begge."
+        },
+        {
+          "number": 3,
+          "text": "Den kloke ser ulykken og skjuler sig, men de uerfarne går videre og må bøte."
+        },
+        {
+          "number": 4,
+          "text": "Lønn for saktmodighet og gudsfrykt er rikdom og ære og liv."
+        },
+        {
+          "number": 5,
+          "text": "Torner og snarer er der på den falskes vei; den som varer sitt liv, holder sig borte fra dem."
+        },
+        {
+          "number": 6,
+          "text": "Lær den unge den vei han skal gå! Så viker han ikke fra den, selv når han blir gammel."
+        },
+        {
+          "number": 7,
+          "text": "Den rike hersker over de fattige, og låntageren blir långiverens træl."
+        },
+        {
+          "number": 8,
+          "text": "Den som sår urett, skal høste ondt, og med hans vredes ris skal det være forbi."
+        },
+        {
+          "number": 9,
+          "text": "Den som har et godt hjerte, blir velsignet fordi han gav den fattige av sitt brød."
+        },
+        {
+          "number": 10,
+          "text": "Jag spotteren bort! Så går tretten med, og kiv og skam hører op."
+        },
+        {
+          "number": 11,
+          "text": "Den som elsker hjertets renhet, og hvis tale er tekkelig, han har kongen til venn."
+        },
+        {
+          "number": 12,
+          "text": "Herrens øine verner den forstandige, men han gjør den troløses ord til intet."
+        },
+        {
+          "number": 13,
+          "text": "Den late sier: Det er en løve der ute, jeg kunde bli drept midt på gaten."
+        },
+        {
+          "number": 14,
+          "text": "Fremmed kvinnes munn er en dyp grav; den Herren er vred på, faller i den."
+        },
+        {
+          "number": 15,
+          "text": "Dårskap er bundet fast til den unges hjerte; tuktens ris driver den bort."
+        },
+        {
+          "number": 16,
+          "text": "Å undertrykke den fattige tjener bare til å øke hans gods; å gi til den rike volder ham bare tap."
+        },
+        {
+          "number": 17,
+          "text": "Bøi ditt øre til og hør på vismenns ord og vend ditt hjerte til min kunnskap!"
+        },
+        {
+          "number": 18,
+          "text": "For det er godt at du bevarer dem i ditt indre, og at de alle henger fast ved dine leber."
+        },
+        {
+          "number": 19,
+          "text": "Forat du skal sette din lit til Herren, lærer jeg dig idag, nettop dig."
+        },
+        {
+          "number": 20,
+          "text": "Har jeg ikke skrevet for dig kjernesprog med råd og kunnskap"
+        },
+        {
+          "number": 21,
+          "text": "for å kunngjøre dig det som rett er, sannhets ord, så du kan svare dem som sender dig, med sanne ord?"
+        },
+        {
+          "number": 22,
+          "text": "Røv ikke fra en fattig, fordi han er fattig, og tred ikke armingen ned i byporten!"
+        },
+        {
+          "number": 23,
+          "text": "For Herren skal føre deres sak, og han skal ta deres liv som tar noget fra dem."
+        },
+        {
+          "number": 24,
+          "text": "Hold dig ikke til venns med en som er snar til vrede, og gi dig ikke i lag med en hastig mann,"
+        },
+        {
+          "number": 25,
+          "text": "forat du ikke skal lære dig til å gå på hans veier og få satt en snare for ditt liv!"
+        },
+        {
+          "number": 26,
+          "text": "Vær ikke blandt dem som gir håndslag, dem som borger for gjeld!"
+        },
+        {
+          "number": 27,
+          "text": "Når du intet har å betale med, hvorfor skal de da ta din seng bort under dig?"
+        },
+        {
+          "number": 28,
+          "text": "Flytt ikke det gamle grenseskjell som dine fedre har satt!"
+        },
+        {
+          "number": 29,
+          "text": "Ser du en mann som er duelig i sin gjerning - han kan komme til å tjene konger; han kommer ikke til å tjene småfolk."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Når du sitter til bords med en fyrste, da skal du nøie akte på hvem du har for dig,"
+        },
+        {
+          "number": 2,
+          "text": "og sette en kniv på din strupe, hvis du er grådig."
+        },
+        {
+          "number": 3,
+          "text": "Vær ikke lysten efter hans fine retter, for det er mat som kan svike!"
+        },
+        {
+          "number": 4,
+          "text": "Gjør dig ikke møie for å bli rik, la sådan klokskap fare!"
+        },
+        {
+          "number": 5,
+          "text": "Når du vender dine øine mot rikdommen, så er den borte. For den gjør sig visselig vinger, lik en ørn som flyver mot himmelen."
+        },
+        {
+          "number": 6,
+          "text": "Et ikke den misunneliges brød, og vær ikke lysten efter hans fine mat!"
+        },
+        {
+          "number": 7,
+          "text": "For som han tenker i sin sjel, så er han; et og drikk, sier han til dig, men hans hjerte er ikke med dig."
+        },
+        {
+          "number": 8,
+          "text": "Den matbit som du har ett, den vil du spy ut, og du har spilt dine vakre ord."
+        },
+        {
+          "number": 9,
+          "text": "Tal ikke for dårens ører, for han forakter dine forstandige ord!"
+        },
+        {
+          "number": 10,
+          "text": "Flytt ikke det gamle grenseskjell, og kom ikke inn på farløses marker!"
+        },
+        {
+          "number": 11,
+          "text": "For deres løser er sterk, han skal føre deres sak mot dig."
+        },
+        {
+          "number": 12,
+          "text": "Bøi ditt hjerte til tukt og dine ører til kunnskaps ord!"
+        },
+        {
+          "number": 13,
+          "text": "La ikke den unge være uten tukt! Når du slår ham med riset, skal han ikke dø."
+        },
+        {
+          "number": 14,
+          "text": "Du slår ham med riset, men du frelser hans sjel fra dødsriket."
+        },
+        {
+          "number": 15,
+          "text": "Min sønn! Er ditt hjerte vist, så skal også mitt hjerte glede sig,"
+        },
+        {
+          "number": 16,
+          "text": "og jeg skal juble i mitt indre når dine leber taler det som rett er."
+        },
+        {
+          "number": 17,
+          "text": "La ikke ditt hjerte være nidkjært mot syndere, men alltid nidkjært for Herrens frykt!"
+        },
+        {
+          "number": 18,
+          "text": "Sannelig, det er en fremtid for dig, og ditt håp skal ikke bli til intet."
+        },
+        {
+          "number": 19,
+          "text": "Hør, min sønn, og bli vis og la ditt hjerte gå bent frem på veien!"
+        },
+        {
+          "number": 20,
+          "text": "Vær ikke blandt vindrikkere, blandt dem som fråtser i kjøtt!"
+        },
+        {
+          "number": 21,
+          "text": "For drankeren og fråtseren blir fattig, og søvn klær mannen i filler."
+        },
+        {
+          "number": 22,
+          "text": "Hør på din far, som gav dig livet, og forakt ikke din mor når hun er blitt gammel!"
+        },
+        {
+          "number": 23,
+          "text": "Kjøp sannhet og selg den ikke, kjøp visdom og tukt og forstand!"
+        },
+        {
+          "number": 24,
+          "text": "Den rettferdiges far skal juble; den som får en vis sønn, skal glede sig over ham."
+        },
+        {
+          "number": 25,
+          "text": "La din far og din mor glede sig, og la henne som fødte dig, juble!"
+        },
+        {
+          "number": 26,
+          "text": "Min sønn! Gi mig ditt hjerte, og la dine øine ha lyst til mine veier!"
+        },
+        {
+          "number": 27,
+          "text": "For skjøgen er en dyp grav, og den fremmede kvinne en trang brønn;"
+        },
+        {
+          "number": 28,
+          "text": "ja, hun ligger på lur som en røver, og hun øker tallet på de troløse blandt menneskene."
+        },
+        {
+          "number": 29,
+          "text": "Hvem roper: Akk? Hvem roper: Ve? Hvem har trette? Hvem har klage? Hvem har sår for ingen ting? Hvem har røde øine?"
+        },
+        {
+          "number": 30,
+          "text": "De som sitter lenge oppe ved vinen, de som kommer for å prøve den krydrede drikk."
+        },
+        {
+          "number": 31,
+          "text": "Se ikke til vinen, hvor rød den er, hvorledes den perler i begeret, hvor lett den går ned!"
+        },
+        {
+          "number": 32,
+          "text": "Til sist biter den som en slange og hugger som en huggorm;"
+        },
+        {
+          "number": 33,
+          "text": "dine øine vil se efter fremmede kvinner, og ditt hjerte tale forvendte ting,"
+        },
+        {
+          "number": 34,
+          "text": "og du blir lik en som sover midt ute på havet, lik en som sover i toppen av en mast."
+        },
+        {
+          "number": 35,
+          "text": "Du vil si: De banket mig, det gjorde ikke ondt; de støtte mig, jeg kjente det ikke. Når skal jeg våkne? Jeg vil se å få tak i enda mere."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vær ikke misunnelig på onde mennesker, og ha ikke lyst til å være med dem!"
+        },
+        {
+          "number": 2,
+          "text": "For deres hjerte tenker bare på å ødelegge, og deres leber taler ulykke."
+        },
+        {
+          "number": 3,
+          "text": "Ved visdom bygges et hus, og ved forstand blir det trygget,"
+        },
+        {
+          "number": 4,
+          "text": "og ved kunnskap fylles kammerne med all slags kostelig og herlig gods."
+        },
+        {
+          "number": 5,
+          "text": "En vis mann er sterk, og en kyndig mann øker sin kraft."
+        },
+        {
+          "number": 6,
+          "text": "Du skal søke veiledning når du fører krig; hvor det er mange rådgivere, er det frelse."
+        },
+        {
+          "number": 7,
+          "text": "Visdom er for høi for dåren; i byporten lukker han ikke sin munn op."
+        },
+        {
+          "number": 8,
+          "text": "Den som tenker ut onde råd, blir kalt en renkesmed."
+        },
+        {
+          "number": 9,
+          "text": "Dårskaps råd er synd, og en spotter er en vederstyggelighet blandt folk."
+        },
+        {
+          "number": 10,
+          "text": "Viser du dig motløs på trengselens dag, så er din kraft ringe."
+        },
+        {
+          "number": 11,
+          "text": "Frels dem som hentes til døden, og hold tilbake dem som føres skjelvende bort til retterstedet!"
+        },
+        {
+          "number": 12,
+          "text": "Når du sier: Se, vi visste ikke noget om det, mon da ikke han skjønner det, han som veier hjertene, og han som gir akt på din sjel, mon ikke han vet det og gjengjelder enhver efter hans gjerninger?"
+        },
+        {
+          "number": 13,
+          "text": "Et honning, min sønn, for den er god, og fin honning er søt for din gane!"
+        },
+        {
+          "number": 14,
+          "text": "Akt visdommen like så gagnlig for din sjel! Har du funnet den, så er det en fremtid for dig, og ditt håp skal ikke bli til intet."
+        },
+        {
+          "number": 15,
+          "text": "Lur ikke som en ugudelig på den rettferdiges bolig, ødelegg ikke hans hjem!"
+        },
+        {
+          "number": 16,
+          "text": "For syv ganger faller den rettferdige og står op igjen, men de ugudelige kastes over ende når ulykken kommer."
+        },
+        {
+          "number": 17,
+          "text": "Når din fiende faller, må du ikke glede dig, og når han snubler, må ikke ditt hjerte fryde sig,"
+        },
+        {
+          "number": 18,
+          "text": "forat ikke Herren skal se det og mislike det, så han vender sin vrede fra ham."
+        },
+        {
+          "number": 19,
+          "text": "La ikke din vrede optendes over de onde, bli ikke harm over de ugudelige!"
+        },
+        {
+          "number": 20,
+          "text": "For de onde har ingen fremtid, de ugudeliges lampe slukner."
+        },
+        {
+          "number": 21,
+          "text": "Frykt Herren, min sønn, og kongen! Med folk som setter sig op mot dem, må du ikke ha noget å gjøre;"
+        },
+        {
+          "number": 22,
+          "text": "for ulykken kommer brått over dem, og ødeleggelsen fra dem begge - hvem kjenner den?"
+        },
+        {
+          "number": 23,
+          "text": "Også disse ordsprog er av vismenn: Dommeren bør ikke gjøre forskjell på folk."
+        },
+        {
+          "number": 24,
+          "text": "Den som sier til den skyldige: Du er uskyldig, ham vil folkeslagene forbanne, ham vil folkene ønske ondt over;"
+        },
+        {
+          "number": 25,
+          "text": "men dem som straffer ham, skal det gå vel, og lykke og velsignelse skal komme over dem."
+        },
+        {
+          "number": 26,
+          "text": "Kyss på leber gir den som svarer med rette ord."
+        },
+        {
+          "number": 27,
+          "text": "Fullfør din gjerning der ute og gjør den ferdig på marken! Siden kan du bygge ditt hus."
+        },
+        {
+          "number": 28,
+          "text": "Vær ikke vidne mot din næste uten årsak! Eller skulde du gjøre svik med dine leber?"
+        },
+        {
+          "number": 29,
+          "text": "Si ikke: Som han har gjort mot mig, således vil jeg gjøre mot ham; jeg vil gjengjelde enhver efter hans gjerninger."
+        },
+        {
+          "number": 30,
+          "text": "Jeg kom gående forbi en lat manns mark, et uforstandig menneskes vingård,"
+        },
+        {
+          "number": 31,
+          "text": "og se, den var helt overgrodd med tistler; nesler skjulte dens bunn, og stengjerdet om den var revet ned."
+        },
+        {
+          "number": 32,
+          "text": "Og jeg, jeg blev det var, jeg gav akt på det; jeg så det og tok lærdom av det:"
+        },
+        {
+          "number": 33,
+          "text": "Sier du: La mig ennu sove litt, blunde litt, folde mine hender litt og hvile -"
+        },
+        {
+          "number": 34,
+          "text": "så kommer armoden over dig som en landstryker, og nøden som en mann med skjold."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Også dette er Salomos ordsprog, som Judas konge Esekias' menn har samlet:"
+        },
+        {
+          "number": 2,
+          "text": "Det er Guds ære å skjule en sak, men kongers ære å granske en sak."
+        },
+        {
+          "number": 3,
+          "text": "Himmelens høide, jordens dybde og kongers hjerter er uransakelige."
+        },
+        {
+          "number": 4,
+          "text": "Skill slagget fra sølvet, så får gullsmeden et kar ut av det."
+        },
+        {
+          "number": 5,
+          "text": "Før den ugudelige bort fra kongens åsyn, så blir hans trone trygget ved rettferdighet."
+        },
+        {
+          "number": 6,
+          "text": "Bryst dig ikke for kongens åsyn og still dig ikke på de stores plass!"
+        },
+        {
+          "number": 7,
+          "text": "For det er bedre de sier til dig: Kom her op, enn at du blir flyttet ned for en stormann, som du hadde sett."
+        },
+        {
+          "number": 8,
+          "text": "Gi dig ikke for hastig i strid med nogen, forat det ikke skal sies: Hvad vil du gjøre til slutt når motparten vinner saken til din skam?"
+        },
+        {
+          "number": 9,
+          "text": "Før din sak mot din motpart, men åpenbar ikke annen manns hemmelighet,"
+        },
+        {
+          "number": 10,
+          "text": "forat ikke den som hører det, skal skjelle dig ut, og ditt dårlige rykte vare ved!"
+        },
+        {
+          "number": 11,
+          "text": "Som epler av gull i skåler av sølv er et ord talt i rette tid."
+        },
+        {
+          "number": 12,
+          "text": "Som en ring av gull, som et smykke av fint gull er en vismann som taler refsende ord for et hørende øre."
+        },
+        {
+          "number": 13,
+          "text": "Som kjølende sne i høstens tid er et pålitelig sendebud for den som sender ham; han vederkveger sin herres sjel."
+        },
+        {
+          "number": 14,
+          "text": "Som skyer og vind uten regn er den mann som skryter av at han vil gi, men ikke holder ord."
+        },
+        {
+          "number": 15,
+          "text": "Ved saktmodighet blir en fyrste overtalt, og en mild tunge knuser ben."
+        },
+        {
+          "number": 16,
+          "text": "Har du funnet honning, så et av den det du trenger, forat du ikke skal bli lei av den og spy den ut!"
+        },
+        {
+          "number": 17,
+          "text": "Sett sjelden din fot i din venns hus, forat han ikke skal bli lei av dig og hate dig!"
+        },
+        {
+          "number": 18,
+          "text": "Som en hammer, et sverd, en hvass pil er en mann som fører falskt vidnesbyrd mot sin næste."
+        },
+        {
+          "number": 19,
+          "text": "Som en skjør tann og en vaklende fot er tillit til den troløse på nødens dag."
+        },
+        {
+          "number": 20,
+          "text": "Lik den som legger av sine klær på en vinterdag, lik eddik på pottaske er den som synger viser for et sorgfullt hjerte."
+        },
+        {
+          "number": 21,
+          "text": "Hungrer din fiende, så gi ham brød å ete, og tørster han, så gi ham vann å drikke!"
+        },
+        {
+          "number": 22,
+          "text": "For da sanker du gloende kull på hans hode, og Herren skal gjengjelde dig det."
+        },
+        {
+          "number": 23,
+          "text": "Nordenvind føder regn, og en tunge som hvisker i lønndom, volder sure miner."
+        },
+        {
+          "number": 24,
+          "text": "Bedre å bo i et hjørne på taket enn med trettekjær kvinne i felles hus."
+        },
+        {
+          "number": 25,
+          "text": "Som friskt vann for den trette er en god tidende fra et fjernt land."
+        },
+        {
+          "number": 26,
+          "text": "Som en grumset kilde og en utskjemt brønn er en rettferdig som gir efter for en ugudelig."
+        },
+        {
+          "number": 27,
+          "text": "Å ete for meget honning er ikke godt, og grubleres ære er tung."
+        },
+        {
+          "number": 28,
+          "text": "Som en by hvis murer er brutt ned og borte, er en mann som ikke kan styre sitt sinn."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Som sne om sommeren og som regn i høsttiden, slik høver ære for en dåre."
+        },
+        {
+          "number": 2,
+          "text": "Som spurven i fart, som svalen i flukt, slik er det med en uforskyldt forbannelse - den rammer ikke."
+        },
+        {
+          "number": 3,
+          "text": "Svepe for hesten, tømme for asenet, og kjepp for dårers rygg!"
+        },
+        {
+          "number": 4,
+          "text": "Svar ikke dåren efter hans dårskap, forat du ikke selv skal bli ham lik!"
+        },
+        {
+          "number": 5,
+          "text": "Svar dåren efter hans dårskap, forat han ikke skal bli vis i egne øine!"
+        },
+        {
+          "number": 6,
+          "text": "Den som sender bud med en dåre, han hugger føttene av sig, han må tåle slem medfart."
+        },
+        {
+          "number": 7,
+          "text": "Visne henger benene på den lamme og likeså ordsprog i munnen på dårer."
+        },
+        {
+          "number": 8,
+          "text": "Lik den som legger sten i slyngen, er den som gir en dåre ære."
+        },
+        {
+          "number": 9,
+          "text": "Som en torn i en drukken manns hånd, slik er et ordsprog i dårers munn."
+        },
+        {
+          "number": 10,
+          "text": "En mester får alt i stand, men den som leier en dåre, er lik den som leier en som går forbi."
+        },
+        {
+          "number": 11,
+          "text": "Lik hunden som vender tilbake til sitt eget spy, er en dåre som kommer igjen med sin dårskap."
+        },
+        {
+          "number": 12,
+          "text": "Ser du en mann som er vis i egne øine - det er mere håp for dåren enn for ham."
+        },
+        {
+          "number": 13,
+          "text": "Den late sier: Det er en løve på veien, en løve i gatene."
+        },
+        {
+          "number": 14,
+          "text": "Døren dreier sig på sitt hengsel, og den late snur sig på sitt leie."
+        },
+        {
+          "number": 15,
+          "text": "Den late stikker sin hånd fatet; han gider ikke føre den tilbake til sin munn."
+        },
+        {
+          "number": 16,
+          "text": "Den late er visere i egne øine enn syv som svarer med forstand."
+        },
+        {
+          "number": 17,
+          "text": "Lik den som tar fatt i øret på en hund som løper forbi, er den som lar sig egge til vrede over en trette som ikke kommer ham ved."
+        },
+        {
+          "number": 18,
+          "text": "Lik en gal mann som kaster ut brandpiler og skyter og dreper,"
+        },
+        {
+          "number": 19,
+          "text": "er en mann som har sveket sin venn og så sier: Jeg spøker jo bare!"
+        },
+        {
+          "number": 20,
+          "text": "Når det er forbi med veden, slukner ilden, og når det ingen øretuter er, stilles trette."
+        },
+        {
+          "number": 21,
+          "text": "Som kull blir til glør, og som ved nærer ild, slik voldes kiv av en trettekjær mann."
+        },
+        {
+          "number": 22,
+          "text": "En øretuters ord er som velsmakende retter, og de trenger ned i hjertets indre."
+        },
+        {
+          "number": 23,
+          "text": "Lik et lerkar som er overdratt med bly-glette, er brennende leber sammen med et ondt hjerte."
+        },
+        {
+          "number": 24,
+          "text": "Med sine leber skaper den hatefulle sig til, men i sitt indre gjemmer han svik."
+        },
+        {
+          "number": 25,
+          "text": "Når han gjør sin røst blid, så tro ham ikke! For der er syv vederstyggeligheter i hans hjerte."
+        },
+        {
+          "number": 26,
+          "text": "Den hatefulle skjuler sig i svik, men hans ondskap blir åpenbar i forsamlingen."
+        },
+        {
+          "number": 27,
+          "text": "Den som graver en grav, skal falle i den, og den som velter en sten op, på ham skal den rulle tilbake."
+        },
+        {
+          "number": 28,
+          "text": "En løgnaktig tunge hater dem som den har knust, og en falsk munn volder fall."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ros dig ikke av den dag imorgen, for du vet ikke hvad dagen vil føde!"
+        },
+        {
+          "number": 2,
+          "text": "La en annen rose dig og ikke din egen munn, en fremmed og ikke dine egne leber!"
+        },
+        {
+          "number": 3,
+          "text": "Stenen er tung, og sanden veier meget, men dårens harme er tyngre enn begge."
+        },
+        {
+          "number": 4,
+          "text": "Vrede er fryktelig, og harme er som en flom; men hvem kan stå sig mot avind?"
+        },
+        {
+          "number": 5,
+          "text": "Åpenlys irettesettelse er bedre enn kjærlighet som skjules."
+        },
+        {
+          "number": 6,
+          "text": "Trofaste er vennens slag, men troløse er fiendens kyss."
+        },
+        {
+          "number": 7,
+          "text": "Den mette vraker honning, men for den sultne er alt bittert søtt."
+        },
+        {
+          "number": 8,
+          "text": "Lik en spurv som flyver omkring borte fra sitt rede, er en mann som vanker om borte fra sitt hjem."
+        },
+        {
+          "number": 9,
+          "text": "Olje og røkelse gleder hjertet, og likeså en venns ømhet og opriktige råd."
+        },
+        {
+          "number": 10,
+          "text": "Forlat ikke din venn og din fars venn, og kom ikke i din brors hus den dag du er i nød! En granne nær ved er bedre enn en bror langt borte."
+        },
+        {
+          "number": 11,
+          "text": "Vær vis, min sønn, og gled mitt hjerte, så jeg kan svare den som håner mig!"
+        },
+        {
+          "number": 12,
+          "text": "Den kloke ser ulykken og skjuler sig; de uerfarne går videre og må bøte."
+        },
+        {
+          "number": 13,
+          "text": "Ta hans klær, han har gått i borgen for en annen, og ta pant av ham for en fremmed kvinnes skyld!"
+        },
+        {
+          "number": 14,
+          "text": "Den som velsigner sin venn med høi røst tidlig om morgenen, ham skal det regnes som en forbannelse."
+        },
+        {
+          "number": 15,
+          "text": "Et stadig takdrypp på en regndag og en trettekjær kvinne ligner hverandre."
+        },
+        {
+          "number": 16,
+          "text": "Den som holder på henne, holder på vind, og hans høire hånd griper i olje."
+        },
+        {
+          "number": 17,
+          "text": "Jern skjerpes ved jern, og en mann slipes ved å omgås andre."
+        },
+        {
+          "number": 18,
+          "text": "Den som passer sitt fikentre, får ete dets frukt, og den som tar vare på sin herre, blir æret."
+        },
+        {
+          "number": 19,
+          "text": "Likesom ansikt speiler sig mot ansikt i vannet, så finner det ene menneske sitt hjerte igjen hos det andre."
+        },
+        {
+          "number": 20,
+          "text": "Dødsriket og avgrunnen blir ikke mette, og menneskenes øine blir heller ikke mette."
+        },
+        {
+          "number": 21,
+          "text": "Digel er for sølv og ovn for gull, og en mann prøves efter det han roser."
+        },
+        {
+          "number": 22,
+          "text": "Om du støter dåren i morteren med støteren midt iblandt grynene, så viker hans dårskap allikevel ikke fra ham."
+        },
+        {
+          "number": 23,
+          "text": "Du bør nøie kjenne dine fårs utseende; ha omsorg for din buskap!"
+        },
+        {
+          "number": 24,
+          "text": "For gods varer ikke til evig tid, og en krone ikke gjennem alle slekter."
+        },
+        {
+          "number": 25,
+          "text": "Når høiet er borte, og det unge gress kommer til syne, og fjellgresset samles inn,"
+        },
+        {
+          "number": 26,
+          "text": "så har du lam til klær og bukker til å kjøpe aker for,"
+        },
+        {
+          "number": 27,
+          "text": "og du har gjetemelk nok til føde for dig og ditt hus og til livsophold for dine piker."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De ugudelige flyr uten at nogen forfølger dem; men de rettferdige er trygge som ungløven."
+        },
+        {
+          "number": 2,
+          "text": "For et lands frafalls skyld blir dets fyrster mange; men når menneskene er kloke og førstandige, så lever fyrsten lenge."
+        },
+        {
+          "number": 3,
+          "text": "En fattig mann som undertrykker småfolk, er et regn som skyller bort kornet, så der ikke blir brød."
+        },
+        {
+          "number": 4,
+          "text": "De som ikke følger loven, priser de ugudelige, men de som holder loven, strider mot dem."
+        },
+        {
+          "number": 5,
+          "text": "Onde mennesker skjønner ikke hvad rett er, men de som søker Herren, skjønner alt."
+        },
+        {
+          "number": 6,
+          "text": "Bedre er en fattig som vandrer i ustraffelighet, enn en falsk som vandrer på to veier, selv om han er rik."
+        },
+        {
+          "number": 7,
+          "text": "Den som følger loven, er en forstandig sønn; men den som holder vennskap med svirebrødre, gjør sin far skam."
+        },
+        {
+          "number": 8,
+          "text": "Den som øker sitt gods ved rente og ved overmål, han samler for den som forbarmer sig over de fattige."
+        },
+        {
+          "number": 9,
+          "text": "Om en vender sitt øre bort og ikke vil høre loven, er endog hans bønn en vederstyggelighet."
+        },
+        {
+          "number": 10,
+          "text": "Den som fører de opriktige vill på en ond vei, skal falle i sin egen grav; men de ustraffelige skal arve det som godt er."
+        },
+        {
+          "number": 11,
+          "text": "En rik mann er vis i sine egne øine; men en fattig som er forstandig, gjennemskuer ham."
+        },
+        {
+          "number": 12,
+          "text": "Når de rettferdige jubler, er alt herlighet og glede; men når de ugudelige kommer sig op, må en lete efter folk."
+        },
+        {
+          "number": 13,
+          "text": "Den som skjuler sine misgjerninger, har ingen lykke, men den som bekjenner dem og vender sig fra dem, finner miskunnhet."
+        },
+        {
+          "number": 14,
+          "text": "Salig er det menneske som alltid frykter; men den som forherder sitt hjerte, faller i ulykke."
+        },
+        {
+          "number": 15,
+          "text": "En brølende løve, en omfarende bjørn, slik er en ugudelig hersker over et fattig folk."
+        },
+        {
+          "number": 16,
+          "text": "Du fyrste som er fattig på forstand og rik på vold! De som hater urettferdig vinning, skal leve lenge."
+        },
+        {
+          "number": 17,
+          "text": "Et menneske som trykkes av blodskyld, er på flukt like til sin grav; ingen må holde på ham."
+        },
+        {
+          "number": 18,
+          "text": "Den som lever ustraffelig, skal frelses; men den falske, som vandrer på to veier, skal falle på den ene."
+        },
+        {
+          "number": 19,
+          "text": "Den som dyrker sin jord, mettes med brød; men den som jager efter tomme ting, mettes med armod."
+        },
+        {
+          "number": 20,
+          "text": "En trofast mann får rik velsignelse; men den som haster efter å bli rik, han blir ikke ustraffet."
+        },
+        {
+          "number": 21,
+          "text": "Å gjøre forskjell på folk er ikke rett, men mangen mann forsynder sig for et stykke brøds skyld."
+        },
+        {
+          "number": 22,
+          "text": "Den misunnelige haster engstelig efter gods og vet ikke at mangel skal komme over ham."
+        },
+        {
+          "number": 23,
+          "text": "Den som irettesetter et menneske, skal siden finne mere yndest enn den som gjør sin tunge glatt."
+        },
+        {
+          "number": 24,
+          "text": "Den som plyndrer sin far og sin mor og sier: Det er ingen synd, han er en stallbror til ødeleggeren."
+        },
+        {
+          "number": 25,
+          "text": "Den havesyke vekker trette; men den som setter sin lit til Herren, skal trives."
+        },
+        {
+          "number": 26,
+          "text": "Den som setter sin lit til sin forstand, han er en dåre; men den som vandrer i visdom, han blir frelst."
+        },
+        {
+          "number": 27,
+          "text": "Den som gir til den fattige, skal ikke lide mangel; men den som lukker sine øine, får mange forbannelser."
+        },
+        {
+          "number": 28,
+          "text": "Når de ugudelige kommer sig op, skjuler folk sig; men når de omkommer, blir der mange rettferdige."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "En mann som er ofte straffet og allikevel gjør sin nakke stiv, vil i et øieblikk bli sønderbrutt, og der er ingen lægedom."
+        },
+        {
+          "number": 2,
+          "text": "Når de rettferdige kommer til makten, gleder folket sig; men når en ugudelig mann hersker, sukker folket."
+        },
+        {
+          "number": 3,
+          "text": "En mann som elsker visdom, gleder sin far; men den som holder vennskap med skjøger, øder sitt gods."
+        },
+        {
+          "number": 4,
+          "text": "En konge trygger sitt land ved rett; men en mann som tar imot gaver, bryter det ned."
+        },
+        {
+          "number": 5,
+          "text": "En mann som smigrer for sin næste, setter op et garn for hans fot."
+        },
+        {
+          "number": 6,
+          "text": "En ond manns misgjerning er en snare for ham, men den rettferdige skal juble og glede sig."
+        },
+        {
+          "number": 7,
+          "text": "Den rettferdige tar sig av småfolks sak; den ugudelige skjønner sig ikke på noget."
+        },
+        {
+          "number": 8,
+          "text": "Spottere egger op byen, men vismenn stiller vreden."
+        },
+        {
+          "number": 9,
+          "text": "Når en vismann går i rette med en dåre, så blir dåren vred og ler, og der blir ingen ro."
+        },
+        {
+          "number": 10,
+          "text": "De blodtørstige hater den ustraffelige, men de rettsindige søker å redde hans liv."
+        },
+        {
+          "number": 11,
+          "text": "All sin vrede lar dåren strømme ut, men den vise holder vreden tilbake og stiller den."
+        },
+        {
+          "number": 12,
+          "text": "Når en hersker akter på løgnens ord, blir alle hans tjenere ugudelige."
+        },
+        {
+          "number": 13,
+          "text": "Den fattige og den som undertrykker ham, møtes; Herren gir begges øine deres lys."
+        },
+        {
+          "number": 14,
+          "text": "En konge som dømmer småfolk rettferdig, hans trone står fast for alle tider."
+        },
+        {
+          "number": 15,
+          "text": "Ris og tukt gir visdom; men en gutt som er overlatt til sig selv, gjør sin mor skam."
+        },
+        {
+          "number": 16,
+          "text": "Når de ugudelige får makt, får synden makt; men de rettferdige skal se deres fall med glede."
+        },
+        {
+          "number": 17,
+          "text": "Tukt din sønn, så skal han bli dig til glede og vederkvege din sjel!"
+        },
+        {
+          "number": 18,
+          "text": "Uten åpenbaring blir folket tøilesløst; men lykkelig er den som holder loven."
+        },
+        {
+          "number": 19,
+          "text": "Ved ord lar en træl sig ikke tukte; for han skjønner dem nok, men adlyder dem ikke."
+        },
+        {
+          "number": 20,
+          "text": "Har du sett en mann som forhaster sig i sine ord - det er mere håp for dåren enn for ham."
+        },
+        {
+          "number": 21,
+          "text": "Forkjæler en sin træl fra ungdommen av, så vil han til sist være sønn i huset."
+        },
+        {
+          "number": 22,
+          "text": "Den som er snar til vrede, vekker trette, og en hastig mann gjør ofte det som er ondt."
+        },
+        {
+          "number": 23,
+          "text": "Et menneskes stolthet fører ham til fall, men den ydmyke vinner ære."
+        },
+        {
+          "number": 24,
+          "text": "Den som deler med en tyv, hater sitt liv; han hører opropet til ed og gir allikevel ingen oplysning."
+        },
+        {
+          "number": 25,
+          "text": "Menneskefrykt fører i snare, men den som setter sin lit til Herren, han blir berget."
+        },
+        {
+          "number": 26,
+          "text": "Mange søker en herskers yndest, men fra Herren kommer en manns rett."
+        },
+        {
+          "number": 27,
+          "text": "En urettferdig mann er en vederstyggelighet for de rettferdige, og en vederstyggelighet for den ugudelige er den som lever rett."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Agurs, Jakes sønns ord og utsagn. Så talte mannen til Itiel, til Itiel og Ukkal:"
+        },
+        {
+          "number": 2,
+          "text": "Jeg er for ufornuftig til å kalles menneske; manns forstand har jeg ikke."
+        },
+        {
+          "number": 3,
+          "text": "Jeg har ikke lært visdom og har ikke kunnskap om den Hellige."
+        },
+        {
+          "number": 4,
+          "text": "Hvem fór op til himmelen og fór ned? Hvem samlet været i sine never? Hvem bandt vannet i et klæde? Hvem satte alle jordens grenser? Hvad er hans navn, og hvad er hans sønns navn? Du vet det jo."
+        },
+        {
+          "number": 5,
+          "text": "Alt Guds ord er rent; han er et skjold for dem som tar sin tilflukt til ham."
+        },
+        {
+          "number": 6,
+          "text": "Legg ikke noget til hans ord, forat han ikke skal straffe dig, og du stå som en løgner!"
+        },
+        {
+          "number": 7,
+          "text": "To ting beder jeg dig om, nekt mig dem ikke, før jeg dør:"
+        },
+        {
+          "number": 8,
+          "text": "La falskhet og løgnens ord være langt borte fra mig! Gi mig ikke armod og heller ikke rikdom! La mig ete mitt tilmålte brød,"
+        },
+        {
+          "number": 9,
+          "text": "forat jeg ikke når jeg blir mett, skal fornekte dig og si: Hvem er Herren? og ikke når jeg blir fattig, stjele og forbanne min Guds navn!"
+        },
+        {
+          "number": 10,
+          "text": "Baktal ikke en tjener for hans herre, forat han ikke skal banne dig, og du dra skyld over dig!"
+        },
+        {
+          "number": 11,
+          "text": "Der er en ætt som banner sin far og ikke velsigner sin mor,"
+        },
+        {
+          "number": 12,
+          "text": "en ætt som er ren i sine egne øine og dog ikke har tvettet sig for sitt eget skarn,"
+        },
+        {
+          "number": 13,
+          "text": "en ætt - hvor stolte er ikke dens øine, og dens øielokk, hvor hever de sig ikke! -"
+        },
+        {
+          "number": 14,
+          "text": "en ætt hvis tenner er sverd, og hvis jeksler er kniver, som eter arminger ut av landet og fattige ut av menneskenes tall."
+        },
+        {
+          "number": 15,
+          "text": "Blodiglen har to døtre: Gi hit! Gi hit! Der er tre som aldri blir mette, fire som aldri sier: Nok!"
+        },
+        {
+          "number": 16,
+          "text": "Det er dødsriket og det ufruktbare morsliv, jorden, som aldri blir mett av vann, og ilden, som aldri sier: Nok!"
+        },
+        {
+          "number": 17,
+          "text": "Et øie som spotter far og forakter lydighet mot mor, det skal ravnene ved bekken hakke ut, og ørneunger skal ete det."
+        },
+        {
+          "number": 18,
+          "text": "Det er tre ting som er mig for underlige, og fire som jeg ikke skjønner:"
+        },
+        {
+          "number": 19,
+          "text": "Ørnens vei på himmelen, ormens vei over stenen, skibets vei på havet og en manns vei til en jomfru."
+        },
+        {
+          "number": 20,
+          "text": "Slik bærer en horkvinne sig at: Hun eter og tørker sin munn og sier: Jeg har ikke gjort noget ondt."
+        },
+        {
+          "number": 21,
+          "text": "Under tre skjelver jorden, og under fire kan den ikke holde ut:"
+        },
+        {
+          "number": 22,
+          "text": "under en træl når han blir konge, og en dåre når han blir mett av brød,"
+        },
+        {
+          "number": 23,
+          "text": "under en forsmådd kvinne når hun blir gift, og en tjenestepike når hun arver sin frue."
+        },
+        {
+          "number": 24,
+          "text": "Det er fire som er små på jorden og allikevel overvettes vise:"
+        },
+        {
+          "number": 25,
+          "text": "Maurene er ikke noget sterkt folk, og enda lager de sin føde om sommeren;"
+        },
+        {
+          "number": 26,
+          "text": "fjellgrevlingene er ikke noget kraftig folk, og enda bygger de sitt hus i berget;"
+        },
+        {
+          "number": 27,
+          "text": "gresshoppene har ingen konge, og enda drar de alle ut, skare efter skare;"
+        },
+        {
+          "number": 28,
+          "text": "firfislen kan du gripe med hendene, og allikevel finnes den i kongelige palasser."
+        },
+        {
+          "number": 29,
+          "text": "Det er tre som skrider vakkert frem, og fire som har en vakker gang:"
+        },
+        {
+          "number": 30,
+          "text": "Løven, som er en helt blandt dyrene, og som ikke vender om for nogen,"
+        },
+        {
+          "number": 31,
+          "text": "hesten med gjord om lendene, bukken, og en konge i spissen for sitt folk."
+        },
+        {
+          "number": 32,
+          "text": "Har du vært så uforstandig at du har ophøiet dig, eller har du tenkt på ondt, da legg hånden på din munn!"
+        },
+        {
+          "number": 33,
+          "text": "For trykk på melk gir smør, og trykk på nese gir blod, og trykk på vrede gir trette."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kong Lemuels ord, den lærdom som hans mor innprentet ham:"
+        },
+        {
+          "number": 2,
+          "text": "Hvad skal jeg si til dig, min sønn, du mitt livs sønn, du mine løfters sønn?"
+        },
+        {
+          "number": 3,
+          "text": "Gi ikke kvinner din kraft, og gå ikke på veier som fører til ødeleggelse for konger!"
+        },
+        {
+          "number": 4,
+          "text": "Det sømmer sig ikke for konger, Lemuel, det sømmer sig ikke for konger å drikke vin, heller ikke for fyrster å drikke sterk drikk,"
+        },
+        {
+          "number": 5,
+          "text": "forat de ikke skal drikke og glemme hvad der er lov, og forvende retten for alle arminger."
+        },
+        {
+          "number": 6,
+          "text": "Gi sterk drikk til den som er sin undergang nær, og vin til den som er bedrøvet i sjelen!"
+        },
+        {
+          "number": 7,
+          "text": "La ham få drikke, så han glemmer sin fattigdom og ikke mere kommer sin møie i hu!"
+        },
+        {
+          "number": 8,
+          "text": "Oplat din munn for den stumme, for alle deres sak som er nær ved å forgå!"
+        },
+        {
+          "number": 9,
+          "text": "Oplat din munn, døm rettferdig og hjelp armingen og den fattige til hans rett!"
+        },
+        {
+          "number": 10,
+          "text": "En god hustru - hvem finner henne? Langt mere enn perler er hun verd."
+        },
+        {
+          "number": 11,
+          "text": "Hennes manns hjerte liter på henne, og på vinning skorter det ikke."
+        },
+        {
+          "number": 12,
+          "text": "Hun gjør ham godt og intet ondt alle sitt livs dager."
+        },
+        {
+          "number": 13,
+          "text": "Hun sørger for ull og lin, og hennes hender arbeider med lyst."
+        },
+        {
+          "number": 14,
+          "text": "Hun er som en kjøbmanns skib; hun henter sitt brød langveisfra."
+        },
+        {
+          "number": 15,
+          "text": "Hun står op mens det ennu er natt, og gir sine husfolk brød og sine piker deres arbeid for dagen."
+        },
+        {
+          "number": 16,
+          "text": "Hun tenker på en mark og får den; for det hun tjener med sine hender, planter hun en vingård."
+        },
+        {
+          "number": 17,
+          "text": "Hun omgjorder sine lender med kraft og gjør sine armer sterke."
+        },
+        {
+          "number": 18,
+          "text": "Hun merker at det går godt med hennes arbeid; hennes lampe slukkes ikke om natten."
+        },
+        {
+          "number": 19,
+          "text": "Hun legger sine hender på rokken, og hennes fingrer tar fatt på tenen."
+        },
+        {
+          "number": 20,
+          "text": "Hun åpner sin hånd for den trengende og rekker ut sine hender til den fattige."
+        },
+        {
+          "number": 21,
+          "text": "Hun frykter ikke sneen for sitt hus; for hele hennes hus er klædd i skarlagenfarvet ull."
+        },
+        {
+          "number": 22,
+          "text": "Hun gjør sig tepper; fint lin og purpur er hennes klædning."
+        },
+        {
+          "number": 23,
+          "text": "Hennes mann er kjent i byens porter, der han sitter sammen med landets eldste."
+        },
+        {
+          "number": 24,
+          "text": "Hun gjør skjorter og selger dem, og belter leverer hun til kjøbmannen."
+        },
+        {
+          "number": 25,
+          "text": "Kraft og verdighet er hennes klædebon, og hun ler av den kommende tid."
+        },
+        {
+          "number": 26,
+          "text": "Hun oplater sin munn med visdom, og kjærlig formaning er på hennes tunge."
+        },
+        {
+          "number": 27,
+          "text": "Hun holder øie med hvorledes det går til i hennes hus, og dovenskaps brød eter hun ikke."
+        },
+        {
+          "number": 28,
+          "text": "Hennes sønner står op og priser henne lykkelig; hennes mann står op og roser henne:"
+        },
+        {
+          "number": 29,
+          "text": "Det finnes mange dyktige kvinner, men du overgår dem alle."
+        },
+        {
+          "number": 30,
+          "text": "Ynde sviker, og skjønnhet forgår; en kvinne som frykter Herren, hun skal prises."
+        },
+        {
+          "number": 31,
+          "text": "Gi henne av hennes arbeids frukt, og hennes gjerninger skal prise henne i byens porter."
+        }
+      ]
+    }
+  ]
+}

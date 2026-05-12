@@ -1,0 +1,18 @@
+{
+  "slug": "web",
+  "shortName": "WEB",
+  "name": "World English Bible",
+  "language": "en",
+  "year": 2000,
+  "license": "public-domain",
+  "licenseNote": "Released into the public domain by Rainbow Missions, Inc.",
+  "attribution": null,
+  "sourceUrl": "https://worldenglish.bible/",
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31098
+  },
+  "readerUrl": "https://midvash.com/web",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

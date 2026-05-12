@@ -1,0 +1,2909 @@
+{
+  "version": "riveduta",
+  "book": "2Sam",
+  "bookId": 10,
+  "englishName": "2 Samuel",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or avvenne che, dopo la morte di Saul, Davide, tornato dalla sconfitta degli Amalekiti, si fermò due giorni a Tsiklag."
+        },
+        {
+          "number": 2,
+          "text": "Quand’ecco, il terzo giorno, arrivare dal campo, di presso a Saul, un uomo colle vesti stracciate e col capo sparso di polvere, il quale, giunto in presenza di Davide, si gettò in terra e gli si prostrò dinanzi."
+        },
+        {
+          "number": 3,
+          "text": "Davide gli chiese: “Donde vieni?” L’altro gli rispose: “Sono fuggito dal campo d’Israele”."
+        },
+        {
+          "number": 4,
+          "text": "Davide gli disse: “Che e successo? dimmelo, ti prego”. Quegli rispose: “Il popolo è fuggito dal campo di battaglia, e molti uomini son caduti e morti; e anche Saul e Gionathan, suo figliuolo, sono morti”."
+        },
+        {
+          "number": 5,
+          "text": "Davide domandò al giovine che gli raccontava queste cose: “Come sai tu che Saul e Gionathan, suo figliuolo, siano morti?”"
+        },
+        {
+          "number": 6,
+          "text": "Il giovine che gli raccontava queste cose, disse: “Mi trovavo per caso sul monte Ghilboa, e vidi Saul che si appoggiava sulla sua lancia, e i carri e i cavalieri lo stringevano da presso."
+        },
+        {
+          "number": 7,
+          "text": "Egli si voltò indietro, mi vide e mi chiamò. Io risposi: “Eccomi.”"
+        },
+        {
+          "number": 8,
+          "text": "Egli mi chiese: “Chi sei tu?” Io gli risposi: “Sono un Amalekita”."
+        },
+        {
+          "number": 9,
+          "text": "Egli mi disse: “Appressati e uccidimi, poiché m’ha preso la vertigine, ma sono sempre vivo”."
+        },
+        {
+          "number": 10,
+          "text": "Io dunque mi appressai e lo uccisi, perché sapevo che, una volta caduto, non avrebbe potuto vivere. Poi presi il diadema ch’egli aveva in capo e il braccialetto che aveva al braccio, e li ho portati qui al mio signore”."
+        },
+        {
+          "number": 11,
+          "text": "Allora Davide prese le sue vesti e le stracciò; e lo stesso fecero tutti gli uomini che erano con lui."
+        },
+        {
+          "number": 12,
+          "text": "E fecero cordoglio e piansero e digiunarono fino a sera, a motivo di Saul, di Gionathan, suo figliuolo, del popolo dell’Eterno e della casa d’Israele, perché eran caduti per la spada."
+        },
+        {
+          "number": 13,
+          "text": "Poi Davide chiese al giovine che gli avea raccontato quelle cose: “Donde sei tu?” Quegli rispose: “Son figliuolo d’uno straniero, d’un Amalekita”."
+        },
+        {
+          "number": 14,
+          "text": "E Davide gli disse: “Come mai non hai tu temuto di stender la mano per uccidere l’unto dell’Eterno?”"
+        },
+        {
+          "number": 15,
+          "text": "Poi chiamò uno dei suoi uomini, e gli disse: “Avvicinati, e gettati sopra costui!” Quegli lo colpì, ed egli morì."
+        },
+        {
+          "number": 16,
+          "text": "E Davide gli disse: “Il tuo sangue ricada sul tuo capo, poiché la tua bocca ha testimoniato contro di te quando hai detto: Io ho ucciso l’unto dell’Eterno”."
+        },
+        {
+          "number": 17,
+          "text": "Allora Davide compose questa elegia sopra Saul e sul figlio di lui Gionathan,"
+        },
+        {
+          "number": 18,
+          "text": "e ordinò che fosse insegnata ai figliuoli di Giuda. E’ l’elegia dell’arco. Si trova scritta nel libro del giusto:"
+        },
+        {
+          "number": 19,
+          "text": "“Il fiore de’ tuoi figli, o Israele, giace ucciso sulle tue alture! Come mai son caduti quei prodi?"
+        },
+        {
+          "number": 20,
+          "text": "Non ne recate la nuova a Gath, non lo pubblicate per le strade d’Askalon; le figliuole de’ Filistei ne gioirebbero, le figliuole degl’incirconcisi ne farebbero festa."
+        },
+        {
+          "number": 21,
+          "text": "O monti di Ghilboa, su voi non cada più né rugiada né pioggia, né più vi siano campi da offerte; poiché là fu gettato via lo scudo de’ prodi, lo scudo di Saul, che l’olio non ungerà più."
+        },
+        {
+          "number": 22,
+          "text": "L’arco di Gionathan non tornava mai dalla pugna senz’avere sparso sangue di uccisi, senz’aver trafitto grasso di prodi; e la spada di Saul non tornava indietro senz’avere colpito."
+        },
+        {
+          "number": 23,
+          "text": "Saul e Gionathan, tanto amati e cari, mentr’erano in vita, non sono stati divisi nella lor morte. Eran più veloci delle aquile, più forti de’ leoni!"
+        },
+        {
+          "number": 24,
+          "text": "Figliuole d’Israele, piangete su Saul, che vi rivestiva deliziosamente di scarlatto, che alle vostre vesti metteva degli ornamenti d’oro."
+        },
+        {
+          "number": 25,
+          "text": "Come mai son caduti i prodi in mezzo alla pugna? Come mai venne ucciso Gionathan sulle tue alture?"
+        },
+        {
+          "number": 26,
+          "text": "Io sono in angoscia a motivo di te, o fratel mio Gionathan; tu m’eri sommamente caro, e l’amor tuo per me era più maraviglioso che l’amore delle donne."
+        },
+        {
+          "number": 27,
+          "text": "Come mai son caduti i prodi? Come mai sono state infrante le loro armi?”"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dopo questo, Davide consultò l’Eterno, dicendo: “Debbo io salire in qualcuna delle città di Giuda?” L’Eterno gli rispose: “Sali”. Davide chiese: “Dove salirò io?” L’Eterno rispose:"
+        },
+        {
+          "number": 2,
+          "text": "“A Hebron”. Davide dunque vi salì con le sue due mogli, Abinoam la Izreelita, ed Abigail la Carmelita ch’era stata moglie di Nabal."
+        },
+        {
+          "number": 3,
+          "text": "Davide vi menò pure la gente ch’era con lui, ciascuno con la sua famiglia, e si stabilirono nelle città di Hebron."
+        },
+        {
+          "number": 4,
+          "text": "E gli uomini di Giuda vennero e unsero quivi Davide come re della casa di Giuda. Ora fu riferito a Davide ch’erano stati gli uomini di Jabes di Galaad a seppellire Saul."
+        },
+        {
+          "number": 5,
+          "text": "Allora Davide inviò de’ messi agli uomini di Jabes di Galaad, e fece dir loro: “Siate benedetti dall’Eterno, voi che avete mostrato questa benignità verso Saul, vostro signore, dandogli sepoltura!"
+        },
+        {
+          "number": 6,
+          "text": "Ed ora l’Eterno mostri a voi la sua benignità e la sua fedeltà! E anch’io vi farò del bene, giacché avete agito così."
+        },
+        {
+          "number": 7,
+          "text": "Or dunque si rafforzino le vostre mani, e siate valenti; giacché Saul è morto, ma la casa di Giuda mi ha unto come re su di essa”."
+        },
+        {
+          "number": 8,
+          "text": "Or Abner, figliuolo di Ner, capo dell’esercito di Saul, prese Jsh-Bosheth, figliuolo di Saul, e lo fece passare a Mahanaim,"
+        },
+        {
+          "number": 9,
+          "text": "e lo costituì re di Galaad, degli Ashuriti, di Izreel, d’Efraim, di Beniamino e di tutto Israele."
+        },
+        {
+          "number": 10,
+          "text": "Jsh-Bosheth, figliuolo di Saul, avea quarant’anni quando cominciò a regnare sopra Israele, e regnò due anni. Ma la casa di Giuda seguitò Davide."
+        },
+        {
+          "number": 11,
+          "text": "Il tempo che Davide regnò a Hebron sulla casa di Giuda fu di sette anni e sei mesi."
+        },
+        {
+          "number": 12,
+          "text": "Or Abner, figliuolo di Ner, e la gente di Jsh-Bosheth, figliuolo di Saul, uscirono da Mahanaim per marciare verso Gabaon."
+        },
+        {
+          "number": 13,
+          "text": "Joab, figliuolo di Tseruia e la gente di Davide si misero anch’essi in marcia. S’incontrarono presso lo stagno di Gabaon, e si fermarono gli uni da un lato dello stagno, gli altri dall’altro lato."
+        },
+        {
+          "number": 14,
+          "text": "Allora Abner disse a Joab: “Si levino dei giovani, e giochin di spada in nostra presenza!” E Joab rispose: “Si levino pure!”"
+        },
+        {
+          "number": 15,
+          "text": "Quelli dunque si levarono, e si fecero avanti in numero uguale: dodici per Beniamino e per Jsh-Bosheth, figliuolo di Saul, e dodici della gente di Davide."
+        },
+        {
+          "number": 16,
+          "text": "E ciascun d’essi, preso l’avversario per la testa, gli piantò la spada nel fianco; cosicché caddero tutt’insieme. Perciò quel luogo, ch’è presso a Gabaon, fu chiamato Helkath-Hatsurim."
+        },
+        {
+          "number": 17,
+          "text": "In quel giorno vi fu una battaglia aspra assai, nella quale Abner con la gente d’Israele fu sconfitto dalla gente di Davide."
+        },
+        {
+          "number": 18,
+          "text": "V’erano quivi i tre figliuoli di Tseruia, Joab, Abishai ed Asael; e Asael era di piè veloce come una gazzella della campagna."
+        },
+        {
+          "number": 19,
+          "text": "Asael si mise ad inseguire Abner; e, dandogli dietro, non si voltava né a destra né a sinistra."
+        },
+        {
+          "number": 20,
+          "text": "Abner, guardandosi alle spalle, disse: “Sei tu, Asael?” Quegli rispose: “Son io”."
+        },
+        {
+          "number": 21,
+          "text": "E Abner gli disse: “Volgiti a destra o a sinistra, afferra uno di que’ giovani, e prenditi le sue spoglie!” Ma Asael non volle cessare dall’inseguirlo."
+        },
+        {
+          "number": 22,
+          "text": "E Abner di bel nuovo gli disse: “Cessa dal darmi dietro! Perché obbligarmi a inchiodarti al suolo? Come potrei io poi alzar la fronte dinanzi al tuo fratello Joab?”"
+        },
+        {
+          "number": 23,
+          "text": "Ma quegli si rifiutò di cambiare strada; allora Abner con la estremità inferiore della lancia lo colpì nell’inguine, sì che la lancia lo passò da parte a parte. Asael cadde e morì in quello stesso luogo; e quanti passavano dal punto dov’egli era caduto morto, si fermavano."
+        },
+        {
+          "number": 24,
+          "text": "Ma Joab e Abishai inseguirono Abner; e il sole tramontava quando giunsero al colle di Amma, ch’è dirimpetto a Ghiah, sulla via del deserto di Gabaon."
+        },
+        {
+          "number": 25,
+          "text": "E i figliuoli di Beniamino si radunarono dietro ad Abner, formarono un corpo, e si collocarono in vetta a una collina."
+        },
+        {
+          "number": 26,
+          "text": "Allora Abner chiamò Joab e disse: “La spada divorerà ella in perpetuo? Non sai tu che alla fine ci sarà dell’amaro? Quando verrà dunque il momento che ordinerai al popolo di non dar più la caccia ai suoi fratelli?”"
+        },
+        {
+          "number": 27,
+          "text": "Joab rispose: “Com’è vero che Dio vive, se tu non avessi parlato, il popolo non avrebbe cessato d’inseguire i suoi fratelli prima di domani mattina”."
+        },
+        {
+          "number": 28,
+          "text": "Allora Joab suonò la tromba, e tutto il popolo si fermò, senza più inseguire Israele, e cessò di combattere."
+        },
+        {
+          "number": 29,
+          "text": "Abner e la sua gente camminarono tutta quella notte per la campagna, passarono il Giordano, attraversarono tutto il Bithron e giunsero a Mahanaim."
+        },
+        {
+          "number": 30,
+          "text": "Joab tornò anch’egli dall’inseguire Abner; e, radunato tutto il popolo, risultò che della gente di Davide mancavano diciannove uomini ed Asael."
+        },
+        {
+          "number": 31,
+          "text": "Ma la gente di Davide aveva ucciso trecento sessanta uomini de’ Beniaminiti e della gente di Abner."
+        },
+        {
+          "number": 32,
+          "text": "Poi portaron via Asael e lo seppellirono nel sepolcro di suo padre, a Bethlehem. Poi Joab e la sua gente camminaron tutta la notte; e il giorno spuntava, quando giunsero a Hebron."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La guerra fra la casa di Saul e la casa di Davide fu lunga. Davide si faceva sempre più forte, mentre la casa di Saul si andava indebolendo."
+        },
+        {
+          "number": 2,
+          "text": "E nacquero a Davide dei figliuoli a Hebron. Il suo primogenito fu Amnon, di Ahinoam, la Izreelita;"
+        },
+        {
+          "number": 3,
+          "text": "il secondo fu Kileab di Abigail, la Carmelita, ch’era stata moglie di Nabal; il terzo fu Absalom, figliuolo di Maaca, figliuola di Talmai re di Gheshur;"
+        },
+        {
+          "number": 4,
+          "text": "il quarto fu Adonija, figliuolo di Hagghith; il quinto fu Scefatia, figliuolo di Abital,"
+        },
+        {
+          "number": 5,
+          "text": "e il sesto fu Ithream, figliuolo di Egla, moglie di Davide. Questi nacquero a Davide in Hebron."
+        },
+        {
+          "number": 6,
+          "text": "Durante la guerra fra la casa di Saul e la casa di Davide, Abner si tenne costante dalla parte della casa di Saul."
+        },
+        {
+          "number": 7,
+          "text": "Or Saul aveva avuta una concubina per nome Ritspa, figliuola di Aia; e Jsh-Bosheth disse ad Abner: “Perché sei tu andato dalla concubina di mio padre?”"
+        },
+        {
+          "number": 8,
+          "text": "Abner si adirò forte per le parole di Jsh-Bosheth, e rispose: “Sono io una testa di cane che tenga da Giuda? Oggi io do prova di benevolenza, verso la casa di Saul tuo padre, verso i suoi fratelli ed i suoi amici, non t’ho dato nelle mani di Davide, e proprio oggi tu mi rimproveri il fallo commesso con questa donna!"
+        },
+        {
+          "number": 9,
+          "text": "Iddio tratti Abner col massimo rigore, se io non faccio per Davide tutto quello che l’Eterno gli ha promesso con giuramento,"
+        },
+        {
+          "number": 10,
+          "text": "trasferendo il regno dalla casa di Saul a quella di lui, e stabilendo il trono di Davide sopra Israele e sopra Giuda, da Dan fino a Beer-Sheba”."
+        },
+        {
+          "number": 11,
+          "text": "E Jsh-Bosheth non poté replicar verbo ad Abner, perché avea paura di lui."
+        },
+        {
+          "number": 12,
+          "text": "E Abner spedì tosto de’ messi a Davide per dirli: “A chi appartiene il paese?” e “Fa’ alleanza con me, e il mio braccio sarà al tuo servizio per volgere dalla tua parte tutto Israele”."
+        },
+        {
+          "number": 13,
+          "text": "Davide rispose: “Sta bene; io farò alleanza con te; ma una sola cosa ti chieggo, ed è che tu non ti presenti davanti a me senza menarmi Mical, figliuola di Saul, quando mi comparirai dinanzi”."
+        },
+        {
+          "number": 14,
+          "text": "E Davide spedì de’ messi a Jsh-Bosheth, figliuolo di Saul, per dirgli: “Rendimi Mical, mia moglie, la quale io mi fidanzai a prezzo di cento prepuzi di Filistei”."
+        },
+        {
+          "number": 15,
+          "text": "Jsh-Bosheth la mandò a prendere di presso al marito Paltiel, figliuolo di Lais."
+        },
+        {
+          "number": 16,
+          "text": "E il marito andò con lei, l’accompagnò piangendo, e la seguì fino a Bahurim. Poi Abner gli disse: “Va’, torna indietro!” Ed egli se ne ritornò."
+        },
+        {
+          "number": 17,
+          "text": "Intanto Abner entrò in trattative con gli anziani d’Israele, dicendo: “Già da lungo tempo state cercando d’aver Davide per vostro re;"
+        },
+        {
+          "number": 18,
+          "text": "ora è tempo d’agire; giacché l’Eterno ha parlato di lui e ha detto: Per mezzo di Davide, mio servo, io salverò il mio popolo Israele dalle mani dei Filistei e da quelle di tutti i suoi nemici”."
+        },
+        {
+          "number": 19,
+          "text": "Abner si abboccò pure con quelli di Beniamino; quindi andò anche a trovar Davide a Hebron per metterlo a parte di tutto quello che Israele e tutta la casa di Beniamino aveano deciso."
+        },
+        {
+          "number": 20,
+          "text": "Abner giunse a Hebron presso Davide, accompagnato da venti uomini; e Davide fece un convito ad Abner e agli uomini ch’erano con lui."
+        },
+        {
+          "number": 21,
+          "text": "Poi Abner disse a Davide: “Io mi leverò e andrò a radunare tutto Israele presso il re mio signore, affinché essi facciano alleanza teco e tu regni su tutto quello che il cuor tuo desidera”. Così Davide accomiatò Abner, che se ne andò in pace."
+        },
+        {
+          "number": 22,
+          "text": "Or ecco che la gente di Davide e Joab tornavano da una scorreria, portando seco gran bottino; ma Abner non era più con Davide in Hebron, poiché questi lo avea licenziato ed egli se n’era andato in pace."
+        },
+        {
+          "number": 23,
+          "text": "Quando Joab e tutta la gente ch’era con lui furono arrivati, qualcuno riferì la nuova a Joab, dicendo: “Abner, figliuolo di Ner, è venuto dal re, il quale lo ha licenziato, ed egli se n’è andato in pace”."
+        },
+        {
+          "number": 24,
+          "text": "Allora Joab si recò dal re, e gli disse “Che hai tu fatto? Ecco, Abner era venuto da te; perché l’hai tu licenziato, sì ch’egli ha potuto andarsene liberamente?"
+        },
+        {
+          "number": 25,
+          "text": "Tu sai chi sia Abner, figliuolo di Ner! egli è venuto per ingannarti, per spiare i tuoi movimenti, e per sapere tutto quello che tu fai”."
+        },
+        {
+          "number": 26,
+          "text": "E Joab, uscito che fu da Davide, spedì dei messi dietro ad Abner, i quali lo fecero ritornare dalla cisterna di Siva, senza che Davide ne sapesse nulla."
+        },
+        {
+          "number": 27,
+          "text": "E quando Abner fu tornato a Hebron, Joab lo trasse in disparte nello spazio fra le due porte, come volendogli parlare in segreto, e quivi lo colpì nell’inguine, sì ch’egli ne morì; e ciò, per vendicare il sangue di Asael suo fratello."
+        },
+        {
+          "number": 28,
+          "text": "Davide, avendo poi udito il fatto, disse: “Io e il mio regno siamo in perpetuo innocenti, nel cospetto dell’Eterno, del sangue di Abner, figliuolo di Ner;"
+        },
+        {
+          "number": 29,
+          "text": "ricada esso sul capo di Joab e su tutta la casa di suo padre, e non manchi mai nella casa di Joab chi patisca di gonorrea o di piaga di lebbra o debba appoggiarsi al bastone o perisca di spada o sia senza pane!”"
+        },
+        {
+          "number": 30,
+          "text": "Così Joab ed Abishai, suo fratello, uccisero Abner, perché questi aveva ucciso Asael loro fratello, a Gabaon, in battaglia."
+        },
+        {
+          "number": 31,
+          "text": "Davide disse a Joab e a tutto il popolo ch’era con lui: “Stracciatevi le vesti, cingetevi di sacco, e fate cordoglio per la morte di Abner!” E il re Davide andò dietro alla bara."
+        },
+        {
+          "number": 32,
+          "text": "Abner fu seppellito a Hebron, e il re alzò la voce e pianse sulla tomba di Abner; e pianse tutto il popolo."
+        },
+        {
+          "number": 33,
+          "text": "E il re fece un canto funebre su Abner, e disse: “Doveva Abner morire come muore uno stolto?"
+        },
+        {
+          "number": 34,
+          "text": "Le tue mani non eran legate, né i tuoi piedi erano stretti nei ceppi! Sei caduto come si cade per mano di scellerati”."
+        },
+        {
+          "number": 35,
+          "text": "E tutto il popolo ricominciò a piangere Abner; poi s’accostò a Davide per fargli prender qualche cibo mentr’era ancora giorno; ma Davide giurò dicendo: “Mi tratti Iddio con tutto il suo rigore se assaggerò pane o alcun’altra cosa prima che tramonti il sole!”"
+        },
+        {
+          "number": 36,
+          "text": "E tutto il popolo capì e approvò la cosa; tutto quello che il re fece fu approvato da tutto il popolo."
+        },
+        {
+          "number": 37,
+          "text": "Così tutto il popolo e tutto Israele riconobbero in quel giorno che il re non entrava per nulla nell’uccisione di Abner, figliuolo di Ner."
+        },
+        {
+          "number": 38,
+          "text": "E il re disse ai suoi servi: “Non sapete voi che un principe ed un grand’uomo è caduto oggi in Israele?"
+        },
+        {
+          "number": 39,
+          "text": "Quanto a me, benché unto re, sono tuttora debole; mentre questa gente, i figliuoli di Tseruia, son troppo forti per me. Renda l’Eterno a chi fa il male secondo la malvagità di lui”."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quando Jsh-Bosheth, figliuolo di Saul, ebbe udito che Abner era morto a Hebron, gli caddero le braccia, e tutto Israele fu nello sgomento."
+        },
+        {
+          "number": 2,
+          "text": "Jsh-Bosheth, figliuolo di Saul, avea due uomini che erano capitani di schiere; il nome dell’uno era Baana, e il nome dell’altro Recab; erano figliuoli di Rimmon di Beeroth, della tribù di Beniamino, perché anche Beeroth è considerata come appartenente a Beniamino,"
+        },
+        {
+          "number": 3,
+          "text": "benché i Beerothiti si siano rifugiati a Ghitthaim, dove sono rimasti fino al dì d’oggi."
+        },
+        {
+          "number": 4,
+          "text": "(Or Gionathan, figliuolo di Saul, aveva un figlio storpiato de’ piedi, il quale era in età di cinque anni quando arrivò da Izreel la nuova della morte di Saul e di Gionathan. La balia lo prese e fuggì; e in questa sua fuga precipitosa avvenne che il bimbo fece una caduta e rimase zoppo. Il suo nome era Mefibosheth)."
+        },
+        {
+          "number": 5,
+          "text": "I figliuoli di Rimmon Beerothita, Recab e Baana, andaron dunque e si recarono, sul più caldo del giorno, in casa di Jsh-Bosheth, il quale stava prendendo il suo riposo del meriggio."
+        },
+        {
+          "number": 6,
+          "text": "Penetrarono fino in mezzo alla casa, come volendo prendere del grano; lo colpirono nell’inguine, e si dettero alla fuga."
+        },
+        {
+          "number": 7,
+          "text": "Entrarono, dico, in casa, mentre Jsh-Bosheth giaceva sul letto nella sua camera, lo colpirono, l’uccisero, lo decapitarono; e, presane la testa, camminarono tutta la notte attraverso la pianura."
+        },
+        {
+          "number": 8,
+          "text": "E portarono la testa di Jsh-Bosheth a Davide a Hebron, e dissero al re: “Ecco la testa di Jsh-Bosheth, figliuolo di Saul, tuo nemico, il quale cercava di toglierti la vita; l’Eterno ha oggi fatte le vendette dei re, mio signore, sopra Saul e sopra la sua progenie”."
+        },
+        {
+          "number": 9,
+          "text": "Ma Davide rispose a Recab ed a Baana suo fratello, figliuoli di Rimmon Beerothita, e disse loro: “Com’è vero che vive l’Eterno il quale ha liberato l’anima mia da ogni distretta,"
+        },
+        {
+          "number": 10,
+          "text": "quando venne colui che mi portò la nuova della morte di Saul, pensandosi di portarmi una buona notizia, io lo feci prendere e uccidere a Tsiklag, per pagarlo della sua buona notizia;"
+        },
+        {
+          "number": 11,
+          "text": "quanto più adesso che uomini scellerati hanno ucciso un innocente in casa sua, sul suo letto, non dovrò io ridomandare a voi ragion del suo sangue sparso dalle vostre mani e sterminarvi di sulla terra?”"
+        },
+        {
+          "number": 12,
+          "text": "E Davide diede l’ordine ai suoi militi, i quali li uccisero; troncaron loro le mani ed i piedi, poi li appiccarono presso lo stagno di Hebron. Presero quindi la testa di Jsh-Bosheth e la seppellirono nel sepolcro di Abner a Hebron."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Allora tutte le tribù d’Israele vennero a trovare Davide a Hebron, e gli dissero: “Ecco, noi siamo tue ossa e tua carne."
+        },
+        {
+          "number": 2,
+          "text": "Già in passato, quando Saul regnava su noi, eri tu quel che guidavi e riconducevi Israele; e l’Eterno t’ha detto: Tu pascerai il mio popolo d’Israele, tu sarai il principe d’Israele”."
+        },
+        {
+          "number": 3,
+          "text": "Così tutti gli anziani d’Israele vennero dal re a Hebron, e il re Davide fece alleanza con loro a Hebron in presenza dell’Eterno; ed essi unsero Davide come re d’Israele."
+        },
+        {
+          "number": 4,
+          "text": "Davide avea trent’anni quando cominciò a regnare, e regnò quarant’anni."
+        },
+        {
+          "number": 5,
+          "text": "A Hebron regnò su Giuda sette anni e sei mesi; e a Gerusalemme regnò trentatre anni su tutto Israele e Giuda."
+        },
+        {
+          "number": 6,
+          "text": "Or il re con la sua gente si mosse verso Gerusalemme contro i Gebusei, che abitavano quel paese. Questi dissero a Davide: “Tu non entrerai qua; giacché i ciechi e gli zoppi te ne respingeranno!”; volendo dire: “Davide non c’entrerà mai”."
+        },
+        {
+          "number": 7,
+          "text": "Ma Davide prese la fortezza di Sion, che è la città di Davide."
+        },
+        {
+          "number": 8,
+          "text": "E Davide disse in quel giorno: “Chiunque batterà i Gebusei giungendo fino al canale, e respingerà gli zoppi ed i ciechi che sono odiati da Davide…” Donde il detto: “Il cieco e lo zoppo non entreranno nella Casa”."
+        },
+        {
+          "number": 9,
+          "text": "E Davide abitò nella fortezza e la chiamò “la città di Davide”; e vi fece attorno delle costruzioni cominciando da Millo, e nell’interno."
+        },
+        {
+          "number": 10,
+          "text": "Davide andava diventando sempre più grande, e l’Eterno, l’Iddio degli eserciti, era con lui."
+        },
+        {
+          "number": 11,
+          "text": "E Hiram, re di Tiro, inviò a Davide de’ messi, del legname di cedro, dei legnaiuoli e dei muratori, i quali edificarono una casa a Davide."
+        },
+        {
+          "number": 12,
+          "text": "Allora Davide riconobbe che l’Eterno lo stabiliva saldamente come re d’Israele e rendeva grande il regno di lui per amore del suo popolo d’Israele."
+        },
+        {
+          "number": 13,
+          "text": "Davide si prese ancora delle concubine e delle mogli di Gerusalemme quando fu quivi giunto da Hebron, e gli nacquero altri figliuoli e altre figliuole."
+        },
+        {
+          "number": 14,
+          "text": "Questi sono i nomi dei figliuoli che gli nacquero a Gerusalemme: Shammua, Shobab, Nathan, Salomone,"
+        },
+        {
+          "number": 15,
+          "text": "Ibhar, Elishua, Nefeg, Jafia,"
+        },
+        {
+          "number": 16,
+          "text": "Elishama, Eliada, Elifelet."
+        },
+        {
+          "number": 17,
+          "text": "Or quando i Filistei ebbero udito che Davide era stato unto re d’Israele, saliron tutti in cerca di lui. E Davide, saputolo, scese alla fortezza."
+        },
+        {
+          "number": 18,
+          "text": "I Filistei giunsero e si sparsero nella valle dei Refaim."
+        },
+        {
+          "number": 19,
+          "text": "Allora Davide consultò l’Eterno, dicendo: “Salirò io contro i Filistei? Me li darai tu nelle mani?” L’Eterno rispose a Davide: “Sali; poiché certamente io darò i Filistei nelle tue mani”."
+        },
+        {
+          "number": 20,
+          "text": "Davide dunque si portò a Baal-Peratsim, dove li sconfisse, e disse: “L’Eterno ha disperso i miei nemici dinanzi a me come si disperge l’acqua”. Perciò pose nome a quel luogo: Baal-Peratsim."
+        },
+        {
+          "number": 21,
+          "text": "I Filistei lasciaron quivi i loro idoli, e Davide e la sua gente li portaron via."
+        },
+        {
+          "number": 22,
+          "text": "I Filistei saliron poi di nuovo e si sparsero nella valle dei Refaim."
+        },
+        {
+          "number": 23,
+          "text": "E Davide consultò l’Eterno, il quale disse: “Non salire; gira alle loro spalle, e giungerai su loro dirimpetto ai Gelsi."
+        },
+        {
+          "number": 24,
+          "text": "E quando udrai un rumor di passi tra le vette de’ gelsi, lanciati subito all’attacco, perché allora l’Eterno marcerà alla tua testa per sconfiggere l’esercito dei Filistei”."
+        },
+        {
+          "number": 25,
+          "text": "Davide fece così come l’Eterno gli avea comandato, e sconfisse i Filistei da Gheba fino a Ghezer."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Davide radunò di nuovo tutti gli uomini scelti d’Israele, in numero di trentamila."
+        },
+        {
+          "number": 2,
+          "text": "Poi si levò, e con tutto il popolo ch’era con lui, partì da Baalé di Giuda per trasportare di là l’arca di Dio, sulla quale è invocato il Nome, il nome dell’Eterno degli eserciti, che siede sovr’essa fra i cherubini."
+        },
+        {
+          "number": 3,
+          "text": "E posero l’arca di Dio sopra un carro nuovo, e la levarono dalla casa di Abinadab ch’era sul colle; e Uzza e Ahio, figliuoli di Abinadab, conducevano il carro nuovo"
+        },
+        {
+          "number": 4,
+          "text": "con l’arca di Dio, e Ahio andava innanzi all’arca."
+        },
+        {
+          "number": 5,
+          "text": "E Davide e tutta la casa d’Israele sonavano dinanzi all’Eterno ogni sorta di strumenti di legno di cipresso, e cetre, saltèri, timpani, sistri e cembali."
+        },
+        {
+          "number": 6,
+          "text": "Or come furon giunti all’aia di Nacon, Uzza stese la mano verso l’arca di Dio e la tenne, perché i buoi la facevano piegare."
+        },
+        {
+          "number": 7,
+          "text": "E l’ira dell’Eterno s’accese contro Uzza; Iddio lo colpì quivi per la sua temerità, ed ei morì in quel luogo presso l’arca di Dio."
+        },
+        {
+          "number": 8,
+          "text": "Davide si attristò perché l’Eterno avea fatto una breccia nel popolo, colpendo Uzza; e quel luogo è stato chiamato Perets-Uzza fino al dì d’oggi."
+        },
+        {
+          "number": 9,
+          "text": "E Davide, in quel giorno, ebbe paura dell’Eterno, e disse: “Come verrebbe ella da me l’arca dell’Eterno?”"
+        },
+        {
+          "number": 10,
+          "text": "E Davide non volle ritirare l’arca dell’Eterno presso di sé nella città di Davide, ma la fece portare in casa di Obed-Edom di Gath."
+        },
+        {
+          "number": 11,
+          "text": "E l’arca dell’Eterno rimase tre mesi in casa di Obed-Edom di Gath, e l’Eterno benedisse Obed-Edom e tutta la sua casa."
+        },
+        {
+          "number": 12,
+          "text": "Allora fu detto al re Davide: “L’Eterno ha benedetto la casa di Obed-Edom e tutto quel che gli appartiene, a motivo dell’arca di Dio”. Allora Davide andò e trasportò l’arca di Dio dalla casa di Obed-Edom su nella città di Davide, con gaudio."
+        },
+        {
+          "number": 13,
+          "text": "Quando quelli che portavan l’arca dell’Eterno avean fatto sei passi, s’immolava un bue ed un vitello grasso."
+        },
+        {
+          "number": 14,
+          "text": "E Davide danzava a tutta forza davanti all’Eterno, e s’era cinto di un efod di lino."
+        },
+        {
+          "number": 15,
+          "text": "Così Davide e tutta la casa d’Israele trasportarono su l’arca dell’Eterno con giubilo e a suon di tromba."
+        },
+        {
+          "number": 16,
+          "text": "Or avvenne che come l’arca dell’Eterno entrava nella città di Davide, Mical, figliuola di Saul, guardò dalla finestra; e vedendo il re Davide che saltava e danzava dinanzi all’Eterno, lo disprezzò in cuor suo."
+        },
+        {
+          "number": 17,
+          "text": "Portaron dunque l’arca dell’Eterno, e la collocarono al suo posto, in mezzo alla tenda che Davide avea rizzato per lei; e Davide offrì olocausti e sacrifizi di azioni di grazie dinanzi all’Eterno."
+        },
+        {
+          "number": 18,
+          "text": "Quand’ebbe finito d’offrire gli olocausti e i sacrifizi di azioni di grazie, Davide benedisse il popolo nel nome dell’Eterno degli eserciti,"
+        },
+        {
+          "number": 19,
+          "text": "e distribuì a tutto il popolo, a tutta la moltitudine d’Israele, uomini e donne, un pane per uno, una porzione di carne e una schiacciata di fichi secchi. Poi tutto il popolo se ne andò, ciascuno a casa sua."
+        },
+        {
+          "number": 20,
+          "text": "E come Davide, se ne tornava per benedire la sua famiglia, Mical, figliuola di Saul, gli uscì incontro e gli disse: “Bell’onore s’è fatto oggi il re d’Israele a scoprirsi davanti agli occhi delle serve de’ suoi servi, come si scoprirebbe un uomo da nulla!”"
+        },
+        {
+          "number": 21,
+          "text": "Davide rispose a Mical: “L’ho fatto dinanzi all’Eterno che m’ha scelto invece di tuo padre e di tutta la sua casa per stabilirmi principe d’Israele, del popolo dell’Eterno; sì, dinanzi all’Eterno ho fatto festa."
+        },
+        {
+          "number": 22,
+          "text": "Anzi mi abbasserò anche più di così, e mi renderò abbietto agli occhi miei; eppure, da quelle serve di cui tu parli, proprio da loro, io sarò onorato!”"
+        },
+        {
+          "number": 23,
+          "text": "E Mical, figlia di Saul, non ebbe figliuoli fino al giorno della sua morte."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or avvenne che il re, quando si fu stabilito nella sua casa e l’Eterno gli ebbe dato riposo liberandolo da tutti i suoi nemici d’ogn’intorno,"
+        },
+        {
+          "number": 2,
+          "text": "disse al profeta Nathan: “Vedi, io abito in una casa di cedro, e l’arca di Dio sta sotto una tenda”."
+        },
+        {
+          "number": 3,
+          "text": "Nathan rispose al re: “Va’, fa’ tutto quello che hai in cuore di fare, poiché l’Eterno e teco”."
+        },
+        {
+          "number": 4,
+          "text": "Ma quella stessa notte la parola dell’Eterno fu diretta a Nathan in questo modo:"
+        },
+        {
+          "number": 5,
+          "text": "“Va’ e di’ al mio servo Davide: Così dice l’Eterno: Saresti tu quegli che mi edificherebbe una casa perch’io vi dimori?"
+        },
+        {
+          "number": 6,
+          "text": "Ma io non ho abitato in una casa, dal giorno che trassi i figliuoli d’Israele dall’Egitto, fino al dì d’oggi; ho viaggiato sotto una tenda e in un tabernacolo."
+        },
+        {
+          "number": 7,
+          "text": "Dovunque sono andato, or qua, or là, in mezzo a tutti i figliuoli d’Israele, ho io forse mai parlato ad alcuna delle tribù a cui avevo comandato di pascere il mio popolo d’Israele, dicendole: Perché non mi edificate una casa di cedro?"
+        },
+        {
+          "number": 8,
+          "text": "Ora dunque parlerai così al mio servo Davide: Così dice l’Eterno degli eserciti: Io ti presi dall’ovile, di dietro alle pecore, perché tu fossi il principe d’Israele, mio popolo;"
+        },
+        {
+          "number": 9,
+          "text": "e sono stato teco dovunque sei andato, ho sterminato dinanzi a te tutti i tuoi nemici, e ho reso il tuo nome grande come quello dei grandi che son sulla terra;"
+        },
+        {
+          "number": 10,
+          "text": "ho assegnato un posto ad Israele, mio popolo, e ve l’ho piantato perché abiti in casa sua e non sia più agitato, né seguitino gl’iniqui ad opprimerlo come prima,"
+        },
+        {
+          "number": 11,
+          "text": "e fin dal tempo in cui avevo stabilito dei giudici sul mio popolo d’Israele; e t’ho dato riposo liberandoti da tutti i tuoi nemici. Di più, l’Eterno t’annunzia che ti fonderà una casa."
+        },
+        {
+          "number": 12,
+          "text": "Quando i tuoi giorni saranno compiuti e tu giacerai coi tuoi padri, io innalzerò al trono dopo di te la tua progenie, il figlio che sarà uscito dalle tue viscere, e stabilirò saldamente il suo regno."
+        },
+        {
+          "number": 13,
+          "text": "Egli edificherà una casa al mio nome, ed io renderò stabile in perpetuo il trono del suo regno."
+        },
+        {
+          "number": 14,
+          "text": "Io sarò per lui un padre, ed egli mi sarà figliuolo; e, se fa del male, lo castigherò con verga d’uomo e con colpi da figli d’uomini,"
+        },
+        {
+          "number": 15,
+          "text": "ma la mia grazia non si dipartirà da lui, come s’è dipartita da Saul, ch’io ho rimosso d’innanzi a te."
+        },
+        {
+          "number": 16,
+          "text": "E la tua casa e il tuo regno saranno saldi per sempre, dinanzi a te, e il tuo trono sarà reso stabile in perpetuo”."
+        },
+        {
+          "number": 17,
+          "text": "Nathan parlò a Davide, secondo tutte queste parole e secondo tutta questa visione."
+        },
+        {
+          "number": 18,
+          "text": "Allora il re Davide andò a presentarsi davanti all’Eterno e disse: “Chi son io, o Signore, o Eterno, e che è la mia casa, che tu m’abbia fatto arrivare fino a questo punto?"
+        },
+        {
+          "number": 19,
+          "text": "E questo è parso ancora poca cosa agli occhi tuoi, o Signore, o Eterno; e tu hai parlato anche della casa del tuo servo per un lontano avvenire, sebbene questa tua legge, o Signore, o Eterno, si riferisca a degli uomini."
+        },
+        {
+          "number": 20,
+          "text": "Che potrebbe Davide dirti di più? Tu conosci il tuo servo, Signore, Eterno!"
+        },
+        {
+          "number": 21,
+          "text": "Per amor della tua parola e seguendo il cuor tuo, hai compiuto tutte queste grandi cose per rivelarle al tuo servo."
+        },
+        {
+          "number": 22,
+          "text": "Tu sei davvero grande, o Signore, o Eterno! Nessuno è pari a te, e non v’è altro Dio fuori di te, secondo tutto quello che abbiamo udito coi nostri orecchi."
+        },
+        {
+          "number": 23,
+          "text": "E qual popolo è come il tuo popolo, come Israele, l’unica nazione sulla terra che Dio sia venuto a redimere per formare il suo popolo, e per farsi un nome, e per compiere a suo pro cose grandi e tremende, cacciando d’innanzi al tuo popolo che ti sei redento dall’Egitto, delle nazioni coi loro dèi?"
+        },
+        {
+          "number": 24,
+          "text": "Tu hai stabilito il tuo popolo d’Israele per esser tuo popolo in perpetuo; e tu, o Eterno, sei divenuto il suo Dio."
+        },
+        {
+          "number": 25,
+          "text": "Or dunque, o Signore, o Eterno, la parola che hai pronunziata riguardo al tuo servo ed alla sua casa mantienila per sempre, e fa’ come hai detto."
+        },
+        {
+          "number": 26,
+          "text": "E il tuo nome sia magnificato in perpetuo, e si dica: L’Eterno degli eserciti è l’Iddio d’Israele! E la casa del tuo servo Davide sia stabile dinanzi a te!"
+        },
+        {
+          "number": 27,
+          "text": "Poiché tu, o Eterno degli eserciti, Dio d’Israele, hai fatto una rivelazione al tuo servo e gli hai detto: Io ti edificherò una casa! Perciò il tuo servo ha preso l’ardire di rivolgerti questa preghiera."
+        },
+        {
+          "number": 28,
+          "text": "Ed ora, o Signore, o Eterno, tu sei Dio, le tue parole sono verità, e hai promesso questo bene al tuo servo;"
+        },
+        {
+          "number": 29,
+          "text": "piacciati dunque benedire ora la casa del tuo servo, affinch’ella sussista in perpetuo dinanzi a te! Poiché tu, o Signore, o Eterno, sei quegli che ha parlato, e per la tua benedizione la casa del tuo servo sarà benedetta in perpetuo!”"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dopo queste cose, Davide sconfisse i Filistei e li umiliò, e tolse di mano ai Filistei la supremazia che aveano."
+        },
+        {
+          "number": 2,
+          "text": "Sconfisse pure i Moabiti: e fattili giacere per terra, li misurò con la corda; ne misurò due corde per farli mettere a morte, e la lunghezza d’una corda per lasciarli in vita. E i Moabiti divennero sudditi e tributari di Davide."
+        },
+        {
+          "number": 3,
+          "text": "Davide sconfisse anche Hadadezer, figliuolo di Rehob, re di Tsoba, mentr’egli andava a ristabilire il suo dominio sul fiume Eufrate."
+        },
+        {
+          "number": 4,
+          "text": "Davide gli prese millesettecento cavalieri e ventimila pedoni, e tagliò i garetti a tutti i cavalli da tiro, ma riserbò dei cavalli per cento carri."
+        },
+        {
+          "number": 5,
+          "text": "E quando i Siri di Damasco vennero per soccorrere Hadadezer, re di Tsoba, Davide ne uccise ventiduemila."
+        },
+        {
+          "number": 6,
+          "text": "Poi Davide mise delle guarnigioni nella Siria di Damasco, e i Siri divennero sudditi e tributari di Davide; e l’Eterno rendea vittorioso Davide dovunque egli andava."
+        },
+        {
+          "number": 7,
+          "text": "E Davide tolse ai servi di Hadadezer i loro scudi d’oro e li portò a Gerusalemme."
+        },
+        {
+          "number": 8,
+          "text": "Il re Davide prese anche una grande quantità di rame a Betah e a Berothai, città di Hadadezer."
+        },
+        {
+          "number": 9,
+          "text": "Or quando Toi, re di Hamath, ebbe udito che Davide avea sconfitto tutto l’esercito di Hadadezer,"
+        },
+        {
+          "number": 10,
+          "text": "mandò al re Davide Joram, suo figliuolo, per salutarlo e per benedirlo perché avea mosso guerra a Hadadezer e l’avea sconfitto (Hadadezer era sempre in guerra con Toi); e Joram portò seco de’ vasi d’argento, dei vasi d’oro e de’ vasi di rame."
+        },
+        {
+          "number": 11,
+          "text": "E il re Davide consacrò anche quelli all’Eterno, come avea già consacrato l’argento e l’oro tolto alle nazioni che avea soggiogate:"
+        },
+        {
+          "number": 12,
+          "text": "ai Siri, ai Moabiti, agli Ammoniti, ai Filistei, agli Amalekiti, e come avea fatto del bottino di Hadadezer, figliuolo di Rehob, re di Tsoba."
+        },
+        {
+          "number": 13,
+          "text": "Al ritorno dalla sua vittoria sui Siri, Davide s’acquistò ancor fama, sconfiggendo nella valle del Sale diciottomila Idumei."
+        },
+        {
+          "number": 14,
+          "text": "E pose delle guarnigioni in Idumea; ne mise per tutta l’Idumea, e tutti gli Edomiti divennero sudditi di Davide; e l’Eterno rendea vittorioso Davide dovunque egli andava."
+        },
+        {
+          "number": 15,
+          "text": "Davide regnò su tutto Israele, facendo ragione e amministrando la giustizia a tutto il suo popolo."
+        },
+        {
+          "number": 16,
+          "text": "E Joab, figliuolo di Tseruia, comandava l’esercito; Giosafat, figliuolo di Ahilud, era cancelliere;"
+        },
+        {
+          "number": 17,
+          "text": "Tsadok, figliuolo di Ahitub, e Ahimelec, figliuolo di Abiathar, erano sacerdoti; Seraia era segretario;"
+        },
+        {
+          "number": 18,
+          "text": "Benaia, figliuolo di Jehoiada, era capo dei Kerethei e dei Pelethei, e i figliuoli di Davide erano ministri di stato."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E Davide disse: “Evvi egli rimasto alcuno della casa di Saul, a cui io possa far del bene per amore di Gionathan?”"
+        },
+        {
+          "number": 2,
+          "text": "Or v’era un servo della casa di Saul, per nome Tsiba, che fu fatto venire presso Davide. Il re gli chiese: “Sei tu Tsiba?” Quegli rispose: “Servo tuo”."
+        },
+        {
+          "number": 3,
+          "text": "Il re gli disse: “V’è egli più alcuno della casa di Saul, a cui io possa far del bene per amor di Dio?” Tsiba rispose al re: “V’è ancora un figliuolo di Gionathan, storpiato dei piedi”."
+        },
+        {
+          "number": 4,
+          "text": "Il re gli disse: “Dov’è egli?” Tsiba rispose al re: “E’ in casa di Makir, figliuolo di Ammiel, a Lodebar”."
+        },
+        {
+          "number": 5,
+          "text": "Allora il re lo mandò a prendere in casa di Makir, figliuolo di Ammiel, a Lodebar."
+        },
+        {
+          "number": 6,
+          "text": "E Mefibosheth, figliuolo di Gionathan, figliuolo di Saul venne da Davide, si gettò con la faccia a terra e si prostrò dinanzi a lui. Davide disse: “Mefibosheth!” Ed egli rispose:"
+        },
+        {
+          "number": 7,
+          "text": "“Ecco il tuo servo!” Davide gli disse: “Non temere, perché io non mancherò di trattarti con bontà per amor di Gionathan tuo padre, e ti renderò tutte le terre di Saul tuo avolo, e tu mangerai sempre alla mia mensa”."
+        },
+        {
+          "number": 8,
+          "text": "Mefibosheth s’inchinò profondamente, e disse: “Che cos’è il tuo servo, che tu ti degni guardare un can morto come son io?”"
+        },
+        {
+          "number": 9,
+          "text": "Allora il re chiamò Tsiba, servo di Saul, e gli disse: “Tutto quello che apparteneva a Saul e a tutta la sua casa io lo do al figliuolo del tuo signore."
+        },
+        {
+          "number": 10,
+          "text": "Tu dunque, coi tuoi figliuoli e coi tuoi servi, lavoragli le terre e fa’ le raccolte, affinché il figliuolo del tuo signore abbia del pane da mangiare; e Mefibosheth, figliuolo del tuo signore, mangerà sempre alla mia mensa”. Or Tsiba avea quindici figliuoli e venti servi."
+        },
+        {
+          "number": 11,
+          "text": "Tsiba disse al re: “Il tuo servo farà tutto quello che il re mio signore ordina al suo servo”. E Mefibosheth mangiò alla mensa di Davide come uno dei figliuoli del re."
+        },
+        {
+          "number": 12,
+          "text": "Or Mefibosheth avea un figliuoletto per nome Mica; e tutti quelli che stavano in casa di Tsiba erano servi di Mefibosheth."
+        },
+        {
+          "number": 13,
+          "text": "Mefibosheth dimorava a Gerusalemme perché mangiava sempre alla mensa del re. Era zoppo d’ambedue i piedi."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or avvenne, dopo queste cose, che il re dei figliuoli di Ammon morì, e Hanun, suo figliuolo, regnò in luogo di lui."
+        },
+        {
+          "number": 2,
+          "text": "Davide disse: “Io voglio usare verso Hanun, figliuolo di Nahash, la benevolenza che suo padre usò verso di me”. E Davide mandò i suoi servi a consolarlo della perdita del padre. Ma quando i servi di Davide furon giunti nel paese dei figliuoli di Ammon,"
+        },
+        {
+          "number": 3,
+          "text": "i principi de’ figliuoli di Ammon dissero ad Hanun, loro signore: “Credi tu che Davide t’abbia mandato dei consolatori per onorar tuo padre? Non ha egli piuttosto mandato da te i suoi servi per esplorare la città, per spiarla e distruggerla?”"
+        },
+        {
+          "number": 4,
+          "text": "Allora Hanun prese i servi di Davide, fece lor radere la metà della barba e tagliare la metà delle vesti fino alle natiche, poi li rimandò."
+        },
+        {
+          "number": 5,
+          "text": "Quando fu informato della cosa, Davide mandò gente ad incontrarli, perché quegli uomini erano oltremodo confusi. E il re fece dir loro: “Restate a Gerico finché vi sia ricresciuta la barba, poi tornerete”."
+        },
+        {
+          "number": 6,
+          "text": "I figliuoli di Ammon, vedendo che s’erano attirato l’odio di Davide, mandarono a prendere al loro soldo ventimila fanti dei Siri di Beth-Rehob e dei Siri di Tsoba, mille uomini del re di Maaca, e dodicimila uomini della gente di Tob."
+        },
+        {
+          "number": 7,
+          "text": "Quando Davide udì questo, inviò contro di loro Joab con tutto l’esercito degli uomini di valore."
+        },
+        {
+          "number": 8,
+          "text": "I figliuoli di Ammon uscirono e si disposero in ordine di battaglia all’ingresso della porta della città, mentre i Siri di Tsoba e di Rehob e la gente di Tob e di Maaca stavano a parte nella campagna."
+        },
+        {
+          "number": 9,
+          "text": "Or come Joab vide che quelli eran pronti ad attaccarlo di fronte e alle spalle, scelse un corpo fra gli uomini migliori d’Israele, lo dispose in ordine di battaglia contro i Siri,"
+        },
+        {
+          "number": 10,
+          "text": "e mise il resto del popolo sotto gli ordini del suo fratello Abishai, per tener fronte ai figliuoli di Ammon;"
+        },
+        {
+          "number": 11,
+          "text": "e disse ad Abishai: “Se i Siri son più forti di me, tu mi darai soccorso; e se i figliuoli di Ammon son più forti di te, andrò io a soccorrerti."
+        },
+        {
+          "number": 12,
+          "text": "Abbi coraggio, e dimostriamoci forti per il nostro popolo e per le città del nostro Dio; e faccia l’Eterno quello che a lui piacerà”."
+        },
+        {
+          "number": 13,
+          "text": "Poi Joab con la gente che avea seco, s’avanzò per attaccare i Siri, i quali fuggirono d’innanzi a lui."
+        },
+        {
+          "number": 14,
+          "text": "E come i figliuoli di Ammon videro che i Siri eran fuggiti, fuggirono anch’essi d’innanzi ad Abishai, e rientrarono nella città. Allora Joab se ne tornò dalla spedizione contro i figliuoli di Ammon, e venne a Gerusalemme."
+        },
+        {
+          "number": 15,
+          "text": "I Siri, vedendosi sconfitti da Israele, si riunirono in massa."
+        },
+        {
+          "number": 16,
+          "text": "Hadadezer mandò a far venire i Siri che abitavano di là dal fiume, e quelli giunsero a Helam, con alla testa Shobac, capo dell’esercito di Hadadezer."
+        },
+        {
+          "number": 17,
+          "text": "E la cosa fu riferita a Davide che radunò tutto Israele, passò il Giordano, e giunse ad Helam. E i Siri si ordinarono in battaglia contro Davide, e impegnarono l’azione."
+        },
+        {
+          "number": 18,
+          "text": "Ma i Siri fuggirono d’innanzi a Israele; e Davide uccise ai Siri gli uomini di settecento carri e quarantamila cavalieri, e sconfisse pure Shobac, capo del loro esercito, che morì quivi."
+        },
+        {
+          "number": 19,
+          "text": "E quando tutti i re vassalli di Hadadezer si videro sconfitti da Israele, fecero pace con Israele, e furono a lui soggetti. E i Siri non osarono più recar soccorso ai figliuoli di Ammon."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or avvenne che l’anno seguente, nel tempo in cui i re sogliono andare alla guerra, Davide mandò Joab con la sua gente e con tutto Israele a devastare il paese dei figliuoli di Ammon e ad assediare Rabba; ma Davide rimase a Gerusalemme."
+        },
+        {
+          "number": 2,
+          "text": "Una sera Davide, alzatosi dal suo letto, si mise a passeggiare sulla terrazza del palazzo reale; e dalla terrazza vide una donna che si bagnava; e la donna era bellissima."
+        },
+        {
+          "number": 3,
+          "text": "Davide mandò ad informarsi chi fosse la donna; e gli fu detto: “E’ Bath-Sheba, figliuola di Eliam, moglie di Uria, lo Hitteo”."
+        },
+        {
+          "number": 4,
+          "text": "E Davide inviò gente a prenderla; ed ella venne da lui, ed egli si giacque con lei, che si era purificata della sua contaminazione; poi ella se ne tornò a casa sua."
+        },
+        {
+          "number": 5,
+          "text": "La donna rimase incinta, e lo fece sapere a Davide, dicendo: “Sono incinta”."
+        },
+        {
+          "number": 6,
+          "text": "Allora Davide fece dire a Joab: “Mandami Uria, lo Hitteo”. E Joab mandò Uria da Davide."
+        },
+        {
+          "number": 7,
+          "text": "Come Uria fu giunto da Davide, questi gli chiese come stessero Joab ed il popolo, e come andasse la guerra."
+        },
+        {
+          "number": 8,
+          "text": "Poi Davide disse ad Uria: “Scendi a casa tua e làvati i piedi”. Uria uscì dal palazzo reale, e gli furon portate appresso delle vivande del re."
+        },
+        {
+          "number": 9,
+          "text": "Ma Uria dormì alla porta del palazzo del re con tutti i servi del suo signore, e non scese a casa sua."
+        },
+        {
+          "number": 10,
+          "text": "E come ciò fu riferito a Davide e gli fu detto: “Uria non è sceso a casa sua”, Davide disse ad Uria: “Non vieni tu di viaggio? Perché dunque non sei sceso a casa tua?”"
+        },
+        {
+          "number": 11,
+          "text": "Uria rispose a Davide: “L’arca, Israele e Giuda abitano sotto le tende, Joab mio signore e i suoi servi sono accampati in aperta campagna, e io me n’entrerei in casa mia per mangiare e bere e per dormire con mia moglie? Com’è vero che tu vivi e che vive l’anima tua, io non farò tal cosa!”"
+        },
+        {
+          "number": 12,
+          "text": "E Davide disse ad Uria: “Trattienti qui anche oggi, e domani ti lascerò partire”. Così Uria rimase a Gerusalemme quel giorno ed il seguente."
+        },
+        {
+          "number": 13,
+          "text": "E Davide lo invitò a mangiare e a bere con sé; e lo ubriacò; e la sera Uria uscì per andarsene a dormire sul suo lettuccio coi servi del suo signore, ma non scese a casa sua."
+        },
+        {
+          "number": 14,
+          "text": "La mattina seguente, Davide scrisse una lettera a Joab, e gliela mandò per le mani d’Uria."
+        },
+        {
+          "number": 15,
+          "text": "Nella lettera avea scritto così: “Ponete Uria al fronte, dove più ferve la mischia; poi ritiratevi da lui, perch’egli resti colpito e muoia”."
+        },
+        {
+          "number": 16,
+          "text": "Joab dunque, assediando la città, pose Uria nel luogo dove sapeva che il nemico avea degli uomini valorosi."
+        },
+        {
+          "number": 17,
+          "text": "Gli uomini della città fecero una sortita e attaccarono Joab; parecchi del popolo, della gente di Davide, caddero, e perì anche Uria lo Hitteo."
+        },
+        {
+          "number": 18,
+          "text": "Allora Joab inviò un messo a Davide per fargli sapere tutte le cose ch’erano avvenute nella battaglia;"
+        },
+        {
+          "number": 19,
+          "text": "e diede al messo quest’ordine: “Quando avrai finito di raccontare al re tutto quello ch’è successo nella battaglia,"
+        },
+        {
+          "number": 20,
+          "text": "se il re va in collera, e ti dice: Perché vi siete accostati così alla città per dar battaglia? Non sapevate voi che avrebbero tirato di sulle mura?"
+        },
+        {
+          "number": 21,
+          "text": "Chi fu che uccise Abimelec, figliuolo di Jerubbesheth? Non fu ella una donna che gli gettò addosso un pezzo di macina dalle mura, si ch’egli morì a Thebets? Perché vi siete accostati così alle mura? tu digli allora: Il tuo servo Uria lo Hitteo è morto anch’egli”."
+        },
+        {
+          "number": 22,
+          "text": "Il messo dunque partì; e, giunto, riferì a Davide tutto quello che Joab l’aveva incaricato di dire."
+        },
+        {
+          "number": 23,
+          "text": "Il messo disse a Davide: “I nemici avevano avuto del vantaggio su di noi, e avean fatto una sortita contro di noi nella campagna; ma noi fummo loro addosso fino alla porta della città;"
+        },
+        {
+          "number": 24,
+          "text": "allora gli arcieri tirarono sulla tua gente di sulle mura, e parecchi della gente del re perirono, e Uria lo Hitteo, tuo servo, perì anch’egli”."
+        },
+        {
+          "number": 25,
+          "text": "Allora Davide disse al messo: “Dirai così a Joab: Non ti dolga quest’affare; poiché la spada or divora l’uno ed ora l’altro; rinforza l’attacco contro la città, e distruggila. E tu fagli coraggio”."
+        },
+        {
+          "number": 26,
+          "text": "Quando la moglie di Uria udì che Uria suo marito era morto, lo pianse;"
+        },
+        {
+          "number": 27,
+          "text": "e finito che ella ebbe il lutto, Davide la mandò a cercare e l’accolse in casa sua. Ella divenne sua moglie, e gli partorì un figliuolo. Ma quello che Davide avea fatto dispiacque all’Eterno."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "E l’Eterno mandò Nathan a Davide; e Nathan andò da lui e gli disse: “V’erano due uomini nella stessa città, uno ricco, e l’altro povero."
+        },
+        {
+          "number": 2,
+          "text": "Il ricco avea pecore e buoi in grandissimo numero;"
+        },
+        {
+          "number": 3,
+          "text": "ma il povero non aveva nulla, fuorché una piccola agnellina ch’egli avea comprata e allevata; essa gli era cresciuta in casa insieme ai figliuoli, mangiando il pane di lui, bevendo alla sua coppa e dormendo sul suo seno; ed essa era per lui come una figliuola."
+        },
+        {
+          "number": 4,
+          "text": "Or essendo arrivato un viaggiatore a casa dell’uomo ricco, questi, risparmiando le sue pecore e i suoi buoi, non ne prese per preparare un pasto al viaggiatore ch’era capitato da lui; ma pigliò l’agnella di quel povero uomo, e ne fece delle vivande per colui che gli era venuto in casa”."
+        },
+        {
+          "number": 5,
+          "text": "Allora l’ira di Davide s’accese fortemente contro quell’uomo, e disse a Nathan: “Com’è vero che l’Eterno vive, colui che ha fatto questo merita la morte;"
+        },
+        {
+          "number": 6,
+          "text": "e pagherà quattro volte il valore dell’agnella, per aver fatto una tal cosa e non aver avuto pietà”."
+        },
+        {
+          "number": 7,
+          "text": "Allora Nathan disse a Davide: “Tu sei quell’uomo! Così dice l’Eterno, l’Iddio d’Israele: Io t’ho unto re d’Israele e t’ho liberato dalle mani di Saul,"
+        },
+        {
+          "number": 8,
+          "text": "t’ho dato la casa del tuo signore, e ho messo nelle tue braccia le donne del tuo signore; t’ho dato la casa d’Israele e di Giuda; e, se questo era troppo poco, io v’avrei aggiunto anche dell’altro."
+        },
+        {
+          "number": 9,
+          "text": "Perché dunque hai tu disprezzata la parola dell’Eterno, facendo ciò ch’è male agli occhi suoi? Tu hai fatto morire colla spada Uria lo Hitteo, hai preso per tua moglie la moglie sua, e hai ucciso lui con la spada dei figliuoli di Ammon."
+        },
+        {
+          "number": 10,
+          "text": "Or dunque la spada non si allontanerà mai dalla tua casa, giacché tu m’hai disprezzato hai preso per tua moglie la moglie di Uria lo Hitteo."
+        },
+        {
+          "number": 11,
+          "text": "Così dice l’Eterno: Ecco, io sto per suscitare contro di te la sciagura dalla tua stessa casa, e prenderò le tue mogli sotto i tuoi occhi per darle a un tuo prossimo, che si giacerà con esse in faccia a questo sole;"
+        },
+        {
+          "number": 12,
+          "text": "poiché tu l’hai fatto in segreto; ma io farò questo davanti a tutto Israele e in faccia al sole”."
+        },
+        {
+          "number": 13,
+          "text": "Allora Davide disse a Nathan: “Ho peccato contro l’Eterno”. E Nathan rispose a Davide: “E l’Eterno ha perdonato il tuo peccato; tu non morrai."
+        },
+        {
+          "number": 14,
+          "text": "Nondimeno, siccome facendo così tu hai data ai nemici dell’Eterno ampia occasione di bestemmiare, il figliuolo che t’è nato dovrà morire”. Nathan se ne tornò a casa sua."
+        },
+        {
+          "number": 15,
+          "text": "E l’Eterno colpì il bambino che la moglie di Uria avea partorito a Davide, ed esso cadde gravemente ammalato."
+        },
+        {
+          "number": 16,
+          "text": "Davide quindi fece supplicazioni a Dio per il bambino, e digiunò; poi venne e passò la notte giacendo per terra."
+        },
+        {
+          "number": 17,
+          "text": "Gli anziani della sua casa insistettero presso di lui perch’egli si levasse da terra; ma egli non volle, e rifiutò di prender cibo con essi."
+        },
+        {
+          "number": 18,
+          "text": "Or avvenne che il settimo giorno il bambino morì; e i servi di Davide temevano di fargli sapere che il bambino era morto; poiché dicevano: “Ecco, quando il bambino era ancora vivo, noi gli abbiam parlato ed egli non ha dato ascolto alle nostre parole; come faremo ora a dirgli che il bambino è morto? Egli andrà a qualche estremo”."
+        },
+        {
+          "number": 19,
+          "text": "Ma Davide, vedendo che i suoi servi bisbigliavano fra loro, comprese che il bambino era morto; e disse ai suoi servi: “E’ morto il bambino?” Quelli risposero: “E’ morto”."
+        },
+        {
+          "number": 20,
+          "text": "Allora Davide si alzò da terra, si lavò, si unse e si mutò le vesti; poi andò nella casa dell’Eterno e vi si prostrò; e tornato a casa sua, chiese che gli portassero da mangiare, e mangiò."
+        },
+        {
+          "number": 21,
+          "text": "I suoi servi gli dissero: “Che cosa fai? Quando il bambino era vivo ancora, tu digiunavi e piangevi; e ora ch’è morto, ti alzi e mangi!”"
+        },
+        {
+          "number": 22,
+          "text": "Egli rispose: “Quando il bambino era vivo ancora, digiunavo e piangevo, perché dicevo: Chi sa che l’Eterno non abbia pietà di me e il bambino non resti in vita? Ma ora ch’egli è morto, perché digiunerei?"
+        },
+        {
+          "number": 23,
+          "text": "Posso io farlo ritornare? Io me ne andrò a lui, ma egli non ritornerà a me!”"
+        },
+        {
+          "number": 24,
+          "text": "Poi Davide consolò Bath-Sheba sua moglie, entrò da lei e si giacque con essa; ed ella partorì un figliuolo, al quale egli pose nome Salomone."
+        },
+        {
+          "number": 25,
+          "text": "L’Eterno amò Salomone e mandò il profeta Nathan che gli pose nome Iedidia, a motivo dell’amore che l’Eterno gli portava."
+        },
+        {
+          "number": 26,
+          "text": "Or Joab assediò Rabba dei figliuoli di Ammon, s’impadronì della città reale,"
+        },
+        {
+          "number": 27,
+          "text": "e inviò dei messi a Davide per dirgli: “Ho assalito Rabba e mi son già impossessato della città delle acque."
+        },
+        {
+          "number": 28,
+          "text": "Or dunque raduna il rimanente del popolo, accampati contro la città, e prendila, affinché, prendendola io, non abbia a portare il mio nome”."
+        },
+        {
+          "number": 29,
+          "text": "Davide radunò tutto il popolo, si mosse verso Rabba, l’assalì e la prese;"
+        },
+        {
+          "number": 30,
+          "text": "e tolse dalla testa del loro re la corona, che pesava un talento d’oro e conteneva pietre preziose, ed essa fu posta sulla testa di Davide. Egli riporto anche dalla città grandissima preda."
+        },
+        {
+          "number": 31,
+          "text": "Fece uscire gli abitanti ch’erano nella città, e mise i loro corpi sotto delle seghe, degli erpici di ferro e delle scuri di ferro, e li fe’ gettare in fornaci da mattoni; e così fece a tutte le città de’ figliuoli di Ammon. Poi Davide se ne tornò a Gerusalemme con tutto il popolo."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or dopo queste cose avvenne che, avendo Absalom, figliuolo di Davide, una sorella di nome Tamar, ch’era di bell’aspetto, Amnon, figliuolo di Davide, se ne innamorò."
+        },
+        {
+          "number": 2,
+          "text": "Ed Amnon si appassionò a tal punto per Tamar sua sorella da diventarne malato; perché ella era vergine, e pareva difficile ad Amnon di poterle fare alcun che."
+        },
+        {
+          "number": 3,
+          "text": "Or Amnon aveva un amico, per nome Jonadab, figliuolo di Shimea, fratello di Davide; e Jonadab era un uomo molto accorto."
+        },
+        {
+          "number": 4,
+          "text": "Questi gli disse: “O figliuolo del re, perché vai tu di giorno in giorno dimagrando a cotesto modo? Non me lo vuoi dire?” Amnon gli rispose: “Sono innamorato di Tamar, sorella di mio fratello Absalom”."
+        },
+        {
+          "number": 5,
+          "text": "Jonadab gli disse: “Mettiti a letto e fingiti malato; e quando tuo padre verrà a vederti, digli: Fa’, ti prego, che la mia sorella Tamar venga a darmi da mangiare e a preparare il cibo in mia presenza, sì ch’io lo vegga; e lo mangerò quando mi sarà pòrto dalle sue mani”."
+        },
+        {
+          "number": 6,
+          "text": "Amnon dunque si mise a letto e si finse ammalato; e quando il re lo venne a vedere, Amnon gli disse: “Fa’, ti prego, che la mia sorella Tamar venga e faccia un paio di frittelle in mia presenza; così le mangerò quando mi saran pòrte dalle sue mani”."
+        },
+        {
+          "number": 7,
+          "text": "Allora Davide mandò a casa di Tamar a dirle: “Va’ a casa di Amnon, tuo fratello, e preparagli qualcosa da mangiare”."
+        },
+        {
+          "number": 8,
+          "text": "Tamar andò a casa di Amnon, suo fratello, che giaceva in letto. Ella prese della farina stemperata, l’intrise, ne fece delle frittelle in sua presenza, e le cosse."
+        },
+        {
+          "number": 9,
+          "text": "Poi, prese la padella, ne trasse le frittelle e gliele mise dinanzi; ma egli rifiutò di mangiare, e disse: “Fate uscire di qui tutta la gente”. E tutti uscirono."
+        },
+        {
+          "number": 10,
+          "text": "Allora Amnon disse a Tamar: “Portami il cibo in camera, e lo prenderò dalle tue mani”. E Tamar prese le frittelle che avea fatte, e le portò in camera ad Amnon suo fratello."
+        },
+        {
+          "number": 11,
+          "text": "E com’essa gliele porgeva perché mangiasse, egli l’afferrò, e le disse: “Vieni a giacerti meco, sorella mia”."
+        },
+        {
+          "number": 12,
+          "text": "Essa gli rispose: “No, fratel mio, non farmi violenza; questo non si fa in Israele; non commettere una tale infamia!"
+        },
+        {
+          "number": 13,
+          "text": "Io dove andrei a portar la mia vergogna? E quanto a te, tu saresti messo tra gli scellerati in Israele. Te ne prego, parlane piuttosto al re, ed egli non mi negherà a te”."
+        },
+        {
+          "number": 14,
+          "text": "Ma egli non volle darle ascolto; ed essendo più forte di lei, la violentò, e si giacque con lei."
+        },
+        {
+          "number": 15,
+          "text": "Poi Amnon concepì verso di lei un odio fortissimo; talmente, che l’odio per lei fu maggiore dell’amore di cui l’aveva amata prima. E le disse:"
+        },
+        {
+          "number": 16,
+          "text": "“Lèvati, vattene!” Ella gli rispose: “Non mi fare, cacciandomi, un torto maggiore di quello che m’hai già fatto”. Ma egli non volle ascoltarla."
+        },
+        {
+          "number": 17,
+          "text": "Anzi, chiamato il servo che lo assisteva, gli disse: “Caccia via costei lungi da me, e chiudile la porta dietro!”"
+        },
+        {
+          "number": 18,
+          "text": "Or ella portava una tunica con le maniche, poiché le figliuole del re portavano simili vesti finché erano vergini. Il servo di Amnon dunque la mise fuori, e le chiuse la porta dietro."
+        },
+        {
+          "number": 19,
+          "text": "E Tamar si sparse della cenere sulla testa, si stracciò di dosso la tunica con le maniche, e mettendosi la mano sul capo, se n’andò gridando."
+        },
+        {
+          "number": 20,
+          "text": "Absalom, suo fratello, le disse: “Forse che Amnon, tuo fratello, è stato teco? Per ora, taci, sorella mia; egli è tuo fratello; non t’accorare per questo”. E Tamar, desolata, rimase in casa di Absalom, suo fratello."
+        },
+        {
+          "number": 21,
+          "text": "Il re Davide udì tutte queste cose, e ne fu fortemente adirato."
+        },
+        {
+          "number": 22,
+          "text": "Ed Absalom non rivolse ad Amnon alcuna parola, né in bene né in male; poiché odiava Amnon, per aver egli violata Tamar, sua sorella."
+        },
+        {
+          "number": 23,
+          "text": "Or due anni dopo avvenne che, facendo Absalom tosar le sue pecore a Baal-Hatsor presso Efraim, egli invitò tutti i figliuoli del re."
+        },
+        {
+          "number": 24,
+          "text": "Absalom andò a trovare il re, e gli disse: “Ecco, il tuo servo ha i tosatori; ti prego, venga anche il re coi suoi servitori a casa del tuo servo!”"
+        },
+        {
+          "number": 25,
+          "text": "Ma il re disse ad Absalom: “No, figliuol mio, non andiamo tutti, che non ti siam d’aggravio”. E benché Absalom insistesse, il re non volle andare; ma gli diede la sua benedizione."
+        },
+        {
+          "number": 26,
+          "text": "E Absalom disse: “Se non vuoi venir tu, ti prego, permetti ad Amnon, mio fratello, di venir con noi”. Il re gli rispose: “E perché andrebb’egli teco?”"
+        },
+        {
+          "number": 27,
+          "text": "Ma Absalom tanto insisté, che Davide lasciò andare con lui Amnon e tutti i figliuoli del re."
+        },
+        {
+          "number": 28,
+          "text": "Or Absalom diede quest’ordine ai suoi servi: “Badate, quando Amnon avrà il cuore riscaldato dal vino, e io vi dirò: Colpite Amnon! voi uccidetelo, e non abbiate paura; non son io che ve lo comando? Fatevi cuore, e comportatevi da forti!”"
+        },
+        {
+          "number": 29,
+          "text": "I servi di Absalom fecero ad Amnon come Absalom avea comandato. Allora tutti i figliuoli del re si levarono, montaron ciascun sul suo mulo e se ne fuggirono."
+        },
+        {
+          "number": 30,
+          "text": "Or mentr’essi erano ancora per via, giunse a Davide la notizia che Absalom aveva ucciso tutti i figliuoli del re, e che non uno di loro era scampato."
+        },
+        {
+          "number": 31,
+          "text": "Allora il re si levò, si strappò le vesti, e si gettò per terra; e tutti i suoi servi gli stavan dappresso, con le vesti stracciate."
+        },
+        {
+          "number": 32,
+          "text": "Ma Jonadab, figliuolo di Shimea, fratello di Davide, prese a dire: “Non dica il mio signore che tutti i giovani, figliuoli del re, sono stati uccisi; il solo Amnon è morto; per Absalom era cosa decisa fin dal giorno che Amnon gli violò la sorella Tamar."
+        },
+        {
+          "number": 33,
+          "text": "Così dunque non si accori il re, mio signore, come se tutti i figliuoli del re fossero morti; il solo Amnon è morto”. Or Absalom aveva preso la fuga."
+        },
+        {
+          "number": 34,
+          "text": "E il giovine che stava alle vedette alzò gli occhi, guardò, ed ecco che una gran turba di gente veniva per la via di ponente dal lato del monte."
+        },
+        {
+          "number": 35,
+          "text": "E Jonadab disse al re: “Ecco i figliuoli del re che arrivano! La cosa sta come il tuo servo ha detto”."
+        },
+        {
+          "number": 36,
+          "text": "E com’egli ebbe finito di parlare, ecco giungere i figliuoli del re, i quali alzarono la voce e piansero; ed anche il re e tutti i suoi servi versarono abbondanti lagrime."
+        },
+        {
+          "number": 37,
+          "text": "Quanto ad Absalom, se ne fuggì e andò da Talmai, figliuolo di Ammihur, re di Gheshur. E Davide faceva cordoglio del suo figliuolo ogni giorno."
+        },
+        {
+          "number": 38,
+          "text": "Absalom rimase tre anni a Gheshur, dov’era andato dopo aver preso la fuga."
+        },
+        {
+          "number": 39,
+          "text": "E l’ira del re Davide contro Absalom si calmò perché Davide s’era consolato della morte di Amnon."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or Joab, figliuolo di Tseruia, avvedutosi che il cuore del re si piegava verso Absalom, mandò a Tekoa,"
+        },
+        {
+          "number": 2,
+          "text": "e ne fece venire una donna accorta, alla quale disse: “Fingi d’essere in lutto: mettiti una veste da lutto, non ti ungere con olio, e sii come una donna che pianga da molto tempo un morto;"
+        },
+        {
+          "number": 3,
+          "text": "poi entra presso il re, e parlagli così e così”. E Joab le mise in bocca le parole da dire."
+        },
+        {
+          "number": 4,
+          "text": "La donna di Tekoa andò dunque a parlare al re, si gettò con la faccia a terra, si prostrò, e disse: “O re, aiutami!”"
+        },
+        {
+          "number": 5,
+          "text": "Il re le disse: “Che hai?” Ed ella rispose: “Pur troppo, io sono una vedova; mio marito è morto."
+        },
+        {
+          "number": 6,
+          "text": "La tua serva aveva due figliuoli, i quali vennero tra di loro a contesa alla campagna; e, come non v’era chi li separasse, l’uno colpì l’altro, e l’uccise."
+        },
+        {
+          "number": 7,
+          "text": "Ed ecco che tutta la famiglia è insorta contro la tua serva, dicendo: Consegnaci colui che ha ucciso il fratello, affinché lo facciam morire per vendicare il fratello ch’egli ha ucciso, e per sterminare così anche l’erede. In questo modo spegneranno il tizzo che m’è rimasto, e non lasceranno a mio marito né nome né discendenza sulla faccia della terra”."
+        },
+        {
+          "number": 8,
+          "text": "Il re disse alla donna: “Vattene a casa tua: io darò degli ordini a tuo riguardo”."
+        },
+        {
+          "number": 9,
+          "text": "E la donna di Tekoa disse al re: “O re mio signore, la colpa cada su me e sulla casa di mio padre, ma il re e il suo trono non ne siano responsabili”."
+        },
+        {
+          "number": 10,
+          "text": "E il re: “Se qualcuno parla contro di te, menalo da me, e vedrai che non ti toccherà più”."
+        },
+        {
+          "number": 11,
+          "text": "Allora ella disse: “Ti prego, menzioni il re l’Eterno, il tuo Dio, perché il vindice del sangue non aumenti la rovina e non mi sia sterminato il figlio”. Ed egli rispose: “Com’è vero che l’Eterno vive, non cadrà a terra un capello del tuo figliuolo!”"
+        },
+        {
+          "number": 12,
+          "text": "Allora la donna disse: “Deh! lascia che la tua serva dica ancora una parola al re, mio signore!” Egli rispose: “Parla”."
+        },
+        {
+          "number": 13,
+          "text": "Riprese la donna: “E perché pensi tu nel modo che fai quando si tratta del popolo di Dio? Dalla parola che il re ha ora pronunziato risulta esser egli in certo modo colpevole, in quanto non richiama colui che ha proscritto."
+        },
+        {
+          "number": 14,
+          "text": "Noi dobbiamo morire, e siamo come acqua versata in terra, che non si può più raccogliere; ma Dio non toglie la vita, anzi medita il modo di far sì che il proscritto non rimanga bandito lungi da lui."
+        },
+        {
+          "number": 15,
+          "text": "Ora, se io son venuta a parlar così al re mio signore è perché il popolo mi ha fatto paura; e la tua serva ha detto: “Voglio parlare al re; forse il re farà quello che gli dirà la sua serva;"
+        },
+        {
+          "number": 16,
+          "text": "il re ascolterà la sua serva, e la libererà dalle mani di quelli che vogliono sterminar me e il mio figliuolo dalla eredità di Dio."
+        },
+        {
+          "number": 17,
+          "text": "E la tua serva diceva: Oh possa la parola del re, mio signore, darmi tranquillità! poiché il re mio signore è come un angelo di Dio per discernere il bene dal male. L’Eterno, il tuo Dio, sia teco!”"
+        },
+        {
+          "number": 18,
+          "text": "Il re rispose e disse alla donna: “Ti prego, non celarmi quello ch’io ti domanderò”. La donna disse: “Parli pure il re, mio signore”."
+        },
+        {
+          "number": 19,
+          "text": "E il re: “Joab non t’ha egli dato mano in tutto questo?” La donna rispose: “Com’è vero che l’anima tua vive, o re mio signore, la cosa sta né più né meno come ha detto il re mio signore; difatti, il tuo servo Joab è colui che m’ha dato questi ordini, ed è lui che ha messe tutte queste parole in bocca alla tua serva."
+        },
+        {
+          "number": 20,
+          "text": "Il tuo servo Joab ha fatto così per dare un altro aspetto all’affare di Absalom; ma il mio signore ha la saviezza d’un angelo di Dio e conosce tutto quello che avvien sulla terra”."
+        },
+        {
+          "number": 21,
+          "text": "Allora il re disse a Joab: “Ecco, voglio fare quello che hai chiesto; va’ dunque, e fa’ tornare il giovane Absalom”."
+        },
+        {
+          "number": 22,
+          "text": "Joab si gettò con la faccia a terra, si prostrò, benedisse il re, e disse: “Oggi il tuo servo riconosce che ha trovato grazia agli occhi tuoi, o re, mio signore; poiché il re ha fatto quel che il suo servo gli ha chiesto”."
+        },
+        {
+          "number": 23,
+          "text": "Joab dunque si levò, andò a Gheshur, e menò Absalom a Gerusalemme."
+        },
+        {
+          "number": 24,
+          "text": "E il re disse: “Ch’ei si ritiri in casa sua e non vegga la mia faccia!” Così Absalom si ritirò in casa sua, e non vide la faccia del re."
+        },
+        {
+          "number": 25,
+          "text": "Or in tutto Israele non v’era uomo che fosse celebrato per la sua bellezza al pari di Absalom; dalle piante de’ piedi alla cima del capo non v’era in lui difetto alcuno."
+        },
+        {
+          "number": 26,
+          "text": "E quando si facea tagliare i capelli (e se li faceva tagliare ogni anno perché la capigliatura gli pesava troppo) il peso de’ suoi capelli era di duecento sicli a peso del re."
+        },
+        {
+          "number": 27,
+          "text": "Ad Absalom nacquero tre figliuoli e una figliuola per nome Tamar, che era donna di bell’aspetto."
+        },
+        {
+          "number": 28,
+          "text": "Absalom dimorò in Gerusalemme due anni, senza vedere la faccia del re."
+        },
+        {
+          "number": 29,
+          "text": "Poi Absalom fece chiamare Joab per mandarlo dal re; ma egli non volle venire a lui; lo mandò a chiamare una seconda volta, ma Joab non volle venire."
+        },
+        {
+          "number": 30,
+          "text": "Allora Absalom disse ai suoi servi: “Guardate! il campo di Joab è vicino al mio, e v’è dell’orzo; andate a mettervi il fuoco!” E i servi di Absalom misero il fuoco al campo."
+        },
+        {
+          "number": 31,
+          "text": "Allora Joab si levò, andò a casa di Absalom, e gli disse: “Perché i tuoi servi hanno eglino dato fuoco al mio campo?”"
+        },
+        {
+          "number": 32,
+          "text": "Absalom rispose a Joab: “Io t’avevo mandato a dire: Viene qua, ch’io possa mandarti dal re a dirgli: Perché son io tornato da Gheshur? Meglio per me s’io vi fossi ancora! Or dunque fa’ ch’io vegga la faccia del re! e se v’è in me qualche iniquità, ch’ei mi faccia morire!”"
+        },
+        {
+          "number": 33,
+          "text": "Joab allora andò dal re e gli fece l’ambasciata. Il re fece chiamare Absalom, il quale venne a lui, e si prostrò con la faccia a terra in sua presenza; e il re baciò Absalom."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or dopo queste cose, Absalom si procurò un cocchio, de’ cavalli, e cinquanta uomini che correvano dinanzi a lui."
+        },
+        {
+          "number": 2,
+          "text": "Absalom si levava la mattina presto, e si metteva da un lato della via che menava alle porte della città; e quando qualcuno, avendo un processo, si recava dal re per chieder giustizia, Absalom lo chiamava, e gli diceva: “Di qual città sei tu?” L’altro gli rispondeva: “Il tuo servo è di tale e tale tribù d’Israele”."
+        },
+        {
+          "number": 3,
+          "text": "Allora Absalom gli diceva: “Vedi, la tua causa e buona e giusta, ma non v’è chi sia delegato dal re per sentirti”."
+        },
+        {
+          "number": 4,
+          "text": "E Absalom aggiungeva: “Oh se facessero me giudice del paese! Chiunque avesse un processo o un affare verrebbe da me, e io gli farei giustizia”."
+        },
+        {
+          "number": 5,
+          "text": "E quando uno gli s’accostava per prostrarglisi dinanzi, ei gli porgeva la mano, l’abbracciava e lo baciava."
+        },
+        {
+          "number": 6,
+          "text": "Absalom faceva così con tutti quelli d’Israele che venivano dal re per chieder giustizia; e in questo modo Absalom rubò il cuore alla gente d’Israele."
+        },
+        {
+          "number": 7,
+          "text": "Or avvenne che, in capo a quattro anni Absalom disse al re: “Ti prego, lasciami andare ad Hebron a sciogliere un voto che feci all’Eterno."
+        },
+        {
+          "number": 8,
+          "text": "Poiché, durante la sua dimora a Gheshur, in Siria, il tuo servo fece un voto, dicendo: Se l’Eterno mi riconduce a Gerusalemme, io servirò l’Eterno!”"
+        },
+        {
+          "number": 9,
+          "text": "Il re gli disse: “Va’ in pace!” E quegli si levò e andò a Hebron."
+        },
+        {
+          "number": 10,
+          "text": "Intanto Absalom mandò degli emissari per tutte le tribù d’Israele, a dire: “Quando udrete il suon della tromba, direte: Absalom è proclamato re a Hebron”."
+        },
+        {
+          "number": 11,
+          "text": "E con Absalom partirono da Gerusalemme duecento uomini, i quali, essendo stati invitati, partirono in tutta la loro semplicità, senza saper nulla."
+        },
+        {
+          "number": 12,
+          "text": "Absalom, mentre offriva i sacrifizi, mandò a chiamare Ahitofel, il Ghilonita, consigliere di Davide, perché venisse dalla sua città di Ghilo. La congiura divenne potente, e il popolo andava vie più crescendo di numero attorno ad Absalom."
+        },
+        {
+          "number": 13,
+          "text": "Or venne a Davide un messo, che disse: “Il cuore degli uomini d’Israele s’è vòlto verso Absalom”."
+        },
+        {
+          "number": 14,
+          "text": "Allora Davide disse a tutti i suoi servi ch’eran con lui a Gerusalemme: “Levatevi, fuggiamo; altrimenti, nessun di noi scamperà dalle mani di Absalom. Affrettatevi a partire, affinché con rapida marcia, non ci sorprenda, piombandoci rovinosamente addosso, e non colpisca la città mettendola a fil di spada”."
+        },
+        {
+          "number": 15,
+          "text": "I servi del re gli dissero: “Ecco i tuoi servi, pronti a fare tutto quello che piacerà al re, nostro signore”."
+        },
+        {
+          "number": 16,
+          "text": "Il re dunque partì, seguito da tutta la sua casa, e lasciò dieci concubine a custodire il palazzo."
+        },
+        {
+          "number": 17,
+          "text": "Il re partì, seguito da tutto il popolo, e si fermarono a Beth-Merhak."
+        },
+        {
+          "number": 18,
+          "text": "Tutti i servi del re camminavano al suo fianco; e tutti i Kerethei, tutti i Pelethei e tutti i Ghittei, che in seicento eran venuti da Gath, al suo séguito, camminavano davanti al re."
+        },
+        {
+          "number": 19,
+          "text": "Allora il re disse a Ittai di Gath: “Perché vuoi anche tu venir con noi? Torna indietro, e statti col re; poiché sei un forestiero, e per di più un esule dalla tua patria."
+        },
+        {
+          "number": 20,
+          "text": "Pur ieri tu arrivasti; e oggi ti farei io andar errando qua e là, con noi, mentre io stesso non so dove vado? Torna indietro, e riconduci teco i tuoi fratelli; e siano con te la misericordia e la fedeltà dell’Eterno!”"
+        },
+        {
+          "number": 21,
+          "text": "Ma Ittai rispose al re, dicendo: “Com’è vero che l’Eterno vive e che vive il re mio signore, in qualunque luogo sarà il re mio signore, per morire o per vivere, quivi sarà pure il tuo servo”."
+        },
+        {
+          "number": 22,
+          "text": "E Davide disse ad Ittai: “Va’, passa oltre!” Ed Ittai, il Ghitteo, passò oltre con tutta la sua gente e con tutti i fanciulli che eran con lui."
+        },
+        {
+          "number": 23,
+          "text": "E tutti quelli del paese piangevano ad alta voce, mentre tutto il popolo passava. Il re passò il torrente Kidron, e tutto il popolo passò, prendendo la via del deserto."
+        },
+        {
+          "number": 24,
+          "text": "Ed ecco venire anche Tsadok con tutti i Leviti, i quali portavano l’arca del patto di Dio. E mentre Abiathar saliva, essi posarono l’arca di Dio, finché tutto il popolo non ebbe finito di uscir dalla città."
+        },
+        {
+          "number": 25,
+          "text": "E il re disse a Tsadok: “Riporta in città l’arca di Dio! Se io trovo grazia agli occhi dell’Eterno, egli mi farà tornare, e mi farà vedere l’arca e la dimora di lui;"
+        },
+        {
+          "number": 26,
+          "text": "ma se dice: Io non ti gradisco eccomi; faccia egli di me quello che gli parrà”."
+        },
+        {
+          "number": 27,
+          "text": "Il re disse ancora al sacerdote Tsadok: “Capisci? Torna in pace in città con i due vostri figliuoli: Ahimaats, tuo figliuolo, e Gionathan, figliuolo di Abiathar."
+        },
+        {
+          "number": 28,
+          "text": "Guardate, io aspetterò nelle pianure del deserto, finché mi sia recata qualche notizia da parte vostra”."
+        },
+        {
+          "number": 29,
+          "text": "Così Tsadok ed Abiathar riportarono a Gerusalemme l’arca di Dio, e dimorarono quivi."
+        },
+        {
+          "number": 30,
+          "text": "E Davide saliva il monte degli Ulivi; saliva piangendo, e camminava col capo coperto e a piedi scalzi; e tutta la gente ch’era con lui aveva il capo coperto, e, salendo, piangeva."
+        },
+        {
+          "number": 31,
+          "text": "Qualcuno venne a dire a Davide: “Ahitofel è con Absalom tra i congiurati”. E Davide disse: “Deh, o Eterno, rendi vani i consigli di Ahitofel!”"
+        },
+        {
+          "number": 32,
+          "text": "E come Davide fu giunto in vetta al monte, al luogo dove si adora Dio, ecco farglisi incontro Hushai, l’Arkita, con la tunica stracciata ed il capo coperto di polvere."
+        },
+        {
+          "number": 33,
+          "text": "Davide gli disse: “Se tu passi oltre con me mi sarai di peso;"
+        },
+        {
+          "number": 34,
+          "text": "ma se torni in città e dici ad Absalom: Io sarò tuo servo, o re; come fui servo di tuo padre nel passato, così sarò adesso servo tuo, tu dissiperai a mio pro i consigli di Ahitofel."
+        },
+        {
+          "number": 35,
+          "text": "E non avrai tu quivi teco i sacerdoti Tsadok ed Abiathar? Tutto quello che sentirai dire della casa del re, lo farai sapere ai sacerdoti Tsadok ed Abiathar."
+        },
+        {
+          "number": 36,
+          "text": "E siccome essi hanno seco i loro due figliuoli, Ahimaats figliuolo di Tsadok e Gionathan figliuolo di Abiathar, per mezzo di loro mi farete sapere tutto quello che avrete sentito”."
+        },
+        {
+          "number": 37,
+          "text": "Così Hushai, amico di Davide, tornò in città, e Absalom entrò in Gerusalemme."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or quando Davide ebbe di poco varcato la cima del monte, ecco che Tsiba, servo di Mefibosheth, gli si fece incontro con un paio d’asini sellati e carichi di duecento pani, cento masse d’uva secca, cento di frutta d’estate e un otre di vino."
+        },
+        {
+          "number": 2,
+          "text": "Il re disse a Tsiba: “Che vuoi tu fare di coteste cose?” Tsiba rispose: “Gli asini serviranno di cavalcatura alla casa del re; il pane e i frutti d’estate sono per nutrire i giovani, e il vino è perché ne bevan quelli che saranno stanchi nel deserto”."
+        },
+        {
+          "number": 3,
+          "text": "Il re disse: “E dov’è il figliuolo del tuo signore?” Tsiba rispose al re: “Ecco, è rimasto a Gerusalemme, perché ha detto: Oggi la casa d’Israele mi renderà il regno di mio padre”."
+        },
+        {
+          "number": 4,
+          "text": "Il re disse a Tsiba: “Tutto quello che appartiene a Mefibosheth è tuo”. Tsiba replicò: “Io mi prostro dinanzi a te! Possa io trovar grazia agli occhi tuoi, o re, mio signore!”"
+        },
+        {
+          "number": 5,
+          "text": "E quando il re Davide fu giunto a Bahurim, ecco uscir di là un uomo, imparentato con la famiglia di Saul, per nome Scimei, figliuolo di Ghera. Egli veniva innanzi proferendo maledizioni"
+        },
+        {
+          "number": 6,
+          "text": "e gettando sassi contro Davide, e contro tutti i servi del re Davide, mentre tutto il popolo e tutti gli uomini di valore stavano alla destra e alla sinistra del re."
+        },
+        {
+          "number": 7,
+          "text": "Scimei, maledicendo Davide, diceva così: “Vattene, vattene, uomo sanguinario, scellerato!"
+        },
+        {
+          "number": 8,
+          "text": "L’Eterno fa ricadere sul tuo capo tutto il sangue della casa di Saul, in luogo del quale tu hai regnato; e l’Eterno ha dato il regno nelle mani di Absalom, tuo figliuolo; ed eccoti nelle sciagure che ti sei meritato, perché sei un uomo sanguinario”."
+        },
+        {
+          "number": 9,
+          "text": "Allora Abishai, figliuolo di Tseruia, disse al re: “Perché questo can morto osa egli maledire il re, mio signore? Ti prego, lasciami andare a troncargli la testa!”"
+        },
+        {
+          "number": 10,
+          "text": "Ma il re rispose: “Che ho io da far con voi, figliuoli di Tseruia? S’ei maledice, è perché l’Eterno gli ha detto: Maledici Davide! E chi oserà dire: Perché fai così?”"
+        },
+        {
+          "number": 11,
+          "text": "Poi Davide disse ad Abishai e a tutti i suoi i servi: “Ecco, il mio figliuolo, uscito dalle mie viscere, cerca di togliermi la vita! Quanto più lo può fare ora questo Beniaminita! Lasciate ch’ei maledica, giacché glielo ha ordinato l’Eterno."
+        },
+        {
+          "number": 12,
+          "text": "Forse l’Eterno avrà riguardo alla mia afflizione, e mi farà del bene in cambio delle maledizioni d’oggi”."
+        },
+        {
+          "number": 13,
+          "text": "Davide e la sua gente continuarono il loro cammino; e Scimei camminava sul fianco del monte, dirimpetto a Davide, e cammin facendo lo malediva, gli tirava de’ sassi e buttava della polvere."
+        },
+        {
+          "number": 14,
+          "text": "Il re e tutta la gente ch’era con lui arrivarono ad Aiefim e quivi ripresero fiato."
+        },
+        {
+          "number": 15,
+          "text": "Or Absalom e tutto il popolo, gli uomini d’Israele, erano entrati in Gerusalemme; ed Ahitofel era con lui."
+        },
+        {
+          "number": 16,
+          "text": "E quando Hushai, l’Arkita, l’amico di Davide, fu giunto presso Absalom, gli disse: “Viva il re! Viva il re!”"
+        },
+        {
+          "number": 17,
+          "text": "Ed Absalom disse a Hushai: “È questa dunque l’affezione che hai pel tuo amico? Perché non sei tu andato col tuo amico?”"
+        },
+        {
+          "number": 18,
+          "text": "Hushai rispose ad Absalom: “No; io sarò di colui che l’Eterno e questo popolo e tutti gli uomini d’Israele hanno scelto, e con lui rimarrò."
+        },
+        {
+          "number": 19,
+          "text": "E poi, di chi sarò io servo? Non lo sarò io del suo figliuolo? Come ho servito tuo padre, così servirò te”."
+        },
+        {
+          "number": 20,
+          "text": "Allora Absalom disse ad Ahitofel: “Consigliate quello che dobbiam fare”."
+        },
+        {
+          "number": 21,
+          "text": "Ahitofel rispose ad Absalom: “Entra dalle concubine di tuo padre, lasciate da lui a custodia della casa; e quando tutto Israele saprà che ti sei reso odioso a tuo padre, il coraggio di quelli che son per te, sarà fortificato”."
+        },
+        {
+          "number": 22,
+          "text": "Fu dunque rizzata una tenda sulla terrazza per Absalom, ed Absalom entrò dalle concubine di suo padre, a vista di tutto Israele."
+        },
+        {
+          "number": 23,
+          "text": "Or in que’ giorni, un consiglio dato da Ahitofel era come una parola data da Dio a uno che lo avesse consultato. Così era di tutti i consigli di Ahitofel, tanto per Davide quanto per Absalom."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Poi Ahitofel disse ad Absalom: “Lasciami scegliere dodicimila uomini; e partirò e inseguirò Davide questa notte stessa;"
+        },
+        {
+          "number": 2,
+          "text": "e gli piomberò addosso mentr’egli è stanco ed ha le braccia fiacche; lo spaventerò, e tutta la gente ch’è con lui si darà alla fuga; io colpirò il re solo,"
+        },
+        {
+          "number": 3,
+          "text": "e ricondurrò a te tutto il popolo; l’uomo che tu cerchi vale quanto il ritorno di tutti; e così tutto il popolo sarà in pace”."
+        },
+        {
+          "number": 4,
+          "text": "Questo parlare piacque ad Absalom e a tutti gli anziani d’Israele."
+        },
+        {
+          "number": 5,
+          "text": "Nondimeno Absalom disse: “Chiamate ancora Hushai, l’Arkita, e sentiamo quel che anch’egli dirà”."
+        },
+        {
+          "number": 6,
+          "text": "E quando Hushai fu venuto da Absalom, questi gli disse: “Ahitofel ha parlato così e così; dobbiam noi fare come ha detto lui? Se no, parla tu!”"
+        },
+        {
+          "number": 7,
+          "text": "Hushai rispose ad Absalom: “Questa volta il consiglio dato da Ahitofel non è buono”."
+        },
+        {
+          "number": 8,
+          "text": "E Hushai soggiunse: “Tu conosci tuo padre e i suoi uomini, e sai come sono gente valorosa e come hanno l’animo esasperato al par d’un’orsa nella campagna quando le sono stati rapiti i figli; e poi tuo padre è un guerriero, e non passerà la notte col popolo."
+        },
+        {
+          "number": 9,
+          "text": "Senza dubbio egli è ora nascosto in qualche buca o in qualche altro luogo; e avverrà che, se fin da principio ne cadranno alcuni de’ tuoi, chiunque lo verrà a sapere dirà: Tra la gente che seguiva Absalom c’è stata una strage."
+        },
+        {
+          "number": 10,
+          "text": "Allora il più valoroso, anche se avesse un cuor di leone, si avvilirà, perché tutto Israele sa che tuo padre è un prode, e che quelli che ha seco son dei valorosi."
+        },
+        {
+          "number": 11,
+          "text": "Perciò io consiglio che tutto Israele da Dan fino a Beer-Sheba, si raduni presso di te, numeroso come la rena ch’è sul lido del mare, e che tu vada in persona alla battaglia."
+        },
+        {
+          "number": 12,
+          "text": "Così lo raggiungeranno in qualunque luogo ei si troverà, e gli cadranno addosso come la rugiada cade sul suolo; e di tutti quelli che sono con lui non ne scamperà uno solo."
+        },
+        {
+          "number": 13,
+          "text": "E s’egli si ritira in qualche città, tutto Israele cingerà di funi quella città e noi la trascineremo nel torrente in guisa che non se ne trovi più nemmeno una pietruzza”."
+        },
+        {
+          "number": 14,
+          "text": "Absalom e tutti gli uomini d’Israele dissero: “Il consiglio di Hushai, l’Arkita, è migliore di quello di Ahitofel”. L’Eterno avea stabilito di render vano il buon consiglio di Ahitofel, per far cadere la sciagura sopra Absalom."
+        },
+        {
+          "number": 15,
+          "text": "Allora Hushai disse ai sacerdoti Tsadok ed Abiathar: “Ahitofel ha consigliato Absalom e gli anziani d’Israele così e così, e io ho consigliato in questo e questo modo."
+        },
+        {
+          "number": 16,
+          "text": "Or dunque mandate in fretta ad informare Davide e ditegli: Non passar la notte nelle pianure del deserto, ma senz’altro va oltre, affinché il re con tutta la gente che ha seco non rimanga sopraffatto”."
+        },
+        {
+          "number": 17,
+          "text": "Or Gionathan e Ahimaats stavano appostati presso En-Roghel; ed essendo la serva andata ad informarli, essi andarono ad informare il re Davide. Poiché essi non potevano entrare in città in modo palese."
+        },
+        {
+          "number": 18,
+          "text": "Or un giovinetto li avea scorti, e ne aveva avvisato Absalom; ma i due partirono di corsa e giunsero a Bahurim a casa di un uomo che avea nella sua corte una cisterna."
+        },
+        {
+          "number": 19,
+          "text": "Quelli vi si calarono; e la donna di casa prese una coperta, la distese sulla bocca della cisterna, e vi sparse su del grano pesto; cosicché nessuno ne seppe nulla."
+        },
+        {
+          "number": 20,
+          "text": "I servi di Absalom vennero in casa di quella donna, e chiesero: “Dove sono Ahimaats e Gionathan?” La donna rispose loro: “Hanno passato il ruscello”. Quelli si misero a cercarli; e, non potendoli trovare, se ne tornarono a Gerusalemme."
+        },
+        {
+          "number": 21,
+          "text": "E come quelli se ne furono andati, i due usciron fuori dalla cisterna, e andarono ad informare il re Davide. Gli dissero: “Levatevi, e affrettatevi a passar l’acqua; perché ecco qual è il consiglio che Ahitofel ha dato a vostro danno”."
+        },
+        {
+          "number": 22,
+          "text": "Allora Davide si levò con tutta la gente ch’era con lui, e passò il Giordano. All’apparir del giorno, neppur uno era rimasto, che non avesse passato il Giordano."
+        },
+        {
+          "number": 23,
+          "text": "Ahitofel, vedendo che il suo consiglio non era stato seguito, sellò il suo asino, e partì per andarsene a casa sua nella sua città. Mise in ordine le cose della sua casa, e s’impiccò. Così morì, e fu sepolto nel sepolcro di suo padre."
+        },
+        {
+          "number": 24,
+          "text": "Or Davide giunse a Mahanaim, e Absalom anch’egli passò il Giordano, con tutta la gente d’Israele."
+        },
+        {
+          "number": 25,
+          "text": "Absalom avea posto a capo dell’esercito Amasa, invece di Joab. Or Amasa era figliuolo di un uomo chiamato Jithra, l’Ismaelita, il quale aveva avuto relazioni con Abigal, figliuola di Nahash, sorella di Tseruia, madre di Joab."
+        },
+        {
+          "number": 26,
+          "text": "E Israele ed Absalom si accamparono nel paese di Galaad."
+        },
+        {
+          "number": 27,
+          "text": "Quando Davide fu giunto a Mahanaim, Shobi, figliuolo di Nahash ch’era da Rabba città degli Ammoniti, Makir, figliuolo di Ammiel da Lodebar, e Barzillai, il Galaadita di Roghelim,"
+        },
+        {
+          "number": 28,
+          "text": "portarono dei letti, dei bacini, de’ vasi di terra, del grano, dell’orzo, della farina, del grano arrostito, delle fave, delle lenticchie, de’ legumi arrostiti,"
+        },
+        {
+          "number": 29,
+          "text": "del miele, del burro, delle pecore e de’ formaggi di vacca, per Davide e per la gente ch’era con lui, affinché mangiassero; perché dicevano: “Questa gente deve aver patito fame, stanchezza e sete nel deserto”."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or Davide fece la rivista della gente che avea seco, e costituì dei capitani di migliaia e de’ capitani di centinaia per comandarla."
+        },
+        {
+          "number": 2,
+          "text": "E fece marciare un terzo della sua gente sotto il comando di Joab, un terzo sotto il comando di Abishai, figliuolo di Tseruia, fratello di Joab, e un terzo sotto il comando di Ittai di Gath. Poi il re disse al popolo: “Voglio andare anch’io con voi!”"
+        },
+        {
+          "number": 3,
+          "text": "Ma il popolo rispose: “Tu non devi venire; perché, se noi fossimo messi in fuga, non si farebbe alcun caso di noi; quand’anche perisse la metà di noi, non se ne farebbe alcun caso; ma tu conti per diecimila di noi; or dunque è meglio che tu ti tenga pronto a darci aiuto dalla città”."
+        },
+        {
+          "number": 4,
+          "text": "Il re rispose loro: “Farò quello che vi par bene”. E il re si fermò presso la porta, mentre tutto l’esercito usciva a schiere di cento e di mille uomini."
+        },
+        {
+          "number": 5,
+          "text": "E il re diede quest’ordine a Joab, ad Abishai e ad Ittai: “Per amor mio, trattate con riguardo il giovine Absalom!” E tutto il popolo udì quando il re diede a tutti i capitani quest’ordine relativamente ad Absalom."
+        },
+        {
+          "number": 6,
+          "text": "L’esercito si mise dunque in campagna contro Israele, e la battaglia ebbe luogo nella foresta di Efraim."
+        },
+        {
+          "number": 7,
+          "text": "E il popolo d’Israele fu quivi sconfitto dalla gente di Davide; e la strage ivi fu grande in quel giorno, caddero ventimila uomini."
+        },
+        {
+          "number": 8,
+          "text": "La battaglia si estese su tutta la contrada; e la foresta divorò in quel giorno assai più gente di quella che non avesse divorato la spada."
+        },
+        {
+          "number": 9,
+          "text": "E Absalom s’imbatté nella gente di Davide. Absalom cavalcava il suo mulo; il mulo entrò sotto i rami intrecciati di un gran terebinto, e il capo di Absalom s’impigliò nel terebinto, talché egli rimase sospeso fra cielo e terra; mentre il mulo, ch’era sotto di lui, passava oltre."
+        },
+        {
+          "number": 10,
+          "text": "Un uomo vide questo, e lo venne a riferire a Joab, dicendo: “Ho veduto Absalom appeso a un terebinto”."
+        },
+        {
+          "number": 11,
+          "text": "Joab rispose all’uomo che gli recava la nuova: “Come! tu l’hai visto? E perché non l’hai tu, sul posto, steso morto al suolo? Io non avrei mancato di darti dieci sicli d’argento e una cintura”."
+        },
+        {
+          "number": 12,
+          "text": "Ma quell’uomo disse a Joab: “Quand’anche mi fossero messi in mano mille sicli d’argento, io non metterei la mano addosso al figliuolo del re; poiché noi abbiamo udito l’ordine che il re ha dato a te, ad Abishai e ad Ittai dicendo: Badate che nessuno tocchi il giovine Absalom!"
+        },
+        {
+          "number": 13,
+          "text": "E se io avessi perfidamente attentato alla sua vita, siccome nulla rimane occulto al re, tu stesso saresti sorto contro di me!”"
+        },
+        {
+          "number": 14,
+          "text": "Allora Joab disse: “Io non voglio perder così il tempo con te”. E, presi in mano tre dardi, li immerse nel cuore di Absalom, che era ancora vivo in mezzo al terebinto."
+        },
+        {
+          "number": 15,
+          "text": "Poi dieci giovani scudieri di Joab circondarono Absalom, e coi loro colpi lo finirono."
+        },
+        {
+          "number": 16,
+          "text": "Allora Joab fe’ sonare la tromba, e il popolo fece ritorno cessando d’inseguire Israele, perché Joab glielo impedì."
+        },
+        {
+          "number": 17,
+          "text": "Poi presero Absalom, lo gettarono in una gran fossa nella foresta, ed elevarono sopra di lui un mucchio grandissimo di pietre; e tutto Israele fuggì, ciascuno nella sua tenda."
+        },
+        {
+          "number": 18,
+          "text": "Or Absalom, mentr’era in vita, si era eretto il monumento ch’è nella Valle del re; perché diceva: “Io non ho un figliuolo che conservi il ricordo del mio nome”; e diede il suo nome a quel monumento, che anche oggi si chiama “monumento di Absalom”."
+        },
+        {
+          "number": 19,
+          "text": "Ed Ahimaats, figliuolo di Tsadok, disse a Joab: “Lasciami correre a portare al re la notizia che l’Eterno gli ha fatto giustizia contro i suoi nemici”."
+        },
+        {
+          "number": 20,
+          "text": "Joab gli rispose: “Non sarai tu che porterai oggi la notizia; la porterai un altro giorno; non porterai oggi la notizia, perché il figliuolo del re è morto”."
+        },
+        {
+          "number": 21,
+          "text": "Poi Joab disse all’Etiopo: “Va’, e riferisci al re quello che hai veduto”. L’Etiopo s’inchinò a Joab, e corse via."
+        },
+        {
+          "number": 22,
+          "text": "Ahimaats, figliuolo di Tsadok, disse di nuovo a Joab: “Qualunque cosa avvenga, ti prego, lasciami correr dietro all’Etiopo!” Joab gli disse: “Ma perché, figliuol mio, vuoi tu correre? La notizia non ti recherà nulla di buono”."
+        },
+        {
+          "number": 23,
+          "text": "E l’altro: “Qualunque cosa avvenga, voglio correre”. E Joab gli disse: “Corri!” Allora Ahimaats prese la corsa per la via della pianura, e oltrepassò l’Etiopo."
+        },
+        {
+          "number": 24,
+          "text": "Or Davide stava sedendo fra le due porte; la sentinella salì sul tetto della porta dal lato del muro; alzò gli occhi, guardò, ed ecco un uomo che correva tutto solo."
+        },
+        {
+          "number": 25,
+          "text": "La sentinella gridò e avvertì il re. Il re disse: “Se è solo, porta notizie”. E quello s’andava avvicinando sempre più."
+        },
+        {
+          "number": 26,
+          "text": "Poi la sentinella vide un altr’uomo che correva, e gridò al guardiano: “Ecco un altr’uomo che corre tutto solo!” E il re: “Anche questo porta notizie”."
+        },
+        {
+          "number": 27,
+          "text": "La sentinella disse: “Il modo di correre del primo mi par quello di Ahimaats, figliuolo di Tsadok”. E il re disse: “E’ un uomo dabbene, e viene a portare buone notizie”."
+        },
+        {
+          "number": 28,
+          "text": "E Ahimaats gridò al re: “Pace!” E, prostratosi dinanzi al re con la faccia a terra, disse: “Benedetto sia l’Eterno, l’Iddio tuo, che ha dato in tuo potere gli uomini che aveano alzate le mani contro il re, mio signore!”"
+        },
+        {
+          "number": 29,
+          "text": "Il re disse: “Il giovine Absalom sta egli bene?” Ahimaats rispose: “Quando Joab mandava il servo del re e me tuo servo io vidi un gran tumulto, ma non so di che si trattasse”."
+        },
+        {
+          "number": 30,
+          "text": "Il re gli disse: “Mettiti là da parte”. E quegli si mise da parte, e aspettò."
+        },
+        {
+          "number": 31,
+          "text": "Quand’ecco arrivare l’Etiopo, che disse: “Buone notizie per il re signore! L’Eterno t’ha reso oggi giustizia, liberandoti dalle mani di tutti quelli ch’erano insorti contro di te”."
+        },
+        {
+          "number": 32,
+          "text": "Il re disse all’Etiopo: “Il giovine Absalom sta egli bene?” L’Etiopo rispose: “Possano i nemici del re mio signore, e tutti quelli che insorgono contro di te per farti del male, subir la sorte di quel giovane!”"
+        },
+        {
+          "number": 33,
+          "text": "Allora il re, vivamente commosso, salì nella camera che era sopra la porta, e pianse; e, nell’andare, diceva: “Absalom figliuolo mio! Figliuolo mio, Absalom figliuol mio! Oh foss’io pur morto in vece tua, o Absalom figliuolo mio, figliuolo mio!”"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or vennero a dire a Joab: “Ecco, il re piange e fa cordoglio a motivo di Absalom”."
+        },
+        {
+          "number": 2,
+          "text": "E la vittoria in quel giorno si cangiò in lutto per tutto il popolo, perché il popolo sentì dire in quel giorno: “Il re è molto afflitto a cagione del suo figliuolo”."
+        },
+        {
+          "number": 3,
+          "text": "E il popolo in quel giorno rientrò furtivamente in città, com’avrebbe fatto gente coperta di vergogna per esser fuggita in battaglia."
+        },
+        {
+          "number": 4,
+          "text": "E il re s’era coperto la faccia, e ad alta voce gridava: “Absalom figliuol mio! Absalom figliuol mio, figliuol mio!”"
+        },
+        {
+          "number": 5,
+          "text": "Allora Joab entrò in casa dal re, e disse: “Tu copri oggi di rossore il volto di tutta la tua gente, che in questo giorno ha salvato la vita a te, ai tuoi figliuoli, e alle tue figliuole alle tue mogli e alle tue concubine,"
+        },
+        {
+          "number": 6,
+          "text": "giacché ami quelli che t’odiano, e odi quelli che t’amano; infatti oggi tu fai vedere che capitani e soldati per te son nulla; e ora io vedo bene che se Absalom fosse vivo e noi fossimo quest’oggi tutti morti, allora saresti contento."
+        },
+        {
+          "number": 7,
+          "text": "Or dunque lèvati, esci, e parla al cuore della tua gente; perché io giuro per l’Eterno che, se non esci, neppure un uomo resterà con te questa notte; e questa sarà per te sventura maggiore di tutte quelle che ti son cadute addosso dalla tua giovinezza fino a oggi”."
+        },
+        {
+          "number": 8,
+          "text": "Allora il re si levò e si pose a sedere alla porta; e ne fu dato l’annunzio a tutto il popolo, dicendo: “Ecco il re sta assiso alla porta”. E tutto il popolo venne in presenza del re. Or quei d’Israele se n’eran fuggiti, ognuno nella sua tenda;"
+        },
+        {
+          "number": 9,
+          "text": "e in tutte le tribù d’Israele tutto il popolo stava discutendo, e dicevano: “Il re ci ha liberati dalle mani dei nostri nemici e ci ha salvati dalle mani de’ Filistei; e ora ha dovuto fuggire dal paese a cagione di Absalom;"
+        },
+        {
+          "number": 10,
+          "text": "e Absalom, che noi avevamo unto perché regnasse su noi, è morto in battaglia; perché dunque non parlate di far tornare il re?”"
+        },
+        {
+          "number": 11,
+          "text": "E il re Davide mandò a dire ai sacerdoti Tsadok ed Abiathar: “Parlate agli anziani di Giuda, e dite loro: Perché sareste voi ultimi a ricondurre il re a casa sua? I discorsi che si tengono in tutto Israele sono giunti fino alla casa del re."
+        },
+        {
+          "number": 12,
+          "text": "Voi siete miei fratelli, siete mie ossa e mia carne; perché dunque sareste gli ultimi a far tornare il re?"
+        },
+        {
+          "number": 13,
+          "text": "E dite ad Amasa: Non sei tu mie ossa e mia carne? Iddio mi tratti con tutto il suo rigore, se tu non diventi per sempre capo dell’esercito, invece di Joab”."
+        },
+        {
+          "number": 14,
+          "text": "Così Davide piegò il cuore di tutti gli uomini di Giuda, come se fosse stato il cuore di un sol uomo; ed essi mandarono a dire al re: “Ritorna tu con tutta la tua gente”."
+        },
+        {
+          "number": 15,
+          "text": "Il re dunque tornò, e giunse al Giordano; e quei di Giuda vennero a Ghilgal per andare incontro al re, e per fargli passare il Giordano."
+        },
+        {
+          "number": 16,
+          "text": "Shimei, figliuolo di Ghera, Beniaminita, ch’era di Bahurim, si affrettò a scendere con gli uomini di Giuda incontro al re Davide."
+        },
+        {
+          "number": 17,
+          "text": "Egli avea seco mille uomini di Beniamino, Tsiba, servo della casa di Saul, coi suoi quindici figliuoli e i suoi venti servi. Essi passarono il Giordano davanti al re."
+        },
+        {
+          "number": 18,
+          "text": "La chiatta che dovea tragittare la famiglia del re e tenersi a sua disposizione, passò; e Shimei, figliuolo di Ghera, prostratosi dinanzi al re, nel momento in cui questi stava per passare il Giordano,"
+        },
+        {
+          "number": 19,
+          "text": "gli disse: “Non tenga conto, il mio signore, della mia iniquità, e dimentichi la perversa condotta tenuta dal suo servo il giorno in cui il re mio signore usciva da Gerusalemme, e non ne serbi il re risentimento!"
+        },
+        {
+          "number": 20,
+          "text": "Poiché il tuo servo riconosce che ha peccato; e per questo sono stato oggi il primo di tutta la casa di Giuseppe a scendere incontro al re mio signore”."
+        },
+        {
+          "number": 21,
+          "text": "Ma Abishai, figliuolo di Tseruia, prese a dire: “Nonostante questo, Shimei non dev’egli morire per aver maledetto l’unto dell’Eterno?”"
+        },
+        {
+          "number": 22,
+          "text": "E Davide disse: “Che ho io da fare con voi, o figliuoli di Tseruia, che vi mostrate oggi miei avversari? Si farebb’egli morir oggi qualcuno in Israele? Non so io dunque che oggi divento re d’Israele?”"
+        },
+        {
+          "number": 23,
+          "text": "E il re disse a Shimei: “Tu non morrai!” E il re glielo giurò."
+        },
+        {
+          "number": 24,
+          "text": "Mefibosheth, nipote di Saul, scese anch’egli incontro al re. Ei non s’era puliti i piedi, né spuntata la barba, né lavate le vesti dal giorno in cui il re era partito fino a quello in cui tornava in pace."
+        },
+        {
+          "number": 25,
+          "text": "E quando fu giunto da Gerusalemme per incontrare il re, il re gli disse: “Perché non venisti meco, Mefibosheth?”"
+        },
+        {
+          "number": 26,
+          "text": "Quegli rispose: “O re, mio signore, il mio servo m’ingannò; perché il tuo servo, che è zoppo, avea detto: Io mi farò sellar l’asino, monterò, e andrò col re."
+        },
+        {
+          "number": 27,
+          "text": "Ed egli ha calunniato il tuo servo presso il re mio signore; ma il re mio signore è come un angelo di Dio; fa’ dunque ciò che ti piacerà."
+        },
+        {
+          "number": 28,
+          "text": "Poiché tutti quelli della casa di mio padre non avrebbero meritato dal re mio signore altro che la morte; e, nondimeno, tu avevi posto il tuo servo fra quelli che mangiano alla tua mensa. E qual altro diritto poss’io avere? E perché continuerei io a supplicare il re?”"
+        },
+        {
+          "number": 29,
+          "text": "E il re gli disse: “Non occorre che tu aggiunga altre parole. L’ho detto; tu e Tsiba dividetevi le terre”."
+        },
+        {
+          "number": 30,
+          "text": "E Mefibosheth rispose al re: “Si prenda pur egli ogni cosa, giacché il re mio signore è tornato in pace a casa sua”."
+        },
+        {
+          "number": 31,
+          "text": "Or Barzillai, il Galaadita, scese da Roghelim, e passò il Giordano col re per accompagnarlo di là dal Giordano."
+        },
+        {
+          "number": 32,
+          "text": "Barzillai era molto vecchio; aveva ottant’anni, ed avea fornito i viveri al re mentre questi si trovava a Mahanaim; poiché era molto facoltoso."
+        },
+        {
+          "number": 33,
+          "text": "Il re disse a Barzillai: “Vieni con me oltre il fiume; io provvederò al tuo sostentamento a casa mia a Gerusalemme”."
+        },
+        {
+          "number": 34,
+          "text": "Ma Barzillai rispose al re: “Troppo pochi son gli anni che mi resta da vivere perch’io salga col re a Gerusalemme."
+        },
+        {
+          "number": 35,
+          "text": "Io ho adesso ottant’anni: posso io ancora discernere ciò ch’è buono da ciò che è cattivo? Può il tuo servo gustare ancora ciò che mangia o ciò che beve? Posso io udire ancora la voce dei cantori e delle cantatrici? E perché dunque il tuo servo sarebb’egli d’aggravio al re mio signore?"
+        },
+        {
+          "number": 36,
+          "text": "Solo per poco tempo andrebbe il tuo servo oltre il Giordano col re; e perché il re vorrebb’egli rimunerarmi con un cotal beneficio?"
+        },
+        {
+          "number": 37,
+          "text": "Deh, lascia che il tuo servo se ne ritorni indietro, e ch’io possa morire nella mia città presso la tomba di mio padre e di mia madre! Ma ecco il tuo servo Kimham; passi egli col re mio signore, e fa’ per lui quello che ti piacerà”."
+        },
+        {
+          "number": 38,
+          "text": "Il re rispose: “Venga meco Kimham, e io farò per lui quello che a te piacerà; e farò per te tutto quello che desidererai da me”."
+        },
+        {
+          "number": 39,
+          "text": "E quando tutto il popolo ebbe passato il Giordano e l’ebbe passato anche il re, il re baciò Barzillai e lo benedisse, ed egli se ne tornò a casa sua."
+        },
+        {
+          "number": 40,
+          "text": "Così il re passò oltre, e andò a Ghilgal; e Kimham lo accompagnò. Tutto il popolo di Giuda e anche la metà del popolo d’Israele aveano fatto scorta al re."
+        },
+        {
+          "number": 41,
+          "text": "Allora tutti gli altri Israeliti vennero dal re e gli dissero: “Perché i nostri fratelli, gli uomini di Giuda, ti hanno portato via di nascosto, e hanno fatto passare il Giordano al re, alla sua famiglia e a tutta la gente di Davide?”"
+        },
+        {
+          "number": 42,
+          "text": "E tutti gli uomini di Giuda risposero agli uomini d’Israele: “Perché il re appartiene a noi più dappresso; e perché vi adirate voi per questo? Abbiam noi mangiato a spese del re? O abbiam noi ricevuto qualche regalo?”"
+        },
+        {
+          "number": 43,
+          "text": "E gli uomini d’Israele risposero agli uomini di Giuda: “Il re appartiene a noi dieci volte più che a voi, e quindi Davide è più nostro che vostro; perché dunque ci avete disprezzati? Non siamo stati noi i primi a proporre di far tornare il nostro re?” Ma il parlare degli uomini di Giuda fu più violento di quello degli uomini d’Israele."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or quivi si trovava un uomo scellerato per nome Sheba, figliuolo di Bicri, un Beniaminita, il quale sonò la tromba, e disse: “Noi non abbiamo nulla da spartire con Davide, non abbiamo nulla in comune col figliuolo d’Isai! O Israele, ciascuno alla sua tenda!”"
+        },
+        {
+          "number": 2,
+          "text": "E tutti gli uomini di Israele ripresero la via delle alture, separandosi da Davide per seguire Sheba, figliuolo di Bicri; ma quei di Giuda non si staccarono dal loro re, e l’accompagnarono dal Giordano fino a Gerusalemme."
+        },
+        {
+          "number": 3,
+          "text": "Quando Davide fu giunto a casa sua a Gerusalemme, prese le dieci concubine che avea lasciate a custodia della casa, e le fece rinchiudere; egli somministrava loro gli alimenti, ma non si accostava ad esse; e rimasero così rinchiuse, vivendo come vedove, fino al giorno della loro morte."
+        },
+        {
+          "number": 4,
+          "text": "Poi il re disse ad Amasa: “Radunami tutti gli uomini di Giuda entro tre giorni; e tu trovati qui”."
+        },
+        {
+          "number": 5,
+          "text": "Amasa dunque partì per adunare gli uomini di Giuda; ma tardò oltre il tempo fissatogli dal re."
+        },
+        {
+          "number": 6,
+          "text": "Allora Davide disse ad Abishai: “Sheba, figliuolo di Bicri, ci farà adesso più male di Absalom; prendi tu la gente del tuo signore, e inseguilo onde non trovi delle città fortificate e ci sfugga”."
+        },
+        {
+          "number": 7,
+          "text": "E Abishai partì, seguito dalla gente di Joab, dai Kerethei, dai Pelethei, e da tutti gli uomini più valorosi; e usciron da Gerusalemme per inseguire Sheba, figliuolo di Bicri."
+        },
+        {
+          "number": 8,
+          "text": "Si trovavano presso alla gran pietra che è in Gabaon, quando Amasa venne loro incontro. Or Joab indossava la sua veste militare sulla quale cingeva una spada che, attaccata al cinturino, gli pendea dai fianchi nel suo fodero; mentre Joab si faceva innanzi, la spada gli cadde."
+        },
+        {
+          "number": 9,
+          "text": "Joab disse ad Amasa: “Stai tu bene, fratel mio?” E con la destra prese Amasa per la barba, per baciarlo."
+        },
+        {
+          "number": 10,
+          "text": "Amasa non fece attenzione alla spada che Joab aveva in mano; e Joab lo colpì nel ventre si che gli intestini si sparsero per terra; non lo colpì una seconda volta e quegli morì. Poi Joab ed Abishai, suo fratello, si misero a inseguire Sheba, figliuolo di Bicri."
+        },
+        {
+          "number": 11,
+          "text": "Uno de’ giovani di Joab era rimasto presso Amasa, e diceva: “Chi vuol bene a Joab e chi è per Davide segua Joab!”"
+        },
+        {
+          "number": 12,
+          "text": "Intanto Amasa si rotolava nel sangue in mezzo alla strada. E quell’uomo vedendo che tutto il popolo si fermava, strascinò Amasa fuori della strada in un campo, e gli buttò addosso un mantello; perché avea visto che tutti quelli che gli arrivavan vicino, si fermavano;"
+        },
+        {
+          "number": 13,
+          "text": "ma quand’esso fu tolto dalla strada, tutti passavano al séguito di Joab per dar dietro a Sheba figliuolo di Bicri."
+        },
+        {
+          "number": 14,
+          "text": "Joab passò per mezzo a tutte le tribù d’Israele fino ad Abel ed a Beth-Maaca. E tutto il fior fiore degli uomini si radunò e lo seguì."
+        },
+        {
+          "number": 15,
+          "text": "E vennero e assediarono Sheba in Abel-Beth-Maaca, e innalzarono contro la città un bastione che dominava le fortificazioni; e tutta la gente ch’era con Joab batteva in breccia le mura per abbatterle."
+        },
+        {
+          "number": 16,
+          "text": "Allora una donna di senno gridò dalla città: “Udite, udite! Vi prego, dite a Joab di appressarsi, ché gli voglio parlare!”"
+        },
+        {
+          "number": 17,
+          "text": "E quand’egli si fu avvicinato, la donna gli chiese: “Sei tu Joab?” Egli rispose: “Son io”. Allora ella gli disse: “Ascolta la parola della tua serva”. Egli rispose: “Ascolto”."
+        },
+        {
+          "number": 18,
+          "text": "Ed ella riprese: “Una volta si soleva dire: Si domandi consiglio ad Abel! ed era affar finito."
+        },
+        {
+          "number": 19,
+          "text": "Abel è una delle città più pacifiche e più fedeli in Israele; e tu cerchi di far perire una città che è una madre in Israele. Perché vuoi tu distruggere l’eredità dell’Eterno?”"
+        },
+        {
+          "number": 20,
+          "text": "Joab rispose: “Lungi, lungi da me l’idea di distruggere e di guastare."
+        },
+        {
+          "number": 21,
+          "text": "Il fatto non sta così; ma un uomo della contrada montuosa d’Efraim, per nome Sheba, figliuolo di Bicri, ha levato la mano contro il re, contro Davide. Consegnatemi lui solo, ed io m’allontanerò dalla città”. E la donna disse a Joab: “Ecco, la sua testa ti sarà gettata dalle mura”."
+        },
+        {
+          "number": 22,
+          "text": "Allora la donna si rivolse a tutto il popolo col suo savio consiglio; e quelli tagliaron la testa a Sheba, figliuolo di Bicri, e la gettarono a Joab. E questi fece sonar la tromba; tutti si dispersero lungi dalla città, e ognuno se ne andò alla sua tenda. E Joab tornò a Gerusalemme presso il re."
+        },
+        {
+          "number": 23,
+          "text": "Joab era a capo di tutto l’esercito d’Israele; Benaia, figliuolo di Jehoiada, era a capo dei Kerethei e dei Pelethei;"
+        },
+        {
+          "number": 24,
+          "text": "Adoram era preposto ai tributi; Joshafat, figliuolo di Ahilud, era archivista;"
+        },
+        {
+          "number": 25,
+          "text": "Sceia era segretario; Tsadok ed Abiathar erano sacerdoti;"
+        },
+        {
+          "number": 26,
+          "text": "(H20-25) òe anche Ira di Jair era ministro di stato di Davide."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Al tempo di Davide ci fu una fame per tre anni continui; Davide cercò la faccia dell’Eterno, e l’Eterno gli disse: “Questo avviene a motivo di Saul e della sua casa sanguinaria, perch’egli fece perire i Gabaoniti”."
+        },
+        {
+          "number": 2,
+          "text": "Allora il re chiamò i Gabaoniti, e parlò loro. I Gabaoniti non erano del numero de’ figliuoli d’Israele, ma avanzi degli Amorei; e i figliuoli d’Israele s’eran legati a loro per giuramento; nondimeno, Saul, nel suo zelo per i figliuoli d’Israele e di Giuda avea cercato di sterminarli."
+        },
+        {
+          "number": 3,
+          "text": "Davide disse ai Gabaoniti: “Che debbo io fare per voi, e in che modo espierò il torto fattovi, perché voi benediciate l’eredità dell’Eterno?”"
+        },
+        {
+          "number": 4,
+          "text": "I Gabaoniti gli risposero: “Fra noi e Saul e la sua casa non è questione d’argento o d’oro; e non appartiene a noi il far morire alcuno in Israele”. Il re disse: “Quel che voi direte io lo farò per voi”."
+        },
+        {
+          "number": 5,
+          "text": "E quelli risposero al re: “Poiché quell’uomo ci ha consunti e avea fatto il piano di sterminarci per farci sparire da tutto il territorio d’Israele,"
+        },
+        {
+          "number": 6,
+          "text": "ci siano consegnati sette uomini di tra i suoi figliuoli, e noi li appiccheremo dinanzi all’Eterno a Ghibea di Saul, l’Eletto dell’Eterno”. Il re disse: “Ve li consegnerò”."
+        },
+        {
+          "number": 7,
+          "text": "Il re risparmiò Mefibosheth, figliuolo di Gionathan, figliuolo di Saul, per cagione del giuramento che Davide e Gionathan, figliuolo di Saul, avean fatto tra loro davanti all’Eterno;"
+        },
+        {
+          "number": 8,
+          "text": "ma il re prese i due figliuoli che Ritspa figliuola d’Aiah avea partoriti a Saul, Armoni e Mefibosheth, e i cinque figliuoli che Merab, figliuola di Saul, avea partoriti ad Adriel di Mehola, figliuolo di Barzillai,"
+        },
+        {
+          "number": 9,
+          "text": "e li consegnò ai Gabaoniti, che li appiccarono sul monte, dinanzi all’Eterno. Tutti e sette perirono assieme; furon messi a morte nei primi giorni della mèsse, quando si principiava a mietere l’orzo."
+        },
+        {
+          "number": 10,
+          "text": "Ritspa, figliuola di Aiah, prese un cilicio, se lo stese sulla roccia, e stette là dal principio della mèsse fino a che l’acqua non cadde dal cielo sui cadaveri; e impedì agli uccelli del cielo di posarsi su di essi di giorno, e alle fiere dei campi d’accostarsi di notte."
+        },
+        {
+          "number": 11,
+          "text": "E fu riferito a Davide quello che Ritspa, figliuola di Aiah, concubina di Saul, avea fatto."
+        },
+        {
+          "number": 12,
+          "text": "E Davide andò a prendere le ossa di Saul e quelle di Gionathan suo figliuolo presso gli abitanti di Jabes di Galaad, i quali le avean portate via dalla piazza di Beth-Shan, dove i Filistei aveano appesi i cadaveri quando aveano sconfitto Saul sul Ghilboa."
+        },
+        {
+          "number": 13,
+          "text": "Egli riportò di là le ossa di Saul e quelle di Gionathan suo figliuolo; e anche le ossa di quelli ch’erano stati impiccati furono raccolte."
+        },
+        {
+          "number": 14,
+          "text": "E le ossa di Saul e di Gionathan suo figliuolo furon sepolte nel paese di Beniamino, a Tsela, nel sepolcro di Kis, padre di Saul; e fu fatto tutto quello che il re avea ordinato. Dopo questo, Iddio fu placato verso il paese."
+        },
+        {
+          "number": 15,
+          "text": "I Filistei mossero di nuovo guerra ad Israele; e Davide scese con la sua gente a combattere contro i Filistei. Davide era stanco;"
+        },
+        {
+          "number": 16,
+          "text": "e Ishbi-Benob, uno dei discendenti di Rafa, che aveva una lancia del peso di trecento sicli di rame e portava un’armatura nuova, manifestò il proposito di uccidere Davide;"
+        },
+        {
+          "number": 17,
+          "text": "ma Abishai, il figliuolo di Tseruia, venne in soccorso del re, colpì il Filisteo, e lo uccise. Allora la gente di Davide gli fece questo giuramento: “Tu non uscirai più con noi a combattere, e non spegnerai la lampada d’Israele”."
+        },
+        {
+          "number": 18,
+          "text": "Dopo questo, ci fu un’altra battaglia coi Filistei, a Gob; e allora Sibbecai di Huslah uccise Saf, uno dei discendenti di Rafa."
+        },
+        {
+          "number": 19,
+          "text": "Ci fu un’altra battaglia coi Filistei a Gob; ed Elhanan, figliuolo di Jaare-Oreghim di Bethlehem uccise Goliath di Gath, di cui l’asta della lancia era come un subbio da tessitore."
+        },
+        {
+          "number": 20,
+          "text": "Ci fu un’altra battaglia a Gath, dove si trovò un uomo di grande statura, che avea sei dita a ciascuna mano e a ciascun piede, in tutto ventiquattro dita, e che era anch’esso dei discendenti di Rafa."
+        },
+        {
+          "number": 21,
+          "text": "Egli ingiuriò Israele, e Gionathan, figliuolo di Scimea, fratello di Davide, l’uccise."
+        },
+        {
+          "number": 22,
+          "text": "Questi quattro erano nati a Gath, della stirpe di Rafa. Essi perirono per mano di Davide e per mano della sua gente."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Davide rivolse all’Eterno le parole di questo cantico quando l’Eterno l’ebbe riscosso dalla mano di tutti i suoi nemici e dalla mano di Saul. Egli disse:"
+        },
+        {
+          "number": 2,
+          "text": "“L’Eterno è la mia ròcca, la mia fortezza, il mio liberatore;"
+        },
+        {
+          "number": 3,
+          "text": "l’Iddio ch’è la mia rupe, in cui mi rifugio, il mio scudo, il mio potente salvatore, il mio alto ricetto, il mio asilo. O mio salvatore, tu mi salvi dalla violenza!"
+        },
+        {
+          "number": 4,
+          "text": "Io invocai l’Eterno ch’è degno d’ogni lode, e fui salvato dai miei nemici."
+        },
+        {
+          "number": 5,
+          "text": "Le onde della morte m’avean circondato e i torrenti della distruzione m’aveano spaventato."
+        },
+        {
+          "number": 6,
+          "text": "I legami del soggiorno de’ morti m’aveano attorniato, i lacci della morte m’aveano còlto."
+        },
+        {
+          "number": 7,
+          "text": "Nella mia distretta invocai l’Eterno, e gridai al mio Dio. Egli udì la mia voce dal suo tempio, e il mio grido pervenne ai suoi orecchi."
+        },
+        {
+          "number": 8,
+          "text": "Allora la terra fu scossa e tremò i fondamenti de’ cieli furono smossi e scrollati, perch’egli era acceso d’ira."
+        },
+        {
+          "number": 9,
+          "text": "Un fumo saliva dalle sue nari; un fuoco consumante gli usciva dalla bocca, e ne procedevano carboni accesi."
+        },
+        {
+          "number": 10,
+          "text": "Egli abbassò i cieli e discese, avendo sotto i piedi una densa caligine."
+        },
+        {
+          "number": 11,
+          "text": "Cavalcava sopra un cherubino e volava ed appariva sulle ali del vento."
+        },
+        {
+          "number": 12,
+          "text": "Avea posto intorno a sé, come un padiglione, le tenebre, le raccolte d’acque, le dense nubi de’ cieli."
+        },
+        {
+          "number": 13,
+          "text": "Dallo splendore che lo precedeva, si sprigionavano carboni accesi."
+        },
+        {
+          "number": 14,
+          "text": "L’Eterno tuonò dai cieli e l’Altissimo diè fuori la sua voce."
+        },
+        {
+          "number": 15,
+          "text": "Avventò saette, e disperse i nemici; lanciò folgori, e li mise in rotta."
+        },
+        {
+          "number": 16,
+          "text": "Allora apparve il letto del mare, e i fondamenti del mondo furono scoperti allo sgridare dell’Eterno, al soffio del vento delle sue nari."
+        },
+        {
+          "number": 17,
+          "text": "Egli distese dall’alto la mano mi prese, mi trasse fuori dalle grandi acque."
+        },
+        {
+          "number": 18,
+          "text": "Mi riscosse dal mio potente nemico, da quelli che mi odiavano; perch’eran più forti di me."
+        },
+        {
+          "number": 19,
+          "text": "Essi m’eran piombati addosso nel dì della mia calamità, ma l’Eterno fu il mio sostegno."
+        },
+        {
+          "number": 20,
+          "text": "Egli mi trasse fuori al largo, mi liberò perché mi gradisce."
+        },
+        {
+          "number": 21,
+          "text": "L’Eterno mi ha retribuito secondo la mia giustizia, mi ha reso secondo la purità dello mie mani,"
+        },
+        {
+          "number": 22,
+          "text": "poiché ho osservato le vie dell’Eterno e non mi sono empiamente sviato dal mio Dio."
+        },
+        {
+          "number": 23,
+          "text": "Poiché ho tenuto tutte le sue leggi davanti a me, e non mi sono allontanato dai suoi statuti."
+        },
+        {
+          "number": 24,
+          "text": "E sono stato integro verso di lui, e mi son guardato dalla mia iniquità."
+        },
+        {
+          "number": 25,
+          "text": "Ond’è che l’Eterno m’ha reso secondo la mia giustizia, secondo la mia purità nel suo cospetto."
+        },
+        {
+          "number": 26,
+          "text": "Tu ti mostri pietoso verso il pio, integro verso l’uomo integro;"
+        },
+        {
+          "number": 27,
+          "text": "ti mostri puro col puro e ti mostri astuto col perverso;"
+        },
+        {
+          "number": 28,
+          "text": "tu salvi la gente afflitta, e il tuo sguardo si ferma sugli alteri, per abbassarli."
+        },
+        {
+          "number": 29,
+          "text": "Sì, tu sei la mia lampada, o Eterno, e l’Eterno illumina le mie tenebre."
+        },
+        {
+          "number": 30,
+          "text": "Con te io assalgo tutta una schiera, col mio Dio salgo sulle mura."
+        },
+        {
+          "number": 31,
+          "text": "La via di Dio è perfetta, la parola dell’Eterno è purgata col fuoco. Egli è lo scudo di tutti quelli che sperano in lui."
+        },
+        {
+          "number": 32,
+          "text": "Poiché chi è Dio fuor del l’Eterno? E chi è Ròcca fuor del nostro Dio?"
+        },
+        {
+          "number": 33,
+          "text": "Iddio è la mia potente fortezza, e rende la mia via perfetta."
+        },
+        {
+          "number": 34,
+          "text": "Egli rende i miei piedi simili a quelli delle cerve e mi rende saldo sui miei alti luoghi."
+        },
+        {
+          "number": 35,
+          "text": "Egli ammaestra le mie mani alla battaglia e le mie braccia tendono un arco di rame."
+        },
+        {
+          "number": 36,
+          "text": "Tu m’hai anche dato lo scudo della tua salvezza, e la tua benignità m’ha fatto grande."
+        },
+        {
+          "number": 37,
+          "text": "Tu hai allargato la via ai miei passi; e i miei piedi non hanno vacillato."
+        },
+        {
+          "number": 38,
+          "text": "Io ho inseguito i miei nemici e li ho distrutti, e non son tornato addietro prima d’averli annientati."
+        },
+        {
+          "number": 39,
+          "text": "Li ho annientati, schiacciati; e non son risorti; son caduti sotto i miei piedi."
+        },
+        {
+          "number": 40,
+          "text": "Tu m’hai cinto di forza per la guerra, tu hai fatto piegare sotto di me i miei avversari;"
+        },
+        {
+          "number": 41,
+          "text": "hai fatto voltar le spalle davanti a me ai miei nemici, a quelli che m’odiavano, ed io li ho distrutti."
+        },
+        {
+          "number": 42,
+          "text": "Hanno guardato, ma non vi fu chi li salvasse; han gridato all’Eterno, ma egli non rispose loro;"
+        },
+        {
+          "number": 43,
+          "text": "io li ho tritati come polvere della terra, li ho pestati, calpestati, come il fango delle strade."
+        },
+        {
+          "number": 44,
+          "text": "Tu m’hai liberato dalle dissensioni del mio popolo, m’hai conservato capo di nazioni; un popolo che non conoscevo m’è stato sottoposto."
+        },
+        {
+          "number": 45,
+          "text": "I figli degli stranieri m’hanno reso omaggio, al solo udir parlare di me, m’hanno prestato ubbidienza."
+        },
+        {
+          "number": 46,
+          "text": "I figli degli stranieri son venuti meno, sono usciti tremanti dai loro ripari."
+        },
+        {
+          "number": 47,
+          "text": "Viva l’Eterno! Sia benedetta la mia ròcca! e sia esaltato Iddio, la ròcca della mia salvezza!"
+        },
+        {
+          "number": 48,
+          "text": "l’Iddio che fa la mia vendetta, e mi sottomette i popoli,"
+        },
+        {
+          "number": 49,
+          "text": "che mi trae dalle mani dei miei nemici. Sì, tu mi sollevi sopra i miei avversari mi riscuoti dall’uomo violento."
+        },
+        {
+          "number": 50,
+          "text": "Perciò, o Eterno, ti loderò fra le nazioni, e salmeggerò al tuo nome."
+        },
+        {
+          "number": 51,
+          "text": "Grandi liberazioni egli accorda al suo re, ed usa benignità verso il suo unto, verso Davide e la sua progenie in perpetuo”."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Queste sono le ultime parole di Davide: “Parola di Davide, figliuolo d’Isai, parola dell’uomo che fu elevato ad alta dignità, dell’unto dell’Iddio di Giacobbe, del dolce cantore d’Israele:"
+        },
+        {
+          "number": 2,
+          "text": "Lo spirito dell’Eterno ha parlato per mio mezzo, e la sua parola è stata sulle mie labbra."
+        },
+        {
+          "number": 3,
+          "text": "L’Iddio d’Israele ha parlato, la Ròcca d’Israele m’ha detto: “Colui che regna sugli uomini con giustizia, colui che regna con timor di Dio,"
+        },
+        {
+          "number": 4,
+          "text": "è come la luce mattutina, quando il sole si leva in un mattino senza nuvole, e col suo splendore, dopo la pioggia, fa spuntare l’erbetta dalla terra”."
+        },
+        {
+          "number": 5,
+          "text": "Non è egli così della mia casa dinanzi a Dio? Poich’egli ha fermato con me un patto eterno, in ogni punto ben regolato e sicuro appieno. Non farà egli germogliare la mia completa salvezza e tutto ciò ch’io bramo?"
+        },
+        {
+          "number": 6,
+          "text": "Ma gli scellerati tutti quanti son come spine che si buttan via e non si piglian con la mano;"
+        },
+        {
+          "number": 7,
+          "text": "chi le tocca s’arma d’un ferro o d’un’asta di lancia e si bruciano interamente là dove sono”."
+        },
+        {
+          "number": 8,
+          "text": "Questi sono i nomi dei valorosi guerrieri che furono al servizio di Davide: Josheb-Basshebeth, il Tahkemonita, capo dei principali ufficiali. Egli impugnò la lancia contro ottocento uomini, che uccise in un solo scontro."
+        },
+        {
+          "number": 9,
+          "text": "Dopo di lui veniva Eleazar, figliuolo di Dodo, figliuolo di Akoi, uno dei tre valorosi guerrieri che erano con Davide, quando sfidarono i Filistei raunati per combattere, mentre gli Israeliti si ritiravano sulle alture."
+        },
+        {
+          "number": 10,
+          "text": "Egli si levò, percosse i Filistei, finché la sua mano, spossata, rimase attaccata alla spada. E l’Eterno concesse in quel giorno una gran vittoria, e il popolo tornò a seguire Eleazar soltanto per spogliare gli uccisi."
+        },
+        {
+          "number": 11,
+          "text": "Dopo di lui veniva Shamma, figliuolo di Aghé, lo Hararita. I Filistei s’erano radunati in massa; e in quel luogo v’era un campo pieno di lenticchie; e, come i popolo fuggiva dinanzi ai Filistei,"
+        },
+        {
+          "number": 12,
+          "text": "Shamma si piantò in mezzo al campo, lo difese, e sconfisse i Filistei. E l’Eterno concesse una gran vittoria."
+        },
+        {
+          "number": 13,
+          "text": "Tre dei trenta capi scesero, al tempo della mietitura, e vennero da Davide nella spelonca di Adullam, mentre una schiera di Filistei era accampata nella valle dei Refaim."
+        },
+        {
+          "number": 14,
+          "text": "Davide era allora nella fortezza, e c’era un posto di Filistei a Bethlehem."
+        },
+        {
+          "number": 15,
+          "text": "Davide ebbe un desiderio, e disse: “Oh se qualcuno mi desse da bere dell’acqua del pozzo ch’è vicino alla porta di Bethlehem!”"
+        },
+        {
+          "number": 16,
+          "text": "E i tre prodi s’aprirono un varco attraverso al campo filisteo, attinsero dell’acqua dal pozzo di Bethlehem, vicino alla porta; e presala seco, la presentarono a Davide; il qual però non ne volle bere, ma la sparse davanti all’Eterno,"
+        },
+        {
+          "number": 17,
+          "text": "dicendo: “Lungi da me, o Eterno, ch’io faccia tal cosa! Beverei io il sangue di questi uomini, che sono andati là a rischio della loro vita?” E non la volle bere. Questo fecero quei tre prodi."
+        },
+        {
+          "number": 18,
+          "text": "Abishai, fratello di Joab, figliuolo di Tseruia, fu il capo di altri tre. Egli impugnò la lancia contro trecento uomini, e li uccise; e s’acquistò fama fra i tre."
+        },
+        {
+          "number": 19,
+          "text": "Fu il più illustre dei tre, e perciò fu fatto loro capo; nondimeno non giunse ad eguagliare i primi tre."
+        },
+        {
+          "number": 20,
+          "text": "Poi veniva Benaia da Kabtseel, figliuolo di Jehoiada, figliuolo di Ish-hai, celebre per le sue prodezze. Egli uccise i due grandi eroi di Moab. Discese anche in mezzo a una cisterna, dove uccise un leone, un giorno di neve."
+        },
+        {
+          "number": 21,
+          "text": "E uccise pure un Egiziano, d’aspetto formidabile, e che teneva una lancia in mano; ma Benaia gli scese contro con un bastone, strappò di mano all’Egiziano la lancia, e se ne servì per ucciderlo."
+        },
+        {
+          "number": 22,
+          "text": "Questo fece Benaia, figliuolo di Jehoiada; e s’acquistò fama fra i tre prodi."
+        },
+        {
+          "number": 23,
+          "text": "Fu il più illustre dei trenta; nondimeno non giunse ad eguagliare i primi tre. E Davide lo ammise nel suo consiglio."
+        },
+        {
+          "number": 24,
+          "text": "Poi v’erano: Asael, fratello di Joab, uno dei trenta; Elkanan, figliuolo di Dodo, da Bethlehem;"
+        },
+        {
+          "number": 25,
+          "text": "Shamma da Harod; Elika da Harod;"
+        },
+        {
+          "number": 26,
+          "text": "Helets da Pelet; Ira, figliuolo di Ikkesh, da Tekoa;"
+        },
+        {
+          "number": 27,
+          "text": "Abiezer da Anathoth; Mebunnai da Husha;"
+        },
+        {
+          "number": 28,
+          "text": "Tsalmon da Akoa; Maharai da Netofa;"
+        },
+        {
+          "number": 29,
+          "text": "Heleb, figliuolo di Baana, da Netofa; Ittai, figliuolo di Ribai, da Ghibea, de’ figliuoli di Beniamino;"
+        },
+        {
+          "number": 30,
+          "text": "Benaia da Pirathon; Hiddai da Nahale-Gaash;"
+        },
+        {
+          "number": 31,
+          "text": "Abi-Albon d’Arbath; Azmavet da Barhum;"
+        },
+        {
+          "number": 32,
+          "text": "Eliahba da Shaalbon; Bene-Jashen; Gionathan;"
+        },
+        {
+          "number": 33,
+          "text": "Shamma da Harar; Ahiam, figliuolo di Sharar, da Arar;"
+        },
+        {
+          "number": 34,
+          "text": "Elifelet, figliuolo di Ahasbai, figliuolo di un Maacatheo; Eliam, figliuolo di Ahitofel, da Ghilo;"
+        },
+        {
+          "number": 35,
+          "text": "Hetsrai da Carmel; Paarai da Arab;"
+        },
+        {
+          "number": 36,
+          "text": "Igal, figliuolo di Nathan, da Tsoba; Bani da Gad;"
+        },
+        {
+          "number": 37,
+          "text": "Tselek, l’Ammonita; Naharai da Beeroth, scudiero di Joab, figliuolo di Tseruia;"
+        },
+        {
+          "number": 38,
+          "text": "Ira da Jether; Gareb da Jether;"
+        },
+        {
+          "number": 39,
+          "text": "Uria, lo Hitteo. In tutto trentasette."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Or l’Eterno s’accese di nuovo d’ira contro Israele, ed incitò Davide contro il popolo, dicendo: “Va’ e fa’ il censimento d’Israele e di Giuda”."
+        },
+        {
+          "number": 2,
+          "text": "E il re disse a Joab, ch’era il capo dell’esercito, e ch’era con lui: “Va’ attorno per tutte le tribù d’Israele, da Dan fino a Beer-Sheba, e fate il censimento del popolo perch’io ne sappia il numero”."
+        },
+        {
+          "number": 3,
+          "text": "Joab rispose al re: “L’Eterno, l’Iddio tuo, moltiplichi il popolo cento volte più di quello che è, e faccia sì che gli occhi del re, mio signore, possano vederlo! Ma perché il re mio signore prende egli piacere nel far questo?”"
+        },
+        {
+          "number": 4,
+          "text": "Ma l’ordine del re prevalse contro Joab e contro i capi dell’esercito, e Joab e i capi dell’esercito partirono dalla presenza del re per andare a fare il censimento del popolo d’Israele."
+        },
+        {
+          "number": 5,
+          "text": "Passarono il Giordano, e si accamparono ad Aroer, a destra della città ch’è in mezzo alla valle di Gad, e presso Jazer."
+        },
+        {
+          "number": 6,
+          "text": "Poi andarono in Galaad e nel paese di Tahtim-Hodshi; poi andarono Dan-Jaan e nei dintorni di Sidon;"
+        },
+        {
+          "number": 7,
+          "text": "andarono alla fortezza di Tiro e in tutte le città degli Hivvei e dei Cananei, e finirono col mezzogiorno di Giuda, a Beer-Sheba."
+        },
+        {
+          "number": 8,
+          "text": "Percorsero così tutto il paese, e in capo a nove mesi e venti giorni tornarono a Gerusalemme."
+        },
+        {
+          "number": 9,
+          "text": "Joab rimise al re la cifra del censimento del popolo: c’erano in Israele ottocentomila uomini forti, atti a portare le armi; e in Giuda, cinquecentomila."
+        },
+        {
+          "number": 10,
+          "text": "E dopo che Davide ebbe fatto il censimento del popolo, provò un rimorso al cuore, e disse all’Eterno: “Io ho gravemente peccato in questo che ho fatto; ma ora, o Eterno, perdona l’iniquità del tuo servo, poiché io ho agito con grande stoltezza”."
+        },
+        {
+          "number": 11,
+          "text": "E quando Davide si fu alzato la mattina, la parola dell’Eterno fu così rivolta al profeta Gad, il veggente di Davide:"
+        },
+        {
+          "number": 12,
+          "text": "“Va’ a dire a Davide: Così dice l’Eterno: Io ti propongo tre cose: sceglitene una, e quella ti farò”."
+        },
+        {
+          "number": 13,
+          "text": "Gad venne dunque a Davide, gli riferì questo, e disse: “Vuoi tu sette anni di carestia nel tuo paese, ovvero tre mesi di fuga d’innanzi ai tuoi nemici che t’inseguano, ovvero tre giorni di peste nel tuo paese? Ora rifletti, e vedi che cosa io debba rispondere a colui che mi ha mandato”."
+        },
+        {
+          "number": 14,
+          "text": "E Davide disse a Gad: “Io sono in una grande angoscia! Ebbene, che cadiamo nelle mani dell’Eterno, giacché le sue compassioni sono immense; ma ch’io non cada nelle mani degli uomini!”"
+        },
+        {
+          "number": 15,
+          "text": "Così l’Eterno mandò la peste in Israele, da quella mattina fino al tempo fissato; e da Dan a Beer-Sheba morirono settantamila persone del popolo."
+        },
+        {
+          "number": 16,
+          "text": "E come l’angelo stendeva la sua mano su Gerusalemme per distruggerla, l’Eterno si pentì della calamità ch’egli aveva inflitta, e disse all’angelo che distruggeva il popolo: “Basta; ritieni ora la tua mano!” Or l’angelo dell’Eterno si trovava presso l’aia di Arauna, il Gebuseo."
+        },
+        {
+          "number": 17,
+          "text": "E Davide, vedendo l’angelo che colpiva il popolo, disse all’Eterno: “Son io che ho peccato; son io che ho agito iniquamente; ma queste pecore che hanno fatto? La tua mano si volga dunque contro di me e contro la casa di mio padre!”"
+        },
+        {
+          "number": 18,
+          "text": "E quel giorno Gad venne da Davide, e gli disse: “Sali, erigi un altare all’Eterno nell’aia di Arauna, il Gebuseo”."
+        },
+        {
+          "number": 19,
+          "text": "E Davide salì, secondo la parola di Gad, come l’Eterno avea comandato."
+        },
+        {
+          "number": 20,
+          "text": "Arauna guardò, e vide il re e i suoi servi, che si dirigevano verso di lui; e Arauna uscì e si prostrò dinanzi al re, con la faccia a terra."
+        },
+        {
+          "number": 21,
+          "text": "Poi Arauna disse: “Perché il re, mio signore, viene dal suo servo?” E Davide rispose: “Per comprare da te quest’aia ed erigervi un altare all’Eterno, affinché la piaga cessi d’infierire sul popolo”."
+        },
+        {
+          "number": 22,
+          "text": "Arauna disse a Davide: “Il re, mio signore, prenda e offra quello che gli piacerà! Ecco i buoi per l’olocausto; e le macchine da trebbiare e gli arnesi da buoi serviranno per legna."
+        },
+        {
+          "number": 23,
+          "text": "Tutte queste cose, o re, Arauna te le dà”. Poi Arauna disse al re: “L’Eterno, il tuo Dio, ti sia propizio!”"
+        },
+        {
+          "number": 24,
+          "text": "Ma il re rispose ad Arauna: “No, io comprerò da te queste cose per il loro prezzo, e non offrirò all’Eterno, al mio Dio, olocausti che non mi costino nulla”. E Davide comprò l’aia ed i buoi per cinquanta sicli d’argento;"
+        },
+        {
+          "number": 25,
+          "text": "edificò quivi un altare all’Eterno, e offrì olocausti e sacrifizi di azioni di grazie. Così l’Eterno fu placato verso il paese, e la piaga cessò d’infierire sul popolo."
+        }
+      ]
+    }
+  ]
+}

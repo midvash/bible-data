@@ -1,0 +1,631 @@
+{
+  "version": "bg",
+  "book": "Gal",
+  "bookId": 48,
+  "englishName": "Galatians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paweł, Apostoł (nie od ludzi, ani przez człowieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wzbudził od umarłych;)"
+        },
+        {
+          "number": 2,
+          "text": "I wszyscy bracia, którzy są ze mną, zborom Galackim."
+        },
+        {
+          "number": 3,
+          "text": "Łaska wam i pokój niech będzie od Boga Ojca i Pana naszego, Jezusa Chrystusa."
+        },
+        {
+          "number": 4,
+          "text": "Który wydał samego siebie za grzechy nasze, aby nas wyrwał z teraźniejszego wieku złego według woli Boga i Ojca naszego;"
+        },
+        {
+          "number": 5,
+          "text": "Któremu niech będzie chwała na wieki wieków. Amen."
+        },
+        {
+          "number": 6,
+          "text": "Dziwuję się, iż tak prędko dacie się przenosić od tego, który was powołał ku łasce Chrystusowej, do inszej Ewangielii;"
+        },
+        {
+          "number": 7,
+          "text": "Która nie jest inszą; tylko niektórzy są, co was turbują i chcą wywrócić Ewangieliję Chrystusową."
+        },
+        {
+          "number": 8,
+          "text": "Ale choćbyśmy i my, albo Anioł z nieba opowiadał wam Ewangieliję mimo tę, którąśmy wam opowiadali, niech będzie przeklęty."
+        },
+        {
+          "number": 9,
+          "text": "Jakośmy przedtem powiedzieli i teraz znowu mówię: Jeźliby wam kto inną Ewangieliję opowiadał mimo tę, którąście przyjęli, niech będzie przeklęty."
+        },
+        {
+          "number": 10,
+          "text": "Albowiem terazże do ludzi was namawiam, czyli do Boga? Albo szukamli, abym się podobał ludziom? Zaiste, jeźlibym się jeszcze ludziom chciał podobać, nie byłbym sługą Chrystusowym."
+        },
+        {
+          "number": 11,
+          "text": "A oznajmuję wam bracia! iż Ewangielija, która jest opowiadana ode mnie, nie jest według człowieka."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem ja anim jej wziął, anim się jej nauczył od człowieka, ale przez objawienie Jezusa Chrystusa."
+        },
+        {
+          "number": 13,
+          "text": "Boście słyszeli o mojem obcowaniu niekiedy w Żydostwie, żem nader prześladował zbór Boży i burzyłem go;"
+        },
+        {
+          "number": 14,
+          "text": "I postępowałem w Żydostwie nad wiele rówieśników moich w narodzie moim, będąc nader gorliwym miłośnikiem ustaw moich ojczystych."
+        },
+        {
+          "number": 15,
+          "text": "Ale gdy się upodobało Bogu, który mię odłączył z żywota matki mojej, i powołał z łaski swojej,"
+        },
+        {
+          "number": 16,
+          "text": "Aby objawił Syna swego we mnie, abym go opowiadał między poganami, wnetże nie radziłem się ciała i krwi;"
+        },
+        {
+          "number": 17,
+          "text": "Anim się wrócił do Jeruzalemu, do tych, którzy przede mną byli Apostołami, alem szedł do Arabii i wróciłem się zasię do Damaszku."
+        },
+        {
+          "number": 18,
+          "text": "Potem po trzech latach wstąpiłem do Jeruzalemu, abym się ujrzał z Piotrem; i mieszkałem u niego piętnaście dni."
+        },
+        {
+          "number": 19,
+          "text": "A inszegom z Apostołów nie widział, oprócz Jakóba, brata Pańskiego."
+        },
+        {
+          "number": 20,
+          "text": "A co wam piszę, oto się przed Bogiem oświadczam, żeć nie kłamię."
+        },
+        {
+          "number": 21,
+          "text": "Zatemem przyszedł do krain Syryi i Cylicyi;"
+        },
+        {
+          "number": 22,
+          "text": "A byłem nieznajomym z twarzy zborom żydowskim, które są w Chrystusie;"
+        },
+        {
+          "number": 23,
+          "text": "Lecz tylko byli usłyszeli, iż ten, który prześladował nas niekiedy, teraz opowiada wiarę, którą przedtem burzył. I chwalili Boga ze mnie."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Potem po czternastu latach wstąpiłem zasię do Jeruzalemu z Barnabaszem, wziąwszy z sobą i Tytusa."
+        },
+        {
+          "number": 2,
+          "text": "A wstąpiłem według objawienia i przełożyłem im Ewangieliję, którą każę między poganami, a zwłaszcza zacniejszym, bym snać nadaremno nie bieżał, albo przedtem nie biegał."
+        },
+        {
+          "number": 3,
+          "text": "Ale ani Tytus, który ze mną był, będąc Grekiem, nie był przymuszony obrzezać się,"
+        },
+        {
+          "number": 4,
+          "text": "A to dla wprowadzonych fałszywych braci, którzy się wkradli, aby wyszpiegowali wolność naszę, którą mamy w Chrystusie Jezusie, aby nas w niewolę podbili."
+        },
+        {
+          "number": 5,
+          "text": "Którymeśmy i na chwilkę nie ustąpili, i nie poddali się, aby u was prawda Ewangielii została."
+        },
+        {
+          "number": 6,
+          "text": "A od tych, którzy się zdadzą być czemś, (acz jakimi niekiedy byli, nic mi na tem; bo osoby człowieczej Bóg nie przyjmuje), ci mówię, którzy się zdali być czemś, nic mi nie przydali."
+        },
+        {
+          "number": 7,
+          "text": "Owszem, przeciwnym obyczajem, widząc, iż mi jest zwierzona Ewangielija między nieobrzezanymi, jako Piotrowi między obrzezanymi,"
+        },
+        {
+          "number": 8,
+          "text": "(Albowiem ten, który był skuteczny przez Piotra w apostolstwie między obrzezanymi, skuteczny był i we mnie między poganami.)"
+        },
+        {
+          "number": 9,
+          "text": "I poznawszy łaskę mnie daną, Jakób i Kiefas, i Jan, którzy się zdadzą być filarami, podali prawicę mnie i Barnabaszowi na towarzystwo, abyśmy my między poganami, a oni między obrzezanymi kazali."
+        },
+        {
+          "number": 10,
+          "text": "Tylko upomnieli, abyśmy na ubogich pamiętali, o com się też pilnie starał, abym to uczynił."
+        },
+        {
+          "number": 11,
+          "text": "A gdy przyszedł Piotr do Antyjochii, sprzeciwiłem się mu w twarz; i był godzien nagany."
+        },
+        {
+          "number": 12,
+          "text": "Albowiem przedtem, niż przyszli niektórzy od Jakóba, wespół z poganami jadał; a gdy ci przyszli, schraniał się i odłączał, bojąc się tych, którzy byli z obrzezania."
+        },
+        {
+          "number": 13,
+          "text": "A wespół z nim obłudnie się obchodzili i drudzy Żydzi, tak że i Barnabasz uwiedziony był tą ich obłudą."
+        },
+        {
+          "number": 14,
+          "text": "Ale gdym obaczył, iż nie prosto chodzą w prawdzie Ewangielii, rzekłem Piotrowi przed wszystkimi: Ponieważ ty, będąc Żydem, po pogańsku żyjesz a nie po żydowsku, czemuż pogan przymuszasz po żydowsku żyć?"
+        },
+        {
+          "number": 15,
+          "text": "My, którzyśmy z przyrodzenia Żydowie a nie z pogan grzesznicy,"
+        },
+        {
+          "number": 16,
+          "text": "Wiedząc, iż nie bywa usprawiedliwiony człowiek z uczynków zakonu, ale przez wiarę w Jezusa Chrystusa, i myśmy w Jezusa Chrystusa uwierzyli, abyśmy byli usprawiedliwieni z wiary Chrystusowej, a nie z uczynków zakonu, przeto że nie będzie usprawiedliwione z uczynków zakonu żadne ciało."
+        },
+        {
+          "number": 17,
+          "text": "A jeźli my szukając, abyśmy byli usprawiedliwieni w Chrystusie, znajdujemy się też grzesznikami, tedyć Chrystus jest sługą grzechu? Nie daj tego Boże!"
+        },
+        {
+          "number": 18,
+          "text": "Albowiem jeźli to, com zburzył, znowu zasię buduję, przestępcą samego siebie czynię."
+        },
+        {
+          "number": 19,
+          "text": "Bom ja przez zakon zakonowi umarł, abym żył Bogu."
+        },
+        {
+          "number": 20,
+          "text": "Z Chrystusem jestem ukrzyżowany, a żyję już nie ja, lecz żyje we mnie Chrystus; a to że teraz w ciele żyję, w wierze Syna Bożego żyję, który mię umiłował i wydał samego siebie za mię."
+        },
+        {
+          "number": 21,
+          "text": "Nie odrzucam tej łaski Bożej; bo jeźli przez zakon jest sprawiedliwość, tedyć Chrystus próżno umarł."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "O głupi Galatowie! Któż was omamił, abyście prawdzie nie byli posłuszni, którym przed oczyma Jezus Chrystus przedtem był wymalowany, i między wami ukrzyżowany?"
+        },
+        {
+          "number": 2,
+          "text": "Tego tylko rad bym się nauczył od was: Z uczynkówli zakonu wzięliście Ducha, czyli z słuchania wiary?"
+        },
+        {
+          "number": 3,
+          "text": "Takeście głupi? począwszy duchem, teraz ciałem dokonywacie?"
+        },
+        {
+          "number": 4,
+          "text": "Takeście wiele cierpieli darmo, jeźli tylko i darmo?"
+        },
+        {
+          "number": 5,
+          "text": "Ten tedy, który wam dodaje ducha i czyni cuda między wami, z uczynkówże zakonu to czyni, czyli z słuchania wiary?"
+        },
+        {
+          "number": 6,
+          "text": "Tak jako \"Abraham uwierzył Bogu i przyczytano mu to ku sprawiedliwości\"."
+        },
+        {
+          "number": 7,
+          "text": "Widzicie tedy, że ci, którzy są z wiary, ci są synami Abrahamowymi."
+        },
+        {
+          "number": 8,
+          "text": "A upatrzywszy to Pismo, iż z wiary Bóg usprawiedliwia pogan, przedtem opowiedziało Abrahamowi, iż w tobie będą błogosławione wszystkie narody."
+        },
+        {
+          "number": 9,
+          "text": "A tak ci, którzy są z wiary, dostępują błogosławieństwa z wiernym Abrahamem."
+        },
+        {
+          "number": 10,
+          "text": "Albowiem ile ich jest z uczynków zakonu, pod przeklęstwem są; bo napisane: Przeklęty każdy, który by nie został we wszystkiem, co napisane w księgach zakonu, aby to czynił."
+        },
+        {
+          "number": 11,
+          "text": "A iż przez zakon nikt nie bywa usprawiedliwiony przed Bogiem, jawna jest stąd, bo \"sprawiedliwy z wiary żyć będzie\"."
+        },
+        {
+          "number": 12,
+          "text": "Ale zakon nie jestci z wiary; lecz \"człowiek, który by je czynił, żyć będzie przez nie\"."
+        },
+        {
+          "number": 13,
+          "text": "Ale Chrystus odkupił nas z przeklęstwa zakonu, stawszy się za nas przeklęstwem, (albowiem napisane: Przeklęty każdy, który wisi na drzewie)."
+        },
+        {
+          "number": 14,
+          "text": "Aby na pogan błogosławieństwo Abrahamowe przyszło w Chrystusie Jezusie, i abyśmy obietnicę Ducha wzięli przez wiarę."
+        },
+        {
+          "number": 15,
+          "text": "Bracia! po ludzku mówię: a wszak i człowieczego testamentu utwierdzonego nikt nie łamie, ani do niego co przydaje."
+        },
+        {
+          "number": 16,
+          "text": "Lecz Abrahamowi uczynione są obietnice i nasieniu jego; nie mówi: I nasieniom jego, jako o wielu, ale jako o jednem: I nasieniu twemu, które jest Chrystus."
+        },
+        {
+          "number": 17,
+          "text": "To tedy mówię, iż przymierza przedtem od Boga utwierdzonego względem Chrystusa, zakon, który po czterechset i po trzydziestu lat nastał, nie znosi, aby miał zepsuć obietnicę Bożą."
+        },
+        {
+          "number": 18,
+          "text": "Albowiem jeźliż z zakonu jest dziedzictwo, jużci nie z obietnicy; lecz Abrahamowi przez obietnicę darował je Bóg."
+        },
+        {
+          "number": 19,
+          "text": "Cóż tedy zakon? Dla przestępstwa przydany jest, ażby przyszło ono nasienie, któremu się stała obietnica, sporządzony przez Aniołów i przez rękę pośrednika."
+        },
+        {
+          "number": 20,
+          "text": "Lecz pośrednik nie jest jednego, ale Bóg jeden jest."
+        },
+        {
+          "number": 21,
+          "text": "Zakon tedy jestże przeciwko obietnicom Bożym? Nie daj tego Boże! albowiem gdyby był dany zakon, który by mógł ożywiać, prawdziwieć by z zakonu była sprawiedliwość."
+        },
+        {
+          "number": 22,
+          "text": "Ale Pismo zamknęło wszystko pod grzech, aby obietnica z wiary Jezusa Chrystusa była dana wierzącym."
+        },
+        {
+          "number": 23,
+          "text": "A przedtem, niż przyszła wiara, byliśmy pod zakonem strzeżeni, wespół zamknieni będąc w tę wiarę, która potem miała być objawiona."
+        },
+        {
+          "number": 24,
+          "text": "A przetoż zakon pedagogiem naszym był do Chrystusa, abyśmy z wiary byli usprawiedliwieni."
+        },
+        {
+          "number": 25,
+          "text": "Ale gdy przyszła wiara, już nie jesteśmy pod pedagogiem."
+        },
+        {
+          "number": 26,
+          "text": "Albowiem wszyscy synami Bożymi jesteście przez wiarę w Chrystusie Jezusie."
+        },
+        {
+          "number": 27,
+          "text": "Bo którzykolwiek jesteście w Chrystusa ochrzczeni, w Chrystusaście się oblekli."
+        },
+        {
+          "number": 28,
+          "text": "Nie masz Żyda, ani Greka; nie masz niewolnika ani wolnego; nie masz mężczyzny i niewiasty; albowiem wszyscy wy jednym jesteście w Chrystusie Jezusie."
+        },
+        {
+          "number": 29,
+          "text": "A jeźliście wy Chrystusowi, tedyście nasieniem Abrahamowem, a według obietnicy dziedzicami."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mówię tedy: (bracia!) Pokąd dziedzic jest dziecięciem, nic nie jest różny od sługi, panem będąc wszystkiego;"
+        },
+        {
+          "number": 2,
+          "text": "Ale jest pod opiekunami i dozorcami aż do czasu zamierzenia ojcowskiego."
+        },
+        {
+          "number": 3,
+          "text": "Także i my, gdyśmy byli dziećmi, pod żywioły świata byliśmy zniewoleni."
+        },
+        {
+          "number": 4,
+          "text": "Lecz gdy przyszło wypełnienie czasu, posłał Bóg onego Syna swego, który się urodził z niewiasty, który się stał pod zakonem,"
+        },
+        {
+          "number": 5,
+          "text": "Aby tych, którzy pod zakonem byli, wykupił, żebyśmy prawa przysposobienia za synów dostąpili."
+        },
+        {
+          "number": 6,
+          "text": "A iżeście synowie, przetoż posłał Bóg Ducha Syna swego w serca wasze, wołającego Abba, to jest Ojcze."
+        },
+        {
+          "number": 7,
+          "text": "A tak już więcej nie jesteś niewolnikiem, ale synem; a ponieważ synem, tedy i dziedzicem Bożym przez Chrystusa."
+        },
+        {
+          "number": 8,
+          "text": "Aleć naonczas nie znając Boga, służyliście tym, którzy z przyrodzenia nie są bogowie."
+        },
+        {
+          "number": 9,
+          "text": "A teraz poznawszy Boga, owszem i poznani będąc od Boga, jakoż się zaś nazad wracacie ku żywiołom mdłym i mizernym, którym zasię znowu służyć chcecie?"
+        },
+        {
+          "number": 10,
+          "text": "Przestrzegacie dni i miesiące, i czasy, i lata."
+        },
+        {
+          "number": 11,
+          "text": "Boję się o was, bym snać darmo nie pracował około was."
+        },
+        {
+          "number": 12,
+          "text": "Bądźcie jako ja, gdyżem i ja jest jako wy, bracia! proszę was. W niczemeście mnie nie ukrzywdzili."
+        },
+        {
+          "number": 13,
+          "text": "Bo wiecie, żem w słabości ciała wam z przodku Ewangieliję opowiadał."
+        },
+        {
+          "number": 14,
+          "text": "A pokuszenia mego, które było w ciele mojem, sobie nie lekceważyliście, aniście niem gardzili, aleście mię jako Anioła Bożego przyjęli i jako Chrystusa Jezusa."
+        },
+        {
+          "number": 15,
+          "text": "Jakież tedy było błogosławieństwo wasze? albowiem wam daję świadectwo, iż, by była rzecz można, dalibyście mi byli wyłupiwszy oczy wasze."
+        },
+        {
+          "number": 16,
+          "text": "Takżem się stał nieprzyjacielem waszym, prawdę wam mówiąc?"
+        },
+        {
+          "number": 17,
+          "text": "Pałają ku wam miłością nie dobrze, owszem chcą was odstrychnąć, abyście ich miłowali."
+        },
+        {
+          "number": 18,
+          "text": "A dobrać rzecz, pałać miłością w dobrem zawsze, a nie tylko, gdym jest obecnym u was."
+        },
+        {
+          "number": 19,
+          "text": "Dziatki moje! (które znowu z boleścią rodzę, ażby Chrystus był wykształtowany w was),"
+        },
+        {
+          "number": 20,
+          "text": "Chciałbym teraz być u was i odmienić głos mój, ponieważ wątpię o was."
+        },
+        {
+          "number": 21,
+          "text": "Powiedzcie mi, którzy pod zakonem chcecie być, nie słuchacież zakonu?"
+        },
+        {
+          "number": 22,
+          "text": "Albowiem napisane, iż Abraham miał dwóch synów, jednego z niewolnicy, a drugiego z wolnej."
+        },
+        {
+          "number": 23,
+          "text": "Lecz ten, który był z niewolnicy, według ciała się urodził, a który z wolnej, według obietnicy."
+        },
+        {
+          "number": 24,
+          "text": "Przez co znaczą się insze rzeczy; albowiem te są one dwa testamenty; jeden z góry Synajskiej, który rodzi w niewolę; a ten jest jako Agar."
+        },
+        {
+          "number": 25,
+          "text": "Albowiem Agar jest góra Synaj w Arabii, a stosuje się do niej teraźniejsze Jeruzalem; bo jest w niewoli z dziatkami swojemi."
+        },
+        {
+          "number": 26,
+          "text": "Lecz ono górne Jeruzalem wolne jest, które jest matką wszystkich nas."
+        },
+        {
+          "number": 27,
+          "text": "Albowiem napisano: Rozwesel się niepłodna, która nie rodzisz; porwij się, a zawołaj, która nie pracujesz w porodzeniu; bo ta opuszczona wiele ma dziatek, więcej niż ta, która ma męża."
+        },
+        {
+          "number": 28,
+          "text": "My tedy, bracia! tak jako Izaak, jesteśmy dziatkami obietnicy."
+        },
+        {
+          "number": 29,
+          "text": "Ale jako na on czas ten, który się był urodził według ciała, prześladował tego, który się był urodził według ducha, tak się dzieje i teraz."
+        },
+        {
+          "number": 30,
+          "text": "Ale co mówi Pismo? Wyrzuć niewolnicę i syna jej; albowiem nie będzie dziedziczył syn niewolnicy z synem wolnej,"
+        },
+        {
+          "number": 31,
+          "text": "A tak, bracia! nie jesteśmy dziećmi niewolnicy, ale wolnej."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Stójcie tedy w tej wolności, którą nas Chrystus wolnymi uczynił, a nie poddawajcie się znowu pod jarzmo niewoli."
+        },
+        {
+          "number": 2,
+          "text": "Oto ja Paweł mówię wam, iż jeźli się obrzezywać będziecie, Chrystus wam nic nie pomoże."
+        },
+        {
+          "number": 3,
+          "text": "A oświadczam się zasię przed każdym człowiekiem, który się obrzezuje, iż powinien wszystek zakon pełnić."
+        },
+        {
+          "number": 4,
+          "text": "Pozbawiliście się Chrystusa, którzykolwiek się przez zakon usprawiedliwiacie; wypadliście z łaski."
+        },
+        {
+          "number": 5,
+          "text": "Albowiem my duchem z wiary nadziei sprawiedliwości oczekujemy."
+        },
+        {
+          "number": 6,
+          "text": "Bo w Chrystusie Jezusie ani obrzezka nic nie waży, ani nieobrzezka, ale wiara przez miłość skuteczna;"
+        },
+        {
+          "number": 7,
+          "text": "Bieżeliście dobrze; któż wam przeszkodził, abyście nie byli posłusznymi prawdzie?"
+        },
+        {
+          "number": 8,
+          "text": "Ta namowa nie jestci z tego, który was powołuje."
+        },
+        {
+          "number": 9,
+          "text": "Trochę kwasu wszystko zaczynienie zakwasza."
+        },
+        {
+          "number": 10,
+          "text": "Ja mam nadzieję o was w Panu, iż nic inszego rozumieć nie będziecie; a ten, który was turbuje, odniesie sąd, ktokolwiek jest."
+        },
+        {
+          "number": 11,
+          "text": "A ja, bracia! jeźli jeszcze obrzezkę każę, czemuż jeszcze prześladowanie cierpię? Toć tedy zniszczone jest zgorszenie krzyżowe."
+        },
+        {
+          "number": 12,
+          "text": "Bodajże i odjęci byli, którzy wam niepokój czynią."
+        },
+        {
+          "number": 13,
+          "text": "Albowiem wy ku wolności powołani jesteście, bracia! tylko pod zasłoną tej wolności ciału nie pozwalajcie, ale z miłości służcie jedni drugim."
+        },
+        {
+          "number": 14,
+          "text": "Bo wszystek zakon w jednem się słowie zamyka, to jest w tem: Będziesz miłował bliźniego twego jako samego siebie."
+        },
+        {
+          "number": 15,
+          "text": "Ale jeźli jedni drugich kąsacie i pożeracie, patrzajcież, abyście jedni od drugich nie byli strawieni."
+        },
+        {
+          "number": 16,
+          "text": "A to mówię: Duchem postępujcie, a pożądliwości ciała nie wykonywajcie."
+        },
+        {
+          "number": 17,
+          "text": "Albowiem ciało pożąda przeciwko duchowi, a duch przeciwko ciału; a te rzeczy są sobie przeciwne, abyście nie to, co chcecie, czynili."
+        },
+        {
+          "number": 18,
+          "text": "Lecz jeźli duchem bywacie prowadzeni, nie jesteście pod zakonem."
+        },
+        {
+          "number": 19,
+          "text": "A jawneć są uczynki ciała, które te są: Cudzołóstwo, wszeteczeństwo, nieczystość, rozpusta,"
+        },
+        {
+          "number": 20,
+          "text": "Bałwochwalstwo, czary, nieprzyjaźni, swary, nienawiści, gniewy, spory, niesnaski, kacerstwa,"
+        },
+        {
+          "number": 21,
+          "text": "Zazdrości, mężobójstwa, pijaństwa, biesiady, i tym podobne rzeczy, o których przepowiadam wam, jakom i przedtem powiedział, iż którzy takowe rzeczy czynią, królestwa Bożego nie odziedziczą."
+        },
+        {
+          "number": 22,
+          "text": "Ale owoc Ducha jest miłość, wesele, pokój, nieskwapliwość, dobrotliwość, dobroć, wiara, cichość, wstrzemięźliwość."
+        },
+        {
+          "number": 23,
+          "text": "Przeciwko takowym nie masz zakonu."
+        },
+        {
+          "number": 24,
+          "text": "Albowiem którzy są Chrystusowi, ciało swoje ukrzyżowali z namiętnościami i z pożądliwościami."
+        },
+        {
+          "number": 25,
+          "text": "Jeźli duchem żyjemy, duchem też postępujmy."
+        },
+        {
+          "number": 26,
+          "text": "Nie bądźmy chciwi próżnej chwały, jedni drugich wyzywając, jedni drugim zajrząc."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bracia! jeźliby też człowiek zachwycony był w jakim upadku, wy duchowni: naprawiajcie takiego w duchu cichości, upatrując każdy samego siebie, abyś i ty nie był kuszony."
+        },
+        {
+          "number": 2,
+          "text": "Jedni drugich brzemiona noście, a tak wypełniajcie zakon Chrystusowy."
+        },
+        {
+          "number": 3,
+          "text": "Albowiem jeźli kto mniema, żeby czem był, nie będąc niczem, takiego zawodzi własny umysł jego."
+        },
+        {
+          "number": 4,
+          "text": "Ale każdy niechaj własnego swego uczynku doświadcza, a tedy sam w sobie chwałę mieć będzie, a nie w drugim."
+        },
+        {
+          "number": 5,
+          "text": "Albowiem każdy swoje własne brzemię poniesie."
+        },
+        {
+          "number": 6,
+          "text": "A niech udziela ten, który bywa nauczany w słowie, temu, który go naucza, ze wszystkich dóbr."
+        },
+        {
+          "number": 7,
+          "text": "Nie błądźcie; Bóg się nie da z siebie naśmiewać; albowiem cobykolwiek siał człowiek, to też żąć będzie."
+        },
+        {
+          "number": 8,
+          "text": "Bo kto sieje ciału swemu, z ciała żąć będzie skażenie; ale kto sieje duchowi, z ducha żąć będzie żywot wieczny."
+        },
+        {
+          "number": 9,
+          "text": "A dobrze czyniąc nie słabiejmy; albowiem czasu swojego żąć będziemy nie ustawając."
+        },
+        {
+          "number": 10,
+          "text": "Przeto tedy, póki czas mamy, dobrze czyńmy wszystkim, a najwięcej domownikom wiary."
+        },
+        {
+          "number": 11,
+          "text": "Widzicie, jakim długi list wam napisał ręką moją."
+        },
+        {
+          "number": 12,
+          "text": "Którzykolwiek chcą być pozorni według ciała, ci was przymuszają, abyście się obrzezali, tylko aby dla krzyża Chrystusowego prześladowania nie cierpieli."
+        },
+        {
+          "number": 13,
+          "text": "Albowiem i ci, którzy się obrzezują, nie zachowywują zakonu sami, ale chcą, abyście się wy obrzezali, żeby się z ciała waszego chlubili."
+        },
+        {
+          "number": 14,
+          "text": "Ale ja, nie daj Boże, abym się miał chlubić, tylko w krzyżu Pana naszego Jezusa Chrystusa, przez którego mi jest świat ukrzyżowany, a ja światu."
+        },
+        {
+          "number": 15,
+          "text": "Albowiem w Chrystusie Jezusie ani obrzezka nic nie waży, ani nieobrzezka, ale nowe stworzenie."
+        },
+        {
+          "number": 16,
+          "text": "A którzykolwiek według tego sznuru postępować będą, pokój na nich przyjdzie i miłosierdzie, i na lud Boży Izraelski."
+        },
+        {
+          "number": 17,
+          "text": "Na ostatek niechaj mi nikt trudności nie zadaje; albowiem ja piętna Pana Jezusowe noszę na ciele mojem."
+        },
+        {
+          "number": 18,
+          "text": "Łaska Pana naszego Jezusa Chrystusa niech będzie z duchem waszym, bracia! Amen."
+        }
+      ]
+    }
+  ]
+}

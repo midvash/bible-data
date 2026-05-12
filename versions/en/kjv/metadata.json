@@ -1,0 +1,18 @@
+{
+  "slug": "kjv",
+  "shortName": "KJV",
+  "name": "King James Version",
+  "language": "en",
+  "year": 1769,
+  "license": "public-domain",
+  "licenseNote": "Public domain worldwide (1611, Oxford 1769 standard text).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102
+  },
+  "readerUrl": "https://midvash.com/kjv",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

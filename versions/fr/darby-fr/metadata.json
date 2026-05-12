@@ -1,0 +1,18 @@
+{
+  "slug": "darby-fr",
+  "shortName": "DARBY-FR",
+  "name": "Bible Darby Française",
+  "language": "fr",
+  "year": 1885,
+  "license": "public-domain",
+  "licenseNote": "Public domain (J. N. Darby French translation).",
+  "attribution": null,
+  "sourceUrl": null,
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31167
+  },
+  "readerUrl": "https://midvash.com/darby-fr",
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+}

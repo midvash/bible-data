@@ -1,0 +1,650 @@
+{
+  "version": "kar",
+  "book": "Lam",
+  "bookId": 25,
+  "englishName": "Lamentations",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jaj! de árván ül a nagy népű város! Olyanná lőn, mint az özvegyasszony! Nagy volt a nemzetek között, a tartományok közt fejedelemasszony: robotossá lőn!"
+        },
+        {
+          "number": 2,
+          "text": "Sírván sír éjjelente, s könny borítja az orczáját! Senki sincs, ki vígasztalná, azok közül, kik szerették; mind megcsalták barátai, ellenségeivé lőnek."
+        },
+        {
+          "number": 3,
+          "text": "Számkivetésbe méne Júda a nyomorúság és a szolgálat sokasága miatt! Ott ül ő a pogányok közt; nem talál nyugodalmat; valamennyi üldözője utólérte a szorultságában."
+        },
+        {
+          "number": 4,
+          "text": "Sionnak útai gyászolnak; nincsen, a ki ünnepnapra járjon; kapuja mind elpusztult; papjai sóhajtoznak, szűzei nyögnek, csak keserűsége van néki."
+        },
+        {
+          "number": 5,
+          "text": "Elnyomói főkké lettek; ellenségei boldogok! Bizony az Úr verte meg őt az ő sok bűne miatt; gyermekei rabságra mentek az elnyomó előtt."
+        },
+        {
+          "number": 6,
+          "text": "És elhagyta Sion leányát minden ő ékessége; fejedelmei olyanok lettek, mint a szarvasok, a melyek nem találnak eledelt, és erőtelenül futnak az üldöző előtt."
+        },
+        {
+          "number": 7,
+          "text": "Emlékezik Jeruzsálem az ő nyomorúságának és eltiportatásának napjain minden ő gyönyörűségéről, a melyek voltak eleitől fogva; mert az ő népe ellenség kezébe esett és nem volt segítsége. Látták őt az ellenségek; nevettek megsemmisülésén."
+        },
+        {
+          "number": 8,
+          "text": "Vétkezvén vétkezett Jeruzsálem, azért lett csúfsággá, minden tisztelője megvetette, mert látták az ő mezítelenségét, ő maga pedig sóhajtoz és elfordul."
+        },
+        {
+          "number": 9,
+          "text": "Szennye a ruhája szélén; nem gondolt a jövőjére; csudálatosan alásülyedt, nincs vígasztalója. Lásd meg Uram, az én nyomorúságomat, mert ellenség vett erőt rajtam!"
+        },
+        {
+          "number": 10,
+          "text": "Szorongató nyújtja kezét minden kincse után, sőt látta, hogy pogányok mentek be az ő szent helyébe, a kikről azt parancsoltad, hogy be ne menjenek a te községedbe."
+        },
+        {
+          "number": 11,
+          "text": "Egész népe sóhajtoz, futkosnak a kenyér után, odaadják drágaságaikat az ételért, hogy megéledjenek. Lásd meg Uram és tekintsd meg, mily útálatossá lettem!"
+        },
+        {
+          "number": 12,
+          "text": "Mindnyájatokat kérlek, ti járókelők: tekintsétek meg és lássátok meg, ha van-é oly bánat, mint az én bánatom, a mely engem ért, a melylyel engem sujtott az Úr az ő búsult haragjának napján!"
+        },
+        {
+          "number": 13,
+          "text": "A magasságból tüzet bocsátott csontjaimba, és az hatalmaskodik bennök; hálót vetett lábaimnak; hátra vetett, pusztává tett engem; egész napon beteg vagyok."
+        },
+        {
+          "number": 14,
+          "text": "Saját kezével rótta össze az én vétkeim igáját; ráfonódtak nyakamra; megrendítette erőmet; oda adott engem az Úr azok kezébe, a kik előtt meg nem állhatok."
+        },
+        {
+          "number": 15,
+          "text": "Rakásra hányta az Úr minden vitézemet én bennem; gyűlést hívott össze ellenem, hogy összetörje ifjaimat; sajtóba taposta az Úr Júda szűz leányát."
+        },
+        {
+          "number": 16,
+          "text": "Ezekért sírok én; szememből, szememből víz folyik alá, mert messze távozott tőlem a vígasztaló, a ki megélesszen engem; fiaim elvesztek, mert győzött az ellenség."
+        },
+        {
+          "number": 17,
+          "text": "Terjesztgeti kezeit Sion: nincs vígasztalója; szorongatókat rendelt az Úr Jákób ellen köröskörül; Jeruzsálem csúfsággá lett közöttök."
+        },
+        {
+          "number": 18,
+          "text": "Igaz ő, az Úr, mert az ő szava ellen rugódoztam! Halljátok meg kérlek, mind ti népek, és lássátok meg az én bánatomat: szűzeim és ifjaim fogságba menének!"
+        },
+        {
+          "number": 19,
+          "text": "Kiáltottam azoknak, a kik szerettek engem de ők megcsaltak engem; papjaim és véneim a városban multak ki, a mikor étel után futkostak, hogy megéledjenek."
+        },
+        {
+          "number": 20,
+          "text": "Lásd meg Uram, hogy szorongattatom, belső részeim megháborodtak; elfordult bennem az én szívem, mert bizony pártot ütöttem; künn fegyver pusztít, benn minden olyan, mint a halál!"
+        },
+        {
+          "number": 21,
+          "text": "Hallották, hogy sóhajtozom és nincs vígasztalóm; minden ellenségem hallotta veszedelmemet; örültek, hogy te ezt cselekedted. Hozd el a napot, a melyet hirdettél, hogy olyanok legyenek, mint én!"
+        },
+        {
+          "number": 22,
+          "text": "Jusson elődbe minden gonoszságuk, és úgy bánj velök, a miképen én velem bántál az én minden bűnömért; mert sok az én sóhajtozásom, és beteg a szívem."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jaj; de sűrű felhőt borított haragjában az Úr Sionnak leányára! az égből a földre veté Izráel ékességét, és nem emlékezett meg lábainak zsámolyáról az ő haragja napján."
+        },
+        {
+          "number": 2,
+          "text": "Elnyelte az Úr, nem kimélte Jákóbnak minden hajlékát, letörte haragjában Júda leányának erősségeit, a földre terítette; megfertőzteté az országot és fejedelmeit."
+        },
+        {
+          "number": 3,
+          "text": "Felgerjedt haragjában letördelé Izráelnek minden szarvát; hátravoná jobbkezét az ellenség elől, Jákób ellen pedig mint lángoló tűz emésztett köröskörül."
+        },
+        {
+          "number": 4,
+          "text": "Feszítette kézívét, mint valami ellenség, kinyújtá jobbkezét, mint támadó, és megölt mindent, a mi a szemnek kivánatos; Sion leányának sátorában, mint a tüzet önté ki búsulását."
+        },
+        {
+          "number": 5,
+          "text": "Olyan volt az Úr, mint valami ellenség; elnyelte Izráelt, elnyelte minden palotáját, elrontá erősségeit, és megsokasította Júda leányának a búját, baját."
+        },
+        {
+          "number": 6,
+          "text": "És eltapodta sátorát, mint valami kertet, lerombolta gyülekezése helyét; elfeledtete az Úr a Sionon ünnepet és szombatot, és megútált haragja hevében királyt és papot."
+        },
+        {
+          "number": 7,
+          "text": "Megvetette az Úr az ő oltárát, megútálta szent helyét; ellenség kezébe adá palotáinak kőfalait; zajt ütöttek az Úr házában, mint ünnepnapon."
+        },
+        {
+          "number": 8,
+          "text": "Gondolá az Úr, hogy lerontja Sion leányának kőfalát; kiterjeszté a mérőkötelet, nem vonta vissza kezét a pusztítástól, és siralomra jutott a bástya és a kőfal, együtt búslakodnak!"
+        },
+        {
+          "number": 9,
+          "text": "Kapui besülyedtek a földbe, elveszté és összetöré annak zárait; királya és fejedelmei a pogányok közt vannak. Nincsen törvény, sőt prófétái sem nyernek kijelentést az Úrtól."
+        },
+        {
+          "number": 10,
+          "text": "A földön ülnek, elnémultak Sion leányának vénei, port szórtak a fejökre; zsákba öltöztek, földre csüggesztették fejöket Jeruzsálemnek szűzei."
+        },
+        {
+          "number": 11,
+          "text": "Elsenyvedtek szemeim a könyhullatástól, belső részeim háborognak, májam a földre omlik az én népem leányának romlása miatt, mikor elalélt a kis gyermek és a csecsszopó a város utczáin."
+        },
+        {
+          "number": 12,
+          "text": "Azt mondták anyjoknak: Hol a kenyér, meg a bor? mikor elaléltak, mint a sebesültek a város utczáin, mikor kilehelték lelköket anyjoknak kebelén."
+        },
+        {
+          "number": 13,
+          "text": "Mivel bizonyítsak melletted, mihez hasonlítsalak, Jeruzsálem leánya, mivel mérjelek össze téged, hogy megvígasztaljalak, Sionnak szűz leánya?! Bizony nagy a te romlásod, mint a tenger: kicsoda gyógyít meg téged?!"
+        },
+        {
+          "number": 14,
+          "text": "A te prófétáid hazugságot és bolondságot hirdettek néked, és nem fedték fel a te álnokságodat, hogy elfordították volna fogságodat; hanem láttak tenéked hazug és megtévelyítő prófétálásokat."
+        },
+        {
+          "number": 15,
+          "text": "Összecsapják feletted kezöket minden járó-kelők; süvöltenek és csóválják fejöket Jeruzsálem leánya felett: Ez-é az a város, a melyről azt mondták: tökéletes szépség, az egész földnek öröme?"
+        },
+        {
+          "number": 16,
+          "text": "Feltátották ellened szájokat minden ellenségeid; süvöltenek és csikorgatják fogukat, mondván: Nyeljük el őt! Bizony ez a nap az, a melyet vártunk; megértük, látjuk!"
+        },
+        {
+          "number": 17,
+          "text": "Megcselekedte az Úr, a miket gondolt; beváltotta szavát, a melyet szólt eleitől fogva; rombolt és nem kimélt, és megvidámította rajtad az ellenséget, felemelte szarvát a te szorongatóidnak."
+        },
+        {
+          "number": 18,
+          "text": "Kiáltott az ő szívök az Úrhoz: Oh Sion leányának kőfala! Folyjon alá könnyed mint a patak, éjjel és nappal; ne szakadjon félbe, síró szemed meg se pihenjen."
+        },
+        {
+          "number": 19,
+          "text": "Kelj fel, riadj éjjel, az őrjárások kezdetén; öntsd ki, mint a vizet a te szívedet az Úr szine előtt; emeld fel hozzá kezeidet a te kisdedeidnek életéért, a kik elaléltak az éhség miatt minden utczának szegletén."
+        },
+        {
+          "number": 20,
+          "text": "Lásd meg Uram és tekintsd meg, kivel cselekedtél így! Avagy megegyék-é az asszonyok az ő méhöknek gyümölcsét, dédelgetett kisdedeiket; avagy megölettessék-é az Úrnak szent helyén pap és próféta?"
+        },
+        {
+          "number": 21,
+          "text": "Az utczákon a földön fekszik gyermek és vén; szűzeim és ifjaim fegyver miatt hullottak el; öldököltél haragod napján, mészároltál, nem kiméltél."
+        },
+        {
+          "number": 22,
+          "text": "Egybehívtad mint valami ünnepnapra az én rettegtetőimet mindenfelől, és nem volt az Úr haragjának napján, a ki elmenekült és megszabadult volna. A kiket dédelgettem és felneveltem, ellenségem emésztette meg őket!"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Én vagyok az az ember, a ki nyomorúságot látott az ő haragjának vesszeje miatt."
+        },
+        {
+          "number": 2,
+          "text": "Engem vezérlett és járatott sötétségben és nem világosságban."
+        },
+        {
+          "number": 3,
+          "text": "Bizony ellenem fordult, ellenem fordítja kezét minden nap."
+        },
+        {
+          "number": 4,
+          "text": "Megfonnyasztotta testemet és bőrömet, összeroncsolta csontjaimat."
+        },
+        {
+          "number": 5,
+          "text": "Erősséget épített ellenem és körülvett méreggel és fáradsággal."
+        },
+        {
+          "number": 6,
+          "text": "Sötét helyekre ültetett engem, mint az örökre meghaltakat."
+        },
+        {
+          "number": 7,
+          "text": "Körülkerített, hogy ki ne mehessek, nehézzé tette lánczomat."
+        },
+        {
+          "number": 8,
+          "text": "Sőt ha kiáltok és segítségül hívom is, nem hallja meg imádságomat."
+        },
+        {
+          "number": 9,
+          "text": "Elkerítette az én útaimat terméskővel, ösvényeimet elforgatta."
+        },
+        {
+          "number": 10,
+          "text": "Ólálkodó medve ő nékem és lesben álló oroszlán."
+        },
+        {
+          "number": 11,
+          "text": "Útaimat elterelte, és darabokra vagdalt és elpusztított engem!"
+        },
+        {
+          "number": 12,
+          "text": "Kifeszítette kézívét, és a nyíl elé czélul állított engem!"
+        },
+        {
+          "number": 13,
+          "text": "Veséimbe bocsátotta tegzének fiait."
+        },
+        {
+          "number": 14,
+          "text": "Egész népemnek csúfjává lettem, és gúnydalukká napestig."
+        },
+        {
+          "number": 15,
+          "text": "Eltöltött engem keserűséggel, megrészegített engem ürömmel."
+        },
+        {
+          "number": 16,
+          "text": "És kova-kővel tördelte ki fogaimat; porba tiprott engem."
+        },
+        {
+          "number": 17,
+          "text": "És kizártad lelkem a békességből; elfeledkeztem a jóról."
+        },
+        {
+          "number": 18,
+          "text": "És mondám: Elveszett az én erőm és az én reménységem az Úrban."
+        },
+        {
+          "number": 19,
+          "text": "Emlékezzél meg az én nyomorúságomról és eltapodtatásomról, az ürömről és a méregről!"
+        },
+        {
+          "number": 20,
+          "text": "Vissza-visszaemlékezik, és megalázódik bennem az én lelkem."
+        },
+        {
+          "number": 21,
+          "text": "Ezt veszem szívemre, azért bízom."
+        },
+        {
+          "number": 22,
+          "text": "Az Úr kegyelmessége az, hogy még nincsen végünk; mivel nem fogyatkozik el az ő irgalmassága!"
+        },
+        {
+          "number": 23,
+          "text": "Minden reggel meg-megújul; nagy a te hűséged!"
+        },
+        {
+          "number": 24,
+          "text": "Az Úr az én örökségem, mondja az én lelkem, azért benne bízom."
+        },
+        {
+          "number": 25,
+          "text": "Jó az Úr azoknak, a kik várják őt; a léleknek, a mely keresi őt."
+        },
+        {
+          "number": 26,
+          "text": "Jó várni és megadással lenni az Úr szabadításáig."
+        },
+        {
+          "number": 27,
+          "text": "Jó a férfiúnak, ha igát visel ifjúságában."
+        },
+        {
+          "number": 28,
+          "text": "Egyedül ül és hallgat, mert felvette magára."
+        },
+        {
+          "number": 29,
+          "text": "Porba teszi száját, mondván: Talán van még reménység?"
+        },
+        {
+          "number": 30,
+          "text": "Orczáját tartja az őt verőnek, megelégszik gyalázattal."
+        },
+        {
+          "number": 31,
+          "text": "Mert nem zár ki örökre az Úr."
+        },
+        {
+          "number": 32,
+          "text": "Sőt, ha megszomorít, meg is vígasztal az ő kegyelmességének gazdagsága szerint."
+        },
+        {
+          "number": 33,
+          "text": "Mert nem szíve szerint veri és szomorítja meg az embernek fiát."
+        },
+        {
+          "number": 34,
+          "text": "Hogy lábai alá tiporja valaki a föld minden foglyát;"
+        },
+        {
+          "number": 35,
+          "text": "Hogy elfordíttassék az ember ítélete a Magasságosnak színe előtt;"
+        },
+        {
+          "number": 36,
+          "text": "Hogy elnyomassék az ember az ő peres dolgában: ezt az Úr nem nézi el."
+        },
+        {
+          "number": 37,
+          "text": "Kicsoda az, a ki szól és meglesz, ha nem parancsolja az Úr?"
+        },
+        {
+          "number": 38,
+          "text": "A Magasságosnak szájából nem jő ki a gonosz és a jó."
+        },
+        {
+          "number": 39,
+          "text": "Mit zúgolódik az élő ember? Ki-ki a maga bűneiért bűnhődik."
+        },
+        {
+          "number": 40,
+          "text": "Tudakozzuk a mi útainkat és vizsgáljuk meg, és térjünk az Úrhoz."
+        },
+        {
+          "number": 41,
+          "text": "Emeljük fel szíveinket kezeinkkel egyetemben Istenhez az égben."
+        },
+        {
+          "number": 42,
+          "text": "Mi voltunk gonoszok és pártütők, azért nem bocsátottál meg."
+        },
+        {
+          "number": 43,
+          "text": "Felöltötted a haragot és üldöztél minket, öldököltél, nem kiméltél."
+        },
+        {
+          "number": 44,
+          "text": "Felöltötted a felhőt, hogy hozzád ne jusson az imádság."
+        },
+        {
+          "number": 45,
+          "text": "Sepredékké és útálattá tettél minket a népek között."
+        },
+        {
+          "number": 46,
+          "text": "Feltátotta száját ellenünk minden ellenségünk."
+        },
+        {
+          "number": 47,
+          "text": "Rettegés és tőr van mi rajtunk, pusztulás és romlás."
+        },
+        {
+          "number": 48,
+          "text": "Víz-patakok folynak alá az én szememből népem leányának romlása miatt."
+        },
+        {
+          "number": 49,
+          "text": "Szemem csörgedez és nem szünik meg, nincs pihenése,"
+        },
+        {
+          "number": 50,
+          "text": "Míg ránk nem tekint és meg nem lát az Úr az égből."
+        },
+        {
+          "number": 51,
+          "text": "Szemem bánatba ejté lelkemet városomnak minden leányáért."
+        },
+        {
+          "number": 52,
+          "text": "Vadászva vadásztak reám, mint valami madárra, ellenségeim ok nélkül."
+        },
+        {
+          "number": 53,
+          "text": "Veremben fojtották meg életemet, és követ hánytak rám."
+        },
+        {
+          "number": 54,
+          "text": "Felüláradtak a vizek az én fejem felett; mondám: Kivágattam!"
+        },
+        {
+          "number": 55,
+          "text": "Segítségül hívtam a te nevedet, oh Uram, a legalsó veremből."
+        },
+        {
+          "number": 56,
+          "text": "Hallottad az én szómat; ne rejtsd el füledet sóhajtásom és kiáltásom elől."
+        },
+        {
+          "number": 57,
+          "text": "Közelegj hozzám, mikor segítségül hívlak téged; mondd: Ne félj!"
+        },
+        {
+          "number": 58,
+          "text": "Pereld meg Uram lelkemnek perét; váltsd meg életemet."
+        },
+        {
+          "number": 59,
+          "text": "Láttad, oh Uram, az én bántalmaztatásomat; ítéld meg ügyemet."
+        },
+        {
+          "number": 60,
+          "text": "Láttad minden bosszúállásukat, minden ellenem való gondolatjokat."
+        },
+        {
+          "number": 61,
+          "text": "Hallottad Uram az ő szidalmazásukat, minden ellenem való gondolatjokat;"
+        },
+        {
+          "number": 62,
+          "text": "Az ellenem támadóknak ajkait, és ellenem való mindennapi szándékukat."
+        },
+        {
+          "number": 63,
+          "text": "Tekintsd meg leülésöket és felkelésöket; én vagyok az ő gúnydaluk."
+        },
+        {
+          "number": 64,
+          "text": "Fizess meg nékik, Uram, az ő kezeiknek munkája szerint."
+        },
+        {
+          "number": 65,
+          "text": "Adj nékik szívbeli konokságot; átkodul reájok."
+        },
+        {
+          "number": 66,
+          "text": "Üldözd haragodban, és veszesd el őket az Úr ege alól!"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jaj! de meghomályosodott az arany, elváltozott a szép színarany, kiszórattak a szent hely kövei minden utcza szegletére."
+        },
+        {
+          "number": 2,
+          "text": "Sionnak drága fiait, a kik becsesebbek valának mint a színarany, cserépedénynek tekintették, a fazekas munkájának."
+        },
+        {
+          "number": 3,
+          "text": "Még a sárkányok is oda nyujtják emlőiket, szoptatják fiaikat; az én népem leánya pedig kegyetlen, mint a struczmadarak a pusztában."
+        },
+        {
+          "number": 4,
+          "text": "A csecsemő nyelve az ínyéhez tapadt a szomjúság miatt; a kisdedek kenyeret kértek, és nem volt, a ki nyujtott volna nékik."
+        },
+        {
+          "number": 5,
+          "text": "Kik pompás ételeket evének, elpusztulának az utczákon; a kik bíborban neveltetének, a szemétdombot ölelgetik."
+        },
+        {
+          "number": 6,
+          "text": "Bizony nagyobb az én népem leányának bűnhődése Sodoma bűnhődésénél, a mely elsülyedt egy pillanat alatt, noha kézzel sem ütöttek felé."
+        },
+        {
+          "number": 7,
+          "text": "Az ő názireusai tisztábbak valának a hónál, fehérebbek a tejnél, testök pirosabb vala, mint a korál, termetök mint a zafir."
+        },
+        {
+          "number": 8,
+          "text": "De most feketébb az ő ábrázatjok a koromnál, nem ismerik meg őket az utczákon; bőrük csontjaikhoz ragadt, elszáradt, mint a fa."
+        },
+        {
+          "number": 9,
+          "text": "Jobban jártak, a kik fegyverrel ölettek meg, mint a kik éhen vesztek el; mert azok átveretve multak ki, ezek pedig a mező termésének hiánya miatt."
+        },
+        {
+          "number": 10,
+          "text": "Irgalmas anyák kezei megfőzték gyermekeiket, hogy azok eledeleik legyenek az én népem leányának romlásakor."
+        },
+        {
+          "number": 11,
+          "text": "Megteljesíté az Úr az ő búsulását, kiöntötte az ő felgerjedt haragját, és tüzet gyújtott a Sionban, és megemésztette annak fundamentomait."
+        },
+        {
+          "number": 12,
+          "text": "Nem hitték a föld királyai, sem a föld kerekségének lakosai, hogy szorongató és ellenség vonuljon be Jeruzsálemnek kapuin."
+        },
+        {
+          "number": 13,
+          "text": "Az ő prófétáinak bűne, az ő papjainak vétke miatt van ez, a kik az igazaknak vérét ontották abban."
+        },
+        {
+          "number": 14,
+          "text": "Tántorogtak, mint vakok az utczákon, vérrel bemocskolva, annyira, hogy ruháikat sem érinthették."
+        },
+        {
+          "number": 15,
+          "text": "Távozzatok! tisztátalan! kiáltották azoknak; távozzatok, távozzatok, ne illessetek! Bizony elfutottak, bujdostak is; a pogányok közt ezt mondták: Nem lakhatnak itt sokáig!"
+        },
+        {
+          "number": 16,
+          "text": "Az Úr haragja oszlatta el őket; többé nem tekint reájok, mivelhogy a papok orczáját nem tisztelték, a véneken nem könyörültek."
+        },
+        {
+          "number": 17,
+          "text": "Még mikor meg voltunk, elepedve néztek szemeink a hiábavaló segedelem után; esengve várakoztunk olyan népre, a mely nem szabadított meg."
+        },
+        {
+          "number": 18,
+          "text": "Vadásztak lépéseinkre úgy, hogy nem járhattunk a mi utczáinkon; elközelgetett a mi végünk, beteltek a mi napjaink, bizony eljött a mi végünk!"
+        },
+        {
+          "number": 19,
+          "text": "Gyorsabbak valának a mi üldözőink az égnek saskeselyűinél; a hegyeken kergettek minket, a pusztában ólálkodtak utánunk."
+        },
+        {
+          "number": 20,
+          "text": "Orrunk lehellete, az Úr felkentje megfogattaték az ő vermeikben, a kiről azt mondottuk: az ő árnyékában élünk a pogányok között."
+        },
+        {
+          "number": 21,
+          "text": "Örülj és vígadozz, Edom leánya, a ki Uz földjén lakozol, mert még te rád is rád kerül a pohár, megrészegedel és meztelenkedel."
+        },
+        {
+          "number": 22,
+          "text": "Eltörültetik a te álnokságod, oh Sion leánya, nem fog téged száműzni többé; meglátogatja a te álnokságodat, Edom leánya fölfedi a te bűneidet."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Emlékezzél meg Uram, mi esett meg rajtunk; tekintsd meg és lásd meg gyalázatunkat!"
+        },
+        {
+          "number": 2,
+          "text": "A mi örökségünk idegenekre szállt; házaink a jövevényekéi."
+        },
+        {
+          "number": 3,
+          "text": "Apátlan árvák lettünk; anyáink, mint az özvegyek."
+        },
+        {
+          "number": 4,
+          "text": "Vizünket pénzért iszszuk, tűzifánkat áron kapjuk."
+        },
+        {
+          "number": 5,
+          "text": "Nyakunknál fogva hajtatunk; elfáradtunk, nincsen nyugtunk."
+        },
+        {
+          "number": 6,
+          "text": "Égyiptomnak adtunk kezet, az assziroknak, hogy jóllakjunk kenyérrel."
+        },
+        {
+          "number": 7,
+          "text": "Apáink vétkeztek; nincsenek; mi hordozzuk vétkeiket."
+        },
+        {
+          "number": 8,
+          "text": "Szolgák uralkodnak rajtunk; nincs a ki megszabadítson kezökből."
+        },
+        {
+          "number": 9,
+          "text": "Életünk veszélyeztetésével szerezzük kenyerünket a pusztában levő fegyver miatt."
+        },
+        {
+          "number": 10,
+          "text": "Bőrünk, mint a kemencze, megfeketedett az éhség lázától."
+        },
+        {
+          "number": 11,
+          "text": "Az asszonyokat meggyalázták Sionban, a szűzeket Júda városaiban."
+        },
+        {
+          "number": 12,
+          "text": "A fejedelmeket kezökkel akasztották fel; a vének orczáit nem becsülik."
+        },
+        {
+          "number": 13,
+          "text": "Az ifjak a kézi malmot hordozzák, és a gyermekek a fahordásban botlanak el."
+        },
+        {
+          "number": 14,
+          "text": "A vének eltüntek a kapuból, megszüntek az ifjak énekelni."
+        },
+        {
+          "number": 15,
+          "text": "Oda van a mi szívünk öröme, gyászra fordult a mi körtánczunk."
+        },
+        {
+          "number": 16,
+          "text": "Elesett a mi fejünknek koronája, jaj most nékünk mert vétkeztünk!"
+        },
+        {
+          "number": 17,
+          "text": "Ezért lett beteg a mi szívünk, ezekért homályosodtak meg a mi szemeink;"
+        },
+        {
+          "number": 18,
+          "text": "A Sion hegyéért, hogy elpusztult; rókák futkosnak azon!"
+        },
+        {
+          "number": 19,
+          "text": "Te Uram örökké megmaradsz; a te királyi széked nemzedékről nemzedékre!"
+        },
+        {
+          "number": 20,
+          "text": "Miért feledkezel el örökre mi rólunk? miért hagysz el minket hosszú időre?"
+        },
+        {
+          "number": 21,
+          "text": "Téríts vissza Uram magadhoz és visszatérünk; újítsd meg a mi napjainkat, mint régen."
+        },
+        {
+          "number": 22,
+          "text": "Mert bizony-bizony megvetettél minket; megharagudtál ránk felettébb!"
+        }
+      ]
+    }
+  ]
+}

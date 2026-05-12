@@ -1,0 +1,454 @@
+{
+  "version": "clem",
+  "book": "1John",
+  "bookId": 62,
+  "englishName": "1 John",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quod fuit ab initio, quod audivimus, quod vidimus oculis nostris, quod perspeximus, et manus nostr contrectaverunt de verbo vit:"
+        },
+        {
+          "number": 2,
+          "text": "et vita manifestata est, et vidimus, et testamur, et annuntiamus vobis vitam ternam, qu erat apud Patrem, et apparuit nobis:"
+        },
+        {
+          "number": 3,
+          "text": "quod vidimus et audivimus, annuntiamus vobis, ut et vos societatem habeatis nobiscum, et societas nostra sit cum Patre, et cum Filio ejus Jesu Christo."
+        },
+        {
+          "number": 4,
+          "text": "Et hc scribimus vobis ut gaudeatis, et gaudium vestrum sit plenum."
+        },
+        {
+          "number": 5,
+          "text": "Et hc est annuntiatio, quam audivimus ab eo, et annuntiamus vobis: quoniam Deus lux est, et tenebr in eo non sunt ull."
+        },
+        {
+          "number": 6,
+          "text": "Si dixerimus quoniam societatem habemus cum eo, et in tenebris ambulamus, mentimur, et veritatem non facimus."
+        },
+        {
+          "number": 7,
+          "text": "Si autem in luce ambulamus sicut et ipse est in luce, societatem habemus ad invicem, et sanguis Jesu Christi, Filii ejus, emundat nos ab omni peccato."
+        },
+        {
+          "number": 8,
+          "text": "Si dixerimus quoniam peccatum non habemus, ipsi nos seducimus, et veritas in nobis non est."
+        },
+        {
+          "number": 9,
+          "text": "Si confiteamur peccata nostra: fidelis est, et justus, ut remittat nobis peccata nostra, et emundet nos ab omni iniquitate."
+        },
+        {
+          "number": 10,
+          "text": "Si dixerimus quoniam non peccavimus, mendacem facimus eum, et verbum ejus non est in nobis."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Filioli mei, hc scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Jesum Christum justum:"
+        },
+        {
+          "number": 2,
+          "text": "et ipse est propitiatio pro peccatis nostris: non pro nostris autem tantum, sed etiam pro totius mundi."
+        },
+        {
+          "number": 3,
+          "text": "Et in hoc scimus quoniam cognovimus eum, si mandata ejus observemus."
+        },
+        {
+          "number": 4,
+          "text": "Qui dicit se nosse eum, et mandata ejus non custodit, mendax est, et in hoc veritas non est."
+        },
+        {
+          "number": 5,
+          "text": "Qui autem servat verbum ejus, vere in hoc caritas Dei perfecta est: et in hoc scimus quoniam in ipso sumus."
+        },
+        {
+          "number": 6,
+          "text": "Qui dicit se in ipso manere, debet, sicut ille ambulavit, et ipse ambulare."
+        },
+        {
+          "number": 7,
+          "text": "Carissimi, non mandatum novum scribo vobis, sed mandatum vetus, quod habuistis ab initio. Mandatum vetus est verbum, quod audistis."
+        },
+        {
+          "number": 8,
+          "text": "Iterum mandatum novum scribo vobis, quod verum est et in ipso, et in vobis: quia tenebr transierunt, et verum lumen jam lucet."
+        },
+        {
+          "number": 9,
+          "text": "Qui dicit se in luce esse, et fratrem suum odit, in tenebris est usque adhuc."
+        },
+        {
+          "number": 10,
+          "text": "Qui diligit fratrem suum, in lumine manet, et scandalum in eo non est."
+        },
+        {
+          "number": 11,
+          "text": "Qui autem odit fratrem suum, in tenebris est, et in tenebris ambulat, et nescit quo eat: quia tenebr obccaverunt oculos ejus."
+        },
+        {
+          "number": 12,
+          "text": "Scribo vobis, filioli, quoniam remittuntur vobis peccata propter nomen ejus."
+        },
+        {
+          "number": 13,
+          "text": "Scribo vobis, patres, quoniam cognovistis eum, qui ab initio est. Scribo vobis, adolescentes, quoniam vicistis malignum."
+        },
+        {
+          "number": 14,
+          "text": "Scribo vobis, infantes, quoniam cognovistis patrem. Scribo vobis juvenes, quoniam fortes estis, et verbum Dei manet in vobis, et vicistis malignum."
+        },
+        {
+          "number": 15,
+          "text": "Nolite diligere mundum, neque ea qu in mundo sunt. Si quis diligit mundum, non est caritas Patris in eo:"
+        },
+        {
+          "number": 16,
+          "text": "quoniam omne quod est in mundo, concupiscentia carnis est, et concupiscentia oculorum, et superbia vit: qu non est ex Patre, sed ex mundo est."
+        },
+        {
+          "number": 17,
+          "text": "Et mundus transit, et concupiscentia ejus: qui autem facit voluntatem Dei manet in ternum."
+        },
+        {
+          "number": 18,
+          "text": "Filioli, novissima hora est: et sicut audistis quia antichristus venit, et nunc antichristi multi facti sunt; unde scimus, quia novissima hora est."
+        },
+        {
+          "number": 19,
+          "text": "Ex nobis prodierunt, sed non erant ex nobis, nam, si fuissent ex nobis, permansissent utique nobiscum: sed ut manifesti sint quoniam non sunt omnes ex nobis."
+        },
+        {
+          "number": 20,
+          "text": "Sed vos unctionem habetis a Sancto, et nostis omnia."
+        },
+        {
+          "number": 21,
+          "text": "Non scripsi vobis quasi ignorantibus veritatem, sed quasi scientibus eam: et quoniam omne mendacium ex veritate non est."
+        },
+        {
+          "number": 22,
+          "text": "Quis est mendax, nisi is qui negat quoniam Jesus est Christus? Hic est antichristus, qui negat Patrem, et Filium."
+        },
+        {
+          "number": 23,
+          "text": "Omnis qui negat Filium, nec Patrem habet: qui confitetur Filium, et Patrem habet."
+        },
+        {
+          "number": 24,
+          "text": "Vos quod audistis ab initio, in vobis permaneat: si in vobis permanserit quod audistis ab initio, et vos in Filio et Patre manebitis."
+        },
+        {
+          "number": 25,
+          "text": "Et hc est repromissio, quam ipse pollicitus est nobis, vitam ternam."
+        },
+        {
+          "number": 26,
+          "text": "Hc scripsi vobis de his, qui seducant vos."
+        },
+        {
+          "number": 27,
+          "text": "Et vos unctionem, quam accepistis ab eo, maneat in vobis. Et non necesse habetis ut aliquis doceat vos: sed sicut unctio ejus docet vos de omnibus, et verum est, et non est mendacium. Et sicut docuit vos: manete in eo."
+        },
+        {
+          "number": 28,
+          "text": "Et nunc, filioli, manete in eo: ut cum apparuerit, habeamus fiduciam, et non confundamur ab eo in adventu ejus."
+        },
+        {
+          "number": 29,
+          "text": "Si scitis quoniam justus est, scitote quoniam et omnis, qui facit justitiam, ex ipso natus est."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Videte qualem caritatem dedit nobis Pater, ut filii Dei nominemur et simus. Propter hoc mundus non novit nos: quia non novit eum."
+        },
+        {
+          "number": 2,
+          "text": "Carissimi, nunc filii Dei sumus: et nondum apparuit quid erimus. Scimus quoniam cum apparuerit, similes ei erimus: quoniam videbimus eum sicuti est."
+        },
+        {
+          "number": 3,
+          "text": "Et omnis qui habet hanc spem in eo, sanctificat se, sicut et ille sanctus est."
+        },
+        {
+          "number": 4,
+          "text": "Omnis qui facit peccatum, et iniquitatem facit: et peccatum est iniquitas."
+        },
+        {
+          "number": 5,
+          "text": "Et scitis quia ille apparuit ut peccata nostra tolleret: et peccatum in eo non est."
+        },
+        {
+          "number": 6,
+          "text": "Omnis qui in eo manet, non peccat: et omnis qui peccat, non vidit eum, nec cognovit eum."
+        },
+        {
+          "number": 7,
+          "text": "Filioli, nemo vos seducat. Qui facit justitiam, justus est, sicut et ille justus est."
+        },
+        {
+          "number": 8,
+          "text": "Qui facit peccatum, ex diabolo est: quoniam ab initio diabolus peccat. In hoc apparuit Filius Dei, ut dissolvat opera diaboli."
+        },
+        {
+          "number": 9,
+          "text": "Omnis qui natus est ex Deo, peccatum non facit: quoniam semen ipsius in eo manet, et non potest peccare, quoniam ex Deo natus est."
+        },
+        {
+          "number": 10,
+          "text": "In hoc manifesti sunt filii Dei, et filii diaboli. Omnis qui non est justus, non est ex Deo, et qui non diligit fratrem suum:"
+        },
+        {
+          "number": 11,
+          "text": "quoniam hc est annuntiatio, quam audistis ab initio, ut diligatis alterutrum."
+        },
+        {
+          "number": 12,
+          "text": "Non sicut Cain, qui ex maligno erat, et occidit fratrem suum. Et propter quid occidit eum? Quoniam opera ejus maligna erant: fratris autem ejus, justa."
+        },
+        {
+          "number": 13,
+          "text": "Nolite mirari, fratres, si odit vos mundus."
+        },
+        {
+          "number": 14,
+          "text": "Nos scimus quoniam translati sumus de morte ad vitam, quoniam diligimus fratres. Qui non diligit, manet in morte:"
+        },
+        {
+          "number": 15,
+          "text": "omnis qui odit fratrem suum, homicida est. Et scitis quoniam omnis homicida non habet vitam ternam in semetipso manentem."
+        },
+        {
+          "number": 16,
+          "text": "In hoc cognovimus caritatem Dei, quoniam ille animam suam pro nobis posuit: et nos debemus pro fratribus animas ponere."
+        },
+        {
+          "number": 17,
+          "text": "Qui habuerit substantiam hujus mundi, et viderit fratrem suum necessitatem habere, et clauserit viscera sua ab eo: quomodo caritas Dei manet in eo?"
+        },
+        {
+          "number": 18,
+          "text": "Filioli mei, non diligamus verbo neque lingua, sed opere et veritate:"
+        },
+        {
+          "number": 19,
+          "text": "in hoc cognoscimus quoniam ex veritate sumus: et in conspectu ejus suadebimus corda nostra."
+        },
+        {
+          "number": 20,
+          "text": "Quoniam si reprehenderit nos cor nostrum: major est Deus corde nostro, et novit omnia."
+        },
+        {
+          "number": 21,
+          "text": "Carissimi, si cor nostrum non reprehenderit nos, fiduciam habemus ad Deum:"
+        },
+        {
+          "number": 22,
+          "text": "et quidquid petierimus, accipiemus ab eo: quoniam mandata ejus custodimus, et ea, qu sunt placita coram eo, facimus."
+        },
+        {
+          "number": 23,
+          "text": "Et hoc est mandatum ejus: ut credamus in nomine Filii ejus Jesu Christi: et diligamus alterutrum, sicut dedit mandatum nobis."
+        },
+        {
+          "number": 24,
+          "text": "Et qui servat mandata ejus, in illo manet, et ipse in eo: et in hoc scimus quoniam manet in nobis, de Spiritu quem dedit nobis."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophet exierunt in mundum."
+        },
+        {
+          "number": 2,
+          "text": "In hoc cognoscitur Spiritus Dei: omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est:"
+        },
+        {
+          "number": 3,
+          "text": "et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est."
+        },
+        {
+          "number": 4,
+          "text": "Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo."
+        },
+        {
+          "number": 5,
+          "text": "Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit."
+        },
+        {
+          "number": 6,
+          "text": "Nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognoscimus Spiritum veritatis, et spiritum erroris."
+        },
+        {
+          "number": 7,
+          "text": "Carissimi, diligamus nos invicem: quia caritas ex Deo est. Et omnis qui diligit, ex Deo natus est, et cognoscit Deum."
+        },
+        {
+          "number": 8,
+          "text": "Qui non diligit, non novit Deum: quoniam Deus caritas est."
+        },
+        {
+          "number": 9,
+          "text": "In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum."
+        },
+        {
+          "number": 10,
+          "text": "In hoc est caritas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris."
+        },
+        {
+          "number": 11,
+          "text": "Carissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere."
+        },
+        {
+          "number": 12,
+          "text": "Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est."
+        },
+        {
+          "number": 13,
+          "text": "In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis."
+        },
+        {
+          "number": 14,
+          "text": "Et vos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi."
+        },
+        {
+          "number": 15,
+          "text": "Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo."
+        },
+        {
+          "number": 16,
+          "text": "Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo."
+        },
+        {
+          "number": 17,
+          "text": "In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii: quia sicut ille est, et nos sumus in hoc mundo."
+        },
+        {
+          "number": 18,
+          "text": "Timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor pnam habet: qui autem timet, non est perfectus in caritate."
+        },
+        {
+          "number": 19,
+          "text": "Nos ergo diligamus Deum, quoniam Deus prior dilexit nos."
+        },
+        {
+          "number": 20,
+          "text": "Si quis dixerit, Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem vidit, Deum, quem non vidit, quomodo potest diligere?"
+        },
+        {
+          "number": 21,
+          "text": "Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Omnis qui credit quoniam Jesus est Christus, ex Deo natus est. Et omnis qui diligit eum qui genuit, diligit et eum qui natus est ex eo."
+        },
+        {
+          "number": 2,
+          "text": "In hoc cognoscimus quoniam diligamus natos Dei, cum Deum diligamus, et mandata ejus faciamus."
+        },
+        {
+          "number": 3,
+          "text": "Hc est enim caritas Dei, ut mandata ejus custodiamus: et mandata ejus gravia non sunt."
+        },
+        {
+          "number": 4,
+          "text": "Quoniam omne quod natum est ex Deo, vincit mundum: et hc est victoria, qu vincit mundum, fides nostra."
+        },
+        {
+          "number": 5,
+          "text": "Quis est, qui vincit mundum, nisi qui credit quoniam Jesus est Filius Dei?"
+        },
+        {
+          "number": 6,
+          "text": "Hic est, qui venit per aquam et sanguinem, Jesus Christus: non in aqua solum, sed in aqua et sanguine. Et Spiritus est, qui testificatur quoniam Christus est veritas."
+        },
+        {
+          "number": 7,
+          "text": "Quoniam tres sunt, qui testimonium dant in clo: Pater, Verbum, et Spiritus Sanctus: et hi tres unum sunt."
+        },
+        {
+          "number": 8,
+          "text": "Et tres sunt, qui testimonium dant in terra: spiritus, et aqua, et sanguis: et hi tres unum sunt."
+        },
+        {
+          "number": 9,
+          "text": "Si testimonium hominum accipimus, testimonium Dei majus est: quoniam hoc est testimonium Dei, quod majus est, quoniam testificatus est de Filio suo."
+        },
+        {
+          "number": 10,
+          "text": "Qui credit in Filium Dei, habet testimonium Dei in se. Qui non credit Filio, mendacem facit eum: quia non credit in testimonium quod testificatus est Deus de Filio suo."
+        },
+        {
+          "number": 11,
+          "text": "Et hoc est testimonium, quoniam vitam ternam dedit nobis Deus: et hc vita in Filio ejus est."
+        },
+        {
+          "number": 12,
+          "text": "Qui habet Filium, habet vitam: qui non habet Filium, vitam non habet."
+        },
+        {
+          "number": 13,
+          "text": "Hc scribo vobis ut sciatis quoniam vitam habetis ternam, qui creditis in nomine Filii Dei."
+        },
+        {
+          "number": 14,
+          "text": "Et hc est fiducia, quam habemus ad eum: quia quodcumque petierimus, secundum voluntatem ejus, audit nos."
+        },
+        {
+          "number": 15,
+          "text": "Et scimus quia audit nos quidquid petierimus: scimus quoniam habemus petitiones quas postulamus ab eo."
+        },
+        {
+          "number": 16,
+          "text": "Qui scit fratrem suum peccare peccatum non ad mortem, petat, et dabitur ei vita peccanti non ad mortem. Est peccatum ad mortem: non pro illo dico ut roget quis."
+        },
+        {
+          "number": 17,
+          "text": "Omnis iniquitas, peccatum est: et est peccatum ad mortem."
+        },
+        {
+          "number": 18,
+          "text": "Scimus quia omnis qui natus est ex Deo, non peccat: sed generatio Dei conservat eum, et malignus non tangit eum."
+        },
+        {
+          "number": 19,
+          "text": "Scimus quoniam ex Deo sumus: et mundus totus in maligno positus est."
+        },
+        {
+          "number": 20,
+          "text": "Et scimus quoniam Filius Dei venit, et dedit nobis sensum ut cognoscamus verum Deum, et simus in vero Filio ejus. Hic est verus Deus, et vita terna."
+        },
+        {
+          "number": 21,
+          "text": "Filioli, custodite vos a simulacris. Amen."
+        }
+      ]
+    }
+  ]
+}

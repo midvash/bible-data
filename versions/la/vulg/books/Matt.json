@@ -1,0 +1,4425 @@
+{
+  "version": "vulg",
+  "book": "Matt",
+  "bookId": 40,
+  "englishName": "Matthew",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "liber generationis Iesu Christi filii David filii Abraham"
+        },
+        {
+          "number": 2,
+          "text": "Abraham genuit Isaac Isaac autem genuit Iacob Iacob autem genuit Iudam et fratres eius"
+        },
+        {
+          "number": 3,
+          "text": "Iudas autem genuit Phares et Zara de Thamar Phares autem genuit Esrom Esrom autem genuit Aram"
+        },
+        {
+          "number": 4,
+          "text": "Aram autem genuit Aminadab Aminadab autem genuit Naasson Naasson autem genuit Salmon"
+        },
+        {
+          "number": 5,
+          "text": "Salmon autem genuit Booz de Rachab Booz autem genuit Obed ex Ruth Obed autem genuit Iesse Iesse autem genuit David regem"
+        },
+        {
+          "number": 6,
+          "text": "David autem rex genuit Salomonem ex ea quae fuit Uriae"
+        },
+        {
+          "number": 7,
+          "text": "Salomon autem genuit Roboam Roboam autem genuit Abiam Abia autem genuit Asa"
+        },
+        {
+          "number": 8,
+          "text": "Asa autem genuit Iosaphat Iosaphat autem genuit Ioram Ioram autem genuit Oziam"
+        },
+        {
+          "number": 9,
+          "text": "Ozias autem genuit Ioatham Ioatham autem genuit Achaz Achaz autem genuit Ezechiam"
+        },
+        {
+          "number": 10,
+          "text": "Ezechias autem genuit Manassen Manasses autem genuit Amon Amon autem genuit Iosiam"
+        },
+        {
+          "number": 11,
+          "text": "Iosias autem genuit Iechoniam et fratres eius in transmigratione Babylonis"
+        },
+        {
+          "number": 12,
+          "text": "et post transmigrationem Babylonis Iechonias genuit Salathihel Salathihel autem genuit Zorobabel"
+        },
+        {
+          "number": 13,
+          "text": "Zorobabel autem genuit Abiud Abiud autem genuit Eliachim Eliachim autem genuit Azor"
+        },
+        {
+          "number": 14,
+          "text": "Azor autem genuit Saddoc Saddoc autem genuit Achim Achim autem genuit Eliud"
+        },
+        {
+          "number": 15,
+          "text": "Eliud autem genuit Eleazar Eleazar autem genuit Matthan Matthan autem genuit Iacob"
+        },
+        {
+          "number": 16,
+          "text": "Iacob autem genuit Ioseph virum Mariae de qua natus est Iesus qui vocatur Christus"
+        },
+        {
+          "number": 17,
+          "text": "omnes ergo generationes ab Abraham usque ad David generationes quattuordecim et a David usque ad transmigrationem Babylonis generationes quattuordecim et a transmigratione Babylonis usque ad Christum generationes quattuordecim"
+        },
+        {
+          "number": 18,
+          "text": "Christi autem generatio sic erat cum esset desponsata mater eius Maria Ioseph antequam convenirent inventa est in utero habens de Spiritu Sancto"
+        },
+        {
+          "number": 19,
+          "text": "Ioseph autem vir eius cum esset iustus et nollet eam traducere voluit occulte dimittere eam"
+        },
+        {
+          "number": 20,
+          "text": "haec autem eo cogitante ecce angelus Domini in somnis apparuit ei dicens Ioseph fili David noli timere accipere Mariam coniugem tuam quod enim in ea natum est de Spiritu Sancto est"
+        },
+        {
+          "number": 21,
+          "text": "pariet autem filium et vocabis nomen eius Iesum ipse enim salvum faciet populum suum a peccatis eorum"
+        },
+        {
+          "number": 22,
+          "text": "hoc autem totum factum est ut adimpleretur id quod dictum est a Domino per prophetam dicentem"
+        },
+        {
+          "number": 23,
+          "text": "ecce virgo in utero habebit et pariet filium et vocabunt nomen eius Emmanuhel quod est interpretatum Nobiscum Deus"
+        },
+        {
+          "number": 24,
+          "text": "exsurgens autem Ioseph a somno fecit sicut praecepit ei angelus Domini et accepit coniugem suam"
+        },
+        {
+          "number": 25,
+          "text": "et non cognoscebat eam donec peperit filium suum primogenitum et vocavit nomen eius Iesum"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "cum ergo natus esset Iesus in Bethleem Iudaeae in diebus Herodis regis ecce magi ab oriente venerunt Hierosolymam"
+        },
+        {
+          "number": 2,
+          "text": "dicentes ubi est qui natus est rex Iudaeorum vidimus enim stellam eius in oriente et venimus adorare eum"
+        },
+        {
+          "number": 3,
+          "text": "audiens autem Herodes rex turbatus est et omnis Hierosolyma cum illo"
+        },
+        {
+          "number": 4,
+          "text": "et congregans omnes principes sacerdotum et scribas populi sciscitabatur ab eis ubi Christus nasceretur"
+        },
+        {
+          "number": 5,
+          "text": "at illi dixerunt ei in Bethleem Iudaeae sic enim scriptum est per prophetam"
+        },
+        {
+          "number": 6,
+          "text": "et tu Bethleem terra Iuda nequaquam minima es in principibus Iuda ex te enim exiet dux qui reget populum meum Israhel"
+        },
+        {
+          "number": 7,
+          "text": "tunc Herodes clam vocatis magis diligenter didicit ab eis tempus stellae quae apparuit eis"
+        },
+        {
+          "number": 8,
+          "text": "et mittens illos in Bethleem dixit ite et interrogate diligenter de puero et cum inveneritis renuntiate mihi ut et ego veniens adorem eum"
+        },
+        {
+          "number": 9,
+          "text": "qui cum audissent regem abierunt et ecce stella quam viderant in oriente antecedebat eos usque dum veniens staret supra ubi erat puer"
+        },
+        {
+          "number": 10,
+          "text": "videntes autem stellam gavisi sunt gaudio magno valde"
+        },
+        {
+          "number": 11,
+          "text": "et intrantes domum invenerunt puerum cum Maria matre eius et procidentes adoraverunt eum et apertis thesauris suis obtulerunt ei munera aurum tus et murram"
+        },
+        {
+          "number": 12,
+          "text": "et responso accepto in somnis ne redirent ad Herodem per aliam viam reversi sunt in regionem suam"
+        },
+        {
+          "number": 13,
+          "text": "qui cum recessissent ecce angelus Domini apparuit in somnis Ioseph dicens surge et accipe puerum et matrem eius et fuge in Aegyptum et esto ibi usque dum dicam tibi futurum est enim ut Herodes quaerat puerum ad perdendum eum"
+        },
+        {
+          "number": 14,
+          "text": "qui consurgens accepit puerum et matrem eius nocte et recessit in Aegyptum"
+        },
+        {
+          "number": 15,
+          "text": "et erat ibi usque ad obitum Herodis ut adimpleretur quod dictum est a Domino per prophetam dicentem ex Aegypto vocavi filium meum"
+        },
+        {
+          "number": 16,
+          "text": "tunc Herodes videns quoniam inlusus esset a magis iratus est valde et mittens occidit omnes pueros qui erant in Bethleem et in omnibus finibus eius a bimatu et infra secundum tempus quod exquisierat a magis"
+        },
+        {
+          "number": 17,
+          "text": "tunc adimpletum est quod dictum est per Hieremiam prophetam dicentem"
+        },
+        {
+          "number": 18,
+          "text": "vox in Rama audita est ploratus et ululatus multus Rachel plorans filios suos et noluit consolari quia non sunt"
+        },
+        {
+          "number": 19,
+          "text": "defuncto autem Herode ecce apparuit angelus Domini in somnis Ioseph in Aegypto"
+        },
+        {
+          "number": 20,
+          "text": "dicens surge et accipe puerum et matrem eius et vade in terram Israhel defuncti sunt enim qui quaerebant animam pueri"
+        },
+        {
+          "number": 21,
+          "text": "qui surgens accepit puerum et matrem eius et venit in terram Israhel"
+        },
+        {
+          "number": 22,
+          "text": "audiens autem quod Archelaus regnaret in Iudaea pro Herode patre suo timuit illo ire et admonitus in somnis secessit in partes Galilaeae"
+        },
+        {
+          "number": 23,
+          "text": "et veniens habitavit in civitate quae vocatur Nazareth ut adimpleretur quod dictum est per prophetas quoniam Nazareus vocabitur"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in diebus autem illis venit Iohannes Baptista praedicans in deserto Iudaeae"
+        },
+        {
+          "number": 2,
+          "text": "et dicens paenitentiam agite adpropinquavit enim regnum caelorum"
+        },
+        {
+          "number": 3,
+          "text": "hic est enim qui dictus est per Esaiam prophetam dicentem vox clamantis in deserto parate viam Domini rectas facite semitas eius"
+        },
+        {
+          "number": 4,
+          "text": "ipse autem Iohannes habebat vestimentum de pilis camelorum et zonam pelliciam circa lumbos suos esca autem eius erat lucustae et mel silvestre"
+        },
+        {
+          "number": 5,
+          "text": "tunc exiebat ad eum Hierosolyma et omnis Iudaea et omnis regio circa Iordanen"
+        },
+        {
+          "number": 6,
+          "text": "et baptizabantur in Iordane ab eo confitentes peccata sua"
+        },
+        {
+          "number": 7,
+          "text": "videns autem multos Pharisaeorum et Sadducaeorum venientes ad baptismum suum dixit eis progenies viperarum quis demonstravit vobis fugere a futura ira"
+        },
+        {
+          "number": 8,
+          "text": "facite ergo fructum dignum paenitentiae"
+        },
+        {
+          "number": 9,
+          "text": "et ne velitis dicere intra vos patrem habemus Abraham dico enim vobis quoniam potest Deus de lapidibus istis suscitare filios Abrahae"
+        },
+        {
+          "number": 10,
+          "text": "iam enim securis ad radicem arborum posita est omnis ergo arbor quae non facit fructum bonum exciditur et in ignem mittitur"
+        },
+        {
+          "number": 11,
+          "text": "ego quidem vos baptizo in aqua in paenitentiam qui autem post me venturus est fortior me est cuius non sum dignus calciamenta portare ipse vos baptizabit in Spiritu Sancto et igni"
+        },
+        {
+          "number": 12,
+          "text": "cuius ventilabrum in manu sua et permundabit aream suam et congregabit triticum suum in horreum paleas autem conburet igni inextinguibili"
+        },
+        {
+          "number": 13,
+          "text": "tunc venit Iesus a Galilaea in Iordanen ad Iohannem ut baptizaretur ab eo"
+        },
+        {
+          "number": 14,
+          "text": "Iohannes autem prohibebat eum dicens ego a te debeo baptizari et tu venis ad me"
+        },
+        {
+          "number": 15,
+          "text": "respondens autem Iesus dixit ei sine modo sic enim decet nos implere omnem iustitiam tunc dimisit eum"
+        },
+        {
+          "number": 16,
+          "text": "baptizatus autem confestim ascendit de aqua et ecce aperti sunt ei caeli et vidit Spiritum Dei descendentem sicut columbam venientem super se"
+        },
+        {
+          "number": 17,
+          "text": "et ecce vox de caelis dicens hic est Filius meus dilectus in quo mihi conplacui"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "tunc Iesus ductus est in desertum ab Spiritu ut temptaretur a diabolo"
+        },
+        {
+          "number": 2,
+          "text": "et cum ieiunasset quadraginta diebus et quadraginta noctibus postea esuriit"
+        },
+        {
+          "number": 3,
+          "text": "et accedens temptator dixit ei si Filius Dei es dic ut lapides isti panes fiant"
+        },
+        {
+          "number": 4,
+          "text": "qui respondens dixit scriptum est non in pane solo vivet homo sed in omni verbo quod procedit de ore Dei"
+        },
+        {
+          "number": 5,
+          "text": "tunc adsumit eum diabolus in sanctam civitatem et statuit eum supra pinnaculum templi"
+        },
+        {
+          "number": 6,
+          "text": "et dixit ei si Filius Dei es mitte te deorsum scriptum est enim quia angelis suis mandabit de te et in manibus tollent te ne forte offendas ad lapidem pedem tuum"
+        },
+        {
+          "number": 7,
+          "text": "ait illi Iesus rursum scriptum est non temptabis Dominum Deum tuum"
+        },
+        {
+          "number": 8,
+          "text": "iterum adsumit eum diabolus in montem excelsum valde et ostendit ei omnia regna mundi et gloriam eorum"
+        },
+        {
+          "number": 9,
+          "text": "et dixit illi haec tibi omnia dabo si cadens adoraveris me"
+        },
+        {
+          "number": 10,
+          "text": "tunc dicit ei Iesus vade Satanas scriptum est Dominum Deum tuum adorabis et illi soli servies"
+        },
+        {
+          "number": 11,
+          "text": "tunc reliquit eum diabolus et ecce angeli accesserunt et ministrabant ei"
+        },
+        {
+          "number": 12,
+          "text": "cum autem audisset quod Iohannes traditus esset secessit in Galilaeam"
+        },
+        {
+          "number": 13,
+          "text": "et relicta civitate Nazareth venit et habitavit in Capharnaum maritimam in finibus Zabulon et Nepthalim"
+        },
+        {
+          "number": 14,
+          "text": "ut adimpleretur quod dictum est per Esaiam prophetam"
+        },
+        {
+          "number": 15,
+          "text": "terra Zabulon et terra Nepthalim via maris trans Iordanen Galilaeae gentium"
+        },
+        {
+          "number": 16,
+          "text": "populus qui sedebat in tenebris lucem vidit magnam et sedentibus in regione et umbra mortis lux orta est eis"
+        },
+        {
+          "number": 17,
+          "text": "exinde coepit Iesus praedicare et dicere paenitentiam agite adpropinquavit enim regnum caelorum"
+        },
+        {
+          "number": 18,
+          "text": "ambulans autem iuxta mare Galilaeae vidit duos fratres Simonem qui vocatur Petrus et Andream fratrem eius mittentes rete in mare erant enim piscatores"
+        },
+        {
+          "number": 19,
+          "text": "et ait illis venite post me et faciam vos fieri piscatores hominum"
+        },
+        {
+          "number": 20,
+          "text": "at illi continuo relictis retibus secuti sunt eum"
+        },
+        {
+          "number": 21,
+          "text": "et procedens inde vidit alios duos fratres Iacobum Zebedaei et Iohannem fratrem eius in navi cum Zebedaeo patre eorum reficientes retia sua et vocavit eos"
+        },
+        {
+          "number": 22,
+          "text": "illi autem statim relictis retibus et patre secuti sunt eum"
+        },
+        {
+          "number": 23,
+          "text": "et circumibat Iesus totam Galilaeam docens in synagogis eorum et praedicans evangelium regni et sanans omnem languorem et omnem infirmitatem in populo"
+        },
+        {
+          "number": 24,
+          "text": "et abiit opinio eius in totam Syriam et obtulerunt ei omnes male habentes variis languoribus et tormentis conprehensos et qui daemonia habebant et lunaticos et paralyticos et curavit eos"
+        },
+        {
+          "number": 25,
+          "text": "et secutae sunt eum turbae multae de Galilaea et Decapoli et Hierosolymis et Iudaea et de trans Iordanen"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "videns autem turbas ascendit in montem et cum sedisset accesserunt ad eum discipuli eius"
+        },
+        {
+          "number": 2,
+          "text": "et aperiens os suum docebat eos dicens"
+        },
+        {
+          "number": 3,
+          "text": "beati pauperes spiritu quoniam ipsorum est regnum caelorum"
+        },
+        {
+          "number": 4,
+          "text": "beati mites quoniam ipsi possidebunt terram"
+        },
+        {
+          "number": 5,
+          "text": "beati qui lugent quoniam ipsi consolabuntur"
+        },
+        {
+          "number": 6,
+          "text": "beati qui esuriunt et sitiunt iustitiam quoniam ipsi saturabuntur"
+        },
+        {
+          "number": 7,
+          "text": "beati misericordes quia ipsi misericordiam consequentur"
+        },
+        {
+          "number": 8,
+          "text": "beati mundo corde quoniam ipsi Deum videbunt"
+        },
+        {
+          "number": 9,
+          "text": "beati pacifici quoniam filii Dei vocabuntur"
+        },
+        {
+          "number": 10,
+          "text": "beati qui persecutionem patiuntur propter iustitiam quoniam ipsorum est regnum caelorum"
+        },
+        {
+          "number": 11,
+          "text": "beati estis cum maledixerint vobis et persecuti vos fuerint et dixerint omne malum adversum vos mentientes propter me"
+        },
+        {
+          "number": 12,
+          "text": "gaudete et exultate quoniam merces vestra copiosa est in caelis sic enim persecuti sunt prophetas qui fuerunt ante vos"
+        },
+        {
+          "number": 13,
+          "text": "vos estis sal terrae quod si sal evanuerit in quo sallietur ad nihilum valet ultra nisi ut mittatur foras et conculcetur ab hominibus"
+        },
+        {
+          "number": 14,
+          "text": "vos estis lux mundi non potest civitas abscondi supra montem posita"
+        },
+        {
+          "number": 15,
+          "text": "neque accendunt lucernam et ponunt eam sub modio sed super candelabrum ut luceat omnibus qui in domo sunt"
+        },
+        {
+          "number": 16,
+          "text": "sic luceat lux vestra coram hominibus ut videant vestra bona opera et glorificent Patrem vestrum qui in caelis est"
+        },
+        {
+          "number": 17,
+          "text": "nolite putare quoniam veni solvere legem aut prophetas non veni solvere sed adimplere"
+        },
+        {
+          "number": 18,
+          "text": "amen quippe dico vobis donec transeat caelum et terra iota unum aut unus apex non praeteribit a lege donec omnia fiant"
+        },
+        {
+          "number": 19,
+          "text": "qui ergo solverit unum de mandatis istis minimis et docuerit sic homines minimus vocabitur in regno caelorum qui autem fecerit et docuerit hic magnus vocabitur in regno caelorum"
+        },
+        {
+          "number": 20,
+          "text": "dico enim vobis quia nisi abundaverit iustitia vestra plus quam scribarum et Pharisaeorum non intrabitis in regnum caelorum"
+        },
+        {
+          "number": 21,
+          "text": "audistis quia dictum est antiquis non occides qui autem occiderit reus erit iudicio"
+        },
+        {
+          "number": 22,
+          "text": "ego autem dico vobis quia omnis qui irascitur fratri suo reus erit iudicio qui autem dixerit fratri suo racha reus erit concilio qui autem dixerit fatue reus erit gehennae ignis"
+        },
+        {
+          "number": 23,
+          "text": "si ergo offeres munus tuum ad altare et ibi recordatus fueris quia frater tuus habet aliquid adversum te"
+        },
+        {
+          "number": 24,
+          "text": "relinque ibi munus tuum ante altare et vade prius reconciliare fratri tuo et tunc veniens offers munus tuum"
+        },
+        {
+          "number": 25,
+          "text": "esto consentiens adversario tuo cito dum es in via cum eo ne forte tradat te adversarius iudici et iudex tradat te ministro et in carcerem mittaris"
+        },
+        {
+          "number": 26,
+          "text": "amen dico tibi non exies inde donec reddas novissimum quadrantem"
+        },
+        {
+          "number": 27,
+          "text": "audistis quia dictum est antiquis non moechaberis"
+        },
+        {
+          "number": 28,
+          "text": "ego autem dico vobis quoniam omnis qui viderit mulierem ad concupiscendum eam iam moechatus est eam in corde suo"
+        },
+        {
+          "number": 29,
+          "text": "quod si oculus tuus dexter scandalizat te erue eum et proice abs te expedit enim tibi ut pereat unum membrorum tuorum quam totum corpus tuum mittatur in gehennam"
+        },
+        {
+          "number": 30,
+          "text": "et si dextera manus tua scandalizat te abscide eam et proice abs te expedit tibi ut pereat unum membrorum tuorum quam totum corpus tuum eat in gehennam"
+        },
+        {
+          "number": 31,
+          "text": "dictum est autem quicumque dimiserit uxorem suam det illi libellum repudii"
+        },
+        {
+          "number": 32,
+          "text": "ego autem dico vobis quia omnis qui dimiserit uxorem suam excepta fornicationis causa facit eam moechari et qui dimissam duxerit adulterat"
+        },
+        {
+          "number": 33,
+          "text": "iterum audistis quia dictum est antiquis non peierabis reddes autem Domino iuramenta tua"
+        },
+        {
+          "number": 34,
+          "text": "ego autem dico vobis non iurare omnino neque per caelum quia thronus Dei est"
+        },
+        {
+          "number": 35,
+          "text": "neque per terram quia scabillum est pedum eius neque per Hierosolymam quia civitas est magni Regis"
+        },
+        {
+          "number": 36,
+          "text": "neque per caput tuum iuraveris quia non potes unum capillum album facere aut nigrum"
+        },
+        {
+          "number": 37,
+          "text": "sit autem sermo vester est est non non quod autem his abundantius est a malo est"
+        },
+        {
+          "number": 38,
+          "text": "audistis quia dictum est oculum pro oculo et dentem pro dente"
+        },
+        {
+          "number": 39,
+          "text": "ego autem dico vobis non resistere malo sed si quis te percusserit in dextera maxilla tua praebe illi et alteram"
+        },
+        {
+          "number": 40,
+          "text": "et ei qui vult tecum iudicio contendere et tunicam tuam tollere remitte ei et pallium"
+        },
+        {
+          "number": 41,
+          "text": "et quicumque te angariaverit mille passus vade cum illo alia duo"
+        },
+        {
+          "number": 42,
+          "text": "qui petit a te da ei et volenti mutuari a te ne avertaris"
+        },
+        {
+          "number": 43,
+          "text": "audistis quia dictum est diliges proximum tuum et odio habebis inimicum tuum"
+        },
+        {
+          "number": 44,
+          "text": "ego autem dico vobis diligite inimicos vestros benefacite his qui oderunt vos et orate pro persequentibus et calumniantibus vos"
+        },
+        {
+          "number": 45,
+          "text": "ut sitis filii Patris vestri qui in caelis est qui solem suum oriri facit super bonos et malos et pluit super iustos et iniustos"
+        },
+        {
+          "number": 46,
+          "text": "si enim diligatis eos qui vos diligunt quam mercedem habebitis nonne et publicani hoc faciunt"
+        },
+        {
+          "number": 47,
+          "text": "et si salutaveritis fratres vestros tantum quid amplius facitis nonne et ethnici hoc faciunt"
+        },
+        {
+          "number": 48,
+          "text": "estote ergo vos perfecti sicut et Pater vester caelestis perfectus est"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "adtendite ne iustitiam vestram faciatis coram hominibus ut videamini ab eis alioquin mercedem non habebitis apud Patrem vestrum qui in caelis est"
+        },
+        {
+          "number": 2,
+          "text": "cum ergo facies elemosynam noli tuba canere ante te sicut hypocritae faciunt in synagogis et in vicis ut honorificentur ab hominibus amen dico vobis receperunt mercedem suam"
+        },
+        {
+          "number": 3,
+          "text": "te autem faciente elemosynam nesciat sinistra tua quid faciat dextera tua"
+        },
+        {
+          "number": 4,
+          "text": "ut sit elemosyna tua in abscondito et Pater tuus qui videt in abscondito reddet tibi"
+        },
+        {
+          "number": 5,
+          "text": "et cum oratis non eritis sicut hypocritae qui amant in synagogis et in angulis platearum stantes orare ut videantur ab hominibus amen dico vobis receperunt mercedem suam"
+        },
+        {
+          "number": 6,
+          "text": "tu autem cum orabis intra in cubiculum tuum et cluso ostio tuo ora Patrem tuum in abscondito et Pater tuus qui videt in abscondito reddet tibi"
+        },
+        {
+          "number": 7,
+          "text": "orantes autem nolite multum loqui sicut ethnici putant enim quia in multiloquio suo exaudiantur"
+        },
+        {
+          "number": 8,
+          "text": "nolite ergo adsimilari eis scit enim Pater vester quibus opus sit vobis antequam petatis eum"
+        },
+        {
+          "number": 9,
+          "text": "sic ergo vos orabitis Pater noster qui in caelis es sanctificetur nomen tuum"
+        },
+        {
+          "number": 10,
+          "text": "veniat regnum tuum fiat voluntas tua sicut in caelo et in terra"
+        },
+        {
+          "number": 11,
+          "text": "panem nostrum supersubstantialem da nobis hodie"
+        },
+        {
+          "number": 12,
+          "text": "et dimitte nobis debita nostra sicut et nos dimisimus debitoribus nostris"
+        },
+        {
+          "number": 13,
+          "text": "et ne inducas nos in temptationem sed libera nos a malo"
+        },
+        {
+          "number": 14,
+          "text": "si enim dimiseritis hominibus peccata eorum dimittet et vobis Pater vester caelestis delicta vestra"
+        },
+        {
+          "number": 15,
+          "text": "si autem non dimiseritis hominibus nec Pater vester dimittet peccata vestra"
+        },
+        {
+          "number": 16,
+          "text": "cum autem ieiunatis nolite fieri sicut hypocritae tristes demoliuntur enim facies suas ut pareant hominibus ieiunantes amen dico vobis quia receperunt mercedem suam"
+        },
+        {
+          "number": 17,
+          "text": "tu autem cum ieiunas ungue caput tuum et faciem tuam lava"
+        },
+        {
+          "number": 18,
+          "text": "ne videaris hominibus ieiunans sed Patri tuo qui est in abscondito et Pater tuus qui videt in abscondito reddet tibi"
+        },
+        {
+          "number": 19,
+          "text": "nolite thesaurizare vobis thesauros in terra ubi erugo et tinea demolitur ubi fures effodiunt et furantur"
+        },
+        {
+          "number": 20,
+          "text": "thesaurizate autem vobis thesauros in caelo ubi neque erugo neque tinea demolitur et ubi fures non effodiunt nec furantur"
+        },
+        {
+          "number": 21,
+          "text": "ubi enim est thesaurus tuus ibi est et cor tuum"
+        },
+        {
+          "number": 22,
+          "text": "lucerna corporis est oculus si fuerit oculus tuus simplex totum corpus tuum lucidum erit"
+        },
+        {
+          "number": 23,
+          "text": "si autem oculus tuus nequam fuerit totum corpus tuum tenebrosum erit si ergo lumen quod in te est tenebrae sunt tenebrae quantae erunt"
+        },
+        {
+          "number": 24,
+          "text": "nemo potest duobus dominis servire aut enim unum odio habebit et alterum diliget aut unum sustinebit et alterum contemnet non potestis Deo servire et mamonae"
+        },
+        {
+          "number": 25,
+          "text": "ideo dico vobis ne solliciti sitis animae vestrae quid manducetis neque corpori vestro quid induamini nonne anima plus est quam esca et corpus plus est quam vestimentum"
+        },
+        {
+          "number": 26,
+          "text": "respicite volatilia caeli quoniam non serunt neque metunt neque congregant in horrea et Pater vester caelestis pascit illa nonne vos magis pluris estis illis"
+        },
+        {
+          "number": 27,
+          "text": "quis autem vestrum cogitans potest adicere ad staturam suam cubitum unum"
+        },
+        {
+          "number": 28,
+          "text": "et de vestimento quid solliciti estis considerate lilia agri quomodo crescunt non laborant nec nent"
+        },
+        {
+          "number": 29,
+          "text": "dico autem vobis quoniam nec Salomon in omni gloria sua coopertus est sicut unum ex istis"
+        },
+        {
+          "number": 30,
+          "text": "si autem faenum agri quod hodie est et cras in clibanum mittitur Deus sic vestit quanto magis vos minimae fidei"
+        },
+        {
+          "number": 31,
+          "text": "nolite ergo solliciti esse dicentes quid manducabimus aut quid bibemus aut quo operiemur"
+        },
+        {
+          "number": 32,
+          "text": "haec enim omnia gentes inquirunt scit enim Pater vester quia his omnibus indigetis"
+        },
+        {
+          "number": 33,
+          "text": "quaerite autem primum regnum et iustitiam eius et omnia haec adicientur vobis"
+        },
+        {
+          "number": 34,
+          "text": "nolite ergo esse solliciti in crastinum crastinus enim dies sollicitus erit sibi ipse sufficit diei malitia sua"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "nolite iudicare ut non iudicemini"
+        },
+        {
+          "number": 2,
+          "text": "in quo enim iudicio iudicaveritis iudicabimini et in qua mensura mensi fueritis metietur vobis"
+        },
+        {
+          "number": 3,
+          "text": "quid autem vides festucam in oculo fratris tui et trabem in oculo tuo non vides"
+        },
+        {
+          "number": 4,
+          "text": "aut quomodo dicis fratri tuo sine eiciam festucam de oculo tuo et ecce trabis est in oculo tuo"
+        },
+        {
+          "number": 5,
+          "text": "hypocrita eice primum trabem de oculo tuo et tunc videbis eicere festucam de oculo fratris tui"
+        },
+        {
+          "number": 6,
+          "text": "nolite dare sanctum canibus neque mittatis margaritas vestras ante porcos ne forte conculcent eas pedibus suis et conversi disrumpant vos"
+        },
+        {
+          "number": 7,
+          "text": "petite et dabitur vobis quaerite et invenietis pulsate et aperietur vobis"
+        },
+        {
+          "number": 8,
+          "text": "omnis enim qui petit accipit et qui quaerit invenit et pulsanti aperietur"
+        },
+        {
+          "number": 9,
+          "text": "aut quis est ex vobis homo quem si petierit filius suus panem numquid lapidem porriget ei"
+        },
+        {
+          "number": 10,
+          "text": "aut si piscem petet numquid serpentem porriget ei"
+        },
+        {
+          "number": 11,
+          "text": "si ergo vos cum sitis mali nostis bona dare filiis vestris quanto magis Pater vester qui in caelis est dabit bona petentibus se"
+        },
+        {
+          "number": 12,
+          "text": "omnia ergo quaecumque vultis ut faciant vobis homines et vos facite eis haec est enim lex et prophetae"
+        },
+        {
+          "number": 13,
+          "text": "intrate per angustam portam quia lata porta et spatiosa via quae ducit ad perditionem et multi sunt qui intrant per eam"
+        },
+        {
+          "number": 14,
+          "text": "quam angusta porta et arta via quae ducit ad vitam et pauci sunt qui inveniunt eam"
+        },
+        {
+          "number": 15,
+          "text": "adtendite a falsis prophetis qui veniunt ad vos in vestimentis ovium intrinsecus autem sunt lupi rapaces"
+        },
+        {
+          "number": 16,
+          "text": "a fructibus eorum cognoscetis eos numquid colligunt de spinis uvas aut de tribulis ficus"
+        },
+        {
+          "number": 17,
+          "text": "sic omnis arbor bona fructus bonos facit mala autem arbor fructus malos facit"
+        },
+        {
+          "number": 18,
+          "text": "non potest arbor bona fructus malos facere neque arbor mala fructus bonos facere"
+        },
+        {
+          "number": 19,
+          "text": "omnis arbor quae non facit fructum bonum exciditur et in ignem mittitur"
+        },
+        {
+          "number": 20,
+          "text": "igitur ex fructibus eorum cognoscetis eos"
+        },
+        {
+          "number": 21,
+          "text": "non omnis qui dicit mihi Domine Domine intrabit in regnum caelorum sed qui facit voluntatem Patris mei qui in caelis est ipse intrabit in regnum caelorum"
+        },
+        {
+          "number": 22,
+          "text": "multi dicent mihi in illa die Domine Domine nonne in nomine tuo prophetavimus et in tuo nomine daemonia eiecimus et in tuo nomine virtutes multas fecimus"
+        },
+        {
+          "number": 23,
+          "text": "et tunc confitebor illis quia numquam novi vos discedite a me qui operamini iniquitatem"
+        },
+        {
+          "number": 24,
+          "text": "omnis ergo qui audit verba mea haec et facit ea adsimilabitur viro sapienti qui aedificavit domum suam supra petram"
+        },
+        {
+          "number": 25,
+          "text": "et descendit pluvia et venerunt flumina et flaverunt venti et inruerunt in domum illam et non cecidit fundata enim erat super petram"
+        },
+        {
+          "number": 26,
+          "text": "et omnis qui audit verba mea haec et non facit ea similis erit viro stulto qui aedificavit domum suam supra harenam"
+        },
+        {
+          "number": 27,
+          "text": "et descendit pluvia et venerunt flumina et flaverunt venti et inruerunt in domum illam et cecidit et fuit ruina eius magna"
+        },
+        {
+          "number": 28,
+          "text": "et factum est cum consummasset Iesus verba haec admirabantur turbae super doctrinam eius"
+        },
+        {
+          "number": 29,
+          "text": "erat enim docens eos sicut potestatem habens non sicut scribae eorum et Pharisaei"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "cum autem descendisset de monte secutae sunt eum turbae multae"
+        },
+        {
+          "number": 2,
+          "text": "et ecce leprosus veniens adorabat eum dicens Domine si vis potes me mundare"
+        },
+        {
+          "number": 3,
+          "text": "et extendens manum tetigit eum Iesus dicens volo mundare et confestim mundata est lepra eius"
+        },
+        {
+          "number": 4,
+          "text": "et ait illi Iesus vide nemini dixeris sed vade ostende te sacerdoti et offer munus quod praecepit Moses in testimonium illis"
+        },
+        {
+          "number": 5,
+          "text": "cum autem introisset Capharnaum accessit ad eum centurio rogans eum"
+        },
+        {
+          "number": 6,
+          "text": "et dicens Domine puer meus iacet in domo paralyticus et male torquetur"
+        },
+        {
+          "number": 7,
+          "text": "et ait illi Iesus ego veniam et curabo eum"
+        },
+        {
+          "number": 8,
+          "text": "et respondens centurio ait Domine non sum dignus ut intres sub tectum meum sed tantum dic verbo et sanabitur puer meus"
+        },
+        {
+          "number": 9,
+          "text": "nam et ego homo sum sub potestate habens sub me milites et dico huic vade et vadit et alio veni et venit et servo meo fac hoc et facit"
+        },
+        {
+          "number": 10,
+          "text": "audiens autem Iesus miratus est et sequentibus se dixit amen dico vobis non inveni tantam fidem in Israhel"
+        },
+        {
+          "number": 11,
+          "text": "dico autem vobis quod multi ab oriente et occidente venient et recumbent cum Abraham et Isaac et Iacob in regno caelorum"
+        },
+        {
+          "number": 12,
+          "text": "filii autem regni eicientur in tenebras exteriores ibi erit fletus et stridor dentium"
+        },
+        {
+          "number": 13,
+          "text": "et dixit Iesus centurioni vade et sicut credidisti fiat tibi et sanatus est puer in hora illa"
+        },
+        {
+          "number": 14,
+          "text": "et cum venisset Iesus in domum Petri vidit socrum eius iacentem et febricitantem"
+        },
+        {
+          "number": 15,
+          "text": "et tetigit manum eius et dimisit eam febris et surrexit et ministrabat eis"
+        },
+        {
+          "number": 16,
+          "text": "vespere autem facto obtulerunt ei multos daemonia habentes et eiciebat spiritus verbo et omnes male habentes curavit"
+        },
+        {
+          "number": 17,
+          "text": "ut adimpleretur quod dictum est per Esaiam prophetam dicentem ipse infirmitates nostras accepit et aegrotationes portavit"
+        },
+        {
+          "number": 18,
+          "text": "videns autem Iesus turbas multas circum se iussit ire trans fretum"
+        },
+        {
+          "number": 19,
+          "text": "et accedens unus scriba ait illi magister sequar te quocumque ieris"
+        },
+        {
+          "number": 20,
+          "text": "et dicit ei Iesus vulpes foveas habent et volucres caeli tabernacula Filius autem hominis non habet ubi caput reclinet"
+        },
+        {
+          "number": 21,
+          "text": "alius autem de discipulis eius ait illi Domine permitte me primum ire et sepelire patrem meum"
+        },
+        {
+          "number": 22,
+          "text": "Iesus autem ait illi sequere me et dimitte mortuos sepelire mortuos suos"
+        },
+        {
+          "number": 23,
+          "text": "et ascendente eo in navicula secuti sunt eum discipuli eius"
+        },
+        {
+          "number": 24,
+          "text": "et ecce motus magnus factus est in mari ita ut navicula operiretur fluctibus ipse vero dormiebat"
+        },
+        {
+          "number": 25,
+          "text": "et accesserunt et suscitaverunt eum dicentes Domine salva nos perimus"
+        },
+        {
+          "number": 26,
+          "text": "et dicit eis quid timidi estis modicae fidei tunc surgens imperavit ventis et mari et facta est tranquillitas magna"
+        },
+        {
+          "number": 27,
+          "text": "porro homines mirati sunt dicentes qualis est hic quia et venti et mare oboediunt ei"
+        },
+        {
+          "number": 28,
+          "text": "et cum venisset trans fretum in regionem Gerasenorum occurrerunt ei duo habentes daemonia de monumentis exeuntes saevi nimis ita ut nemo posset transire per viam illam"
+        },
+        {
+          "number": 29,
+          "text": "et ecce clamaverunt dicentes quid nobis et tibi Fili Dei venisti huc ante tempus torquere nos"
+        },
+        {
+          "number": 30,
+          "text": "erat autem non longe ab illis grex porcorum multorum pascens"
+        },
+        {
+          "number": 31,
+          "text": "daemones autem rogabant eum dicentes si eicis nos mitte nos in gregem porcorum"
+        },
+        {
+          "number": 32,
+          "text": "et ait illis ite at illi exeuntes abierunt in porcos et ecce impetu abiit totus grex per praeceps in mare et mortui sunt in aquis"
+        },
+        {
+          "number": 33,
+          "text": "pastores autem fugerunt et venientes in civitatem nuntiaverunt omnia et de his qui daemonia habuerant"
+        },
+        {
+          "number": 34,
+          "text": "et ecce tota civitas exiit obviam Iesu et viso eo rogabant ut transiret a finibus eorum"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et ascendens in naviculam transfretavit et venit in civitatem suam"
+        },
+        {
+          "number": 2,
+          "text": "et ecce offerebant ei paralyticum iacentem in lecto et videns Iesus fidem illorum dixit paralytico confide fili remittuntur tibi peccata tua"
+        },
+        {
+          "number": 3,
+          "text": "et ecce quidam de scribis dixerunt intra se hic blasphemat"
+        },
+        {
+          "number": 4,
+          "text": "et cum vidisset Iesus cogitationes eorum dixit ut quid cogitatis mala in cordibus vestris"
+        },
+        {
+          "number": 5,
+          "text": "quid est facilius dicere dimittuntur tibi peccata aut dicere surge et ambula"
+        },
+        {
+          "number": 6,
+          "text": "ut sciatis autem quoniam Filius hominis habet potestatem in terra dimittendi peccata tunc ait paralytico surge tolle lectum tuum et vade in domum tuam"
+        },
+        {
+          "number": 7,
+          "text": "et surrexit et abiit in domum suam"
+        },
+        {
+          "number": 8,
+          "text": "videntes autem turbae timuerunt et glorificaverunt Deum qui dedit potestatem talem hominibus"
+        },
+        {
+          "number": 9,
+          "text": "et cum transiret inde Iesus vidit hominem sedentem in teloneo Mattheum nomine et ait illi sequere me et surgens secutus est eum"
+        },
+        {
+          "number": 10,
+          "text": "et factum est discumbente eo in domo ecce multi publicani et peccatores venientes discumbebant cum Iesu et discipulis eius"
+        },
+        {
+          "number": 11,
+          "text": "et videntes Pharisaei dicebant discipulis eius quare cum publicanis et peccatoribus manducat magister vester"
+        },
+        {
+          "number": 12,
+          "text": "at Iesus audiens ait non est opus valentibus medico sed male habentibus"
+        },
+        {
+          "number": 13,
+          "text": "euntes autem discite quid est misericordiam volo et non sacrificium non enim veni vocare iustos sed peccatores"
+        },
+        {
+          "number": 14,
+          "text": "tunc accesserunt ad eum discipuli Iohannis dicentes quare nos et Pharisaei ieiunamus frequenter discipuli autem tui non ieiunant"
+        },
+        {
+          "number": 15,
+          "text": "et ait illis Iesus numquid possunt filii sponsi lugere quamdiu cum illis est sponsus venient autem dies cum auferetur ab eis sponsus et tunc ieiunabunt"
+        },
+        {
+          "number": 16,
+          "text": "nemo autem inmittit commissuram panni rudis in vestimentum vetus tollit enim plenitudinem eius a vestimento et peior scissura fit"
+        },
+        {
+          "number": 17,
+          "text": "neque mittunt vinum novum in utres veteres alioquin rumpuntur utres et vinum effunditur et utres pereunt sed vinum novum in utres novos mittunt et ambo conservantur"
+        },
+        {
+          "number": 18,
+          "text": "haec illo loquente ad eos ecce princeps unus accessit et adorabat eum dicens filia mea modo defuncta est sed veni inpone manum super eam et vivet"
+        },
+        {
+          "number": 19,
+          "text": "et surgens Iesus sequebatur eum et discipuli eius"
+        },
+        {
+          "number": 20,
+          "text": "et ecce mulier quae sanguinis fluxum patiebatur duodecim annis accessit retro et tetigit fimbriam vestimenti eius"
+        },
+        {
+          "number": 21,
+          "text": "dicebat enim intra se si tetigero tantum vestimentum eius salva ero"
+        },
+        {
+          "number": 22,
+          "text": "at Iesus conversus et videns eam dixit confide filia fides tua te salvam fecit et salva facta est mulier ex illa hora"
+        },
+        {
+          "number": 23,
+          "text": "et cum venisset Iesus in domum principis et vidisset tibicines et turbam tumultuantem"
+        },
+        {
+          "number": 24,
+          "text": "dicebat recedite non est enim mortua puella sed dormit et deridebant eum"
+        },
+        {
+          "number": 25,
+          "text": "et cum eiecta esset turba intravit et tenuit manum eius et surrexit puella"
+        },
+        {
+          "number": 26,
+          "text": "et exiit fama haec in universam terram illam"
+        },
+        {
+          "number": 27,
+          "text": "et transeunte inde Iesu secuti sunt eum duo caeci clamantes et dicentes miserere nostri Fili David"
+        },
+        {
+          "number": 28,
+          "text": "cum autem venisset domum accesserunt ad eum caeci et dicit eis Iesus creditis quia possum hoc facere vobis dicunt ei utique Domine"
+        },
+        {
+          "number": 29,
+          "text": "tunc tetigit oculos eorum dicens secundum fidem vestram fiat vobis"
+        },
+        {
+          "number": 30,
+          "text": "et aperti sunt oculi illorum et comminatus est illis Iesus dicens videte ne quis sciat"
+        },
+        {
+          "number": 31,
+          "text": "illi autem exeuntes diffamaverunt eum in tota terra illa"
+        },
+        {
+          "number": 32,
+          "text": "egressis autem illis ecce obtulerunt ei hominem mutum daemonium habentem"
+        },
+        {
+          "number": 33,
+          "text": "et eiecto daemone locutus est mutus et miratae sunt turbae dicentes numquam paruit sic in Israhel"
+        },
+        {
+          "number": 34,
+          "text": "Pharisaei autem dicebant in principe daemoniorum eicit daemones"
+        },
+        {
+          "number": 35,
+          "text": "et circumibat Iesus civitates omnes et castella docens in synagogis eorum et praedicans evangelium regni et curans omnem languorem et omnem infirmitatem"
+        },
+        {
+          "number": 36,
+          "text": "videns autem turbas misertus est eis quia erant vexati et iacentes sicut oves non habentes pastorem"
+        },
+        {
+          "number": 37,
+          "text": "tunc dicit discipulis suis messis quidem multa operarii autem pauci"
+        },
+        {
+          "number": 38,
+          "text": "rogate ergo dominum messis ut eiciat operarios in messem suam"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et convocatis duodecim discipulis suis dedit illis potestatem spirituum inmundorum ut eicerent eos et curarent omnem languorem et omnem infirmitatem"
+        },
+        {
+          "number": 2,
+          "text": "duodecim autem apostolorum nomina sunt haec primus Simon qui dicitur Petrus et Andreas frater eius"
+        },
+        {
+          "number": 3,
+          "text": "Iacobus Zebedaei et Iohannes frater eius Philippus et Bartholomeus Thomas et Mattheus publicanus et Iacobus Alphei et Thaddeus"
+        },
+        {
+          "number": 4,
+          "text": "Simon Cananeus et Iudas Scariotes qui et tradidit eum"
+        },
+        {
+          "number": 5,
+          "text": "hos duodecim misit Iesus praecipiens eis et dicens in viam gentium ne abieritis et in civitates Samaritanorum ne intraveritis"
+        },
+        {
+          "number": 6,
+          "text": "sed potius ite ad oves quae perierunt domus Israhel"
+        },
+        {
+          "number": 7,
+          "text": "euntes autem praedicate dicentes quia adpropinquavit regnum caelorum"
+        },
+        {
+          "number": 8,
+          "text": "infirmos curate mortuos suscitate leprosos mundate daemones eicite gratis accepistis gratis date"
+        },
+        {
+          "number": 9,
+          "text": "nolite possidere aurum neque argentum neque pecuniam in zonis vestris"
+        },
+        {
+          "number": 10,
+          "text": "non peram in via neque duas tunicas neque calciamenta neque virgam dignus enim est operarius cibo suo"
+        },
+        {
+          "number": 11,
+          "text": "in quamcumque civitatem aut castellum intraveritis interrogate quis in ea dignus sit et ibi manete donec exeatis"
+        },
+        {
+          "number": 12,
+          "text": "intrantes autem in domum salutate eam"
+        },
+        {
+          "number": 13,
+          "text": "et siquidem fuerit domus digna veniat pax vestra super eam si autem non fuerit digna pax vestra ad vos revertatur"
+        },
+        {
+          "number": 14,
+          "text": "et quicumque non receperit vos neque audierit sermones vestros exeuntes foras de domo vel de civitate excutite pulverem de pedibus vestris"
+        },
+        {
+          "number": 15,
+          "text": "amen dico vobis tolerabilius erit terrae Sodomorum et Gomorraeorum in die iudicii quam illi civitati"
+        },
+        {
+          "number": 16,
+          "text": "ecce ego mitto vos sicut oves in medio luporum estote ergo prudentes sicut serpentes et simplices sicut columbae"
+        },
+        {
+          "number": 17,
+          "text": "cavete autem ab hominibus tradent enim vos in conciliis et in synagogis suis flagellabunt vos"
+        },
+        {
+          "number": 18,
+          "text": "et ad praesides et ad reges ducemini propter me in testimonium illis et gentibus"
+        },
+        {
+          "number": 19,
+          "text": "cum autem tradent vos nolite cogitare quomodo aut quid loquamini dabitur enim vobis in illa hora quid loquamini"
+        },
+        {
+          "number": 20,
+          "text": "non enim vos estis qui loquimini sed Spiritus Patris vestri qui loquitur in vobis"
+        },
+        {
+          "number": 21,
+          "text": "tradet autem frater fratrem in mortem et pater filium et insurgent filii in parentes et morte eos adficient"
+        },
+        {
+          "number": 22,
+          "text": "et eritis odio omnibus propter nomen meum qui autem perseveraverit in finem hic salvus erit"
+        },
+        {
+          "number": 23,
+          "text": "cum autem persequentur vos in civitate ista fugite in aliam amen enim dico vobis non consummabitis civitates Israhel donec veniat Filius hominis"
+        },
+        {
+          "number": 24,
+          "text": "non est discipulus super magistrum nec servus super dominum suum"
+        },
+        {
+          "number": 25,
+          "text": "sufficit discipulo ut sit sicut magister eius et servus sicut dominus eius si patrem familias Beelzebub vocaverunt quanto magis domesticos eius"
+        },
+        {
+          "number": 26,
+          "text": "ne ergo timueritis eos nihil enim opertum quod non revelabitur et occultum quod non scietur"
+        },
+        {
+          "number": 27,
+          "text": "quod dico vobis in tenebris dicite in lumine et quod in aure auditis praedicate super tecta"
+        },
+        {
+          "number": 28,
+          "text": "et nolite timere eos qui occidunt corpus animam autem non possunt occidere sed potius eum timete qui potest et animam et corpus perdere in gehennam"
+        },
+        {
+          "number": 29,
+          "text": "nonne duo passeres asse veneunt et unus ex illis non cadet super terram sine Patre vestro"
+        },
+        {
+          "number": 30,
+          "text": "vestri autem et capilli capitis omnes numerati sunt"
+        },
+        {
+          "number": 31,
+          "text": "nolite ergo timere multis passeribus meliores estis vos"
+        },
+        {
+          "number": 32,
+          "text": "omnis ergo qui confitebitur me coram hominibus confitebor et ego eum coram Patre meo qui est in caelis"
+        },
+        {
+          "number": 33,
+          "text": "qui autem negaverit me coram hominibus negabo et ego eum coram Patre meo qui est in caelis"
+        },
+        {
+          "number": 34,
+          "text": "nolite arbitrari quia venerim mittere pacem in terram non veni pacem mittere sed gladium"
+        },
+        {
+          "number": 35,
+          "text": "veni enim separare hominem adversus patrem suum et filiam adversus matrem suam et nurum adversus socrum suam"
+        },
+        {
+          "number": 36,
+          "text": "et inimici hominis domestici eius"
+        },
+        {
+          "number": 37,
+          "text": "qui amat patrem aut matrem plus quam me non est me dignus et qui amat filium aut filiam super me non est me dignus"
+        },
+        {
+          "number": 38,
+          "text": "et qui non accipit crucem suam et sequitur me non est me dignus"
+        },
+        {
+          "number": 39,
+          "text": "qui invenit animam suam perdet illam et qui perdiderit animam suam propter me inveniet eam"
+        },
+        {
+          "number": 40,
+          "text": "qui recipit vos me recipit et qui me recipit recipit eum qui me misit"
+        },
+        {
+          "number": 41,
+          "text": "qui recipit prophetam in nomine prophetae mercedem prophetae accipiet et qui recipit iustum in nomine iusti mercedem iusti accipiet"
+        },
+        {
+          "number": 42,
+          "text": "et quicumque potum dederit uni ex minimis istis calicem aquae frigidae tantum in nomine discipuli amen dico vobis non perdet mercedem suam"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et factum est cum consummasset Iesus praecipiens duodecim discipulis suis transiit inde ut doceret et praedicaret in civitatibus eorum"
+        },
+        {
+          "number": 2,
+          "text": "Iohannes autem cum audisset in vinculis opera Christi mittens duos de discipulis suis"
+        },
+        {
+          "number": 3,
+          "text": "ait illi tu es qui venturus es an alium expectamus"
+        },
+        {
+          "number": 4,
+          "text": "et respondens Iesus ait illis euntes renuntiate Iohanni quae auditis et videtis"
+        },
+        {
+          "number": 5,
+          "text": "caeci vident claudi ambulant leprosi mundantur surdi audiunt mortui resurgunt pauperes evangelizantur"
+        },
+        {
+          "number": 6,
+          "text": "et beatus est qui non fuerit scandalizatus in me"
+        },
+        {
+          "number": 7,
+          "text": "illis autem abeuntibus coepit Iesus dicere ad turbas de Iohanne quid existis in desertum videre harundinem vento agitatam"
+        },
+        {
+          "number": 8,
+          "text": "sed quid existis videre hominem mollibus vestitum ecce qui mollibus vestiuntur in domibus regum sunt"
+        },
+        {
+          "number": 9,
+          "text": "sed quid existis videre prophetam etiam dico vobis et plus quam prophetam"
+        },
+        {
+          "number": 10,
+          "text": "hic enim est de quo scriptum est ecce ego mitto angelum meum ante faciem tuam qui praeparabit viam tuam ante te"
+        },
+        {
+          "number": 11,
+          "text": "amen dico vobis non surrexit inter natos mulierum maior Iohanne Baptista qui autem minor est in regno caelorum maior est illo"
+        },
+        {
+          "number": 12,
+          "text": "a diebus autem Iohannis Baptistae usque nunc regnum caelorum vim patitur et violenti rapiunt illud"
+        },
+        {
+          "number": 13,
+          "text": "omnes enim prophetae et lex usque ad Iohannem prophetaverunt"
+        },
+        {
+          "number": 14,
+          "text": "et si vultis recipere ipse est Helias qui venturus est"
+        },
+        {
+          "number": 15,
+          "text": "qui habet aures audiendi audiat"
+        },
+        {
+          "number": 16,
+          "text": "cui autem similem aestimabo generationem istam similis est pueris sedentibus in foro qui clamantes coaequalibus"
+        },
+        {
+          "number": 17,
+          "text": "dicunt cecinimus vobis et non saltastis lamentavimus et non planxistis"
+        },
+        {
+          "number": 18,
+          "text": "venit enim Iohannes neque manducans neque bibens et dicunt daemonium habet"
+        },
+        {
+          "number": 19,
+          "text": "venit Filius hominis manducans et bibens et dicunt ecce homo vorax et potator vini publicanorum et peccatorum amicus et iustificata est sapientia a filiis suis"
+        },
+        {
+          "number": 20,
+          "text": "tunc coepit exprobrare civitatibus in quibus factae sunt plurimae virtutes eius quia non egissent paenitentiam"
+        },
+        {
+          "number": 21,
+          "text": "vae tibi Corazain vae tibi Bethsaida quia si in Tyro et Sidone factae essent virtutes quae factae sunt in vobis olim in cilicio et cinere paenitentiam egissent"
+        },
+        {
+          "number": 22,
+          "text": "verumtamen dico vobis Tyro et Sidoni remissius erit in die iudicii quam vobis"
+        },
+        {
+          "number": 23,
+          "text": "et tu Capharnaum numquid usque in caelum exaltaberis usque in infernum descendes quia si in Sodomis factae fuissent virtutes quae factae sunt in te forte mansissent usque in hunc diem"
+        },
+        {
+          "number": 24,
+          "text": "verumtamen dico vobis quia terrae Sodomorum remissius erit in die iudicii quam tibi"
+        },
+        {
+          "number": 25,
+          "text": "in illo tempore respondens Iesus dixit confiteor tibi Pater Domine caeli et terrae quia abscondisti haec a sapientibus et prudentibus et revelasti ea parvulis"
+        },
+        {
+          "number": 26,
+          "text": "ita Pater quoniam sic fuit placitum ante te"
+        },
+        {
+          "number": 27,
+          "text": "omnia mihi tradita sunt a Patre meo et nemo novit Filium nisi Pater neque Patrem quis novit nisi Filius et cui voluerit Filius revelare"
+        },
+        {
+          "number": 28,
+          "text": "venite ad me omnes qui laboratis et onerati estis et ego reficiam vos"
+        },
+        {
+          "number": 29,
+          "text": "tollite iugum meum super vos et discite a me quia mitis sum et humilis corde et invenietis requiem animabus vestris"
+        },
+        {
+          "number": 30,
+          "text": "iugum enim meum suave est et onus meum leve est"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in illo tempore abiit Iesus sabbato per sata discipuli autem eius esurientes coeperunt vellere spicas et manducare"
+        },
+        {
+          "number": 2,
+          "text": "Pharisaei autem videntes dixerunt ei ecce discipuli tui faciunt quod non licet eis facere sabbatis"
+        },
+        {
+          "number": 3,
+          "text": "at ille dixit eis non legistis quid fecerit David quando esuriit et qui cum eo erant"
+        },
+        {
+          "number": 4,
+          "text": "quomodo intravit in domum Dei et panes propositionis comedit quos non licebat ei edere neque his qui cum eo erant nisi solis sacerdotibus"
+        },
+        {
+          "number": 5,
+          "text": "aut non legistis in lege quia sabbatis sacerdotes in templo sabbatum violant et sine crimine sunt"
+        },
+        {
+          "number": 6,
+          "text": "dico autem vobis quia templo maior est hic"
+        },
+        {
+          "number": 7,
+          "text": "si autem sciretis quid est misericordiam volo et non sacrificium numquam condemnassetis innocentes"
+        },
+        {
+          "number": 8,
+          "text": "dominus est enim Filius hominis etiam sabbati"
+        },
+        {
+          "number": 9,
+          "text": "et cum inde transisset venit in synagogam eorum"
+        },
+        {
+          "number": 10,
+          "text": "et ecce homo manum habens aridam et interrogabant eum dicentes si licet sabbatis curare ut accusarent eum"
+        },
+        {
+          "number": 11,
+          "text": "ipse autem dixit illis quis erit ex vobis homo qui habeat ovem unam et si ceciderit haec sabbatis in foveam nonne tenebit et levabit eam"
+        },
+        {
+          "number": 12,
+          "text": "quanto magis melior est homo ove itaque licet sabbatis benefacere"
+        },
+        {
+          "number": 13,
+          "text": "tunc ait homini extende manum tuam et extendit et restituta est sanitati sicut altera"
+        },
+        {
+          "number": 14,
+          "text": "exeuntes autem Pharisaei consilium faciebant adversus eum quomodo eum perderent"
+        },
+        {
+          "number": 15,
+          "text": "Iesus autem sciens recessit inde et secuti sunt eum multi et curavit eos omnes"
+        },
+        {
+          "number": 16,
+          "text": "et praecepit eis ne manifestum eum facerent"
+        },
+        {
+          "number": 17,
+          "text": "ut adimpleretur quod dictum est per Esaiam prophetam dicentem"
+        },
+        {
+          "number": 18,
+          "text": "ecce puer meus quem elegi dilectus meus in quo bene placuit animae meae ponam spiritum meum super eum et iudicium gentibus nuntiabit"
+        },
+        {
+          "number": 19,
+          "text": "non contendet neque clamabit neque audiet aliquis in plateis vocem eius"
+        },
+        {
+          "number": 20,
+          "text": "harundinem quassatam non confringet et linum fumigans non extinguet donec eiciat ad victoriam iudicium"
+        },
+        {
+          "number": 21,
+          "text": "et in nomine eius gentes sperabunt"
+        },
+        {
+          "number": 22,
+          "text": "tunc oblatus est ei daemonium habens caecus et mutus et curavit eum ita ut loqueretur et videret"
+        },
+        {
+          "number": 23,
+          "text": "et stupebant omnes turbae et dicebant numquid hic est Filius David"
+        },
+        {
+          "number": 24,
+          "text": "Pharisaei autem audientes dixerunt hic non eicit daemones nisi in Beelzebub principe daemoniorum"
+        },
+        {
+          "number": 25,
+          "text": "Iesus autem sciens cogitationes eorum dixit eis omne regnum divisum contra se desolatur et omnis civitas vel domus divisa contra se non stabit"
+        },
+        {
+          "number": 26,
+          "text": "et si Satanas Satanan eicit adversus se divisus est quomodo ergo stabit regnum eius"
+        },
+        {
+          "number": 27,
+          "text": "et si ego in Beelzebub eicio daemones filii vestri in quo eiciunt ideo ipsi iudices erunt vestri"
+        },
+        {
+          "number": 28,
+          "text": "si autem ego in Spiritu Dei eicio daemones igitur pervenit in vos regnum Dei"
+        },
+        {
+          "number": 29,
+          "text": "aut quomodo potest quisquam intrare in domum fortis et vasa eius diripere nisi prius alligaverit fortem et tunc domum illius diripiat"
+        },
+        {
+          "number": 30,
+          "text": "qui non est mecum contra me est et qui non congregat mecum spargit"
+        },
+        {
+          "number": 31,
+          "text": "ideo dico vobis omne peccatum et blasphemia remittetur hominibus Spiritus autem blasphemia non remittetur"
+        },
+        {
+          "number": 32,
+          "text": "et quicumque dixerit verbum contra Filium hominis remittetur ei qui autem dixerit contra Spiritum Sanctum non remittetur ei neque in hoc saeculo neque in futuro"
+        },
+        {
+          "number": 33,
+          "text": "aut facite arborem bonam et fructum eius bonum aut facite arborem malam et fructum eius malum siquidem ex fructu arbor agnoscitur"
+        },
+        {
+          "number": 34,
+          "text": "progenies viperarum quomodo potestis bona loqui cum sitis mali ex abundantia enim cordis os loquitur"
+        },
+        {
+          "number": 35,
+          "text": "bonus homo de bono thesauro profert bona et malus homo de malo thesauro profert mala"
+        },
+        {
+          "number": 36,
+          "text": "dico autem vobis quoniam omne verbum otiosum quod locuti fuerint homines reddent rationem de eo in die iudicii"
+        },
+        {
+          "number": 37,
+          "text": "ex verbis enim tuis iustificaberis et ex verbis tuis condemnaberis"
+        },
+        {
+          "number": 38,
+          "text": "tunc responderunt ei quidam de scribis et Pharisaeis dicentes magister volumus a te signum videre"
+        },
+        {
+          "number": 39,
+          "text": "qui respondens ait illis generatio mala et adultera signum quaerit et signum non dabitur ei nisi signum Ionae prophetae"
+        },
+        {
+          "number": 40,
+          "text": "sicut enim fuit Ionas in ventre ceti tribus diebus et tribus noctibus sic erit Filius hominis in corde terrae tribus diebus et tribus noctibus"
+        },
+        {
+          "number": 41,
+          "text": "viri ninevitae surgent in iudicio cum generatione ista et condemnabunt eam quia paenitentiam egerunt in praedicatione Ionae et ecce plus quam Iona hic"
+        },
+        {
+          "number": 42,
+          "text": "regina austri surget in iudicio cum generatione ista et condemnabit eam quia venit a finibus terrae audire sapientiam Salomonis et ecce plus quam Salomon hic"
+        },
+        {
+          "number": 43,
+          "text": "cum autem inmundus spiritus exierit ab homine ambulat per loca arida quaerens requiem et non invenit"
+        },
+        {
+          "number": 44,
+          "text": "tunc dicit revertar in domum meam unde exivi et veniens invenit vacantem scopis mundatam et ornatam"
+        },
+        {
+          "number": 45,
+          "text": "tunc vadit et adsumit septem alios spiritus secum nequiores se et intrantes habitant ibi et fiunt novissima hominis illius peiora prioribus sic erit et generationi huic pessimae"
+        },
+        {
+          "number": 46,
+          "text": "adhuc eo loquente ad turbas ecce mater eius et fratres stabant foris quaerentes loqui ei"
+        },
+        {
+          "number": 47,
+          "text": "dixit autem ei quidam ecce mater tua et fratres tui foris stant quaerentes te"
+        },
+        {
+          "number": 48,
+          "text": "at ipse respondens dicenti sibi ait quae est mater mea et qui sunt fratres mei"
+        },
+        {
+          "number": 49,
+          "text": "et extendens manum in discipulos suos dixit ecce mater mea et fratres mei"
+        },
+        {
+          "number": 50,
+          "text": "quicumque enim fecerit voluntatem Patris mei qui in caelis est ipse meus et frater et soror et mater est"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in illo die exiens Iesus de domo sedebat secus mare"
+        },
+        {
+          "number": 2,
+          "text": "et congregatae sunt ad eum turbae multae ita ut in naviculam ascendens sederet et omnis turba stabat in litore"
+        },
+        {
+          "number": 3,
+          "text": "et locutus est eis multa in parabolis dicens ecce exiit qui seminat seminare"
+        },
+        {
+          "number": 4,
+          "text": "et dum seminat quaedam ceciderunt secus viam et venerunt volucres et comederunt ea"
+        },
+        {
+          "number": 5,
+          "text": "alia autem ceciderunt in petrosa ubi non habebat terram multam et continuo exorta sunt quia non habebant altitudinem terrae"
+        },
+        {
+          "number": 6,
+          "text": "sole autem orto aestuaverunt et quia non habebant radicem aruerunt"
+        },
+        {
+          "number": 7,
+          "text": "alia autem ceciderunt in spinas et creverunt spinae et suffocaverunt ea"
+        },
+        {
+          "number": 8,
+          "text": "alia vero ceciderunt in terram bonam et dabant fructum aliud centesimum aliud sexagesimum aliud tricesimum"
+        },
+        {
+          "number": 9,
+          "text": "qui habet aures audiendi audiat"
+        },
+        {
+          "number": 10,
+          "text": "et accedentes discipuli dixerunt ei quare in parabolis loqueris eis"
+        },
+        {
+          "number": 11,
+          "text": "qui respondens ait illis quia vobis datum est nosse mysteria regni caelorum illis autem non est datum"
+        },
+        {
+          "number": 12,
+          "text": "qui enim habet dabitur ei et abundabit qui autem non habet et quod habet auferetur ab eo"
+        },
+        {
+          "number": 13,
+          "text": "ideo in parabolis loquor eis quia videntes non vident et audientes non audiunt neque intellegunt"
+        },
+        {
+          "number": 14,
+          "text": "et adimpletur eis prophetia Esaiae dicens auditu audietis et non intellegetis et videntes videbitis et non videbitis"
+        },
+        {
+          "number": 15,
+          "text": "incrassatum est enim cor populi huius et auribus graviter audierunt et oculos suos cluserunt nequando oculis videant et auribus audiant et corde intellegant et convertantur et sanem eos"
+        },
+        {
+          "number": 16,
+          "text": "vestri autem beati oculi quia vident et aures vestrae quia audiunt"
+        },
+        {
+          "number": 17,
+          "text": "amen quippe dico vobis quia multi prophetae et iusti cupierunt videre quae videtis et non viderunt et audire quae auditis et non audierunt"
+        },
+        {
+          "number": 18,
+          "text": "vos ergo audite parabolam seminantis"
+        },
+        {
+          "number": 19,
+          "text": "omnis qui audit verbum regni et non intellegit venit malus et rapit quod seminatum est in corde eius hic est qui secus viam seminatus est"
+        },
+        {
+          "number": 20,
+          "text": "qui autem supra petrosa seminatus est hic est qui verbum audit et continuo cum gaudio accipit illud"
+        },
+        {
+          "number": 21,
+          "text": "non habet autem in se radicem sed est temporalis facta autem tribulatione et persecutione propter verbum continuo scandalizatur"
+        },
+        {
+          "number": 22,
+          "text": "qui autem est seminatus in spinis hic est qui verbum audit et sollicitudo saeculi istius et fallacia divitiarum suffocat verbum et sine fructu efficitur"
+        },
+        {
+          "number": 23,
+          "text": "qui vero in terra bona seminatus est hic est qui audit verbum et intellegit et fructum adfert et facit aliud quidem centum aliud autem sexaginta porro aliud triginta"
+        },
+        {
+          "number": 24,
+          "text": "aliam parabolam proposuit illis dicens simile factum est regnum caelorum homini qui seminavit bonum semen in agro suo"
+        },
+        {
+          "number": 25,
+          "text": "cum autem dormirent homines venit inimicus eius et superseminavit zizania in medio tritici et abiit"
+        },
+        {
+          "number": 26,
+          "text": "cum autem crevisset herba et fructum fecisset tunc apparuerunt et zizania"
+        },
+        {
+          "number": 27,
+          "text": "accedentes autem servi patris familias dixerunt ei domine nonne bonum semen seminasti in agro tuo unde ergo habet zizania"
+        },
+        {
+          "number": 28,
+          "text": "et ait illis inimicus homo hoc fecit servi autem dixerunt ei vis imus et colligimus ea"
+        },
+        {
+          "number": 29,
+          "text": "et ait non ne forte colligentes zizania eradicetis simul cum eis et triticum"
+        },
+        {
+          "number": 30,
+          "text": "sinite utraque crescere usque ad messem et in tempore messis dicam messoribus colligite primum zizania et alligate ea fasciculos ad conburendum triticum autem congregate in horreum meum"
+        },
+        {
+          "number": 31,
+          "text": "aliam parabolam proposuit eis dicens simile est regnum caelorum grano sinapis quod accipiens homo seminavit in agro suo"
+        },
+        {
+          "number": 32,
+          "text": "quod minimum quidem est omnibus seminibus cum autem creverit maius est omnibus holeribus et fit arbor ita ut volucres caeli veniant et habitent in ramis eius"
+        },
+        {
+          "number": 33,
+          "text": "aliam parabolam locutus est eis simile est regnum caelorum fermento quod acceptum mulier abscondit in farinae satis tribus donec fermentatum est totum"
+        },
+        {
+          "number": 34,
+          "text": "haec omnia locutus est Iesus in parabolis ad turbas et sine parabolis non loquebatur eis"
+        },
+        {
+          "number": 35,
+          "text": "ut impleretur quod dictum erat per prophetam dicentem aperiam in parabolis os meum eructabo abscondita a constitutione mundi"
+        },
+        {
+          "number": 36,
+          "text": "tunc dimissis turbis venit in domum et accesserunt ad eum discipuli eius dicentes dissere nobis parabolam zizaniorum agri"
+        },
+        {
+          "number": 37,
+          "text": "qui respondens ait qui seminat bonum semen est Filius hominis"
+        },
+        {
+          "number": 38,
+          "text": "ager autem est mundus bonum vero semen hii sunt filii regni zizania autem filii sunt nequam"
+        },
+        {
+          "number": 39,
+          "text": "inimicus autem qui seminavit ea est diabolus messis vero consummatio saeculi est messores autem angeli sunt"
+        },
+        {
+          "number": 40,
+          "text": "sicut ergo colliguntur zizania et igni conburuntur sic erit in consummatione saeculi"
+        },
+        {
+          "number": 41,
+          "text": "mittet Filius hominis angelos suos et colligent de regno eius omnia scandala et eos qui faciunt iniquitatem"
+        },
+        {
+          "number": 42,
+          "text": "et mittent eos in caminum ignis ibi erit fletus et stridor dentium"
+        },
+        {
+          "number": 43,
+          "text": "tunc iusti fulgebunt sicut sol in regno Patris eorum qui habet aures audiat"
+        },
+        {
+          "number": 44,
+          "text": "simile est regnum caelorum thesauro abscondito in agro quem qui invenit homo abscondit et prae gaudio illius vadit et vendit universa quae habet et emit agrum illum"
+        },
+        {
+          "number": 45,
+          "text": "iterum simile est regnum caelorum homini negotiatori quaerenti bonas margaritas"
+        },
+        {
+          "number": 46,
+          "text": "inventa autem una pretiosa margarita abiit et vendidit omnia quae habuit et emit eam"
+        },
+        {
+          "number": 47,
+          "text": "iterum simile est regnum caelorum sagenae missae in mare et ex omni genere congreganti"
+        },
+        {
+          "number": 48,
+          "text": "quam cum impleta esset educentes et secus litus sedentes elegerunt bonos in vasa malos autem foras miserunt"
+        },
+        {
+          "number": 49,
+          "text": "sic erit in consummatione saeculi exibunt angeli et separabunt malos de medio iustorum"
+        },
+        {
+          "number": 50,
+          "text": "et mittent eos in caminum ignis ibi erit fletus et stridor dentium"
+        },
+        {
+          "number": 51,
+          "text": "intellexistis haec omnia dicunt ei etiam"
+        },
+        {
+          "number": 52,
+          "text": "ait illis ideo omnis scriba doctus in regno caelorum similis est homini patri familias qui profert de thesauro suo nova et vetera"
+        },
+        {
+          "number": 53,
+          "text": "et factum est cum consummasset Iesus parabolas istas transiit inde"
+        },
+        {
+          "number": 54,
+          "text": "et veniens in patriam suam docebat eos in synagogis eorum ita ut mirarentur et dicerent unde huic sapientia haec et virtutes"
+        },
+        {
+          "number": 55,
+          "text": "nonne hic est fabri filius nonne mater eius dicitur Maria et fratres eius Iacobus et Ioseph et Simon et Iudas"
+        },
+        {
+          "number": 56,
+          "text": "et sorores eius nonne omnes apud nos sunt unde ergo huic omnia ista"
+        },
+        {
+          "number": 57,
+          "text": "et scandalizabantur in eo Iesus autem dixit eis non est propheta sine honore nisi in patria sua et in domo sua"
+        },
+        {
+          "number": 58,
+          "text": "et non fecit ibi virtutes multas propter incredulitatem illorum"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in illo tempore audiit Herodes tetrarcha famam Iesu"
+        },
+        {
+          "number": 2,
+          "text": "et ait pueris suis hic est Iohannes Baptista ipse surrexit a mortuis et ideo virtutes inoperantur in eo"
+        },
+        {
+          "number": 3,
+          "text": "Herodes enim tenuit Iohannem et alligavit eum et posuit in carcere propter Herodiadem uxorem fratris sui"
+        },
+        {
+          "number": 4,
+          "text": "dicebat enim illi Iohannes non licet tibi habere eam"
+        },
+        {
+          "number": 5,
+          "text": "et volens illum occidere timuit populum quia sicut prophetam eum habebant"
+        },
+        {
+          "number": 6,
+          "text": "die autem natalis Herodis saltavit filia Herodiadis in medio et placuit Herodi"
+        },
+        {
+          "number": 7,
+          "text": "unde cum iuramento pollicitus est ei dare quodcumque postulasset ab eo"
+        },
+        {
+          "number": 8,
+          "text": "at illa praemonita a matre sua da mihi inquit hic in disco caput Iohannis Baptistae"
+        },
+        {
+          "number": 9,
+          "text": "et contristatus est rex propter iuramentum autem et eos qui pariter recumbebant iussit dari"
+        },
+        {
+          "number": 10,
+          "text": "misitque et decollavit Iohannem in carcere"
+        },
+        {
+          "number": 11,
+          "text": "et adlatum est caput eius in disco et datum est puellae et tulit matri suae"
+        },
+        {
+          "number": 12,
+          "text": "et accedentes discipuli eius tulerunt corpus et sepelierunt illud et venientes nuntiaverunt Iesu"
+        },
+        {
+          "number": 13,
+          "text": "quod cum audisset Iesus secessit inde in navicula in locum desertum seorsum et cum audissent turbae secutae sunt eum pedestres de civitatibus"
+        },
+        {
+          "number": 14,
+          "text": "et exiens vidit turbam multam et misertus est eius et curavit languidos eorum"
+        },
+        {
+          "number": 15,
+          "text": "vespere autem facto accesserunt ad eum discipuli eius dicentes desertus est locus et hora iam praeteriit dimitte turbas ut euntes in castella emant sibi escas"
+        },
+        {
+          "number": 16,
+          "text": "Iesus autem dixit eis non habent necesse ire date illis vos manducare"
+        },
+        {
+          "number": 17,
+          "text": "responderunt ei non habemus hic nisi quinque panes et duos pisces"
+        },
+        {
+          "number": 18,
+          "text": "qui ait eis adferte illos mihi huc"
+        },
+        {
+          "number": 19,
+          "text": "et cum iussisset turbam discumbere supra faenum acceptis quinque panibus et duobus piscibus aspiciens in caelum benedixit et fregit et dedit discipulis panes discipuli autem turbis"
+        },
+        {
+          "number": 20,
+          "text": "et manducaverunt omnes et saturati sunt et tulerunt reliquias duodecim cofinos fragmentorum plenos"
+        },
+        {
+          "number": 21,
+          "text": "manducantium autem fuit numerus quinque milia virorum exceptis mulieribus et parvulis"
+        },
+        {
+          "number": 22,
+          "text": "et statim iussit discipulos ascendere in navicula et praecedere eum trans fretum donec dimitteret turbas"
+        },
+        {
+          "number": 23,
+          "text": "et dimissa turba ascendit in montem solus orare vespere autem facto solus erat ibi"
+        },
+        {
+          "number": 24,
+          "text": "navicula autem in medio mari iactabatur fluctibus erat enim contrarius ventus"
+        },
+        {
+          "number": 25,
+          "text": "quarta autem vigilia noctis venit ad eos ambulans supra mare"
+        },
+        {
+          "number": 26,
+          "text": "et videntes eum supra mare ambulantem turbati sunt dicentes quia fantasma est et prae timore clamaverunt"
+        },
+        {
+          "number": 27,
+          "text": "statimque Iesus locutus est eis dicens habete fiduciam ego sum nolite timere"
+        },
+        {
+          "number": 28,
+          "text": "respondens autem Petrus dixit Domine si tu es iube me venire ad te super aquas"
+        },
+        {
+          "number": 29,
+          "text": "at ipse ait veni et descendens Petrus de navicula ambulabat super aquam ut veniret ad Iesum"
+        },
+        {
+          "number": 30,
+          "text": "videns vero ventum validum timuit et cum coepisset mergi clamavit dicens Domine salvum me fac"
+        },
+        {
+          "number": 31,
+          "text": "et continuo Iesus extendens manum adprehendit eum et ait illi modicae fidei quare dubitasti"
+        },
+        {
+          "number": 32,
+          "text": "et cum ascendissent in naviculam cessavit ventus"
+        },
+        {
+          "number": 33,
+          "text": "qui autem in navicula erant venerunt et adoraverunt eum dicentes vere Filius Dei es"
+        },
+        {
+          "number": 34,
+          "text": "et cum transfretassent venerunt in terram Gennesar"
+        },
+        {
+          "number": 35,
+          "text": "et cum cognovissent eum viri loci illius miserunt in universam regionem illam et obtulerunt ei omnes male habentes"
+        },
+        {
+          "number": 36,
+          "text": "et rogabant eum ut vel fimbriam vestimenti eius tangerent et quicumque tetigerunt salvi facti sunt"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "tunc accesserunt ad eum ab Hierosolymis scribae et Pharisaei dicentes"
+        },
+        {
+          "number": 2,
+          "text": "quare discipuli tui transgrediuntur traditionem seniorum non enim lavant manus suas cum panem manducant"
+        },
+        {
+          "number": 3,
+          "text": "ipse autem respondens ait illis quare et vos transgredimini mandatum Dei propter traditionem vestram"
+        },
+        {
+          "number": 4,
+          "text": "nam Deus dixit honora patrem et matrem et qui maledixerit patri vel matri morte moriatur"
+        },
+        {
+          "number": 5,
+          "text": "vos autem dicitis quicumque dixerit patri vel matri munus quodcumque est ex me tibi proderit"
+        },
+        {
+          "number": 6,
+          "text": "et non honorificabit patrem suum aut matrem et irritum fecistis mandatum Dei propter traditionem vestram"
+        },
+        {
+          "number": 7,
+          "text": "hypocritae bene prophetavit de vobis Esaias dicens"
+        },
+        {
+          "number": 8,
+          "text": "populus hic labiis me honorat cor autem eorum longe est a me"
+        },
+        {
+          "number": 9,
+          "text": "sine causa autem colunt me docentes doctrinas mandata hominum"
+        },
+        {
+          "number": 10,
+          "text": "et convocatis ad se turbis dixit eis audite et intellegite"
+        },
+        {
+          "number": 11,
+          "text": "non quod intrat in os coinquinat hominem sed quod procedit ex ore hoc coinquinat hominem"
+        },
+        {
+          "number": 12,
+          "text": "tunc accedentes discipuli eius dixerunt ei scis quia Pharisaei audito verbo scandalizati sunt"
+        },
+        {
+          "number": 13,
+          "text": "at ille respondens ait omnis plantatio quam non plantavit Pater meus caelestis eradicabitur"
+        },
+        {
+          "number": 14,
+          "text": "sinite illos caeci sunt duces caecorum caecus autem si caeco ducatum praestet ambo in foveam cadunt"
+        },
+        {
+          "number": 15,
+          "text": "respondens autem Petrus dixit ei edissere nobis parabolam istam"
+        },
+        {
+          "number": 16,
+          "text": "at ille dixit adhuc et vos sine intellectu estis"
+        },
+        {
+          "number": 17,
+          "text": "non intellegitis quia omne quod in os intrat in ventrem vadit et in secessum emittitur"
+        },
+        {
+          "number": 18,
+          "text": "quae autem procedunt de ore de corde exeunt et ea coinquinant hominem"
+        },
+        {
+          "number": 19,
+          "text": "de corde enim exeunt cogitationes malae homicidia adulteria fornicationes furta falsa testimonia blasphemiae"
+        },
+        {
+          "number": 20,
+          "text": "haec sunt quae coinquinant hominem non lotis autem manibus manducare non coinquinat hominem"
+        },
+        {
+          "number": 21,
+          "text": "et egressus inde Iesus secessit in partes Tyri et Sidonis"
+        },
+        {
+          "number": 22,
+          "text": "et ecce mulier chananea a finibus illis egressa clamavit dicens ei miserere mei Domine Fili David filia mea male a daemonio vexatur"
+        },
+        {
+          "number": 23,
+          "text": "qui non respondit ei verbum et accedentes discipuli eius rogabant eum dicentes dimitte eam quia clamat post nos"
+        },
+        {
+          "number": 24,
+          "text": "ipse autem respondens ait non sum missus nisi ad oves quae perierunt domus Israhel"
+        },
+        {
+          "number": 25,
+          "text": "at illa venit et adoravit eum dicens Domine adiuva me"
+        },
+        {
+          "number": 26,
+          "text": "qui respondens ait non est bonum sumere panem filiorum et mittere canibus"
+        },
+        {
+          "number": 27,
+          "text": "at illa dixit etiam Domine nam et catelli edunt de micis quae cadunt de mensa dominorum suorum"
+        },
+        {
+          "number": 28,
+          "text": "tunc respondens Iesus ait illi o mulier magna est fides tua fiat tibi sicut vis et sanata est filia illius ex illa hora"
+        },
+        {
+          "number": 29,
+          "text": "et cum transisset inde Iesus venit secus mare Galilaeae et ascendens in montem sedebat ibi"
+        },
+        {
+          "number": 30,
+          "text": "et accesserunt ad eum turbae multae habentes secum mutos clodos caecos debiles et alios multos et proiecerunt eos ad pedes eius et curavit eos"
+        },
+        {
+          "number": 31,
+          "text": "ita ut turbae mirarentur videntes mutos loquentes clodos ambulantes caecos videntes et magnificabant Deum Israhel"
+        },
+        {
+          "number": 32,
+          "text": "Iesus autem convocatis discipulis suis dixit misereor turbae quia triduo iam perseverant mecum et non habent quod manducent et dimittere eos ieiunos nolo ne deficiant in via"
+        },
+        {
+          "number": 33,
+          "text": "et dicunt ei discipuli unde ergo nobis in deserto panes tantos ut saturemus turbam tantam"
+        },
+        {
+          "number": 34,
+          "text": "et ait illis Iesus quot panes habetis at illi dixerunt septem et paucos pisciculos"
+        },
+        {
+          "number": 35,
+          "text": "et praecepit turbae ut discumberet super terram"
+        },
+        {
+          "number": 36,
+          "text": "et accipiens septem panes et pisces et gratias agens fregit et dedit discipulis suis et discipuli dederunt populo"
+        },
+        {
+          "number": 37,
+          "text": "et comederunt omnes et saturati sunt et quod superfuit de fragmentis tulerunt septem sportas plenas"
+        },
+        {
+          "number": 38,
+          "text": "erant autem qui manducaverant quattuor milia hominum extra parvulos et mulieres"
+        },
+        {
+          "number": 39,
+          "text": "et dimissa turba ascendit in naviculam et venit in fines Magedan"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et accesserunt ad eum Pharisaei et Sadducaei temptantes et rogaverunt eum ut signum de caelo ostenderet eis"
+        },
+        {
+          "number": 2,
+          "text": "at ille respondens ait eis facto vespere dicitis serenum erit rubicundum est enim caelum"
+        },
+        {
+          "number": 3,
+          "text": "et mane hodie tempestas rutilat enim triste caelum"
+        },
+        {
+          "number": 4,
+          "text": "faciem ergo caeli diiudicare nostis signa autem temporum non potestis generatio mala et adultera signum quaerit et signum non dabitur ei nisi signum Ionae et relictis illis abiit"
+        },
+        {
+          "number": 5,
+          "text": "et cum venissent discipuli eius trans fretum obliti sunt panes accipere"
+        },
+        {
+          "number": 6,
+          "text": "qui dixit illis intuemini et cavete a fermento Pharisaeorum et Sadducaeorum"
+        },
+        {
+          "number": 7,
+          "text": "at illi cogitabant inter se dicentes quia panes non accepimus"
+        },
+        {
+          "number": 8,
+          "text": "sciens autem Iesus dixit quid cogitatis inter vos modicae fidei quia panes non habetis"
+        },
+        {
+          "number": 9,
+          "text": "nondum intellegitis neque recordamini quinque panum quinque milium hominum et quot cofinos sumpsistis"
+        },
+        {
+          "number": 10,
+          "text": "neque septem panum quattuor milium hominum et quot sportas sumpsistis"
+        },
+        {
+          "number": 11,
+          "text": "quare non intellegitis quia non de pane dixi vobis cavete a fermento Pharisaeorum et Sadducaeorum"
+        },
+        {
+          "number": 12,
+          "text": "tunc intellexerunt quia non dixerit cavendum a fermento panum sed a doctrina Pharisaeorum et Sadducaeorum"
+        },
+        {
+          "number": 13,
+          "text": "venit autem Iesus in partes Caesareae Philippi et interrogabat discipulos suos dicens quem dicunt homines esse Filium hominis"
+        },
+        {
+          "number": 14,
+          "text": "at illi dixerunt alii Iohannem Baptistam alii autem Heliam alii vero Hieremiam aut unum ex prophetis"
+        },
+        {
+          "number": 15,
+          "text": "dicit illis vos autem quem me esse dicitis"
+        },
+        {
+          "number": 16,
+          "text": "respondens Simon Petrus dixit tu es Christus Filius Dei vivi"
+        },
+        {
+          "number": 17,
+          "text": "respondens autem Iesus dixit ei beatus es Simon Bar Iona quia caro et sanguis non revelavit tibi sed Pater meus qui in caelis est"
+        },
+        {
+          "number": 18,
+          "text": "et ego dico tibi quia tu es Petrus et super hanc petram aedificabo ecclesiam meam et portae inferi non praevalebunt adversum eam"
+        },
+        {
+          "number": 19,
+          "text": "et tibi dabo claves regni caelorum et quodcumque ligaveris super terram erit ligatum in caelis et quodcumque solveris super terram erit solutum in caelis"
+        },
+        {
+          "number": 20,
+          "text": "tunc praecepit discipulis suis ut nemini dicerent quia ipse esset Iesus Christus"
+        },
+        {
+          "number": 21,
+          "text": "exinde coepit Iesus ostendere discipulis suis quia oporteret eum ire Hierosolymam et multa pati a senioribus et scribis et principibus sacerdotum et occidi et tertia die resurgere"
+        },
+        {
+          "number": 22,
+          "text": "et adsumens eum Petrus coepit increpare illum dicens absit a te Domine non erit tibi hoc"
+        },
+        {
+          "number": 23,
+          "text": "qui conversus dixit Petro vade post me Satana scandalum es mihi quia non sapis ea quae Dei sunt sed ea quae hominum"
+        },
+        {
+          "number": 24,
+          "text": "tunc Iesus dixit discipulis suis si quis vult post me venire abneget semet ipsum et tollat crucem suam et sequatur me"
+        },
+        {
+          "number": 25,
+          "text": "qui enim voluerit animam suam salvam facere perdet eam qui autem perdiderit animam suam propter me inveniet eam"
+        },
+        {
+          "number": 26,
+          "text": "quid enim prodest homini si mundum universum lucretur animae vero suae detrimentum patiatur aut quam dabit homo commutationem pro anima sua"
+        },
+        {
+          "number": 27,
+          "text": "Filius enim hominis venturus est in gloria Patris sui cum angelis suis et tunc reddet unicuique secundum opus eius"
+        },
+        {
+          "number": 28,
+          "text": "amen dico vobis sunt quidam de hic stantibus qui non gustabunt mortem donec videant Filium hominis venientem in regno suo"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et post dies sex adsumpsit Iesus Petrum et Iacobum et Iohannem fratrem eius et ducit illos in montem excelsum seorsum"
+        },
+        {
+          "number": 2,
+          "text": "et transfiguratus est ante eos et resplenduit facies eius sicut sol vestimenta autem eius facta sunt alba sicut nix"
+        },
+        {
+          "number": 3,
+          "text": "et ecce apparuit illis Moses et Helias cum eo loquentes"
+        },
+        {
+          "number": 4,
+          "text": "respondens autem Petrus dixit ad Iesum Domine bonum est nos hic esse si vis faciamus hic tria tabernacula tibi unum et Mosi unum et Heliae unum"
+        },
+        {
+          "number": 5,
+          "text": "adhuc eo loquente ecce nubes lucida obumbravit eos et ecce vox de nube dicens hic est Filius meus dilectus in quo mihi bene conplacuit ipsum audite"
+        },
+        {
+          "number": 6,
+          "text": "et audientes discipuli ceciderunt in faciem suam et timuerunt valde"
+        },
+        {
+          "number": 7,
+          "text": "et accessit Iesus et tetigit eos dixitque eis surgite et nolite timere"
+        },
+        {
+          "number": 8,
+          "text": "levantes autem oculos suos neminem viderunt nisi solum Iesum"
+        },
+        {
+          "number": 9,
+          "text": "et descendentibus illis de monte praecepit Iesus dicens nemini dixeritis visionem donec Filius hominis a mortuis resurgat"
+        },
+        {
+          "number": 10,
+          "text": "et interrogaverunt eum discipuli dicentes quid ergo scribae dicunt quod Heliam oporteat primum venire"
+        },
+        {
+          "number": 11,
+          "text": "at ille respondens ait eis Helias quidem venturus est et restituet omnia"
+        },
+        {
+          "number": 12,
+          "text": "dico autem vobis quia Helias iam venit et non cognoverunt eum sed fecerunt in eo quaecumque voluerunt sic et Filius hominis passurus est ab eis"
+        },
+        {
+          "number": 13,
+          "text": "tunc intellexerunt discipuli quia de Iohanne Baptista dixisset eis"
+        },
+        {
+          "number": 14,
+          "text": "et cum venisset ad turbam accessit ad eum homo genibus provolutus ante eum dicens Domine miserere filii mei quia lunaticus est et male patitur nam saepe cadit in ignem et crebro in aquam"
+        },
+        {
+          "number": 15,
+          "text": "et obtuli eum discipulis tuis et non potuerunt curare eum"
+        },
+        {
+          "number": 16,
+          "text": "respondens Iesus ait o generatio incredula et perversa quousque ero vobiscum usquequo patiar vos adferte huc illum ad me"
+        },
+        {
+          "number": 17,
+          "text": "et increpavit ei Iesus et exiit ab eo daemonium et curatus est puer ex illa hora"
+        },
+        {
+          "number": 18,
+          "text": "tunc accesserunt discipuli ad Iesum secreto et dixerunt quare nos non potuimus eicere illum"
+        },
+        {
+          "number": 19,
+          "text": "dicit illis propter incredulitatem vestram amen quippe dico vobis si habueritis fidem sicut granum sinapis dicetis monti huic transi hinc et transibit et nihil inpossibile erit vobis"
+        },
+        {
+          "number": 20,
+          "text": "hoc autem genus non eicitur nisi per orationem et ieiunium"
+        },
+        {
+          "number": 21,
+          "text": "conversantibus autem eis in Galilaea dixit illis Iesus Filius hominis tradendus est in manus hominum"
+        },
+        {
+          "number": 22,
+          "text": "et occident eum et tertio die resurget et contristati sunt vehementer"
+        },
+        {
+          "number": 23,
+          "text": "et cum venissent Capharnaum accesserunt qui didragma accipiebant ad Petrum et dixerunt magister vester non solvit didragma"
+        },
+        {
+          "number": 24,
+          "text": "ait etiam et cum intrasset domum praevenit eum Iesus dicens quid tibi videtur Simon reges terrae a quibus accipiunt tributum vel censum a filiis suis an ab alienis"
+        },
+        {
+          "number": 25,
+          "text": "et ille dixit ab alienis dixit illi Iesus ergo liberi sunt filii"
+        },
+        {
+          "number": 26,
+          "text": "ut autem non scandalizemus eos vade ad mare et mitte hamum et eum piscem qui primus ascenderit tolle et aperto ore eius invenies staterem illum sumens da eis pro me et te"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "in illa hora accesserunt discipuli ad Iesum dicentes quis putas maior est in regno caelorum"
+        },
+        {
+          "number": 2,
+          "text": "et advocans Iesus parvulum statuit eum in medio eorum"
+        },
+        {
+          "number": 3,
+          "text": "et dixit amen dico vobis nisi conversi fueritis et efficiamini sicut parvuli non intrabitis in regnum caelorum"
+        },
+        {
+          "number": 4,
+          "text": "quicumque ergo humiliaverit se sicut parvulus iste hic est maior in regno caelorum"
+        },
+        {
+          "number": 5,
+          "text": "et qui susceperit unum parvulum talem in nomine meo me suscipit"
+        },
+        {
+          "number": 6,
+          "text": "qui autem scandalizaverit unum de pusillis istis qui in me credunt expedit ei ut suspendatur mola asinaria in collo eius et demergatur in profundum maris"
+        },
+        {
+          "number": 7,
+          "text": "vae mundo ab scandalis necesse est enim ut veniant scandala verumtamen vae homini per quem scandalum venit"
+        },
+        {
+          "number": 8,
+          "text": "si autem manus tua vel pes tuus scandalizat te abscide eum et proice abs te bonum tibi est ad vitam ingredi debilem vel clodum quam duas manus vel duos pedes habentem mitti in ignem aeternum"
+        },
+        {
+          "number": 9,
+          "text": "et si oculus tuus scandalizat te erue eum et proice abs te bonum tibi est unoculum in vitam intrare quam duos oculos habentem mitti in gehennam ignis"
+        },
+        {
+          "number": 10,
+          "text": "videte ne contemnatis unum ex his pusillis dico enim vobis quia angeli eorum in caelis semper vident faciem Patris mei qui in caelis est"
+        },
+        {
+          "number": 11,
+          "text": "venit enim Filius hominis salvare quod perierat"
+        },
+        {
+          "number": 12,
+          "text": "quid vobis videtur si fuerint alicui centum oves et erraverit una ex eis nonne relinquet nonaginta novem in montibus et vadit quaerere eam quae erravit"
+        },
+        {
+          "number": 13,
+          "text": "et si contigerit ut inveniat eam amen dico vobis quia gaudebit super eam magis quam super nonaginta novem quae non erraverunt"
+        },
+        {
+          "number": 14,
+          "text": "sic non est voluntas ante Patrem vestrum qui in caelis est ut pereat unus de pusillis istis"
+        },
+        {
+          "number": 15,
+          "text": "si autem peccaverit in te frater tuus vade et corripe eum inter te et ipsum solum si te audierit lucratus es fratrem tuum"
+        },
+        {
+          "number": 16,
+          "text": "si autem non te audierit adhibe tecum adhuc unum vel duos ut in ore duorum testium vel trium stet omne verbum"
+        },
+        {
+          "number": 17,
+          "text": "quod si non audierit eos dic ecclesiae si autem et ecclesiam non audierit sit tibi sicut ethnicus et publicanus"
+        },
+        {
+          "number": 18,
+          "text": "amen dico vobis quaecumque alligaveritis super terram erunt ligata et in caelo et quaecumque solveritis super terram erunt soluta et in caelo"
+        },
+        {
+          "number": 19,
+          "text": "iterum dico vobis quia si duo ex vobis consenserint super terram de omni re quacumque petierint fiet illis a Patre meo qui in caelis est"
+        },
+        {
+          "number": 20,
+          "text": "ubi enim sunt duo vel tres congregati in nomine meo ibi sum in medio eorum"
+        },
+        {
+          "number": 21,
+          "text": "tunc accedens Petrus ad eum dixit Domine quotiens peccabit in me frater meus et dimittam ei usque septies"
+        },
+        {
+          "number": 22,
+          "text": "dicit illi Iesus non dico tibi usque septies sed usque septuagies septies"
+        },
+        {
+          "number": 23,
+          "text": "ideo adsimilatum est regnum caelorum homini regi qui voluit rationem ponere cum servis suis"
+        },
+        {
+          "number": 24,
+          "text": "et cum coepisset rationem ponere oblatus est ei unus qui debebat decem milia talenta"
+        },
+        {
+          "number": 25,
+          "text": "cum autem non haberet unde redderet iussit eum dominus venundari et uxorem eius et filios et omnia quae habebat et reddi"
+        },
+        {
+          "number": 26,
+          "text": "procidens autem servus ille orabat eum dicens patientiam habe in me et omnia reddam tibi"
+        },
+        {
+          "number": 27,
+          "text": "misertus autem dominus servi illius dimisit eum et debitum dimisit ei"
+        },
+        {
+          "number": 28,
+          "text": "egressus autem servus ille invenit unum de conservis suis qui debebat ei centum denarios et tenens suffocabat eum dicens redde quod debes"
+        },
+        {
+          "number": 29,
+          "text": "et procidens conservus eius rogabat eum dicens patientiam habe in me et omnia reddam tibi"
+        },
+        {
+          "number": 30,
+          "text": "ille autem noluit sed abiit et misit eum in carcerem donec redderet debitum"
+        },
+        {
+          "number": 31,
+          "text": "videntes autem conservi eius quae fiebant contristati sunt valde et venerunt et narraverunt domino suo omnia quae facta erant"
+        },
+        {
+          "number": 32,
+          "text": "tunc vocavit illum dominus suus et ait illi serve nequam omne debitum dimisi tibi quoniam rogasti me"
+        },
+        {
+          "number": 33,
+          "text": "non ergo oportuit et te misereri conservi tui sicut et ego tui misertus sum"
+        },
+        {
+          "number": 34,
+          "text": "et iratus dominus eius tradidit eum tortoribus quoadusque redderet universum debitum"
+        },
+        {
+          "number": 35,
+          "text": "sic et Pater meus caelestis faciet vobis si non remiseritis unusquisque fratri suo de cordibus vestris"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et factum est cum consummasset Iesus sermones istos migravit a Galilaea et venit in fines Iudaeae trans Iordanen"
+        },
+        {
+          "number": 2,
+          "text": "et secutae sunt eum turbae multae et curavit eos ibi"
+        },
+        {
+          "number": 3,
+          "text": "et accesserunt ad eum Pharisaei temptantes eum et dicentes si licet homini dimittere uxorem suam quacumque ex causa"
+        },
+        {
+          "number": 4,
+          "text": "qui respondens ait eis non legistis quia qui fecit ab initio masculum et feminam fecit eos"
+        },
+        {
+          "number": 5,
+          "text": "et dixit propter hoc dimittet homo patrem et matrem et adherebit uxori suae et erunt duo in carne una"
+        },
+        {
+          "number": 6,
+          "text": "itaque iam non sunt duo sed una caro quod ergo Deus coniunxit homo non separet"
+        },
+        {
+          "number": 7,
+          "text": "dicunt illi quid ergo Moses mandavit dari libellum repudii et dimittere"
+        },
+        {
+          "number": 8,
+          "text": "ait illis quoniam Moses ad duritiam cordis vestri permisit vobis dimittere uxores vestras ab initio autem non sic fuit"
+        },
+        {
+          "number": 9,
+          "text": "dico autem vobis quia quicumque dimiserit uxorem suam nisi ob fornicationem et aliam duxerit moechatur et qui dimissam duxerit moechatur"
+        },
+        {
+          "number": 10,
+          "text": "dicunt ei discipuli eius si ita est causa homini cum uxore non expedit nubere"
+        },
+        {
+          "number": 11,
+          "text": "qui dixit non omnes capiunt verbum istud sed quibus datum est"
+        },
+        {
+          "number": 12,
+          "text": "sunt enim eunuchi qui de matris utero sic nati sunt et sunt eunuchi qui facti sunt ab hominibus et sunt eunuchi qui se ipsos castraverunt propter regnum caelorum qui potest capere capiat"
+        },
+        {
+          "number": 13,
+          "text": "tunc oblati sunt ei parvuli ut manus eis inponeret et oraret discipuli autem increpabant eis"
+        },
+        {
+          "number": 14,
+          "text": "Iesus vero ait eis sinite parvulos et nolite eos prohibere ad me venire talium est enim regnum caelorum"
+        },
+        {
+          "number": 15,
+          "text": "et cum inposuisset eis manus abiit inde"
+        },
+        {
+          "number": 16,
+          "text": "et ecce unus accedens ait illi magister bone quid boni faciam ut habeam vitam aeternam"
+        },
+        {
+          "number": 17,
+          "text": "qui dixit ei quid me interrogas de bono unus est bonus Deus si autem vis ad vitam ingredi serva mandata"
+        },
+        {
+          "number": 18,
+          "text": "dicit illi quae Iesus autem dixit non homicidium facies non adulterabis non facies furtum non falsum testimonium dices"
+        },
+        {
+          "number": 19,
+          "text": "honora patrem et matrem et diliges proximum tuum sicut te ipsum"
+        },
+        {
+          "number": 20,
+          "text": "dicit illi adulescens omnia haec custodivi quid adhuc mihi deest"
+        },
+        {
+          "number": 21,
+          "text": "ait illi Iesus si vis perfectus esse vade vende quae habes et da pauperibus et habebis thesaurum in caelo et veni sequere me"
+        },
+        {
+          "number": 22,
+          "text": "cum audisset autem adulescens verbum abiit tristis erat enim habens multas possessiones"
+        },
+        {
+          "number": 23,
+          "text": "Iesus autem dixit discipulis suis amen dico vobis quia dives difficile intrabit in regnum caelorum"
+        },
+        {
+          "number": 24,
+          "text": "et iterum dico vobis facilius est camelum per foramen acus transire quam divitem intrare in regnum caelorum"
+        },
+        {
+          "number": 25,
+          "text": "auditis autem his discipuli mirabantur valde dicentes quis ergo poterit salvus esse"
+        },
+        {
+          "number": 26,
+          "text": "aspiciens autem Iesus dixit illis apud homines hoc inpossibile est apud Deum autem omnia possibilia sunt"
+        },
+        {
+          "number": 27,
+          "text": "tunc respondens Petrus dixit ei ecce nos reliquimus omnia et secuti sumus te quid ergo erit nobis"
+        },
+        {
+          "number": 28,
+          "text": "Iesus autem dixit illis amen dico vobis quod vos qui secuti estis me in regeneratione cum sederit Filius hominis in sede maiestatis suae sedebitis et vos super sedes duodecim iudicantes duodecim tribus Israhel"
+        },
+        {
+          "number": 29,
+          "text": "et omnis qui reliquit domum vel fratres aut sorores aut patrem aut matrem aut uxorem aut filios aut agros propter nomen meum centuplum accipiet et vitam aeternam possidebit"
+        },
+        {
+          "number": 30,
+          "text": "multi autem erunt primi novissimi et novissimi primi"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "simile est enim regnum caelorum homini patri familias qui exiit primo mane conducere operarios in vineam suam"
+        },
+        {
+          "number": 2,
+          "text": "conventione autem facta cum operariis ex denario diurno misit eos in vineam suam"
+        },
+        {
+          "number": 3,
+          "text": "et egressus circa horam tertiam vidit alios stantes in foro otiosos"
+        },
+        {
+          "number": 4,
+          "text": "et illis dixit ite et vos in vineam et quod iustum fuerit dabo vobis"
+        },
+        {
+          "number": 5,
+          "text": "illi autem abierunt iterum autem exiit circa sextam et nonam horam et fecit similiter"
+        },
+        {
+          "number": 6,
+          "text": "circa undecimam vero exiit et invenit alios stantes et dicit illis quid hic statis tota die otiosi"
+        },
+        {
+          "number": 7,
+          "text": "dicunt ei quia nemo nos conduxit dicit illis ite et vos in vineam"
+        },
+        {
+          "number": 8,
+          "text": "cum sero autem factum esset dicit dominus vineae procuratori suo voca operarios et redde illis mercedem incipiens a novissimis usque ad primos"
+        },
+        {
+          "number": 9,
+          "text": "cum venissent ergo qui circa undecimam horam venerant acceperunt singulos denarios"
+        },
+        {
+          "number": 10,
+          "text": "venientes autem et primi arbitrati sunt quod plus essent accepturi acceperunt autem et ipsi singulos denarios"
+        },
+        {
+          "number": 11,
+          "text": "et accipientes murmurabant adversus patrem familias"
+        },
+        {
+          "number": 12,
+          "text": "dicentes hii novissimi una hora fecerunt et pares illos nobis fecisti qui portavimus pondus diei et aestus"
+        },
+        {
+          "number": 13,
+          "text": "at ille respondens uni eorum dixit amice non facio tibi iniuriam nonne ex denario convenisti mecum"
+        },
+        {
+          "number": 14,
+          "text": "tolle quod tuum est et vade volo autem et huic novissimo dare sicut et tibi"
+        },
+        {
+          "number": 15,
+          "text": "aut non licet mihi quod volo facere an oculus tuus nequam est quia ego bonus sum"
+        },
+        {
+          "number": 16,
+          "text": "sic erunt novissimi primi et primi novissimi multi sunt enim vocati pauci autem electi"
+        },
+        {
+          "number": 17,
+          "text": "et ascendens Iesus Hierosolymam adsumpsit duodecim discipulos secreto et ait illis"
+        },
+        {
+          "number": 18,
+          "text": "ecce ascendimus Hierosolymam et Filius hominis tradetur principibus sacerdotum et scribis et condemnabunt eum morte"
+        },
+        {
+          "number": 19,
+          "text": "et tradent eum gentibus ad deludendum et flagellandum et crucifigendum et tertia die resurget"
+        },
+        {
+          "number": 20,
+          "text": "tunc accessit ad eum mater filiorum Zebedaei cum filiis suis adorans et petens aliquid ab eo"
+        },
+        {
+          "number": 21,
+          "text": "qui dixit ei quid vis ait illi dic ut sedeant hii duo filii mei unus ad dexteram tuam et unus ad sinistram in regno tuo"
+        },
+        {
+          "number": 22,
+          "text": "respondens autem Iesus dixit nescitis quid petatis potestis bibere calicem quem ego bibiturus sum dicunt ei possumus"
+        },
+        {
+          "number": 23,
+          "text": "ait illis calicem quidem meum bibetis sedere autem ad dexteram meam et sinistram non est meum dare vobis sed quibus paratum est a Patre meo"
+        },
+        {
+          "number": 24,
+          "text": "et audientes decem indignati sunt de duobus fratribus"
+        },
+        {
+          "number": 25,
+          "text": "Iesus autem vocavit eos ad se et ait scitis quia principes gentium dominantur eorum et qui maiores sunt potestatem exercent in eos"
+        },
+        {
+          "number": 26,
+          "text": "non ita erit inter vos sed quicumque voluerit inter vos maior fieri sit vester minister"
+        },
+        {
+          "number": 27,
+          "text": "et qui voluerit inter vos primus esse erit vester servus"
+        },
+        {
+          "number": 28,
+          "text": "sicut Filius hominis non venit ministrari sed ministrare et dare animam suam redemptionem pro multis"
+        },
+        {
+          "number": 29,
+          "text": "et egredientibus eis ab Hiericho secuta est eum turba multa"
+        },
+        {
+          "number": 30,
+          "text": "et ecce duo caeci sedentes secus viam audierunt quia Iesus transiret et clamaverunt dicentes Domine miserere nostri Fili David"
+        },
+        {
+          "number": 31,
+          "text": "turba autem increpabat eos ut tacerent at illi magis clamabant dicentes Domine miserere nostri Fili David"
+        },
+        {
+          "number": 32,
+          "text": "et stetit Iesus et vocavit eos et ait quid vultis ut faciam vobis"
+        },
+        {
+          "number": 33,
+          "text": "dicunt illi Domine ut aperiantur oculi nostri"
+        },
+        {
+          "number": 34,
+          "text": "misertus autem eorum Iesus tetigit oculos eorum et confestim viderunt et secuti sunt eum"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et cum adpropinquassent Hierosolymis et venissent Bethfage ad montem Oliveti tunc Iesus misit duos discipulos"
+        },
+        {
+          "number": 2,
+          "text": "dicens eis ite in castellum quod contra vos est et statim invenietis asinam alligatam et pullum cum ea solvite et adducite mihi"
+        },
+        {
+          "number": 3,
+          "text": "et si quis vobis aliquid dixerit dicite quia Dominus his opus habet et confestim dimittet eos"
+        },
+        {
+          "number": 4,
+          "text": "hoc autem factum est ut impleretur quod dictum est per prophetam dicentem"
+        },
+        {
+          "number": 5,
+          "text": "dicite filiae Sion ecce rex tuus venit tibi mansuetus et sedens super asinam et pullum filium subiugalis"
+        },
+        {
+          "number": 6,
+          "text": "euntes autem discipuli fecerunt sicut praecepit illis Iesus"
+        },
+        {
+          "number": 7,
+          "text": "et adduxerunt asinam et pullum et inposuerunt super eis vestimenta sua et eum desuper sedere fecerunt"
+        },
+        {
+          "number": 8,
+          "text": "plurima autem turba straverunt vestimenta sua in via alii autem caedebant ramos de arboribus et sternebant in via"
+        },
+        {
+          "number": 9,
+          "text": "turbae autem quae praecedebant et quae sequebantur clamabant dicentes osanna Filio David benedictus qui venturus est in nomine Domini osanna in altissimis"
+        },
+        {
+          "number": 10,
+          "text": "et cum intrasset Hierosolymam commota est universa civitas dicens quis est hic"
+        },
+        {
+          "number": 11,
+          "text": "populi autem dicebant hic est Iesus propheta a Nazareth Galilaeae"
+        },
+        {
+          "number": 12,
+          "text": "et intravit Iesus in templum Dei et eiciebat omnes vendentes et ementes in templo et mensas nummulariorum et cathedras vendentium columbas evertit"
+        },
+        {
+          "number": 13,
+          "text": "et dicit eis scriptum est domus mea domus orationis vocabitur vos autem fecistis eam speluncam latronum"
+        },
+        {
+          "number": 14,
+          "text": "et accesserunt ad eum caeci et claudi in templo et sanavit eos"
+        },
+        {
+          "number": 15,
+          "text": "videntes autem principes sacerdotum et scribae mirabilia quae fecit et pueros clamantes in templo et dicentes osanna Filio David indignati sunt"
+        },
+        {
+          "number": 16,
+          "text": "et dixerunt ei audis quid isti dicant Iesus autem dicit eis utique numquam legistis quia ex ore infantium et lactantium perfecisti laudem"
+        },
+        {
+          "number": 17,
+          "text": "et relictis illis abiit foras extra civitatem in Bethaniam ibique mansit"
+        },
+        {
+          "number": 18,
+          "text": "mane autem revertens in civitatem esuriit"
+        },
+        {
+          "number": 19,
+          "text": "et videns fici arborem unam secus viam venit ad eam et nihil invenit in ea nisi folia tantum et ait illi numquam ex te fructus nascatur in sempiternum et arefacta est continuo ficulnea"
+        },
+        {
+          "number": 20,
+          "text": "et videntes discipuli mirati sunt dicentes quomodo continuo aruit"
+        },
+        {
+          "number": 21,
+          "text": "respondens autem Iesus ait eis amen dico vobis si habueritis fidem et non haesitaveritis non solum de ficulnea facietis sed et si monti huic dixeritis tolle et iacta te in mare fiet"
+        },
+        {
+          "number": 22,
+          "text": "et omnia quaecumque petieritis in oratione credentes accipietis"
+        },
+        {
+          "number": 23,
+          "text": "et cum venisset in templum accesserunt ad eum docentem principes sacerdotum et seniores populi dicentes in qua potestate haec facis et quis tibi dedit hanc potestatem"
+        },
+        {
+          "number": 24,
+          "text": "respondens Iesus dixit illis interrogabo vos et ego unum sermonem quem si dixeritis mihi et ego vobis dicam in qua potestate haec facio"
+        },
+        {
+          "number": 25,
+          "text": "baptismum Iohannis unde erat e caelo an ex hominibus at illi cogitabant inter se dicentes si dixerimus e caelo dicet nobis quare ergo non credidistis illi"
+        },
+        {
+          "number": 26,
+          "text": "si autem dixerimus ex hominibus timemus turbam omnes enim habent Iohannem sicut prophetam"
+        },
+        {
+          "number": 27,
+          "text": "et respondentes Iesu dixerunt nescimus ait illis et ipse nec ego dico vobis in qua potestate haec facio"
+        },
+        {
+          "number": 28,
+          "text": "quid autem vobis videtur homo habebat duos filios et accedens ad primum dixit fili vade hodie operare in vinea mea"
+        },
+        {
+          "number": 29,
+          "text": "ille autem respondens ait nolo postea autem paenitentia motus abiit"
+        },
+        {
+          "number": 30,
+          "text": "accedens autem ad alterum dixit similiter at ille respondens ait eo domine et non ivit"
+        },
+        {
+          "number": 31,
+          "text": "quis ex duobus fecit voluntatem patris dicunt novissimus dicit illis Iesus amen dico vobis quia publicani et meretrices praecedunt vos in regno Dei"
+        },
+        {
+          "number": 32,
+          "text": "venit enim ad vos Iohannes in via iustitiae et non credidistis ei publicani autem et meretrices crediderunt ei vos autem videntes nec paenitentiam habuistis postea ut crederetis ei"
+        },
+        {
+          "number": 33,
+          "text": "aliam parabolam audite homo erat pater familias qui plantavit vineam et sepem circumdedit ei et fodit in ea torcular et aedificavit turrem et locavit eam agricolis et peregre profectus est"
+        },
+        {
+          "number": 34,
+          "text": "cum autem tempus fructuum adpropinquasset misit servos suos ad agricolas ut acciperent fructus eius"
+        },
+        {
+          "number": 35,
+          "text": "et agricolae adprehensis servis eius alium ceciderunt alium occiderunt alium vero lapidaverunt"
+        },
+        {
+          "number": 36,
+          "text": "iterum misit alios servos plures prioribus et fecerunt illis similiter"
+        },
+        {
+          "number": 37,
+          "text": "novissime autem misit ad eos filium suum dicens verebuntur filium meum"
+        },
+        {
+          "number": 38,
+          "text": "agricolae autem videntes filium dixerunt intra se hic est heres venite occidamus eum et habebimus hereditatem eius"
+        },
+        {
+          "number": 39,
+          "text": "et adprehensum eum eiecerunt extra vineam et occiderunt"
+        },
+        {
+          "number": 40,
+          "text": "cum ergo venerit dominus vineae quid faciet agricolis illis"
+        },
+        {
+          "number": 41,
+          "text": "aiunt illi malos male perdet et vineam locabit aliis agricolis qui reddant ei fructum temporibus suis"
+        },
+        {
+          "number": 42,
+          "text": "dicit illis Iesus numquam legistis in scripturis lapidem quem reprobaverunt aedificantes hic factus est in caput anguli a Domino factum est istud et est mirabile in oculis nostris"
+        },
+        {
+          "number": 43,
+          "text": "ideo dico vobis quia auferetur a vobis regnum Dei et dabitur genti facienti fructus eius"
+        },
+        {
+          "number": 44,
+          "text": "et qui ceciderit super lapidem istum confringetur super quem vero ceciderit conteret eum"
+        },
+        {
+          "number": 45,
+          "text": "et cum audissent principes sacerdotum et Pharisaei parabolas eius cognoverunt quod de ipsis diceret"
+        },
+        {
+          "number": 46,
+          "text": "et quaerentes eum tenere timuerunt turbas quoniam sicut prophetam eum habebant"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et respondens Iesus dixit iterum in parabolis eis dicens"
+        },
+        {
+          "number": 2,
+          "text": "simile factum est regnum caelorum homini regi qui fecit nuptias filio suo"
+        },
+        {
+          "number": 3,
+          "text": "et misit servos suos vocare invitatos ad nuptias et nolebant venire"
+        },
+        {
+          "number": 4,
+          "text": "iterum misit alios servos dicens dicite invitatis ecce prandium meum paravi tauri mei et altilia occisa et omnia parata venite ad nuptias"
+        },
+        {
+          "number": 5,
+          "text": "illi autem neglexerunt et abierunt alius in villam suam alius vero ad negotiationem suam"
+        },
+        {
+          "number": 6,
+          "text": "reliqui vero tenuerunt servos eius et contumelia adfectos occiderunt"
+        },
+        {
+          "number": 7,
+          "text": "rex autem cum audisset iratus est et missis exercitibus suis perdidit homicidas illos et civitatem illorum succendit"
+        },
+        {
+          "number": 8,
+          "text": "tunc ait servis suis nuptiae quidem paratae sunt sed qui invitati erant non fuerunt digni"
+        },
+        {
+          "number": 9,
+          "text": "ite ergo ad exitus viarum et quoscumque inveneritis vocate ad nuptias"
+        },
+        {
+          "number": 10,
+          "text": "et egressi servi eius in vias congregaverunt omnes quos invenerunt malos et bonos et impletae sunt nuptiae discumbentium"
+        },
+        {
+          "number": 11,
+          "text": "intravit autem rex ut videret discumbentes et vidit ibi hominem non vestitum veste nuptiali"
+        },
+        {
+          "number": 12,
+          "text": "et ait illi amice quomodo huc intrasti non habens vestem nuptialem at ille obmutuit"
+        },
+        {
+          "number": 13,
+          "text": "tunc dixit rex ministris ligatis pedibus eius et manibus mittite eum in tenebras exteriores ibi erit fletus et stridor dentium"
+        },
+        {
+          "number": 14,
+          "text": "multi autem sunt vocati pauci vero electi"
+        },
+        {
+          "number": 15,
+          "text": "tunc abeuntes Pharisaei consilium inierunt ut caperent eum in sermone"
+        },
+        {
+          "number": 16,
+          "text": "et mittunt ei discipulos suos cum Herodianis dicentes magister scimus quia verax es et viam Dei in veritate doces et non est tibi cura de aliquo non enim respicis personam hominum"
+        },
+        {
+          "number": 17,
+          "text": "dic ergo nobis quid tibi videatur licet censum dare Caesari an non"
+        },
+        {
+          "number": 18,
+          "text": "cognita autem Iesus nequitia eorum ait quid me temptatis hypocritae"
+        },
+        {
+          "number": 19,
+          "text": "ostendite mihi nomisma census at illi obtulerunt ei denarium"
+        },
+        {
+          "number": 20,
+          "text": "et ait illis Iesus cuius est imago haec et suprascriptio"
+        },
+        {
+          "number": 21,
+          "text": "dicunt ei Caesaris tunc ait illis reddite ergo quae sunt Caesaris Caesari et quae sunt Dei Deo"
+        },
+        {
+          "number": 22,
+          "text": "et audientes mirati sunt et relicto eo abierunt"
+        },
+        {
+          "number": 23,
+          "text": "in illo die accesserunt ad eum Sadducaei qui dicunt non esse resurrectionem et interrogaverunt eum"
+        },
+        {
+          "number": 24,
+          "text": "dicentes magister Moses dixit si quis mortuus fuerit non habens filium ut ducat frater eius uxorem illius et suscitet semen fratri suo"
+        },
+        {
+          "number": 25,
+          "text": "erant autem apud nos septem fratres et primus uxore ducta defunctus est et non habens semen reliquit uxorem suam fratri suo"
+        },
+        {
+          "number": 26,
+          "text": "similiter secundus et tertius usque ad septimum"
+        },
+        {
+          "number": 27,
+          "text": "novissime autem omnium et mulier defuncta est"
+        },
+        {
+          "number": 28,
+          "text": "in resurrectione ergo cuius erit de septem uxor omnes enim habuerunt eam"
+        },
+        {
+          "number": 29,
+          "text": "respondens autem Iesus ait illis erratis nescientes scripturas neque virtutem Dei"
+        },
+        {
+          "number": 30,
+          "text": "in resurrectione enim neque nubent neque nubentur sed sunt sicut angeli Dei in caelo"
+        },
+        {
+          "number": 31,
+          "text": "de resurrectione autem mortuorum non legistis quod dictum est a Deo dicente vobis"
+        },
+        {
+          "number": 32,
+          "text": "ego sum Deus Abraham et Deus Isaac et Deus Iacob non est Deus mortuorum sed viventium"
+        },
+        {
+          "number": 33,
+          "text": "et audientes turbae mirabantur in doctrina eius"
+        },
+        {
+          "number": 34,
+          "text": "Pharisaei autem audientes quod silentium inposuisset Sadducaeis convenerunt in unum"
+        },
+        {
+          "number": 35,
+          "text": "et interrogavit eum unus ex eis legis doctor temptans eum"
+        },
+        {
+          "number": 36,
+          "text": "magister quod est mandatum magnum in lege"
+        },
+        {
+          "number": 37,
+          "text": "ait illi Iesus diliges Dominum Deum tuum ex toto corde tuo et in tota anima tua et in tota mente tua"
+        },
+        {
+          "number": 38,
+          "text": "hoc est maximum et primum mandatum"
+        },
+        {
+          "number": 39,
+          "text": "secundum autem simile est huic diliges proximum tuum sicut te ipsum"
+        },
+        {
+          "number": 40,
+          "text": "in his duobus mandatis universa lex pendet et prophetae"
+        },
+        {
+          "number": 41,
+          "text": "congregatis autem Pharisaeis interrogavit eos Iesus"
+        },
+        {
+          "number": 42,
+          "text": "dicens quid vobis videtur de Christo cuius filius est dicunt ei David"
+        },
+        {
+          "number": 43,
+          "text": "ait illis quomodo ergo David in spiritu vocat eum Dominum dicens"
+        },
+        {
+          "number": 44,
+          "text": "dixit Dominus Domino meo sede a dextris meis donec ponam inimicos tuos scabillum pedum tuorum"
+        },
+        {
+          "number": 45,
+          "text": "si ergo David vocat eum Dominum quomodo filius eius est"
+        },
+        {
+          "number": 46,
+          "text": "et nemo poterat respondere ei verbum neque ausus fuit quisquam ex illa die eum amplius interrogare"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "tunc Iesus locutus est ad turbas et discipulos suos"
+        },
+        {
+          "number": 2,
+          "text": "dicens super cathedram Mosi sederunt scribae et Pharisaei"
+        },
+        {
+          "number": 3,
+          "text": "omnia ergo quaecumque dixerint vobis servate et facite secundum opera vero eorum nolite facere dicunt enim et non faciunt"
+        },
+        {
+          "number": 4,
+          "text": "alligant autem onera gravia et inportabilia et inponunt in umeros hominum digito autem suo nolunt ea movere"
+        },
+        {
+          "number": 5,
+          "text": "omnia vero opera sua faciunt ut videantur ab hominibus dilatant enim phylacteria sua et magnificant fimbrias"
+        },
+        {
+          "number": 6,
+          "text": "amant autem primos recubitus in cenis et primas cathedras in synagogis"
+        },
+        {
+          "number": 7,
+          "text": "et salutationes in foro et vocari ab hominibus rabbi"
+        },
+        {
+          "number": 8,
+          "text": "vos autem nolite vocari rabbi unus enim est magister vester omnes autem vos fratres estis"
+        },
+        {
+          "number": 9,
+          "text": "et patrem nolite vocare vobis super terram unus enim est Pater vester qui in caelis est"
+        },
+        {
+          "number": 10,
+          "text": "nec vocemini magistri quia magister vester unus est Christus"
+        },
+        {
+          "number": 11,
+          "text": "qui maior est vestrum erit minister vester"
+        },
+        {
+          "number": 12,
+          "text": "qui autem se exaltaverit humiliabitur et qui se humiliaverit exaltabitur"
+        },
+        {
+          "number": 13,
+          "text": "vae autem vobis scribae et Pharisaei hypocritae quia clauditis regnum caelorum ante homines vos enim non intratis nec introeuntes sinitis intrare"
+        },
+        {
+          "number": 15,
+          "text": "vae vobis scribae et Pharisaei hypocritae quia circuitis mare et aridam ut faciatis unum proselytum et cum fuerit factus facitis eum filium gehennae duplo quam vos"
+        },
+        {
+          "number": 16,
+          "text": "vae vobis duces caeci qui dicitis quicumque iuraverit per templum nihil est qui autem iuraverit in aurum templi debet"
+        },
+        {
+          "number": 17,
+          "text": "stulti et caeci quid enim maius est aurum an templum quod sanctificat aurum"
+        },
+        {
+          "number": 18,
+          "text": "et quicumque iuraverit in altari nihil est quicumque autem iuraverit in dono quod est super illud debet"
+        },
+        {
+          "number": 19,
+          "text": "caeci quid enim maius est donum an altare quod sanctificat donum"
+        },
+        {
+          "number": 20,
+          "text": "qui ergo iurat in altare iurat in eo et in omnibus quae super illud sunt"
+        },
+        {
+          "number": 21,
+          "text": "et qui iuraverit in templo iurat in illo et in eo qui inhabitat in ipso"
+        },
+        {
+          "number": 22,
+          "text": "et qui iurat in caelo iurat in throno Dei et in eo qui sedet super eum"
+        },
+        {
+          "number": 23,
+          "text": "vae vobis scribae et Pharisaei hypocritae quia decimatis mentam et anethum et cyminum et reliquistis quae graviora sunt legis iudicium et misericordiam et fidem haec oportuit facere et illa non omittere"
+        },
+        {
+          "number": 24,
+          "text": "duces caeci excolantes culicem camelum autem gluttientes"
+        },
+        {
+          "number": 25,
+          "text": "vae vobis scribae et Pharisaei hypocritae quia mundatis quod de foris est calicis et parapsidis intus autem pleni sunt rapina et inmunditia"
+        },
+        {
+          "number": 26,
+          "text": "Pharisaee caece munda prius quod intus est calicis et parapsidis ut fiat et id quod de foris est mundum"
+        },
+        {
+          "number": 27,
+          "text": "vae vobis scribae et Pharisaei hypocritae quia similes estis sepulchris dealbatis quae a foris parent hominibus speciosa intus vero plena sunt ossibus mortuorum et omni spurcitia"
+        },
+        {
+          "number": 28,
+          "text": "sic et vos a foris quidem paretis hominibus iusti intus autem pleni estis hypocrisi et iniquitate"
+        },
+        {
+          "number": 29,
+          "text": "vae vobis scribae et Pharisaei hypocritae quia aedificatis sepulchra prophetarum et ornatis monumenta iustorum"
+        },
+        {
+          "number": 30,
+          "text": "et dicitis si fuissemus in diebus patrum nostrorum non essemus socii eorum in sanguine prophetarum"
+        },
+        {
+          "number": 31,
+          "text": "itaque testimonio estis vobismet ipsis quia filii estis eorum qui prophetas occiderunt"
+        },
+        {
+          "number": 32,
+          "text": "et vos implete mensuram patrum vestrorum"
+        },
+        {
+          "number": 33,
+          "text": "serpentes genimina viperarum quomodo fugietis a iudicio gehennae"
+        },
+        {
+          "number": 34,
+          "text": "ideo ecce ego mitto ad vos prophetas et sapientes et scribas ex illis occidetis et crucifigetis et ex eis flagellabitis in synagogis vestris et persequemini de civitate in civitatem"
+        },
+        {
+          "number": 35,
+          "text": "ut veniat super vos omnis sanguis iustus qui effusus est super terram a sanguine Abel iusti usque ad sanguinem Zacchariae filii Barachiae quem occidistis inter templum et altare"
+        },
+        {
+          "number": 36,
+          "text": "amen dico vobis venient haec omnia super generationem istam"
+        },
+        {
+          "number": 37,
+          "text": "Hierusalem Hierusalem quae occidis prophetas et lapidas eos qui ad te missi sunt quotiens volui congregare filios tuos quemadmodum gallina congregat pullos suos sub alas et noluisti"
+        },
+        {
+          "number": 38,
+          "text": "ecce relinquitur vobis domus vestra deserta"
+        },
+        {
+          "number": 39,
+          "text": "dico enim vobis non me videbitis amodo donec dicatis benedictus qui venit in nomine Domini"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et egressus Iesus de templo ibat et accesserunt discipuli eius ut ostenderent ei aedificationes templi"
+        },
+        {
+          "number": 2,
+          "text": "ipse autem respondens dixit eis videtis haec omnia amen dico vobis non relinquetur hic lapis super lapidem qui non destruatur"
+        },
+        {
+          "number": 3,
+          "text": "sedente autem eo super montem Oliveti accesserunt ad eum discipuli secreto dicentes dic nobis quando haec erunt et quod signum adventus tui et consummationis saeculi"
+        },
+        {
+          "number": 4,
+          "text": "et respondens Iesus dixit eis videte ne quis vos seducat"
+        },
+        {
+          "number": 5,
+          "text": "multi enim venient in nomine meo dicentes ego sum Christus et multos seducent"
+        },
+        {
+          "number": 6,
+          "text": "audituri autem estis proelia et opiniones proeliorum videte ne turbemini oportet enim haec fieri sed nondum est finis"
+        },
+        {
+          "number": 7,
+          "text": "consurget enim gens in gentem et regnum in regnum et erunt pestilentiae et fames et terraemotus per loca"
+        },
+        {
+          "number": 8,
+          "text": "haec autem omnia initia sunt dolorum"
+        },
+        {
+          "number": 9,
+          "text": "tunc tradent vos in tribulationem et occident vos et eritis odio omnibus gentibus propter nomen meum"
+        },
+        {
+          "number": 10,
+          "text": "et tunc scandalizabuntur multi et invicem tradent et odio habebunt invicem"
+        },
+        {
+          "number": 11,
+          "text": "et multi pseudoprophetae surgent et seducent multos"
+        },
+        {
+          "number": 12,
+          "text": "et quoniam abundabit iniquitas refrigescet caritas multorum"
+        },
+        {
+          "number": 13,
+          "text": "qui autem permanserit usque in finem hic salvus erit"
+        },
+        {
+          "number": 14,
+          "text": "et praedicabitur hoc evangelium regni in universo orbe in testimonium omnibus gentibus et tunc veniet consummatio"
+        },
+        {
+          "number": 15,
+          "text": "cum ergo videritis abominationem desolationis quae dicta est a Danihelo propheta stantem in loco sancto qui legit intellegat"
+        },
+        {
+          "number": 16,
+          "text": "tunc qui in Iudaea sunt fugiant ad montes"
+        },
+        {
+          "number": 17,
+          "text": "et qui in tecto non descendat tollere aliquid de domo sua"
+        },
+        {
+          "number": 18,
+          "text": "et qui in agro non revertatur tollere tunicam suam"
+        },
+        {
+          "number": 19,
+          "text": "vae autem praegnatibus et nutrientibus in illis diebus"
+        },
+        {
+          "number": 20,
+          "text": "orate autem ut non fiat fuga vestra hieme vel sabbato"
+        },
+        {
+          "number": 21,
+          "text": "erit enim tunc tribulatio magna qualis non fuit ab initio mundi usque modo neque fiet"
+        },
+        {
+          "number": 22,
+          "text": "et nisi breviati fuissent dies illi non fieret salva omnis caro sed propter electos breviabuntur dies illi"
+        },
+        {
+          "number": 23,
+          "text": "tunc si quis vobis dixerit ecce hic Christus aut illic nolite credere"
+        },
+        {
+          "number": 24,
+          "text": "surgent enim pseudochristi et pseudoprophetae et dabunt signa magna et prodigia ita ut in errorem inducantur si fieri potest etiam electi"
+        },
+        {
+          "number": 25,
+          "text": "ecce praedixi vobis"
+        },
+        {
+          "number": 26,
+          "text": "si ergo dixerint vobis ecce in deserto est nolite exire ecce in penetrabilibus nolite credere"
+        },
+        {
+          "number": 27,
+          "text": "sicut enim fulgur exit ab oriente et paret usque in occidente ita erit et adventus Filii hominis"
+        },
+        {
+          "number": 28,
+          "text": "ubicumque fuerit corpus illuc congregabuntur aquilae"
+        },
+        {
+          "number": 29,
+          "text": "statim autem post tribulationem dierum illorum sol obscurabitur et luna non dabit lumen suum et stellae cadent de caelo et virtutes caelorum commovebuntur"
+        },
+        {
+          "number": 30,
+          "text": "et tunc parebit signum Filii hominis in caelo et tunc plangent omnes tribus terrae et videbunt Filium hominis venientem in nubibus caeli cum virtute multa et maiestate"
+        },
+        {
+          "number": 31,
+          "text": "et mittet angelos suos cum tuba et voce magna et congregabunt electos eius a quattuor ventis a summis caelorum usque ad terminos eorum"
+        },
+        {
+          "number": 32,
+          "text": "ab arbore autem fici discite parabolam cum iam ramus eius tener fuerit et folia nata scitis quia prope est aestas"
+        },
+        {
+          "number": 33,
+          "text": "ita et vos cum videritis haec omnia scitote quia prope est in ianuis"
+        },
+        {
+          "number": 34,
+          "text": "amen dico vobis quia non praeteribit haec generatio donec omnia haec fiant"
+        },
+        {
+          "number": 35,
+          "text": "caelum et terra transibunt verba vero mea non praeteribunt"
+        },
+        {
+          "number": 36,
+          "text": "de die autem illa et hora nemo scit neque angeli caelorum nisi Pater solus"
+        },
+        {
+          "number": 37,
+          "text": "sicut autem in diebus Noe ita erit et adventus Filii hominis"
+        },
+        {
+          "number": 38,
+          "text": "sicut enim erant in diebus ante diluvium comedentes et bibentes nubentes et nuptum tradentes usque ad eum diem quo introivit in arcam Noe"
+        },
+        {
+          "number": 39,
+          "text": "et non cognoverunt donec venit diluvium et tulit omnes ita erit et adventus Filii hominis"
+        },
+        {
+          "number": 40,
+          "text": "tunc duo erunt in agro unus adsumetur et unus relinquetur"
+        },
+        {
+          "number": 41,
+          "text": "duae molentes in mola una adsumetur et una relinquetur"
+        },
+        {
+          "number": 42,
+          "text": "vigilate ergo quia nescitis qua hora Dominus vester venturus sit"
+        },
+        {
+          "number": 43,
+          "text": "illud autem scitote quoniam si sciret pater familias qua hora fur venturus esset vigilaret utique et non sineret perfodiri domum suam"
+        },
+        {
+          "number": 44,
+          "text": "ideoque et vos estote parati quia qua nescitis hora Filius hominis venturus est"
+        },
+        {
+          "number": 45,
+          "text": "quis putas est fidelis servus et prudens quem constituit dominus suus supra familiam suam ut det illis cibum in tempore"
+        },
+        {
+          "number": 46,
+          "text": "beatus ille servus quem cum venerit dominus eius invenerit sic facientem"
+        },
+        {
+          "number": 47,
+          "text": "amen dico vobis quoniam super omnia bona sua constituet eum"
+        },
+        {
+          "number": 48,
+          "text": "si autem dixerit malus servus ille in corde suo moram facit dominus meus venire"
+        },
+        {
+          "number": 49,
+          "text": "et coeperit percutere conservos suos manducet autem et bibat cum ebriis"
+        },
+        {
+          "number": 50,
+          "text": "veniet dominus servi illius in die qua non sperat et hora qua ignorat"
+        },
+        {
+          "number": 51,
+          "text": "et dividet eum partemque eius ponet cum hypocritis illic erit fletus et stridor dentium"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "tunc simile erit regnum caelorum decem virginibus quae accipientes lampadas suas exierunt obviam sponso et sponsae"
+        },
+        {
+          "number": 2,
+          "text": "quinque autem ex eis erant fatuae et quinque prudentes"
+        },
+        {
+          "number": 3,
+          "text": "sed quinque fatuae acceptis lampadibus non sumpserunt oleum secum"
+        },
+        {
+          "number": 4,
+          "text": "prudentes vero acceperunt oleum in vasis suis cum lampadibus"
+        },
+        {
+          "number": 5,
+          "text": "moram autem faciente sponso dormitaverunt omnes et dormierunt"
+        },
+        {
+          "number": 6,
+          "text": "media autem nocte clamor factus est ecce sponsus venit exite obviam ei"
+        },
+        {
+          "number": 7,
+          "text": "tunc surrexerunt omnes virgines illae et ornaverunt lampades suas"
+        },
+        {
+          "number": 8,
+          "text": "fatuae autem sapientibus dixerunt date nobis de oleo vestro quia lampades nostrae extinguntur"
+        },
+        {
+          "number": 9,
+          "text": "responderunt prudentes dicentes ne forte non sufficiat nobis et vobis ite potius ad vendentes et emite vobis"
+        },
+        {
+          "number": 10,
+          "text": "dum autem irent emere venit sponsus et quae paratae erant intraverunt cum eo ad nuptias et clausa est ianua"
+        },
+        {
+          "number": 11,
+          "text": "novissime veniunt et reliquae virgines dicentes domine domine aperi nobis"
+        },
+        {
+          "number": 12,
+          "text": "at ille respondens ait amen dico vobis nescio vos"
+        },
+        {
+          "number": 13,
+          "text": "vigilate itaque quia nescitis diem neque horam"
+        },
+        {
+          "number": 14,
+          "text": "sicut enim homo proficiscens vocavit servos suos et tradidit illis bona sua"
+        },
+        {
+          "number": 15,
+          "text": "et uni dedit quinque talenta alii autem duo alii vero unum unicuique secundum propriam virtutem et profectus est statim"
+        },
+        {
+          "number": 16,
+          "text": "abiit autem qui quinque talenta acceperat et operatus est in eis et lucratus est alia quinque"
+        },
+        {
+          "number": 17,
+          "text": "similiter qui duo acceperat lucratus est alia duo"
+        },
+        {
+          "number": 18,
+          "text": "qui autem unum acceperat abiens fodit in terra et abscondit pecuniam domini sui"
+        },
+        {
+          "number": 19,
+          "text": "post multum vero temporis venit dominus servorum illorum et posuit rationem cum eis"
+        },
+        {
+          "number": 20,
+          "text": "et accedens qui quinque talenta acceperat obtulit alia quinque talenta dicens domine quinque talenta mihi tradidisti ecce alia quinque superlucratus sum"
+        },
+        {
+          "number": 21,
+          "text": "ait illi dominus eius euge bone serve et fidelis quia super pauca fuisti fidelis super multa te constituam intra in gaudium domini tui"
+        },
+        {
+          "number": 22,
+          "text": "accessit autem et qui duo talenta acceperat et ait domine duo talenta tradidisti mihi ecce alia duo lucratus sum"
+        },
+        {
+          "number": 23,
+          "text": "ait illi dominus eius euge serve bone et fidelis quia super pauca fuisti fidelis supra multa te constituam intra in gaudium domini tui"
+        },
+        {
+          "number": 24,
+          "text": "accedens autem et qui unum talentum acceperat ait domine scio quia homo durus es metis ubi non seminasti et congregas ubi non sparsisti"
+        },
+        {
+          "number": 25,
+          "text": "et timens abii et abscondi talentum tuum in terra ecce habes quod tuum est"
+        },
+        {
+          "number": 26,
+          "text": "respondens autem dominus eius dixit ei serve male et piger sciebas quia meto ubi non semino et congrego ubi non sparsi"
+        },
+        {
+          "number": 27,
+          "text": "oportuit ergo te mittere pecuniam meam nummulariis et veniens ego recepissem utique quod meum est cum usura"
+        },
+        {
+          "number": 28,
+          "text": "tollite itaque ab eo talentum et date ei qui habet decem talenta"
+        },
+        {
+          "number": 29,
+          "text": "omni enim habenti dabitur et abundabit ei autem qui non habet et quod videtur habere auferetur ab eo"
+        },
+        {
+          "number": 30,
+          "text": "et inutilem servum eicite in tenebras exteriores illic erit fletus et stridor dentium"
+        },
+        {
+          "number": 31,
+          "text": "cum autem venerit Filius hominis in maiestate sua et omnes angeli cum eo tunc sedebit super sedem maiestatis suae"
+        },
+        {
+          "number": 32,
+          "text": "et congregabuntur ante eum omnes gentes et separabit eos ab invicem sicut pastor segregat oves ab hedis"
+        },
+        {
+          "number": 33,
+          "text": "et statuet oves quidem a dextris suis hedos autem a sinistris"
+        },
+        {
+          "number": 34,
+          "text": "tunc dicet rex his qui a dextris eius erunt venite benedicti Patris mei possidete paratum vobis regnum a constitutione mundi"
+        },
+        {
+          "number": 35,
+          "text": "esurivi enim et dedistis mihi manducare sitivi et dedistis mihi bibere hospes eram et collexistis me"
+        },
+        {
+          "number": 36,
+          "text": "nudus et operuistis me infirmus et visitastis me in carcere eram et venistis ad me"
+        },
+        {
+          "number": 37,
+          "text": "tunc respondebunt ei iusti dicentes Domine quando te vidimus esurientem et pavimus sitientem et dedimus tibi potum"
+        },
+        {
+          "number": 38,
+          "text": "quando autem te vidimus hospitem et colleximus te aut nudum et cooperuimus"
+        },
+        {
+          "number": 39,
+          "text": "aut quando te vidimus infirmum aut in carcere et venimus ad te"
+        },
+        {
+          "number": 40,
+          "text": "et respondens rex dicet illis amen dico vobis quamdiu fecistis uni de his fratribus meis minimis mihi fecistis"
+        },
+        {
+          "number": 41,
+          "text": "tunc dicet et his qui a sinistris erunt discedite a me maledicti in ignem aeternum qui paratus est diabolo et angelis eius"
+        },
+        {
+          "number": 42,
+          "text": "esurivi enim et non dedistis mihi manducare sitivi et non dedistis mihi potum"
+        },
+        {
+          "number": 43,
+          "text": "hospes eram et non collexistis me nudus et non operuistis me infirmus et in carcere et non visitastis me"
+        },
+        {
+          "number": 44,
+          "text": "tunc respondebunt et ipsi dicentes Domine quando te vidimus esurientem aut sitientem aut hospitem aut nudum aut infirmum vel in carcere et non ministravimus tibi"
+        },
+        {
+          "number": 45,
+          "text": "tunc respondebit illis dicens amen dico vobis quamdiu non fecistis uni de minoribus his nec mihi fecistis"
+        },
+        {
+          "number": 46,
+          "text": "et ibunt hii in supplicium aeternum iusti autem in vitam aeternam"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "et factum est cum consummasset Iesus sermones hos omnes dixit discipulis suis"
+        },
+        {
+          "number": 2,
+          "text": "scitis quia post biduum pascha fiet et Filius hominis tradetur ut crucifigatur"
+        },
+        {
+          "number": 3,
+          "text": "tunc congregati sunt principes sacerdotum et seniores populi in atrium principis sacerdotum qui dicebatur Caiaphas"
+        },
+        {
+          "number": 4,
+          "text": "et consilium fecerunt ut Iesum dolo tenerent et occiderent"
+        },
+        {
+          "number": 5,
+          "text": "dicebant autem non in die festo ne forte tumultus fieret in populo"
+        },
+        {
+          "number": 6,
+          "text": "cum autem esset Iesus in Bethania in domo Simonis leprosi"
+        },
+        {
+          "number": 7,
+          "text": "accessit ad eum mulier habens alabastrum unguenti pretiosi et effudit super caput ipsius recumbentis"
+        },
+        {
+          "number": 8,
+          "text": "videntes autem discipuli indignati sunt dicentes ut quid perditio haec"
+        },
+        {
+          "number": 9,
+          "text": "potuit enim istud venundari multo et dari pauperibus"
+        },
+        {
+          "number": 10,
+          "text": "sciens autem Iesus ait illis quid molesti estis mulieri opus bonum operata est in me"
+        },
+        {
+          "number": 11,
+          "text": "nam semper pauperes habetis vobiscum me autem non semper habetis"
+        },
+        {
+          "number": 12,
+          "text": "mittens enim haec unguentum hoc in corpus meum ad sepeliendum me fecit"
+        },
+        {
+          "number": 13,
+          "text": "amen dico vobis ubicumque praedicatum fuerit hoc evangelium in toto mundo dicetur et quod haec fecit in memoriam eius"
+        },
+        {
+          "number": 14,
+          "text": "tunc abiit unus de duodecim qui dicitur Iudas Scarioth ad principes sacerdotum"
+        },
+        {
+          "number": 15,
+          "text": "et ait illis quid vultis mihi dare et ego vobis eum tradam at illi constituerunt ei triginta argenteos"
+        },
+        {
+          "number": 16,
+          "text": "et exinde quaerebat oportunitatem ut eum traderet"
+        },
+        {
+          "number": 17,
+          "text": "prima autem azymorum accesserunt discipuli ad Iesum dicentes ubi vis paremus tibi comedere pascha"
+        },
+        {
+          "number": 18,
+          "text": "at Iesus dixit ite in civitatem ad quendam et dicite ei magister dicit tempus meum prope est apud te facio pascha cum discipulis meis"
+        },
+        {
+          "number": 19,
+          "text": "et fecerunt discipuli sicut constituit illis Iesus et paraverunt pascha"
+        },
+        {
+          "number": 20,
+          "text": "vespere autem facto discumbebat cum duodecim discipulis"
+        },
+        {
+          "number": 21,
+          "text": "et edentibus illis dixit amen dico vobis quia unus vestrum me traditurus est"
+        },
+        {
+          "number": 22,
+          "text": "et contristati valde coeperunt singuli dicere numquid ego sum Domine"
+        },
+        {
+          "number": 23,
+          "text": "at ipse respondens ait qui intinguit mecum manum in parapside hic me tradet"
+        },
+        {
+          "number": 24,
+          "text": "Filius quidem hominis vadit sicut scriptum est de illo vae autem homini illi per quem Filius hominis traditur bonum erat ei si natus non fuisset homo ille"
+        },
+        {
+          "number": 25,
+          "text": "respondens autem Iudas qui tradidit eum dixit numquid ego sum rabbi ait illi tu dixisti"
+        },
+        {
+          "number": 26,
+          "text": "cenantibus autem eis accepit Iesus panem et benedixit ac fregit deditque discipulis suis et ait accipite et comedite hoc est corpus meum"
+        },
+        {
+          "number": 27,
+          "text": "et accipiens calicem gratias egit et dedit illis dicens bibite ex hoc omnes"
+        },
+        {
+          "number": 28,
+          "text": "hic est enim sanguis meus novi testamenti qui pro multis effunditur in remissionem peccatorum"
+        },
+        {
+          "number": 29,
+          "text": "dico autem vobis non bibam amodo de hoc genimine vitis usque in diem illum cum illud bibam vobiscum novum in regno Patris mei"
+        },
+        {
+          "number": 30,
+          "text": "et hymno dicto exierunt in montem Oliveti"
+        },
+        {
+          "number": 31,
+          "text": "tunc dicit illis Iesus omnes vos scandalum patiemini in me in ista nocte scriptum est enim percutiam pastorem et dispergentur oves gregis"
+        },
+        {
+          "number": 32,
+          "text": "postquam autem resurrexero praecedam vos in Galilaeam"
+        },
+        {
+          "number": 33,
+          "text": "respondens autem Petrus ait illi et si omnes scandalizati fuerint in te ego numquam scandalizabor"
+        },
+        {
+          "number": 34,
+          "text": "ait illi Iesus amen dico tibi quia in hac nocte antequam gallus cantet ter me negabis"
+        },
+        {
+          "number": 35,
+          "text": "ait illi Petrus etiam si oportuerit me mori tecum non te negabo similiter et omnes discipuli dixerunt"
+        },
+        {
+          "number": 36,
+          "text": "tunc venit Iesus cum illis in villam quae dicitur Gethsemani et dixit discipulis suis sedete hic donec vadam illuc et orem"
+        },
+        {
+          "number": 37,
+          "text": "et adsumpto Petro et duobus filiis Zebedaei coepit contristari et maestus esse"
+        },
+        {
+          "number": 38,
+          "text": "tunc ait illis tristis est anima mea usque ad mortem sustinete hic et vigilate mecum"
+        },
+        {
+          "number": 39,
+          "text": "et progressus pusillum procidit in faciem suam orans et dicens mi Pater si possibile est transeat a me calix iste verumtamen non sicut ego volo sed sicut tu"
+        },
+        {
+          "number": 40,
+          "text": "et venit ad discipulos et invenit eos dormientes et dicit Petro sic non potuistis una hora vigilare mecum"
+        },
+        {
+          "number": 41,
+          "text": "vigilate et orate ut non intretis in temptationem spiritus quidem promptus est caro autem infirma"
+        },
+        {
+          "number": 42,
+          "text": "iterum secundo abiit et oravit dicens Pater mi si non potest hic calix transire nisi bibam illum fiat voluntas tua"
+        },
+        {
+          "number": 43,
+          "text": "et venit iterum et invenit eos dormientes erant enim oculi eorum gravati"
+        },
+        {
+          "number": 44,
+          "text": "et relictis illis iterum abiit et oravit tertio eundem sermonem dicens"
+        },
+        {
+          "number": 45,
+          "text": "tunc venit ad discipulos suos et dicit illis dormite iam et requiescite ecce adpropinquavit hora et Filius hominis traditur in manus peccatorum"
+        },
+        {
+          "number": 46,
+          "text": "surgite eamus ecce adpropinquavit qui me tradit"
+        },
+        {
+          "number": 47,
+          "text": "adhuc ipso loquente ecce Iudas unus de duodecim venit et cum eo turba multa cum gladiis et fustibus a principibus sacerdotum et senioribus populi"
+        },
+        {
+          "number": 48,
+          "text": "qui autem tradidit eum dedit illis signum dicens quemcumque osculatus fuero ipse est tenete eum"
+        },
+        {
+          "number": 49,
+          "text": "et confestim accedens ad Iesum dixit have rabbi et osculatus est eum"
+        },
+        {
+          "number": 50,
+          "text": "dixitque illi Iesus amice ad quod venisti tunc accesserunt et manus iniecerunt in Iesum et tenuerunt eum"
+        },
+        {
+          "number": 51,
+          "text": "et ecce unus ex his qui erant cum Iesu extendens manum exemit gladium suum et percutiens servum principis sacerdotum amputavit auriculam eius"
+        },
+        {
+          "number": 52,
+          "text": "tunc ait illi Iesus converte gladium tuum in locum suum omnes enim qui acceperint gladium gladio peribunt"
+        },
+        {
+          "number": 53,
+          "text": "an putas quia non possum rogare Patrem meum et exhibebit mihi modo plus quam duodecim legiones angelorum"
+        },
+        {
+          "number": 54,
+          "text": "quomodo ergo implebuntur scripturae quia sic oportet fieri"
+        },
+        {
+          "number": 55,
+          "text": "in illa hora dixit Iesus turbis tamquam ad latronem existis cum gladiis et fustibus conprehendere me cotidie apud vos sedebam docens in templo et non me tenuistis"
+        },
+        {
+          "number": 56,
+          "text": "hoc autem totum factum est ut implerentur scripturae prophetarum tunc discipuli omnes relicto eo fugerunt"
+        },
+        {
+          "number": 57,
+          "text": "at illi tenentes Iesum duxerunt ad Caiaphan principem sacerdotum ubi scribae et seniores convenerant"
+        },
+        {
+          "number": 58,
+          "text": "Petrus autem sequebatur eum a longe usque in atrium principis sacerdotum et ingressus intro sedebat cum ministris ut videret finem"
+        },
+        {
+          "number": 59,
+          "text": "principes autem sacerdotum et omne concilium quaerebant falsum testimonium contra Iesum ut eum morti traderent"
+        },
+        {
+          "number": 60,
+          "text": "et non invenerunt cum multi falsi testes accessissent novissime autem venerunt duo falsi testes"
+        },
+        {
+          "number": 61,
+          "text": "et dixerunt hic dixit possum destruere templum Dei et post triduum aedificare illud"
+        },
+        {
+          "number": 62,
+          "text": "et surgens princeps sacerdotum ait illi nihil respondes ad ea quae isti adversum te testificantur"
+        },
+        {
+          "number": 63,
+          "text": "Iesus autem tacebat et princeps sacerdotum ait illi adiuro te per Deum vivum ut dicas nobis si tu es Christus Filius Dei"
+        },
+        {
+          "number": 64,
+          "text": "dicit illi Iesus tu dixisti verumtamen dico vobis amodo videbitis Filium hominis sedentem a dextris virtutis et venientem in nubibus caeli"
+        },
+        {
+          "number": 65,
+          "text": "tunc princeps sacerdotum scidit vestimenta sua dicens blasphemavit quid adhuc egemus testibus ecce nunc audistis blasphemiam"
+        },
+        {
+          "number": 66,
+          "text": "quid vobis videtur at illi respondentes dixerunt reus est mortis"
+        },
+        {
+          "number": 67,
+          "text": "tunc expuerunt in faciem eius et colaphis eum ceciderunt alii autem palmas in faciem ei dederunt"
+        },
+        {
+          "number": 68,
+          "text": "dicentes prophetiza nobis Christe quis est qui te percussit"
+        },
+        {
+          "number": 69,
+          "text": "Petrus vero sedebat foris in atrio et accessit ad eum una ancilla dicens et tu cum Iesu Galilaeo eras"
+        },
+        {
+          "number": 70,
+          "text": "at ille negavit coram omnibus dicens nescio quid dicis"
+        },
+        {
+          "number": 71,
+          "text": "exeunte autem illo ianuam vidit eum alia et ait his qui erant ibi et hic erat cum Iesu Nazareno"
+        },
+        {
+          "number": 72,
+          "text": "et iterum negavit cum iuramento quia non novi hominem"
+        },
+        {
+          "number": 73,
+          "text": "et post pusillum accesserunt qui stabant et dixerunt Petro vere et tu ex illis es nam et loquella tua manifestum te facit"
+        },
+        {
+          "number": 74,
+          "text": "tunc coepit detestari et iurare quia non novisset hominem et continuo gallus cantavit"
+        },
+        {
+          "number": 75,
+          "text": "et recordatus est Petrus verbi Iesu quod dixerat priusquam gallus cantet ter me negabis et egressus foras ploravit amare"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "mane autem facto consilium inierunt omnes principes sacerdotum et seniores populi adversus Iesum ut eum morti traderent"
+        },
+        {
+          "number": 2,
+          "text": "et vinctum adduxerunt eum et tradiderunt Pontio Pilato praesidi"
+        },
+        {
+          "number": 3,
+          "text": "tunc videns Iudas qui eum tradidit quod damnatus esset paenitentia ductus rettulit triginta argenteos principibus sacerdotum et senioribus"
+        },
+        {
+          "number": 4,
+          "text": "dicens peccavi tradens sanguinem iustum at illi dixerunt quid ad nos tu videris"
+        },
+        {
+          "number": 5,
+          "text": "et proiectis argenteis in templo recessit et abiens laqueo se suspendit"
+        },
+        {
+          "number": 6,
+          "text": "principes autem sacerdotum acceptis argenteis dixerunt non licet mittere eos in corbanan quia pretium sanguinis est"
+        },
+        {
+          "number": 7,
+          "text": "consilio autem inito emerunt ex illis agrum figuli in sepulturam peregrinorum"
+        },
+        {
+          "number": 8,
+          "text": "propter hoc vocatus est ager ille Acheldemach ager sanguinis usque in hodiernum diem"
+        },
+        {
+          "number": 9,
+          "text": "tunc impletum est quod dictum est per Hieremiam prophetam dicentem et acceperunt triginta argenteos pretium adpretiati quem adpretiaverunt a filiis Israhel"
+        },
+        {
+          "number": 10,
+          "text": "et dederunt eos in agrum figuli sicut constituit mihi Dominus"
+        },
+        {
+          "number": 11,
+          "text": "Iesus autem stetit ante praesidem et interrogavit eum praeses dicens tu es rex Iudaeorum dicit ei Iesus tu dicis"
+        },
+        {
+          "number": 12,
+          "text": "et cum accusaretur a principibus sacerdotum et senioribus nihil respondit"
+        },
+        {
+          "number": 13,
+          "text": "tunc dicit illi Pilatus non audis quanta adversum te dicant testimonia"
+        },
+        {
+          "number": 14,
+          "text": "et non respondit ei ad ullum verbum ita ut miraretur praeses vehementer"
+        },
+        {
+          "number": 15,
+          "text": "per diem autem sollemnem consueverat praeses dimittere populo unum vinctum quem voluissent"
+        },
+        {
+          "number": 16,
+          "text": "habebat autem tunc vinctum insignem qui dicebatur Barabbas"
+        },
+        {
+          "number": 17,
+          "text": "congregatis ergo illis dixit Pilatus quem vultis dimittam vobis Barabban an Iesum qui dicitur Christus"
+        },
+        {
+          "number": 18,
+          "text": "sciebat enim quod per invidiam tradidissent eum"
+        },
+        {
+          "number": 19,
+          "text": "sedente autem illo pro tribunali misit ad illum uxor eius dicens nihil tibi et iusto illi multa enim passa sum hodie per visum propter eum"
+        },
+        {
+          "number": 20,
+          "text": "princeps autem sacerdotum et seniores persuaserunt populis ut peterent Barabban Iesum vero perderent"
+        },
+        {
+          "number": 21,
+          "text": "respondens autem praeses ait illis quem vultis vobis de duobus dimitti at illi dixerunt Barabban"
+        },
+        {
+          "number": 22,
+          "text": "dicit illis Pilatus quid igitur faciam de Iesu qui dicitur Christus"
+        },
+        {
+          "number": 23,
+          "text": "dicunt omnes crucifigatur ait illis praeses quid enim mali fecit at illi magis clamabant dicentes crucifigatur"
+        },
+        {
+          "number": 24,
+          "text": "videns autem Pilatus quia nihil proficeret sed magis tumultus fieret accepta aqua lavit manus coram populo dicens innocens ego sum a sanguine iusti huius vos videritis"
+        },
+        {
+          "number": 25,
+          "text": "et respondens universus populus dixit sanguis eius super nos et super filios nostros"
+        },
+        {
+          "number": 26,
+          "text": "tunc dimisit illis Barabban Iesum autem flagellatum tradidit eis ut crucifigeretur"
+        },
+        {
+          "number": 27,
+          "text": "tunc milites praesidis suscipientes Iesum in praetorio congregaverunt ad eum universam cohortem"
+        },
+        {
+          "number": 28,
+          "text": "et exuentes eum clamydem coccineam circumdederunt ei"
+        },
+        {
+          "number": 29,
+          "text": "et plectentes coronam de spinis posuerunt super caput eius et harundinem in dextera eius et genu flexo ante eum inludebant dicentes have rex Iudaeorum"
+        },
+        {
+          "number": 30,
+          "text": "et expuentes in eum acceperunt harundinem et percutiebant caput eius"
+        },
+        {
+          "number": 31,
+          "text": "et postquam inluserunt ei exuerunt eum clamydem et induerunt eum vestimentis eius et duxerunt eum ut crucifigerent"
+        },
+        {
+          "number": 32,
+          "text": "exeuntes autem invenerunt hominem cyreneum nomine Simonem hunc angariaverunt ut tolleret crucem eius"
+        },
+        {
+          "number": 33,
+          "text": "et venerunt in locum qui dicitur Golgotha quod est Calvariae locus"
+        },
+        {
+          "number": 34,
+          "text": "et dederunt ei vinum bibere cum felle mixtum et cum gustasset noluit bibere"
+        },
+        {
+          "number": 35,
+          "text": "postquam autem crucifixerunt eum diviserunt vestimenta eius sortem mittentes"
+        },
+        {
+          "number": 36,
+          "text": "et sedentes servabant eum"
+        },
+        {
+          "number": 37,
+          "text": "et inposuerunt super caput eius causam ipsius scriptam hic est Iesus rex Iudaeorum"
+        },
+        {
+          "number": 38,
+          "text": "tunc crucifixi sunt cum eo duo latrones unus a dextris et unus a sinistris"
+        },
+        {
+          "number": 39,
+          "text": "praetereuntes autem blasphemabant eum moventes capita sua"
+        },
+        {
+          "number": 40,
+          "text": "et dicentes qui destruit templum et in triduo illud reaedificat salva temet ipsum si Filius Dei es descende de cruce"
+        },
+        {
+          "number": 41,
+          "text": "similiter et principes sacerdotum inludentes cum scribis et senioribus dicentes"
+        },
+        {
+          "number": 42,
+          "text": "alios salvos fecit se ipsum non potest salvum facere si rex Israhel est descendat nunc de cruce et credemus ei"
+        },
+        {
+          "number": 43,
+          "text": "confidet in Deo liberet nunc eum si vult dixit enim quia Dei Filius sum"
+        },
+        {
+          "number": 44,
+          "text": "id ipsum autem et latrones qui fixi erant cum eo inproperabant ei"
+        },
+        {
+          "number": 45,
+          "text": "a sexta autem hora tenebrae factae sunt super universam terram usque ad horam nonam"
+        },
+        {
+          "number": 46,
+          "text": "et circa horam nonam clamavit Iesus voce magna dicens Heli Heli lema sabacthani hoc est Deus meus Deus meus ut quid dereliquisti me"
+        },
+        {
+          "number": 47,
+          "text": "quidam autem illic stantes et audientes dicebant Heliam vocat iste"
+        },
+        {
+          "number": 48,
+          "text": "et continuo currens unus ex eis acceptam spongiam implevit aceto et inposuit harundini et dabat ei bibere"
+        },
+        {
+          "number": 49,
+          "text": "ceteri vero dicebant sine videamus an veniat Helias liberans eum"
+        },
+        {
+          "number": 50,
+          "text": "Iesus autem iterum clamans voce magna emisit spiritum"
+        },
+        {
+          "number": 51,
+          "text": "et ecce velum templi scissum est in duas partes a summo usque deorsum et terra mota est et petrae scissae sunt"
+        },
+        {
+          "number": 52,
+          "text": "et monumenta aperta sunt et multa corpora sanctorum qui dormierant surrexerunt"
+        },
+        {
+          "number": 53,
+          "text": "et exeuntes de monumentis post resurrectionem eius venerunt in sanctam civitatem et apparuerunt multis"
+        },
+        {
+          "number": 54,
+          "text": "centurio autem et qui cum eo erant custodientes Iesum viso terraemotu et his quae fiebant timuerunt valde dicentes vere Dei Filius erat iste"
+        },
+        {
+          "number": 55,
+          "text": "erant autem ibi mulieres multae a longe quae secutae erant Iesum a Galilaea ministrantes ei"
+        },
+        {
+          "number": 56,
+          "text": "inter quas erat Maria Magdalene et Maria Iacobi et Ioseph mater et mater filiorum Zebedaei"
+        },
+        {
+          "number": 57,
+          "text": "cum sero autem factum esset venit quidam homo dives ab Arimathia nomine Ioseph qui et ipse discipulus erat Iesu"
+        },
+        {
+          "number": 58,
+          "text": "hic accessit ad Pilatum et petiit corpus Iesu tunc Pilatus iussit reddi corpus"
+        },
+        {
+          "number": 59,
+          "text": "et accepto corpore Ioseph involvit illud sindone munda"
+        },
+        {
+          "number": 60,
+          "text": "et posuit illud in monumento suo novo quod exciderat in petra et advolvit saxum magnum ad ostium monumenti et abiit"
+        },
+        {
+          "number": 61,
+          "text": "erat autem ibi Maria Magdalene et altera Maria sedentes contra sepulchrum"
+        },
+        {
+          "number": 62,
+          "text": "altera autem die quae est post parasceven convenerunt principes sacerdotum et Pharisaei ad Pilatum"
+        },
+        {
+          "number": 63,
+          "text": "dicentes domine recordati sumus quia seductor ille dixit adhuc vivens post tres dies resurgam"
+        },
+        {
+          "number": 64,
+          "text": "iube ergo custodiri sepulchrum usque in diem tertium ne forte veniant discipuli eius et furentur eum et dicant plebi surrexit a mortuis et erit novissimus error peior priore"
+        },
+        {
+          "number": 65,
+          "text": "ait illis Pilatus habetis custodiam ite custodite sicut scitis"
+        },
+        {
+          "number": 66,
+          "text": "illi autem abeuntes munierunt sepulchrum signantes lapidem cum custodibus"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "vespere autem sabbati quae lucescit in primam sabbati venit Maria Magdalene et altera Maria videre sepulchrum"
+        },
+        {
+          "number": 2,
+          "text": "et ecce terraemotus factus est magnus angelus enim Domini descendit de caelo et accedens revolvit lapidem et sedebat super eum"
+        },
+        {
+          "number": 3,
+          "text": "erat autem aspectus eius sicut fulgur et vestimentum eius sicut nix"
+        },
+        {
+          "number": 4,
+          "text": "prae timore autem eius exterriti sunt custodes et facti sunt velut mortui"
+        },
+        {
+          "number": 5,
+          "text": "respondens autem angelus dixit mulieribus nolite timere vos scio enim quod Iesum qui crucifixus est quaeritis"
+        },
+        {
+          "number": 6,
+          "text": "non est hic surrexit enim sicut dixit venite videte locum ubi positus erat Dominus"
+        },
+        {
+          "number": 7,
+          "text": "et cito euntes dicite discipulis eius quia surrexit et ecce praecedit vos in Galilaeam ibi eum videbitis ecce praedixi vobis"
+        },
+        {
+          "number": 8,
+          "text": "et exierunt cito de monumento cum timore et magno gaudio currentes nuntiare discipulis eius"
+        },
+        {
+          "number": 9,
+          "text": "et ecce Iesus occurrit illis dicens havete illae autem accesserunt et tenuerunt pedes eius et adoraverunt eum"
+        },
+        {
+          "number": 10,
+          "text": "tunc ait illis Iesus nolite timere ite nuntiate fratribus meis ut eant in Galilaeam ibi me videbunt"
+        },
+        {
+          "number": 11,
+          "text": "quae cum abissent ecce quidam de custodibus venerunt in civitatem et nuntiaverunt principibus sacerdotum omnia quae facta fuerant"
+        },
+        {
+          "number": 12,
+          "text": "et congregati cum senioribus consilio accepto pecuniam copiosam dederunt militibus"
+        },
+        {
+          "number": 13,
+          "text": "dicentes dicite quia discipuli eius nocte venerunt et furati sunt eum nobis dormientibus"
+        },
+        {
+          "number": 14,
+          "text": "et si hoc auditum fuerit a praeside nos suadebimus ei et securos vos faciemus"
+        },
+        {
+          "number": 15,
+          "text": "at illi accepta pecunia fecerunt sicut erant docti et divulgatum est verbum istud apud Iudaeos usque in hodiernum diem"
+        },
+        {
+          "number": 16,
+          "text": "undecim autem discipuli abierunt in Galilaeam in montem ubi constituerat illis Iesus"
+        },
+        {
+          "number": 17,
+          "text": "et videntes eum adoraverunt quidam autem dubitaverunt"
+        },
+        {
+          "number": 18,
+          "text": "et accedens Iesus locutus est eis dicens data est mihi omnis potestas in caelo et in terra"
+        },
+        {
+          "number": 19,
+          "text": "euntes ergo docete omnes gentes baptizantes eos in nomine Patris et Filii et Spiritus Sancti"
+        },
+        {
+          "number": 20,
+          "text": "docentes eos servare omnia quaecumque mandavi vobis et ecce ego vobiscum sum omnibus diebus usque ad consummationem saeculi"
+        }
+      ]
+    }
+  ]
+}

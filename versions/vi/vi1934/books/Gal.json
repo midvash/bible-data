@@ -1,0 +1,635 @@
+{
+  "version": "vi1934",
+  "book": "Gal",
+  "bookId": 48,
+  "englishName": "Galatians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Phao-lô, làm sứ đồ, chẳng phải bởi loài người, cũng không nhờ một người nào, bèn là bởi Đức Chúa Jêsus Christ và Đức Chúa Trời, tức là Cha, Đấng đã khiến Ngài từ kẻ chết sống lại,"
+        },
+        {
+          "number": 2,
+          "text": "cùng hết thảy anh em ở với tôi, gởi cho các Hội thánh ở xứ Ga-la-ti:"
+        },
+        {
+          "number": 3,
+          "text": "nguyền xin anh em được ân điển và sự bình an ban cho bởi Đức Chúa Trời, là Cha, và bởi Đức Chúa Jêsus Christ, là Chúa chúng ta,"
+        },
+        {
+          "number": 4,
+          "text": "là Đấng phó mình vì tội lỗi chúng ta, hầu cho cứu chúng ta khỏi đời ác nầy, y theo ý muốn Đức Chúa Trời, là Cha chúng ta,"
+        },
+        {
+          "number": 5,
+          "text": "nguyền Ngài được vinh hiển đời đời vô cùng! A-men."
+        },
+        {
+          "number": 6,
+          "text": "Tôi lấy làm lạ cho anh em đã vội bỏ Đấng gọi anh em bởi ơn Đức Chúa Jêsus Christ, đặng theo tin lành khác."
+        },
+        {
+          "number": 7,
+          "text": "Thật chẳng phải có tin lành khác, nhưng có mấy kẻ làm rối trí anh em, và muốn đánh đổ Tin Lành của Đấng Christ."
+        },
+        {
+          "number": 8,
+          "text": "Nhưng nếu có ai, hoặc chính chúng tôi, hoặc thiên sứ trên trời, truyền cho anh em một tin lành nào khác với Tin Lành chúng tôi đã truyền cho anh em, thì người ấy đáng bị a-na-them!"
+        },
+        {
+          "number": 9,
+          "text": "Tôi đã nói rồi, nay lại nói lần nữa: Nếu ai truyền cho anh em một tin lành nào khác với Tin Lành anh em đã nhận, thì người ấy đáng bị a-na-them!"
+        },
+        {
+          "number": 10,
+          "text": "Còn bây giờ, có phải tôi mong người ta ưng chịu tôi hay là Đức Chúa Trời? Hay là tôi muốn đẹp lòng loài người chăng? Ví bằng tôi còn làm cho đẹp lòng người, thì tôi chẳng phải là tôi tớ của Đấng Christ."
+        },
+        {
+          "number": 11,
+          "text": "Hỡi anh em, tôi nói cho anh em rằng, Tin Lành mà tôi đã truyền, chẳng phải đến từ loài người đâu;"
+        },
+        {
+          "number": 12,
+          "text": "vì tôi không nhận và cũng không học Tin Lành đó với một người nào, nhưng đã nhận lấy bởi sự tỏ ra của Đức Chúa Jêsus Christ."
+        },
+        {
+          "number": 13,
+          "text": "Vả, anh em đã nghe lúc trước tôi theo giáo Giu-đa, cách cư xử của tôi là thể nào, tôi bắt bớ và phá tán Hội thánh của Đức Chúa Trời quá chừng;"
+        },
+        {
+          "number": 14,
+          "text": "tôi tấn tới trong giáo Giu-đa hơn nhiều người cùng tuổi cùng nước với tôi, tôi là người sốt sắng quá đỗi về cựu truyền của tổ phụ tôi."
+        },
+        {
+          "number": 15,
+          "text": "Nhưng khi Đức Chúa Trời, là Đấng đã để riêng tôi ra từ lúc còn trong lòng mẹ, và lấy ân điển gọi tôi, vui lòng"
+        },
+        {
+          "number": 16,
+          "text": "bày tỏ Con của Ngài ra trong tôi, hầu cho tôi rao truyền Con đó ra trong người ngoại đạo, thì lập tức tôi chẳng bàn với thịt và máu."
+        },
+        {
+          "number": 17,
+          "text": "Tôi cũng không lên thành Giê-ru-sa-lem, đến cùng những người đã làm sứ đồ trước tôi, song tôi đi qua xứ A-ra-bi; sau rồi trở về thành Đa-mách."
+        },
+        {
+          "number": 18,
+          "text": "Kế đó, mãn ba năm, tôi lên thành Giê-ru-sa-lem, đặng làm quen với Sê-pha, và tôi ở với người mười lăm ngày;"
+        },
+        {
+          "number": 19,
+          "text": "nhưng tôi không thấy một sứ đồ nào khác, trừ ra Gia-cơ là anh em của Chúa."
+        },
+        {
+          "number": 20,
+          "text": "Thật, trước mặt Đức Chúa Trời, tôi quyết rằng điều tôi viết cho anh em đây chẳng phải là điều dối."
+        },
+        {
+          "number": 21,
+          "text": "Sau lại, tôi đi qua các miền thuộc xứ Sy-ri và xứ Si-li-si,"
+        },
+        {
+          "number": 22,
+          "text": "bấy giờ tôi còn là kẻ lạ mặt trong các Hội thánh tại xứ Giu-đê, là các hội ở trong Đấng Christ."
+        },
+        {
+          "number": 23,
+          "text": "chỉn các hội đó có nghe rằng: Người đã bắt bớ chúng ta ngày trước, nay đang truyền đạo mà lúc bấy giờ người cố sức phá."
+        },
+        {
+          "number": 24,
+          "text": "Vậy thì, các hội đó vì cớ tôi khen ngợi Đức Chúa Trời."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sau đó mười bốn năm, tôi lại lên thành Giê-ru-sa-lem với Ba-na-ba, có đem Tít cùng đi nữa."
+        },
+        {
+          "number": 2,
+          "text": "Tôi vâng theo lời tỏ ra mà lên đó, phô bày Tin Lành mà tôi đã giảng trong người ngoại đạo ra cho anh em; lại phô bày riêng cho những kẻ có danh vọng hơn hết, kẻo sự chạy của tôi trước kia và bây giờ hóa ra vô ích chăng."
+        },
+        {
+          "number": 3,
+          "text": "Dầu Tít, kẻ cùng đi với tôi, là người Gờ-réc, cũng không bị ép phải cắt bì."
+        },
+        {
+          "number": 4,
+          "text": "Chúng tôi đã làm như vậy, vì cớ mấy người anh em giả, lẻn vào trong vòng chúng tôi, để rình xem sự tự do mà chúng tôi được trong Đức Chúa Jêsus Christ, đặng bắt chúng tôi làm tôi mọi."
+        },
+        {
+          "number": 5,
+          "text": "Chúng tôi không nhường họ một giây phút nào, chối chẳng chịu thuộc dưới quyền họ, hầu cho lẽ thật của Tin Lành được vững bền trong anh em."
+        },
+        {
+          "number": 6,
+          "text": "Còn như những kẻ mà người ta tôn trọng lắm, (trước kia là kẻ thể nào, thì chẳng can dự gì với tôi, Đức Chúa Trời không tây vị ai hết), tôi nói, những kẻ đó dầu tôn trọng lắm, cũng chẳng làm cho tôi thêm ích chút nào."
+        },
+        {
+          "number": 7,
+          "text": "Trái lại, họ thấy sự giảng Tin Lành cho kẻ không chịu phép cắt bì đã giao cho tôi, cũng như sự giảng Tin Lành cho người chịu phép cắt bì đã giao cho Phi-e-rơ vậy,"
+        },
+        {
+          "number": 8,
+          "text": "vì Đấng đã cảm động trong Phi-e-rơ để sai người làm sứ đồ cho những kẻ chịu cắt bì, cũng cảm động trong tôi để sai tôi làm sứ đồ cho dân ngoại,"
+        },
+        {
+          "number": 9,
+          "text": "và nhận biết ân điển đã ban cho tôi, thì Gia-cơ, Sê-pha, Giăng là những người được tôn như cột trụ, trao tay hữu giao kết với chúng tôi, tức là Ba-na-ba và tôi, hầu cho chúng tôi đi đến cùng dân ngoại, còn các người ấy thì đến cùng những kẻ chịu phép cắt bì."
+        },
+        {
+          "number": 10,
+          "text": "Các người ấy chỉ dặn dò tôi phải nhớ đến kẻ nghèo nàn, là điều tôi cũng đã ân cần làm lắm."
+        },
+        {
+          "number": 11,
+          "text": "Nhưng khi Sê-pha đến thành An-ti-ốt, tôi có ngăn can trước mặt người, vì là đáng trách lắm."
+        },
+        {
+          "number": 12,
+          "text": "Bởi trước lúc mấy kẻ của Gia-cơ sai đi chưa đến, thì người ăn chung với người ngoại; vừa khi họ đã đến thì người lui đứng riêng ra, bởi sợ những kẻ chịu phép cắt bì."
+        },
+        {
+          "number": 13,
+          "text": "Các người Giu-đa khác cũng dùng một cách giả dối như vậy, đến nỗi chính Ba-na-ba cũng bị sự giả hình của họ dẫn dụ."
+        },
+        {
+          "number": 14,
+          "text": "Nhưng khi tôi thấy họ không đi ngay thẳng theo lẽ thật của Tin Lành, thì nói với Sê-pha trước mặt mọi người rằng: nếu anh là người Giu-đa, mà ăn ở theo cách dân ngoại, không theo cách người Giu-đa, thì làm sao anh ép dân ngoại phải theo thói Giu-đa?"
+        },
+        {
+          "number": 15,
+          "text": "Về phần chúng tôi, thì sanh ra là người Giu-đa, không phải là kẻ có tội từ trong dân ngoại."
+        },
+        {
+          "number": 16,
+          "text": "Dầu vậy, đã biết rằng người ta được xưng công bình, chẳng phải bởi các việc luật pháp đâu, bèn là cậy đức tin trong Đức Chúa Jêsus Christ, nên chính chúng tôi đã tin Đức Chúa Jêsus Christ, để được xưng công bình bởi đức tin trong Đấng Christ, chớ chẳng bởi các việc luật pháp; vì chẳng có ai được xưng công bình bởi các việc luật pháp."
+        },
+        {
+          "number": 17,
+          "text": "Nhưng nếu đang khi chúng tôi tìm cách được xưng công bình trong Đấng Christ, mà chính chúng tôi bị nhận là kẻ có tội, vậy thì Đấng Christ chẳng là làm tôi của tội lỗi sao? Chẳng hề như vậy!"
+        },
+        {
+          "number": 18,
+          "text": "Thật thế, nếu tôi lập lại điều tôi đã phá hủy, thì tôi sẽ tỏ ra chính tôi là người phạm phép."
+        },
+        {
+          "number": 19,
+          "text": "Vả, bởi luật pháp, tôi đã chết cho luật pháp, để sống cho Đức Chúa Trời."
+        },
+        {
+          "number": 20,
+          "text": "Tôi đã bị đóng đinh vào thập tự giá với Đấng Christ, mà tôi sống, không phải là tôi sống nữa, nhưng Đấng Christ sống trong tôi; nay tôi còn sống trong xác thịt, ấy là tôi sống trong đức tin của Con Đức Chúa Trời, là Đấng đã yêu tôi, và đã phó chính mình Ngài vì tôi."
+        },
+        {
+          "number": 21,
+          "text": "Tôi không muốn làm cho ân điển Đức Chúa Trời ra vô ích; vì nếu bởi luật pháp mà được sự công bình, thì Đấng Christ chịu chết là vô ích."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi người Ga-la-ti ngu muội kia, ai bùa ếm anh em là người mà trước mắt đã được rõ bày ra Đức Chúa Jêsus Christ bị đóng đinh trên thập tự giá?"
+        },
+        {
+          "number": 2,
+          "text": "Tôi chỉ hỏi anh em một câu nầy: Aáy là cậy các việc luật pháp hay là bởi nghe và tin mà anh em đã nhận được Đức Thánh Linh?"
+        },
+        {
+          "number": 3,
+          "text": "Sao anh em ngu muội dường ấy? Sau khi đã khởi sự nhờ Đức Thánh Linh, nay sao lại cậy xác thịt mà làm cho trọn?"
+        },
+        {
+          "number": 4,
+          "text": "Anh em há luống công mà chịu sự khốn khó dường ấy sao? nếu quả là luống công!"
+        },
+        {
+          "number": 5,
+          "text": "Đấng ban Đức Thánh Linh cho anh em và làm các phép lạ trong anh em, thì làm bởi các việc luật pháp, hay là bởi đã nghe mà tin?"
+        },
+        {
+          "number": 6,
+          "text": "Như Aùp-ra-ham tin Đức Chúa Trời, thì đã kể là công bình cho người,"
+        },
+        {
+          "number": 7,
+          "text": "vậy anh em hãy nhận biết rằng những kẻ có đức tin là con cháu thật của Aùp-ra-ham."
+        },
+        {
+          "number": 8,
+          "text": "Kinh Thánh cũng biết trước rằng Đức Chúa Trời sẽ xưng dân ngoại là công bình bởi đức tin, nên đã rao truyền trước cho Aùp-ra-ham tin lành nầy: Các dân sẽ nhờ ngươi mà được phước."
+        },
+        {
+          "number": 9,
+          "text": "Aáy vậy, ai tin thì nấy được phước với Aùp-ra-ham, là người có lòng tin."
+        },
+        {
+          "number": 10,
+          "text": "Vì mọi kẻ cậy các việc luật pháp, thì bị rủa sả, bởi có chép rằng: Đáng rủa thay là kẻ không bền đỗ trong mọi sự đã chép ở sách luật, đặng làm theo những sự ấy!"
+        },
+        {
+          "number": 11,
+          "text": "Vả lại chẳng hề có ai cậy luật pháp mà được xưng công bình trước mặt Đức Chúa Trời, điều đó là rõ ràng lắm, vì người công bình sẽ sống bởi đức tin."
+        },
+        {
+          "number": 12,
+          "text": "Vả, luật pháp vốn không phải đồng một thứ với đức tin, nhưng luật pháp có chép rằng: Người nào vâng giữ các điều răn thì sẽ nhờ đó mà sống."
+        },
+        {
+          "number": 13,
+          "text": "Đấng Christ đã chuộc chúng ta khỏi sự rủa sả của luật pháp, bởi Ngài đã nên sự rủa sả vì chúng ta, vì có lời chép: Đáng rủa thay là kẻ bị treo trên cây gỗ,"
+        },
+        {
+          "number": 14,
+          "text": "hầu cho phước lành ban cho Aùp-ra-ham nhờ Đức Chúa Jêsus Christ mà được rải khắp trên dân ngoại, lại hầu cho chúng ta cậy đức tin mà nhận lãnh Đức Thánh Linh đã hứa cho."
+        },
+        {
+          "number": 15,
+          "text": "Hỡi Anh em, tôi nói theo thói quen người ta rằng: Khi một người đã làm tờ giao ước thành rồi, thì không ai có phép được xóa đi hay thêm vào sự gì."
+        },
+        {
+          "number": 16,
+          "text": "Vả, các lời hứa đã được phán cho Aùp-ra-ham và cho dòng dõi người. không nói: Và cho các dòng dõi người, như chỉ về nhiều người; nhưng nói: Và cho dòng dõi ngươi, như chỉ về một người mà thôi, tức là Đấng Christ."
+        },
+        {
+          "number": 17,
+          "text": "Vậy thì tôi nói rằng: Lời giao ước mà Đức Chúa Trời trước kia đã kết lập thành rồi, thì không có thể bị hủy đi, và lời hứa cũng không có thể bị bỏ đi bởi luật pháp, là sự cách sau bốn trăm ba mươi năm mới có."
+        },
+        {
+          "number": 18,
+          "text": "Vì, nếu cơ nghiệp được ban cho bởi luật pháp, thì không bởi lời hứa nữa. Nhưng Đức Chúa Trời đã dùng lời hứa mà ban cơ nghiệp cho Aùp-ra-ham."
+        },
+        {
+          "number": 19,
+          "text": "Vậy thì làm sao có luật pháp? luật pháp đã đặt thêm, vì cớ những sự phạm phép, cho tới chừng nào người dòng dõi đến, là người mà lời hứa đã hứa cho; luật pháp được ban ra bởi mấy thiên sứ và truyền ra bởi một người trung bảo."
+        },
+        {
+          "number": 20,
+          "text": "Vả, người trung bảo chẳng phải là người trung bảo về một bề mà thôi, nhưng Đức Chúa Trời chỉ có một."
+        },
+        {
+          "number": 21,
+          "text": "Vậy thì luật pháp nghịch cùng lời hứa của Đức Chúa Trời hay sao? chẳng hề như vậy; vì nếu đã ban cho một luật pháp có thể làm cho sống, thì sự công bình chắc bởi luật pháp mà đến."
+        },
+        {
+          "number": 22,
+          "text": "Nhưng Kinh Thánh đã nhốt hết thảy mọi sự dưới tội lỗi, hầu cho điều chi đã hứa, bởi đức tin trong Đức Chúa Jêsus Christ mà được ban cho những kẻ tin."
+        },
+        {
+          "number": 23,
+          "text": "Trước khi đức tin chưa đến, chúng ta bị nhốt dưới sự canh giữ của luật pháp mà chờ đức tin phải bày ra."
+        },
+        {
+          "number": 24,
+          "text": "Aáy vậy, luật pháp đã như thầy giáo đặng dẫn chúng ta đến Đấng Christ, hầu cho chúng ta bởi đức tin mà được xưng công bình."
+        },
+        {
+          "number": 25,
+          "text": "Song khi đức tin đã đến, chúng ta không còn phục dưới thầy giáo ấy nữa."
+        },
+        {
+          "number": 26,
+          "text": "Vì chưng anh em bởi tin Đức Chúa Jêsus Christ, nên hết thảy đều là con trai của Đức Chúa Trời."
+        },
+        {
+          "number": 27,
+          "text": "Vả, anh em thảy đều chịu phép báp tem trong Đấng Christ, đều mặc lấy Đấng Christ vậy."
+        },
+        {
+          "number": 28,
+          "text": "Tại đây không còn chia ra người Giu-đa hoặc người Gờ-réc; không còn người tôi mọi hoặc người tự chủ; không còn đàn ông hoặc đàn bà; vì trong Đức Chúa Jêsus Christ, anh em thảy đều làm một."
+        },
+        {
+          "number": 29,
+          "text": "Lại nếu anh em thuộc về Đấng Christ, thì anh em là dòng dõi của Aùp-ra-ham, tức là kẻ kế tự theo lời hứa."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vả, tôi nói rằng người kế tự dầu là chủ của mọi vật, mà đang còn thơ ấu, thì chẳng khác chi kẻ tôi mọi;"
+        },
+        {
+          "number": 2,
+          "text": "phải ở dưới quyền kẻ bảo hộ và kẻ coi giữ, cho đến k” người cha đã định."
+        },
+        {
+          "number": 3,
+          "text": "Chúng ta cũng như vậy, khi còn thơ ấu, phải phục dưới các lề thói của thế gian."
+        },
+        {
+          "number": 4,
+          "text": "Nhưng khi k” hạn đã được trọn, Đức Chúa Trời bèn sai Con Ngài bởi một người nữ sanh ra, sanh ra dưới luật pháp,"
+        },
+        {
+          "number": 5,
+          "text": "để chuộc những kẻ ở dưới luật pháp, và cho chúng ta được làm con nuôi Ngài."
+        },
+        {
+          "number": 6,
+          "text": "Lại vì anh em là con, nên Đức Chúa Trời đã sai Thánh Linh của Con Ngài vào lòng chúng ta, kêu rằng: A-ba! Cha!"
+        },
+        {
+          "number": 7,
+          "text": "Dường ấy, ngươi không phải là tôi mọi nữa, bèn là con; và nếu ngươi là con, thì cũng là kẻ kế tự bởi ơn của Đức Chúa Trời."
+        },
+        {
+          "number": 8,
+          "text": "Xưa kia, anh em chẳng biết Đức Chúa Trời chi hết, thì làm tôi các thần vốn không phải là thần."
+        },
+        {
+          "number": 9,
+          "text": "Nhưng hiện nay anh em biết Đức Chúa Trời lại được Đức Chúa Trời biết đến nữa, sao còn trở hướng về lề thói hèn yếu nghèo nàn đó mà suy phục nữa ư?"
+        },
+        {
+          "number": 10,
+          "text": "anh em hãy còn giữ ngày tháng, mùa, năm ư!"
+        },
+        {
+          "number": 11,
+          "text": "Tôi lo cho anh em, e tôi đã làm việc luống công giữa anh em."
+        },
+        {
+          "number": 12,
+          "text": "Hỡi anh em, tôi xin anh em hãy giống như tôi; vì tôi cũng như anh em. Anh em không làm hại gì cho tôi."
+        },
+        {
+          "number": 13,
+          "text": "Anh em biết rằng ấy là đang lúc xác thịt yếu đuối mà tôi truyền Tin Lành cho anh em lần thứ nhất,"
+        },
+        {
+          "number": 14,
+          "text": "vì xác thịt tôi yếu đuối sanh ra sự rèn thử cho anh em mặc dầu, anh em cũng chẳng khinh tôi, chẳng chối tôi, mà lại tiếp rước tôi như một vị thiên sứ của Đức Chúa Trời, thật như chính mình Đức Chúa Jêsus Christ."
+        },
+        {
+          "number": 15,
+          "text": "Vậy thì sự vui mừng của anh em đã trở nên thể nào? Vì tôi làm chứng cho anh em rằng, lúc bấy giờ, nếu có thể được thì anh em cũng móc con mắt mà cho tôi."
+        },
+        {
+          "number": 16,
+          "text": "Tôi lấy lẽ thật bảo anh em, lại trở nên thù nghịch của anh em sao?"
+        },
+        {
+          "number": 17,
+          "text": "Những người đó vì anh em mà sốt sắng, thì không phải là ý tốt; nhưng họ muốn anh em lìa bỏ chúng tôi, hầu cho anh em sốt sắng vì họ."
+        },
+        {
+          "number": 18,
+          "text": "Có lòng sốt sắng vì điều thiện thì tốt lắm, lúc nào cũng thế, không những khi tôi có mặt giữa anh em."
+        },
+        {
+          "number": 19,
+          "text": "Hỡi các con, vì các con mà ta lại chịu đau đớn của sự sanh nở, cho đến chừng nào Đấng Christ thành hình trong các con,"
+        },
+        {
+          "number": 20,
+          "text": "ta muốn ở cùng các con và thay đổi cách nói; vì về việc các con, ta rất là bối rối khó xử."
+        },
+        {
+          "number": 21,
+          "text": "Hãy nói cho tôi, anh em là kẻ ưa phục dưới luật pháp, há không nghe luật pháp sao?"
+        },
+        {
+          "number": 22,
+          "text": "Vì có chép rằng Aùp-ra-ham có hai con trai: một là con của người nữ tôi mọi, một là con của người nữ tự chủ."
+        },
+        {
+          "number": 23,
+          "text": "Nhưng con của người nữ tôi mọi sanh ra theo xác thịt, con của người nữ tự chủ sanh ra theo lời hứa."
+        },
+        {
+          "number": 24,
+          "text": "Cả điều đó có một nghĩa bóng: hai người nữ đó tức là hai lời giao ước, một là lời giao ước tại núi Si-na-i, sanh con ra để làm tôi mọi ấy là nàng A-ga."
+        },
+        {
+          "number": 25,
+          "text": "Vả, A-ga, ấy là núi Si-na-i, trong xứ A-ra-bi; khác nào như thành Giê-ru-sa-lem bây giờ, thành đó với con cái mình đều làm tôi mọi."
+        },
+        {
+          "number": 26,
+          "text": "Nhưng thành Giê-ru-sa-lem ở trên cao là tự do, và ấy là mẹ chúng ta."
+        },
+        {
+          "number": 27,
+          "text": "Vì có lời chép: Hỡi đàn bà son, ngươi là kẻ chẳng sanh nở chi hết, hãy vui mừng; Ngươi là kẻ chẳng từng chịu đau đớn sanh đẻ, hãy nức lòng mừng rỡ và bựt tiếng reo cười, Vì con cái của vợ bị để sẽ đông hơn con cái của người nữ có chồng."
+        },
+        {
+          "number": 28,
+          "text": "Hỡi anh em, về phần chúng ta, chúng ta cũng như Y-sác, là con của lời hứa."
+        },
+        {
+          "number": 29,
+          "text": "Nhưng, như bấy giờ, kẻ sanh ra theo xác thịt bắt bớ kẻ sanh ra theo Thánh Linh, thì hiện nay cũng còn là thể ấy."
+        },
+        {
+          "number": 30,
+          "text": "Song Kinh Thánh, có nói gì? Hãy đuổi người nữ tôi mọi và con trai nó; vì con trai của người nữ tôi mọi sẽ không được kế tự với con trai của người nữ tự chủ."
+        },
+        {
+          "number": 31,
+          "text": "Aáy vậy, hỡi anh em, chúng ta chẳng phải là con cái của người nữ tôi mọi, bèn là người nữ tự chủ."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Đấng Christ đã buông tha chúng ta cho được tự do; vậy hãy đứng vững, chớ lại để mình dưới ách tôi mọi nữa."
+        },
+        {
+          "number": 2,
+          "text": "Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Đấng Christ không bổ ích chi cho anh em hết."
+        },
+        {
+          "number": 3,
+          "text": "Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp."
+        },
+        {
+          "number": 4,
+          "text": "Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Đấng Christ, mất ân điển rồi."
+        },
+        {
+          "number": 5,
+          "text": "Về phần chúng ta, ấy là bởi đức tin và nhờ Thánh Linh mà chúng ta được nhận lãnh sự trông cậy của sự công bình."
+        },
+        {
+          "number": 6,
+          "text": "Vì trong Đức Chúa Jêsus Christ, cái điều có giá trị, không phải tại chịu phép cắt bì hoặc không chịu phép cắt bì, nhưng tại đức tin hay làm ra bởi sự yêu thương vậy."
+        },
+        {
+          "number": 7,
+          "text": "Anh em chạy giỏi; ai đã ngăn trở anh em đặng không cho vâng phục lẽ thật?"
+        },
+        {
+          "number": 8,
+          "text": "Sự xui giục đó không phải đến từ Đấng gọi anh em."
+        },
+        {
+          "number": 9,
+          "text": "Một ít men làm cho dậy cả đống bột."
+        },
+        {
+          "number": 10,
+          "text": "Trong Chúa, tôi đối với anh em có lòng tin cậy nầy, là anh em chắc không có ý khác; nhưng kẻ làm rối trí anh em, bất luận người nào, sẽ chịu hình phạt về điều đó."
+        },
+        {
+          "number": 11,
+          "text": "Hỡi anh em, về phần tôi, nếu tôi còn giảng phép cắt bì, thì sao tôi còn bị bắt bớ nữa? Sự vấp phạm về thập tự giá há chẳng phải bỏ hết rồi sao?"
+        },
+        {
+          "number": 12,
+          "text": "Nguyền cho kẻ gieo sự rối loạn trong anh em thà họ tự chặt mình là hơn!"
+        },
+        {
+          "number": 13,
+          "text": "Hỡi anh em, anh em đã được gọi đến sự tự do, song chớ lấy sự tự do đó làm dịp cho anh em ăn ở theo tánh xác thịt, nhưng hãy lấy lòng yêu thương làm đầy tớ lẫn nhau."
+        },
+        {
+          "number": 14,
+          "text": "Vì cả luật pháp chỉ tóm lại trong một lời nầy: Ngươi hãy yêu kẻ lân cận như mình."
+        },
+        {
+          "number": 15,
+          "text": "Nhưng nếu anh em cắn nuốt nhau, thì hãy giữ, kẻo kẻ nầy bị diệt mất bởi kẻ khác."
+        },
+        {
+          "number": 16,
+          "text": "Vậy tôi nói rằng: Hãy bước đi theo Thánh Linh, chớ hề làm trọn những điều ưa muốn của xác thịt."
+        },
+        {
+          "number": 17,
+          "text": "Vì xác thịt có những điều ưa muốn trái với những điều của Thánh Linh, Thánh Linh có những điều ưa muốn trái với của xác thịt; hai bên trái nhau dường ấy, nên anh em không làm được điều mình muốn làm."
+        },
+        {
+          "number": 18,
+          "text": "Nhưng, ví bằng anh em nhờ Thánh Linh chỉ dẫn, thì chẳng hề ở dưới luật pháp."
+        },
+        {
+          "number": 19,
+          "text": "Vả, các việc làm của xác thịt là rõ ràng lắm: ấy là gian dâm, ô uế, luông tuồng,"
+        },
+        {
+          "number": 20,
+          "text": "thờ hình tượng, phù phép, thù oán, tranh đấu, ghen ghét, buồn giận, cãi lẫy, bất bình, bè đảng,"
+        },
+        {
+          "number": 21,
+          "text": "ganh gổ, say sưa, mê ăn uống, cùng các sự khác giống như vậy. Tôi nói trước cho anh em, như tôi đã nói rồi: hễ ai phạm những việc thể ấy thì không được hưởng nước Đức Chúa Trời."
+        },
+        {
+          "number": 22,
+          "text": "Nhưng trái của Thánh Linh, ấy là lòng yêu thương, sự vui mừng, bình an, nhịn nhục, nhân từ, hiền lành, trung tín, mềm mại, tiết độ:"
+        },
+        {
+          "number": 23,
+          "text": "không có luật pháp nào cấm các sự đó."
+        },
+        {
+          "number": 24,
+          "text": "Vả, những kẻ thuộc về Đức Chúa Jêsus Christ đã đóng đinh xác thịt với tình dục và dâm dục mình trên thập tự giá rồi."
+        },
+        {
+          "number": 25,
+          "text": "Nếu chúng ta nhờ Thánh Linh mà sống, thì cũng hãy bước theo Thánh Linh vậy."
+        },
+        {
+          "number": 26,
+          "text": "Chớ tìm kiếm danh vọng giả dối mà trêu chọc nhau và ghen ghét nhau."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi anh em, ví bằng có người nào tình cờ phạm lỗi gì, anh em là kẻ có Đức Thánh Linh, hãy lấy lòng mềm mại mà sửa họ lại; chính mình anh em lại phải giữ, e cũng bị dỗ dành chăng."
+        },
+        {
+          "number": 2,
+          "text": "Hãy mang lấy gánh nặng cho nhau, như vậy anh em sẽ làm trọn luật pháp của Đấng Christ."
+        },
+        {
+          "number": 3,
+          "text": "Vì, nếu có ai, dầu mình không ra chi hết, mà cũng tưởng mình ra chi ấy là mình dối lấy mình."
+        },
+        {
+          "number": 4,
+          "text": "Mỗi người phải thử xét việc làm của mình, thì sự khoe mình chỉ tại mình thôi, chớ chẳng phải tại kẻ khác."
+        },
+        {
+          "number": 5,
+          "text": "Vì ai sẽ gánh lấy riêng phần nấy."
+        },
+        {
+          "number": 6,
+          "text": "Kẻ nào mà người ta dạy đạo cho, phải lấy trong hết thảy của cải mình mà chia cho người dạy đó."
+        },
+        {
+          "number": 7,
+          "text": "Chớ hề dối mình; Đức Chúa Trời không chịu khinh dể đâu; vì ai gieo giống chi, lại gặt giống ấy."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ gieo cho xác thịt, sẽ bởi xác thịt mà gặt sự hư nát; song kẻ gieo cho Thánh Linh, sẽ bởi Thánh Linh mà gặt sự sống đời đời."
+        },
+        {
+          "number": 9,
+          "text": "Chớ mệt nhọc về sự làm lành, vì nếu chúng ta không trễ nải, thì đến k” chúng ta sẽ gặt."
+        },
+        {
+          "number": 10,
+          "text": "Vậy, đang lúc có dịp tiện, hãy làm điều thiện cho mọi người, nhất là cho anh em chúng ta trong đức tin."
+        },
+        {
+          "number": 11,
+          "text": "Hãy xem chính tay tôi viết thơ nầy cho anh em, chữ lớn là dường nào."
+        },
+        {
+          "number": 12,
+          "text": "Hết thảy những kẻ muốn cho mình đẹp lòng người theo phần xác, ép anh em chịu cắt bì, hầu cho họ khỏi vì thập tự giá của Đấng Christ mà bị bắt bớ đó thôi."
+        },
+        {
+          "number": 13,
+          "text": "Vì chính những kẻ đó đã chịu cắt bì, không vâng giữ luật pháp đâu, nhưng họ muốn anh em chịu cắt bì, hầu để khoe mình trong phần xác của anh em."
+        },
+        {
+          "number": 14,
+          "text": "Còn như tôi, tôi hẳn chẳng khoe mình, trừ ra khoe về thập tự giá của Đức Chúa Jêsus Christ chúng ta, bởi thập tự giá ấy, thế gian đối với tôi đã bị đóng đinh, và tôi đối với thế gian cũng vậy!"
+        },
+        {
+          "number": 15,
+          "text": "Vì điều yếu cần, chẳng phải sự chịu cắt bì, hay là sự chẳng chịu cắt bì, bèn là trở nên người mới."
+        },
+        {
+          "number": 16,
+          "text": "Nguyền xin sự bình an và sự thương xót giáng trên hết thảy những kẻ noi theo mẫu mực nầy, lại giáng trên dân Y-sơ-ra-ên của Đức Chúa Trời nữa!"
+        },
+        {
+          "number": 17,
+          "text": "Ước gì từ nay về sau, chẳng ai làm khó cho tôi, vì trong mình tôi có đốt dấu vết của Đức Chúa Jêsus vậy."
+        },
+        {
+          "number": 18,
+          "text": "Hỡi anh em, nguyền xin ân điển của Đức Chúa Jêsus Christ chúng ta ở với tâm thần anh em! A-men."
+        }
+      ]
+    }
+  ]
+}

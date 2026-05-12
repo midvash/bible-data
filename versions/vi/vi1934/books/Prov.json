@@ -1,0 +1,3824 @@
+{
+  "version": "vi1934",
+  "book": "Prov",
+  "bookId": 20,
+  "englishName": "Proverbs",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Châm ngôn của Sa-lô-môn, con trai Đa-vít, Vua Y-sơ-ra-ên:"
+        },
+        {
+          "number": 2,
+          "text": "Đặng khiến cho người ta hiểu biết sự khôn ngoan và điều khuyên dạy, Cùng phân biệt các lời thông sáng;"
+        },
+        {
+          "number": 3,
+          "text": "Để nhận lãnh điều dạy dỗ theo sự khôn ngoan, Sự công bình, lý đoán, và sự chánh trực;"
+        },
+        {
+          "number": 4,
+          "text": "Hầu cho người ngu dốt được sự khôn khéo, Gã trai trẻ được sự tri thức và sự dẽ dặt."
+        },
+        {
+          "number": 5,
+          "text": "Kẻ khôn sẽ nghe và thêm lên sự học vấn, Người thông sáng sẽ được rộng mưu trí,"
+        },
+        {
+          "number": 6,
+          "text": "Để hiểu biết châm ngôn, thí dụ, Và lời của người khôn ngoan, cùng câu đố nhiệm của họ."
+        },
+        {
+          "number": 7,
+          "text": "Sự kính sợ Đức Giê-hô-va là khởi đầu sự tri thức; Còn kẻ ngu muội khinh bỉ sự khôn ngoan và lời khuyên dạy."
+        },
+        {
+          "number": 8,
+          "text": "Hỡi con, hãy nghe lời khuyên dạy của cha, Chớ bỏ phép tắc của mẹ con;"
+        },
+        {
+          "number": 9,
+          "text": "Vì ấy sẽ như một dây hoa trên đầu con, Giống như những vòng đeo quanh cổ của con."
+        },
+        {
+          "number": 10,
+          "text": "Hỡi con, nếu kẻ tội nhân kiếm thế quyến dụ con, Chớ khứng theo."
+        },
+        {
+          "number": 11,
+          "text": "Nếu chúng nó nói: “Hãy đến cùng chúng ta, phục rình làm đổ huyết người, Núp đợi hại vô cớ kẻ chẳng tội;"
+        },
+        {
+          "number": 12,
+          "text": "Chúng ta sẽ nuốt sống chúng nó như âm phủ, Và còn nguyên vẹn như kẻ xuống mồ mả;"
+        },
+        {
+          "number": 13,
+          "text": "Chúng ta sẽ được các thứ của báu, Chất đầy nhà chúng ta những của cướp;"
+        },
+        {
+          "number": 14,
+          "text": "Hãy lấy phần ngươi với chúng ta, Chúng ta cả thảy sẽ có một túi bạc mà thôi.”"
+        },
+        {
+          "number": 15,
+          "text": "Hỡi con, đừng đi đường cùng chúng nó; Hãy cấm giữ chân con, chớ vào lối của họ;"
+        },
+        {
+          "number": 16,
+          "text": "Vì chân chúng nó chạy đến sự ác, Lật đật làm đổ huyết ra."
+        },
+        {
+          "number": 17,
+          "text": "Vì giăng lưới ra trước mặt các loài có cánh Lấy làm luống công thay;"
+        },
+        {
+          "number": 18,
+          "text": "Chính những người ấy thật phục mưu làm đổ huyết mình ra, Và núp rình hại mạng sống mình."
+        },
+        {
+          "number": 19,
+          "text": "Đó là đường của những kẻ tham lợi bất nghĩa; Lợi như thể đoạt lấy mạng sống của kẻ được nó."
+        },
+        {
+          "number": 20,
+          "text": "Sự khôn ngoan hô lên ngoài đường, Cất tiếng dội ra nơi phố chợ;"
+        },
+        {
+          "number": 21,
+          "text": "Khôn ngoan kêu la ở đầu đường dộn dực ồn ào; Tại cửa thành, và nội trong thành người phán lời mình ra,"
+        },
+        {
+          "number": 22,
+          "text": "Mà rằng: Hỡi kẻ ngu dốt, các ngươi sẽ mến sự ngu dại cho đến bao giờ? Kẻ nhạo báng sẽ ưa sự nhạo báng, Và kẻ dại dột sẽ ghét sự tri thức cho đến chừng nào?"
+        },
+        {
+          "number": 23,
+          "text": "Nhân vì ta trách các ngươi, các ngươi khá trở lại; Kìa, ta sẽ đổ thần linh ta trên các ngươi; Ta sẽ làm cho các ngươi biết những lời của ta."
+        },
+        {
+          "number": 24,
+          "text": "Bởi vì ta kêu gọi, mà các ngươi không khứng nghe, Ta giơ tay ta ra, lại chẳng có ai chủ ý;"
+        },
+        {
+          "number": 25,
+          "text": "Nhưng các ngươi đã bỏ hết lời khuyên dạy ta, Không chịu lời quở trách ta;"
+        },
+        {
+          "number": 26,
+          "text": "Nên trong lúc các ngươi bị tai nạn, ta cũng sẽ chê cười, Khi sự sợ hãi giáng cho các ngươi, ắt ta sẽ nhạo báng;"
+        },
+        {
+          "number": 27,
+          "text": "Khi sự sợ hãi các ngươi xảy đến thình lình như gió bão, Tai nạn xông vào các ngươi như cơn trốt, Và sự ngặt nghèo, khốn cực giáng trên các ngươi."
+        },
+        {
+          "number": 28,
+          "text": "Bấy giờ chúng nó sẽ kêu cầu cùng ta, nhưng ta sẽ không đáp lời; Sáng sớm chúng nó sẽ tìm ta, nhưng không gặp được."
+        },
+        {
+          "number": 29,
+          "text": "Aáy bởi vì chúng nó ghét sự hiểu biết, Không chọn lấy sự kính sợ Đức Giê-hô-va,"
+        },
+        {
+          "number": 30,
+          "text": "Cũng không muốn theo sự khuyên dạy ta, Và chê bai các lời quở trách ta;"
+        },
+        {
+          "number": 31,
+          "text": "Vì vậy chúng nó sẽ ăn bông trái của đường lối mình, Và được no nê mưu chước của riêng mình."
+        },
+        {
+          "number": 32,
+          "text": "Vì sự bội nghịch của kẻ ngu dốt sẽ giết chúng nó, Và sự yên ổn của kẻ dại dột sẽ làm hại cho chúng nó."
+        },
+        {
+          "number": 33,
+          "text": "Nhưng ai khứng nghe ta ắt sẽ ở an nhiên vô sự, Được bình tịnh, không sợ tai họa nào."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi con, nếu con tiếp nhận lời ta, Dành giữ mạng lịnh ta nơi lòng con,"
+        },
+        {
+          "number": 2,
+          "text": "Để lắng tai nghe sự khôn ngoan, Và chuyên lòng con về sự thông sáng;"
+        },
+        {
+          "number": 3,
+          "text": "Phải nếu con kêu cầu sự phân biện, Và cất tiếng lên cầu xin sự thông sáng,"
+        },
+        {
+          "number": 4,
+          "text": "Nếu con tìm nó như tiền bạc, Và kiếm nó như bửu vật ẩn bí,"
+        },
+        {
+          "number": 5,
+          "text": "Bấy giờ con sẽ hiểu biết sự kính sợ Đức Giê-hô-va, Và tìm được điều tri thức của Đức Chúa Trời."
+        },
+        {
+          "number": 6,
+          "text": "Vì Đức Giê-hô-va ban cho sự khôn ngoan; từ miệng Ngài ra điều tri thức và thông sáng."
+        },
+        {
+          "number": 7,
+          "text": "Ngài dành ơn cứu rỗi cho người ngay thẳng; Ngài là thuẫn đỡ của người làm theo sự đoan chánh,"
+        },
+        {
+          "number": 8,
+          "text": "Phù hộ các lối của người công bình, Và giữ gìn đường của thánh đồ Ngài."
+        },
+        {
+          "number": 9,
+          "text": "Bấy giờ con sẽ hiểu biết sự công bình, sự lý đoán, Sự chánh trực, và các nẻo lành."
+        },
+        {
+          "number": 10,
+          "text": "Vì sự khôn ngoan sẽ vào trong lòng con, Và linh hồn con sẽ lấy sự hiểu biết làm vui thích."
+        },
+        {
+          "number": 11,
+          "text": "Sự dẽ dặt sẽ coi sóc con, Sự thông sáng sẽ gìn giữ con,"
+        },
+        {
+          "number": 12,
+          "text": "Để cứu con khỏi đường dữ, Khỏi kẻ nói việc gian tà,"
+        },
+        {
+          "number": 13,
+          "text": "Và khỏi kẻ bỏ đường ngay thẳng, Mà đi theo các lối tối tăm;"
+        },
+        {
+          "number": 14,
+          "text": "Là người vui dạ làm dữ, Ưa thích sự gian tà của kẻ ác;"
+        },
+        {
+          "number": 15,
+          "text": "Chúng nó cong vạy trong đường lối mình, Và lầm lạc trong các nẻo mình;"
+        },
+        {
+          "number": 16,
+          "text": "Lại sự khôn ngoan sẽ cứu con khỏi dâm phụ, Là người đàn bà lạ nói lời dua nịnh;"
+        },
+        {
+          "number": 17,
+          "text": "Nàng lìa bỏ bạn của buổi đang thì, Và quên sự giao ước của Đức Chúa Trời mình;"
+        },
+        {
+          "number": 18,
+          "text": "Vì nhà nó xiêu qua sự chết, Và con đường nó dẫn đến chốn kẻ thác;"
+        },
+        {
+          "number": 19,
+          "text": "Chẳng ai đi đến nàng mà trở về, Hoặc được tới các lối sự sống;"
+        },
+        {
+          "number": 20,
+          "text": "Sự khôn ngoan sẽ khiến con đi trong đường người thiện, Và gìn giữ các lối của kẻ công bình."
+        },
+        {
+          "number": 21,
+          "text": "Vì người ngay thẳng sẽ được ở trên đất, Và người trọn vẹn sẽ còn ở đó luôn luôn."
+        },
+        {
+          "number": 22,
+          "text": "Nhưng kẻ gian ác sẽ bị truất khỏi đất, Và kẻ bất trung sẽ bị nhổ rứt khỏi đó."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi con, chớ quên sự khuyên dạy ta, Lòng con khá giữ các mạng lịnh ta;"
+        },
+        {
+          "number": 2,
+          "text": "Vì nó sẽ thêm cho con lâu ngày, Số năm mạng sống, và sự bình an."
+        },
+        {
+          "number": 3,
+          "text": "Sự nhân từ và sự chân thật, chớ để lìa bỏ con; Hãy đeo nó vào cổ, ghi nó nơi bia lòng con;"
+        },
+        {
+          "number": 4,
+          "text": "Như vậy, trước mặt Đức Chúa Trời và loài người Con sẽ được ơn và có sự khôn ngoan thật."
+        },
+        {
+          "number": 5,
+          "text": "Hãy hết lòng tin cậy Đức Giê-hô-va, Chớ nương cậy nơi sự thông sáng của con;"
+        },
+        {
+          "number": 6,
+          "text": "Phàm trong các việc làm của con, khá nhận biết Ngài, Thì Ngài sẽ chỉ dẫn các nẻo của con."
+        },
+        {
+          "number": 7,
+          "text": "Chớ khôn ngoan theo mắt mình; Hãy kính sợ Đức Giê-hô-va, và lìa khỏi sự ác:"
+        },
+        {
+          "number": 8,
+          "text": "Như vậy, cuống rốn con sẽ được mạnh khỏe, Và xương cốt con được mát mẻ."
+        },
+        {
+          "number": 9,
+          "text": "Hãy lấy tài vật và huê lợi đầu mùa của con, Mà tôn vinh Đức Giê-hô-va;"
+        },
+        {
+          "number": 10,
+          "text": "Vậy, các vựa lẫm con sẽ đầy dư dật, Và những thùng của con sẽ tràn rượu mới."
+        },
+        {
+          "number": 11,
+          "text": "Hỡi con, chớ khinh điều sửa phạt của Đức Giê-hô-va, Chớ hiềm lòng khi Ngài quở trách;"
+        },
+        {
+          "number": 12,
+          "text": "Vì Đức Giê-hô-va yêu thương ai thì trách phạt nấy. Như một người cha đối cùng con trai yêu dấu mình."
+        },
+        {
+          "number": 13,
+          "text": "Người nào tìm đặng sự khôn ngoan, Và được sự thông sáng, có phước thay!"
+        },
+        {
+          "number": 14,
+          "text": "Vì thà được nó hơn là được tiền bạc, Hoa lợi nó sanh ra tốt hơn vàng ròng."
+        },
+        {
+          "number": 15,
+          "text": "Sự khôn ngoan quí báu hơn châu ngọc, Chẳng một bửu vật nào con ưa thích mà sánh kịp nó được."
+        },
+        {
+          "number": 16,
+          "text": "Tay hữu nó cầm sự trường thọ, Còn trong tay tả, có sự giàu có và vinh hiển."
+        },
+        {
+          "number": 17,
+          "text": "Các nẻo nó vốn là nẻo khoái lạc, Và các lối nó cả điều bình an."
+        },
+        {
+          "number": 18,
+          "text": "Nó là cây sự sống cho ai nắm lấy nó; Người nào cầm giữ nó đều được phước hạnh."
+        },
+        {
+          "number": 19,
+          "text": "Đức Giê-hô-va dùng sự khôn ngoan lập nên trái đất; Nhờ sự thông sáng mà sắp đặt các từng trời."
+        },
+        {
+          "number": 20,
+          "text": "Do sự hiểu biết Ngài các vực sâu mở ra, Và mây đặt ra sương móc."
+        },
+        {
+          "number": 21,
+          "text": "Hỡi con, khá gìn giữ sự khôn ngoan thật và sự dẽ dặt, Chớ để nó lìa xa mắt con;"
+        },
+        {
+          "number": 22,
+          "text": "Thì nó sẽ là sự sống của linh hồn con, Và như đồ trang sức cho cổ con."
+        },
+        {
+          "number": 23,
+          "text": "Con sẽ bước đi vững vàng trong đường con, Và chân con không vấp ngã."
+        },
+        {
+          "number": 24,
+          "text": "Khi con nằm, chẳng có điều sợ hãi; Phải, con sẽ nằm được ngủ ngon giấc."
+        },
+        {
+          "number": 25,
+          "text": "Chớ sợ sự kinh khiếp xảy đến thình lình, Cũng đừng kinh hãi lúc sự tàn hại giáng trên kẻ ác;"
+        },
+        {
+          "number": 26,
+          "text": "Vì Đức Giê-hô-va là nơi nương cậy của con, Ngài sẽ gìn giữ chân con khỏi mắc bẫy."
+        },
+        {
+          "number": 27,
+          "text": "Chớ từ chối làm lành cho kẻ nào xứng đáng, Miễn là tay con có quyền làm điều ấy."
+        },
+        {
+          "number": 28,
+          "text": "Nhược bằng con có tại nơi con vật kẻ lân cận cầu xin, thì chớ nói với người rằng: Hãy đi và trở lại, ngày mai ta sẽ cho ngươi."
+        },
+        {
+          "number": 29,
+          "text": "Chớ lập mưu hại kẻ lân cận con, Vì người ăn ở bình yên bên con."
+        },
+        {
+          "number": 30,
+          "text": "Nếu không có làm điều hại cho con, Chớ tranh giành vô cớ với ai."
+        },
+        {
+          "number": 31,
+          "text": "Chớ phân bì với kẻ hung dữ, Cũng đừng chọn lối nào của hắn;"
+        },
+        {
+          "number": 32,
+          "text": "Vì Đức Giê-hô-va gớm ghiếc kẻ gian tà; Nhưng kết tình bậu bạn cùng người ngay thẳng."
+        },
+        {
+          "number": 33,
+          "text": "Sự rủa sả của Đức Giê-hô-va giáng trên nhà kẻ ác. Song Ngài ban phước cho chỗ ở của người công bình."
+        },
+        {
+          "number": 34,
+          "text": "Quả thật Ngài nhạo báng kẻ hay nhạo báng; Nhưng Ngài ban ơn cho người khiêm nhường."
+        },
+        {
+          "number": 35,
+          "text": "Người khôn ngoan sẽ hưởng được sự vinh hiển; Còn sự thăng lên của kẻ ngu dại sẽ ra điều hổ thẹn."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi các con, hãy nghe lời khuyên dạy của một người cha, Khá chủ ý vào, hầu cho biết sự thông sáng;"
+        },
+        {
+          "number": 2,
+          "text": "Vì ta ban cho các con một đạo lý tốt lành; Chớ lìa bỏ lời dạy dỗ của ta."
+        },
+        {
+          "number": 3,
+          "text": "Khi còn thơ ấu, ta là con trai của cha ta, Một đứa con một của mẹ ta yêu mến."
+        },
+        {
+          "number": 4,
+          "text": "Cha ta có dạy ta rằng: Lòng con khá ghi nhớ các lời ta; Hãy gìn giữ mạng lịnh ta, thì con sẽ được sống."
+        },
+        {
+          "number": 5,
+          "text": "Khá cầu lấy sự khôn ngoan, khá cầu lấy sự thông sáng, Chớ quên, chớ xây bỏ các lời của miệng ta;"
+        },
+        {
+          "number": 6,
+          "text": "Đừng lìa bỏ sự khôn ngoan, ắt người sẽ gìn giữ con; Hãy yêu mến người, thì người sẽ phù hộ con."
+        },
+        {
+          "number": 7,
+          "text": "Sự khôn ngoan là điều cần nhất; vậy, khá cầu lấy sự khôn ngoan; Hãy dùng hết của con đã được mà mua sự thông sáng."
+        },
+        {
+          "number": 8,
+          "text": "Hãy tôn tặng sự khôn ngoan, thì sự khôn ngoan sẽ thăng con lên, Làm cho con được vinh hiển, khi con hoài niệm đến."
+        },
+        {
+          "number": 9,
+          "text": "Sự khôn ngoan sẽ đội trên đầu con một dây hoa mĩ, Và ban cho con một mão triều thiên vinh quang."
+        },
+        {
+          "number": 10,
+          "text": "Hỡi con, hãy nghe và tiếp nhận các lời ta; Thì năm tháng của đời con sẽ được thêm nhiều lên."
+        },
+        {
+          "number": 11,
+          "text": "Ta đã dạy dỗ con đường khôn ngoan, Dẫn con đi trong các lối ngay thẳng."
+        },
+        {
+          "number": 12,
+          "text": "Khi con đi, bước chân con sẽ không ngập ngừng, Và khi con chạy, con sẽ không vấp ngã."
+        },
+        {
+          "number": 13,
+          "text": "Hãy nắm chắc điều khuyên dạy, chớ buông ra; Khá gìn giữ nó, vì là sự sống của con."
+        },
+        {
+          "number": 14,
+          "text": "Chớ vào trong lối kẻ hung dữ, Và đừng đi đường kẻ gian ác."
+        },
+        {
+          "number": 15,
+          "text": "Hãy tránh đường ấy, chớ đi ngang qua nó; Hãy xây khỏi nó và cứ đi thẳng."
+        },
+        {
+          "number": 16,
+          "text": "Vì nếu chúng nó không làm điều ác, thì ngủ không đặng; Bằng chưa gây cho người nào vấp phạm, thì giấc ngủ bị cất khỏi chúng nó."
+        },
+        {
+          "number": 17,
+          "text": "Vì chúng nó ăn bánh của sự gian ác, Và uống rượu của sự hung hăng."
+        },
+        {
+          "number": 18,
+          "text": "Nhưng con đường người công bình giống như sự sáng chiếu rạng, Càng sáng thêm lên cho đến giữa trưa."
+        },
+        {
+          "number": 19,
+          "text": "Còn nẻo kẻ gian ác vẫn như tăm tối; Chúng nó chẳng biết mình vấp ngã vì đâu."
+        },
+        {
+          "number": 20,
+          "text": "Hỡi con, hãy chăm chỉ về các lời ta, Khá nghiêng tai nghe những bài giảng thuyết ta."
+        },
+        {
+          "number": 21,
+          "text": "Các lời ấy chớ để xa khỏi mắt con, Hãy giữ lấy nơi lòng con."
+        },
+        {
+          "number": 22,
+          "text": "Vì lời ấy là sự sống cho người nào tìm được nó, Và sự khỏe mạnh cho toàn thân thể của họ."
+        },
+        {
+          "number": 23,
+          "text": "Khá cẩn thận giữ tấm lòng của con hơn hết, Vì các nguồn sự sống do nơi nó mà ra."
+        },
+        {
+          "number": 24,
+          "text": "Con hãy dẹp ra sự gian tà của miệng, Và bỏ cách xa con sự giả dối của môi."
+        },
+        {
+          "number": 25,
+          "text": "Mắt con hãy ngó ngay trước mặt, Và mí mắt con khá xem thẳng trước mặt con."
+        },
+        {
+          "number": 26,
+          "text": "Hãy ban bằng cái nẻo của chân con đi, Và lập cho vững vàng các đường lối con,"
+        },
+        {
+          "number": 27,
+          "text": "Chớ xây qua bên hữu hay bên tả; Hãy dời chân con khỏi sự ác."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi con, hãy chăm chỉ về sự khôn ngoan ta, Khá nghiêng tai qua nghe lời thông sáng ta;"
+        },
+        {
+          "number": 2,
+          "text": "Để con gìn giữ sự dẽ dặt, Và môi con bảo tồn sự tri thức."
+        },
+        {
+          "number": 3,
+          "text": "Vì môi kẻ dâm phụ đặt ra mật, Và miệng nó dịu hơn dầu;"
+        },
+        {
+          "number": 4,
+          "text": "Nhưng rốt lại đắng như ngải cứu, Bén như gươm hai lưỡi."
+        },
+        {
+          "number": 5,
+          "text": "Chân nó xuống chốn chết; Bước nó đụng đến âm phủ."
+        },
+        {
+          "number": 6,
+          "text": "Nó không tìm đặng con đường bằng thẳng của sự sống; Các lối nó lầm lạc, song nó chẳng biết đến."
+        },
+        {
+          "number": 7,
+          "text": "Vậy bây giờ, hỡi các con, hãy nghe ta; Chớ lìa bỏ các lời của miệng ta."
+        },
+        {
+          "number": 8,
+          "text": "Hãy dời đường con cách xa khỏi nó, Đừng lại gần cửa nhà nó;"
+        },
+        {
+          "number": 9,
+          "text": "E con trao sự danh dự mình cho kẻ khác, Và năm tuổi con cho kẻ hung bạo."
+        },
+        {
+          "number": 10,
+          "text": "E người lạ được no nê hóa tài con, Và công lao con về nhà kẻ ngoại;"
+        },
+        {
+          "number": 11,
+          "text": "Kẻo đến cuối cùng con phải rên siết, Vì thịt và thân thể con đã bị hao mòn,"
+        },
+        {
+          "number": 12,
+          "text": "Rồi con nói rằng: Cớ sao tôi ghét lời khuyên dạy, Và lòng tôi khinh bỉ sự quở trách?"
+        },
+        {
+          "number": 13,
+          "text": "Nhân sao tôi không vâng theo tiếng giáo sư tôi, Và chẳng nghiêng tai qua lời của người dạy dỗ tôi?"
+        },
+        {
+          "number": 14,
+          "text": "Tại giữa dân sự và hội chúng, Tôi thiếu điều bị sa vào các thứ tai họa."
+        },
+        {
+          "number": 15,
+          "text": "Hãy uống nước hồ con chứa, Và nước chảy trong giếng con."
+        },
+        {
+          "number": 16,
+          "text": "Các nguồn của con há nên tràn ra ngoài đường, Và các suối của con tuôn nơi phố chợ sao?"
+        },
+        {
+          "number": 17,
+          "text": "Nó khá về một mình con, Chớ thông dụng nó với người ngoại."
+        },
+        {
+          "number": 18,
+          "text": "Nguyện nguồn mạch con được phước; Con hãy lấy làm vui thích nơi vợ con cưới buổi đang thì,"
+        },
+        {
+          "number": 19,
+          "text": "Như nai cái đáng thương, và hoàng dương có duyên tốt, Nguyện nương long nàng làm thỏa lòng con luôn luôn, Và ái tình nàng khiến cho con say mê mãi mãi."
+        },
+        {
+          "number": 20,
+          "text": "Hỡi con, lẽ nào con mê mệt người dâm phụ, Và nâng niu lòng của người ngoại?"
+        },
+        {
+          "number": 21,
+          "text": "Vì các đường của loài người ở trước mặt Đức Giê-hô-va; Ngài ban bằng các lối của họ."
+        },
+        {
+          "number": 22,
+          "text": "Kẻ hung dữ sẽ bị gian ác mình bắt phải, Và bị dây tội lỗi mình vấn buộc lấy."
+        },
+        {
+          "number": 23,
+          "text": "Nó sẽ chết vì thiếu lời khuyên dạy, Và bị lầm lạc vì ngu dại quá."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi con, nếu con có bảo lãnh cho kẻ lân cận mình, Nếu con giao tay mình vì người ngoại,"
+        },
+        {
+          "number": 2,
+          "text": "Thì con đã bị lời miệng mình trói buộc, Mắc phải lời của miệng con."
+        },
+        {
+          "number": 3,
+          "text": "Hỡi con, bởi vì con đã sa vào tay kẻ lân cận con, Hỡi làm điều nầy và giải cứu mình con: Hãy đi hạ mình xuống, nài xin người lân cận con;"
+        },
+        {
+          "number": 4,
+          "text": "Chớ để cho hai mắt con ngủ, Hoặc mí mắt con chợp lại;"
+        },
+        {
+          "number": 5,
+          "text": "Hãy giải cứu mình khỏi người như con hoàng dương thoát khỏi tay thợ săn, Như con chim thoát khỏi tay kẻ đánh rập."
+        },
+        {
+          "number": 6,
+          "text": "Hỡi kẻ biếng nhác, hãy đi đến loài kiến; Khá xem xét cách ăn ở nó mà học khôn ngoan."
+        },
+        {
+          "number": 7,
+          "text": "Tuy nó không có hoặc quan tướng, Hoặc quan cai đốc, hay là quan trấn,"
+        },
+        {
+          "number": 8,
+          "text": "Thì nó cũng biết sắm sửa lương phạn mình trong lúc mùa hè, Và thâu trữ vật thực nó trong khi mùa gặt."
+        },
+        {
+          "number": 9,
+          "text": "Hỡi kẻ biếng nhác, ngươi sẽ nằm cho đến chừng nào? Bao giờ ngươi sẽ ngủ thức dậy?"
+        },
+        {
+          "number": 10,
+          "text": "Ngủ một chút, chợp mắt một chút, Khoanh tay nằm một chút,"
+        },
+        {
+          "number": 11,
+          "text": "Thì sự nghèo khổ của ngươi sẽ đến như kẻ đi rảo, Và sự thiếu thốn của ngươi tới như người cầm binh khí."
+        },
+        {
+          "number": 12,
+          "text": "Người nào đi đứng có miệng giả dối, Là một kẻ vô loại, một người gian ác;"
+        },
+        {
+          "number": 13,
+          "text": "Hắn liếc con mắt, dùng chân mình bày ý, Và lấy ngón tay mình ra dấu;"
+        },
+        {
+          "number": 14,
+          "text": "Trong lòng hắn vẫn có sự gian tà; Nó toan mưu ác luôn luôn, Và gieo sự tranh cạnh."
+        },
+        {
+          "number": 15,
+          "text": "Bới cớ ấy, tai họa sẽ xảy đến nó thình lình; Bỗng chúc nó bị bại hoại, không phương thế chữa được."
+        },
+        {
+          "number": 16,
+          "text": "Có sáu điều Đức Giê-hô-va ghét, Và bảy điều Ngài lấy làm gớm ghiếc:"
+        },
+        {
+          "number": 17,
+          "text": "Con mắt kiêu ngạo, lưỡi dối trá, Tay làm đổ huyết vô tội"
+        },
+        {
+          "number": 18,
+          "text": "Lòng toan những mưu ác, Chân vội vàng chạy đến sự dữ,"
+        },
+        {
+          "number": 19,
+          "text": "Kẻ làm chứng gian và nói điều dối, Cùng kẻ gieo sự tranh cạnh trong vòng anh em."
+        },
+        {
+          "number": 20,
+          "text": "Hỡi con, hãy giữ lời răn bảo của cha, Chớ lìa bỏ các phép tắc của mẹ con."
+        },
+        {
+          "number": 21,
+          "text": "Khá ghi tạc nó nơi lòng con luôn luôn, Và đeo nó nơi cổ con."
+        },
+        {
+          "number": 22,
+          "text": "Khi con đi, các lời đó sẽ dẫn dắt con; Lúc con ngủ, nó gìn giữ con; Và khi con thức dậy, thì nó sẽ trò chuyện với con."
+        },
+        {
+          "number": 23,
+          "text": "Vì điều răn là một cái đèn, luật pháp là ánh sáng, Và sự quở trách khuyên dạy là con đường sự sống,"
+        },
+        {
+          "number": 24,
+          "text": "Đặng giữ con khỏi người đàn bà ác nghiệp, Và khỏi lưỡi dua nịnh của dâm phụ."
+        },
+        {
+          "number": 25,
+          "text": "Lòng con chớ tham muốn sắc nó, Đừng để mình mắc phải mí mắt nó."
+        },
+        {
+          "number": 26,
+          "text": "Vì tại kỵ nữ có người nông nổi chỉ còn một miếng bánh mà thôi; Người dâm phụ vẫn lừa sẵn linh hồn quí báu."
+        },
+        {
+          "number": 27,
+          "text": "Há có người nào để lửa trong lòng mình, Mà áo người lại chẳng bị cháy sao?"
+        },
+        {
+          "number": 28,
+          "text": "Há có ai đi trên than lửa hực, Mà chân mình lại chẳng bị phồng chăng?"
+        },
+        {
+          "number": 29,
+          "text": "Kẻ nào đi tới cùng vợ người lân cận mình cũng vậy; Phàm ai đụng đến nàng ắt chẳng được khỏi bị phạt."
+        },
+        {
+          "number": 30,
+          "text": "Người ta chẳng khinh dị kẻ trộm, Nếu nó ăn cắp đặng phỉ lòng mình khi đói khát;"
+        },
+        {
+          "number": 31,
+          "text": "Hễ nó bị bắt, chắc phải thường bồi gấp bảy lần; Nó sẽ nộp hết tài sản của nhà nó."
+        },
+        {
+          "number": 32,
+          "text": "Kẻ nào phạm tội ngoại tình với người đàn bà, tất vô tâm vô trí: Ai làm như vậy, khiến cho linh hồn mình bị hư mất."
+        },
+        {
+          "number": 33,
+          "text": "Người ấy sẽ bị thương tích và khinh bỉ, Sự sỉ nhục người sẽ chẳng bôi mất đi;"
+        },
+        {
+          "number": 34,
+          "text": "Vì sự ghen ghét là điều giận dữ của người nam, Trong ngày báo thù, người không dung thứ;"
+        },
+        {
+          "number": 35,
+          "text": "Người sẽ chẳng nhận giá đền tội nào hết, Mặc dầu con gia tăng của lễ, người cũng không đặng phỉ ý đâu."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Hỡi con, hãy giữ các lời ta, Và giấu nơi lòng các mạng lịnh ta."
+        },
+        {
+          "number": 2,
+          "text": "Khá tuân thủ các mạng lịnh ta, thì con sẽ được sống; Và gìn giữ lời khuyên dạy ta như ngươi của mắt con."
+        },
+        {
+          "number": 3,
+          "text": "Hãy cột nó nơi ngón tay con, Ghi nó trên bia lòng con."
+        },
+        {
+          "number": 4,
+          "text": "Hãy nói với sự khôn ngoan rằng: Ngươi là chị em ta! Và xưng sự thông sáng là bằng hữu con;"
+        },
+        {
+          "number": 5,
+          "text": "Để nó gìn giữ con khỏi dâm phụ Khỏi đàn bà ngoại hay nói lời dua nịnh."
+        },
+        {
+          "number": 6,
+          "text": "Vì tại cửa sổ nhà ta, Ta nhìn ngang qua song mặt võng ta,"
+        },
+        {
+          "number": 7,
+          "text": "Bèn thấy trong bọn kẻ ngu dốt, Giữa vòng người thiếu niên, có một gã trai trẻ không trí hiểu,"
+        },
+        {
+          "number": 8,
+          "text": "Đi qua ngoài đường gần góc nhà đàn bà ấy; Người bắt đi đường dẫn đến nhà nàng,"
+        },
+        {
+          "number": 9,
+          "text": "Hoặc trong lúc chạng vạng khi rốt ngày, Hoặc giữa ban đêm khi tối tăm mù mịt."
+        },
+        {
+          "number": 10,
+          "text": "Kìa, người đàn bà ấy đi ra rước hắn, Trang điểm như con bợm, lòng đầy mưu kế,"
+        },
+        {
+          "number": 11,
+          "text": "Nàng vốn nói om sòm, không thìn nết, Hai chân nàng chẳng ở trong nhà,"
+        },
+        {
+          "number": 12,
+          "text": "Khi ở ngoài đường, lúc nơi phố chợ, Rình rập tại các hẻm góc."
+        },
+        {
+          "number": 13,
+          "text": "Nàng nắm ôm hôn kẻ trai trẻ ấy, Mặt chai mày đá, nói cùng chàng rằng:"
+        },
+        {
+          "number": 14,
+          "text": "“Tôi có của lễ thù ân tại nhà tôi; Ngày nay tôi đã trả xong các lời khấn nguyện tôi."
+        },
+        {
+          "number": 15,
+          "text": "Bởi cớ đó, tôi ra đón anh, Đặng tìm thấy mặt anh, và tôi đã tìm được."
+        },
+        {
+          "number": 16,
+          "text": "Tôi có trải trên giường tôi những mền, Bằng chỉ Ê-díp-tô đủ sắc,"
+        },
+        {
+          "number": 17,
+          "text": "Lấy một dược, lư hội, và quế bì, Mà xông thơm chỗ nằm tôi."
+        },
+        {
+          "number": 18,
+          "text": "Hãy đến, chúng ta sẽ thân ái mê mệt cho đến sáng, Vui sướng nhau về sự luyến ái."
+        },
+        {
+          "number": 19,
+          "text": "Vì chồng tôi không có ở nhà, Người trẩy đi xa xuôi lắm,"
+        },
+        {
+          "number": 20,
+          "text": "Đem túi bạc theo tay người, Đến rằm mới trở về nhà.”"
+        },
+        {
+          "number": 21,
+          "text": "Nàng dùng lắm lời êm dịu quyến dụ hắn, Làm hắn sa ngã vì lời dua nịnh của môi miệng mình."
+        },
+        {
+          "number": 22,
+          "text": "Hắn liền đi theo nàng, Như một con bò đến lò cạo, Như kẻ ngu dại bị cùm dẫn đi chịu hình phạt,"
+        },
+        {
+          "number": 23,
+          "text": "Cho đến khi mũi tên xoi ngang qua gan nó; Như con chim bay sa vào lưới, Mà không biết rằng nó rập sự sống mình."
+        },
+        {
+          "number": 24,
+          "text": "Vậy bây giờ, hỡi con, hãy nghe ta, Khá chăm chỉ về các lời của miệng ta."
+        },
+        {
+          "number": 25,
+          "text": "Lòng con chớ xây vào con đường đàn bà ấy. Chớ đi lạc trong các lối nàng;"
+        },
+        {
+          "number": 26,
+          "text": "Vì nàng làm nhiều người bị thương tích sa ngã, Và kẻ bị nàng giết thật rất nhiều thay."
+        },
+        {
+          "number": 27,
+          "text": "Nhà nàng là con đường của âm phủ, Dẫn xuống các phòng của sự chết."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sự khôn ngoan há chẳng kêu lên sao? Sự thông sáng há không vang tiếng mình ra ư?"
+        },
+        {
+          "number": 2,
+          "text": "Sự khôn ngoan đứng trên chót các nơi cao, Ngoài đường, tại các ngã tư."
+        },
+        {
+          "number": 3,
+          "text": "Gần bên cửa thành, tại nơi vào thành, ỳ chỗ đông trong cửa thành, sự khôn ngoan la lên rằng:"
+        },
+        {
+          "number": 4,
+          "text": "Hỡi loài người, ta kêu gọi các ngươi, Và tiếng ta hướng về con cái loài người!"
+        },
+        {
+          "number": 5,
+          "text": "Hỡi kẻ ngu muội, hãy hiểu sự khôn khéo; Hỡi kẻ dại dột, lòng ngươi khá nên thông sáng."
+        },
+        {
+          "number": 6,
+          "text": "Hãy nghe, vì ta sẽ nói điều tốt lành, Ta hở môi ra mà dạy điều ngay thẳng."
+        },
+        {
+          "number": 7,
+          "text": "Vì miệng ta sẽ nói chân thật; Còn môi ta ghét sự gian ác."
+        },
+        {
+          "number": 8,
+          "text": "Các lời miệng ta điều xưng hiệp sự công bình. Trong nó chẳng có điều chi cong vạy hoặc gian tà."
+        },
+        {
+          "number": 9,
+          "text": "Thảy đều rõ ràng cho người nào hiểu biết, Và ngay thẳng cho người nào tìm được sự tri thức."
+        },
+        {
+          "number": 10,
+          "text": "Khá nhận sự khuyên dạy ta, chớ lãnh tiền bạc, Thà lãnh sự tri thức hơn là vàng chọn lựa;"
+        },
+        {
+          "number": 11,
+          "text": "Vì sự khôn ngoan có giá hơn châu ngọc, Và các vật mình ưa thích hơn hết chẳng sánh bằng nó đặng."
+        },
+        {
+          "number": 12,
+          "text": "Ta, là sự khôn ngoan, đồng ở với sự thông minh, Và tìm được sự hiểu biết, và sự dẽ dặt."
+        },
+        {
+          "number": 13,
+          "text": "Sự kính sợ Đức Giê-hô-va, ấy là ghét điều ác; Ta ghét sự kiêu ngạo, xấc xược, con đường ác, và miệng gian tà."
+        },
+        {
+          "number": 14,
+          "text": "Mưu luận và sự thông thạo đều thuộc về ta; Ta là sự thông sáng; năng lực vốn thuộc về ta."
+        },
+        {
+          "number": 15,
+          "text": "Nhờ ta, các vua cai trị, Và những quan trưởng định sự công bình."
+        },
+        {
+          "number": 16,
+          "text": "Nhờ ta, các quan trưởng, người tước vị, Và các quan xét thế gian đều quản hạt."
+        },
+        {
+          "number": 17,
+          "text": "Ta yêu mến những người yêu mến ta, Phàm ai tìm kiếm ta sẽ gặp ta."
+        },
+        {
+          "number": 18,
+          "text": "Sự giàu có, sự tôn trọng, Của cải bền lâu, và sự công bình, đều ở nơi ta."
+        },
+        {
+          "number": 19,
+          "text": "Bông trái ta tốt hơn vàng, đến đỗi hơn vàng ròng; Hoa lợi của ta quí hơn bạc cao."
+        },
+        {
+          "number": 20,
+          "text": "Ta đi trong con đường công bình, Giữa các lối ngay thẳng,"
+        },
+        {
+          "number": 21,
+          "text": "Đặng làm cho kẻ yêu mến ta hưởng được của cải thật, Và làm cho đầy dẫy các kho tàng của họ."
+        },
+        {
+          "number": 22,
+          "text": "Trong buổi Đức Giê-hô-va khởi cuộc tạo hóa, Và thời thái cổ, trước khi chưa dựng nên muôn vật thì Ngài đã có ta."
+        },
+        {
+          "number": 23,
+          "text": "Ta đã được lập từ trước vô cùng Từ khi nguyên thỉ, trước khi dựng nên trái đất."
+        },
+        {
+          "number": 24,
+          "text": "Lúc chưa có vực sâu, chưa có nguồn chảy nước nhiều, Thì ta đã s sh ra rồi."
+        },
+        {
+          "number": 25,
+          "text": "Trước khi núi non chưa lập nên, Và các gò nổng chưa có;"
+        },
+        {
+          "number": 26,
+          "text": "Trước khi Đức Giê-hô-va chưa có dựng nên đất, đồng ruộng, Và tro bụi đầu tiên của thế gian, thì ta đã sanh ra rồi."
+        },
+        {
+          "number": 27,
+          "text": "Khi Đức Chúa Trời lập các từng trời, Và đặt cái vòng trên mặt vực sâu, thì có ta ở đó."
+        },
+        {
+          "number": 28,
+          "text": "Khi Ngài làm cho kiên cố các từng mây trên cao, Khiến các nguồn vực sâu vững chắc,"
+        },
+        {
+          "number": 29,
+          "text": "Định bờ cõi cho biển, Để nước không tràn phạm điều răn của Ngài, Và khi Ngài lập nên trái đất,"
+        },
+        {
+          "number": 30,
+          "text": "Thì ta ở bên Ngài làm thợ cái, Hằng ngày ta là sự khoái lạc Ngài, Và thường thường vui vẻ trước mặt Ngài."
+        },
+        {
+          "number": 31,
+          "text": "Ta lấy làm vui vẻ về chỗ có người ở trên trái đất của Ngài, Và sự vui thích ta ở nơi con cái loài người."
+        },
+        {
+          "number": 32,
+          "text": "Vậy, bây giờ, các con ơi! hãy nghe ta; Ai giữ đạo ta lấy làm có phước thay."
+        },
+        {
+          "number": 33,
+          "text": "Khá nghe lời khuyên dạy, và ở khôn ngoan, Chớ nên từ chối nó."
+        },
+        {
+          "number": 34,
+          "text": "Người nào nghe lời ta, Hằng ngày tỉnh thức tại nơi cửa ta, Và chờ đợi ở bên các trụ cửa ta, lấy làm có phước thay."
+        },
+        {
+          "number": 35,
+          "text": "Vì hễ ai tìm được ta, thì gặp sự sống, Và sẽ được ơn của Đức Giê-hô-va;"
+        },
+        {
+          "number": 36,
+          "text": "Nhưng ai phạm đến ta, làm hại cho linh hồn mình; Còn kẻ nào ghét ta, ắt ưa thích sự chết."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sự khôn ngoan đã xây dựng nhà mình; Tạc thành bảy cây trụ của người;"
+        },
+        {
+          "number": 2,
+          "text": "Giết các con thú mình, pha rượu nho mình, Và dọn bàn tiệc mình rồi."
+        },
+        {
+          "number": 3,
+          "text": "Người đã sai các tớ gái mình đi; ỳ trên các nơi cao của thành người la rằng:"
+        },
+        {
+          "number": 4,
+          "text": "Ai ngu dốt, hãy rút vào đấy; Với kẻ thiếu trí hiểu, sự khôn ngoan nói rằng:"
+        },
+        {
+          "number": 5,
+          "text": "Hãy đến ăn bánh của ta, Và uống rượu ta đã pha lộn."
+        },
+        {
+          "number": 6,
+          "text": "Khá bỏ sự ngây dại đi, thì sẽ được sống; Hãy đi theo con đường thông sáng."
+        },
+        {
+          "number": 7,
+          "text": "Ai trách dạy kẻ nhạo báng mắc phải điều sỉ nhục, Ai quở kẻ hung ác bị điếm ố."
+        },
+        {
+          "number": 8,
+          "text": "Chớ trách kẻ nhạo báng, e nó ghét con; Hãy trách người khôn ngoan, thì người sẽ yêu mến con."
+        },
+        {
+          "number": 9,
+          "text": "Hãy khuyên giáo người khôn ngoan, thì người sẽ được nên khôn ngoan hơn; Khá dạy dỗ người công bình, thì người sẽ thêm tri thức nữa."
+        },
+        {
+          "number": 10,
+          "text": "Kính sợ Đức Giê-hô-va, ấy là khởi đầu sự khôn ngoan; Sự nhìn biết Đấng Thánh, đó là sự thông sáng."
+        },
+        {
+          "number": 11,
+          "text": "Vì nhờ ta, các ngày con sẽ được thêm nhiều lên, Và các năm tuổi con sẽ đặng gia tăng."
+        },
+        {
+          "number": 12,
+          "text": "Nếu con khôn ngoan, thì có ích cho chính mình con; Nếu con nhạo báng, tất một mình con phải gánh lấy."
+        },
+        {
+          "number": 13,
+          "text": "Đàn bà điên cuồng hay la lối, Nàng là ngu muội chẳng biết chi cả."
+        },
+        {
+          "number": 14,
+          "text": "Nàng ngồi nơi cửa nhà mình, Trên một cái ghế tại nơi cao của thành,"
+        },
+        {
+          "number": 15,
+          "text": "Đặng kêu gọi những kẻ đi đường, Tức những kẻ đi thẳng đường mình mà rằng:"
+        },
+        {
+          "number": 16,
+          "text": "Ai ngu dốt hãy rút vào đây; Và nàng nói với kẻ thiếu trí hiểu rằng:"
+        },
+        {
+          "number": 17,
+          "text": "Nước ăn cắp lấy làm ngọt ngào, Bánh ăn vụng là ngon thay."
+        },
+        {
+          "number": 18,
+          "text": "Những người chẳng biết rằng kẻ chết ở đó, Và những người khách của nàng đều ở dưới chốn sâu của âm phủ."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Con trai khôn ngoan làm vui cha mình; Nhưng đứa ngu muội gây buồn cho mẹ nó."
+        },
+        {
+          "number": 2,
+          "text": "Của phi nghĩa chẳng được ích chi; Song sự công bình giải cứu khỏi chết."
+        },
+        {
+          "number": 3,
+          "text": "Đức Giê-hô-va không để linh hồn người công bình chịu đói khát; Nhưng Ngài xô đuổi sự ước ao của kẻ ác đi."
+        },
+        {
+          "number": 4,
+          "text": "Kẻ làm việc tay biếng nhác trở nên nghèo hèn; Còn tay kẻ siêng năng làm cho được giàu có."
+        },
+        {
+          "number": 5,
+          "text": "Ai thâu trữ trong mùa hè là con trai khôn ngoan; Song kẻ ngủ lúc mùa gặt là con trai gây cho sỉ nhục."
+        },
+        {
+          "number": 6,
+          "text": "Có phước lành giáng trên đầu kẻ công bình; Nhưng miệng kẻ ác giấu sự cường bạo."
+        },
+        {
+          "number": 7,
+          "text": "Kỷ niệm người công bình được khen ngợi; Song tên kẻ gian ác rục đi."
+        },
+        {
+          "number": 8,
+          "text": "Người có lòng khôn ngoan, nhận tiếp những điều răn; Nhưng kẻ có miệng ngu muội phải bị sa ngã."
+        },
+        {
+          "number": 9,
+          "text": "Người nào theo sự ngay thẳng đi vững chắc; Còn kẻ làm cong vẹo đường lối mình bị chúng biết."
+        },
+        {
+          "number": 10,
+          "text": "Kẻ nào nheo mắt làm cho ưu sầu; Còn ai có miệng ngu muội bị sa ngã."
+        },
+        {
+          "number": 11,
+          "text": "Miệng người công bình là một nguồn sự sống; Nhưng miệng kẻ hung ác giấu sự cường bạo."
+        },
+        {
+          "number": 12,
+          "text": "Sự ghen ghét xui điều cãi lộn; Song lòng thương yêu lấp hết các tội phạm."
+        },
+        {
+          "number": 13,
+          "text": "Trên môi miệng người thông sáng có sự khôn ngoan; Nhưng roi vọt dành cho lưng kẻ thiếu trí hiểu."
+        },
+        {
+          "number": 14,
+          "text": "Người khôn ngoan dành để sự tri thức; Nhưng tại cớ miệng kẻ ngu muội sự bại hoại hòng đến."
+        },
+        {
+          "number": 15,
+          "text": "Tài sản kẻ giàu có là cái thành kiên cố của người; Song sự hư nát của người khốn khổ là sự nghèo nàn của họ."
+        },
+        {
+          "number": 16,
+          "text": "Lao khổ của người công bình hướng về sự sống; Còn hoa lợi kẻ hung ác chiều về tội lỗi."
+        },
+        {
+          "number": 17,
+          "text": "Kẻ nghe lời khuyên dạy ở trong đường sự sống; Nhưng ai quên sự quở trách phải lầm lạc."
+        },
+        {
+          "number": 18,
+          "text": "Người giấu sự ghen ghét có môi dối giả; Và ai rải điều nói hành là kẻ ngu dại."
+        },
+        {
+          "number": 19,
+          "text": "Hễ lắm lời, vi phạm nào có thiếu; Nhưng ai cầm giữ miệng mình là khôn ngoan."
+        },
+        {
+          "number": 20,
+          "text": "Lưỡi người công bình giống như bạc cao; Còn lòng kẻ hung ác không ra gì."
+        },
+        {
+          "number": 21,
+          "text": "Môi miệng người công bình nuôi dạy nhiều người; Nhưng kẻ ngu dại chết, vì thiếu trí hiểu."
+        },
+        {
+          "number": 22,
+          "text": "Phước lành của Đức Giê-hô-va làm cho giàu có; Ngài chẳng thêm sự đau lòng gì lẫn vào."
+        },
+        {
+          "number": 23,
+          "text": "Kẻ thiếu trí hiểu coi sự làm ác như chơi; Nhưng người thông sáng thích sự khôn ngoan."
+        },
+        {
+          "number": 24,
+          "text": "Điều gì kẻ hung ác sợ sệt, ắt sẽ xảy đến cho nó; Nhưng kẻ công bình sẽ được như ý mình ước ao."
+        },
+        {
+          "number": 25,
+          "text": "Khi gió trốt thổi qua, kẻ hung ác không còn nữa; Song nền của người công bình còn đến đời đời."
+        },
+        {
+          "number": 26,
+          "text": "Như giấm ghê răng, như khói cay mắt, Kẻ làm biếng nhác đối với người sai khiến nó là vậy."
+        },
+        {
+          "number": 27,
+          "text": "Sự kính sợ Đức Giê-hô-va gia thêm ngày tháng; Còn năm tuổi kẻ ác sẽ bị giảm bớt đi."
+        },
+        {
+          "number": 28,
+          "text": "Sự trông mong của người công bình giáp sự vui vẻ; Còn sự trông đợi của kẻ ác sẽ hư mất đi."
+        },
+        {
+          "number": 29,
+          "text": "Con đường của Đức Giê-hô-va như một đồn lũy cho người ngay thẳng; Nhưng nó là sự bại hoại cho kẻ làm ác."
+        },
+        {
+          "number": 30,
+          "text": "Người công bình chẳng hề bị rúng động; Song kẻ ác không được ở trên đất."
+        },
+        {
+          "number": 31,
+          "text": "Miệng người công bình sanh sự khôn ngoan; Duy lưỡi của kẻ gian tà sẽ bị truất."
+        },
+        {
+          "number": 32,
+          "text": "Môi người công bình biết điều đẹp ý; Nhưng miệng kẻ hung ác chỉ nói sự gian tà."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Cây cân giả lấy làm gớm ghiếc cho Đức Giê-hô-va; Nhưng trái cân đúng được đẹp lòng Ngài."
+        },
+        {
+          "number": 2,
+          "text": "Khi kiêu ngạo đến, sỉ nhục cũng đến nữa; Nhưng sự khôn ngoan vẫn ở với người khiêm nhượng."
+        },
+        {
+          "number": 3,
+          "text": "Sự thanh liêm của người ngay thẳng dẫn dắt họ; Còn sự gian tà của kẻ bất trung sẽ hủy diệt chúng nó."
+        },
+        {
+          "number": 4,
+          "text": "Trong ngày thạnh nộ, tài sản chẳng ích chi cả; Duy công bình giải cứu khỏi sự chết."
+        },
+        {
+          "number": 5,
+          "text": "Sự công bình của người trọn vẹn ban bằng đường lối người; Nhưng kẻ hung ác vì gian ác mình mà sa ngã."
+        },
+        {
+          "number": 6,
+          "text": "Sự công bình của người ngay thẳng sẽ giải cứu họ; Song kẻ bất trung bị mắc trong sự gian ác của mình."
+        },
+        {
+          "number": 7,
+          "text": "Khi kẻ ác chết, sự trông mong nó mất; Và sự trông đợi của kẻ cường bạo bị diệt."
+        },
+        {
+          "number": 8,
+          "text": "Người công bình được cứu khỏi hoạn nạn; Rồi kẻ hung ác sa vào đó thế cho người."
+        },
+        {
+          "number": 9,
+          "text": "Kẻ ác lấy lời nói mà làm tàn hại người lân cận mình; Còn các người công bình nhờ tri thức mà được cứu khỏi."
+        },
+        {
+          "number": 10,
+          "text": "Cả thành đều vui vẻ về sự may mắn của người công bình; Nhưng khi kẻ ác bị hư mất, bèn có tiếng reo mừng."
+        },
+        {
+          "number": 11,
+          "text": "Nhờ người ngay thẳng chúc phước cho, thành được cao trọng; Song tại miệng kẻ tà ác, nó bị đánh đổ."
+        },
+        {
+          "number": 12,
+          "text": "Kẻ nào khinh dể người lân cận mình thiếu trí hiểu; Nhưng người khôn sáng làm thinh."
+        },
+        {
+          "number": 13,
+          "text": "Kẻ đi thèo lẻo tỏ ra điều kín đáo; Còn ai có lòng trung tín giữ kín công việc."
+        },
+        {
+          "number": 14,
+          "text": "Dân sự sa ngã tại không chánh trị; Song nếu có nhiều mưu sĩ, bèn được yên ổn."
+        },
+        {
+          "number": 15,
+          "text": "Người nào bảo lãnh cho người ngoại, ắt bị hại; Nhưng ai ghét cuộc bảo lãnh, bèn được bình an vô sự."
+        },
+        {
+          "number": 16,
+          "text": "Người đàn bà có duyên được sự tôn trọng; Còn người đàn ông hung bạo được tài sản."
+        },
+        {
+          "number": 17,
+          "text": "Người nhân từ làm lành cho linh hồn mình; Còn kẻ hung bạo xui khổ cực cho thịt mình."
+        },
+        {
+          "number": 18,
+          "text": "Kẻ dữ ăn được công giá hư giả; Song ai gieo điều công bình hưởng phần thưởng chắc chắn."
+        },
+        {
+          "number": 19,
+          "text": "Người nào vững lòng ở công bình được đến sự sống; Còn kẻ săn theo ác gây sự chết cho mình."
+        },
+        {
+          "number": 20,
+          "text": "Kẻ có lòng gian tà lấy làm gớm ghiếc cho Đức Giê-hô-va; Nhưng ai có tánh hạnh trọn vẹn được đẹp lòng Ngài."
+        },
+        {
+          "number": 21,
+          "text": "Quả thật kẻ gian ác chẳng hề khỏi bị hình phạt; Song dòng dõi người công bình sẽ được cứu khỏi."
+        },
+        {
+          "number": 22,
+          "text": "Một người đàn bà đẹp đẽ mà thiếu dè dặt, Khác nào một vòng vàng đeo nơi mũi heo."
+        },
+        {
+          "number": 23,
+          "text": "Sự ao ước của người công bình chỉ là điều thiện; Còn điều kẻ ác trông đợi, ấy là cơn thạnh nộ."
+        },
+        {
+          "number": 24,
+          "text": "Có người rải của mình ra, lại càng thêm nhiều lên; Cũng có người chắt lót quá bực, nhưng chỉ được sự thiếu thốn."
+        },
+        {
+          "number": 25,
+          "text": "Lòng rộng rãi sẽ được no nê; Còn ai nhuần gội, chính người sẽ được nhuần gội."
+        },
+        {
+          "number": 26,
+          "text": "Kẻ nào cầm giữ lúa thóc, bị dân sự rủa sả; Song sự chúc phước sẽ giáng trên đầu người bán nó ra."
+        },
+        {
+          "number": 27,
+          "text": "Ai tìm cầu sự thiện, tìm kiếm ân điển; Nhưng ai tìm cầu điều ác, tất ác sẽ xảy đến cho nó."
+        },
+        {
+          "number": 28,
+          "text": "Kẻ nào tin cậy nơi của cải mình sẽ bị xiêu ngã; Còn người công bình được xanh tươi như lá cây."
+        },
+        {
+          "number": 29,
+          "text": "Ai khuấy rối nhà mình sẽ được gió làm cơ nghiệp; Còn kẻ điên cuồng trở nên tôi tớ cho người có lòng khôn ngoan."
+        },
+        {
+          "number": 30,
+          "text": "Kết quả của người công bình giống như cây sự sống; Người khôn ngoan có tài được linh hồn người ta."
+        },
+        {
+          "number": 31,
+          "text": "Kìa, người công bình được báo đáp nơi thế thượng; Phương chi kẻ hung ác và kẻ có tội!"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ai ưa điều sửa phạt ưa sự tri thức; Nhưng kẻ ghét sự quở trách là ngây dại."
+        },
+        {
+          "number": 2,
+          "text": "Người lành được ơn của Đức Giê-hô-va; Nhưng Đức Chúa Trời định tội cho người toan mưu ác."
+        },
+        {
+          "number": 3,
+          "text": "Loài người chẳng phải vì hung ác mà được lập vững bền; Song rễ người công bình chẳng bị lay động."
+        },
+        {
+          "number": 4,
+          "text": "Người đàn bà nhân đức là mão triều thiên cho chồng nàng; Còn vợ làm xấu hổ khác nào sự mục trong xương cốt người."
+        },
+        {
+          "number": 5,
+          "text": "Tư tưởng người nghĩa chỉ là công bình; Song mưu luận kẻ ác đều là giả dối."
+        },
+        {
+          "number": 6,
+          "text": "Các lời kẻ hung ác rình rập làm đổ huyết ra; Song miệng người ngay thẳng giải cứu người khỏi."
+        },
+        {
+          "number": 7,
+          "text": "Đánh đổ kẻ hung ác thì họ chẳng còn nữa; Nhưng nhà người công bình còn đứng vững."
+        },
+        {
+          "number": 8,
+          "text": "Người ta được khen ngợi tùy theo sự khôn sáng mình; Còn kẻ có lòng tà vạy sẽ bị khinh dể."
+        },
+        {
+          "number": 9,
+          "text": "Thà một người ở bực hèn hạ và có tôi tớ, Còn hơn kẻ tự tôn mà lại thiếu ăn."
+        },
+        {
+          "number": 10,
+          "text": "Người công bình coi sóc sự sống của súc vật mình; Còn lòng thương xót của kẻ dữ khác nào sự hung bạo."
+        },
+        {
+          "number": 11,
+          "text": "Ai cày đất mình sẽ được vật thực dư dật; Còn ai theo kẻ biếng nhác thiếu trí hiểu."
+        },
+        {
+          "number": 12,
+          "text": "Kẻ hung ác tham lam của hoạch tài; Song rễ của người công bình sanh bông trái."
+        },
+        {
+          "number": 13,
+          "text": "Trong sự vi phạm của môi miệng có một cái bẫy tàn hại; Nhưng người công bình được thoát khỏi sự hoạn nạn."
+        },
+        {
+          "number": 14,
+          "text": "Nhờ bông trái của môi miệng mình, người sẽ được no đầy phước; Và người ta sẽ được báo lại tùy theo việc tay mình đã làm."
+        },
+        {
+          "number": 15,
+          "text": "Đường lối của kẻ ngu muội vốn ngay thẳng theo mắt nó; Còn người khôn ngoan nghe lời khuyên dạy."
+        },
+        {
+          "number": 16,
+          "text": "Sự giận dữ của kẻ ngu muội liền lộ ra tức thì; Còn người khôn khéo che lấp sỉ nhục mình."
+        },
+        {
+          "number": 17,
+          "text": "Kẻ nào nói thật, rao truyền sự công bình; Song kẻ làm chứng gian, phô sự giả dối."
+        },
+        {
+          "number": 18,
+          "text": "Lời vô độ đâm xoi khác nào gươm; Nhưng lưỡi người khôn ngoan vốn là thuốc hay."
+        },
+        {
+          "number": 19,
+          "text": "Môi chân thật được bền đỗ đời đời; Song lưỡi giả dối chỉ còn một lúc mà thôi."
+        },
+        {
+          "number": 20,
+          "text": "Sự phỉnh gạt ở trong lòng kẻ toan mưu hại; Nhưng sự vui vẻ thuộc về người khuyên lơn sự hòa bình."
+        },
+        {
+          "number": 21,
+          "text": "Chẳng một tai họa nào xảy đến cho người công bình; Song kẻ hung ác sẽ bị đầy đau đớn."
+        },
+        {
+          "number": 22,
+          "text": "Môi miệng nói dối giả lấy làm gớm ghiếc cho Đức Giê-hô-va; Song ai ăn ở trung thành được đẹp lòng Ngài."
+        },
+        {
+          "number": 23,
+          "text": "Người khôn khéo giấu điều mình biết; Còn lòng kẻ ngu muội xưng ra sự điên dại mình."
+        },
+        {
+          "number": 24,
+          "text": "Tay người siêng năng sẽ cai trị; Nhưng tay kẻ biếng nhác phải phục dịch."
+        },
+        {
+          "number": 25,
+          "text": "Sự buồn rầu ở nơi lòng người làm cho nao sờn; Nhưng một lời lành khiến lòng vui vẻ."
+        },
+        {
+          "number": 26,
+          "text": "Người công bình dẫn đường cho kẻ lân cận mình; Còn các nẻo kẻ dữ làm sai lạc chúng."
+        },
+        {
+          "number": 27,
+          "text": "Kẻ biếng nhác không chiên nướng thịt mình đã săn; Song người siêng năng được tài vật quí báu của loài người."
+        },
+        {
+          "number": 28,
+          "text": "Sự sống ở nơi đường công bình; Trên lối nó không có sự chết."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Con khôn ngoan nghe sự khuyên dạy của cha; Song kẻ nhạo báng không khứng nghe lời quở trách."
+        },
+        {
+          "number": 2,
+          "text": "Nhờ bông trái của miệng mình, người hưởng lấy sự lành; Còn linh hồn kẻ gian ác sẽ ăn điều cường bạo."
+        },
+        {
+          "number": 3,
+          "text": "Kẻ canh giữ miệng mình, giữ được mạng sống mình; Nhưng kẻ nào hở môi quá, bèn bị bại hoại."
+        },
+        {
+          "number": 4,
+          "text": "Lòng kẻ biếng nhác mong ước, mà chẳng có chi hết; Còn lòng người siêng năng sẽ được no nê."
+        },
+        {
+          "number": 5,
+          "text": "Người công bình ghét lời dối trá; Song kẻ hung ác đáng gớm ghê và bị hổ thẹn."
+        },
+        {
+          "number": 6,
+          "text": "Sự công bình bảo hộ người ăn ở ngay thẳng; Nhưng sự gian ác đánh đổ kẻ phạm tội."
+        },
+        {
+          "number": 7,
+          "text": "Có kẻ làm bộ giàu, mà chẳng có gì hết; Cũng có người làm bộ nghèo, lại có của cải nhiều."
+        },
+        {
+          "number": 8,
+          "text": "Giá chuộc mạng sống loài người, ấy là của cải mình; Còn kẻ nghèo chẳng hề nghe lời hăm dọa."
+        },
+        {
+          "number": 9,
+          "text": "Sự sáng của kẻ lành soi rạng ngời; Nhưng đèn kẻ ác lại bị tắt đi."
+        },
+        {
+          "number": 10,
+          "text": "Sự kiêu ngạo chỉ sanh ra điều cãi lộn; Còn sự khôn ngoan ở với người chịu lời khuyên dạy."
+        },
+        {
+          "number": 11,
+          "text": "Hoạch tài ắt phải hao bớt; Còn ai lấy tay thâu góp sẽ được thêm của nhiều lên."
+        },
+        {
+          "number": 12,
+          "text": "Sự trông cậy trì hoãn khiến lòng bị đau đớn; Nhưng khi sự ước ao được thành, thì giống như một cây sự sống."
+        },
+        {
+          "number": 13,
+          "text": "Kẻ nào khinh lời dạy, ắt bị hư bại; Còn ai kính sợ giới mạng, nấy được ban thưởng."
+        },
+        {
+          "number": 14,
+          "text": "Sự dạy dỗ của người khôn ngoan vốn một nguồn sự sống, Đặng khiến người ta tránh khỏi bẫy sự chết."
+        },
+        {
+          "number": 15,
+          "text": "Sự thông sáng thật được ân điển; Song con đường kẻ phạm tội lấy làm khốn cực thay."
+        },
+        {
+          "number": 16,
+          "text": "Phàm người khôn khéo làm việc cứ theo sự hiểu biết; Nhưng kẻ ngu muội bày tỏ ra sự điên dại mình."
+        },
+        {
+          "number": 17,
+          "text": "Sứ giả gian ác sa vào tai họa; Còn khâm sai trung tín khác nào thuốc hay."
+        },
+        {
+          "number": 18,
+          "text": "Ai chối sự khuyên dạy sẽ bị nghèo khổ và sỉ nhục; Nhưng kẻ nào nhận tiếp lời quở trách sẽ được tôn trọng."
+        },
+        {
+          "number": 19,
+          "text": "Sự ước ao mà được thành lấy làm êm dịu cho linh hồn; Còn lìa bỏ điều dữ, quả là sự gớm ghiếc cho kẻ ngu muội."
+        },
+        {
+          "number": 20,
+          "text": "Ai giao tiếp với người khôn ngoan, trở nên khôn ngoan; Nhưng kẻ làm bạn với bọn điên dại sẽ bị tàn hại."
+        },
+        {
+          "number": 21,
+          "text": "Tai họa đuổi theo kẻ có tội; Còn phước lành là phần thưởng của người công bình."
+        },
+        {
+          "number": 22,
+          "text": "Người lành lưu truyền gia sản cho con cháu mình; Song của cải kẻ có tội dành cho người công bình."
+        },
+        {
+          "number": 23,
+          "text": "Chỗ người nghèo khai phá sanh nhiều lương thực; Nhưng có kẻ bị tiêu mất tại vì thiếu sự công bình;"
+        },
+        {
+          "number": 24,
+          "text": "Người nào kiêng roi vọt ghét con trai mình; Song ai thương con ắt cần lo sửa trị nó."
+        },
+        {
+          "number": 25,
+          "text": "Người công bình ăn cho phỉ dạ mình; Còn bụng kẻ ác bị đói."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Người nữ khôn ngoan xây cất nhà mình; Song kẻ ngu dại lấy tay mình mà phá hủy nó đi."
+        },
+        {
+          "number": 2,
+          "text": "Ai đi theo sự ngay thẳng kính sợ Đức Giê-hô-va; Còn ai ăn ở tà vạy khinh bỉ Ngài,"
+        },
+        {
+          "number": 3,
+          "text": "Trong miệng kẻ ngu dại có cây roi đánh phạt sự kiêu ngạo nó; Song môi người khôn ngoan giữ lấy người."
+        },
+        {
+          "number": 4,
+          "text": "Đâu không có bò, đó máng cỏ trống không; Nhưng nhiều hoa lợi do nơi sức bò đực mà ra."
+        },
+        {
+          "number": 5,
+          "text": "Người chứng trung thành không hề nói dối; Còn kẻ làm chứng gian buông lời dối trá."
+        },
+        {
+          "number": 6,
+          "text": "Kẻ nhạo báng tìm khôn ngoan, mà không gặp; Song sự tri thức lấy làm dễ cho người thông sáng."
+        },
+        {
+          "number": 7,
+          "text": "Hãy dan xa khỏi mặt kẻ ngu muội, Con sẽ chẳng tìm được môi khôn ngoan nơi nó."
+        },
+        {
+          "number": 8,
+          "text": "Sự trí huệ của người khôn khéo, ấy là hiểu rõ đường lối mình; Nhưng sự điên cuồng của kẻ ngu muội là sự phỉnh gạt."
+        },
+        {
+          "number": 9,
+          "text": "Kẻ ngu dại bỉ báng tội lỗi; Nhưng người ngay thẳng có được ơn của Đức Chúa Trời."
+        },
+        {
+          "number": 10,
+          "text": "Lòng nhìn biết sự cay đắng của lòng; Một người ngoại không chia vui với nó được."
+        },
+        {
+          "number": 11,
+          "text": "Nhà kẻ gian ác sẽ bị đánh đổ; Song trại người ngay thẳng sẽ được hưng thạnh."
+        },
+        {
+          "number": 12,
+          "text": "Có một con đường coi dường chánh đáng cho loài người; Nhưng đến cuối cùng nó thành ra nẻo sự chết."
+        },
+        {
+          "number": 13,
+          "text": "Dầu trong lúc cười cợt lòng vẫn buồn thảm; Và cuối cùng sự vui, ấy là điều sầu não."
+        },
+        {
+          "number": 14,
+          "text": "Lòng kẻ nào lìa xa Đức Chúa Trời sẽ được no nê sự kết quả của mình; Còn người lành nhờ chính mình mà được thỏa nguyện."
+        },
+        {
+          "number": 15,
+          "text": "Kẻ ngu dốt tin hết mọi lời; Nhưng người khôn khéo xem xét các bước mình."
+        },
+        {
+          "number": 16,
+          "text": "Người khôn ngoan sợ và tránh khỏi điều ác; Song kẻ ngu muội ở xấc xược, và có lòng cậy mình."
+        },
+        {
+          "number": 17,
+          "text": "Người nóng nảy làm điên làm dại; Và kẻ toan mưu ác bị ghét."
+        },
+        {
+          "number": 18,
+          "text": "Kẻ ngu muội được sự điên dại làm cơ nghiệp; Song người khôn ngoan được đội mão triều thiên bằng tri thức."
+        },
+        {
+          "number": 19,
+          "text": "Người ác phục trước mặt người thiện; Và kẻ dữ cúi lạy ở ngoài cửa người công bình."
+        },
+        {
+          "number": 20,
+          "text": "Người nghèo khó dầu láng giềng cũng ghét bỏ; Nhưng bằng hữu của người giàu thì nhiều thay."
+        },
+        {
+          "number": 21,
+          "text": "Ai khinh bỉ kẻ lân cận mình phạm tội; Còn ai thương xót người khốn khó lấy làm có phước thay."
+        },
+        {
+          "number": 22,
+          "text": "Kẻ toan mưu ác há chẳng lầm lạc sao? Còn nhân từ và chân thật thuộc về người toan mưu thiện."
+        },
+        {
+          "number": 23,
+          "text": "Trong các thứ công việc đều có ích lợi; Nhưng miệng nói nhiều chỉ dẫn đến sự thiếu thốn."
+        },
+        {
+          "number": 24,
+          "text": "Giàu có là mão triều thiên cho người khôn ngoan; Còn điên cuồng của kẻ ngây dại chỉ là điên cuồng."
+        },
+        {
+          "number": 25,
+          "text": "Kẻ làm chứng chân thật giải cứu linh hồn người ta; Song kẻ nào nói dối gây sự phỉnh gạt."
+        },
+        {
+          "number": 26,
+          "text": "Trong sự kính sợ Đức Giê-hô-va có nơi nương cậy vững chắc; Và con cái Ngài sẽ được một nơi ẩn núp."
+        },
+        {
+          "number": 27,
+          "text": "Sự kính sợ Đức Giê-hô-va vốn một nguồn sự sống, Đặng khiến người ta tránh khỏi bẫy sự chết."
+        },
+        {
+          "number": 28,
+          "text": "Dân sự đông đảo, ấy là sự vinh hiển của vua; Còn dân sự ít, ấy khiến cho quan tướng bị bại."
+        },
+        {
+          "number": 29,
+          "text": "Kẻ nào chậm nóng giận có thông sáng lớn; Nhưng ai hay nóng nảy tôn lên sự điên cuồng."
+        },
+        {
+          "number": 30,
+          "text": "Lòng bình tịnh là sự sống của thân thể; Còn sự ghen ghét là đồ mục của xương cốt."
+        },
+        {
+          "number": 31,
+          "text": "Kẻ hà hiếp người nghèo khổ làm nhục Đấng Tạo hóa mình; Còn ai thương xót người bần cùng tôn trọng Ngài."
+        },
+        {
+          "number": 32,
+          "text": "Kẻ ác bị đánh đổ trong sự gian ác mình; Nhưng kẻ công bình vẫn có nơi nương cậy, dầu trong khi chết."
+        },
+        {
+          "number": 33,
+          "text": "Sự khôn ngoan ở tại lòng người thông sáng; Còn điều ở trong lòng kẻ ngu muội được lộ ra."
+        },
+        {
+          "number": 34,
+          "text": "Sự công bình làm cho nước cao trọng; Song tội lỗi là sự hổ thẹn cho các dân tộc."
+        },
+        {
+          "number": 35,
+          "text": "Vua làm ơn cho tôi tớ nào ăn ở khôn sáng; Nhưng cơn thạnh nộ vua nổi nghịch cùng kẻ gây sự hổ thẹn."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lời đáp êm nhẹ làm nguôi cơn giận; Còn lời xẳng xớm trêu thạnh nộ thêm."
+        },
+        {
+          "number": 2,
+          "text": "Lưỡi người khôn ngoan truyền ra sự tri thức cách phải; Nhưng miệng kẻ ngu muội chỉ buông điều điên cuồng."
+        },
+        {
+          "number": 3,
+          "text": "Con mắt Đức Giê-hô-va ở khắp mọi nơi, Xem xét kẻ gian ác và người lương thiện."
+        },
+        {
+          "number": 4,
+          "text": "Lưỡi hiền lành giống như một cây sự sống; Song lưỡi gian tà làm cho hư nát tâm thần."
+        },
+        {
+          "number": 5,
+          "text": "Kẻ ngu dại khinh sự khuyên dạy của cha mình; Còn ai giữ theo lời quở trách trở nên khôn khéo."
+        },
+        {
+          "number": 6,
+          "text": "Trong nhà người công bình có nhiều vật quí; Song trong huê lợi kẻ gian ác có điều rối loạn."
+        },
+        {
+          "number": 7,
+          "text": "Môi người khôn ngoan rải sự tri thức ra; Nhưng lòng kẻ ngu muội chẳng làm như vậy."
+        },
+        {
+          "number": 8,
+          "text": "Của tế lễ kẻ gian ác lấy làm gớm ghiếc cho Đức Giê-hô-va; Song lời cầu nguyện của người ngay thẳng được đẹp lòng Ngài."
+        },
+        {
+          "number": 9,
+          "text": "Đường lối kẻ ác lấy làm gớm ghiếc cho Đức Giê-hô-va; Nhưng Ngài thương mến người nào theo sự công bình."
+        },
+        {
+          "number": 10,
+          "text": "Sự hình phạt nặng nề dành cho kẻ bỏ chánh lộ; Và kẻ ghét lời quở trách sẽ chết mất."
+        },
+        {
+          "number": 11,
+          "text": "Aâm phủ và chốn trầm luân còn ở trước mặt Đức Giê-hô-va thay, Phương chi lòng của con cái loài người!"
+        },
+        {
+          "number": 12,
+          "text": "Kẻ nhạo báng không ưa người ta quở trách mình; Hắn không muốn đến cùng người khôn ngoan."
+        },
+        {
+          "number": 13,
+          "text": "Lòng khoái lạc làm cho mặt mày vui vẻ; Nhưng tại lòng buồn bã trí bèn bị nao sờn."
+        },
+        {
+          "number": 14,
+          "text": "Lòng người thông sáng tìm kiếm sự tri thức; Còn lỗ miệng kẻ ngu muội nuôi lấy mình bằng sự điên cuồng."
+        },
+        {
+          "number": 15,
+          "text": "Các ngày kẻ bị hoạn nạn đều là gian hiểm; Song lòng vui mừng dự yến tiệc luôn luôn."
+        },
+        {
+          "number": 16,
+          "text": "Thà có ít của mà kính sợ Đức Giê-hô-va, Còn hơn là tài sản nhiều mà bối rối cặp theo."
+        },
+        {
+          "number": 17,
+          "text": "Thà một món rau mà thương yêu nhau, Còn hơn ăn bò mập béo với sự ganh ghét cặp theo."
+        },
+        {
+          "number": 18,
+          "text": "Người hay giận gây điều đánh lộn; Nhưng người chậm nóng giận làm nguôi cơn tranh cãi."
+        },
+        {
+          "number": 19,
+          "text": "Đường kẻ biếng nhác như một hàng rào gai; Còn nẻo người ngay thẳng được ban bằng."
+        },
+        {
+          "number": 20,
+          "text": "Con khôn ngoan làm vui vẻ cha nó; Còn đứa ngu muội khinh bỉ mẹ mình."
+        },
+        {
+          "number": 21,
+          "text": "Kẻ thiếu trí hiểu lấy sự điên dại làm vui; Song người khôn sáng sửa đường mình ngay thẳng rồi đi."
+        },
+        {
+          "number": 22,
+          "text": "Đâu không có nghị luận, đó mưu định phải phế; Nhưng nhờ có nhiều mưu sĩ, mưu định bèn được thành."
+        },
+        {
+          "number": 23,
+          "text": "Miệng hay đáp giỏi khiến người vui vẻ; Và lời nói phải thì lấy làm tốt biết bao!"
+        },
+        {
+          "number": 24,
+          "text": "Con đường sự sống của người khôn ngoan dẫn lên trên, Để tránh khỏi âm phủ ở dưới thấp."
+        },
+        {
+          "number": 25,
+          "text": "Đức Giê-hô-va sẽ đánh đổ nhà kẻ kiêu ngạo; Nhưng Ngài làm vững chắc các mộc giới của kẻ góa bụa."
+        },
+        {
+          "number": 26,
+          "text": "Các mưu ác lấy làm gớm ghiếc cho Đức Giê-hô-va; Song lời thanh sạch đẹp lòng Ngài."
+        },
+        {
+          "number": 27,
+          "text": "Người tham lợi làm rối loạn nhà mình; Còn ai ghét của hối lộ sẽ được sống."
+        },
+        {
+          "number": 28,
+          "text": "Lòng người công bình suy nghĩ lời phải đáp; Nhưng miệng kẻ ác buông ra điều dữ."
+        },
+        {
+          "number": 29,
+          "text": "Đức Giê-hô-va xa cách kẻ ác; Nhưng Ngài nghe lời cầu nguyện của người công bình."
+        },
+        {
+          "number": 30,
+          "text": "Sự sáng con mắt khiến lòng vui vẻ; Và một tin lành làm cho xương cốt được béo tốt."
+        },
+        {
+          "number": 31,
+          "text": "Kẻ nào nghe lời quở trách của sự sống Sẽ được ở giữa các người khôn ngoan."
+        },
+        {
+          "number": 32,
+          "text": "Ai từ chối sự khuyên dạy khinh bỉ linh hồn mình. Nhưng ai nghe lời quở trách được sự thông sáng."
+        },
+        {
+          "number": 33,
+          "text": "Sự kính sợ Đức Giê-hô-va dạy dỗ điều khôn ngoan; Và sự khiêm nhượng đi trước sự tôn trọng."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Việc toan liệu của lòng thuộc về loài người; Còn sự đáp lời của lưỡi do Đức Giê-hô-va mà đến."
+        },
+        {
+          "number": 2,
+          "text": "Các đường lối của người đều là trong sạch theo mắt mình; Song Đức Giê-hô-va cân nhắc cái lòng."
+        },
+        {
+          "number": 3,
+          "text": "Hãy phó các việc mình cho Đức Giê-hô-va, Thì những mưu ý mình sẽ được thành công."
+        },
+        {
+          "number": 4,
+          "text": "Đức Giê-hô-va đã dựng nên muôn vật để dùng cho Ngài; Đến đỗi kẻ ác cũng vậy, để dành cho ngày tai họa."
+        },
+        {
+          "number": 5,
+          "text": "Phàm ai có lòng kiêu ngạo lấy làm gớm ghiếc cho Đức Giê-hô-va; Quả thật nó sẽ chẳng được khỏi bị phạt."
+        },
+        {
+          "number": 6,
+          "text": "Nhờ sự nhân từ và chân thật tội lỗi được chuộc; Và bởi sự kính sợ Đức Giê-hô-va người ta xây bỏ điều ác."
+        },
+        {
+          "number": 7,
+          "text": "Khi tánh hạnh của người nào đẹp lòng Đức Giê-hô-va, Thì Ngài cũng khiến các thù nghịch người ở hòa thuận với người."
+        },
+        {
+          "number": 8,
+          "text": "Thà ít của mà có sự công bình, Hơn là nhiều hoa lợi với sự bất nghĩa cặp theo."
+        },
+        {
+          "number": 9,
+          "text": "Lòng người toan định đường lối mình; Song Đức Giê-hô-va chỉ dẫn các bước của người."
+        },
+        {
+          "number": 10,
+          "text": "Lời của Chúa ở môi vua; Miệng người sẽ không sai lầm khi xét đoán."
+        },
+        {
+          "number": 11,
+          "text": "Trái cân và vá cân công bình thuộc về Đức Giê-hô-va; Các trái cân trong bao là công việc của Ngài."
+        },
+        {
+          "number": 12,
+          "text": "Làm gian ác, ấy là điều gớm ghiếc cho vua chúa; Vì nhờ công bình ngôi nước được lập vững bền."
+        },
+        {
+          "number": 13,
+          "text": "Môi miệng người công bình là sự vui vẻ cho các vua; Họ ưa mến kẻ nói ngay thẳng."
+        },
+        {
+          "number": 14,
+          "text": "Cơn thạnh nộ của vua khác nào sứ giả sự chết; Nhưng người khôn ngoan làm cho nó nguôi đi."
+        },
+        {
+          "number": 15,
+          "text": "Nhờ sắc mặt vua sáng sủa bèn được sự sống; Aân điển người khác nào áng mây dẫn mưa muộn."
+        },
+        {
+          "number": 16,
+          "text": "Được sự khôn ngoan, thật quí hơn vàng ròng biết mấy! Được thông sáng, đáng chuộng hơn bạc biết bao!"
+        },
+        {
+          "number": 17,
+          "text": "Đạo của người ngay thẳng, ấy là lìa bỏ sự ác; Ai canh giữ tánh nết mình giữ lấy linh hồn mình."
+        },
+        {
+          "number": 18,
+          "text": "Sự kiêu ngạo đi trước, sự bại hoại theo sau, Và tánh tự cao đi trước sự sa ngã."
+        },
+        {
+          "number": 19,
+          "text": "Thà khiêm nhượng mà ở với người nhu mì, Còn hơn là chia của cướp cùng kẻ kiêu ngạo."
+        },
+        {
+          "number": 20,
+          "text": "Ai giữ theo đạo lý tìm được ích; Và ai trông cậy nơi Đức Giê-hô-va lấy làm có phước thay."
+        },
+        {
+          "number": 21,
+          "text": "Ai có lòng khôn ngoan được gọi là thông sáng; Lời dịu dàng gia thêm sự tri thức."
+        },
+        {
+          "number": 22,
+          "text": "Người có được thông sáng, tức có được nguồn sự sống; Nhưng sự điên dại của kẻ ngu muội, ấy là sự sửa phạt của nó."
+        },
+        {
+          "number": 23,
+          "text": "Lòng người khôn ngoan dạy dỗ miệng mình, Và thêm sự học thức nơi môi của mình."
+        },
+        {
+          "number": 24,
+          "text": "Lời lành giống như tàng ong, Ngon ngọt cho tâm hồn, và khỏe mạnh cho xương cốt."
+        },
+        {
+          "number": 25,
+          "text": "Có một con đường coi dường chánh đáng cho loài người; Nhưng cuối cùng nó thành ra cái nẻo sự chết."
+        },
+        {
+          "number": 26,
+          "text": "Sự biết đói của kẻ lao khổ giúp làm việc cho người, Bởi vì miệng người thúc giục người."
+        },
+        {
+          "number": 27,
+          "text": "Thằng điếm toan mưu hại người ta; Và trên môi nó có như ngọn lửa hừng."
+        },
+        {
+          "number": 28,
+          "text": "Kẻ gian tà gieo điều tranh cạnh; Và kẻ thèo lẻo phân rẽ những bạn thiết cốt."
+        },
+        {
+          "number": 29,
+          "text": "Kẻ cường bạo quyến dụ bậu bạn mình, Và dẫn người vào con đường không tốt."
+        },
+        {
+          "number": 30,
+          "text": "Kẻ nào nhắm mắt đặng toan liệu điều gian tà, Và kẻ nào bặm môi mình, đều làm thành việc ác."
+        },
+        {
+          "number": 31,
+          "text": "Tóc bạc là mão triều thiên vinh hiển, Miễn là thấy ở trong đường công bình."
+        },
+        {
+          "number": 32,
+          "text": "Người chậm nóng giận thắng hơn người dõng sĩ; Và ai cai trị lòng mình thắng hơn kẻ chiếm lấy thành."
+        },
+        {
+          "number": 33,
+          "text": "Người ta bẻ thăm trong vạt áo; Song sự nhất định do nơi Đức Giê-hô-va mà đến."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Thà một miếng bánh khô mà hòa thuận, Còn hơn là nhà đầy thịt tế lễ lại cãi lộn nhau."
+        },
+        {
+          "number": 2,
+          "text": "Tôi tớ khôn sáng sẽ quản trị con trai làm xấu hổ, Và được hưởng phần cơ nghiệp giữa các anh em."
+        },
+        {
+          "number": 3,
+          "text": "Nồi dót để luyện bạc, lò để luyện vàng; Nhưng Đức Giê-hô-va thử lòng của loài người."
+        },
+        {
+          "number": 4,
+          "text": "Kẻ làm ác chăm chỉ về môi gian ác; Kẻ hay nói dối lắng tai nghe lưỡi độc hiểm."
+        },
+        {
+          "number": 5,
+          "text": "Ai nhạo báng người bần cùng sỉ nhục Đấng tạo hóa mình; Ai vui mừng về tai họa sẽ chẳng được thoát khỏi bị phạt."
+        },
+        {
+          "number": 6,
+          "text": "Mão triều thiên của ông già, ấy là con cháu; Còn vinh hiển của con cái, ấy là ông cha."
+        },
+        {
+          "number": 7,
+          "text": "Lời tốt lành không xứng với kẻ ngu; Môi miệng giả dối lại càng ít xứng cho vua chúa thay."
+        },
+        {
+          "number": 8,
+          "text": "Của hối lộ giống như viên ngọc quí trước mặt ai được nó; Dầu nó xây trở phía nào, cũng được may mắn."
+        },
+        {
+          "number": 9,
+          "text": "Kẻ nào lấp giấu tội lỗi tìm cầu điều tình ái; Còn ai nhắc lập lại điều gì chia rẽ bạn bậu thiết cốt."
+        },
+        {
+          "number": 10,
+          "text": "Lời quở trách thấm sâu vào người khôn ngoan, Hơn là trăm roi đánh vào kẻ ngu muội."
+        },
+        {
+          "number": 11,
+          "text": "Kẻ gian ác chỉ tìm điều phản nghịch; Vì vậy sẽ sai một sứ giả dữ tợn đi hãm đánh nó."
+        },
+        {
+          "number": 12,
+          "text": "Thà người ta gặp gấu cái bị cướp con, Hơn là gặp kẻ ngây dại theo điên cuồng nó."
+        },
+        {
+          "number": 13,
+          "text": "Tai họa không hề lìa khỏi nhà Của kẻ lấy ác trả thiện."
+        },
+        {
+          "number": 14,
+          "text": "Khởi đầu tranh cạnh, ấy như người ta mở đường nước chảy; Vậy, khá thôi cãi lẫy trước khi đánh lộn."
+        },
+        {
+          "number": 15,
+          "text": "Ai xưng kẻ ác là công bình, và kẻ nào lên án cho người công bình, Cả hai điều lấy làm gớm ghiếc cho Đức Giê-hô-va."
+        },
+        {
+          "number": 16,
+          "text": "Kẻ ngu muội thiếu trí hiểu, Thế thì bạc trong tay hắn mua khôn ngoan mà chi?"
+        },
+        {
+          "number": 17,
+          "text": "Bằng hữu thương mến nhau luôn luôn; Và anh em sanh ra để giúp đỡ trong lúc hoạn nạn."
+        },
+        {
+          "number": 18,
+          "text": "Kẻ ngu muội giao tay, Chịu làm bảo lãnh trước mặt kẻ lân cận mình."
+        },
+        {
+          "number": 19,
+          "text": "Ai ưa tranh cạnh ưa tội lỗi; Ai xây cất cửa mình cao kiếm điều hư sập."
+        },
+        {
+          "number": 20,
+          "text": "Kẻ nào có lòng vày vò không tìm được phước hạnh; Và ai có lưỡi gian tà sẽ sa vào tai hại."
+        },
+        {
+          "number": 21,
+          "text": "Ai sanh con ngu muội ắt sẽ có buồn rầu; Còn cha của kẻ ngây dại chẳng được vui vẻ."
+        },
+        {
+          "number": 22,
+          "text": "Lòng vui mừng vốn một phương thuốc hay; Còn trí nao sờn làm xương cốt khô héo."
+        },
+        {
+          "number": 23,
+          "text": "Người gian ác lãnh nhẹm của hối lộ, Đặng làm sai lệch các lối xét đoán."
+        },
+        {
+          "number": 24,
+          "text": "Có sự khôn ngoan trước mặt người thông sáng; Song con mắt kẻ ngu muội ở nơi địa cực."
+        },
+        {
+          "number": 25,
+          "text": "Con ngu muội là một điều buồn rầu cho cha, Và một sự cay đắng cho mẹ đã sanh đẻ nó."
+        },
+        {
+          "number": 26,
+          "text": "Lấy làm chẳng tốt mà phạt vạ người công bình, Hay là đánh người tước vị vì cớ lòng ngay thẳng của họ."
+        },
+        {
+          "number": 27,
+          "text": "Người nào kiêng lời nói mình có tri thức; Còn người có tánh ôn hàn là một người thông sáng."
+        },
+        {
+          "number": 28,
+          "text": "Khi nín lặng, dầu người ngu dại, cũng được cầm bằng khôn ngoan; Còn kẻ nào ngậm môi miệng mình lại được kể là thông sáng."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kẻ nào ở riêng cách tìm điều chính mình ưa thích; Nó cãi cọ với những sự khôn ngoan thật."
+        },
+        {
+          "number": 2,
+          "text": "Kẻ ngu muội không ưa thích sự thông sáng; Nhưng chỉ muốn lòng nó được bày tỏ ra."
+        },
+        {
+          "number": 3,
+          "text": "Khi kẻ gian ác đến sự khinh bỉ cũng đến nữa; Và sự sỉ nhục đến với điều nhuốc nhơ."
+        },
+        {
+          "number": 4,
+          "text": "Lời nói của miệng loài người là giống như nước sâu; Nguồn sự khôn ngoan khác nào cái khe nước chảy."
+        },
+        {
+          "number": 5,
+          "text": "Lấy làm chẳng tốt mà nể vì kẻ ác, Đặng lường gạt người công bình trong việc xét đoán."
+        },
+        {
+          "number": 6,
+          "text": "Môi kẻ ngu muội vào cuộc tranh cạnh, Và miệng nó chiều sự đánh đập."
+        },
+        {
+          "number": 7,
+          "text": "Miệng kẻ ngu muội là sự bại hoại của nó; Môi nó vốn một cái bẫy gài linh hồn của nó."
+        },
+        {
+          "number": 8,
+          "text": "Lời kẻ thèo lẻo như vật thực ngon, Và nó thấu đến ruột gan."
+        },
+        {
+          "number": 9,
+          "text": "Kẻ thả trôi trong công việc mình, Cũng là anh em của kẻ phá hại."
+        },
+        {
+          "number": 10,
+          "text": "Danh Đức Giê-hô-va vốn một ngọn tháp kiên cố; Kẻ công bình chạy đến đó, gặp được nơi ẩn trú cao."
+        },
+        {
+          "number": 11,
+          "text": "Tài vật người giàu, ấy là cái thành kiên cố của người, Trong ý tưởng người cho nó như một bức tường cao."
+        },
+        {
+          "number": 12,
+          "text": "Trước khi sự bại hoại, lòng người vẫn tự cao; Song sự khiêm nhượng đi trước sự tôn trọng."
+        },
+        {
+          "number": 13,
+          "text": "Trả lời trước khi nghe, Aáy là sự điên dại và hổ thẹn cho ai làm vậy."
+        },
+        {
+          "number": 14,
+          "text": "Tâm thần người nâng đỡ sự bịnh hoạn mình; Nhưng trí bị nao sờn ai chịu sao nổi?"
+        },
+        {
+          "number": 15,
+          "text": "Lòng người khôn khéo được sự tri thức; Và tai người khôn ngoan tìm kiếm sự hiểu biết."
+        },
+        {
+          "number": 16,
+          "text": "Của lễ của người nào dẹp đường cho người, Và dẫn người đến trước mặt kẻ sang trọng."
+        },
+        {
+          "number": 17,
+          "text": "Người tiên cáo nghe như phải lẽ; Song bên đàng kia đến, bèn tra xét người."
+        },
+        {
+          "number": 18,
+          "text": "Sự bắt thăm dẹp điều tranh tụng, Và phân rẽ những kẻ có quyền thế."
+        },
+        {
+          "number": 19,
+          "text": "Một anh em bị mếch lòng lấy làm khó được lòng lại hơn là chiếm thủ cái thành kiên cố; Sự tranh giành dường ấy khác nào những chốt cửa đền."
+        },
+        {
+          "number": 20,
+          "text": "Bụng người sẽ được no nê bông trái của miệng mình; Huê lợi môi miệng mình sẽ làm cho người no đủ."
+        },
+        {
+          "number": 21,
+          "text": "Sống chết ở nơi quyền của lưỡi; Kẻ ái mộ nó sẽ ăn bông trái của nó."
+        },
+        {
+          "number": 22,
+          "text": "Ai tìm được một người vợ, tức tìm được một điều phước. Và hưởng được ân điển của Đức Giê-hô-va."
+        },
+        {
+          "number": 23,
+          "text": "Người nghèo dùng lời cầu xin; Còn kẻ giàu đáp lại cách xẳng xớm."
+        },
+        {
+          "number": 24,
+          "text": "Người nào được nhiều bằng hữu sẽ làm hại cho mình; Nhưng có một bạn tríu mến hơn anh em ruột."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Thà người nghèo khổ ăn ở thanh liêm, Còn hơn là kẻ có môi miệng gian tà và là một kẻ ngây dại."
+        },
+        {
+          "number": 2,
+          "text": "Lòng thiếu tri thức ấy chẳng phải một điều hay; Vả kẻ nào vội bước bị vấp phạm."
+        },
+        {
+          "number": 3,
+          "text": "Sự ngu dại của người nào làm cho hư hỏng đường lối mình, Và lòng người oán Đức Giê-hô-va."
+        },
+        {
+          "number": 4,
+          "text": "Sự giàu có kết nhiều bậu bạn; Còn kẻ khó khăn dầu bạn cũng lìa bỏ."
+        },
+        {
+          "number": 5,
+          "text": "Chứng gian nào chẳng bị phạt; Và kẻ buông điều giả dối không sao thoát khỏi."
+        },
+        {
+          "number": 6,
+          "text": "Có nhiều kẻ tìm ơn người rộng rãi; Và mỗi người đều là bằng hữu của kẻ hay ban lễ vật."
+        },
+        {
+          "number": 7,
+          "text": "Hết thảy anh em ruột của kẻ nghèo đều ghét người; Phương chi bậu bạn sẽ lìa xa khỏi người! Người lấy lời đuổi theo chúng, chúng chẳng còn đó nữa!"
+        },
+        {
+          "number": 8,
+          "text": "Ai có được sự khôn ngoan thương mến linh hồn mình; Còn ai giữ lấy sự thông sáng tìm được phước hạnh."
+        },
+        {
+          "number": 9,
+          "text": "Chứng gian sẽ chẳng thoát khỏi bị phạt; Và kẻ buông lời giả dối sẽ bị hư mất."
+        },
+        {
+          "number": 10,
+          "text": "Aên ở sung sướng chẳng xứng hiệp cho kẻ ngu muội; Phương chi kẻ tôi mọi cai trị các hoàng tử!"
+        },
+        {
+          "number": 11,
+          "text": "Sự khôn ngoan của người khiến cho người chậm nóng giận; Và người lấy làm danh dự mà bỏ qua tội phạm."
+        },
+        {
+          "number": 12,
+          "text": "Vua thạnh nộ khác nào sư tử gầm thét; Còn ân dịch người như sương móc xuống trên đồng cỏ."
+        },
+        {
+          "number": 13,
+          "text": "Con trai ngu muội là tai họa cho cha nó; Và sự tranh cãi của người vợ vốn một máng xối hằng chảy luôn."
+        },
+        {
+          "number": 14,
+          "text": "Nhà cửa và tài sản là cơ nghiệp của tổ phụ để lại; Còn một người vợ khôn ngoan do nơi Đức Giê-hô-va mà đến."
+        },
+        {
+          "number": 15,
+          "text": "Sự biếng nhác làm cho ngủ mê; Và linh hồn trễ nải sẽ bị đói khát."
+        },
+        {
+          "number": 16,
+          "text": "Ai gìn giữ điều răn, gìn giữ lấy linh hồn mình; Nhưng kẻ nào không coi chừng đường lối mình sẽ thác."
+        },
+        {
+          "number": 17,
+          "text": "Ai thương xót kẻ nghèo, tức cho Đức Giê-hô-va vay mượn; Ngài sẽ báo lại việc ơn lành ấy cho người."
+        },
+        {
+          "number": 18,
+          "text": "Hãy sửa phạt con ngươi trong lúc còn sự trông cậy; Nhưng chớ toan lòng giết nó."
+        },
+        {
+          "number": 19,
+          "text": "Người hay nóng giận dữ tợn, sẽ phải mang hình; Vì nếu con giải cứu hắn, ắt phải giải cứu lại nữa."
+        },
+        {
+          "number": 20,
+          "text": "Hay nghe lời khuyên dạy, và tiếp nhận sự giáo hối, Để con được khôn ngoan trong lúc cuối cùng."
+        },
+        {
+          "number": 21,
+          "text": "Trong lòng loài người có nhiều mưu kế; Song ý chỉ của Đức Giê-hô-va sẽ thành được."
+        },
+        {
+          "number": 22,
+          "text": "Lòng nhân từ của người làm cho người ta yêu chuộng mình; Và người nghèo khổ là hơn kẻ nói dối."
+        },
+        {
+          "number": 23,
+          "text": "Sự kính sợ Đức Giê-hô-va dẫn đến sự sống, Làm cho người ta được ở thỏa nguyện, không bị tai họa lâm đến."
+        },
+        {
+          "number": 24,
+          "text": "Kẻ biếng nhác thò tay mình trong dĩa, Rồi không thèm đem nó lên miệng mình nữa."
+        },
+        {
+          "number": 25,
+          "text": "Hãy đánh kẻ nhạo báng, thì người ngu dại sẽ trở nên khôn khéo; Khá sửa dạy người thông sáng, ắt người sẽ hiểu điều tri thức."
+        },
+        {
+          "number": 26,
+          "text": "Kẻ hãm hại cha mình, và xô đuổi mẹ mình, Là một con trai gây hổ ngươi và chiêu sỉ nhục."
+        },
+        {
+          "number": 27,
+          "text": "Hỡi con, hãy thôi nghe sự khuyên dạy Khiến cho con lầm lạc cách xa các lời tri thức."
+        },
+        {
+          "number": 28,
+          "text": "Chứng gian tà nhạo báng sự công bình; Và miệng kẻ dữ nuốt tội ác."
+        },
+        {
+          "number": 29,
+          "text": "Sự xét đoán dự bị cho kẻ nhạo báng; Và roi vọt sắm sửa cho lưng kẻ ngu muội."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Rượu khiến người ta nhạo báng, đồ uống say làm cho hỗn hào; Phàm ai dùng nó quá độ, chẳng phải là khôn ngoan."
+        },
+        {
+          "number": 2,
+          "text": "Sự oai khiếp của vua giống như sư tử gầm hét; Ai chọc giận người ắt phạm đến mạng sống mình."
+        },
+        {
+          "number": 3,
+          "text": "Người nào giữ mình khỏi tranh cạnh, ấy là sự tôn vinh của người; Chỉ kẻ điên cuồng sa vào đó mà thôi."
+        },
+        {
+          "number": 4,
+          "text": "Vì có mùa đông kẻ biếng nhác chẳng cày ruộng; Qua mùa gặt nó sẽ xin ăn, nhưng chẳng được gì hết."
+        },
+        {
+          "number": 5,
+          "text": "Mưu kế trong lòng người ta như nước sâu; Người thông sáng sẽ múc lấy tại đó."
+        },
+        {
+          "number": 6,
+          "text": "Phần nhiều người khoe khoang sự nhân từ mình; Nhưng ai sẽ tìm được một người trung thành?"
+        },
+        {
+          "number": 7,
+          "text": "Người công bình ăn ở cách thanh liêm; Những con cháu người lấy làm có phước thay!"
+        },
+        {
+          "number": 8,
+          "text": "Vua ngồi trên ngôi xét đoán, Lấy mặt mình đánh tan các điều ác."
+        },
+        {
+          "number": 9,
+          "text": "Ai có thể nói: Ta đã luyện sạch lòng mình, Ta đã trong sạch tội ta rồi?"
+        },
+        {
+          "number": 10,
+          "text": "Hai thứ trái cân, và hai thứ lường, Cả hai đều gớm ghiếc cho Đức Giê-hô-va."
+        },
+        {
+          "number": 11,
+          "text": "Công việc con trẻ làm, hoặc trong sạch hoặc chánh đáng, Cũng đều tỏ bản tánh nó ra."
+        },
+        {
+          "number": 12,
+          "text": "Tai để nghe, mắt để thấy, Đức Giê-hô-va đã làm ra cả hai."
+        },
+        {
+          "number": 13,
+          "text": "Chớ ưa ngủ, e cho người trở nên nghèo khổ chăng; Hãy mở mắt ra, thì sẽ được no nê bánh."
+        },
+        {
+          "number": 14,
+          "text": "Kẻ mua nói rằng: Không tốt, không tốt! Đoạn đi, và tự khoe khoang mình."
+        },
+        {
+          "number": 15,
+          "text": "Có vàng và nhiều châu ngọc; Song miệng có tri thức là bửu vật quí giá."
+        },
+        {
+          "number": 16,
+          "text": "Hãy cầm lấy áo hắn, vì hắn có bảo lãnh cho người khác; Hãy buộc họ một của cầm, bởi họ đáp thế cho người đàn bà lạ."
+        },
+        {
+          "number": 17,
+          "text": "Bánh nhờ dối gạt mà được lấy làm ngon ngọt cho người; Nhưng kế sau miệng người đầy sạn."
+        },
+        {
+          "number": 18,
+          "text": "Nhờ bàn luận, các mưu kế được định vững vàng; Hãy đánh giặc cách khôn khéo."
+        },
+        {
+          "number": 19,
+          "text": "Kẻ nào đi thèo lẻo bầy tỏ điều kín đáo; Vậy, chớ giao thông với kẻ hay hở môi quá."
+        },
+        {
+          "number": 20,
+          "text": "Ngọn đèn của kẻ rủa cha mẹ mình Sẽ tắt giữa vùng tăm tối mờ mịt."
+        },
+        {
+          "number": 21,
+          "text": "Sản nghiệp mình được vội vã lúc ban đầu, Và cuối cùng sẽ chẳng đặng phước."
+        },
+        {
+          "number": 22,
+          "text": "Chớ nói: Ta sẽ trả ác. Hãy chờ đợi Đức Giê-hô-va, Ngài sẽ cứu rỗi con."
+        },
+        {
+          "number": 23,
+          "text": "Trái cân hai thứ lấy làm gớm ghiếc cho Đức Giê-hô-va; Và cây cân giả nào phải vật tốt lành."
+        },
+        {
+          "number": 24,
+          "text": "Các bước của loài người do nơi Đức Giê-hô-va nhất định; Vậy, loài người hiểu đường lối mình sao được?"
+        },
+        {
+          "number": 25,
+          "text": "Nói cách hớp tớp rằng: Vật nầy là vật thánh! Và sau khi đã khấn nguyện rồi mới suy xét đến, ấy quả một cái bẫy cho người ta."
+        },
+        {
+          "number": 26,
+          "text": "Vua khôn ngoan làm tan kẻ ác, Và khiến bánh xe lăn cán chúng nó."
+        },
+        {
+          "number": 27,
+          "text": "Linh tánh loài người vốn một ngọn đèn của Đức Giê-hô-va, Dò thấu các nơi ẩn bí của lòng."
+        },
+        {
+          "number": 28,
+          "text": "Sự nhân từ và chân thật bảo hộ vua; Người lấy lòng nhân từ mà nâng đỡ ngôi nước mình."
+        },
+        {
+          "number": 29,
+          "text": "Sức lực của gã trai trẻ là vinh hiển của người; Còn tóc bạc là sự tôn trọng của ông già."
+        },
+        {
+          "number": 30,
+          "text": "Những thương tích và dấu vít làm cho sạch điều ác, Và roi vọt thấm vào nơi kín đáo của lòng."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lòng của vua ở trong tay Đức Giê-hô-va khác nào dòng nước chảy; Ngài làm nghiêng lệch nó bề nào tùy ý Ngài muốn."
+        },
+        {
+          "number": 2,
+          "text": "Các đường lối của loài người đều chánh đáng theo mắt họ; Song Đức Giê-hô-va cân nhắc cái lòng."
+        },
+        {
+          "number": 3,
+          "text": "Làm theo sự công bình và ngay thẳng Được đẹp lòng Đức Giê-hô-va hơn của tế lễ."
+        },
+        {
+          "number": 4,
+          "text": "Mặt tự cao, lòng kiêu ngạo, Và ngọn đèn của kẻ ác, đều là tội lỗi."
+        },
+        {
+          "number": 5,
+          "text": "Các ý tưởng của người cần mẫn dẫn đến sự dư dật; Còn những kẻ khờ dại chỉ chạy đến điều thiếu thốn."
+        },
+        {
+          "number": 6,
+          "text": "Tài vật nhờ dùng lưỡi dối gạt mà được, Aáy là một điều hư không mau hết của kẻ tìm sự chết."
+        },
+        {
+          "number": 7,
+          "text": "Sự cường bạo của kẻ ác sẽ đùa chúng nó đi; Vì chúng nó không khứng làm điều ngay thẳng."
+        },
+        {
+          "number": 8,
+          "text": "Con đường của kẻ gánh tội là quanh quẹo; Còn công việc kẻ trong sạch vốn ngay thẳng."
+        },
+        {
+          "number": 9,
+          "text": "Thà ở nơi xó nóc nhà, Hơn là ở chung nhà với một người đàn bà hay tranh cạnh."
+        },
+        {
+          "number": 10,
+          "text": "Lòng kẻ dữ ao ước điều ác; Kẻ lân cận nó không được ơn trước mặt nó."
+        },
+        {
+          "number": 11,
+          "text": "Khi kẻ nhạo báng bị phạt, người ngu dại bèn trở nên khôn ngoan; Khi khuyên dạy người khôn ngoan, người nhận lãnh sự tri thức."
+        },
+        {
+          "number": 12,
+          "text": "Có một Đấng công bình xem xét kỹ càng nhà kẻ ác; Đấng ấy xô những kẻ ác vào tai họa."
+        },
+        {
+          "number": 13,
+          "text": "Ai bưng tai không khứng nghe tiếng kêu la của người nghèo khổ, Người đó cũng sẽ kêu la mà sẽ chẳng có ai đáp lại."
+        },
+        {
+          "number": 14,
+          "text": "Của lễ dâng kín nhiệm nguôi cơn thạnh nộ; Của hối lộ đút vào lòng làm ngất cơn giận dữ tợn."
+        },
+        {
+          "number": 15,
+          "text": "Làm điều ngay thẳng, ấy là một việc vui vẻ cho người công bình; Nhưng gây bại hoại cho kẻ làm gian ác."
+        },
+        {
+          "number": 16,
+          "text": "Người lầm lạc xa đường khôn sáng Sẽ ở với hội kẻ chết."
+        },
+        {
+          "number": 17,
+          "text": "Ai ham sự vui chơi ắt sẽ nghèo khó; Còn ai ưa rượu với dầu sẽ chẳng hề làm giàu."
+        },
+        {
+          "number": 18,
+          "text": "Kẻ ác là một giá chuộc người công bình; Và kẻ dối gạt thế chỗ cho người ngay thẳng."
+        },
+        {
+          "number": 19,
+          "text": "Thà ở nơi vắng vẻ, Hơn là ở với một người đàn bà hay tranh cạnh và nóng giận."
+        },
+        {
+          "number": 20,
+          "text": "Có bửu vật và dầu trong nhà người khôn ngoan; Nhưng kẻ ngu muội nuốt nó đi."
+        },
+        {
+          "number": 21,
+          "text": "Người nào tìm cầu sự công bình và sự nhân từ sẽ tìm được sự sống, sự công bình, và tôn trọng."
+        },
+        {
+          "number": 22,
+          "text": "Người khôn ngoan leo lên thành dõng sĩ, Đánh hạ sức lực mà nó nương cậy."
+        },
+        {
+          "number": 23,
+          "text": "Ai giữ lấy miệng và lưỡi mình Giữ linh hồn mình khỏi hoạn nạn."
+        },
+        {
+          "number": 24,
+          "text": "Nhạo báng, ấy là tên của người kiêu căng cao cách; Nó cư xử cách xấc xược theo tánh kiêu ngạo của nó."
+        },
+        {
+          "number": 25,
+          "text": "Sự ước ao của kẻ biếng nhác giết chết nó; Bởi vì hai tay nó không khứng làm việc."
+        },
+        {
+          "number": 26,
+          "text": "Có người trót ngày ham hố quá; Nhưng người công bình ban cho không chắt lót."
+        },
+        {
+          "number": 27,
+          "text": "Của tế lễ của kẻ ác là một vật gớm ghiếc; Phương chi họ đem đến mà có ác tưởng."
+        },
+        {
+          "number": 28,
+          "text": "Chứng dối giả sẽ hư mất đi; Nhưng người hay nghe theo sẽ nói được mãi mãi."
+        },
+        {
+          "number": 29,
+          "text": "Kẻ ác tự làm mặt chai mày đá; Còn người ngay thẳng làm vững đường lối mình."
+        },
+        {
+          "number": 30,
+          "text": "Chẳng có sự khôn ngoan nào, sự thông minh nào, hay là mưu kế nào, Mà chống địch Đức Giê-hô-va được."
+        },
+        {
+          "number": 31,
+          "text": "Ngựa sắm sửa về ngày tranh chiến; Nhưng sự thắng trận thuộc về Đức Giê-hô-va."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Danh tiếng tốt còn hơn tiền của nhiều; Và ơn nghĩa quí hơn bạc và vàng."
+        },
+        {
+          "number": 2,
+          "text": "Kẻ giàu và người nghèo đều gặp nhau; Đức Giê-hô-va đã dựng nên cả hai."
+        },
+        {
+          "number": 3,
+          "text": "Người khôn ngoan thấy điều tai vạ, và ẩn mình; Nhưng kẻ ngu muội cứ đi luôn, và mắc phải vạ."
+        },
+        {
+          "number": 4,
+          "text": "Phần thưởng của sự khiêm nhượng và sự kính sợ Đức Giê-hô-va, Aáy là sự giàu có, sự tôn trọng, và mạng sống."
+        },
+        {
+          "number": 5,
+          "text": "Trong đường kẻ gian tà có gai chông và cái bẫy; Ai gìn giữ linh hồn mình sẽ cách xa nó."
+        },
+        {
+          "number": 6,
+          "text": "Hãy dạy cho trẻ thơ con đường nó phải theo; Dầu khi nó trở về già, cũng không hề lìa khỏi đó."
+        },
+        {
+          "number": 7,
+          "text": "Người giàu quản hạt kẻ nghèo; Kẻ nào mượn là tôi tớ của kẻ cho mượn."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ nào giao sự bất công sẽ gặt điều tai họa; Và cây roi thạnh nộ nó sẽ bị gãy đi."
+        },
+        {
+          "number": 9,
+          "text": "Người nào có mắt từ thiện sẽ được phước; Vì người ban bánh mình cho kẻ nghèo khó."
+        },
+        {
+          "number": 10,
+          "text": "Hãy đuổi kẻ nhạo báng ra, thì sự cãi lẫy cũng sẽ đi; Điều tranh cạnh và sự sỉ nhục sẽ hết."
+        },
+        {
+          "number": 11,
+          "text": "Ai ái mộ lòng thánh sạch, Và có duyên nơi môi miệng mình, sẽ được vua làm bạn nghĩa."
+        },
+        {
+          "number": 12,
+          "text": "Mắt của Đức Giê-hô-va coi giữ người có tri thức; Nhưng Ngài đánh đổ lời kẻ gian tà."
+        },
+        {
+          "number": 13,
+          "text": "Kẻ biếng nhác nói: Có con sư tử ở ngoài đó; Tôi sẽ bị giết tại giữa đường."
+        },
+        {
+          "number": 14,
+          "text": "Miệng của dâm phụ vốn là một cái hố sâu; Ai bị Đức Giê-hô-va giận sẽ sa ngã vào đó."
+        },
+        {
+          "number": 15,
+          "text": "Sự ngu dại vốn buộc vào lòng con trẻ; Song roi răn phạt sẽ làm cho sự ấy lìa xa nó."
+        },
+        {
+          "number": 16,
+          "text": "Người nào hà hiếp kẻ nghèo ắt sẽ làm cho nó giàu có; Và ai cho kẻ giàu có chỉ làm cho người sa vào sự thiếu thốn."
+        },
+        {
+          "number": 17,
+          "text": "Hãy lắng tai nghe lời kẻ khôn ngoan, Khá chuyên lòng con về sự tri thức ta."
+        },
+        {
+          "number": 18,
+          "text": "Vì nếu con gìn giữ nó trong lòng con, Lập nó ở chung nhau trên môi miệng con, thì ấy thật một sự tốt đẹp."
+        },
+        {
+          "number": 19,
+          "text": "Ngày nay ta đã dạy cho con hiểu biết các điều đó, Để con có lòng tin cậy Đức Giê-hô-va."
+        },
+        {
+          "number": 20,
+          "text": "Ta há chẳng có chép cho con Những điều tốt về mưu luận và về tri thức sao,"
+        },
+        {
+          "number": 21,
+          "text": "Để làm cho con biết sự quả quyết của lời chân lý, Hầu cho con lấy lời thật mà đáp lại với những người sai con?"
+        },
+        {
+          "number": 22,
+          "text": "Chớ bóc lột kẻ nghèo, bởi vì họ nghèo, Cũng đừng hà hiếp người khốn khổ nơi cửa thành;"
+        },
+        {
+          "number": 23,
+          "text": "Vì Đức Giê-hô-va sẽ binh vực duyên cớ của họ, Và đoạt lấy sự sống của kẻ có cướp lột họ."
+        },
+        {
+          "number": 24,
+          "text": "Chớ làm bạn với người hay giận; Chớ giao tế cùng kẻ cường bạo,"
+        },
+        {
+          "number": 25,
+          "text": "E con tập theo đường lối nó, Và linh hồn con bị bẫy hãm hại chăng."
+        },
+        {
+          "number": 26,
+          "text": "Chớ đồng bọn cùng những kẻ giao tay nhau, Hoặc cùng kẻ bảo lãnh nợ:"
+        },
+        {
+          "number": 27,
+          "text": "Nếu con không có gì trả, Cớ sao con muốn chúng đoạt lấy cái giường con đi?"
+        },
+        {
+          "number": 28,
+          "text": "Chớ dời đi các mộc giới cũ, Mà tổ phụ con đã dựng."
+        },
+        {
+          "number": 29,
+          "text": "Con có thấy người nào siêng năng trong công việc mình chăng? Người ấy hẳn sẽ đứng ở trước mặt các vua, chớ chẳng phải ở trước mặt người hèn hạ đâu."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Khi con ngồi ăn bữa với một quan trưởng, Hãy xét kỹ người ở trước mặt con;"
+        },
+        {
+          "number": 2,
+          "text": "Nếu con có láu ăn, Khá để con dao nơi họng con."
+        },
+        {
+          "number": 3,
+          "text": "Chớ thèm món ngon của người, Vì là vật thực phỉnh gạt."
+        },
+        {
+          "number": 4,
+          "text": "Con chớ chịu vật vã đặng làm giàu; Khá thôi nhờ cậy khôn ngoan riêng của con."
+        },
+        {
+          "number": 5,
+          "text": "Con há liếc mắt vào sự giàu có sao? Nó đã chẳng còn nữa rồi; Vì nó quả hẳn có mọc cánh, Và bay lên trên trời như chim ưng vậy."
+        },
+        {
+          "number": 6,
+          "text": "Chớ ăn bánh của kẻ có mắt gian ác, Và đừng tham muốn những món ngon của hắn."
+        },
+        {
+          "number": 7,
+          "text": "Vì hắn tưởng trong lòng thể nào, thì hắn quả thể ấy. Hắn nói với con rằng: Hãy ăn uống đi; Nhưng trong lòng hắn chẳng hiệp cùng con."
+        },
+        {
+          "number": 8,
+          "text": "Miếng con đã ăn, con sẽ mửa ra, Và mất những lời hòa mĩ của con."
+        },
+        {
+          "number": 9,
+          "text": "Chớ nói vào lỗ tai kẻ ngu muội; Vì nó sẽ khinh dể sự khôn ngoan của các lời con."
+        },
+        {
+          "number": 10,
+          "text": "Chớ dời đi mộc giới cũ, Đừng vào trong đồng ruộng của kẻ mồ côi;"
+        },
+        {
+          "number": 11,
+          "text": "Vì Đấng cứu chuộc của họ vốn quyền năng, Sẽ binh vực sự cáo tụng của chúng nó nghịch với con."
+        },
+        {
+          "number": 12,
+          "text": "Hãy chuyên lòng về sự khuyên dạy, Và lắng tai nghe các lời tri thức."
+        },
+        {
+          "number": 13,
+          "text": "Chớ tha sửa phạt trẻ thơ; Dầu đánh nó bằng roi vọt, nó chẳng chết đâu. Khi con đánh nó bằng roi vọt,"
+        },
+        {
+          "number": 14,
+          "text": "Aét giải cứu linh hồn nó khỏi âm phủ."
+        },
+        {
+          "number": 15,
+          "text": "Hỡi con, nếu lòng con khôn ngoan, Thì lòng ta cũng sẽ được vui mừng;"
+        },
+        {
+          "number": 16,
+          "text": "Phải, chính ruột gan ta sẽ hớn hở Khi miệng con nói điều ngay thẳng."
+        },
+        {
+          "number": 17,
+          "text": "Lòng con chớ phân bì với kẻ hung ác; Nhưng hằng ngày hãy kính sợ Đức Giê-hô-va."
+        },
+        {
+          "number": 18,
+          "text": "Vì quả hẳn có sự thưởng thiện, Và sự trông đợi của con sẽ chẳng thành ra luống công."
+        },
+        {
+          "number": 19,
+          "text": "Hỡi con, hãy nghe và trở nên khôn ngoan, Khá dẫn lòng con vào đường chánh."
+        },
+        {
+          "number": 20,
+          "text": "Chớ đồng bọn cùng những bợm rượu, Hoặc với những kẻ láu ăn;"
+        },
+        {
+          "number": 21,
+          "text": "Vì bợm rượu và kẻ láu ăn sẽ trở nên nghèo; Còn kẻ ham ngủ sẽ mặc rách rưới."
+        },
+        {
+          "number": 22,
+          "text": "Hãy nghe lời cha đã sanh ra con, Chớ khinh bỉ mẹ con khi người trở nên già yếu."
+        },
+        {
+          "number": 23,
+          "text": "Hãy mua chân lý, Sự khôn ngoan, sự khuyên dạy, và sự thông sáng; chớ hề bán đi."
+        },
+        {
+          "number": 24,
+          "text": "Cha người công bình sẽ có sự vui vẻ lớn, Và người nào sanh con khôn ngoan sẽ khoái lạc nơi nó."
+        },
+        {
+          "number": 25,
+          "text": "Ước gì cha và mẹ con được hớn hở, Và người đã sanh con lấy làm vui mừng."
+        },
+        {
+          "number": 26,
+          "text": "Hỡi con, hãy dâng lòng con cho cha, Và mắt con khá ưng đẹp đường lối của cha."
+        },
+        {
+          "number": 27,
+          "text": "Vì kỵ nữ vốn là một cái hố sâu, Và dâm phụ là một cái hầm hẹp."
+        },
+        {
+          "number": 28,
+          "text": "Nàng đứng rình như một kẻ trộm, Làm cho thêm nhiều kẻ gian tà trong bọn loài người."
+        },
+        {
+          "number": 29,
+          "text": "Ai bị sự hoạn nạn? Ai phải buồn thảm? Ai có sự tranh cạnh? Ai than xiết? Ai bị thương tích vô cớ? Ai có con mắt đỏ?"
+        },
+        {
+          "number": 30,
+          "text": "Tất những kẻ nán trễ bên rượu, Đi nếm thứ rượu pha."
+        },
+        {
+          "number": 31,
+          "text": "Chớ xem ngó rượu khi nó đỏ hồng, Lúc nó chiếu sao trong ly, Và tuôn chảy dễ dàng;"
+        },
+        {
+          "number": 32,
+          "text": "Rốt lại, nó cắn như rắn, Chít như rắn lục;"
+        },
+        {
+          "number": 33,
+          "text": "Hai mắt con sẽ nhìn người dâm phụ, Và lòng con sẽ nói điều gian tà;"
+        },
+        {
+          "number": 34,
+          "text": "Thật, con sẽ như người nằm giữa đáy biển, Khác nào kẻ nằm trên chót cột buồm vậy."
+        },
+        {
+          "number": 35,
+          "text": "Con sẽ nói rằng: Người ta đập tôi, nhưng tôi không đau; Người ta đánh tôi, song tôi không nghe biết: Khi tôi tỉnh dậy, tôi sẽ trở lại tìm uống nó nữa."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chớ ganh ghét kẻ làm ác. Đừng ước ao ở cùng chúng nó."
+        },
+        {
+          "number": 2,
+          "text": "Vì lòng chúng nó toan điều hủy phá, Và môi họ nói ra sự tổn hại."
+        },
+        {
+          "number": 3,
+          "text": "Nhờ sự khôn ngoan, cửa nhà được xây cất nên, Và được vững vàng bởi sự thông sáng;"
+        },
+        {
+          "number": 4,
+          "text": "Nhờ sự tri thức, các phòng vi đều được đầy đủ Các thứ tài vật quí báu và đẹp đẽ."
+        },
+        {
+          "number": 5,
+          "text": "Người khôn ngoan có sức mạnh, Và người tri thức gia thêm năng lực."
+        },
+        {
+          "number": 6,
+          "text": "Vì con phải nhờ mưu khôn mà đánh giặc; Đâu có nhiều mưu sĩ thì đặng toàn thắng."
+        },
+        {
+          "number": 7,
+          "text": "Sự khôn ngoan lấy làm cao xa quá cho kẻ ngu dại; Nó không mở miệng ra nơi cửa thành."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ nào toan làm điều ác, Người ta sẽ gọi hắn là kẻ gian giảo."
+        },
+        {
+          "number": 9,
+          "text": "Tư tưởng ngu dại là tội lỗi; Kẻ nhạo báng lấy làm gớm ghiếc cho loài người."
+        },
+        {
+          "number": 10,
+          "text": "Nếu con ngã lòng trong ngày hoạn nạn, Thì sức lực con nhỏ mọn thay."
+        },
+        {
+          "number": 11,
+          "text": "Hãy giải cứu kẻ bị đùa đến sự chết, Và chớ chối rỗi cho người đi xiêu tó tới chốn hình khổ."
+        },
+        {
+          "number": 12,
+          "text": "Nếu con nói: Chúng tôi chẳng biết gì đến; Thì Đấng mà cân nhắc lòng người ta, há chẳng xem xét điều ấy sao? Và Đấng gìn giữ linh hồn con, há không biết đến ư? Chớ thì Ngài sẽ chẳng báo mỗi người tùy theo công việc họ làm sao?"
+        },
+        {
+          "number": 13,
+          "text": "Hỡi con, hãy ăn mật, vì nó ngon lành; Tàng ong lấy làm ngọt ngào cho ổ gà con."
+        },
+        {
+          "number": 14,
+          "text": "Con sẽ biết sự khôn ngoan nơi linh hồn con cũng như vậy; Nếu con đã tìm được sự khôn ngoan, ắt sẽ có phần thưởng, Và sự trông đợi của con sẽ chẳng phải thành luống công."
+        },
+        {
+          "number": 15,
+          "text": "Hỡi kẻ ác, chớ rình rập nhà người công bình; Đừng phá tan chỗ nghĩ ngơi của người."
+        },
+        {
+          "number": 16,
+          "text": "Vì người công bình dầu sa ngã bảy lần, cũng chổi dậy; Còn kẻ hung ác bị tai vạ đánh đổ."
+        },
+        {
+          "number": 17,
+          "text": "Khi kẻ thù nghịch con sa ngã, chớ vui mừng; Lúc nó bị đánh đổ, lòng con đừng hớn hở;"
+        },
+        {
+          "number": 18,
+          "text": "Kẻo e Đức Giê-hô-va thấy điều đó, mà chẳng đẹp lòng, Bèn cất cơn thạnh nộ Ngài khỏi nó chăng."
+        },
+        {
+          "number": 19,
+          "text": "Chớ nổi giận vì cớ kẻ làm ác, Cũng đừng ganh ghét những người hung dữ;"
+        },
+        {
+          "number": 20,
+          "text": "Vì kẻ làm gian ác sẽ không được thiện báo, Và đèn kẻ hung dữ sẽ tắt đi."
+        },
+        {
+          "number": 21,
+          "text": "Hỡi con, hãy kính sợ Đức Giê-hô-va và tôn kính vua; Chớ hội hiệp cùng kẻ phản nghịch;"
+        },
+        {
+          "number": 22,
+          "text": "Vì sự tai họa của chúng xảy đến thình lình; Và ai biết sự phá hại của người nầy người kia?"
+        },
+        {
+          "number": 23,
+          "text": "Những ngôn ngữ nầy cũng do kẻ khôn ngoan mà đến: Trong việc xét đoán tư vị người, ấy chẳng phải tốt lành."
+        },
+        {
+          "number": 24,
+          "text": "Kẻ nào nói với kẻ ác rằng: Ngươi là công bình, Sẽ bị dân tộc rủa sả, và các nước lấy làm gớm ghiếc mình;"
+        },
+        {
+          "number": 25,
+          "text": "Còn người nào quở trách kẻ ác ắt sẽ được đẹp lòng, Và sự phước lành sẽ giáng trên họ."
+        },
+        {
+          "number": 26,
+          "text": "Ai đáp lời chánh đáng, Tất như hôn nơi môi miệng vậy."
+        },
+        {
+          "number": 27,
+          "text": "Hãy sửa sang công việc ở ngoài của con, Và sắm sẵn tại trong ruộng con; Rồi sau hãy cất nhà của con."
+        },
+        {
+          "number": 28,
+          "text": "Chớ làm chứng vô cớ nghịch kẻ lân cận mình; Con há muốn lấy môi miệng mình mà phỉnh gạt sao?"
+        },
+        {
+          "number": 29,
+          "text": "Chớ nên nói: Tôi sẽ làm cho hắn như hắn đã làm cho tôi; Tôi sẽ báo người tùy công việc của người."
+        },
+        {
+          "number": 30,
+          "text": "Ta có đi ngang qua gần ruộng kẻ biếng nhác, Và gần vườn nho của kẻ ngu muội,"
+        },
+        {
+          "number": 31,
+          "text": "Thấy cây tật lê mọc khắp cùng, Gai góc che khuất mặt đất, Và tường đá của nó đã phá hư rồi"
+        },
+        {
+          "number": 32,
+          "text": "Ta nhìn xem, bèn để ý vào đó; Ta thấy và nhận được sự dạy dỗ."
+        },
+        {
+          "number": 33,
+          "text": "Ngủ một chút, chợp mắt một chút, Khoanh tay ngủ một chút,"
+        },
+        {
+          "number": 34,
+          "text": "Thì sự nghèo của con sẽ đến như một kẻ đi rạo, Và sự thiếu thốn của con áp tới như một kẻ cầm binh khí."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Đây cũng là những châm ngôn của Sa-lô-môn, mà các người của Ê-xê-chia, vua Giu-đa sao tả."
+        },
+        {
+          "number": 2,
+          "text": "Giấu kín việc nào, ấy là vinh hiển của Đức Chúa Trời; Nhưng dò xét điều nào, ấy là vinh hiển của các vua."
+        },
+        {
+          "number": 3,
+          "text": "Người ta không thể dò biết bề cao của từng trời, Bề sâu của đất, hay là lòng của các vua."
+        },
+        {
+          "number": 4,
+          "text": "Hãy lấy cặn bã khỏi bạc, Thì thợ bạc liền được một khí dụng;"
+        },
+        {
+          "number": 5,
+          "text": "Hãy trừ kẻ ác khỏi trước mặt vua, Thì ngôi người sẽ nhờ công bình được lập bền vững."
+        },
+        {
+          "number": 6,
+          "text": "Chớ phô mình trước mặt vua, Và đừng ngồi tại chỗ của người cao trọng."
+        },
+        {
+          "number": 7,
+          "text": "Vì thà người ta nói cùng con rằng: Hãy lên đây, Hơn là người ta hạ con xuống trước mặt vua chúa, mà mắt con đã thấy."
+        },
+        {
+          "number": 8,
+          "text": "Chớ vội gây ra điều tranh tụng, E rốt cuộc khi kẻ lân cận con đã làm con hổ thẹn, Con sẽ chẳng biết làm chi."
+        },
+        {
+          "number": 9,
+          "text": "Hãy đối nại duyên cớ con với chính kẻ lân cận con, Song chớ tỏ sự kín đáo của kẻ khác;"
+        },
+        {
+          "number": 10,
+          "text": "E khi người nghe điều ấy sẽ trách con, Và sự sỉ nhục con không hề bôi hết chăng."
+        },
+        {
+          "number": 11,
+          "text": "Lời nói phải thì, Khác nào trái bình bát bằng vàng có cẩn bạc."
+        },
+        {
+          "number": 12,
+          "text": "Người khôn ngoan quở trách lỗ tai hay nghe, Khác nào một cái vòng vàng, một đồ trang sức bằng vàng ròng vậy."
+        },
+        {
+          "number": 13,
+          "text": "Sứ giả trung tín với người sai đi, Giống như tuyết mát mẻ trong ngày mùa gặt; Vì người bổ sức linh hồn của chủ mình."
+        },
+        {
+          "number": 14,
+          "text": "Kẻ nào tự khoe khoang giả dối về lễ vật mình, Tợ như có mây có gió, mà không mưa."
+        },
+        {
+          "number": 15,
+          "text": "Hằng chậm nóng giận mới khuyên được lòng của quan trưởng; Còn lưỡi mềm dịu bẻ gãy các xương."
+        },
+        {
+          "number": 16,
+          "text": "Nếu con tìm được mật, hãy ăn vừa phải, Kẻo khi ăn no chán, con mửa ra chăng."
+        },
+        {
+          "number": 17,
+          "text": "Chớ năng bước chân đến nhà kẻ lân cận con, E người chán con, và trở lòng ghét con chăng."
+        },
+        {
+          "number": 18,
+          "text": "Kẻ nào đối chứng giả dối cho người lân cận mình, Khác nào một cái búa, một cây gươm, một mũi tên nhọn."
+        },
+        {
+          "number": 19,
+          "text": "Tin cậy kẻ bất trung trong ngày hoạn nạn, Giống như răng bị gãy bể, tỉ như chân trẹo đi."
+        },
+        {
+          "number": 20,
+          "text": "Ai hát cho lòng buồn thảm nghe, Khác nào kẻ lột áo mình khi ngày lạnh, Và như giấm đổ trên diêm tiêu vậy."
+        },
+        {
+          "number": 21,
+          "text": "Nếu kẻ thù nghịch con có đói, hãy cho nó ăn; Nếu có khát, hãy cho nó uống;"
+        },
+        {
+          "number": 22,
+          "text": "Vì như vậy con chất than cháy đỏ trên đầu nó, Và Đức Giê-hô-va sẽ báo lại cho con."
+        },
+        {
+          "number": 23,
+          "text": "Gió bắc sanh ra mưa; Còn lưỡi nói hành cách kín đáo gây cho mặt mày giận dữ."
+        },
+        {
+          "number": 24,
+          "text": "Thà ở một góc trên mái nhà, Hơn là ở chung nhà với người đàn bà hay tranh cạnh."
+        },
+        {
+          "number": 25,
+          "text": "Tin Lành ở xứ xa đến, Giống như nước mát mẻ cho người khát khao."
+        },
+        {
+          "number": 26,
+          "text": "Người công bình xiêu tó trước mặt kẻ gian ác, Khác nào một suối nước bị dấy đục, một nguồn nước bị hư."
+        },
+        {
+          "number": 27,
+          "text": "Aên mật nhiều quá lấy làm chẳng tốt; Và cầu kiếm vinh hiển cho mình ấy gây sự tổn hại."
+        },
+        {
+          "number": 28,
+          "text": "Người nào chẳng chế trị lòng mình, Khác nào một cái thành hư nát, không có vách ngăn."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sự vinh hiển không xứng cho kẻ ngu muội, Như tuyết trong mùa hạ, như mưa trong mùa gặt."
+        },
+        {
+          "number": 2,
+          "text": "Như chim sẻ bay đi đây đó, như con én liệng đi, Lời rủa sả vô cớ cũng vậy, nó chẳng hề xảy đến."
+        },
+        {
+          "number": 3,
+          "text": "Roi nẹt dùng cho ngựa, hàm thiết để cho lừa, Còn roi vọt dành cho lưng kẻ ngu muội."
+        },
+        {
+          "number": 4,
+          "text": "Chớ đáp với kẻ ngu si tùy sự ngu dại nó, E con giống như nó chăng."
+        },
+        {
+          "number": 5,
+          "text": "Hãy đáp với kẻ ngu si tùy sự ngu dại nó, Kẻo nó khôn ngoan theo mắt nó chăng."
+        },
+        {
+          "number": 6,
+          "text": "Kẻ nào cậy kẻ ngu muội đem báo tin, Chặt chân mình, và uống lấy sự tổn hại."
+        },
+        {
+          "number": 7,
+          "text": "Oáng chân người què đòng đưa vô đụng; Câu châm ngôn trong miệng kẻ ngu dại cũng vậy."
+        },
+        {
+          "number": 8,
+          "text": "Tôn trọng kẻ ngu muội, Giống như bỏ cục ngọc vào trong đống đá."
+        },
+        {
+          "number": 9,
+          "text": "Câu châm ngôn ở nơi miệng kẻ ngu muội, Khác nào một cái gai đâm vào tay người say rượu."
+        },
+        {
+          "number": 10,
+          "text": "Ai mướn người ngu muội và kẻ khách đi qua đường, Giống như một lính xạ tên làm thương mọi người."
+        },
+        {
+          "number": 11,
+          "text": "Kẻ ngu muội làm lại việc ngu dại mình, Khác nào con chó đã mửa ra, rồi liếm lại."
+        },
+        {
+          "number": 12,
+          "text": "Con có thấy người nào khôn ngoan theo mắt nó chăng? Còn có sự trông cậy cho kẻ ngu muội hơn là cho nó."
+        },
+        {
+          "number": 13,
+          "text": "Kẻ biếng nhác nói: Có con sư tử ngoài đường; Một con sư tử ở trong đường phố."
+        },
+        {
+          "number": 14,
+          "text": "Kẻ biếng nhác lăn trở trên giường mình, Khác nào cửa xây trên bản lề nó."
+        },
+        {
+          "number": 15,
+          "text": "Kẻ biếng nhác thò tay mình vào trong dĩa, Lấy làm mệt nhọc mà đem nó lên miệng."
+        },
+        {
+          "number": 16,
+          "text": "Kẻ biếng nhác tự nghĩ mình khôn ngoan Hơn bảy người đáp lại cách có lý."
+        },
+        {
+          "number": 17,
+          "text": "Kẻ nào đi qua đường mà nổi giận về cuộc cãi lẫy không can đến mình, Khác nào kẻ nắm con chó nơi vành tai."
+        },
+        {
+          "number": 18,
+          "text": "Người nào phỉnh gạt kẻ lân cận mình, Rồi nói rằng: Tôi chơi mà!"
+        },
+        {
+          "number": 19,
+          "text": "Khác nào kẻ điên cuồng ném than lửa, Cây tên, và sự chết."
+        },
+        {
+          "number": 20,
+          "text": "Lửa tắt tại thiếu củi; Khi chẳng có ai thèo lẻo cuộc tranh cạnh bèn nguôi."
+        },
+        {
+          "number": 21,
+          "text": "Than chụm cho than đỏ, và củi để chụm lửa; Người hay tranh cạnh xui nóng cãi cọ cũng vậy."
+        },
+        {
+          "number": 22,
+          "text": "Lời kẻ thèo lẻo giống như vật thực ngon, Vào thấu đến tận gan ruột."
+        },
+        {
+          "number": 23,
+          "text": "Môi miệng sốt sắng và lòng độc ác, Khác nào bình gốm bọc vàng bạc pha."
+        },
+        {
+          "number": 24,
+          "text": "Kẻ nào ghen ghét, dùng môi miệng nói giả đò, Nhưng trong lòng nó nuôi sự gian lận;"
+        },
+        {
+          "number": 25,
+          "text": "Khi nó nói ngọt nhạt, thì chớ tin; Vì trong lòng nó có bảy sự gớm ghiếc."
+        },
+        {
+          "number": 26,
+          "text": "Dầu sự ghen ghét ẩn giấu trong tuồng giả bộ, Sự gian ác nó sẽ bị lộ ra nơi hội chúng."
+        },
+        {
+          "number": 27,
+          "text": "Ai đào hầm sẽ té xuống đó; Kẻ nào lăn đá, đá sẽ trở đè lại nó."
+        },
+        {
+          "number": 28,
+          "text": "Lưỡi giả dối ghét những kẻ nó đã chà nát; Và miệng dua nịnh gây điều bại hoại."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Chớ khoe khoang về ngày mai; Vì con chẳng biết ngày mai sẽ sanh ra điều gì."
+        },
+        {
+          "number": 2,
+          "text": "Hãy để cho kẻ khác khen ngợi con, miệng con chẳng nên làm; Để cho một người ngoài tán mỹ con, môi con đừng làm."
+        },
+        {
+          "number": 3,
+          "text": "Đá thì nặng, cát cũng nặng; Nhưng cơn tức giận của kẻ ngu dại còn nặng hơn cả hai."
+        },
+        {
+          "number": 4,
+          "text": "Sự căm gan vốn hung dữ, và cơn giận như nước tràn ra; Nhưng ai đứng nổi trước sự ghen ghét?"
+        },
+        {
+          "number": 5,
+          "text": "Một lời quở trách tỏ tường Hơn là thương yêu giấu kín."
+        },
+        {
+          "number": 6,
+          "text": "Bạn hữu làm cho thương tích, ấy bởi lòng thành tín; Còn sự hôn hít của kẻ ghen ghét lấy làm giả ngụy."
+        },
+        {
+          "number": 7,
+          "text": "Kẻ no nê giày đạp tàng mật dưới chân mình; Song điều gì đắng cũng lấy làm ngọt cho kẻ đói khát."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ lưu lạc xa cách nơi ở của mình, Giống như chim bay đây đó khỏi ổ nó vậy."
+        },
+        {
+          "number": 9,
+          "text": "Dầu và thuốc thơm làm khoan khoái linh hồn; Lời khuyên do lòng bạn hữu ra cũng êm dịu dường ấy."
+        },
+        {
+          "number": 10,
+          "text": "Chớ lìa bạn mình, hay là bạn của cha mình; Trong ngày hoạn nạn chớ đi đến nhà anh em mình: Một người xóm giềng gần còn hơn anh em xa."
+        },
+        {
+          "number": 11,
+          "text": "Hỡi con, khá khôn ngoan, và làm vui lòng cha, Để cha có thế đáp lại cùng kẻ nào sỉ nhục cha."
+        },
+        {
+          "number": 12,
+          "text": "Người khôn khéo thấy trước sự tai hại, bèn lo ẩn núp mình; Còn kẻ ngu muội cứ đi qua, và phải mang lấy tai vạ."
+        },
+        {
+          "number": 13,
+          "text": "Hãy lấy áo của người, vì người đã bảo lãnh cho kẻ lạ; Khá buộc người một của cầm, vì người đã đáp thế cho người dâm phụ."
+        },
+        {
+          "number": 14,
+          "text": "Kẻ nào chổi dậy sớm chúc phước lớn tiếng cho bạn hữu mình, Người ta sẽ kể điều đó là sự rủa sả."
+        },
+        {
+          "number": 15,
+          "text": "Một máng xối dột luôn luôn trong ngày mưa lớn, Và một người đàn bà hay tranh cạnh, cả hai đều y như nhau."
+        },
+        {
+          "number": 16,
+          "text": "Ai muốn ngăn giữ nàng, khác nào ngăn giữ gió, Và như tay hữu cầm lấy dầu vậy."
+        },
+        {
+          "number": 17,
+          "text": "Sắt mài nhọn sắt. Cũng vậy người bổ dưỡng diện mạo bạn hữu mình."
+        },
+        {
+          "number": 18,
+          "text": "Ai săn sóc cây vả, sẽ ăn trái nó; Và kẻ nào hầu chủ mình ắt được tôn trọng."
+        },
+        {
+          "number": 19,
+          "text": "Mặt dọi mặt trong nước thế nào, Lòng người đối với người cũng thế ấy."
+        },
+        {
+          "number": 20,
+          "text": "Con mắt loài người chẳng hề chán, Cũng như âm phủ và vực sâu không hề đầy vậy."
+        },
+        {
+          "number": 21,
+          "text": "Lò thử bạc, dót thử vàng; Còn sự khen ngợi thử loài người."
+        },
+        {
+          "number": 22,
+          "text": "Dầu con dùng chầy giã mà giã kẻ ngu dại trong cối Chung lộn với gạo, Thì sự điên dại nó cũng không lìa khỏi nó."
+        },
+        {
+          "number": 23,
+          "text": "Hãy rán biết cảnh trạng bầy chiên con, Và lo săn sóc các đoàn bò của con;"
+        },
+        {
+          "number": 24,
+          "text": "Vì sự giàu có không lưu tồn mãi mãi, Và mũ triều thiên há còn đến đời đời sao?"
+        },
+        {
+          "number": 25,
+          "text": "Cỏ khô đã mất đi, cỏ non bèn mọc ra, Và người ta thâu nhập rau cỏ núi."
+        },
+        {
+          "number": 26,
+          "text": "Lông chiên con dùng làm áo xống cho con, Giá dê đực dùng mua đồng ruộng."
+        },
+        {
+          "number": 27,
+          "text": "Sữa dê có đủ làm đồ ăn cho con, Cho người nhà con, và đặng nuôi lấy các con đòi của con."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kẻ ác chạy trốn dầu không ai đuổi theo; Nhưng người công bình mãnh dõng như một sư tử."
+        },
+        {
+          "number": 2,
+          "text": "Tại vì xứ phạm tội ác nên có vua chúa nhiều; Nhưng nhờ người thông sáng có trí hiểu biết, Sự vững vàng của nước sẽ còn lâu dài."
+        },
+        {
+          "number": 3,
+          "text": "Người nghèo hiếp kẻ khó khăn, Khác nào trận mưa quét sạch thực vật."
+        },
+        {
+          "number": 4,
+          "text": "Kẻ bỏ luật pháp ngợi khen kẻ ác; Còn người giữ luật pháp chiến đấu cùng chúng nó."
+        },
+        {
+          "number": 5,
+          "text": "Kẻ buông mình vào sự ác chẳng hiểu sự công bình; Nhưng ai tìm cầu Đức Giê-hô-va hiểu biết mọi sự."
+        },
+        {
+          "number": 6,
+          "text": "Thà người nghèo khổ ăn ở cách thanh liêm, Còn hơn là kẻ giàu có theo đường tà vạy."
+        },
+        {
+          "number": 7,
+          "text": "Ai giữ luật pháp là con trai khôn ngoan; Còn ai kết bạn với kẻ hoang đàng làm hổ ngươi cho cha mình."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ nào nhờ lời và sự ăn lời quá phép mà làm cho của cải mình thêm lên, Tất chứa để dành của ấy cho người có lòng thương xót kẻ nghèo khổ."
+        },
+        {
+          "number": 9,
+          "text": "Người nào xây tai không khứng nghe luật pháp, Lời cầu nguyện người ấy cũng là một sự gớm ghiếc."
+        },
+        {
+          "number": 10,
+          "text": "Kẻ nào làm cho người ngay thẳng lầm lạc trong đường xấu xa, Chính kẻ đó sẽ sa vào hố của mình đã đào; Nhưng người trọn vẹn được hưởng phần phước lành."
+        },
+        {
+          "number": 11,
+          "text": "Người giàu tự nghĩ mình là khôn ngoan; Nhưng kẻ nghèo có sự thông sáng dò xét người."
+        },
+        {
+          "number": 12,
+          "text": "Khi người công bình thắng hơn, thì có sự vinh hiển lớn; Còn lúc kẻ gian ác dấy lên, thì người ta đều đi ẩn trốn."
+        },
+        {
+          "number": 13,
+          "text": "Người nào giấu tội lỗi mình sẽ không được may mắn; Nhưng ai xưng nó ra và lìa bỏ nó sẽ được thương xót."
+        },
+        {
+          "number": 14,
+          "text": "Người nào hằng kính sợ luôn luôn lấy làm có phước thay; Còn ai cứng lòng mình sẽ sa vào tai nạn."
+        },
+        {
+          "number": 15,
+          "text": "Một vua gian ác cai trị dân nghèo khổ, Khác nào sư tử gầm hét, và gấu đuổi theo mồi."
+        },
+        {
+          "number": 16,
+          "text": "Quan trưởng thiếu trí hiểu cũng hà hiếp người ta nhiều; Nhưng người ghét sự hà tiện sẽ được trường thọ."
+        },
+        {
+          "number": 17,
+          "text": "Kẻ mắc tội đổ huyết của người nào Sẽ trốn đến mồ mả; chớ có ai ngăn cản nó!"
+        },
+        {
+          "number": 18,
+          "text": "Ai ăn ở cách ngay thẳng sẽ được cứu rỗi; Còn ai đi theo hai lối cách cong vạy sẽ sa vào một trong hai lối ấy."
+        },
+        {
+          "number": 19,
+          "text": "Kẻ nào cày ruộng mình sẽ ăn bánh no nê; Còn ai theo kẻ biếng nhác sẽ được đầy sự nghèo khổ."
+        },
+        {
+          "number": 20,
+          "text": "Người thành thực sẽ được phước lành nhiều; Còn kẻ nào vội làm cho giàu ắt sẽ chẳng khỏi bị phạt."
+        },
+        {
+          "number": 21,
+          "text": "Tây vị người lấy làm chẳng tốt; Dầu vì một miếng bánh, người cũng phạm tội."
+        },
+        {
+          "number": 22,
+          "text": "Người nào có mắt tham, vội ham kiếm của cải, Chẳng biết rằng sự thiếu thốn sẽ lâm vào mình nó."
+        },
+        {
+          "number": 23,
+          "text": "Ai quở trách người nào, về sau sẽ được ơn Hơn là kẻ lấy lưỡi mà dua nịnh."
+        },
+        {
+          "number": 24,
+          "text": "Kẻ nào ăn cắp của cha hay mẹ mình, Và nói rằng: Chẳng phải là phạm tội đâu, Kẻ ấy đồng bạn với kẻ phá phách."
+        },
+        {
+          "number": 25,
+          "text": "Người nào có lòng kiêu ngạo giục sự tranh cạnh; Nhưng kẻ nào tin cậy Đức Giê-hô-va sẽ được no nê."
+        },
+        {
+          "number": 26,
+          "text": "Kẻ nào tin cậy nơi lòng mình là kẻ ngu muội; Còn ai ăn ở cách khôn ngoan sẽ được cứu rỗi."
+        },
+        {
+          "number": 27,
+          "text": "Ai cho người nghèo sẽ không thiếu thốn; Còn ai xây mắt khỏi đi ắt sẽ bị nhiều sự rủa sả."
+        },
+        {
+          "number": 28,
+          "text": "Khi kẻ ác dấy lên, người ta đều ẩn trốn; Nhưng khi chúng nó hư mất đi, người công bình bèn thêm nhiều lên."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Người nào bị quở trách thường, lại cứng cổ mình, Sẽ bị bại hoại thình lình, không phương cứu chữa."
+        },
+        {
+          "number": 2,
+          "text": "Khi người công bình thêm nhiều lên, thì dân sự vui mừng; Nhưng khi kẻ ác cai trị, dân sự lại rên siết."
+        },
+        {
+          "number": 3,
+          "text": "Người ưa mến sự khôn ngoan làm cho cha mình được vui vẻ; Còn kẻ kết bạn với người kỵ nữ phá tan của cải mình."
+        },
+        {
+          "number": 4,
+          "text": "Vua nhờ sự công bình mà làm nước mình vững bền; Nhưng ai lãnh của hối lộ hủy hoại nó."
+        },
+        {
+          "number": 5,
+          "text": "Người nào dua nịnh kẻ lân cận mình, Giăng lưới trước bước người."
+        },
+        {
+          "number": 6,
+          "text": "Trong tội lỗi của kẻ ác có một cái bẫy, Nhưng người công bình ca hát mừng rỡ."
+        },
+        {
+          "number": 7,
+          "text": "Người công bình xét cho biết duyên cớ của kẻ nghèo khổ; Còn kẻ ác không có trí hiểu để biết đến."
+        },
+        {
+          "number": 8,
+          "text": "Kẻ nhạo báng châm lửa cho thành thiêu cháy; Nhưng người khôn ngoan làm nguôi cơn giận."
+        },
+        {
+          "number": 9,
+          "text": "Nếu người khôn ngoan tranh luận với kẻ ngu muội, Dầu người giận hay cười, cũng chẳng an hòa được."
+        },
+        {
+          "number": 10,
+          "text": "Kẻ làm đổ huyết ghét người trọn vẹn; Nhưng người ngay thẳng bảo tồn mạng sống người."
+        },
+        {
+          "number": 11,
+          "text": "Kẻ ngu muội tỏ ra sự nóng giận mình; Nhưng người khôn ngoan nguôi lấp nó và cầm giữ nó lại."
+        },
+        {
+          "number": 12,
+          "text": "Nếu vua lắng tai nghe lời giả dối, Thì các tôi tớ người trở nên gian ác."
+        },
+        {
+          "number": 13,
+          "text": "Kẻ nghèo khổ và người hà hiếp đều gặp nhau; Đức Giê-hô-va làm sáng mắt cho cả hai."
+        },
+        {
+          "number": 14,
+          "text": "Vua nào theo sự chân thật mà xét đoán kẻ nghèo khổ, Ngôi người sẽ được vững bền đời đời."
+        },
+        {
+          "number": 15,
+          "text": "Roi vọt và sự quở trách ban cho sự khôn ngoan; Còn con trẻ phóng túng làm mất cỡ cho mẹ mình."
+        },
+        {
+          "number": 16,
+          "text": "Khi kẻ ác thêm, thì tội lỗi cũng thêm; Nhưng người công bình sẽ thấy sự sa ngã chúng nó,"
+        },
+        {
+          "number": 17,
+          "text": "Hãy sửa phạt con người, thì nó sẽ ban sự an tịnh cho người, Và làm cho linh hồn người được khoái lạc."
+        },
+        {
+          "number": 18,
+          "text": "Đâu thiếu sự mặc thị, dân sự bèn phóng tứ; Nhưng ai giữ gìn luật pháp lấy làm có phước thay!"
+        },
+        {
+          "number": 19,
+          "text": "Chẳng phải bởi lời nói mà sửa trị kẻ làm tội; Vì dầu nó hiểu biết, nó cũng không vâng theo."
+        },
+        {
+          "number": 20,
+          "text": "Con có thấy kẻ hốp tốp trong lời nói mình chăng? Một kẻ ngu muội còn có sự trông cậy hơn hắn."
+        },
+        {
+          "number": 21,
+          "text": "Người nào dung dưỡng kẻ tôi tớ mình từ thuở nhỏ, Ngày sau sẽ thấy nó thành con trai của nhà."
+        },
+        {
+          "number": 22,
+          "text": "Người hay giận gây ra điều tranh cạnh; Và kẻ căm gan phạm tội nhiều thay."
+        },
+        {
+          "number": 23,
+          "text": "Sự kiêu ngạo của người sẽ làm hạ người xuống; Nhưng ai có lòng khiêm nhượng sẽ được tôn vinh."
+        },
+        {
+          "number": 24,
+          "text": "Kẻ nào chia phần với tay ăn trộm ghét linh hồn mình; Nó nghe lời thề, mà không tỏ điều gì ra."
+        },
+        {
+          "number": 25,
+          "text": "Sự sợ loài người gài bẫy; Nhưng ai nhờ cậy Đức Giê-hô-va được yên ổn vô sự."
+        },
+        {
+          "number": 26,
+          "text": "Nhiều kẻ cầu ơn vua; Song sự lý đoán của người nào do nơi Đức Giê-hô-va mà đến."
+        },
+        {
+          "number": 27,
+          "text": "Kẻ gian tà lấy làm gớm ghiếc cho người công bình; Và người ăn ở ngay thẳng lấy làm gớm ghiếc cho kẻ gian ác."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lời của A-gu-rơ, con trai Gia-kê, Châm ngôn mà người ấy nói ra cho Y-thi-ên và U-canh."
+        },
+        {
+          "number": 2,
+          "text": "Quả thật ta là ngu muội hơn ai hết, Ta không có thông sáng bằng một người."
+        },
+        {
+          "number": 3,
+          "text": "Ta không học được sự khôn ngoan, Và chẳng có được sự tri thức của Đấng Thánh."
+        },
+        {
+          "number": 4,
+          "text": "Ai đã lên trời, rồi lại xuống? Ai đã góp gió trong lòng tay mình? Ai đã bọc nước trong áo mình? Ai lập các giới hạn của đất? Danh người là chi, và tên con trai người là gì? Nếu ngươi biết, hãy nói đi."
+        },
+        {
+          "number": 5,
+          "text": "Các lời của Đức Chúa Trời đều đã thét luyện: Ngài là cái thuẫn đỡ cho người nương cậy nơi Ngài."
+        },
+        {
+          "number": 6,
+          "text": "Chớ thêm chi vào các lời Ngài. E Ngài quở trách ngươi, và ngươi bị cầm nói dối chăng."
+        },
+        {
+          "number": 7,
+          "text": "Tôi có cầu Chúa hai điều; Xin chớ từ chối trước khi tôi thác:"
+        },
+        {
+          "number": 8,
+          "text": "Xin dan xa khỏi tôi sự lường gạt và lời dối trá; Chớ cho tôi nghèo khổ, hoặc sự giàu sang; Hãy nuôi tôi đủ vật thực cần dùng,"
+        },
+        {
+          "number": 9,
+          "text": "E khi no đủ, tôi từ chối Chúa, Mà rằng: Đức Giê-hô-va là ai? Và lại kẻo e tôi bị nghèo khổ, ăn trộm cắp, Và làm ô danh của Đức Chúa Trời tôi chăng."
+        },
+        {
+          "number": 10,
+          "text": "Chớ phao vu kẻ tôi tớ cho chủ nó, E nó rủa sả ngươi, và ngươi mắc tội chăng."
+        },
+        {
+          "number": 11,
+          "text": "Có một dòng dõi rủa sả cha mình, Cũng không chúc phước cho mẹ mình."
+        },
+        {
+          "number": 12,
+          "text": "Có một dòng dõi tư tưởng mình thánh sạch, Song chưa được rửa sạch nhơ bẩn mình."
+        },
+        {
+          "number": 13,
+          "text": "Có một dòng dõi bộ mặt kiêu hãnh thay, Mí mắt giương cao dường nào!"
+        },
+        {
+          "number": 14,
+          "text": "Có một dòng dõi nanh tợ gươm, Hàm răng như dao, Đặng cắn xé những người khó khăn khỏi đất, Và những kẻ nghèo khổ khỏi loài người."
+        },
+        {
+          "number": 15,
+          "text": "Con đỉa có hai con gái, nói rằng: Hãy cho! hãy cho! Có ba sự chẳng hề no đủ, Và bốn điều chẳng nói rằng: Thôi, đủ!"
+        },
+        {
+          "number": 16,
+          "text": "Tức là âm phủ, người đàn bà son sẻ, Đất không no đủ nước, Và lửa mà chẳng hề nói: Đủ rồi!"
+        },
+        {
+          "number": 17,
+          "text": "Con mắt nhạo báng cha mình, Khinh sự vâng lời đối với mẹ mình, Các con quạ của trũng sẽ móc mắt ấy, Và các chim ưng con sẽ ăn nó đi."
+        },
+        {
+          "number": 18,
+          "text": "Có ba việc lấy làm diệu kỳ cho ta, Và bốn điều mà ta chẳng biết được:"
+        },
+        {
+          "number": 19,
+          "text": "Là đường chim ưng bay trên trời; Lối con rắn bò trên hòn đá; Lằn tàu chạy giữa biển, Và đường người nam giao hợp với người nữ."
+        },
+        {
+          "number": 20,
+          "text": "Tánh nết người kỵ nữ cũng vậy: Nàng ăn, rồi nàng lau miệng, Và nói rằng: Tôi có phạm tội ác đâu."
+        },
+        {
+          "number": 21,
+          "text": "Có ba vật làm cho trái đất rúng động, Và bốn điều, nó chẳng chịu nổi được:"
+        },
+        {
+          "number": 22,
+          "text": "Là tôi tớ khi được tức vị vua; Kẻ ngu muội khi được no nê đồ ăn;"
+        },
+        {
+          "number": 23,
+          "text": "Người đàn bà đáng ghét khi lấy chồng, Và con đòi khi kế nghiệp bà chủ mình."
+        },
+        {
+          "number": 24,
+          "text": "Có bốn vật nhỏ mọn trên trái đất, Song vốn rất khôn ngoan:"
+        },
+        {
+          "number": 25,
+          "text": "Con kiến dầu là loại yếu hèn, Lo sắm sẵn vật thực mình trong mùa hạ;"
+        },
+        {
+          "number": 26,
+          "text": "Con thỏ rừng dầu là loại không sức lực, Đóng cư sở mình trong hòn đá;"
+        },
+        {
+          "number": 27,
+          "text": "Loài cào cào dầu không có vua chúa, Bay ra có từng đám;"
+        },
+        {
+          "number": 28,
+          "text": "Con thằn lằn mà người ta lấy tay bắt được, Vẫn ở trong đền vua."
+        },
+        {
+          "number": 29,
+          "text": "Có ba vật điệu đi tốt đẹp, Và bốn vật nước bước xem sang trọng:"
+        },
+        {
+          "number": 30,
+          "text": "Sư tử, mạnh hơn hết trong các loài vật, Chẳng lui lại trước mặt loài nào cả;"
+        },
+        {
+          "number": 31,
+          "text": "Con ngựa hăng thắng tử tế, con dê đực, Và vua không ai đối địch được."
+        },
+        {
+          "number": 32,
+          "text": "Nếu ngươi có làm ngu dại mà tự cao kiêu ngạo, Và nếu ngươi có ác tưởng, hãy đặt tay che miệng mình."
+        },
+        {
+          "number": 33,
+          "text": "Vì ép sữa làm ra mỡ sữa, Và đánh đập lỗ mũi bèn làm cho phun máu; Cũng vậy trêu chọn giận sanh ra điều tranh cạnh."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lời của vua Lê-mu-ên, Các châm ngôn mà mẹ người dạy cho người."
+        },
+        {
+          "number": 2,
+          "text": "Hỡi con ta sẽ nói gì? Hỡi con của thai ta, ta phải nói chi? Hỡi con của sự khấn nguyện ta, ta nên nói điều gì với con?"
+        },
+        {
+          "number": 3,
+          "text": "Chớ phó sức lực con cho người đàn bà, Đừng ở theo con đường gây cho vua chúa bị bại hoại."
+        },
+        {
+          "number": 4,
+          "text": "Hỡi Lê-mu-ên, chẳng xứng hiệp cho các vua, Chẳng xứng hiệp cho các vua uống rượu, Hay là cho các quan trưởng nói rằng: Vật uống say ở đâu?"
+        },
+        {
+          "number": 5,
+          "text": "E chúng uống, quên luật pháp, Và làm hư sự xét đoán của người khốn khổ chăng."
+        },
+        {
+          "number": 6,
+          "text": "Hãy ban vật uống say cho người gần chết, Và rượu cho người có lòng bị cay đắng:"
+        },
+        {
+          "number": 7,
+          "text": "Họ hãy uống, và quên nỗi nghèo khổ mình, Chẳng nhớ đến điều cực nhọc của mình nữa."
+        },
+        {
+          "number": 8,
+          "text": "Hãy mở miệng mình binh kẻ câm, Và duyên cớ của các người bị để bỏ."
+        },
+        {
+          "number": 9,
+          "text": "Khá mở miệng con, xét đoán cách công bình, Và phân xử phải nghĩa cho người buồn thảm và nghèo nàn."
+        },
+        {
+          "number": 10,
+          "text": "Một người nữ tài đức ai sẽ tìm được? Giá trị nàng trổi hơn châu ngọc."
+        },
+        {
+          "number": 11,
+          "text": "Lòng người chồng tin cậy nơi nàng, Người sẽ chẳng thiếu huê lợi."
+        },
+        {
+          "number": 12,
+          "text": "Trọn đời nàng làm cho chồng được ích lợi, Chớ chẳng hề sự tổn hại."
+        },
+        {
+          "number": 13,
+          "text": "Nàng lo tìm lông chiên và gai sợi, Lạc ý lấy tay mình mà làm công việc."
+        },
+        {
+          "number": 14,
+          "text": "Nàng giống như các chiếc tàu buôn bán, ỳ từ chỗ xa chở bánh mình về."
+        },
+        {
+          "number": 15,
+          "text": "Nàng thức dậy khi trời còn tối, Phát vật thực cho người nhà mình, Và cắt công việc cho các tớ gái mình."
+        },
+        {
+          "number": 16,
+          "text": "Nàng tưởng đến một đồng ruộng, bèn mua nó được; Nhờ hoa lợi của hai tay mình, nàng trồng một vườn nho."
+        },
+        {
+          "number": 17,
+          "text": "Nàng thắt lưng bằng sức lực, Và làm hai cánh tay mình ra mạnh mẽ."
+        },
+        {
+          "number": 18,
+          "text": "Nàng cảm thấy công việc mình được ích lợi; Ban đêm đèn nàng chẳng tắt."
+        },
+        {
+          "number": 19,
+          "text": "Nàng đặt tay vào con quay, Và các ngón tay nàng cầm con cúi."
+        },
+        {
+          "number": 20,
+          "text": "Nàng mở đưa tay ra giúp kẻ khó khăn, Giơ tay mình lên tiếp người nghèo khổ."
+        },
+        {
+          "number": 21,
+          "text": "Nàng không sợ người nhà mình bị giá tuyết, Vì cả nhà đều mặc áo bằng lông chiên đỏ sặm."
+        },
+        {
+          "number": 22,
+          "text": "Nàng làm lấy những chăn mền; Aùo xống nàng đều bằng vải gai mịn màu đỏ điều."
+        },
+        {
+          "number": 23,
+          "text": "Tại nơi cửa thành chồng nàng được chúng biết, Khi ngồi chung với các trưởng lão của xứ."
+        },
+        {
+          "number": 24,
+          "text": "Nàng chế áo lót và bán nó; Cũng giao đai lưng cho con buôn."
+        },
+        {
+          "number": 25,
+          "text": "Nàng mặc lấy sức lực và oai phong, Và khi tưởng đến buổi sau, bèn vui cười."
+        },
+        {
+          "number": 26,
+          "text": "Nàng mở miệng ra cách khôn ngoan, Phép tắc nhân từ ở nơi lưỡi nàng."
+        },
+        {
+          "number": 27,
+          "text": "Nàng coi sóc đường lối của nhà mình, Không hề ăn bánh của sự biếng nhác."
+        },
+        {
+          "number": 28,
+          "text": "Con cái nàng chổi dậy, chúc nàng được phước; Chồng nàng cũng chổi dậy, và khen ngợi nàng rằng:"
+        },
+        {
+          "number": 29,
+          "text": "Có nhiều người con gái làm lụng cách tài đức, Nhưng nàng trổi hơn hết thảy."
+        },
+        {
+          "number": 30,
+          "text": "Duyên là giả dối, sắc lại hư không; Nhưng người nữ nào kính sợ Đức Giê-hô-va sẽ được khen ngợi."
+        },
+        {
+          "number": 31,
+          "text": "Hãy ban cho nàng bông trái của tay nàng; Khá để các công việc nàng ngợi khen nàng tại trong cửa thành."
+        }
+      ]
+    }
+  ]
+}

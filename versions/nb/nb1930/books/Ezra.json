@@ -1,0 +1,1179 @@
+{
+  "version": "nb1930",
+  "book": "Ezra",
+  "bookId": 15,
+  "englishName": "Ezra",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Det var i perserkongen Kyros' første år; da vakte Herren, forat hans ord gjennem Jeremias' munn skulde opfylles, slike tanker i perserkongen Kyros' ånd at han lot utrope i hele sitt rike og dessuten kunngjøre ved en skrivelse:"
+        },
+        {
+          "number": 2,
+          "text": "Så sier Kyros, kongen i Persia: Herren, himmelens Gud, har gitt mig alle jordens riker, og han har pålagt mig å bygge ham et hus i Jerusalem i Juda."
+        },
+        {
+          "number": 3,
+          "text": "Er det nogen blandt eder av alt hans folk, så være hans Gud med ham, og han kan dra op til Jerusalem i Juda og bygge Herrens, Israels Guds hus! Han er den Gud som bor i Jerusalem."
+        },
+        {
+          "number": 4,
+          "text": "Og alle som ennu er i live, skal folkene på hvert sted hvor de opholder sig som fremmede, understøtte med sølv og gull, med gods og buskap, foruten de frivillige gaver til Guds hus i Jerusalem."
+        },
+        {
+          "number": 5,
+          "text": "Da gjorde Judas og Benjamins familiehoder og prestene og levittene - alle i hvis ånd Gud vakte slike tanker, sig rede til å dra op for å bygge Herrens hus i Jerusalem."
+        },
+        {
+          "number": 6,
+          "text": "Og alle som bodde rundt omkring dem, understøttet dem med sølvkar og gull og gods og buskap og kostbare ting, foruten alt det de gav frivillig."
+        },
+        {
+          "number": 7,
+          "text": "Og kong Kyros lot hente frem de kar som hadde tilhørt Herrens hus, men som Nebukadnesar hadde ført bort fra Jerusalem og satt inn i sin guds hus."
+        },
+        {
+          "number": 8,
+          "text": "Dem lot nu kongen i Persia Kyros hente frem under tilsyn av skattmesteren Mitredat, og han overgav dem efter tall til Sesbassar, Judas fyrste."
+        },
+        {
+          "number": 9,
+          "text": "Tallet på dem var: tretti gullfat, tusen sølvfat, ni og tyve offerkniver,"
+        },
+        {
+          "number": 10,
+          "text": "tretti gullbeger, fire hundre og ti sølvbeger av næst beste slag og tusen andre kar."
+        },
+        {
+          "number": 11,
+          "text": "Karene av gull og sølv var i alt fem tusen og fire hundre. Alt dette førte Sesbassar med sig da de bortførte drog op fra Babel til Jerusalem."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette var de menn fra landskapet Juda som drog hjem fra fangenskapet i det fremmede land - de som kongen i Babel Nebukadnesar hadde bortført til Babel, og som nu vendte tilbake til Jerusalem og Juda, hver til sin by,"
+        },
+        {
+          "number": 2,
+          "text": "de som fulgte med Serubabel, Josva, Nehemias, Seraja, Re'elaja, Mordekai, Bilsan, Mispar, Bigvai, Rehum og Ba'ana. - Dette var tallet på mennene av Israels folk:"
+        },
+        {
+          "number": 3,
+          "text": "Paros' barn, to tusen et hundre og to og sytti;"
+        },
+        {
+          "number": 4,
+          "text": "Sefatjas barn, tre hundre og to og sytti;"
+        },
+        {
+          "number": 5,
+          "text": "Arahs barn, syv hundre og fem og sytti;"
+        },
+        {
+          "number": 6,
+          "text": "Pahat-Moabs barn av Josvas og Joabs efterkommere, to tusen åtte hundre og tolv;"
+        },
+        {
+          "number": 7,
+          "text": "Elams barn, tusen to hundre og fire og femti;"
+        },
+        {
+          "number": 8,
+          "text": "Sattus barn, ni hundre og fem og firti;"
+        },
+        {
+          "number": 9,
+          "text": "Sakkais barn, syv hundre og seksti;"
+        },
+        {
+          "number": 10,
+          "text": "Banis barn, seks hundre og to og firti;"
+        },
+        {
+          "number": 11,
+          "text": "Bebais barn, seks hundre og tre og tyve;"
+        },
+        {
+          "number": 12,
+          "text": "Asgads barn, tusen to hundre og to og tyve;"
+        },
+        {
+          "number": 13,
+          "text": "Adonikams barn, seks hundre og seks og seksti;"
+        },
+        {
+          "number": 14,
+          "text": "Bigvais barn, to tusen og seks og femti;"
+        },
+        {
+          "number": 15,
+          "text": "Adins barn, fire hundre og fire og femti;"
+        },
+        {
+          "number": 16,
+          "text": "Aters barn av Esekias' ætt, åtte og nitti;"
+        },
+        {
+          "number": 17,
+          "text": "Besais barn, tre hundre og tre og tyve;"
+        },
+        {
+          "number": 18,
+          "text": "Joras barn, hundre og tolv;"
+        },
+        {
+          "number": 19,
+          "text": "Hasums barn, to hundre og tre og tyve;"
+        },
+        {
+          "number": 20,
+          "text": "Gibbars barn, fem og nitti;"
+        },
+        {
+          "number": 21,
+          "text": "Betlehems barn, hundre og tre og tyve;"
+        },
+        {
+          "number": 22,
+          "text": "Netofas menn, seks og femti;"
+        },
+        {
+          "number": 23,
+          "text": "Anatots menn, hundre og åtte og tyve;"
+        },
+        {
+          "number": 24,
+          "text": "Asmavets barn, to og firti;"
+        },
+        {
+          "number": 25,
+          "text": "Kirjat-Arims, Kefiras og Be'erots barn, syv hundre og tre og firti;"
+        },
+        {
+          "number": 26,
+          "text": "Ramas og Gebas barn, seks hundre og en og tyve;"
+        },
+        {
+          "number": 27,
+          "text": "Mikmas' menn, hundre og to og tyve;"
+        },
+        {
+          "number": 28,
+          "text": "Betels og Ais menn, to hundre og tre og tyve;"
+        },
+        {
+          "number": 29,
+          "text": "Nebos barn, to og femti;"
+        },
+        {
+          "number": 30,
+          "text": "Magbis' barn, hundre og seks og femti;"
+        },
+        {
+          "number": 31,
+          "text": "den annen Elams barn, tusen to hundre og fire og femti;"
+        },
+        {
+          "number": 32,
+          "text": "Harims barn, tre hundre og tyve;"
+        },
+        {
+          "number": 33,
+          "text": "Lods, Hadids og Onos barn, syv hundre og fem og tyve;"
+        },
+        {
+          "number": 34,
+          "text": "Jerikos barn, tre hundre og fem og firti;"
+        },
+        {
+          "number": 35,
+          "text": "Sena'as barn, tre tusen og seks hundre og tretti."
+        },
+        {
+          "number": 36,
+          "text": "Av prestene: Jedajas barn av Josvas hus, ni hundre og tre og sytti;"
+        },
+        {
+          "number": 37,
+          "text": "Immers barn, tusen og to og femti;"
+        },
+        {
+          "number": 38,
+          "text": "Pashurs barn, tusen to hundre og syv og firti;"
+        },
+        {
+          "number": 39,
+          "text": "Harims barn, tusen og sytten."
+        },
+        {
+          "number": 40,
+          "text": "Av levittene: Josvas og Kadmiels barn av Hodavjas efterkommere, fire og sytti."
+        },
+        {
+          "number": 41,
+          "text": "Av sangerne: Asafs barn, hundre og åtte og tyve."
+        },
+        {
+          "number": 42,
+          "text": "Av dørvokternes barn: Sallums barn, Aters barn, Talmons barn, Akkubs barn, Hatitas barn, Sobais barn - i alt hundre og ni og tretti."
+        },
+        {
+          "number": 43,
+          "text": "Av tempeltjenerne: Sihas barn, Hasufas barn, Tabbaots barn,"
+        },
+        {
+          "number": 44,
+          "text": "Keros' barn, Siahas barn, Padons barn,"
+        },
+        {
+          "number": 45,
+          "text": "Lebanas barn, Hagabas barn, Akkubs barn,"
+        },
+        {
+          "number": 46,
+          "text": "Hagabs barn, Samlais barn, Hanans barn,"
+        },
+        {
+          "number": 47,
+          "text": "Giddels barn, Gahars barn, Reajas barn,"
+        },
+        {
+          "number": 48,
+          "text": "Resins barn, Nekodas barn, Gassams barn,"
+        },
+        {
+          "number": 49,
+          "text": "Ussas barn, Paseahs barn, Besais barn,"
+        },
+        {
+          "number": 50,
+          "text": "Asnas barn, Me'unims barn, Nefisims barn,"
+        },
+        {
+          "number": 51,
+          "text": "Bakbuks barn, Hakufas barn, Harhurs barn,"
+        },
+        {
+          "number": 52,
+          "text": "Basluts barn, Mehidas barn, Harsas barn,"
+        },
+        {
+          "number": 53,
+          "text": "Barkos' barn, Siseras barn, Tamahs barn,"
+        },
+        {
+          "number": 54,
+          "text": "Nesiahs barn, Hatifas barn."
+        },
+        {
+          "number": 55,
+          "text": "Av Salomos tjeneres barn: Sotais barn, Hassoferets barn, Perudas barn,"
+        },
+        {
+          "number": 56,
+          "text": "Ja'alas barn, Darkons barn, Giddels barn,"
+        },
+        {
+          "number": 57,
+          "text": "Sefatjas barn, Hattils barn, Pokeret-Hasseba'ims barn, Amis barn."
+        },
+        {
+          "number": 58,
+          "text": "Alle tempeltjenerne og Salomos tjeneres barn var tilsammen tre hundre og to og nitti."
+        },
+        {
+          "number": 59,
+          "text": "Og dette var de som drog hjem fra Tel-Melah, Tel-Harsa, Kerub, Addan og Immer, men ikke kunde opgi sin familie og sin ætt, eller om de var av Israel:"
+        },
+        {
+          "number": 60,
+          "text": "Delajas barn, Tobias' barn, Nekodas barn, seks hundre og to og femti,"
+        },
+        {
+          "number": 61,
+          "text": "og av prestenes barn: Habajas barn, Hakkos' barn, Barsillais barn, han som hadde tatt en av gileaditten Barsillais døtre til hustru og var blitt opkalt efter dem."
+        },
+        {
+          "number": 62,
+          "text": "Disse lette efter sine ættelister, men de fantes ingensteds opskrevet; de blev da utelukket fra prestedømmet som uverdige dertil,"
+        },
+        {
+          "number": 63,
+          "text": "og stattholderen sa til dem at de ikke skulde ete av det høihellige, før det fremstod en prest med urim og tummim."
+        },
+        {
+          "number": 64,
+          "text": "Hele menigheten var i alt to og firti tusen tre hundre og seksti"
+        },
+        {
+          "number": 65,
+          "text": "foruten deres tjenere og tjenestepiker, som var syv tusen tre hundre og syv og tretti. De hadde også med sig to hundre sangere og sangerinner."
+        },
+        {
+          "number": 66,
+          "text": "De hadde syv hundre og seks og tretti hester, to hundre og fem og firti mulesler,"
+        },
+        {
+          "number": 67,
+          "text": "fire hundre og fem og tretti kameler og seks tusen syv hundre og tyve asener."
+        },
+        {
+          "number": 68,
+          "text": "Nogen av familiehodene gav, da de kom til Herrens hus i Jerusalem, frivillige gaver til Guds hus, så det kunde gjenreises på sitt gamle sted;"
+        },
+        {
+          "number": 69,
+          "text": "efter sin evne gav de til arbeidskassen: en og seksti tusen dariker i gull og fem tusen miner i sølv; dessuten hundre prestekjortler."
+        },
+        {
+          "number": 70,
+          "text": "Både prestene og levittene og nogen av det menige folk og sangerne og dørvokterne og tempeltjenerne bosatte sig i sine byer, og hele Israel ellers bodde i sine byer."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Da den syvende måned kom, og Israels barn bodde i sine byer, samlet folket sig som en mann i Jerusalem."
+        },
+        {
+          "number": 2,
+          "text": "Og Josva, Josadaks sønn, og hans brødre prestene og Serubabel, Sealtiels sønn, og hans brødre tok til å bygge alteret for Israels Gud for å ofre brennoffere på det, som skrevet står i den Guds mann Moses' lov."
+        },
+        {
+          "number": 3,
+          "text": "De reiste alteret på dets gamle sted, for det var kommet en redsel over dem for de folk som bodde i bygdene rundt omkring; og de ofret på det brennoffere til Herren, både morgen- og aften-brennoffere."
+        },
+        {
+          "number": 4,
+          "text": "Så holdt de løvsalenes fest, således som det er foreskrevet, og ofret brennoffer hver dag efter det fastsatte tall og på lovbefalt måte, hver dag de offer som var foreskrevet for den dag."
+        },
+        {
+          "number": 5,
+          "text": "Siden ofret de det daglige brennoffer og de offer som hørte til nymånedagene og alle Herrens hellige høitider, og likeledes hver gang nogen kom med et frivillig offer til Herren."
+        },
+        {
+          "number": 6,
+          "text": "Fra den første dag i den syvende måned begynte de å ofre brennoffere til Herren, før ennu grunnvollen til Herrens tempel var lagt."
+        },
+        {
+          "number": 7,
+          "text": "Så gav de penger til stenhuggerne og tømmermennene og mat og drikke og olje til sidonierne og tyrierne forat de skulde føre sedertømmer fra Libanon sjøveien til Joppe, efter den fullmakt som kongen i Persia Kyros hadde gitt dem."
+        },
+        {
+          "number": 8,
+          "text": "I det annet år efterat de var kommet til Guds hus i Jerusalem i den annen måned, tok de fatt på verket, Serubabel, Sealtiels sønn, og Josva, Josadaks sønn, med deres andre brødre, prestene og levittene, og alle de som fra fangenskapet var kommet til Jerusalem. De satte levittene fra tyveårsalderen og opover til å føre tilsyn med arbeidet på Herrens hus."
+        },
+        {
+          "number": 9,
+          "text": "Og Josva med sine sønner og brødre og Kadmiel med sine sønner, Hodavjas efterkommere, stod alle som én og hadde tilsyn med dem som utførte arbeidet på Guds hus; og det samme gjorde Henadads efterkommere med sine sønner og brødre, som også hørte til levittene."
+        },
+        {
+          "number": 10,
+          "text": "Og da bygningsmennene la grunnvollen til Herrens tempel, blev prestene stilt op i embedsskrud med trompeter, og de levitter som var Asafs efterkommere, med cymbler, for å prise Herren, således som Israels konge David hadde foreskrevet."
+        },
+        {
+          "number": 11,
+          "text": "Og de sang Herrens lov og pris, fordi han er god, og hans miskunnhet mot Israel varer evindelig; og alt folket brøt ut i et stort fryderop og priste Herren fordi grunnvollen var lagt til Herrens hus."
+        },
+        {
+          "number": 12,
+          "text": "Men mange av prestene og levittene og familiehodene - de gamle som hadde sett det første hus, gråt høit da de så dette hus bli grunnlagt, mens mange jublet høit av glede."
+        },
+        {
+          "number": 13,
+          "text": "Folket kunde ikke skjelne lyden av gledesjubelen fra lyden av folkets gråt; for folket jublet så høit at det hørtes lang vei."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Da nu Judas og Benjamins motstandere hørte at de bortførte bygget et tempel for Herren, Israels Gud,"
+        },
+        {
+          "number": 2,
+          "text": "kom de til Serubabel og til familiehodene og sa til dem: La oss få være med eder og bygge; for vi søker eders Gud likesom I selv, og til ham har vi ofret helt fra assyrerkongen Asarhaddons dager, han som førte oss hit!"
+        },
+        {
+          "number": 3,
+          "text": "Da svarte Serubabel og Josva og de andre familiehoder i Israel: Det lar sig ikke gjøre at I er sammen med oss om å bygge et hus for vår Gud; vi vil være alene om å bygge hus for Herren, Israels Gud, således som kong Kyros, kongen i Persia, har befalt oss."
+        },
+        {
+          "number": 4,
+          "text": "Men de andre folk som bodde der i landet, gjorde Judas folk motløst og skremte dem fra å bygge."
+        },
+        {
+          "number": 5,
+          "text": "De leide nogen folk til å gi råd som var til skade for dem, og fikk således gjort deres forehavende til intet så lenge perserkongen Kyros levde, og siden helt til perserkongen Darius tiltrådte regjeringen."
+        },
+        {
+          "number": 6,
+          "text": "Under Ahasverus' regjering, i den første tid av hans kongedømme, skrev de en klage mot dem som bodde i Juda og Jerusalem."
+        },
+        {
+          "number": 7,
+          "text": "Og i Artaxerxes' dager skrev Bislam, Mitredat, Tabe'el og hans andre embedsbrødre et brev til Artaxerxes, kongen i Persia; det var skrevet med syrisk skrift og oversatt til syrisk."
+        },
+        {
+          "number": 8,
+          "text": "Rådsherren Rehum og statsskriveren Simsai skrev et brev mot Jerusalem til kong Artaxerxes; brevet hadde følgende innhold -"
+        },
+        {
+          "number": 9,
+          "text": "de som skrev dengang var: rådsherren Rehum og statsskriveren Simsai og deres andre embedsbrødre, de fra Dina og Afarsatka, Tarpela, Persia, Erek, Babel, Susan, Deha og Elam"
+        },
+        {
+          "number": 10,
+          "text": "og de andre folk som den store og navnkundige Osnappar førte bort og lot bo i byen Samaria og ellers i landet hinsides elven, og så videre."
+        },
+        {
+          "number": 11,
+          "text": "Dette er en avskrift av det brev som de sendte til ham - til kong Artaxerxes: Dine tjenere mennene hinsides elven, og så videre."
+        },
+        {
+          "number": 12,
+          "text": "Det være kongen vitterlig at jødene som drog bort fra det sted hvor du bor, er kommet hit til oss, til Jerusalem, og nu holder på å bygge op igjen den oprørske og onde by og fullføre murene og utbedre grunnvollene."
+        },
+        {
+          "number": 13,
+          "text": "Men nu være det kongen vitterlig at dersom denne by blir bygget op igjen og murene fullført, så vil de hverken gi skatt eller toll eller veipenger, og det vil til sist bli til skade for kongene."
+        },
+        {
+          "number": 14,
+          "text": "Efterdi vi nu eter palassets salt, og det ikke sømmer sig for oss å se med ro på at det voldes kongen skade, så sender vi nu bud og lar kongen få dette å vite,"
+        },
+        {
+          "number": 15,
+          "text": "forat du kan la granske i dine fedres krønike; da vil du i krøniken finne og se at denne by har vært en oprørsk by, som har voldt skade for konger og land, og at de har gjort oprør der fra gammel tid; derfor er også denne by blitt ødelagt."
+        },
+        {
+          "number": 16,
+          "text": "Så lar vi nu kongen vite at dersom denne by blir bygget op igjen og murene fullført, så vil følgen derav bli at du ikke mere vil ha nogen del igjen av landet hinsides elven."
+        },
+        {
+          "number": 17,
+          "text": "Da sendte kongen svar til rådsherren Rehum og statsskriveren Simsai og deres andre embedsbrødre, som bodde i Samaria og ellers i landet hinsides elven: Fred, og så videre."
+        },
+        {
+          "number": 18,
+          "text": "Det brev I har sendt til oss, er nøiaktig blitt lest op for mig,"
+        },
+        {
+          "number": 19,
+          "text": "og jeg har gitt befaling til å granske efter, og vi har funnet at denne by fra gammel tid har satt sig op imot kongene, og at frafall og oprør har funnet sted der."
+        },
+        {
+          "number": 20,
+          "text": "Mektige konger har rådet over Jerusalem, og de har hersket over alt land hinsides elven, og der blev gitt dem skatt, toll og veipenger."
+        },
+        {
+          "number": 21,
+          "text": "Så gi nu befaling til å hindre disse menn, så denne by ikke blir bygget op igjen, før det kommer befaling fra mig,"
+        },
+        {
+          "number": 22,
+          "text": "og ta eder i vare for å gjøre eder skyldige i nogen forseelse i denne sak, så skaden ikke skal bli verre og kongene lide tap!"
+        },
+        {
+          "number": 23,
+          "text": "Så snart avskriften av dette brev fra kong Artaxerxes var blitt oplest for Rehum og statsskriveren Simsai og deres embedsbrødre, drog de straks til jødene i Jerusalem og hindret dem med vold og makt."
+        },
+        {
+          "number": 24,
+          "text": "Da stanset arbeidet på Guds hus i Jerusalem, og det blev intet gjort med det før i det annet år av perserkongen Darius' regjering."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Profeten Haggai og Sakarias, Iddos sønn, som også var profet, profeterte for jødene i Juda og Jerusalem; i Israels Guds navn profeterte de for dem."
+        },
+        {
+          "number": 2,
+          "text": "Da tok Serubabel, Sealtiels sønn, og Josva, Josadaks sønn, til å bygge på Guds hus i Jerusalem, og Guds profeter var med dem og støttet dem."
+        },
+        {
+          "number": 3,
+          "text": "På den tid kom Tatnai, som var stattholder hinsides elven, og Setar-Bosnai og deres embedsbrødre til dem; og de talte således til dem: Hvem har gitt eder befaling til å bygge dette hus og fullføre denne mur?"
+        },
+        {
+          "number": 4,
+          "text": "Da sa vi til dem hvad de menn hette som opførte denne bygning."
+        },
+        {
+          "number": 5,
+          "text": "Men Guds øie våket over jødenes eldste, og de hindret dem ikke i å bygge så lenge til saken var kommet inn for Darius, og de hadde fått brev fra ham derom."
+        },
+        {
+          "number": 6,
+          "text": "Dette er en avskrift av det brev som Tatnai, stattholderen hinsides elven, og Setar-Bosnai og hans embedsbrødre, afarsakittene, som bodde hinsides elven, sendte til kong Darius;"
+        },
+        {
+          "number": 7,
+          "text": "for de sendte en melding til ham, og i den stod det skrevet: Kong Darius ønsker vi alt godt."
+        },
+        {
+          "number": 8,
+          "text": "Det være kongen vitterlig at vi har draget til landskapet Juda, til den store Guds hus, og det blir nu bygget op av store stener, og det legges bjelker i veggene, og arbeidet gjøres med iver og har god fremgang under deres hender."
+        },
+        {
+          "number": 9,
+          "text": "Så spurte vi de eldste der og sa til dem: Hvem har gitt eder befaling til å bygge dette hus og fullføre denne mur?"
+        },
+        {
+          "number": 10,
+          "text": "Vi spurte dem også hvad de hette, så vi kunde la dig få vite det og skrive op for dig navnene på de menn som er deres overhoder."
+        },
+        {
+          "number": 11,
+          "text": "Dette var det svar de gav oss: Vi er tjenere for himmelens og jordens Gud, og vi bygger op igjen det hus som allerede for mange år siden var bygget her; det var en stor konge i Israel som bygget det og fullførte det."
+        },
+        {
+          "number": 12,
+          "text": "Men fordi våre fedre hadde vakt himmelens Guds vrede, gav han dem i kaldeeren Nebukadnesars, kongen i Babels hånd, og han ødela dette hus og førte folket bort til Babel."
+        },
+        {
+          "number": 13,
+          "text": "Men i Kyros', kongen i Babels første år gav kong Kyros befaling til å bygge op igjen dette Guds hus."
+        },
+        {
+          "number": 14,
+          "text": "Kong Kyros lot også de kar av gull og sølv som hadde tilhørt Guds hus, men som Nebukadnesar hadde tatt ut av templet i Jerusalem og ført til templet i Babel, ta ut av templet i Babel, og de blev overgitt til en som hette Sesbassar, som han hadde satt til stattholder."
+        },
+        {
+          "number": 15,
+          "text": "Og han sa til ham: Ta disse kar og dra avsted og sett dem inn i templet i Jerusalem, og la Guds hus bli bygget op igjen på sitt sted!"
+        },
+        {
+          "number": 16,
+          "text": "Så kom da denne Sesbassar og la grunnvollene til Guds hus i Jerusalem, og fra den tid og til nu har de bygget på det, men det er ennu ikke fullført."
+        },
+        {
+          "number": 17,
+          "text": "Dersom nu kongen så synes, så la det bli gransket i kongens skattkammer der i Babel om det er så at kong Kyros har gitt befaling til å bygge dette Guds hus i Jerusalem, og kongen la oss så få vite hvad som er hans vilje i denne sak!"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Da gav kong Darius befaling til å granske efter i arkivet, som var lagt ned i skattkammeret i Babel."
+        },
+        {
+          "number": 2,
+          "text": "Og i borgen Ahmeta, som ligger i landskapet Media, blev det funnet en skriftrull; og i den stod det skrevet således til ihukommelse:"
+        },
+        {
+          "number": 3,
+          "text": "I kong Kyros' første år gav kong Kyros denne befaling: Hvad Guds hus i Jerusalem vedkommer, så skal huset bygges op igjen, så det blir et sted hvor folk kan bære frem offer; dets grunnvoller skal legges på ny; det skal være seksti alen høit og seksti alen bredt,"
+        },
+        {
+          "number": 4,
+          "text": "med tre lag store stener og ett lag nytt tømmer; omkostningene skal utredes av kongens hus."
+        },
+        {
+          "number": 5,
+          "text": "De kar av gull og sølv som hørte til Guds hus, men som Nebukadnesar tok ut av templet i Jerusalem og førte til Babel, skal også gis tilbake, så de igjen kommer til sitt sted i templet i Jerusalem; de skal settes i Guds hus."
+        },
+        {
+          "number": 6,
+          "text": "Så skal nu du, Tatnai, stattholder hinsides elven, og du, Setar-Bosnai, og eders embedsbrødre, afarsakittene, som bor hinsides elven, holde eder borte derfra!"
+        },
+        {
+          "number": 7,
+          "text": "La arbeidet på dette Guds hus foregå uhindret! La jødenes stattholder og deres eldste bygge dette Guds hus på dets sted!"
+        },
+        {
+          "number": 8,
+          "text": "Og jeg har gitt befaling om hvorledes I skal gå frem mot disse jødenes eldste, så dette Guds hus kan bli bygget: Av de inntekter som kongen har av skatten fra landet hinsides elven, skal omkostningene nøiaktig utredes til disse menn, så arbeidet ikke skal bli hindret."
+        },
+        {
+          "number": 9,
+          "text": "Og hvad som trenges, både kalver og værer og lam til brennoffer for himmelens Gud, hvete, salt, vin og olje, det skal efter opgivende av prestene i Jerusalem gis dem dag for dag uten avkortning,"
+        },
+        {
+          "number": 10,
+          "text": "så de kan bære frem offer til en velbehagelig duft for himmelens Gud og bede for kongens og hans barns liv."
+        },
+        {
+          "number": 11,
+          "text": "Jeg har også gitt befaling om at dersom nogen gjør mot dette påbud, så skal en bjelke rives ut av hans hus, og på den skal han henges op og nagles fast, og hans hus skal gjøres til en møkkdynge, fordi han har båret sig således at."
+        },
+        {
+          "number": 12,
+          "text": "Måtte så den Gud som har latt sitt navn bo der, slå ned alle konger og folk som strekker ut sin hånd for å gjøre mot dette påbud og for å ødelegge dette Guds hus i Jerusalem! Jeg, Darius, har gitt denne befaling, den skal utføres nøiaktig."
+        },
+        {
+          "number": 13,
+          "text": "Så gjorde da Tatnai, stattholderen hinsides elven, og Setar-Bosnai og deres embedsbrødre nøiaktig således som kong Darius hadde foreskrevet."
+        },
+        {
+          "number": 14,
+          "text": "Og jødenes eldste blev ved å bygge og gjorde god fremgang, mens profeten Haggai og Sakarias, Iddos sønn, støttet dem med sin profetiske tale; de bygget og fullførte arbeidet efter Israels Guds befaling og efter Kyros' og Darius' og perserkongen Artaxerxes' befaling."
+        },
+        {
+          "number": 15,
+          "text": "Så blev da dette hus fullt ferdig til den tredje dag i måneden adar i det sjette år av kong Darius' regjering."
+        },
+        {
+          "number": 16,
+          "text": "Og Israels barn, prestene og levittene og de andre som var kommet hjem fra fangenskapet, holdt høitid og innvidde dette Guds hus med glede."
+        },
+        {
+          "number": 17,
+          "text": "De ofret ved innvielsen av dette Guds hus hundre okser, to hundre værer, fire hundre lam og til syndoffere for hele Israel tolv gjetebukker efter tallet på Israels stammer."
+        },
+        {
+          "number": 18,
+          "text": "Og de innsatte prestene efter deres skifter og levittene efter deres avdelinger til å utføre gudstjenesten i Jerusalem, således som det var foreskrevet i Moseboken."
+        },
+        {
+          "number": 19,
+          "text": "Så holdt de hjemkomne påske på den fjortende dag i den første måned."
+        },
+        {
+          "number": 20,
+          "text": "For prestene og levittene hadde renset sig og var alle som én rene, og de slaktet påskelammet for alle de hjemkomne og for sine brødre prestene og for sig selv."
+        },
+        {
+          "number": 21,
+          "text": "Så åt Israels barn påskelammet, både de av de bortførte som var kommet tilbake, og alle de som hadde skilt sig fra de i landet boende hedningers urenhet og gitt sig i lag med dem for å søke Herren, Israels Gud."
+        },
+        {
+          "number": 22,
+          "text": "Og de holdt de usyrede brøds høitid i syv dager med glede; for Herren hadde gledet dem og vendt assyrerkongens hjerte til dem, så han støttet dem i arbeidet på Guds hus - Israels Guds hus."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nogen tid efter, under perserkongen Artaxerxes' regjering, drog Esras, sønn av Seraja, sønn av Asarja, sønn av Hilkias,"
+        },
+        {
+          "number": 2,
+          "text": "sønn av Sallum, sønn av Sadok, sønn av Akitub,"
+        },
+        {
+          "number": 3,
+          "text": "sønn av Amarja, sønn av Asarja, sønn av Merajot,"
+        },
+        {
+          "number": 4,
+          "text": "sønn av Serahja, sønn av Ussi, sønn av Bukki,"
+        },
+        {
+          "number": 5,
+          "text": "sønn av Abisua, sønn av Pinehas, sønn av Eleasar, sønn av ypperstepresten Aron -"
+        },
+        {
+          "number": 6,
+          "text": "denne Esras drog op fra Babel. Han var en skriftlærd mann, vel kjent med Mose lov, den som Herren, Israels Gud, hadde gitt. Kongen gav ham alt det han bad om; for Herren hans Gud holdt sin hånd over ham."
+        },
+        {
+          "number": 7,
+          "text": "Nogen av Israels barn og av prestene, levittene, sangerne, dørvokterne og tempeltjenerne drog med ham op til Jerusalem i kong Artaxerxes' syvende år."
+        },
+        {
+          "number": 8,
+          "text": "Han kom til Jerusalem i den femte måned; det var i kongens syvende år."
+        },
+        {
+          "number": 9,
+          "text": "For på den første dag i den første måned begynte han å ordne alt til ferden fra Babel, og på den første dag i den femte måned kom han til Jerusalem; for hans Gud holdt sin gode hånd over ham."
+        },
+        {
+          "number": 10,
+          "text": "For Esras hadde satt sin hu til å granske Herrens lov og gjøre efter den og til å lære folk lov og rett i Israel."
+        },
+        {
+          "number": 11,
+          "text": "Dette er en avskrift av det brev som kong Artaxerxes gav presten Esras, den skriftlærde, som var kyndig i de bud og lover som Herren hadde gitt Israel:"
+        },
+        {
+          "number": 12,
+          "text": "Artaxerxes, kongenes konge, til presten Esras, han som er full-lært i himmelens Guds lov, og så videre."
+        },
+        {
+          "number": 13,
+          "text": "Jeg har gitt befaling om at alle de av Israels folk og av dets prester og levitter i mitt rike som har lyst til å dra til Jerusalem, kan dra med dig,"
+        },
+        {
+          "number": 14,
+          "text": "siden du er sendt av kongen og hans syv rådgivere til å se efter hvorledes det er med Juda og Jerusalem, efter din Guds lov, som du har i hende,"
+        },
+        {
+          "number": 15,
+          "text": "og til å føre dit det sølv og gull som kongen og hans rådgivere frivillig har gitt Israels Gud, han som har sin bolig i Jerusalem,"
+        },
+        {
+          "number": 16,
+          "text": "og likeledes alt det sølv og gull som du kan få i hele Babels landskap, og de frivillige gaver som folket og prestene vil gi til sin Guds hus i Jerusalem."
+        },
+        {
+          "number": 17,
+          "text": "Derfor skal du for disse penger samvittighetsfullt kjøpe okser, værer og lam med tilhørende matoffere og drikkoffere; og du skal ofre dem på alteret i eders Guds hus i Jerusalem."
+        },
+        {
+          "number": 18,
+          "text": "Og hvad du og dine brødre finner det riktig å gjøre med resten av sølvet og gullet, det kan I gjøre efter eders Guds vilje."
+        },
+        {
+          "number": 19,
+          "text": "Men de kar som du har fått til tjenesten i din Guds hus, dem skal du gi fra dig for Jerusalems Guds åsyn."
+        },
+        {
+          "number": 20,
+          "text": "Hvad du ellers må utrede til din Guds hus av nødvendige utgifter, det skal du utrede av kongens skattkammer."
+        },
+        {
+          "number": 21,
+          "text": "Og jeg, kong Artaxerxes, har gitt befaling til alle skattmestere hinsides elven at alt hvad presten Esras, han som er kyndig i himmelens Guds lov, krever av eder, det skal nøiaktig ydes,"
+        },
+        {
+          "number": 22,
+          "text": "inntil hundre talenter sølv, hundre kor hvete, hundre bat vin og hundre bat olje, og salt uten foreskrevet mål."
+        },
+        {
+          "number": 23,
+          "text": "Alt hvad himmelens Gud befaler, det skal nøiaktig utføres for himmelens Guds hus, så det ikke skal komme vrede over kongens og hans sønners rike."
+        },
+        {
+          "number": 24,
+          "text": "Og eder lar vi vite at ingen skal ha makt til å pålegge nogen av prestene, levittene, sangerne, dørvokterne, tempeltjenerne eller nogen annen som har en tjeneste ved dette Guds hus, skatt, toll eller veipenger."
+        },
+        {
+          "number": 25,
+          "text": "Og du, Esras, skal efter den visdom du har fått av din Gud, innsette dommere og lovkyndige til å dømme alt folket hinsides elven, alle dem som kjenner din Guds lover; og om nogen ikke kjenner dem, så skal I lære ham å kjenne dem."
+        },
+        {
+          "number": 26,
+          "text": "Og om nogen ikke gjør efter din Guds lov og efter kongens lov, så skal der samvittighetsfullt holdes dom over ham, enten det nu fører til døden eller til landflyktighet eller til bøter eller til bånd og fengsel."
+        },
+        {
+          "number": 27,
+          "text": "Lovet være Herren, våre fedres Gud, som gav kongen slikt i sinne, så Herrens hus i Jerusalem kunde bli prydet,"
+        },
+        {
+          "number": 28,
+          "text": "og som lot mig finne nåde hos kongen og hans rådgivere og hos alle kongens mektige høvdinger! Jeg kjente mig sterk, fordi Herren min Gud holdt sin hånd over mig, og jeg fikk samlet nogen av Israels overhoder til å dra op sammen med mig."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Dette er de familiehoder som under kong Artaxerxes' regjering drog op med mig fra Babel, og som her skal opregnes efter sine ætter:"
+        },
+        {
+          "number": 2,
+          "text": "Av Pinehas' barn Gersom; av Itamars barn Daniel; av Davids barn Hattus;"
+        },
+        {
+          "number": 3,
+          "text": "av Sekanjas barn - av Paros' barn - Sakarja, og med ham innførtes i ættetavlen hundre og femti menn;"
+        },
+        {
+          "number": 4,
+          "text": "av Pahat-Moabs barn Eljoenai, Serahjas sønn, og med ham to hundre menn;"
+        },
+        {
+          "number": 5,
+          "text": "av Sekanjas barn Jahasiels sønn, og med ham tre hundre menn;"
+        },
+        {
+          "number": 6,
+          "text": "av Adins barn Ebed, Jonatans sønn, og med ham femti menn;"
+        },
+        {
+          "number": 7,
+          "text": "av Elams barn Jesaja, Ataljas sønn, og med ham sytti menn;"
+        },
+        {
+          "number": 8,
+          "text": "av Sefatjas barn Sebadja, Mikaels sønn, og med ham åtti menn;"
+        },
+        {
+          "number": 9,
+          "text": "av Joabs barn Obadja, Jehiels sønn, og med ham to hundre og atten menn;"
+        },
+        {
+          "number": 10,
+          "text": "av Selomits barn Josifjas sønn, og med ham hundre og seksti menn;"
+        },
+        {
+          "number": 11,
+          "text": "av Bebais barn Sakarja, Bebais sønn, og med ham åtte og tyve menn;"
+        },
+        {
+          "number": 12,
+          "text": "av Asgads barn Johanan, Hakkatans sønn, og med ham hundre og ti menn;"
+        },
+        {
+          "number": 13,
+          "text": "av Adonikams barn nogen som kom senere - de hette Elifelet, Je'uel og Semaja, og med dem seksti menn;"
+        },
+        {
+          "number": 14,
+          "text": "av Bigvais barn Utai og Sabbub, og med dem sytti menn."
+        },
+        {
+          "number": 15,
+          "text": "Jeg samlet dem ved den elv som løper ut i Ahava; der lå vi i leir tre dager. Men da jeg gav nøiere akt på folket og på prestene, fant jeg ingen av Levis barn der."
+        },
+        {
+          "number": 16,
+          "text": "Da sendte jeg bud efter overhodene Elieser, Ariel, Semaja og Elnatan og Jarib og Elnatan og Natan og Sakarja og Mesullam og lærerne Jojarib og Elnatan."
+        },
+        {
+          "number": 17,
+          "text": "Dem sendte jeg ut til Iddo, overhodet i Kasifja, og jeg la dem ord i munnen som de skulde overtale Iddo og hans bror med, tempeltjenerne i Kasifja, til å sende oss tjenere for vår Guds hus."
+        },
+        {
+          "number": 18,
+          "text": "Og da Gud holdt sin gode hånd over oss, sendte de oss en forstandig mann som hette Serebja, en efterkommer av Mahli, som var sønn av Israels sønn Levi, og hans sønner og hans brødre, atten i tallet,"
+        },
+        {
+          "number": 19,
+          "text": "og Hasabja og med ham Jesaja av Meraris barn, hans brødre og deres sønner, tyve i tallet,"
+        },
+        {
+          "number": 20,
+          "text": "og av de tempeltjenere som David og høvdingene hadde gitt levittene til tjenere, to hundre og tyve menn, som alle var nevnt ved navn."
+        },
+        {
+          "number": 21,
+          "text": "Så lot jeg der, ved Ahavaelven, utrope en faste, forat vi skulde ydmyke oss for vår Guds åsyn og bede ham om en lykkelig reise for oss og våre barn og all vår eiendom."
+        },
+        {
+          "number": 22,
+          "text": "For jeg undså mig for å be kongen om krigsmakt og hestfolk til å hjelpe oss mot fiender på veien, siden vi hadde sagt til kongen: Vår Gud holder sin hånd over alle dem som søker ham, og lar det gå dem vel, men hans makt og hans vrede er over alle dem som forlater ham."
+        },
+        {
+          "number": 23,
+          "text": "Så fastet vi og bad vår Gud om hjelp, og han bønnhørte oss."
+        },
+        {
+          "number": 24,
+          "text": "Siden skilte jeg ut tolv av de øverste prester og Serebja og Hasabja og med dem ti av deres brødre;"
+        },
+        {
+          "number": 25,
+          "text": "dem tilveide jeg sølvet og gullet og karene, den gave til vår Guds hus som kongen og hans rådgivere og høvdinger og alle de israelitter som bodde der, hadde gitt."
+        },
+        {
+          "number": 26,
+          "text": "Jeg tilveide dem seks hundre og femti talenter sølv og sølvkar til en verdi av hundre talenter og dertil hundre talenter gull"
+        },
+        {
+          "number": 27,
+          "text": "og tyve gullbeger til en verdi av tusen dariker og to kar av fint skinnende kobber, kostelige som gull."
+        },
+        {
+          "number": 28,
+          "text": "Og jeg sa til dem: I er helliget til Herren, og karene er helliget til ham, og sølvet og gullet er en frivillig gave til Herren, eders fedres Gud."
+        },
+        {
+          "number": 29,
+          "text": "Våk nu over det og ta vare på det til I kan veie det ut i Jerusalem for de øverste prester og levitter og for Israels familiehoder, i kammerne i Herrens hus."
+        },
+        {
+          "number": 30,
+          "text": "Så tok prestene og levittene imot sølvet og gullet og karene for å føre det til Jerusalem, til vår Guds hus."
+        },
+        {
+          "number": 31,
+          "text": "Vi brøt op fra Ahava-elven på den tolvte dag i den første måned for å dra til Jerusalem, og vår Gud holdt sin hånd over oss og fridde oss underveis fra fiender og folk som lå i bakhold mot oss."
+        },
+        {
+          "number": 32,
+          "text": "Da vi kom til Jerusalem, hvilte vi der tre dager."
+        },
+        {
+          "number": 33,
+          "text": "Men på den fjerde dag blev sølvet og gullet og karene veid i vår Guds hus og overgitt til presten Meremot, Urias sønn; og sammen med ham var Eleasar, sønn av Pinehas, til stede og tok imot og likeså levittene Josabad, sønn av Josva, og Noadja, sønn av Binnui."
+        },
+        {
+          "number": 34,
+          "text": "Det blev alt overgitt efter tall og vekt; og hele vekten blev på samme tid optegnet."
+        },
+        {
+          "number": 35,
+          "text": "De bortførte som var kommet tilbake fra fangenskapet, ofret brennoffere til Israels Gud; de ofret tolv okser for hele Israel, seks og nitti værer, syv og sytti lam og tolv syndoffer-bukker - alt sammen til brennoffer for Herren."
+        },
+        {
+          "number": 36,
+          "text": "Så overgav de kongens befalinger til kongens stattholdere og landshøvdinger hinsides elven, og de drog omsorg både for folket og for Guds hus."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Da alt dette var fullført, kom høvdingene til mig og sa: Hverken Israels folk eller prestene og levittene har skilt sig fra folkene rundt om i landene, som de burde ha gjort på grunn av de vederstyggelige skikker som har rådet blandt dem - blandt kana'anittene, hetittene, ferisittene, jebusittene, ammonittene, moabittene, egypterne og amorittene."
+        },
+        {
+          "number": 2,
+          "text": "For de har tatt hustruer for sig og sine sønner blandt deres døtre, så den hellige ætt har blandet sig med folkene i landene, og høvdingene og forstanderne har vært de første til å gjøre sig skyldige i denne utroskap."
+        },
+        {
+          "number": 3,
+          "text": "Da jeg hørte dette, sønderrev jeg min kjortel og min kappe og rev hår av hodet og skjegget og satt i stum sorg."
+        },
+        {
+          "number": 4,
+          "text": "Da samlet de sig hos mig alle de som på grunn av Israels Guds ord var forferdet over de hjemkomnes utroskap, mens jeg satt der i stum sorg like til aftenofferet skulde frembæres."
+        },
+        {
+          "number": 5,
+          "text": "Men ved tiden for aftenofferet reiste jeg mig fra mitt sørgesete i min sønderrevne kjortel og min sønderrevne kappe, og jeg kastet mig på kne og rakte ut mine hender til Herren min Gud"
+        },
+        {
+          "number": 6,
+          "text": "og sa: Min Gud! Jeg skammer mig og blues for å løfte mitt ansikt op mot dig, min Gud! For våre misgjerninger er vokset oss over hodet, og vår skyld er blitt så stor at den når til himmelen."
+        },
+        {
+          "number": 7,
+          "text": "Fra våre fedres dager har vi vært i stor skyld like til denne dag, og for våre misgjerninger har vi med våre konger og prester vært overgitt i fremmede kongers hånd, under sverdet, i fangenskap, til plyndring og vanære, som det viser sig på denne dag."
+        },
+        {
+          "number": 8,
+          "text": "Men nu er for et lite øieblikk nåde blitt oss til del fra Herren vår Gud, så han har levnet og frelst en rest av oss og gitt oss et fotfeste på sitt hellige sted, forat vår Gud kunde la våre øine lyse og gi oss litt ny livskraft i vår trældom."
+        },
+        {
+          "number": 9,
+          "text": "For træler er vi; men vår Gud har ikke forlatt oss i vår trældom, han har latt oss finne nåde hos Persias konger, så de gav oss ny livskraft til å bygge op vår Guds hus og gjenreise dets ruiner og gav oss et hegnet bosted i Juda og i Jerusalem."
+        },
+        {
+          "number": 10,
+          "text": "Men, vår Gud, hvad skal vi si efter alt dette? For vi har forlatt dine bud,"
+        },
+        {
+          "number": 11,
+          "text": "dem som du gav ved dine tjenere profetene da du sa: Det land I drar inn i for å ta det i eie, er et land som er blitt urent ved de fremmede folks urenhet og ved de vederstyggeligheter som de i sin urenhet har fylt det med fra ende til annen;"
+        },
+        {
+          "number": 12,
+          "text": "derfor skal I ikke gi eders døtre til deres sønner eller ta deres døtre til hustruer for eders sønner, og I skal aldri søke deres velferd og lykke, så I kan bli sterke og få ete av landets gode ting og la eders barn få det til eie for all tid."
+        },
+        {
+          "number": 13,
+          "text": "Skulde vi vel nu efter alt det som er kommet over oss på grunn av våre onde gjerninger og vår store skyld, og siden du, vår Gud, har spart oss og straffet oss langt under vår misgjerning og latt en rest av oss som denne her bli frelst -"
+        },
+        {
+          "number": 14,
+          "text": "skulde vi da nu atter bryte dine bud og inngå svogerskap med folk som gjør sig skyldige i sådanne vederstyggeligheter? Vilde du ikke da vredes på oss, så det blev ute med oss, og det ikke var nogen som blev frelst eller slapp unda?"
+        },
+        {
+          "number": 15,
+          "text": "Herre, Israels Gud! Du er rettferdig; for vi er bare en levning, en rest som er blitt frelst, som det kan sees på denne dag; se, vi er nu her for ditt åsyn i vår syndeskyld; for efter det som nu har hendt, kan ingen bli stående for dig."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mens nu Esras lå gråtende på jorden foran Guds hus og bad og bekjente, samlet det sig om ham en meget stor skare av Israels folk, både menn og kvinner og barn; for folket gråt sårt."
+        },
+        {
+          "number": 2,
+          "text": "Da tok Sekanja, Jehiels sønn, av Olams barn, til orde og sa til Esras: Vi har båret oss troløst at mot vår Gud og tatt fremmede kvinner av de andre folk her i landet til hustruer; men ennu er det håp for Israel i denne sak."
+        },
+        {
+          "number": 3,
+          "text": "Så la oss nu gjøre en pakt med vår Gud om å skille oss med alle disse kvinner og deres barn, således som Herren vil det og de menn som har ærefrykt for vår Guds bud, og la oss gå frem efter loven!"
+        },
+        {
+          "number": 4,
+          "text": "Stå op! For det er du som må sørge for dette, og vi skal hjelpe dig; vær frimodig og sett det i verk!"
+        },
+        {
+          "number": 5,
+          "text": "Da stod Esras op og lot de øverste prester og levitter og hele Israels høvdinger sverge at de vilde gjøre som sagt var; og de svor på det."
+        },
+        {
+          "number": 6,
+          "text": "Så gikk Esras bort fra plassen foran Guds hus og inn i Johanans, Eljasibs sønns kammer. Og da han var kommet dit, kunde han hverken ete eller drikke, så dypt sørget han over de hjemkomnes utroskap."
+        },
+        {
+          "number": 7,
+          "text": "Derefter lot de utrope i Juda og Jerusalem til alle de hjemkomne at de skulde samles i Jerusalem,"
+        },
+        {
+          "number": 8,
+          "text": "og om det var nogen som ikke kom innen tre dager, således som høvdingene og de eldste hadde fastsatt, skulde alt hans gods bannlyses, og han selv utelukkes fra de hjemkomnes menighet."
+        },
+        {
+          "number": 9,
+          "text": "Så samledes alle Judas og Benjamins menn i Jerusalem innen de tre dager; det var den tyvende dag i den niende måned. Alt folket satt på plassen ved Guds hus og skalv både for sakens skyld og for regnbygene."
+        },
+        {
+          "number": 10,
+          "text": "Da stod presten Esras op og sa til dem: I har båret eder troløst at og tatt fremmede kvinner til hustruer, og dermed har I øket Israels skyld."
+        },
+        {
+          "number": 11,
+          "text": "Så bekjenn det nu for Herren, eders fedres Gud, og gjør hans vilje! Skill eder fra de andre folk her i landet og fra de fremmede kvinner!"
+        },
+        {
+          "number": 12,
+          "text": "Da svarte hele folket og sa med høi røst: Ja, som du har sagt, så er vi skyldige å gjøre."
+        },
+        {
+          "number": 13,
+          "text": "Men folket er tallrikt, og det er nu regntid, så vi ikke er i stand til å stå her ute, og dette er et arbeid som ikke kan utføres på en dag eller to; for det er mange av oss som har syndet i denne sak."
+        },
+        {
+          "number": 14,
+          "text": "La derfor våre høvdinger stå frem for hele folket, og la alle dem i våre byer som har tatt fremmede kvinner til hustruer, møte til fastsatte tider sammen med de eldste og dommerne i hver by, til vi får vendt vår Guds brennende vrede bort fra oss, og denne sak er avgjort."
+        },
+        {
+          "number": 15,
+          "text": "Bare Jonatan, Asaels sønn, og Jahseja, Tikvas sønn, satte sig imot dette, og Mesullam og levitten Sabbetai støttet dem."
+        },
+        {
+          "number": 16,
+          "text": "De hjemkomne gjorde da som sagt var, og valgte presten Esras og nogen menn som var overhoder for sine familier, og som alle var nevnt ved navn, og de trådte sammen på den første dag i den tiende måned for å granske saken,"
+        },
+        {
+          "number": 17,
+          "text": "og de blev ferdig med alle de menn som hadde tatt fremmede kvinner til hustruer, til den første dag i den første måned."
+        },
+        {
+          "number": 18,
+          "text": "Blandt prestenes sønner fant de nogen som hadde tatt fremmede kvinner til hustruer; det var: av Josvas, Josadaks sønns sønner og hans brødre: Ma'aseja og Elieser og Jarib og Gedalja;"
+        },
+        {
+          "number": 19,
+          "text": "de gav sin hånd på at de vilde skille sig fra sine hustruer og ofre en vær av hjorden som skyldoffer for den skyld de hadde pådradd sig."
+        },
+        {
+          "number": 20,
+          "text": "Av Immers barn var det Hanani og Sebadja;"
+        },
+        {
+          "number": 21,
+          "text": "av Harims barn Ma'aseja og Elia og Semaja og Jehiel og Ussia;"
+        },
+        {
+          "number": 22,
+          "text": "av Pashurs barn Eljoenai, Ma'aseja, Ismael, Netanel, Josabad og Elasa."
+        },
+        {
+          "number": 23,
+          "text": "Av levittene var det Josabad og Sime'i og Kelaja, det er Kelita, Petaja, Juda og Elieser;"
+        },
+        {
+          "number": 24,
+          "text": "av sangerne Eljasib; av dørvokterne Sallum og Telem og Uri."
+        },
+        {
+          "number": 25,
+          "text": "Av Israel ellers var det: av Paros' barn Ramja og Jissija og Malkija og Mijamin og Eleasar og Malkija og Benaja;"
+        },
+        {
+          "number": 26,
+          "text": "av Elams barn Mattanja, Sakarja og Jehiel og Abdi og Jeremot og Elia;"
+        },
+        {
+          "number": 27,
+          "text": "av Sattus barn Eljoenai, Eljasib, Mattanja og Jeremot og Sabad og Asisa;"
+        },
+        {
+          "number": 28,
+          "text": "av Bebais barn Johanan, Hananja, Sabbai, Atlai;"
+        },
+        {
+          "number": 29,
+          "text": "av Banis barn Mesullam, Malluk og Adaja, Jasub og Seal og Jeremot;"
+        },
+        {
+          "number": 30,
+          "text": "av Pahat-Moabs barn Adna og Kelal, Benaja, Ma'aseja, Mattanja, Besalel og Binnui og Manasse;"
+        },
+        {
+          "number": 31,
+          "text": "fremdeles Harims barn: Elieser, Jissija, Malkija, Semaja, Simeon,"
+        },
+        {
+          "number": 32,
+          "text": "Benjamin, Malluk, Semarja;"
+        },
+        {
+          "number": 33,
+          "text": "av Hasums barn Mattenai, Mattatta, Sabad, Elifelet, Jeremai, Manasse, Sime'i;"
+        },
+        {
+          "number": 34,
+          "text": "av Banis barn Ma'adai, Amram og Uel,"
+        },
+        {
+          "number": 35,
+          "text": "Benaja, Bedeja, Keluhi,"
+        },
+        {
+          "number": 36,
+          "text": "Vanja, Meremot, Eljasib,"
+        },
+        {
+          "number": 37,
+          "text": "Mattanja, Mattenai, Ja'asu"
+        },
+        {
+          "number": 38,
+          "text": "og Bani og Binnui, Sime'i"
+        },
+        {
+          "number": 39,
+          "text": "og Selemja og Natan og Adaja,"
+        },
+        {
+          "number": 40,
+          "text": "Maknadbai, Sasai, Sarai,"
+        },
+        {
+          "number": 41,
+          "text": "Asarel og Selemja, Semarja,"
+        },
+        {
+          "number": 42,
+          "text": "Sallum, Amarja, Josef;"
+        },
+        {
+          "number": 43,
+          "text": "av Nebos barn Je'iel, Mattitja, Sabad, Sebina, Jaddu og Joel og Benaja."
+        },
+        {
+          "number": 44,
+          "text": "Alle disse hadde tatt fremmede kvinner til hustruer, og blandt dem var det nogen som hadde fått barn."
+        }
+      ]
+    }
+  ]
+}

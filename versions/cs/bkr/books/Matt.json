@@ -1,0 +1,4433 @@
+{
+  "version": "bkr",
+  "book": "Matt",
+  "bookId": 40,
+  "englishName": "Matthew",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kniha (o) rodu Ježíše Krista syna Davidova, syna Abrahamova."
+        },
+        {
+          "number": 2,
+          "text": "Abraham zplodil Izáka. Izák pak zplodil Jákoba. Jákob zplodil Judu a bratří jeho."
+        },
+        {
+          "number": 3,
+          "text": "Judas pak zplodil Fáresa a Záru z Támar. Fáres pak zplodil Ezroma. Ezrom zplodil Arama."
+        },
+        {
+          "number": 4,
+          "text": "Aram pak zplodil Aminadaba. Aminadab pak zplodil Názona. Názon zplodil Salmona."
+        },
+        {
+          "number": 5,
+          "text": "Salmon zplodil Bóza z Raab. A Bóz zplodil Obéda z Rut. Obéd pak zplodil Jesse."
+        },
+        {
+          "number": 6,
+          "text": "Jesse zplodil Davida krále. David pak král zplodil Šalomouna, z té, kteráž někdy byla žena Uriášova."
+        },
+        {
+          "number": 7,
+          "text": "Šalomoun zplodil Roboáma. Roboám zplodil Abiáše. Abiáš zplodil Azu."
+        },
+        {
+          "number": 8,
+          "text": "Aza zplodil Jozafata. Jozafat zplodil Joráma. Jorám zplodil Oziáše."
+        },
+        {
+          "number": 9,
+          "text": "Oziáš pak zplodil Joátama. Joátam pak zplodil Achasa. Achas zplodil Ezechiáše."
+        },
+        {
+          "number": 10,
+          "text": "Ezechiáš pak zplodil Manasesa. A Manases zplodil Amona. Amon pak zplodil Joziáše."
+        },
+        {
+          "number": 11,
+          "text": "Joziáš pak zplodil Jekoniáše a bratří jeho v zajetí Babylonském."
+        },
+        {
+          "number": 12,
+          "text": "A po zajetí Babylonském Jekoniáš zplodil Salatiele. Salatiel pak zplodil Zorobábele."
+        },
+        {
+          "number": 13,
+          "text": "A Zorobábel zplodil Abiuda. Abiud pak zplodil Eliachima. Eliachim zplodil Azora."
+        },
+        {
+          "number": 14,
+          "text": "Azor potom zplodil Sádocha. Sádoch zplodil Achima. Achim pak zplodil Eliuda."
+        },
+        {
+          "number": 15,
+          "text": "Eliud zplodil Eleazara. Eleazar zplodil Mátana. Mátan zplodil Jákoba."
+        },
+        {
+          "number": 16,
+          "text": "Jákob pak zplodil Jozefa, muže Marie, z nížto narodil se JEŽÍŠ, jenž slove Kristus."
+        },
+        {
+          "number": 17,
+          "text": "A tak všech rodů od Abrahama až do Davida bylo rodů čtrnácte. A od Davida až do zajetí Babylonského rodů čtrnácte. A od zajetí Babylonského až do Krista rodů čtrnácte."
+        },
+        {
+          "number": 18,
+          "text": "Jezukristovo pak narození takto se stalo: Když matka jeho Maria snoubena byla Jozefovi, prve než se sešli, nalezena jest těhotná z Ducha svatého."
+        },
+        {
+          "number": 19,
+          "text": "Ale Jozef muž její spravedlivý jsa, a nechtěv jí v lehkost uvésti, chtěl ji tajně propustiti."
+        },
+        {
+          "number": 20,
+          "text": "Když pak on o tom přemyšloval, aj, anděl Páně ve snách ukázal se jemu, řka: Jozefe synu Davidův, neboj se přijíti Marie manželky své; nebo což v ní jest počato, z Ducha svatého jest."
+        },
+        {
+          "number": 21,
+          "text": "Porodíť pak syna, a nazůveš jméno jeho Ježíš; onť zajisté vysvobodí lid svůj od hříchů jejich."
+        },
+        {
+          "number": 22,
+          "text": "Toto pak všecko stalo se, aby se naplnilo, což povědíno bylo ode Pána skrze proroka, řkoucího:"
+        },
+        {
+          "number": 23,
+          "text": "Aj, panna těhotná bude, a porodí syna, a nazůveš jméno jeho Emmanuel, jenž se vykládá: S námi Bůh."
+        },
+        {
+          "number": 24,
+          "text": "Procítiv pak Jozef ze sna, učinil, jakož mu přikázal anděl Páně, a přijal manželku svou."
+        },
+        {
+          "number": 25,
+          "text": "Ale nepoznal jí, až i porodila Syna svého prvorozeného, a nazvala jméno jeho Ježíš."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Když se pak narodil Ježíš v Betlémě Judově, za dnů Herodesa krále, aj, mudrci od východu slunce přijeli do Jeruzaléma,"
+        },
+        {
+          "number": 2,
+          "text": "Řkouce: Kde jest ten, kterýž se narodil Král Židovský? Nebo viděli jsme hvězdu jeho na východu slunce, a přijeli jsme klaněti se jemu."
+        },
+        {
+          "number": 3,
+          "text": "To uslyšev Herodes král, zarmoutil se i všecken Jeruzalém s ním."
+        },
+        {
+          "number": 4,
+          "text": "A svolav všecky přední kněží a učitele lidu, tázal se jich, kde by se Kristus měl naroditi."
+        },
+        {
+          "number": 5,
+          "text": "Oni pak řekli jemu: V Betlémě Judově. Nebo tak jest psáno skrze proroka:"
+        },
+        {
+          "number": 6,
+          "text": "A ty Betléme, země Judská, nikoli nejsi nejmenší mezi knížaty Judskými; neboť z tebe vyjde Vývoda, kterýž pásti bude lid můj Izraelský."
+        },
+        {
+          "number": 7,
+          "text": "Tedy Herodes tajně povolav mudrců, pilně se jich ptal, kterého by se jim času hvězda ukázala."
+        },
+        {
+          "number": 8,
+          "text": "A když je propouštěl do Betléma, řekl: Jdouce, ptejte se pilně na to dítě, a když naleznete, zvěstujtež mi, ať i já přijda, pokloním se jemu."
+        },
+        {
+          "number": 9,
+          "text": "Oni pak vyslyševše krále, jeli. A aj, hvězda, kterouž byli viděli na východu slunce, předcházela je, až i přišedši, stála nad domem, kdež bylo dítě."
+        },
+        {
+          "number": 10,
+          "text": "A uzřevše hvězdu, zradovali se radostí velmi velikou."
+        },
+        {
+          "number": 11,
+          "text": "I všedše do domu, nalezli dítě s Marijí matkou jeho, a padše, klaněli se jemu; a otevřevše poklady své, obětovali jemu dary, zlato a kadidlo a mirru."
+        },
+        {
+          "number": 12,
+          "text": "A od Boha napomenuti jsouce ve snách, aby se nenavraceli k Herodesovi, jinou cestou navrátili se do krajiny své."
+        },
+        {
+          "number": 13,
+          "text": "Když pak oni odjeli, aj, anděl Páně ukázal se Jozefovi ve snách, řka: Vstana, vezmi dítě i matku jeho, a utec do Egypta, a buď tam, dokavadž nepovím tobě; neboť bude Herodes hledati dítě, aby je zahubil."
+        },
+        {
+          "number": 14,
+          "text": "Kterýžto vstav hned v noci, vzal dítě i matku jeho, a odšel do Egypta."
+        },
+        {
+          "number": 15,
+          "text": "A byl tam až do smrti Herodesovy, aby se naplnilo povědění Páně skrze proroka, řkoucího: Z Egypta povolal jsem Syna svého."
+        },
+        {
+          "number": 16,
+          "text": "Tehdy Herodes uzřev, že by oklamán byl od mudrců, rozhněval se náramně, a poslav služebníky své, zmordoval všecky dítky, kteréž byly v Betlémě i ve všech končinách jeho, od dvouletých a níže, podle času, na kterýž se byl pilně vyptal od mudrců."
+        },
+        {
+          "number": 17,
+          "text": "Tehdy naplněno jest to povědění Jeremiáše proroka, řkoucího:"
+        },
+        {
+          "number": 18,
+          "text": "Hlas v Ráma slyšán jest, naříkání a pláč a kvílení mnohé; Ráchel plačící synů svých, a nedala se potěšiti, protože jich není."
+        },
+        {
+          "number": 19,
+          "text": "Když pak umřel Herodes, aj, anděl Páně ukázal se Jozefovi ve snách v Egyptě,"
+        },
+        {
+          "number": 20,
+          "text": "Řka: Vstana, vezmi dítě i matku jeho, a jdiž do země Izraelské; neboť jsou zemřeli ti, jenž hledali bezživotí dítěte."
+        },
+        {
+          "number": 21,
+          "text": "Kterýžto vstav, vzal dítě i matku jeho, a přišel do země Izraelské."
+        },
+        {
+          "number": 22,
+          "text": "A uslyšev, že by Archelaus kraloval v Judstvu místo Herodesa otce svého, obával se tam jíti; a napomenut jsa od Boha ve snách, obrátil se do krajin Galilejských."
+        },
+        {
+          "number": 23,
+          "text": "A přišed, bydlil v městě, jenž slove Nazarét, aby se naplnilo, což povědíno bylo skrze proroky, že Nazaretský slouti bude."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "V těch pak dnech přišel Jan Křtitel, káže na poušti Judské,"
+        },
+        {
+          "number": 2,
+          "text": "A řka: Pokání čiňte, nebo přiblížilo se království nebeské."
+        },
+        {
+          "number": 3,
+          "text": "Totoť jest zajisté ten Předchůdce předpověděný od Izaiáše proroka, řkoucího: Hlas volajícího na poušti: Připravujte cestu Páně, přímé čiňte stezky jeho."
+        },
+        {
+          "number": 4,
+          "text": "Měl pak Jan roucho z srstí velbloudových a pás kožený okolo bedr svých, a pokrm jeho byl kobylky a med lesní."
+        },
+        {
+          "number": 5,
+          "text": "Tedy vycházeli k němu z Jeruzaléma a ze všeho Judstva, i ze vší krajiny ležící při Jordánu,"
+        },
+        {
+          "number": 6,
+          "text": "A křtěni byli od něho v Jordáně, vyznávajíce hříchy své."
+        },
+        {
+          "number": 7,
+          "text": "Uzřev pak mnohé z farizeů a z saduceů, že jdou k jeho křtu, řekl jim: Pokolení ještěrčí, i kdo vám ukázal, kterak byste utéci měli budoucího hněvu?"
+        },
+        {
+          "number": 8,
+          "text": "Protož čiňte ovoce hodné pokání."
+        },
+        {
+          "number": 9,
+          "text": "A nedomnívejte se, že můžete říkati sami u sebe: Otce máme Abrahama. Neboť pravím vám, že by mohl Bůh z kamení tohoto vzbuditi syny Abrahamovi."
+        },
+        {
+          "number": 10,
+          "text": "A jižť jest i sekera k kořenu stromů přiložena. Každý zajisté strom, kterýž nenese ovoce dobrého, vyťat a na oheň uvržen bývá."
+        },
+        {
+          "number": 11,
+          "text": "Já křtím vás vodou ku pokání, ten pak, kterýž po mně přichází, jestiť mocnější nežli já, jehožto nejsem hoden obuvi nositi. Onť vás křtíti bude Duchem svatým a ohněm."
+        },
+        {
+          "number": 12,
+          "text": "Jehožto věječka v ruce jeho, a vyčistíť humno své, a shromáždí pšenici svou do obilnice, ale plevy páliti bude ohněm neuhasitelným."
+        },
+        {
+          "number": 13,
+          "text": "Tehdy přišel Ježíš od Galilee k Jordánu k Janovi, aby také pokřtěn byl od něho."
+        },
+        {
+          "number": 14,
+          "text": "Ale Jan zbraňoval mu, řka: Mně jest potřebí, abych od tebe pokřtěn byl, a ty pak jdeš ke mně?"
+        },
+        {
+          "number": 15,
+          "text": "A odpovídaje Ježíš, dí jemu: Dopusť tak; neboť tak sluší na nás, abychom plnili všelikou spravedlnost. Tedy dopustil jemu."
+        },
+        {
+          "number": 16,
+          "text": "A pokřtěn jsa Ježíš, vystoupil ihned z vody; a aj, otevřína jsou mu nebesa, a viděl Ducha Božího, sstupujícího jako holubici a přicházejícího na něj."
+        },
+        {
+          "number": 17,
+          "text": "A aj, zavzněl hlas s nebe řkoucí: Tentoť jest ten můj milý Syn, v němž mi se dobře zalíbilo."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tehdy Ježíš veden jest na poušť od Ducha, aby pokoušín byl od ďábla."
+        },
+        {
+          "number": 2,
+          "text": "A postiv se čtyřidceti dnů a čtyřidceti nocí, potom zlačněl."
+        },
+        {
+          "number": 3,
+          "text": "A přistoupiv k němu pokušitel, řekl: Jsi-li Syn Boží, rciž, ať kamení toto chlebové jsou."
+        },
+        {
+          "number": 4,
+          "text": "On pak odpovídaje, řekl: Psánoť jest: Ne samým chlebem živ bude člověk, ale každým slovem vycházejícím skrze ústa Boží."
+        },
+        {
+          "number": 5,
+          "text": "Tedy pojal jej ďábel do svatého města a postavil ho na vrchu chrámu."
+        },
+        {
+          "number": 6,
+          "text": "A řekl mu: Jsi-li Syn Boží, spustiž se dolů; nebo psánoť jest, že andělům svým přikázal o tobě, a na ruce uchopí tebe, abys někde o kámen nohy své neurazil."
+        },
+        {
+          "number": 7,
+          "text": "I řekl mu Ježíš: Zase psáno jest: Nebudeš pokoušeti Pána Boha svého."
+        },
+        {
+          "number": 8,
+          "text": "Opět pojal ho ďábel na horu vysokou velmi, a ukázal mu všecka království světa i slávu jejich, a řekl jemu:"
+        },
+        {
+          "number": 9,
+          "text": "Toto všecko tobě dám, jestliže padna, budeš mi se klaněti."
+        },
+        {
+          "number": 10,
+          "text": "Tedy dí mu Ježíš: Odejdiž, satane; neboť jest psáno: Pánu Bohu svému klaněti se budeš a jemu samému sloužiti budeš."
+        },
+        {
+          "number": 11,
+          "text": "Tedy opustil ho ďábel, a aj, andělé přistoupili a sloužili jemu."
+        },
+        {
+          "number": 12,
+          "text": "A když uslyšel Ježíš, že by Jan vsazen byl do žaláře, odšel do Galilee."
+        },
+        {
+          "number": 13,
+          "text": "A opustiv Nazarét, přišed, bydlil v Kafarnaum za mořem, v krajinách Zabulon a Neftalím,"
+        },
+        {
+          "number": 14,
+          "text": "Aby se naplnilo povědění skrze Izaiáše proroka, řkoucího:"
+        },
+        {
+          "number": 15,
+          "text": "Země Zabulon a Neftalím při moři za Jordánem, Galilea pohanská,"
+        },
+        {
+          "number": 16,
+          "text": "Lid, kterýž bydlil v temnostech, viděl světlo veliké, a sedícím v krajině a stínu smrti, světlo vzešlo jim."
+        },
+        {
+          "number": 17,
+          "text": "Od toho času počal Ježíš kázati a praviti: Pokání čiňte; neboť se přiblížilo království nebeské."
+        },
+        {
+          "number": 18,
+          "text": "A chodě Ježíš podle moře Galilejského, uzřel dva bratry, Šimona, kterýž slove Petr, a Ondřeje bratra jeho, ani pouštějí sít do moře, (nebo byli rybáři.)"
+        },
+        {
+          "number": 19,
+          "text": "I dí jim: Pojďte za mnou, a učiním vás rybáře lidí."
+        },
+        {
+          "number": 20,
+          "text": "A oni hned opustivše síti, šli za ním."
+        },
+        {
+          "number": 21,
+          "text": "A poodšed odtud, uzřel jiné dva bratry, Jakuba syna Zebedeova, a Jana bratra jeho, na lodí s Zebedeem otcem jejich, ani tvrdí síti své. I povolal jich."
+        },
+        {
+          "number": 22,
+          "text": "A oni hned opustivše lodí a otce svého, šli za ním."
+        },
+        {
+          "number": 23,
+          "text": "I procházel Ježíš všecku Galilei, uče v shromážděních jejich a káže evangelium království a uzdravuje všelikou nemoc i všeliký neduh v lidu."
+        },
+        {
+          "number": 24,
+          "text": "A rozešla se o něm pověst po vší Syrii. I přivedli k němu všecky nemocné, rozličnými neduhy a trápeními poražené, i ďábelníky, i náměsičníky, i šlakem poražené; a uzdravoval je."
+        },
+        {
+          "number": 25,
+          "text": "I šli za ním zástupové mnozí z Galilee a z krajiny Desíti měst, i z Jeruzaléma i z Judstva i z Zajordání."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Vida pak Ježíš zástupy, vstoupil na horu; a když se posadil, přistoupili k němu učedlníci jeho."
+        },
+        {
+          "number": 2,
+          "text": "I otevřev ústa svá, učil je, řka:"
+        },
+        {
+          "number": 3,
+          "text": "Blahoslavení chudí duchem, nebo jejich jest království nebeské."
+        },
+        {
+          "number": 4,
+          "text": "Blahoslavení lkající, nebo oni potěšeni budou."
+        },
+        {
+          "number": 5,
+          "text": "Blahoslavení tiší, nebo oni dědictví obdrží na zemi."
+        },
+        {
+          "number": 6,
+          "text": "Blahoslavení, kteříž lačnějí a žíznějí spravedlnosti, nebo oni nasyceni budou."
+        },
+        {
+          "number": 7,
+          "text": "Blahoslavení milosrdní, nebo oni milosrdenství důjdou."
+        },
+        {
+          "number": 8,
+          "text": "Blahoslavení čistého srdce, nebo oni Boha viděti budou."
+        },
+        {
+          "number": 9,
+          "text": "Blahoslavení pokojní, nebo oni synové Boží slouti budou."
+        },
+        {
+          "number": 10,
+          "text": "Blahoslavení, kteříž protivenství trpí pro spravedlnost, neb jejich jest království nebeské."
+        },
+        {
+          "number": 11,
+          "text": "Blahoslavení jste, když vám zlořečiti budou lidé a protivenství činiti, a mluviti všecko zlé o vás, lhouce, pro mne."
+        },
+        {
+          "number": 12,
+          "text": "Radujte se a veselte se, nebo odplata vaše hojná jest v nebesích. Takť zajisté protivili se prorokům, kteříž byli před vámi."
+        },
+        {
+          "number": 13,
+          "text": "Vy jste sůl země. Jestliže sůl zmařena bude, čím bude osolena? K ničemuž se nehodí více, než aby byla ven vyvržena a od lidí potlačena."
+        },
+        {
+          "number": 14,
+          "text": "Vy jste světlo světa. Nemůžeť město na hoře ležící skryto býti."
+        },
+        {
+          "number": 15,
+          "text": "Aniž rozsvěcují svíce a stavějí ji pod kbelec, ale na svícen; i svítí všechněm, kteříž v domu jsou."
+        },
+        {
+          "number": 16,
+          "text": "Tak svěť světlo vaše před lidmi, ať vidí skutky vaše dobré, a slaví Otce vašeho, jenž jest v nebesích."
+        },
+        {
+          "number": 17,
+          "text": "Nedomnívejte se, že bych přišel rušiti Zákon anebo Proroky. Nepřišelť jsem rušiti, ale naplniti."
+        },
+        {
+          "number": 18,
+          "text": "Amen zajisté pravím vám: Dokudž nepomine nebe i země, jediná literka aneb jediný puňktík nepomine z Zákona, až se všecky věci stanou."
+        },
+        {
+          "number": 19,
+          "text": "Protož zrušil-li by kdo jedno z přikázání těchto nejmenších a učil by tak lidi, nejmenší slouti bude v království nebeském. Kdož by pak koli činil i jiné učil, ten veliký slouti bude v království nebeském."
+        },
+        {
+          "number": 20,
+          "text": "Nebo pravím vám: Nebude-liť hojnější spravedlivost vaše nežli zákoníků a farizeů, nikoli nevejdete do království nebeského."
+        },
+        {
+          "number": 21,
+          "text": "Slyšeli jste, že řečeno jest od starých: Nezabiješ. Pakli by kdo zabil, povinen bude státi k soudu."
+        },
+        {
+          "number": 22,
+          "text": "Ale jáť pravím vám: Že každý, kdož se hněvá na bratra svého bez příčiny, povinen k soudu státi. Kdož by pak řekl bratru svému: Rácha, povinen bude před radou státi; a kdož by řekl: Blázne, povinen bude pekelný oheň trpěti."
+        },
+        {
+          "number": 23,
+          "text": "Protož obětoval-li bys dar svůj na oltář, a tu bys se rozpomenul, že bratr tvůj má něco proti tobě,"
+        },
+        {
+          "number": 24,
+          "text": "Nechejž tu daru svého před oltářem a jdi, prve smiř se s bratrem svým, a potom přijda, obětuj dar svůj."
+        },
+        {
+          "number": 25,
+          "text": "Vejdi v dobrou vůli s protivníkem svým rychle, dokudž jsi s ním na cestě, ať by snad nedal tebe protivník tvůj soudci, a soudce dal by tě služebníku, a byl bys uvržen do žaláře."
+        },
+        {
+          "number": 26,
+          "text": "Amen pravím tobě: Nevyjdeš odtud nikoli, dokudž i toho posledního haléře nenavrátíš."
+        },
+        {
+          "number": 27,
+          "text": "Slyšeli jste, že řečeno jest od starých: Nezcizoložíš."
+        },
+        {
+          "number": 28,
+          "text": "Ale jáť pravím vám: Že každý, kdož by pohleděl na ženu ku požádání jí, již zcizoložil s ní v srdci svém."
+        },
+        {
+          "number": 29,
+          "text": "Jestliže pak oko tvé pravé horší tě, vylupiž je a vrz od sebe; nebť jest užitečněji tobě, aby raději zahynul jeden úd tvůj, nežli by celé tělo tvé uvrženo bylo do ohně pekelného."
+        },
+        {
+          "number": 30,
+          "text": "A pakli ruka tvá pravá horší tě, utniž ji a vrz od sebe; nebo užitečněji jest tobě, aby zahynul raději jeden úd tvůj, nežli by všecko tělo tvé uvrženo bylo do pekelného ohně."
+        },
+        {
+          "number": 31,
+          "text": "Též řečeno jest: Kdož by koli propustil manželku svou, aby jí dal lístek rozloučení."
+        },
+        {
+          "number": 32,
+          "text": "Jáť pak pravím vám: Že kdožkoli propustil by manželku svou, kromě příčiny cizoložstva, uvodí ji v cizoložstvo, a kdož propuštěnou pojme, cizoloží."
+        },
+        {
+          "number": 33,
+          "text": "Opět slyšeli jste, že řečeno jest od starých: Nebudeš křivě přisahati, ale splníš Pánu přísahy své."
+        },
+        {
+          "number": 34,
+          "text": "Ale jáť pravím vám: Abyste nepřisahali všelijak, ani skrze nebe, nebo stolice Boží jest,"
+        },
+        {
+          "number": 35,
+          "text": "Ani skrze zemi, nebo podnož jeho jest, ani skrze Jeruzalém, nebo město velikého Krále jest."
+        },
+        {
+          "number": 36,
+          "text": "Ani skrze hlavu svou budeš přisahati, nebo nemůžeš jednoho vlasu učiniti bílého aneb černého."
+        },
+        {
+          "number": 37,
+          "text": "Ale buď řeč vaše: Jistě, jistě; nikoli, nikoli. Což pak nad to více jest, to od toho zlého jest."
+        },
+        {
+          "number": 38,
+          "text": "Slyšeli jste, že řečeno jest: Oko za oko, a zub za zub."
+        },
+        {
+          "number": 39,
+          "text": "Jáť pak pravím vám: Abyste neodpírali zlému. Ale udeří-li tě kdo v pravé líce tvé, nasaď jemu i druhého."
+        },
+        {
+          "number": 40,
+          "text": "A tomu, kdož se s tebou chce souditi a sukni tvou vzíti, nech mu i pláště."
+        },
+        {
+          "number": 41,
+          "text": "A nutil-li by tě kdo jíti s sebou míli jednu, jdi s ním dvě."
+        },
+        {
+          "number": 42,
+          "text": "A prosícímu tebe dej, a od toho, kdo by chtěl vypůjčiti od tebe, neodvracuj se."
+        },
+        {
+          "number": 43,
+          "text": "Slyšeli jste, že řečeno jest: Milovati budeš bližního svého, a nenáviděti budeš nepřítele svého."
+        },
+        {
+          "number": 44,
+          "text": "Ale jáť vám pravím: Milujte nepřátely vaše, dobrořečte těm, kteříž vás proklínají, a dobře čiňte nenávidícím vás, a modlte se za nepřátely a protivníky vaše,"
+        },
+        {
+          "number": 45,
+          "text": "Abyste byli synové Otce vašeho, jenž jest v nebesích; ješto slunci svému velí vzchoditi na dobré i na zlé, a déšť dává na spravedlivé i na nespravedlivé."
+        },
+        {
+          "number": 46,
+          "text": "Nebo milujete-li ty, jenž vás milují, jakou odplatu míti budete? Zdaliž i publikáni téhož nečiní?"
+        },
+        {
+          "number": 47,
+          "text": "A budete-li pozdravovati toliko bratří svých, což více nad jiné činíte? Však i publikáni to činí."
+        },
+        {
+          "number": 48,
+          "text": "Buďtež vy tedy dokonalí, jako i Otec váš nebeský dokonalý jest."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pilně se varujte, abyste almužny vaší nedávali před lidmi, proto abyste byli vidíni od nich, jinak nebudete míti odplaty u Otce vašeho, jenž jest v nebesích."
+        },
+        {
+          "number": 2,
+          "text": "Protož když dáváš almužnu, netrub před sebou, jako pokrytci činí v školách a na ulicech, aby chváleni byli od lidí. Amen pravím vám, majíť odplatu svou."
+        },
+        {
+          "number": 3,
+          "text": "Ale ty když dáváš almužnu, tak čiň, ať neví levice tvá, co činí pravice tvá,"
+        },
+        {
+          "number": 4,
+          "text": "Aby almužna tvá byla v skrytě, a Otec tvůj, kterýž vidí v skrytě, odplatí tobě zjevně."
+        },
+        {
+          "number": 5,
+          "text": "A když bys se chtěl modliti, nebývejž jako pokrytci, kteříž obyčej mají, v školách a na úhlech rynku stojíce, modliti se, aby byli vidíni od lidí. Amen pravím vám, žeť mají odplatu svou."
+        },
+        {
+          "number": 6,
+          "text": "Ale ty když bys se modliti chtěl, vejdi do pokojíka svého, a zavra dveře své, modliž se Otci svému, jenž jest v skrytě, a Otec tvůj, kterýž vidí v skrytě, odplatí tobě zjevně."
+        },
+        {
+          "number": 7,
+          "text": "Modléce se pak, nebuďtež marnomluvní jako pohané; nebo se domnívají, že mnohomluvností svou to způsobí, aby byli uslyšáni."
+        },
+        {
+          "number": 8,
+          "text": "Nepřirovnávejtež se tedy jim, neboť ví Otec váš, čeho jest vám potřebí, prve nežli byste vy ho prosili."
+        },
+        {
+          "number": 9,
+          "text": "A protož vy takto se modlte: Otče náš, jenž jsi v nebesích, posvěť se jméno tvé."
+        },
+        {
+          "number": 10,
+          "text": "Přijď království tvé. Buď vůle tvá jako v nebi tak i na zemi."
+        },
+        {
+          "number": 11,
+          "text": "Chléb náš vezdejší dej nám dnes."
+        },
+        {
+          "number": 12,
+          "text": "A odpusť nám viny naše, jakož i my odpouštíme vinníkům našim."
+        },
+        {
+          "number": 13,
+          "text": "I neuvoď nás v pokušení, ale zbav nás od zlého. Nebo tvé jest království, i moc, i sláva, na věky, Amen."
+        },
+        {
+          "number": 14,
+          "text": "Nebo budete-li odpouštěti lidem viny jejich, odpustíť i vám nebeský Otec váš."
+        },
+        {
+          "number": 15,
+          "text": "Jestliže pak neodpustíte lidem vin jejich, aniž Otec váš odpustí vám hříchů vašich."
+        },
+        {
+          "number": 16,
+          "text": "Když byste se pak postili, nebývejtež jako pokrytci zasmušilí; neboť pošmuřují tváří svých, aby vědomé bylo lidem, že se postí. Amen pravím vám, vzaliť jsou odplatu svou."
+        },
+        {
+          "number": 17,
+          "text": "Ty pak, když se postíš, pomaž hlavy své a tvář svou umej,"
+        },
+        {
+          "number": 18,
+          "text": "Aby nebylo zjevné lidem, že se postíš, ale Otci tvému, kterýž jest v skrytě. A Otec tvůj, kterýž vidí v skrytosti, odplatí tobě zjevně."
+        },
+        {
+          "number": 19,
+          "text": "Neskládejte sobě pokladů na zemi, kdežto mol a rez kazí, a kdež zloději vykopávají a kradou."
+        },
+        {
+          "number": 20,
+          "text": "Ale skládejte sobě poklady v nebi, kdežto ani mol ani rez kazí, a kdežto zloději nevykopávají ani kradou."
+        },
+        {
+          "number": 21,
+          "text": "Nebo kdežť jest poklad váš, tuť jest i srdce vaše."
+        },
+        {
+          "number": 22,
+          "text": "Svíce těla jestiť oko; jestliže oko tvé sprostné bylo by, všecko tělo tvé světlé bude."
+        },
+        {
+          "number": 23,
+          "text": "Pakliť by oko tvé bylo nešlechetné, všecko tělo tvé tmavé bude. Protož jestliže světlo, kteréž jest v tobě, jest tma, co pak sama tma, jaká bude?"
+        },
+        {
+          "number": 24,
+          "text": "Žádný nemůže dvěma pánům sloužiti. Nebo zajisté jednoho nenáviděti bude, a druhého milovati, aneb jednoho přídržeti se bude, a druhým pohrdne. Nemůžte Bohu sloužiti i mamoně."
+        },
+        {
+          "number": 25,
+          "text": "Protož pravím vám: Nepečujte o život váš, co byste jedli a co pili, ani o tělo vaše, čím byste je odívali. Zdaliž není život více nežli pokrm, a tělo více nežli oděv?"
+        },
+        {
+          "number": 26,
+          "text": "Hleďte na ptactvo nebeské, žeť nesejí ani žnou, ani shromažďují do stodol, avšak Otec váš nebeský krmí je. I zdaliž vy jich mnohem nepřevyšujete?"
+        },
+        {
+          "number": 27,
+          "text": "A kdo z vás pečlivě mysle, může přidati ku postavě své loket jeden?"
+        },
+        {
+          "number": 28,
+          "text": "A o oděv proč pečujete? Poučte se na kvítí polním, kterak roste, nepracuje ani přede."
+        },
+        {
+          "number": 29,
+          "text": "A aj, pravím vám, že ani Šalomoun ve vší slávě své tak odín nebyl, jako jedno z nich."
+        },
+        {
+          "number": 30,
+          "text": "Poněvadž tedy trávu polní, ješto dnes jest, a zítra do peci bývá vložena, Bůh tak odívá, i zdaliž mnohem více vám toho nečiní, ó malé víry?"
+        },
+        {
+          "number": 31,
+          "text": "Nepečujtež tedy, říkajíce: Co budeme jísti? anebo: Co budeme píti? anebo: Èím se budeme odívati?"
+        },
+        {
+          "number": 32,
+          "text": "Nebo toho všeho pohané hledají. Víť zajisté Otec váš nebeský, že toho všeho potřebujete."
+        },
+        {
+          "number": 33,
+          "text": "Ale hledejte vy nejprv království Božího a spravedlnosti jeho, a toto vše bude vám přidáno."
+        },
+        {
+          "number": 34,
+          "text": "Protož nepečujte o zítřejší den, nebo zítřejší den pečovati bude o své věci. Dostiť má den na svém trápení."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nesuďtež, abyste nebyli souzeni."
+        },
+        {
+          "number": 2,
+          "text": "Nebo jakým soudem soudíte, takovýmž budete souzeni, a jakouž měrou měříte, takovouž bude vám zase odměřeno."
+        },
+        {
+          "number": 3,
+          "text": "Kterakž pak vidíš mrvu v oku bratra svého, a v oku svém břevna necítíš?"
+        },
+        {
+          "number": 4,
+          "text": "Aneb kterak díš bratru svému: Nech, ať vyvrhu mrvu z oka tvého, a aj, břevno jest v oku tvém?"
+        },
+        {
+          "number": 5,
+          "text": "Pokrytče, vyvrz nejprv břevno z oka svého, a tehdy prohlédneš, abys vyňal mrvu z oka bratra tvého."
+        },
+        {
+          "number": 6,
+          "text": "Nedávejte svatého psům, aniž mecte perel svých před svině, ať by snad nepotlačily jich nohama svýma, a psi obrátíce se, aby neroztrhaly vás."
+        },
+        {
+          "number": 7,
+          "text": "Proste, a dánoť bude vám; hledejte, a naleznete; tlucte, a bude vám otevříno."
+        },
+        {
+          "number": 8,
+          "text": "Nebo každý, kdož prosí, béře; a kdož hledá, nalézá; a tomu, jenž tluče, bude otevříno."
+        },
+        {
+          "number": 9,
+          "text": "Nebo který z vás jest člověk, kteréhož kdyby prosil syn jeho za chléb, zdali kamene podá jemu?"
+        },
+        {
+          "number": 10,
+          "text": "A prosil-li by za rybu, zdali hada podá jemu?"
+        },
+        {
+          "number": 11,
+          "text": "Poněvadž tedy vy, jsouce zlí, umíte dobré dary dávati synům vašim, čím více Otec váš, jenž jest v nebesích, dá dobré věci těm, kteříž ho prosí?"
+        },
+        {
+          "number": 12,
+          "text": "A protož všecko, což byste chtěli, aby vám lidé činili, to i vy čiňte jim; toť zajisté jest Zákon i Proroci."
+        },
+        {
+          "number": 13,
+          "text": "Vcházejte těsnou branou; nebo prostranná brána a široká cesta jest, kteráž vede k zahynutí, a mnoho jest těch, kteříž vcházejí skrze ni."
+        },
+        {
+          "number": 14,
+          "text": "Nebo těsná jest brána a úzká cesta, kteráž vede k životu, a málo jest nalézajících ji."
+        },
+        {
+          "number": 15,
+          "text": "Pilně se pak varujte falešných proroků, kteříž přicházejí k vám v rouše ovčím, ale vnitř jsou vlci hltaví."
+        },
+        {
+          "number": 16,
+          "text": "Po ovocích jejich poznáte je. Zdaliž sbírají z trní hrozny, aneb z bodláčí fíky?"
+        },
+        {
+          "number": 17,
+          "text": "Takť každý strom dobrý ovoce dobré nese, zlý pak strom zlé ovoce nese."
+        },
+        {
+          "number": 18,
+          "text": "Nemůžeť dobrý strom zlého ovoce nésti, ani strom zlý ovoce dobrého vydávati."
+        },
+        {
+          "number": 19,
+          "text": "Všeliký strom, kterýž nenese ovoce dobrého, vyťat a na oheň uvržen bývá."
+        },
+        {
+          "number": 20,
+          "text": "A tak tedy po ovocích jejich poznáte je."
+        },
+        {
+          "number": 21,
+          "text": "Ne každý, kdož mi říká: Pane, Pane, vejde do království nebeského, ale ten, kdož činí vůli Otce mého, kterýž v nebesích jest."
+        },
+        {
+          "number": 22,
+          "text": "Mnozíť mi dějí v onen den: Pane, Pane, zdaliž jsme ve jménu tvém neprorokovali, a ve jménu tvém ďáblů nevymítali, a v tvém jménu zdaliž jsme divů mnohých nečinili?"
+        },
+        {
+          "number": 23,
+          "text": "A tehdyť jim vyznám, že jsem vás nikdy neznal. Odejděte ode mne, činitelé nepravosti."
+        },
+        {
+          "number": 24,
+          "text": "A protož každého, kdož slyší slova má tato a zachovává je, připodobním muži moudrému, kterýž ustavěl dům svůj na skále."
+        },
+        {
+          "number": 25,
+          "text": "I spadl příval, a přišly řeky, a váli větrové, a obořili se na ten dům, a nepadl; nebo založen byl na skále."
+        },
+        {
+          "number": 26,
+          "text": "A každý, kdož slyší slova má tato, a neplní jich, připodobněn bude muži bláznu, kterýž ustavěl dům svůj na písku."
+        },
+        {
+          "number": 27,
+          "text": "I spadl příval, a přišly řeky, a váli větrové, a obořili se na ten dům, i padl, a byl pád jeho veliký."
+        },
+        {
+          "number": 28,
+          "text": "I stalo se, když dokonal Ježíš řeči tyto, že se převelmi divili zástupové učení jeho."
+        },
+        {
+          "number": 29,
+          "text": "Nebo učil je jako moc maje, a ne jako zákoníci."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A když sstupoval s hory, šli za ním zástupové mnozí."
+        },
+        {
+          "number": 2,
+          "text": "A aj, malomocný přišed, klaněl se jemu, řka: Pane, kdybys jen chtěl, můžeš mne očistiti."
+        },
+        {
+          "number": 3,
+          "text": "I vztáh Ježíš ruku, dotekl se ho, řka: Chci, buď čist. A hned očištěno jest malomocenství jeho."
+        },
+        {
+          "number": 4,
+          "text": "I dí mu Ježíš: Viziž, abys žádnému nepravil. Ale jdi, a ukaž se knězi, a obětuj dar, kterýž přikázal Mojžíš, na svědectví jim."
+        },
+        {
+          "number": 5,
+          "text": "A když vcházel Ježíš do Kafarnaum, přistoupil k němu setník, prose ho,"
+        },
+        {
+          "number": 6,
+          "text": "A řka: Pane, služebník můj leží doma šlakem poražený, velmi se trápě."
+        },
+        {
+          "number": 7,
+          "text": "I dí mu Ježíš: Já přijdu a uzdravím ho."
+        },
+        {
+          "number": 8,
+          "text": "A odpovídaje setník, řekl: Pane, nejsemť hoden, abys všel pod střechu mou, ale toliko rci slovo, a uzdraven bude služebník můj."
+        },
+        {
+          "number": 9,
+          "text": "Nebo i já jsem člověk moci poddaný, maje pod sebou žoldnéře, avšak dím-li tomuto: Jdi, tedy jde, a jinému: Přijď, a přijde, a služebníku svému: Učiň toto, a učiní."
+        },
+        {
+          "number": 10,
+          "text": "Tedy uslyšev to Ježíš, podivil se, a jdoucím za sebou řekl: Amen pravím vám, ani v Izraeli tak veliké víry jsem nenalezl."
+        },
+        {
+          "number": 11,
+          "text": "Pravím pak vám, žeť přijdou mnozí od východu i od západu, a stoliti budou s Abrahamem, s Izákem a s Jákobem v království nebeském,"
+        },
+        {
+          "number": 12,
+          "text": "Ale synové království vyvrženi budou do temností zevnitřních. Tamť bude pláč a škřipení zubů."
+        },
+        {
+          "number": 13,
+          "text": "I řekl Ježíš setníkovi: Jdiž, a jakžs uvěřil, staň se tobě. I uzdraven jest služebník jeho v tu hodinu."
+        },
+        {
+          "number": 14,
+          "text": "A přišed Ježíš do domu Petrova, uzřel svegruši jeho, ana leží a má zimnici."
+        },
+        {
+          "number": 15,
+          "text": "I dotekl se ruky její, a hned přestala jí zimnice. I vstala a posluhovala jim."
+        },
+        {
+          "number": 16,
+          "text": "A když byl večer, přivedli k němu mnohé, kteříž ďábelství měli, a on vymítal duchy zlé slovem, a všecky, kteříž se zle měli, uzdravil,"
+        },
+        {
+          "number": 17,
+          "text": "Aby se naplnilo povědění skrze Izaiáše proroka, řkoucího: Onť jest vzal na se mdloby naše, a neduhy naše nesl."
+        },
+        {
+          "number": 18,
+          "text": "Vida pak Ježíš zástupy mnohé okolo sebe, kázal přeplaviti se na druhou stranu."
+        },
+        {
+          "number": 19,
+          "text": "A přistoupiv jeden zákoník, řekl jemu: Mistře, půjdu za tebou, kamžkoli půjdeš."
+        },
+        {
+          "number": 20,
+          "text": "I dí mu Ježíš: Lišky doupata mají, a ptactvo nebeské hnízda, ale Syn člověka nemá, kde by hlavu sklonil."
+        },
+        {
+          "number": 21,
+          "text": "Jiný pak z učedlníků jeho řekl jemu: Pane, dopusť mi prve odjíti a pochovati otce mého."
+        },
+        {
+          "number": 22,
+          "text": "Ale Ježíš řekl jemu: Pojď za mnou, a nech, ať tam mrtví pochovávají mrtvé své."
+        },
+        {
+          "number": 23,
+          "text": "A když vstoupil na lodí, vstoupili za ním i učedlníci jeho."
+        },
+        {
+          "number": 24,
+          "text": "A aj, bouře veliká stala se jest na moři, takže vlny přikrývaly lodí. On pak spal."
+        },
+        {
+          "number": 25,
+          "text": "A přistoupivše učedlníci jeho, zbudili jej, řkouce: Pane, zachovej nás, hynemeť."
+        },
+        {
+          "number": 26,
+          "text": "I dí jim: Proč se bojíte, ó malé víry? Tedy vstav, přimluvil větrům a moři, i stalo se utišení veliké."
+        },
+        {
+          "number": 27,
+          "text": "Lidé pak divili se, řkouce: Kteraký jest tento, že ho i větrové i moře poslouchají?"
+        },
+        {
+          "number": 28,
+          "text": "A když se přeplavil na druhou stranu do krajiny Gergezenských, potkali se s ním dva ďábelníci z hrobu vyšlí, ukrutní náramně, takže pro ně žádný nemohl tou cestou choditi."
+        },
+        {
+          "number": 29,
+          "text": "A aj, zkřikli, řkouce: Co je nám po tobě, Ježíši, Synu Boží? Přišel jsi sem před časem trápiti nás."
+        },
+        {
+          "number": 30,
+          "text": "A bylo opodál od nich stádo veliké vepřů, pasoucích se."
+        },
+        {
+          "number": 31,
+          "text": "Ïáblové pak prosili ho, řkouce: Poněvadž nás vymítáš, dopustiž nám vjíti do toho stáda vepřů."
+        },
+        {
+          "number": 32,
+          "text": "I řekl jim: Jděte. A oni vyšedše, vešli do stáda těch vepřů. A aj, hnalo se všecko stádo těch vepřů s vrchu dolů do moře, i ztonuli v vodách."
+        },
+        {
+          "number": 33,
+          "text": "Pastýři pak utekli. A přišedše do města, vypravovali to všecko, i o těch ďábelnících."
+        },
+        {
+          "number": 34,
+          "text": "A aj, všecko město vyšlo v cestu Ježíšovi, a uzřevše ho, prosili, aby šel z končin jejich."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A vstoupiv na lodí, přeplavil se, a přišel do města svého."
+        },
+        {
+          "number": 2,
+          "text": "A aj, přinesli mu šlakem poraženého, ležícího na loži. A viděv Ježíš víru jejich, dí šlakem poraženému: Doufej, synu, odpuštěniť jsou tobě hříchové tvoji."
+        },
+        {
+          "number": 3,
+          "text": "A aj, někteří z zákoníků řekli sami v sobě: Tento se rouhá."
+        },
+        {
+          "number": 4,
+          "text": "A viděv Ježíš myšlení jejich, řekl: Proč vy myslíte zlé věci v srdcích vašich?"
+        },
+        {
+          "number": 5,
+          "text": "Nebo co jest snáze říci, to-li: Odpouštějí se tobě hříchové? čili říci: Vstaň a choď?"
+        },
+        {
+          "number": 6,
+          "text": "Ale abyste věděli, žeť má moc Syn člověka na zemi odpouštěti hříchy, tedy dí šlakem poraženému: Vstaň, vezmi lože své, a jdi do domu svého."
+        },
+        {
+          "number": 7,
+          "text": "Tedy vstal a odšel do domu svého."
+        },
+        {
+          "number": 8,
+          "text": "A vidouce to zástupové, divili se a velebili Boha, kterýž dal takovou moc lidem."
+        },
+        {
+          "number": 9,
+          "text": "A jda odtud Ježíš, uzřel člověka sedícího na cle, jménem Matouše. I dí mu: Pojď za mnou. A on vstav, šel za ním."
+        },
+        {
+          "number": 10,
+          "text": "I stalo se, když seděl za stolem v domu jeho, a aj, mnozí celní a hříšníci přišedše, stolili s Ježíšem a s učedlníky jeho."
+        },
+        {
+          "number": 11,
+          "text": "A vidouce to farizeové, řekli učedlníkům jeho: Proč s celnými a hříšníky jí Mistr váš?"
+        },
+        {
+          "number": 12,
+          "text": "Ježíš pak uslyšev to, řekl jim: Nepotřebujíť zdraví lékaře, ale nemocní."
+        },
+        {
+          "number": 13,
+          "text": "Jděte vy raději a učte se, co jest to: Milosrdenství chci a ne oběti. Nebo nepřišel jsem volati spravedlivých, ale hříšných ku pokání."
+        },
+        {
+          "number": 14,
+          "text": "Tehdy přistoupili k němu učedlníci Janovi, řkouce: Proč my a farizeové postíme se často, učedlníci pak tvoji se nepostí?"
+        },
+        {
+          "number": 15,
+          "text": "I řekl jim Ježíš: Zdaliž mohou synové Ženichovi rmoutiti se, dokudž s nimi jest Ženich? Ale přijdou dnové, když bude od nich odjat Ženich, a tehdyť se budou postiti."
+        },
+        {
+          "number": 16,
+          "text": "Žádný zajisté nepřišívá záplaty sukna nového k rouchu vetchému; nebo ta záplata jeho odtrhla by ještě nějaký díl od roucha, a tak větší by díra byla."
+        },
+        {
+          "number": 17,
+          "text": "Aniž lejí vína nového do nádob starých; sic jinak rozpuknou se sudové, a víno se vyleje, a sudové se zkazí. Ale víno nové lejí do nových nádob, a bývá obé zachováno."
+        },
+        {
+          "number": 18,
+          "text": "A když on toto k nim mluvil, aj, kníže jedno přistoupilo a klanělo se jemu, řka: Pane dcera má nyní umřela. Ale pojď, vlož na ni ruku svou, a budeť živa."
+        },
+        {
+          "number": 19,
+          "text": "A vstav Ježíš, šel za ním, i učedlníci jeho."
+        },
+        {
+          "number": 20,
+          "text": "(A aj, žena, kteráž nemocí svou trápena byla ode dvanácti let, přistoupivši pozadu, dotkla se podolka roucha jeho."
+        },
+        {
+          "number": 21,
+          "text": "Nebo řekla sama v sobě: Dotknu-li se jen toliko roucha jeho, uzdravena budu."
+        },
+        {
+          "number": 22,
+          "text": "Ježíš pak obrátiv se a uzřev ji, řekl: Doufej, dcero, víra tvá tě uzdravila. A zdráva učiněna jest žena od té chvíle.)"
+        },
+        {
+          "number": 23,
+          "text": "Přišed pak Ježíš do domu knížete, a uzřev tu trubače a zástup hlučící,"
+        },
+        {
+          "number": 24,
+          "text": "Řekl jim: Odejdětež; nebť neumřela děvečka, ale spí. I posmívali se jemu."
+        },
+        {
+          "number": 25,
+          "text": "A když byl vyhnán zástup, všed tam, ujal ji za ruku její; i vstala jest děvečka."
+        },
+        {
+          "number": 26,
+          "text": "A roznesla se pověst ta po vší té zemi."
+        },
+        {
+          "number": 27,
+          "text": "A když šel odtud Ježíš, šli za ním dva slepí, volajíce a řkouce: Smiluj se nad námi, Synu Davidův."
+        },
+        {
+          "number": 28,
+          "text": "A když všel do domu, přistoupili k němu ti slepí. I dí jim Ježíš: Věříte-li, že to mohu učiniti? Řekli jemu: Ovšem, Pane."
+        },
+        {
+          "number": 29,
+          "text": "Tedy dotekl se očí jejich, řka: Podle víry vaší staniž se vám."
+        },
+        {
+          "number": 30,
+          "text": "I otevříny jsou oči jejich. Zapověděl jim pak tuze Ježíš, řka: Viztež, ať nižádný o tom nezví."
+        },
+        {
+          "number": 31,
+          "text": "Ale oni vyšedše, rozhlásali jej po vší té zemi."
+        },
+        {
+          "number": 32,
+          "text": "A když oni vycházeli, aj, přivedli mu člověka němého, majícího ďábelství."
+        },
+        {
+          "number": 33,
+          "text": "A když vyvrhl ďábelství, mluvil jest němý. I divili se zástupové, řkouce: Že nikdy se nic takového neukázalo v lidu Izraelském."
+        },
+        {
+          "number": 34,
+          "text": "Farizeové pak pravili: Mocí knížete ďábelského vymítá ďábly."
+        },
+        {
+          "number": 35,
+          "text": "I obcházel Ježíš všecka města i městečka, uče v školách jejich a káže evangelium království, a uzdravuje všelikou nemoc i všeliký neduh v lidu."
+        },
+        {
+          "number": 36,
+          "text": "A když hleděl na zástupy, slitovalo se mu jich, že byli tak opuštěni a rozptýleni jako ovce, nemajíce pastýře."
+        },
+        {
+          "number": 37,
+          "text": "Tedy dí učedlníkům svým: Žeň zajisté jest mnohá, ale dělníků málo."
+        },
+        {
+          "number": 38,
+          "text": "Protož proste Pána žni, ať vypudí dělníky na žeň svou."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A svolav k sobě dvanácte učedlníků svých, dal jim moc nad duchy nečistými, aby je vymítali, a aby uzdravovali všelikou nemoc, i všeliký neduh."
+        },
+        {
+          "number": 2,
+          "text": "Dvanácti pak apoštolů jména jsou tato: První Šimon, jenž slove Petr, a Ondřej bratr jeho, Jakub Zebedeův a Jan bratr jeho,"
+        },
+        {
+          "number": 3,
+          "text": "Filip a Bartoloměj, Tomáš a Matouš, jenž byl celný, Jakub Alfeův a Lebbeus, přijmím Thaddeus,"
+        },
+        {
+          "number": 4,
+          "text": "Šimon Kananitský a Jidáš Iškariotský, kterýž i zradil ho."
+        },
+        {
+          "number": 5,
+          "text": "Těch dvanácte poslal Ježíš, přikazuje jim, řka: Na cestu pohanů nechoďte, a do měst Samaritánských nevcházejte."
+        },
+        {
+          "number": 6,
+          "text": "Ale raději jděte k ovcem zahynulým z domu Izraelského."
+        },
+        {
+          "number": 7,
+          "text": "Jdouce pak, kažte, řkouce: Že se přiblížilo království nebeské."
+        },
+        {
+          "number": 8,
+          "text": "Nemocné uzdravujte, malomocné čisťte, mrtvé křeste, ďábelství vymítejte; darmo jste vzali, darmo dejte."
+        },
+        {
+          "number": 9,
+          "text": "Neshromažďujte zlata ani stříbra, ani peněz v opascích vašich mívejte,"
+        },
+        {
+          "number": 10,
+          "text": "Ani mošny na cestě, ani dvou sukní, ani obuvi, ani hůlky; hodenť jest zajisté dělník pokrmu svého."
+        },
+        {
+          "number": 11,
+          "text": "A do kteréhožkoli města neb městečka vešli byste, vzeptejte se, kdo by v něm hodný byl, a tu pobuďte, až byste i vyšli odtud."
+        },
+        {
+          "number": 12,
+          "text": "A vcházejíce do domu, pozdravtež ho."
+        },
+        {
+          "number": 13,
+          "text": "A jestližeť bude dům ten hodný, pokoj váš přijdiž naň; pakliť by nebyl hodný, pokoj váš navratiž se k vám."
+        },
+        {
+          "number": 14,
+          "text": "A kdožkoli nepřijal by vás, a neuposlechl by řečí vašich, vyjdouce ven z domu neb z města toho, vyraztež prach z noh vašich."
+        },
+        {
+          "number": 15,
+          "text": "Amen pravím vám: Lehčeji bude zemi Sodomských a Gomorských v den soudný nežli městu tomu."
+        },
+        {
+          "number": 16,
+          "text": "Aj, já posílám vás jako ovce mezi vlky; protož buďte opatrní jako hadové, a sprostní jako holubice."
+        },
+        {
+          "number": 17,
+          "text": "Vystříhejtež se pak lidí; nebť vás vydávati budou do sněmů, a v školách svých budou vás bičovati."
+        },
+        {
+          "number": 18,
+          "text": "Ano i před vladaře i před krále vedeni budete pro mne, na svědectví jim, i těm národům."
+        },
+        {
+          "number": 19,
+          "text": "Kdyžť pak vás vydadí, nebuďtež pečliví, kterak aneb co byste mluvili; dánoť bude zajisté vám v tu hodinu, co budete míti mluviti."
+        },
+        {
+          "number": 20,
+          "text": "Nebo ne vy jste, jenž mluvíte, ale duch Otce vašeho, jenž mluví v vás."
+        },
+        {
+          "number": 21,
+          "text": "Vydáť pak bratr bratra na smrt, i otec syna, a povstanouť dítky proti rodičům, a zmordují je."
+        },
+        {
+          "number": 22,
+          "text": "A budete v nenávisti všechněm pro jméno mé, ale kdož setrvá až do konce, tenť spasen bude."
+        },
+        {
+          "number": 23,
+          "text": "Když se pak vám budou protiviti v tom městě, utecte do jiného. Amen zajisté pravím vám, nezchodíte měst Izraelských, ažť přijde Syn člověka."
+        },
+        {
+          "number": 24,
+          "text": "Neníť učedlník nad mistra, ani služebník nad pána svého."
+        },
+        {
+          "number": 25,
+          "text": "Dostiť jest učedlníku, aby byl jako mistr jeho, a služebník jako pán jeho. Poněvadž jsou hospodáře Belzebubem nazývali, čím pak více domácí jeho?"
+        },
+        {
+          "number": 26,
+          "text": "Protož nebojte se jich; nebť není nic skrytého, což by nemělo býti zjeveno, ani co tajného, ješto by nemělo zvědíno býti."
+        },
+        {
+          "number": 27,
+          "text": "Což vám pravím ve tmách, pravte na světle, a co v uši slyšíte, hlásejte na domích."
+        },
+        {
+          "number": 28,
+          "text": "A nebojte se těch, kteříž zabíjejí tělo, ale duše nemohou zabíti; než bojte se raději toho, kterýž může i duši i tělo zatratiti v pekelném ohni."
+        },
+        {
+          "number": 29,
+          "text": "Zdaliž neprodávají dvou vrabců za malý peníz? a jeden z nich nepadá na zem bez vůle Otce vašeho."
+        },
+        {
+          "number": 30,
+          "text": "Vaši pak i vlasové na hlavě všickni sečteni jsou."
+        },
+        {
+          "number": 31,
+          "text": "Protož nebojte se, mnohých vrabců dražší jste vy."
+        },
+        {
+          "number": 32,
+          "text": "Kdožkoli tedy vyzná mne před lidmi, vyznámť i já jej před Otcem svým, jenž jest v nebesích."
+        },
+        {
+          "number": 33,
+          "text": "Ale kdož by mne zapřel před lidmi, zapřímť ho i já před Otcem svým, kterýž jest v nebesích."
+        },
+        {
+          "number": 34,
+          "text": "Nedomnívejte se, že bych přišel pokoj dáti na zemi. Nepřišelť jsem, abych pokoj uvedl, ale meč."
+        },
+        {
+          "number": 35,
+          "text": "Přišelť jsem zajisté, abych rozdělil člověka proti otci jeho, a dceru proti mateři její, a nevěstu proti svegruši její."
+        },
+        {
+          "number": 36,
+          "text": "A nepřátelé člověka budou domácí jeho."
+        },
+        {
+          "number": 37,
+          "text": "Kdo miluje otce neb matku více nežli mne, neníť mne hoden; a kdož miluje syna nebo dceru více nežli mne, neníť mne hoden."
+        },
+        {
+          "number": 38,
+          "text": "A kdož nebéře kříže svého a nenásleduje mne, neníť mne hoden."
+        },
+        {
+          "number": 39,
+          "text": "Kdož nalezne duši svou, ztratíť ji; a kdo by ztratil duši svou pro mne, nalezneť ji."
+        },
+        {
+          "number": 40,
+          "text": "Kdož vás přijímá, mneť přijímá; a kdo mne přijímá, přijímáť toho, kterýž mne poslal."
+        },
+        {
+          "number": 41,
+          "text": "Kdo přijímá proroka ve jménu proroka, odplatu proroka vezme; a kdož přijímá spravedlivého ve jménu spravedlivého, odplatu spravedlivého vezme."
+        },
+        {
+          "number": 42,
+          "text": "A kdož by koli dal jednomu z těchto nejmenších číši vody studené k nápoji, toliko ve jménu učedlníka, zajisté pravím vám, neztratíť odplaty své."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stalo se, když dokonal Ježíš řeči své, kteréž mluvil, přikázání dávaje dvanácti učedlníkům svým, bral se odtud, aby učil a kázal v městech jejich."
+        },
+        {
+          "number": 2,
+          "text": "Jan pak v vězení uslyšev o skutcích Kristových, poslal dva z učedlníků svých,"
+        },
+        {
+          "number": 3,
+          "text": "A řekl jemu: Ty-li jsi ten, kterýž přijíti má, čili jiného čekati máme?"
+        },
+        {
+          "number": 4,
+          "text": "I odpovídaje Ježíš, řekl jim: Jdouce, zvěstujtež Janovi, co slyšíte a vidíte:"
+        },
+        {
+          "number": 5,
+          "text": "Slepí vidí, a kulhaví chodí, malomocní se čistí, a hluší slyší, mrtví z mrtvých vstávají, chudým pak evangelium se zvěstuje."
+        },
+        {
+          "number": 6,
+          "text": "A blahoslavený jest, kdož se nehorší na mně."
+        },
+        {
+          "number": 7,
+          "text": "A když oni odešli, počal Ježíš praviti zástupům o Janovi: Co jste vyšli na poušť viděti? Zdali třtinu větrem se klátící?"
+        },
+        {
+          "number": 8,
+          "text": "Aneb co jste vyšli viděti? Zda člověka měkkým rouchem oděného? Aj, kteříž se měkkým rouchem odívají, v domích královských jsou."
+        },
+        {
+          "number": 9,
+          "text": "Aneb co jste vyšli viděti? Proroka-li? Jistě pravím vám, i více nežli proroka."
+        },
+        {
+          "number": 10,
+          "text": "Tentoť jest zajisté, o němž psáno: Aj, já posílám anděla svého před tváří tvou, kterýžto připraví cestu tvou před tebou."
+        },
+        {
+          "number": 11,
+          "text": "Amen pravím vám, mezi syny ženskými nepovstal větší nad Jana Křtitele; ale kdo jest menší v království nebeském, jestiť větší nežli on."
+        },
+        {
+          "number": 12,
+          "text": "Ode dnů pak Jana Křtitele až dosavad království nebeské násilí trpí, a ti, kteříž násilí činí, uchvacujíť je."
+        },
+        {
+          "number": 13,
+          "text": "Nebo všickni Proroci i Zákon až do Jana prorokovali."
+        },
+        {
+          "number": 14,
+          "text": "A chcete-li přijmouti: Onť jest Eliáš, kterýž přijíti měl."
+        },
+        {
+          "number": 15,
+          "text": "Kdo má uši k slyšení, slyš."
+        },
+        {
+          "number": 16,
+          "text": "Ale k komu připodobním pokolení toto? Podobno jest dětem, sedícím na ryncích, a kteříž na tovaryše své volají,"
+        },
+        {
+          "number": 17,
+          "text": "A říkají: Pískali jsme vám, a neskákali jste; žalostně jsme naříkali, a neplakali jste."
+        },
+        {
+          "number": 18,
+          "text": "Přišel zajisté Jan, nejeda ani pije, a oni řkou: Ïábelství má."
+        },
+        {
+          "number": 19,
+          "text": "Přišel Syn člověka, jeda a pije, a oni řkou: Aj, člověk žráč a pijan vína, přítel publikánů a hříšníků. Ale ospravedlněna jest moudrost od synů svých."
+        },
+        {
+          "number": 20,
+          "text": "Tehdy počal přimlouvati městům, v nichžto činěni jsou jeho mnozí divové, že pokání nečinili."
+        },
+        {
+          "number": 21,
+          "text": "Běda tobě Korozaim, běda tobě Betsaido. Nebo kdyby v Týru a Sidonu byli činěni divové ti, kteříž jsou činěni v vás, dávno by byli v žíni a v popele pokání činili."
+        },
+        {
+          "number": 22,
+          "text": "Nýbrž pravím vám, že Týru a Sidonu lehčeji bude v den soudný nežli vám."
+        },
+        {
+          "number": 23,
+          "text": "A ty Kafarnaum, kteréž jsi až k nebi vyvýšeno, až do pekla sstrčeno budeš. Nebo kdyby v Sodomě činěni byli divové ti, kteříž jsou činěni v tobě, byliť by zůstali až do dnešního dne."
+        },
+        {
+          "number": 24,
+          "text": "Ano více pravím vám, že zemi Sodomských lehčeji bude v den soudný nežli tobě."
+        },
+        {
+          "number": 25,
+          "text": "V ten čas odpověděv Ježíš, řekl: Chválím tě, Otče, Pane nebe i země, že jsi skryl tyto věci před moudrými a opatrnými, a zjevil jsi je maličkým."
+        },
+        {
+          "number": 26,
+          "text": "Jistě, Otče, že se tak líbilo před tebou."
+        },
+        {
+          "number": 27,
+          "text": "Všecky věci dány jsou mi od Otce mého, a žádnýť nezná Syna, jediné Otec, aniž Otce kdo zná, jediné Syn, a komuž by chtěl Syn zjeviti."
+        },
+        {
+          "number": 28,
+          "text": "Pojdtež ke mně všickni, kteříž pracujete a obtíženi jste, a já vám odpočinutí dám."
+        },
+        {
+          "number": 29,
+          "text": "Vezměte jho mé na se, a učte se ode mne, neboť jsem tichý a pokorný srdcem, a naleznete odpočinutí dušem vašim."
+        },
+        {
+          "number": 30,
+          "text": "Jho mé zajisté jestiť rozkošné, a břímě mé lehké."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "V ten čas šel Ježíš v den sváteční skrze obilí, a učedlníci jeho lačni jsouce, počali vymínati klasy a jísti."
+        },
+        {
+          "number": 2,
+          "text": "Farizeové pak vidouce to, řekli jemu: Hle, učedlníci tvoji činí to, čehož nesluší činiti v den sváteční."
+        },
+        {
+          "number": 3,
+          "text": "On pak řekl jim: Co jste nečtli, co jest učinil David, když lačněl, on i ti, kteříž s ním byli?"
+        },
+        {
+          "number": 4,
+          "text": "Kterak všel do domu Božího a chleby posvátné jedl, kterýchžto jemu neslušelo jísti, ani těm, kteříž s ním byli, než toliko samým kněžím?"
+        },
+        {
+          "number": 5,
+          "text": "Anebo zdali jste nečtli v Zákoně, že kněží ve dny sváteční v chrámě svátek ruší, a jsou bez hříchu?"
+        },
+        {
+          "number": 6,
+          "text": "Ale pravímť vám, žeť větší jest tuto nežli chrám."
+        },
+        {
+          "number": 7,
+          "text": "Než kdybyste věděli, co je to: Milosrdenství chci a ne oběti, neodsuzovali byste nevinných."
+        },
+        {
+          "number": 8,
+          "text": "Syn zajisté člověka jestiť pánem i dne svátečního."
+        },
+        {
+          "number": 9,
+          "text": "A poodšed odtud Ježíš, přišel do školy jejich."
+        },
+        {
+          "number": 10,
+          "text": "A aj, byl tu člověk, maje ruku uschlou. I tázali se ho, řkouce: Sluší-li v den sváteční uzdravovati? aby jej obžalovali."
+        },
+        {
+          "number": 11,
+          "text": "On pak dí jim: Který bude z vás člověk, ješto by měl ovci jednu, a kdyby ta upadla do jámy v den sváteční, i zdaliž dosáhna nevytáhne jí?"
+        },
+        {
+          "number": 12,
+          "text": "A čím lepší jest člověk nežli ovce? A protož slušíť v den sváteční dobře činiti."
+        },
+        {
+          "number": 13,
+          "text": "Tedy řekl člověku tomu: Vztáhni ruku svou. I vztáhl, a učiněna jest zdravá jako i druhá."
+        },
+        {
+          "number": 14,
+          "text": "Farizeové pak vyšedše, drželi radu proti němu, kterak by jej zahladili."
+        },
+        {
+          "number": 15,
+          "text": "A věda to Ježíš, šel odtud. I šli za ním zástupové mnozí, a uzdravil je všecky."
+        },
+        {
+          "number": 16,
+          "text": "A s pohrůžkou přikázal jim, aby ho nezjevovali,"
+        },
+        {
+          "number": 17,
+          "text": "Aby se naplnilo povědění skrze Izaiáše proroka, řkoucího:"
+        },
+        {
+          "number": 18,
+          "text": "Aj, služebník můj, kteréhož jsem vyvolil, milý můj, v němž se dobře zalíbilo duši mé. Položím Ducha svého na něj, a soud národům zvěstovati bude."
+        },
+        {
+          "number": 19,
+          "text": "Nebude se vaditi, ani křičeti, ani kdo na ulicích uslyší hlas jeho."
+        },
+        {
+          "number": 20,
+          "text": "Třtiny nalomené nedolomí, a lnu kouřícího se neuhasí, až i vypoví soud k vítězství."
+        },
+        {
+          "number": 21,
+          "text": "A ve jménu jeho národové doufati budou."
+        },
+        {
+          "number": 22,
+          "text": "Tedy podán jemu ďábelstvím posedlý, slepý a němý. I uzdravil jej, takže ten byv slepý a němý, i mluvil i viděl."
+        },
+        {
+          "number": 23,
+          "text": "I divili se všickni zástupové a pravili: Není-liž tento Syn Davidův?"
+        },
+        {
+          "number": 24,
+          "text": "Ale farizeové to uslyševše, řekli: Tento nevymítá ďáblů než Belzebubem, knížetem ďábelským."
+        },
+        {
+          "number": 25,
+          "text": "Ježíš pak znaje myšlení jejich, dí jim: Každé království rozdělené samo v sobě zpustne, a každé město neb dům proti sobě rozdělený nestane."
+        },
+        {
+          "number": 26,
+          "text": "A jestližeť satan satana vymítá, proti sobě rozdělen jest. Kterak tedy stane království jeho?"
+        },
+        {
+          "number": 27,
+          "text": "A vymítám-liť já ďábly v Belzebubu, synové vaši v kom vymítají? Protož oni soudcové vaši budou."
+        },
+        {
+          "number": 28,
+          "text": "Pakliť já Duchem Božím ďábly vymítám, jistě přišlo jest mezi vás království Boží."
+        },
+        {
+          "number": 29,
+          "text": "Aneb kterak kdo může do domu silného reka vjíti a jeho nádobí pobrati, leč by prve svázal toho silného, a teprvť by dům jeho obloupiti mohl?"
+        },
+        {
+          "number": 30,
+          "text": "Kdož není se mnou, proti mně jest; a kdo neshromažďuje se mnou, rozptylujeť."
+        },
+        {
+          "number": 31,
+          "text": "Protož pravím vám: Všeliký hřích i rouhání bude lidem odpuštěno, ale rouhání proti Duchu svatému nebude odpuštěno lidem."
+        },
+        {
+          "number": 32,
+          "text": "A kdyby kdo řekl slovo proti Synu člověka, bude jemu odpuštěno, ale kdož by mluvil proti Duchu svatému, nebude jemu odpuštěno, ani na tomto světě, ani na budoucím."
+        },
+        {
+          "number": 33,
+          "text": "A protož nebo čiňte strom dobrý, a ovoce jeho dobré; anebo čiňte strom zlý, a ovoce jeho zlé. Neboť po ovoci strom bývá poznán."
+        },
+        {
+          "number": 34,
+          "text": "Pokolení ještěrčí, kterakž můžete dobré věci mluviti, jsouce zlí? Nebo z hojnosti srdce ústa mluví."
+        },
+        {
+          "number": 35,
+          "text": "Dobrý člověk z dobrého pokladu srdce vynáší dobré, a zlý člověk ze zlého pokladu vynáší zlé."
+        },
+        {
+          "number": 36,
+          "text": "Ale pravím vám, že z každého slova prázdného, kteréž mluviti budou lidé, vydadí počet v den soudný."
+        },
+        {
+          "number": 37,
+          "text": "Nebo z slov svých spravedliv budeš učiněn, a z řečí tvých budeš odsouzen."
+        },
+        {
+          "number": 38,
+          "text": "Tehdy odpověděli někteří z zákoníků a farizeů, řkouce: Mistře, chceme od tebe znamení viděti."
+        },
+        {
+          "number": 39,
+          "text": "On pak odpovídaje, dí jim: Pokolení zlé a cizoložné znamení hledá, a znamení nebude jemu dáno, jediné znamení Jonáše proroka."
+        },
+        {
+          "number": 40,
+          "text": "Nebo jakož byl Jonáš v břiše velryba tři dni a tři noci, takť bude Syn člověka v srdci země tři dni a tři noci."
+        },
+        {
+          "number": 41,
+          "text": "Muži Ninivitští stanou na soudu s pokolením tímto, a odsoudí je, protože pokání činili k Jonášovu kázání, a aj, víceť jest nežli Jonáš tuto."
+        },
+        {
+          "number": 42,
+          "text": "Královna od poledne povstane k soudu s pokolením tímto, a odsoudí je; nebo přijela od končin země, aby slyšela moudrost Šalomounovu, a aj, víceť jest tuto nežli Šalomoun."
+        },
+        {
+          "number": 43,
+          "text": "Když pak nečistý duch vyjde od člověka, chodí po místech suchých, hledaje odpočinutí, ale nenalézaje, dí:"
+        },
+        {
+          "number": 44,
+          "text": "Navrátím se do domu svého, odkudž jsem vyšel. A přijda, nalezne prázdný, vyčištěný a ozdobený."
+        },
+        {
+          "number": 45,
+          "text": "Tedy jde a vezme s sebou sedm jiných duchů horších, a vejdouce, přebývají tam, i bývají poslední věci člověka toho horší nežli první. Takť bude i tomuto zlému pokolení."
+        },
+        {
+          "number": 46,
+          "text": "A když on ještě mluvil k zástupům, aj, matka a bratří jeho stáli vně, žádajíce s ním promluviti."
+        },
+        {
+          "number": 47,
+          "text": "I řekl jemu jeden: Aj, matka tvá i bratří tvoji stojí vně, chtíce s tebou mluviti."
+        },
+        {
+          "number": 48,
+          "text": "On pak odpovídaje, řekl tomu, kterýž k němu byl promluvil: Kdo jest matka má? A kdo jsou bratří moji?"
+        },
+        {
+          "number": 49,
+          "text": "A vztáhna ruku svou na učedlníky své, i řekl: Aj, matka má i bratří moji."
+        },
+        {
+          "number": 50,
+          "text": "Nebo kdož by činil vůli Otce mého nebeského, tenť jest bratr můj, i sestra má, i matka má."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A v ten den vyšed Ježíš z domu, sedl podle moře."
+        },
+        {
+          "number": 2,
+          "text": "I sešli se k němu zástupové mnozí, takže vstoupiv na lodí, seděl, všecken pak zástup stál na břehu."
+        },
+        {
+          "number": 3,
+          "text": "I mluvil jim mnoho v podobenstvích, řka: Aj, vyšel rozsevač, aby rozsíval."
+        },
+        {
+          "number": 4,
+          "text": "A když on rozsíval, některá seménka padla podle cesty, a přiletěli ptáci, i szobali je."
+        },
+        {
+          "number": 5,
+          "text": "Jiná pak padla na místa skalnatá, kdežto neměla mnoho země; a rychle vzešla, protože neměla hlubokosti země."
+        },
+        {
+          "number": 6,
+          "text": "Ale když slunce vzešlo, uvadla, a že neměla kořene, uschla."
+        },
+        {
+          "number": 7,
+          "text": "Jiná pak padla v trní; i vzrostlo trní, a udusilo je."
+        },
+        {
+          "number": 8,
+          "text": "A jiná padla v zemi dobrou; i vydalo užitek, některé stý, jiné šedesátý a jiné třidcátý."
+        },
+        {
+          "number": 9,
+          "text": "Kdo má uši k slyšení, slyš."
+        },
+        {
+          "number": 10,
+          "text": "Tedy přistoupivše učedlníci, řekli jemu: Proč jim v podobenstvích mluvíš?"
+        },
+        {
+          "number": 11,
+          "text": "On pak odpověděv, řekl jim: Nebo vám dáno jest znáti tajemství království nebeského, ale jim není dáno."
+        },
+        {
+          "number": 12,
+          "text": "(Nebo kdož má, bude jemu dáno a rozhojníť se; ale kdož nemá, i to, což má, bude od něho odjato.)"
+        },
+        {
+          "number": 13,
+          "text": "Protoť v podobenstvích mluvím jim, že vidouce nevidí, a slyšíce neslyší, ani rozumějí."
+        },
+        {
+          "number": 14,
+          "text": "A plní se na nich proroctví Izaiáše, řkoucí: Ušima uslyšíte, ale nesrozumíte; a hledíce, hleděti budete, ale neuzříte."
+        },
+        {
+          "number": 15,
+          "text": "Nebo ztučnělo jest srdce lidu tohoto, a ušima těžce slyšeli a oči své zamhouřili, aby snad někdy neuzřeli očima a ušima neslyšeli a srdcem nesrozuměli, a neobrátili se, a já abych jich neuzdravil."
+        },
+        {
+          "number": 16,
+          "text": "Ale oči vaše blahoslavené jsou, že vidí, i uši vaše, že slyší."
+        },
+        {
+          "number": 17,
+          "text": "Amen zajisté pravím vám, že mnozí proroci a spravedliví žádali viděti to, což vy vidíte, a neviděli, a slyšeti to, což vy slyšíte, a neslyšeli."
+        },
+        {
+          "number": 18,
+          "text": "Vy tedy slyšte podobenství rozsevače."
+        },
+        {
+          "number": 19,
+          "text": "Každý, kdož slyší slovo království a nerozumí, přichází ten zlý a uchvacuje to, což jest vsáto v srdce jeho. To jest ten, kterýž podle cesty vsát jest."
+        },
+        {
+          "number": 20,
+          "text": "Ale v skalnatou zemi vsátý, ten jest, kterýž slyší slovo, a hned je s radostí přijímá."
+        },
+        {
+          "number": 21,
+          "text": "Než nemá v sobě kořene, ale jest časný, a když přichází soužení nebo protivenství pro slovo, hned se horší."
+        },
+        {
+          "number": 22,
+          "text": "Ale mezi trní vsátý, ten jest, kterýž slyší slovo Boží, ale pečování tohoto světa a oklamání zboží udušuje slovo, i bývá učiněno bez užitku."
+        },
+        {
+          "number": 23,
+          "text": "V dobrou pak zemi vsátý, ten jest, kterýž slyší slovo a rozumí, i ovoce nese a vydává, některé zajisté stý, a jiné šedesátý, jiné pak třidcátý."
+        },
+        {
+          "number": 24,
+          "text": "Jiné podobenství předložil jim, řka: Podobno jest království nebeské člověku, rozsívajícímu dobré semeno na poli svém."
+        },
+        {
+          "number": 25,
+          "text": "Když pak lidé zesnuli, přišel nepřítel jeho a nasál koukole mezi pšenici a odšel."
+        },
+        {
+          "number": 26,
+          "text": "A když vzrostla bylina a užitek přinesla, tedy ukázal se i koukol."
+        },
+        {
+          "number": 27,
+          "text": "I přistoupivše služebníci hospodáře toho, řekli jemu: Pane, všaks dobrého semene nasál na poli svém, kdeže se pak vzal koukol?"
+        },
+        {
+          "number": 28,
+          "text": "A on řekl jim: Nepřítel člověk to učinil. Služebníci pak řekli mu: Chceš-liž, tedy půjdeme a vytrháme jej?"
+        },
+        {
+          "number": 29,
+          "text": "On pak odpověděl: Nikoli, abyste trhajíce koukol, spolu s ním nevytrhali pšenice."
+        },
+        {
+          "number": 30,
+          "text": "Nechte, ať obé spolu roste až do žni. A v čas žni dím žencům: Vytrhejte nejprv koukol a svažte jej v snopky k spálení, ale pšenici shromažďte do stodoly mé."
+        },
+        {
+          "number": 31,
+          "text": "Jiné podobenství předložil jim, řka: Podobno jest království nebeské zrnu horčičnému, kteréž vzav člověk, vsál na poli svém."
+        },
+        {
+          "number": 32,
+          "text": "Kteréžto zajisté nejmenší jest mezi všemi semeny, když pak vzroste, větší jest všech bylin, a bývá strom, takže ptactvo nebeské přiletíce, hnízda sobě dělají na ratolestech jeho."
+        },
+        {
+          "number": 33,
+          "text": "Jiné podobenství mluvil jim, řka: Podobno jest království nebeské kvasu, kterýž vzavši žena, zadělala ve třech měřicích mouky, až by zkysalo všecko."
+        },
+        {
+          "number": 34,
+          "text": "Toto všecko mluvil Ježíš v podobenstvích k zástupům, a bez podobenství nemluvil jim,"
+        },
+        {
+          "number": 35,
+          "text": "Aby se naplnilo povědění skrze proroka, řkoucího: Otevru v podobenstvích ústa svá, vypravovati budu skryté věci od založení světa."
+        },
+        {
+          "number": 36,
+          "text": "Tedy rozpustiv zástupy, šel do domu Ježíš. I přistoupili k němu učedlníci jeho, řkouce: Vylož nám podobenství o koukoli toho pole."
+        },
+        {
+          "number": 37,
+          "text": "On pak odpovídaje, řekl jim: Rozsevač dobrého semene jestiť Syn člověka."
+        },
+        {
+          "number": 38,
+          "text": "A pole jest tento svět, dobré pak símě jsouť synové království, ale koukol jsou synové toho zlostníka."
+        },
+        {
+          "number": 39,
+          "text": "A nepřítel, kterýž jej rozsívá, jestiť ďábel, ale žeň jest skonání světa, a ženci jsou andělé."
+        },
+        {
+          "number": 40,
+          "text": "Protož jakož vytrhávají koukol a ohněm spalují, takť bude při skonání světa tohoto."
+        },
+        {
+          "number": 41,
+          "text": "Pošle Syn člověka anděly své, i vyberouť z království jeho všecka pohoršení, i ty, kteříž činí nepravost,"
+        },
+        {
+          "number": 42,
+          "text": "A uvrhouť je do peci ohnivé. Tamť bude pláč a škřipení zubů."
+        },
+        {
+          "number": 43,
+          "text": "A tehdážť spravedliví stkvíti se budou jako slunce v království Otce svého. Kdo má uši k slyšení, slyš."
+        },
+        {
+          "number": 44,
+          "text": "Opět podobno jest království nebeské pokladu skrytému v poli, kterýž nalezna člověk, skrývá, a radostí pro něj odejde a prodá všecko, což má, a koupí pole to."
+        },
+        {
+          "number": 45,
+          "text": "Opět podobno jest království nebeské člověku kupci, hledajícímu dobrých perel."
+        },
+        {
+          "number": 46,
+          "text": "Kterýž nalezna jednu velmi drahou perlu, odšel a prodal všecko, což měl, a koupil ji."
+        },
+        {
+          "number": 47,
+          "text": "Opět podobno jest království nebeské vrši puštěné do moře a ze všelikého plodu shromažďující;"
+        },
+        {
+          "number": 48,
+          "text": "Kteroužto, když naplněna byla, vytáhše na břeh a sedíce, vybírali, což dobrého bylo, v nádoby své, a což bylo zlého, preč zamítali."
+        },
+        {
+          "number": 49,
+          "text": "Takť bude při skonání světa. Vyjdou andělé a oddělí zlé z prostředku spravedlivých,"
+        },
+        {
+          "number": 50,
+          "text": "A uvrhou je do peci ohnivé. Tamť bude pláč a škřipení zubů."
+        },
+        {
+          "number": 51,
+          "text": "Potom dí jim Ježíš: Srozuměli-li jste tomuto všemu? Řekli jemu: I ovšem, Pane."
+        },
+        {
+          "number": 52,
+          "text": "On pak řekl jim: Protož každý učitel umělý v království nebeském podoben jest člověku hospodáři, kterýž vynáší z pokladu svého nové i staré věci."
+        },
+        {
+          "number": 53,
+          "text": "I stalo se, když dokonal Ježíš podobenství tato, bral se odtud."
+        },
+        {
+          "number": 54,
+          "text": "A přišed do vlasti své, učil je v školách jejich, takže se velmi divili, řkouce: Odkud má tento moudrost tuto a moc tuto?"
+        },
+        {
+          "number": 55,
+          "text": "Zdaliž tento není syn tesařův? a zdaliž matka jeho neslove Maria a bratří jeho Jakub a Jozes a Šimon a Judas?"
+        },
+        {
+          "number": 56,
+          "text": "A sestry jeho zdaliž také všecky u nás nejsou? Odkudž tedy má tyto všecky věci?"
+        },
+        {
+          "number": 57,
+          "text": "I zhoršili se na něm. A Ježíš řekl: Není prorok beze cti, než v své vlasti a v domu svém."
+        },
+        {
+          "number": 58,
+          "text": "I neučinil tu mnoho divů, pro nevěru jejich."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "V tom čase uslyšel Herodes čtvrták pověst o Ježíšovi."
+        },
+        {
+          "number": 2,
+          "text": "I řekl služebníkům svým: To jest Jan Křtitel. Onť jest vstal z mrtvých, a protož se divové dějí skrze něho."
+        },
+        {
+          "number": 3,
+          "text": "Nebo Herodes byl jal Jana a svázal jej a dal do žaláře pro Herodiadu manželku Filipa bratra svého."
+        },
+        {
+          "number": 4,
+          "text": "Nebo byl řekl jemu Jan: Nesluší tobě míti jí."
+        },
+        {
+          "number": 5,
+          "text": "A chtěv zabíti jej, bál se lidu; nebo za proroka jej měli."
+        },
+        {
+          "number": 6,
+          "text": "Když pak slaven byl den narození Herodesova, tancovala dcera Herodiady uprostřed hodovníků, i líbilo se to Herodesovi,"
+        },
+        {
+          "number": 7,
+          "text": "Tak že s přísahou zaslíbil jí dáti, zač by ho prosila."
+        },
+        {
+          "number": 8,
+          "text": "A ona jsuci prve navedena od mateře své, řekla: Dej mi zde na míse hlavu Jana Křtitele."
+        },
+        {
+          "number": 9,
+          "text": "I zarmoutil se král, ale pro přísahu a pro ty, kteříž spolu s ním stolili, rozkázal jí dáti."
+        },
+        {
+          "number": 10,
+          "text": "A poslav kata, sťal Jana v žaláři."
+        },
+        {
+          "number": 11,
+          "text": "I přinesena jest hlava jeho na míse, a dána děvečce. A ona nesla ji mateři své."
+        },
+        {
+          "number": 12,
+          "text": "A přišedše učedlníci jeho, vzali tělo jeho a pochovali je; a šedše, pověděli to Ježíšovi."
+        },
+        {
+          "number": 13,
+          "text": "A uslyšev to Ježíš, plavil se odtud na lodičce na místo pusté soukromí. A uslyševše o tom zástupové, šli za ním pěšky z měst."
+        },
+        {
+          "number": 14,
+          "text": "A vyšed Ježíš, uzřel zástup mnohý. I slitovalo mu se jich, a uzdravoval nemocné jejich."
+        },
+        {
+          "number": 15,
+          "text": "A když bylo k večerou, přistoupili k němu učedlníci jeho, řkouce: Pusté jest místo toto, a čas již pominul. Rozpusť zástupy, ať jdouce do městeček, nakoupí sobě pokrmů."
+        },
+        {
+          "number": 16,
+          "text": "Ježíš pak řekl jim: Není potřebí odcházeti, dejte vy jim jísti."
+        },
+        {
+          "number": 17,
+          "text": "A oni řkou jemu: Nemáme zde, než pět chlebů a dvě rybě."
+        },
+        {
+          "number": 18,
+          "text": "Kterýžto dí jim: Přinestež mi je sem."
+        },
+        {
+          "number": 19,
+          "text": "A rozkázav zástupu posaditi se na trávě a vzav pět chlebů a dvě rybě, vzhléd v nebe, požehnal, a lámaje, dal učedlníkům chleby, a učedlníci zástupům."
+        },
+        {
+          "number": 20,
+          "text": "I jedli všickni a nasyceni jsou. I sebrali pozůstalých drobtů, dvanácte košů plných."
+        },
+        {
+          "number": 21,
+          "text": "Těch pak, kteříž jedli, bylo okolo pěti tisíců mužů, kromě žen a dětí."
+        },
+        {
+          "number": 22,
+          "text": "A ihned přinutil učedlníky své, aby vstoupili na lodí a předešli jej za moře, dokudž by nerozpustil zástupů."
+        },
+        {
+          "number": 23,
+          "text": "A rozpustiv zástupy, vstoupil na horu soukromí, aby se modlil. A když byl večer, sám byl tam."
+        },
+        {
+          "number": 24,
+          "text": "Lodí pak již byla uprostřed moře, zmítající se vlnami, nebo byl vítr odporný jim."
+        },
+        {
+          "number": 25,
+          "text": "Při čtvrtém pak bdění nočním bral se k nim Ježíš, jda po moři."
+        },
+        {
+          "number": 26,
+          "text": "A vidouce jej učedlníci po moři jdoucího, zarmoutili se, řkouce: Obluda jest. A strachem křičeli."
+        },
+        {
+          "number": 27,
+          "text": "Ale ihned Ježíš promluvil k nim, řka: Doufejtež, jáť jsem, nebojte se."
+        },
+        {
+          "number": 28,
+          "text": "I odpověděv Petr, řekl: Pane, jsi-li ty, rozkažiž mi k sobě přijíti po vodě."
+        },
+        {
+          "number": 29,
+          "text": "A on řekl: Pojď. A vystoupiv Petr z lodí, šel po vodě, aby přišel k Ježíšovi."
+        },
+        {
+          "number": 30,
+          "text": "Ale vida vítr tuhý, bál se. A počav tonouti, zkřikl, řka: Pane, pomoz mi."
+        },
+        {
+          "number": 31,
+          "text": "A ihned Ježíš vztáh ruku, ujal jej a řekl jemu: Malé víry, pročežs pochyboval?"
+        },
+        {
+          "number": 32,
+          "text": "A jakž oni vstoupili na lodí, přestal vítr."
+        },
+        {
+          "number": 33,
+          "text": "Ti pak, kteříž na lodí byli, přistoupivše, klaněli se jemu, řkouce: Jistě Syn Boží jsi."
+        },
+        {
+          "number": 34,
+          "text": "A přeplavivše se, přišli do země Genezaretské."
+        },
+        {
+          "number": 35,
+          "text": "A poznavše jej muži místa toho, rozeslali po vší té krajině vůkol, a shromáždili k němu všecky neduživé."
+        },
+        {
+          "number": 36,
+          "text": "A prosili ho, aby se aspoň podolka roucha jeho dotkli. A kteřížkoli dotkli se, uzdraveni jsou."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A v tom přistoupí k Ježíšovi Jeruzalémští zákoníci a farizeové, řkouce:"
+        },
+        {
+          "number": 2,
+          "text": "Proč učedlníci tvoji přestupují ustanovení starších? Nebo neumývají rukou svých, když mají jísti chléb."
+        },
+        {
+          "number": 3,
+          "text": "A on odpovídaje, řekl jim: Pročež i vy přestupujete přikázání Boží pro ustanovení vaše?"
+        },
+        {
+          "number": 4,
+          "text": "Nebo přikázal Bůh, řka: Cti otce svého i matku, a kdož by zlořečil otci neb mateři, smrtí ať umře."
+        },
+        {
+          "number": 5,
+          "text": "Ale vy pravíte: Kdož by koli řekl otci neb mateři: Dar ode mne obětovaný, tobě prospěje, by pak i neuctil otce svého neb mateře své, bez viny bude."
+        },
+        {
+          "number": 6,
+          "text": "A takž zrušili jste přikázání Boží pro své ustanovení."
+        },
+        {
+          "number": 7,
+          "text": "Pokrytci, dobře prorokoval o vás Izaiáš, řka:"
+        },
+        {
+          "number": 8,
+          "text": "Přibližuje se ke mně lid tento ústy svými a rty mne ctí, ale srdce jejich daleko jest ode mne."
+        },
+        {
+          "number": 9,
+          "text": "Nadarmoť mne ctí, učíce učení, jenž jsou přikázání lidská."
+        },
+        {
+          "number": 10,
+          "text": "A svolav zástup, řekl jim: Slyšte a rozumějte."
+        },
+        {
+          "number": 11,
+          "text": "Ne to, což vchází v ústa, poskvrňuje člověka, ale což z úst pochází, toť poskvrňuje člověka."
+        },
+        {
+          "number": 12,
+          "text": "Tehdy přistoupivše učedlníci jeho, řekli mu: Víš-li, že farizeové, slyševše tu řeč, zhoršili se?"
+        },
+        {
+          "number": 13,
+          "text": "A on odpovídaje, řekl: Všeliké štípení, jehož neštípil Otec můj nebeský, vykořeněno bude."
+        },
+        {
+          "number": 14,
+          "text": "Nechte jich, vůdcovéť jsou slepí slepých, a povede-li slepý slepého, oba v jámu upadnou."
+        },
+        {
+          "number": 15,
+          "text": "I odpověděv Petr, řekl jemu: Vylož nám to podobenství."
+        },
+        {
+          "number": 16,
+          "text": "Ježíš pak řekl: Ještě i vy bez rozumu jste?"
+        },
+        {
+          "number": 17,
+          "text": "Nerozumíte-liž, že všecko, což v ústa vchází, do břicha jde a vypouští se ven?"
+        },
+        {
+          "number": 18,
+          "text": "Ale které věci z úst pocházejí, z srdce jdou, a tyť poskvrňují člověka."
+        },
+        {
+          "number": 19,
+          "text": "Z srdceť zajisté vycházejí zlá myšlení, vraždy, cizoložstva, smilstva, krádeže, křivá svědectví, rouhání."
+        },
+        {
+          "number": 20,
+          "text": "Tyť jsou věci poskvrňující člověka. Ale neumytýma rukama jísti, toť neposkvrňuje člověka."
+        },
+        {
+          "number": 21,
+          "text": "A vyšed odtud Ježíš, bral se do krajin Tyrských a Sidonských."
+        },
+        {
+          "number": 22,
+          "text": "A aj, žena Kananejská z končin těch vyšedši, volala za ním, řkuci: Smiluj se nade mnou, Pane, synu Davidův. Dceru mou hrozně trápí ďábelství."
+        },
+        {
+          "number": 23,
+          "text": "Kterýžto neodpověděl jí slova. I přistoupivše učedlníci jeho, prosili ho, řkouce: Propusť ji, neboť volá za námi."
+        },
+        {
+          "number": 24,
+          "text": "On pak odpověděv, řekl: Nejsem poslán než k ovcem zahynulým z domu Izraelského."
+        },
+        {
+          "number": 25,
+          "text": "Ale ona přistoupivši, klaněla se jemu, řkuci: Pane, pomoz mi."
+        },
+        {
+          "number": 26,
+          "text": "On pak odpověděv, řekl: Není slušné vzíti chléb synů a vrci štěňatům."
+        },
+        {
+          "number": 27,
+          "text": "A ona řekla: Takť jest, Pane. Avšak štěňata jedí drobty, kteříž padají z stolů pánů jejich."
+        },
+        {
+          "number": 28,
+          "text": "Tedy odpovídaje Ježíš, řekl jí: Ó ženo, veliká jest víra tvá. Staniž se tobě, jakž chceš. I uzdravena jest dcera její v tu hodinu."
+        },
+        {
+          "number": 29,
+          "text": "A odšed odtud Ježíš, šel podle moře Galilejského, a vstoupiv na horu, posadil se tam."
+        },
+        {
+          "number": 30,
+          "text": "I přišli k němu zástupové mnozí, majíce s sebou kulhavé, slepé, němé, polámané a jiné mnohé. I kladli je k nohám Ježíšovým, a on uzdravil je,"
+        },
+        {
+          "number": 31,
+          "text": "Takže se zástupové divili, vidouce, ano němí mluví, polámaní zdraví jsou, kulhaví chodí, slepí vidí. I velebili Boha Izraelského."
+        },
+        {
+          "number": 32,
+          "text": "Ježíš pak svolav učedlníky své, řekl: Líto mi zástupu, ješto již tři dni trvají se mnou a nemají, co by jedli; a rozpustiti jich lačných nechci, aby nezhynuli na cestě."
+        },
+        {
+          "number": 33,
+          "text": "I řekli mu učedlníci jeho: I kde bychom vzali tolik chleba na této poušti, abychom takový zástup nasytili?"
+        },
+        {
+          "number": 34,
+          "text": "I řekl jim Ježíš: Kolik chlebů máte? A oni řkou: Sedm a málo rybiček."
+        },
+        {
+          "number": 35,
+          "text": "I rozkázal zástupům, aby se posadili na zemi."
+        },
+        {
+          "number": 36,
+          "text": "A vzav těch sedm chlebů a ryby, učiniv díky, lámal a dal učedlníkům svým, a učedlníci zástupu."
+        },
+        {
+          "number": 37,
+          "text": "I jedli všickni a nasyceni jsou. A sebrali, což zbylo drobtů, sedm košů plných."
+        },
+        {
+          "number": 38,
+          "text": "Bylo pak těch, kteříž jedli, čtyři tisíce mužů kromě žen a dětí."
+        },
+        {
+          "number": 39,
+          "text": "A rozpustiv zástupy, vstoupil na lodí. I přišel do krajiny Magdala."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I přistoupili k němu farizeové a saduceové, a pokoušejíce, prosili ho, aby jim znamení s nebe ukázal."
+        },
+        {
+          "number": 2,
+          "text": "On pak odpovídaje, řekl jim: Když bývá večer, říkáte: Jasno bude, nebo se červená nebe."
+        },
+        {
+          "number": 3,
+          "text": "A ráno: Dnes bude nečas, nebo se červená zasmušilé nebe. Pokrytci, způsob zajisté nebe rozsouditi umíte, znamení pak časů nemůžete souditi?"
+        },
+        {
+          "number": 4,
+          "text": "Národ zlý a cizoložný znamení hledá, ale znamení jemu nebude dáno, než toliko znamení Jonáše proroka. A opustiv je, odšel."
+        },
+        {
+          "number": 5,
+          "text": "A přeplavivše se učedlníci jeho přes moře, zapomenuli vzíti chleba."
+        },
+        {
+          "number": 6,
+          "text": "Ježíš pak řekl jim: Hleďte a varujte se kvasu farizejského a saducejského."
+        },
+        {
+          "number": 7,
+          "text": "Oni pak rozjímali mezi sebou, řkouce: Nevzali jsme chleba."
+        },
+        {
+          "number": 8,
+          "text": "A znaje to Ježíš, řekl jim: Co to rozjímáte mezi sebou, ó malé víry, že jste chlebů nevzali?"
+        },
+        {
+          "number": 9,
+          "text": "Ještě-liž nerozumíte, ani pamatujete na pět chlebů, jimiž nasyceno bylo pět tisíců lidu, a kolik jste košů drobtů sebrali?"
+        },
+        {
+          "number": 10,
+          "text": "Ani na sedm chlebů, jimiž nasyceno bylo čtyři tísíce lidí, a kolik jste košů drobtů sebrali?"
+        },
+        {
+          "number": 11,
+          "text": "I kterakž pak nerozumíte, že ne o chlebu mluvil jsem vám, pravě: Varujte se od kvasu farizejského a saducejského?"
+        },
+        {
+          "number": 12,
+          "text": "Tedy srozuměli, že neřekl, aby se varovali od kvasu chleba, ale od učení farizeů a saduceů."
+        },
+        {
+          "number": 13,
+          "text": "Přišed pak Ježíš do krajin Cesaree Filipovy, otázal se učedlníků svých, řka: Kým mne praví lidé býti, mne Syna člověka?"
+        },
+        {
+          "number": 14,
+          "text": "A oni řekli: Někteří Janem Křtitelem, a jiní Eliášem, jiní pak Jeremiášem, aneb jedním z proroků."
+        },
+        {
+          "number": 15,
+          "text": "I dí jim: Vy pak kým mne býti pravíte?"
+        },
+        {
+          "number": 16,
+          "text": "I odpověděv Šimon Petr, řekl: Ty jsi Kristus, Syn Boha živého."
+        },
+        {
+          "number": 17,
+          "text": "A odpovídaje Ježíš, řekl mu: Blahoslavený jsi Šimone, synu Jonášův; nebo tělo a krev nezjevilo tobě toho, ale Otec můj, kterýž jest v nebesích."
+        },
+        {
+          "number": 18,
+          "text": "I jáť pravím tobě, že jsi ty Petr, a na téť skále vzdělám církev svou, a brány pekelné nepřemohou jí."
+        },
+        {
+          "number": 19,
+          "text": "A tobě dám klíče království nebeského. A což bys koli svázal na zemi, budeť svázáno i na nebi; a což bys koli rozvázal na zemi, budeť rozvázáno i na nebi."
+        },
+        {
+          "number": 20,
+          "text": "Tedy přikázal učedlníkům svým, aby žádnému nepravili, že by on byl ten Ježíš Kristus."
+        },
+        {
+          "number": 21,
+          "text": "A od té chvíle počal Ježíš oznamovati učedlníkům svým, že musí jíti do Jeruzaléma, a mnoho trpěti od starších a předních kněží a od zákonníků, a zabit býti, a třetího dne z mrtvých vstáti."
+        },
+        {
+          "number": 22,
+          "text": "I odved ho Petr na stranu, počal mu přimlouvati, řka: Odstup to od tebe, Pane, nestaneť se tobě toho."
+        },
+        {
+          "number": 23,
+          "text": "Kterýžto obrátiv se, řekl Petrovi: Jdiž za mnou, satane, ku pohoršení jsi mi; nebo nechápáš těch věcí, kteréž jsou Boží, ale kteréž jsou lidské."
+        },
+        {
+          "number": 24,
+          "text": "Tedy řekl Ježíš učedlníkům svým: Chce-li kdo za mnou přijíti, zapřiž sebe sám, a vezmi kříž svůj, a následujž mne."
+        },
+        {
+          "number": 25,
+          "text": "Nebo kdož by chtěl duši svou zachovati, ztratíť ji; kdož by pak ztratil duši svou pro mne, nalezneť ji."
+        },
+        {
+          "number": 26,
+          "text": "Nebo co jest platno člověku, by pak všecken svět získal, a své duši uškodil? Aneb kterou dá člověk odměnu za duši svou?"
+        },
+        {
+          "number": 27,
+          "text": "Syn zajisté člověka přijde v slávě Otce svého s anděly svými, a tehdážť odplatí jednomu každému podle skutků jeho."
+        },
+        {
+          "number": 28,
+          "text": "Amen pravím vám: Jsou někteří z stojících tuto, kteříž neokusí smrti, až i uzří Syna člověka, přicházejícího v království svém."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A po šesti dnech pojal Ježíš Petra a Jakuba a Jana bratra jeho, i uvedl je na horu vysokou soukromí,"
+        },
+        {
+          "number": 2,
+          "text": "A proměnil se před nimi. I zastkvěla se tvář jeho jako slunce, a roucho jeho učiněno bílé jako světlo."
+        },
+        {
+          "number": 3,
+          "text": "A aj, ukázali se jim Mojžíš a Eliáš, rozmlouvající s ním."
+        },
+        {
+          "number": 4,
+          "text": "A odpověděv Petr, řekl Ježíšovi: Pane, dobré jest nám tuto býti. Chceš-li, udělejme tuto tři stánky, tobě jeden a Mojžíšovi jeden a Eliášovi jeden."
+        },
+        {
+          "number": 5,
+          "text": "Když pak on ještě mluvil, aj, oblak světlý zastínil je. A aj, zavzněl hlas z oblaku řkoucí: Toto jest ten můj milý Syn, v němž mi se dobře zalíbilo, toho poslouchejte."
+        },
+        {
+          "number": 6,
+          "text": "To uslyšavše učedlníci, padli na tváři své a báli se velmi."
+        },
+        {
+          "number": 7,
+          "text": "A přistoupiv Ježíš, dotekl se jich, řka jim: Vstaňte, nebojte se."
+        },
+        {
+          "number": 8,
+          "text": "A pozdvihše očí svých, žádného neviděli, než samého Ježíše."
+        },
+        {
+          "number": 9,
+          "text": "Když pak sstupovali s hory, přikázal jim Ježíš, řka: Žádnému nepravte tohoto vidění, dokudž by Syn člověka nevstal z mrtvých."
+        },
+        {
+          "number": 10,
+          "text": "I otázali se ho učedlníci jeho, řkouce: Což to pak zákoníci praví, že má Eliáš prve přijíti?"
+        },
+        {
+          "number": 11,
+          "text": "A Ježíš odpovídaje, řekl jim: Eliáš zajisté přijde prve a napraví všecky věci."
+        },
+        {
+          "number": 12,
+          "text": "Ale pravím vám, že Eliáš již přišel, avšak nepoznali ho, ale učinili mu, což chtěli. Takť i Syn člověka trpěti bude od nich."
+        },
+        {
+          "number": 13,
+          "text": "Tedy srozuměli učedlníci, že jim to praví o Janovi Křtiteli."
+        },
+        {
+          "number": 14,
+          "text": "A když přišli k zástupu, přistoupil k němu člověk jeden, a poklekl před ním na kolena,"
+        },
+        {
+          "number": 15,
+          "text": "A řekl: Pane, smiluj se nad synem mým, nebo náměsičník jest, a bídně se trápí. Èasto zajisté padá do ohně a častokrát do vody."
+        },
+        {
+          "number": 16,
+          "text": "I přivedl jsem ho učedlníkům tvým, ale nemohli ho uzdraviti."
+        },
+        {
+          "number": 17,
+          "text": "Odpovídaje pak Ježíš, řekl: Ó národe nevěrný a převrácený, dokud budu s vámi? Dokudž vás trpěti budu? Přiveďte jej sem ke mně."
+        },
+        {
+          "number": 18,
+          "text": "I pohrozil jemu Ježíš. I vyšlo od něho ďábelství a uzdraven jest mládenec v tu hodinu."
+        },
+        {
+          "number": 19,
+          "text": "Tedy přistoupivše učedlníci k Ježíšovi soukromí, řekli jemu: Proč jsme my ho nemohli vyvrci?"
+        },
+        {
+          "number": 20,
+          "text": "Řekl jim Ježíš: Pro nevěru vaši. Amen zajisté pravím vám: Budete-li míti víru, jako jest zrno horčičné, díte hoře této: Jdi odsud tam, a půjde, a nebudeť vám nic nemožného."
+        },
+        {
+          "number": 21,
+          "text": "Toto pak pokolení nevychází, jediné skrze modlitbu a půst."
+        },
+        {
+          "number": 22,
+          "text": "A když byli v Galileji, řekl jim Ježíš: Syn člověka bude zrazen v ruce lidí bezbožných."
+        },
+        {
+          "number": 23,
+          "text": "A zabijíť jej, a třetího dne z mrtvých vstane. I zarmoutili se náramně."
+        },
+        {
+          "number": 24,
+          "text": "A když přišli do Kafarnaum, přistoupili, kteříž plat vybírali, ku Petrovi a řekli: Což mistr váš nedává platu?"
+        },
+        {
+          "number": 25,
+          "text": "A on řekl: Dává. A když všel do domu, předšel jej Ježíš řečí, řka: Co se tobě zdá, Šimone? Králové zemští od kterých berou daň anebo plat, od synů-li svých, čili od cizích?"
+        },
+        {
+          "number": 26,
+          "text": "Odpověděl jemu Petr: Od cizích. I dí mu Ježíš: Tedy synové jsou svobodní?"
+        },
+        {
+          "number": 27,
+          "text": "Ale abychom jich nepohoršili, jda k moři, vrz udici, a tu rybu, kteráž nejprve uvázne, vezmi, a otevra ústa její, nalezneš groš. Ten vezma, dej jim za mne i za sebe."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "V ten čas přistoupili učedlníci k Ježíšovi, řkouce: Kdo pak jest větší v království nebeském?"
+        },
+        {
+          "number": 2,
+          "text": "A zavolav Ježíš pacholete, postavil je uprostřed nich,"
+        },
+        {
+          "number": 3,
+          "text": "A řekl: Amen pravím vám: Neobrátíte-li se a nebudete-li jako pacholátka, nikoli nevejdete do království nebeského."
+        },
+        {
+          "number": 4,
+          "text": "Protož kdož by se koli ponížil jako pacholátko toto, tenť jest větší v království nebeském."
+        },
+        {
+          "number": 5,
+          "text": "A kdož by koli přijal pacholátko takové ve jménu mém, mneť přijímá."
+        },
+        {
+          "number": 6,
+          "text": "Kdo by pak pohoršil jednoho z maličkých těchto věřících ve mne, lépe by jemu bylo, aby zavěšen byl žernov osličí na hrdlo jeho, a pohřížen byl do hlubokosti mořské."
+        },
+        {
+          "number": 7,
+          "text": "Běda světu pro pohoršení. Ačkoli musí to býti, aby přicházela pohoršení, ale však běda člověku, skrze něhož přichází pohoršení."
+        },
+        {
+          "number": 8,
+          "text": "Protož jestliže ruka tvá anebo noha tvá pohoršuje tě, utniž ji a vrz od sebe. Lépe jest tobě do života vjíti kulhavému anebo bezrukému, nežli dvě ruce aneb dvě noze majícímu uvrženu býti do věčného ohně."
+        },
+        {
+          "number": 9,
+          "text": "A pakli oko tvé pohoršuje tebe, vylup je a vrz od sebe. Lépe jest tobě jednookému do života vjíti, nežli obě oči majícímu uvrženu býti do pekelného ohně."
+        },
+        {
+          "number": 10,
+          "text": "Viztež, abyste nepotupovali ani jednoho z maličkých těchto. Neboť pravím vám, že andělé jejich v nebesích vždycky vidí tvář Otce mého, kterýž v nebesích jest."
+        },
+        {
+          "number": 11,
+          "text": "Nebo přišel Syn člověka, aby spasil to, což bylo zahynulo."
+        },
+        {
+          "number": 12,
+          "text": "Co se vám zdá? Kdyby některý člověk měl sto ovec, a zbloudila by jedna z nich, zdaliž nenechá devadesáti devíti, a jda na hory, nehledá té pobloudilé?"
+        },
+        {
+          "number": 13,
+          "text": "A nahodí-liť mu se nalézti ji, amen pravím vám, že se radovati bude nad ní více, než nad devadesáti devíti nepobloudilými."
+        },
+        {
+          "number": 14,
+          "text": "Takť není vůle před Otcem vaším, kterýž jest v nebesích, aby zhynul jeden z maličkých těchto."
+        },
+        {
+          "number": 15,
+          "text": "Zhřešil-li by pak proti tobě bratr tvůj, jdi a potresci ho mezi sebou a jím samým. Uposlechl-li by tebe, získal jsi bratra svého."
+        },
+        {
+          "number": 16,
+          "text": "Jestliže by pak neuposlechl, přijmi k sobě jednoho anebo dva, aby v ústech dvou nebo tří svědků stálo každé slovo."
+        },
+        {
+          "number": 17,
+          "text": "Pakliť by jich neuposlechl, pověz církvi. Jestliže pak i církve neuposlechne, budiž tobě jako pohan a publikán."
+        },
+        {
+          "number": 18,
+          "text": "Amen pravím vám: Cožkoli svížete na zemi, budeť svázáno i na nebi; a cožkoli rozvížete na zemi, budeť rozvázáno i na nebi."
+        },
+        {
+          "number": 19,
+          "text": "Opět pravím vám: Jestliže by dva z vás svolili se na zemi o všelikou věc, za kterouž by koli prosili, staneť se jim od Otce mého nebeského."
+        },
+        {
+          "number": 20,
+          "text": "Nebo kdežkoli shromáždí se dva nebo tři ve jménu mém, tuť jsem já uprostřed nich."
+        },
+        {
+          "number": 21,
+          "text": "Tedy přistoupiv k němu Petr, řekl: Pane, kolikrát zhřeší proti mně bratr můj, a odpustím jemu? Do sedmilikrát?"
+        },
+        {
+          "number": 22,
+          "text": "I dí mu Ježíš: Nepravím tobě až do sedmikrát, ale až do sedmdesátikrát sedmkrát."
+        },
+        {
+          "number": 23,
+          "text": "A protož podobno jest království nebeské člověku králi, kterýž chtěl počet klásti s služebníky svými."
+        },
+        {
+          "number": 24,
+          "text": "A když počal počtu klásti, podán mu jeden, kterýž byl dlužen deset tisíců hřiven."
+        },
+        {
+          "number": 25,
+          "text": "A když neměl čím zaplatiti, kázal jej pán jeho prodati, i ženu jeho i děti i všecko, což měl, a zaplatiti."
+        },
+        {
+          "number": 26,
+          "text": "Tedy padna služebník ten, prosil ho, řka: Pane, poshověj mi, a všeckoť zaplatím tobě."
+        },
+        {
+          "number": 27,
+          "text": "I slitovav se pán nad služebníkem tím, propustil ho a dluh jemu odpustil."
+        },
+        {
+          "number": 28,
+          "text": "Vyšed pak služebník ten, nalezl jednoho z spoluslužebníků svých, kterýž mu byl dlužen sto peněz, a chopiv se ho, hrdloval se s ním, řka: Zaplať mi, cos dlužen."
+        },
+        {
+          "number": 29,
+          "text": "Tedy padna spoluslužebník ten k nohám jeho, prosil ho, řka: Poshověj mi, a všeckoť zaplatím tobě."
+        },
+        {
+          "number": 30,
+          "text": "On pak nechtěl, ale odšed, dal jej do žaláře, dokudž by nezaplatil dluhu."
+        },
+        {
+          "number": 31,
+          "text": "Tedy vidouce spoluslužebníci, co se dálo, zarmoutili se velmi; a šedše, pověděli pánu svému všecko, co se bylo stalo."
+        },
+        {
+          "number": 32,
+          "text": "Tehdy povolav ho pán jeho, dí mu: Služebníče zlý, všecken ten tvůj dluh odpustil jsem tobě, nebs mne prosil."
+        },
+        {
+          "number": 33,
+          "text": "Zdaližs i ty neměl se smilovati nad spoluslužebníkem svým, jako i já smiloval jsem se nad tebou?"
+        },
+        {
+          "number": 34,
+          "text": "I rozhněvav se pán jeho, dal jej katům, dokudž by nezaplatil všeho, což mu byl dlužen."
+        },
+        {
+          "number": 35,
+          "text": "Takť i Otec můj nebeský učiní vám, jestliže neodpustíte jeden každý bratru svému z srdcí vašich jejich provinění."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stalo se, když dokonal Ježíš řeči tyto, bral se z Galilee, a přišel do končin Judských za Jordán."
+        },
+        {
+          "number": 2,
+          "text": "I šli za ním zástupové mnozí, a uzdravil je tam."
+        },
+        {
+          "number": 3,
+          "text": "I přistoupili k němu farizeové, pokoušejíce ho a řkouce jemu: Sluší-li člověku propustiti ženu svou z kterékoli příčiny?"
+        },
+        {
+          "number": 4,
+          "text": "On pak odpovídaje, řekl jim: Což jste nečtli, že ten, jenž stvořil člověka s počátku, muže a ženu učinil je?"
+        },
+        {
+          "number": 5,
+          "text": "A řekl: Protož opustí člověk otce i matku, a připojí se k manželce své, i budou dva jedno tělo."
+        },
+        {
+          "number": 6,
+          "text": "A tak již nejsou dva, ale jedno tělo. A protož, což jest Bůh spojil, člověk nerozlučuj."
+        },
+        {
+          "number": 7,
+          "text": "Řekli jemu: Pročež tedy Mojžíš rozkázal dáti list zapuzení a propustiti jí?"
+        },
+        {
+          "number": 8,
+          "text": "Dí jim: Mojžíš pro tvrdost srdce vašeho dopustil vám propouštěti manželky vaše, ale s počátku nebylo tak."
+        },
+        {
+          "number": 9,
+          "text": "Protož pravím vám: Že kdožkoli propustil by manželku svou, (leč pro smilství) a jinou pojme, cizoloží, a kdož propuštěnou pojme, také cizoloží."
+        },
+        {
+          "number": 10,
+          "text": "Řekli jemu učedlníci jeho: Poněvadž jest taková pře s manželkou, není dobré ženiti se."
+        },
+        {
+          "number": 11,
+          "text": "On pak řekl jim: Ne všickniť chápají slova toho, ale ti toliko, jimž jest dáno."
+        },
+        {
+          "number": 12,
+          "text": "Jsouť zajisté panicové, kteříž se tak z života matky zrodili; a jsouť panicové, kteříž učiněni jsou od lidí; a jsou panicové, kteříž se sami v panictví oddali pro království nebeské. Kdo může pochopiti, pochop."
+        },
+        {
+          "number": 13,
+          "text": "Tehdy přineseny jsou k němu dítky, aby na ně ruce vzkládal a modlil se za ně. Učedlníci pak přimlouvali jim."
+        },
+        {
+          "number": 14,
+          "text": "Ale Ježíš řekl jim: Nechte dítek a nebraňte jim jíti ke mně; nebo takovýchť jest království nebeské."
+        },
+        {
+          "number": 15,
+          "text": "A po vzkládání na ně rukou odebral se odtud."
+        },
+        {
+          "number": 16,
+          "text": "A aj, jeden přistoupiv, řekl jemu: Mistře dobrý, co dobrého budu činiti, abych měl život věčný?"
+        },
+        {
+          "number": 17,
+          "text": "A on řekl jemu: Co mne nazýváš dobrým? Žádný není dobrý, než jediný, totiž Bůh. Chceš-li pak vjíti do života, ostříhej přikázání."
+        },
+        {
+          "number": 18,
+          "text": "Dí jemu: Kterých? A Ježíš řekl mu: Nezabiješ, nezcizoložíš, nepokradeš, nepromluvíš křivého svědectví,"
+        },
+        {
+          "number": 19,
+          "text": "Cti otce svého i matku, a milovati budeš bližního svého jako sebe samého."
+        },
+        {
+          "number": 20,
+          "text": "Dí jemu mládenec: Všeho toho ostříhal jsem od své mladosti. Èehož mi se ještě nedostává?"
+        },
+        {
+          "number": 21,
+          "text": "Řekl mu Ježíš: Chceš-li dokonalým býti, jdiž a prodej statek svůj, a rozdej chudým, a budeš míti poklad v nebi, a pojď, následuj mne."
+        },
+        {
+          "number": 22,
+          "text": "Uslyšev pak mládenec tu řeč, odšel, smuten jsa; nebo měl statku mnoho."
+        },
+        {
+          "number": 23,
+          "text": "Tedy Ježíš řekl učedlníkům svým: Amen pravím vám, že bohatý nesnadně vejde do království nebeského."
+        },
+        {
+          "number": 24,
+          "text": "A opět pravím vám: Snázeť jest velbloudu skrze ucho jehly projíti, nežli bohatému vjíti do království Božího."
+        },
+        {
+          "number": 25,
+          "text": "A uslyšavše to učedlníci jeho, i užasli se velmi, řkouce: I kdož tedy může spasen býti?"
+        },
+        {
+          "number": 26,
+          "text": "A pohleděv na ně Ježíš, řekl jim: U lidíť jest to nemožné, ale u Boha všecko jest možné."
+        },
+        {
+          "number": 27,
+          "text": "Tehdy odpověděv Petr, řekl mu: Aj, my opustili jsme všecky věci, a šli jsme za tebou. Což pak nám bude dáno za to?"
+        },
+        {
+          "number": 28,
+          "text": "A Ježíš řekl jim: Amen pravím vám, že vy, kteříž jste následovali mne, v druhém narození, když se posadí Syn člověka na trůnu velebnosti své, sednete i vy na dvanácti stolicích, soudíce dvanáctero pokolení Izraelské."
+        },
+        {
+          "number": 29,
+          "text": "A každý, kdož opustil by domy, nebo bratry, neb sestry, neb otce, neb matku, nebo manželku, nebo syny, nebo pole pro jméno mé, stokrát více vezme, a život věčný dědičně obdrží."
+        },
+        {
+          "number": 30,
+          "text": "Mnozí pak první budou poslední, a poslední první."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nebo podobno jest království nebeské člověku hospodáři, kterýž vyšel na úsvitě, aby najal dělníky na vinici svou."
+        },
+        {
+          "number": 2,
+          "text": "Smluviv pak s dělníky z peníze denního, odeslal je na vinici svou."
+        },
+        {
+          "number": 3,
+          "text": "A vyšed okolo hodiny třetí, uzřel jiné, ani stojí na trhu zahálejíce."
+        },
+        {
+          "number": 4,
+          "text": "I řekl jim: Jdětež i vy na vinici mou, a co bude spravedlivého, dám vám."
+        },
+        {
+          "number": 5,
+          "text": "A oni šli. Opět vyšed při šesté a deváté hodině, učinil též."
+        },
+        {
+          "number": 6,
+          "text": "Při jedenácté pak hodině vyšed, nalezl jiné, ani stojí zahálejíce. I řekl jim: Pročež tu stojíte, celý den zahálejíce?"
+        },
+        {
+          "number": 7,
+          "text": "Řkou jemu: Nebo nižádný nás nenajal. Dí jim: Jdětež i vy na vinici mou, a což by bylo spravedlivého, vezmete."
+        },
+        {
+          "number": 8,
+          "text": "Večer pak řekl pán vinice šafáři svému: Zavolej dělníků a zaplať jim, počna od posledních až do prvních."
+        },
+        {
+          "number": 9,
+          "text": "A přišedše ti, kteříž byli při jedenácté hodině najati, vzali jeden každý po penízi."
+        },
+        {
+          "number": 10,
+          "text": "Přišedše pak první, domnívali se, že by více měli vzíti; ale vzali i oni jeden každý po penízi."
+        },
+        {
+          "number": 11,
+          "text": "A vzavše, reptali proti hospodáři, řkouce:"
+        },
+        {
+          "number": 12,
+          "text": "Tito poslední jednu hodinu toliko dělali, a rovné jsi je nám učinil, kteříž jsme nesli břímě dne i horko."
+        },
+        {
+          "number": 13,
+          "text": "On pak odpovídaje jednomu z nich, řekl: Příteli, nečiním tobě křivdy; však jsi z peníze denního smluvil se mnou."
+        },
+        {
+          "number": 14,
+          "text": "Vezmiž, což tvého jest, a jdi předce. Já pak chci tomuto poslednímu dáti jako i tobě."
+        },
+        {
+          "number": 15,
+          "text": "Zdaliž mi nesluší v mém učiniti, což chci? Èili oko tvé nešlechetné jest, že já dobrý jsem?"
+        },
+        {
+          "number": 16,
+          "text": "Takť budou poslední první, a první poslední; nebo mnoho jest povolaných, ale málo vyvolených."
+        },
+        {
+          "number": 17,
+          "text": "A vstupuje Ježíš do Jeruzaléma, pojal dvanácte učedlníků svých soukromí na cestě, i řekl jim:"
+        },
+        {
+          "number": 18,
+          "text": "Aj, vstupujeme do Jeruzaléma, a Syn člověka vydán bude předním kněžím a zákoníkům, a odsoudí ho na smrt."
+        },
+        {
+          "number": 19,
+          "text": "A vydadíť jej pohanům ku posmívání a k bičování a ukřižování; a třetího dne z mrtvých vstane."
+        },
+        {
+          "number": 20,
+          "text": "Tedy přistoupila k němu matka synů Zebedeových s syny svými, klanějící se a prosecí něco od něho."
+        },
+        {
+          "number": 21,
+          "text": "Kterýžto řekl jí: Co chceš? Řekla jemu: Rci, ať tito dva synové moji sednou, jeden na pravici tvé a druhý na levici, v království tvém."
+        },
+        {
+          "number": 22,
+          "text": "Odpovídaje pak Ježíš, řekl: Nevíte, zač prosíte. Můžete-li píti kalich, kterýž já píti budu, a křtem, jímž já se křtím, křtěni býti? Řekli jemu: Můžeme."
+        },
+        {
+          "number": 23,
+          "text": "Dí jim: Kalich zajisté můj píti budete, a křtem, jímž já se křtím, pokřtěni budete, ale seděti na pravici mé a na levici mé, neníť mé dáti vám, ale dáno bude těm, kterýmž připraveno jest od Otce mého."
+        },
+        {
+          "number": 24,
+          "text": "A uslyšavše to deset učedlníků Páně, rozhněvali se na ty dva bratry."
+        },
+        {
+          "number": 25,
+          "text": "Ale Ježíš svolav je, řekl: Víte, že knížata národů panují nad svými, a kteříž velicí jsou, moci užívají nad nimi."
+        },
+        {
+          "number": 26,
+          "text": "Ne tak bude mezi vámi; ale kdožkoli chtěl by mezi vámi býti velikým, budiž služebník váš."
+        },
+        {
+          "number": 27,
+          "text": "A kdož by koli mezi vámi chtěl býti první, budiž váš služebník;"
+        },
+        {
+          "number": 28,
+          "text": "Jako i Syn člověka nepřišel, aby jemu slouženo bylo, ale aby on sloužil a aby dal život svůj na vykoupení za mnohé."
+        },
+        {
+          "number": 29,
+          "text": "A když vycházeli z Jericho, šel za ním zástup veliký."
+        },
+        {
+          "number": 30,
+          "text": "A aj, dva slepí sedící u cesty, uslyševše, že by Ježíš tudy šel, zvolali, řkouce: Smiluj se nad námi, Pane, synu Davidův."
+        },
+        {
+          "number": 31,
+          "text": "Zástup pak přimlouval jim, aby mlčeli. Oni pak více volali, řkouce: Smiluj se nad námi, Pane, synu Davidův."
+        },
+        {
+          "number": 32,
+          "text": "I zastaviv se Ježíš, zavolal jich, a řekl: Co chcete, abych vám učinil?"
+        },
+        {
+          "number": 33,
+          "text": "Řkou jemu: Pane, ať se otevrou oči naše."
+        },
+        {
+          "number": 34,
+          "text": "I slitovav se nad nimi Ježíš, dotekl se očí jejich, a ihned prohlédly oči jejich. A oni šli za ním."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A když se přiblížili k Jeruzalému, a přišli do Betfage k hoře Olivetské, tedy Ježíš poslal dva učedlníky své,"
+        },
+        {
+          "number": 2,
+          "text": "Řka jim: Jdětež do městečka, kteréž proti vám jest, a hned naleznete oslici přivázanou a oslátko s ní. Odvěžtež je a přiveďte ke mně."
+        },
+        {
+          "number": 3,
+          "text": "A řekl-liť by kdo co vám, rcete, že Pán jich potřebuje, a hnedť propustí je."
+        },
+        {
+          "number": 4,
+          "text": "Toto se pak všecko stalo, aby se naplnilo povědění skrze proroka, řkoucího:"
+        },
+        {
+          "number": 5,
+          "text": "Povězte dceři Sionské: Aj, král tvůj béře se tobě tichý, a sedě na oslici, a na oslátku té oslice jhu podrobené."
+        },
+        {
+          "number": 6,
+          "text": "I jdouce učedlníci, a učinivše tak, jakož jim přikázal Ježíš,"
+        },
+        {
+          "number": 7,
+          "text": "Přivedli oslici i oslátko, a vložili na ně roucha svá, a jej navrchu posadili."
+        },
+        {
+          "number": 8,
+          "text": "Mnohý pak zástup stlali roucha svá na cestě, jiní pak ratolesti z dříví sekali a metali na cestu."
+        },
+        {
+          "number": 9,
+          "text": "A zástupové, kteříž napřed šli, i ti, kteříž nazad byli, volali, řkouce: Aj syn Davidův, Spasitel. Požehnaný, jenž se béře ve jménu Páně; spasiž nás ty, kterýž jsi na výsostech."
+        },
+        {
+          "number": 10,
+          "text": "A když vjel do Jeruzaléma, zbouřilo se všecko město, řkouce: I kdo jest tento?"
+        },
+        {
+          "number": 11,
+          "text": "Zástupové pak pravili: Toto jest ten Ježíš, prorok od Nazarétu Galilejského."
+        },
+        {
+          "number": 12,
+          "text": "I všel Ježíš do chrámu Božího, a vymítal všecky prodavače a kupce z chrámu, a stoly penězoměnců a stolice prodávajících holubice převracel,"
+        },
+        {
+          "number": 13,
+          "text": "A řekl jim: Psánoť jest: Dům můj dům modlitby slouti bude, ale vy učinili jste jej peleší lotrovskou."
+        },
+        {
+          "number": 14,
+          "text": "I přistoupili k němu slepí a kulhaví v chrámě, i uzdravil je."
+        },
+        {
+          "number": 15,
+          "text": "Vidouce pak přední kněží a zákoníci divy, kteréž činil, a dítky, any volají v chrámě a praví: Aj syn Davidův, Spasitel, rozhněvali se."
+        },
+        {
+          "number": 16,
+          "text": "A řekli jemu: Slyšíš-liž, co tito praví? Ježíš pak řekl jim: I ovšem. Nikdá-liž jste nečtli, že z úst nemluvňátek a těch, jenž prsí požívají, dokonal jsi chválu?"
+        },
+        {
+          "number": 17,
+          "text": "A opustiv je, šel ven z města do Betany a tu zůstal."
+        },
+        {
+          "number": 18,
+          "text": "Ráno pak navracuje se do města, zlačněl."
+        },
+        {
+          "number": 19,
+          "text": "A vida jeden fíkový strom podle cesty, šel k němu, a nic na něm nenalezl, než listí toliko. I dí tomu stromu: Nikdy více neroď se z tebe ovoce na věky. I usechl jest hned fík ten."
+        },
+        {
+          "number": 20,
+          "text": "A vidouce to učedlníci, divili se, řkouce: Kterak jest ihned usechl fík ten!"
+        },
+        {
+          "number": 21,
+          "text": "I odpověděv Ježíš, řekl jim: Amen pravím vám: Budete-li míti víru, a nebudete-li pochybovati, netoliko to, co se stalo fíkovému dřevu, učiníte, a kdybyste i této hoře řekli: Zdvihni se a vrz sebou do moře, staneť se."
+        },
+        {
+          "number": 22,
+          "text": "A všecko, zač byste koli prosili na modlitbě, věříce, vezmete."
+        },
+        {
+          "number": 23,
+          "text": "A když přišel do chrámu, přistoupili k němu přední kněží a starší lidu, když učil, řkouce: Jakou mocí tyto věci činíš? A kdo jest tobě tu moc dal?"
+        },
+        {
+          "number": 24,
+          "text": "Odpovídaje pak Ježíš, řekl jim: Otížiť se i já vás na jednu věc, kterouž povíte-li mi, i já vám povím, jakou mocí tyto věci činím."
+        },
+        {
+          "number": 25,
+          "text": "Křest Janův odkud jest byl? S nebe-li, čili z lidí? A oni rozvažovali mezi sebou, řkouce: Díme-li: S nebe, díť nám: Proč jste pak nevěřili jemu?"
+        },
+        {
+          "number": 26,
+          "text": "Pakli díme: Z lidí, bojíme se zástupu. Nebo všickni měli Jana za proroka."
+        },
+        {
+          "number": 27,
+          "text": "I odpovídajíce Ježíšovi, řekli: Nevíme. Řekl jim i on: Aniž já vám povím, jakou mocí tyto věci činím."
+        },
+        {
+          "number": 28,
+          "text": "Ale co se vám zdá? Èlověk jeden měl dva syny. A přistoupiv k prvnímu, řekl: Synu, jdi na vinici mou dnes a dělej."
+        },
+        {
+          "number": 29,
+          "text": "A on odpověděv, řekl: Nechci. A potom usmysliv sobě, šel."
+        },
+        {
+          "number": 30,
+          "text": "I přistoupiv k druhému, řekl jemu též. A on odpověděv, řekl: Jdu, pane. A nešel."
+        },
+        {
+          "number": 31,
+          "text": "Který z těch dvou učinil vůli otcovu? Řekli jemu: První. Dí jim Ježíš: Amen pravím vám, že publikáni a nevěstky předcházejí vás do království Božího."
+        },
+        {
+          "number": 32,
+          "text": "Nebo přišel k vám Jan cestou spravedlnosti, a neuvěřili jste mu, ale publikáni a nevěstky uvěřili jemu. Vy pak viděvše to, aniž jste potom usmyslili sobě, abyste věřili jemu."
+        },
+        {
+          "number": 33,
+          "text": "Jiné podobenství slyšte: Byl jeden hospodář, kterýž vzdělal vinici, a opletl ji plotem, a vkopal v ní pres, a ustavěl věži, i pronajal ji vinařům, a odšel pryč přes pole."
+        },
+        {
+          "number": 34,
+          "text": "A když se přiblížil čas ovoce, poslal služebníky své k vinařům, aby vzali užitky její."
+        },
+        {
+          "number": 35,
+          "text": "Vinaři pak zjímavše služebníky jeho, jiného zmrskali, jiného zabili, a jiného ukamenovali."
+        },
+        {
+          "number": 36,
+          "text": "Opět poslal jiných služebníků více nežli prve. I učinili jim též."
+        },
+        {
+          "number": 37,
+          "text": "Naposledy pak poslal k nim syna svého, řka: Ostýchati se budou syna mého."
+        },
+        {
+          "number": 38,
+          "text": "Vinaři pak uzřevše syna jeho, řekli mezi sebou: Tentoť jest dědic; pojďte, zabijme jej, a uvažme se v dědictví jeho."
+        },
+        {
+          "number": 39,
+          "text": "I chytivše ho, vyvrhli jej ven z vinice a zabili."
+        },
+        {
+          "number": 40,
+          "text": "Protož když přijde pán vinice, co učiní vinařům těm?"
+        },
+        {
+          "number": 41,
+          "text": "Řekli jemu: Zlé zle zatratí, a vinici svou pronajme jiným vinařům, kteříž budou vydávati jemu užitek časy svými."
+        },
+        {
+          "number": 42,
+          "text": "Řekl jim Ježíš: Nikdy-li jste nečtli v Písmích: Kámen, kterýž jsou zavrhli dělníci, ten učiněn jest v hlavu úhlovou? Ode Pána stalo se toto, a jest divné před očima našima."
+        },
+        {
+          "number": 43,
+          "text": "Protož pravím vám, že bude odjato od vás království Boží, a bude dáno lidu činícímu užitky jeho."
+        },
+        {
+          "number": 44,
+          "text": "A kdož by padl na ten kámen, rozrazíť se; a na kohož upadne, setřeť jej."
+        },
+        {
+          "number": 45,
+          "text": "A slyšavše přední kněží podobenství jeho, porozuměli, že by o nich mluvil."
+        },
+        {
+          "number": 46,
+          "text": "I hledajíce ho jíti, báli se zástupů; neb ho měli za proroka."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I odpovídaje Ježíš, mluvil jim opět v podobenstvích, řka:"
+        },
+        {
+          "number": 2,
+          "text": "Podobno jest království nebeské člověku králi, kterýž učinil svadbu synu svému."
+        },
+        {
+          "number": 3,
+          "text": "I poslal služebníky své, aby povolali pozvaných na svadbu; a oni nechtěli přijíti."
+        },
+        {
+          "number": 4,
+          "text": "Opět poslal jiné služebníky, řka: Povězte pozvaným: Aj, oběd můj připravil jsem, volové moji a krmný dobytek zbit jest, a všecko hotovo. Pojďtež na svadbu."
+        },
+        {
+          "number": 5,
+          "text": "Ale oni nedbavše na to, odešli, jiný do vsi své a jiný po kupectví svém."
+        },
+        {
+          "number": 6,
+          "text": "Jiní pak zjímavše služebníky jeho a posměch jim učinivše, zmordovali."
+        },
+        {
+          "number": 7,
+          "text": "A uslyšav to král, rozhněval se; a poslav vojska svá, zhubil vražedníky ty a město jejich zapálil."
+        },
+        {
+          "number": 8,
+          "text": "Tedy řekl služebníkům svým: Svadba zajisté hotova jest, ale ti, kteříž pozváni byli, nebyli hodni."
+        },
+        {
+          "number": 9,
+          "text": "Protož jděte na rozcestí, a kteréžkoli naleznete, zovtež na svadbu."
+        },
+        {
+          "number": 10,
+          "text": "I vyšedše služebníci ti na cesty, shromáždili všecky, kteréžkoli nalezli, zlé i dobré. A naplněna jest svadba hodovníky."
+        },
+        {
+          "number": 11,
+          "text": "Tedy všed král, aby pohleděl na hodovníky, uzřel tam člověka neoděného rouchem svadebním."
+        },
+        {
+          "number": 12,
+          "text": "I řekl jemu: Příteli, kteraks ty sem všel, nemaje roucha svadebního? A on oněměl."
+        },
+        {
+          "number": 13,
+          "text": "Tedy řekl král služebníkům: Svížíce ruce jeho i nohy, vezměte ho, a uvrztež jej do temností zevnitřních. Tamť bude pláč a škřipení zubů."
+        },
+        {
+          "number": 14,
+          "text": "Nebo mnoho jest povolaných, ale málo vyvolených."
+        },
+        {
+          "number": 15,
+          "text": "Tedy odšedše farizeové, radili se, jak by polapili jej v řeči."
+        },
+        {
+          "number": 16,
+          "text": "I poslali k němu učedlníky své s herodiány, řkouce: Mistře, víme, že pravdomluvný jsi a cestě Boží v pravdě učíš a nedbáš na žádného; nebo nepatříš na osobu lidskou."
+        },
+        {
+          "number": 17,
+          "text": "Protož pověz nám, co se tobě zdá: Sluší-li daň dáti císaři, čili nic?"
+        },
+        {
+          "number": 18,
+          "text": "Znaje pak Ježíš zlost jejich, řekl: Co mne pokoušíte, pokrytci?"
+        },
+        {
+          "number": 19,
+          "text": "Ukažte mi peníz daně. A oni podali mu peníze."
+        },
+        {
+          "number": 20,
+          "text": "I řekl jim: Èí jest tento obraz a svrchu napsání?"
+        },
+        {
+          "number": 21,
+          "text": "Řekli mu: Císařův. Tedy dí jim: Dejtež, co jest císařova, císaři, a co jest Božího, Bohu."
+        },
+        {
+          "number": 22,
+          "text": "To uslyšavše, divili se, a opustivše jej, odešli."
+        },
+        {
+          "number": 23,
+          "text": "V ten den přišli k němu saduceové, kteříž praví, že není z mrtvých vstání. I otázali se ho,"
+        },
+        {
+          "number": 24,
+          "text": "Řkouce: Mistře, Mojžíš pověděl: Umřel-li by kdo, nemaje dětí, aby bratr jeho právem švagrovství pojal ženu jeho a vzbudil símě bratru svému."
+        },
+        {
+          "number": 25,
+          "text": "I bylo u nás sedm bratrů. První pojav ženu, umřel, a nemaje semene, zůstavil ženu svou bratru svému."
+        },
+        {
+          "number": 26,
+          "text": "Takž podobně i druhý, i třetí, až do sedmého."
+        },
+        {
+          "number": 27,
+          "text": "Nejposléze pak po všech umřela i žena."
+        },
+        {
+          "number": 28,
+          "text": "Protož při vzkříšení kterého z těch sedmi bude žena? Nebo všickni ji měli."
+        },
+        {
+          "number": 29,
+          "text": "I odpověděv Ježíš, řekl jim: Bloudíte, neznajíce Písem ani moci Boží."
+        },
+        {
+          "number": 30,
+          "text": "Však při vzkříšení ani se nebudou ženiti ani vdávati, ale budou jako andělé Boží v nebi."
+        },
+        {
+          "number": 31,
+          "text": "O vzkříšení pak mrtvých zdaliž jste nečtli, co jest vám povědíno od Boha, kterýž takto dí:"
+        },
+        {
+          "number": 32,
+          "text": "Já jsem Bůh Abrahamův a Bůh Izákův a Bůh Jákobův; a Bůhť není Bůh mrtvých, ale živých."
+        },
+        {
+          "number": 33,
+          "text": "A slyševše to zástupové, divili se učení jeho."
+        },
+        {
+          "number": 34,
+          "text": "Farizeové pak uslyšavše, že by k mlčení přivedl saducejské, sešli se v jedno."
+        },
+        {
+          "number": 35,
+          "text": "I otázal se ho jeden z nich zákoník nějaký, pokoušeje ho, a řka:"
+        },
+        {
+          "number": 36,
+          "text": "Mistře, které jest přikázání veliké v Zákoně?"
+        },
+        {
+          "number": 37,
+          "text": "I řekl mu Ježíš: Milovati budeš Pána Boha svého z celého srdce svého a ze vší duše své a ze vší mysli své."
+        },
+        {
+          "number": 38,
+          "text": "To jest přední a veliké přikázání."
+        },
+        {
+          "number": 39,
+          "text": "Druhé pak jest podobné tomu: Milovati budeš bližního svého jako sebe samého."
+        },
+        {
+          "number": 40,
+          "text": "Na těch dvou přikázáních všecken Zákon záleží i Proroci."
+        },
+        {
+          "number": 41,
+          "text": "A když se sešli farizeové, otázal se jich Ježíš,"
+        },
+        {
+          "number": 42,
+          "text": "Řka: Co se vám zdá o Kristu? Èí jest syn? Řkou jemu: Davidův."
+        },
+        {
+          "number": 43,
+          "text": "Dí jim: Kterakž pak David v Duchu nazývá ho Pánem, řka:"
+        },
+        {
+          "number": 44,
+          "text": "Řekl Pán Pánu mému: Seď na pravici mé, dokavadž nepodložím nepřátel tvých, aby byli za podnože noh tvých?"
+        },
+        {
+          "number": 45,
+          "text": "Poněvadž tedy David Pánem ho nazývá, i kterakž syn jeho jest?"
+        },
+        {
+          "number": 46,
+          "text": "A nižádný nemohl jemu odpovědíti slova, aniž se odvážil kdo více od toho dne jeho se nač tázati."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tedy Ježíš mluvil zástupům a učedlníkům svým,"
+        },
+        {
+          "number": 2,
+          "text": "Řka: Na stolici Mojžíšově posadili se zákoníci a farizeové."
+        },
+        {
+          "number": 3,
+          "text": "Protož všecko, což by koli rozkázali vám zachovávati, zachovávejte a čiňte, ale podle skutků jejich nečiňte; neboť praví, a nečiní."
+        },
+        {
+          "number": 4,
+          "text": "Svazujíť zajisté břemena těžká a nesnesitelná, a vzkládají na ramena lidská, ale prstem svým nechtí jimi ani pohnouti."
+        },
+        {
+          "number": 5,
+          "text": "A všeckyť ty své skutky činí, aby byli vidíni od lidí. Rozšiřují zajisté nápisy své a veliké dělají podolky pláštů svých,"
+        },
+        {
+          "number": 6,
+          "text": "A milují přední místa na večeřích, a první stolice v školách,"
+        },
+        {
+          "number": 7,
+          "text": "A pozdravování na trhu, a aby byli nazýváni od lidí: Mistři, mistři."
+        },
+        {
+          "number": 8,
+          "text": "Ale vy nebývejte nazýváni mistři; nebo jeden jest Mistr váš, totiž Kristus, vy pak všickni bratří jste."
+        },
+        {
+          "number": 9,
+          "text": "A otce nenazývejte sobě na zemi; nebo jeden jest Otec váš, kterýž jest v nebesích."
+        },
+        {
+          "number": 10,
+          "text": "Ani se nazývejte vůdcové; nebo jeden jest vůdce váš Kristus."
+        },
+        {
+          "number": 11,
+          "text": "Ale kdo z vás větší jest, budeť služebníkem vaším."
+        },
+        {
+          "number": 12,
+          "text": "Nebo kdož by se sám povyšoval, bude ponížen; a kdož by se ponížil, bude povýšen."
+        },
+        {
+          "number": 13,
+          "text": "Ale běda vám, zákoníci a farizeové pokrytci, že zavíráte království nebeské před lidmi; nebo sami tam nevcházíte, ani těm, jenž by vjíti chtěli, vcházeti dopouštíte."
+        },
+        {
+          "number": 14,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, že zžíráte domy vdovské, za příčinou dlouhého modlení; protož těžší soud ponesete."
+        },
+        {
+          "number": 15,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, že obcházíte moře i zemi, abyste učinili jednoho novověrce, a když bude učiněn, učiníte jej syna zatracení, dvakrát více, nežli jste sami."
+        },
+        {
+          "number": 16,
+          "text": "Běda vám, vůdcové slepí, kteříž říkáte: Přisáhl-li by kdo skrze chrám, to nic není; ale kdo by přisáhl skrze zlato chrámové, povinenť jest přísaze dosti činiti."
+        },
+        {
+          "number": 17,
+          "text": "Blázni a slepci; nebo co jest většího, zlato-li, čili chrám, kterýž posvěcuje zlata?"
+        },
+        {
+          "number": 18,
+          "text": "A přisáhl-li by kdo skrze oltář, nic není; ale kdo by přisáhl skrze ten dar, kterýž jest na něm, povinen jest."
+        },
+        {
+          "number": 19,
+          "text": "Blázni a slepci, i co jest většího, dar-li, čili oltář, kterýž posvěcuje daru?"
+        },
+        {
+          "number": 20,
+          "text": "A protož kdokoli přisahá skrze oltář, přisahá skrze něj, i skrze to všecko, což na něm jest."
+        },
+        {
+          "number": 21,
+          "text": "A kdož přisahá skrze chrám, přisahá skrze něj, i skrze toho, kterýž přebývá v něm."
+        },
+        {
+          "number": 22,
+          "text": "A kdož přisahá skrze nebe, přisahá skrze trůn Boží, i skrze toho, kterýž na něm sedí."
+        },
+        {
+          "number": 23,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, že dáváte desátky z máty a z kopru a z kmínu, a opouštíte to, což těžšího jest v Zákoně, totiž soud a milosrdenství a věrnost. Tyto věci měli jste činiti a oněch neopouštěti."
+        },
+        {
+          "number": 24,
+          "text": "Vůdcové slepí, kteříž cedíte komára, velblouda pak požíráte."
+        },
+        {
+          "number": 25,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, že čistíte po vrchu konvice a mísy, a vnitř plno jest loupeže a nestředmosti."
+        },
+        {
+          "number": 26,
+          "text": "Farizee slepče, vyčisť prve to, což vnitř jest v konvi a v míse, aby i to, což jest zevnitř, bylo čisto."
+        },
+        {
+          "number": 27,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, nebo jste se připodobnili hrobům zbíleným, kteříž ač se zdadí zevnitř krásní, ale vnitř jsou plní kostí umrlčích i vší nečistoty."
+        },
+        {
+          "number": 28,
+          "text": "Tak i vy zevnitř zajisté zdáte se lidem spravedliví, ale vnitř plní jste pokrytství a nepravosti."
+        },
+        {
+          "number": 29,
+          "text": "Běda vám, zákoníci a farizeové pokrytci, neboť vzděláváte hroby proroků a ozdobujete hroby spravedlivých,"
+        },
+        {
+          "number": 30,
+          "text": "A říkáte: Kdybychom byli za dnů otců našich, nebyli bychom účastníci jejich ve krvi proroků."
+        },
+        {
+          "number": 31,
+          "text": "Protož osvědčujete sami proti sobě, že jste synové těch, kteříž proroky zmordovali."
+        },
+        {
+          "number": 32,
+          "text": "I vy také naplňte míru otců svých."
+        },
+        {
+          "number": 33,
+          "text": "Hadové, plémě ještěrčí, i jakž byste ušli odsudku do pekelného ohně?"
+        },
+        {
+          "number": 34,
+          "text": "Protož aj, já posílám k vám proroky a moudré a učitele, a vy z těch některé zmordujete a ukřižujete, a některé z nich bičovati budete v školách vašich, a budete je honiti z města do města,"
+        },
+        {
+          "number": 35,
+          "text": "Aby přišla na vás všeliká krev spravedlivá, vylitá na zemi, od krve Abele spravedlivého, až do krve Zachariáše syna Barachiášova, kteréhož jste zabili mezi chrámem a oltářem."
+        },
+        {
+          "number": 36,
+          "text": "Amen pravím vám: Přijdou tyto všecky věci na pokolení toto."
+        },
+        {
+          "number": 37,
+          "text": "Jeruzaléme, Jeruzaléme, mordéři proroků, a kterýž kamenuješ ty, jenž byli k tobě posíláni, kolikrát jsem chtěl shromážditi dítky tvé, tak jako slepice shromažďuje kuřátka svá pod křídla, a nechtěli jste."
+        },
+        {
+          "number": 38,
+          "text": "Aj, zanecháváť se vám dům váš pustý."
+        },
+        {
+          "number": 39,
+          "text": "Neboť pravím vám, že mne již více nikoli neuzříte od této chvíle, až i díte: Požehnaný, jenž se béře ve jménu Páně."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A vyšed Ježíš, bral se z chrámu; i přistoupili učedlníci jeho, aby ukázali jemu stavení chrámové."
+        },
+        {
+          "number": 2,
+          "text": "Ježíš pak řekl jim: Vidíte-liž tyto všecky věci? Amen pravím vám: Nebude zůstaven tuto kámen na kameni, kterýž by nebyl zbořen."
+        },
+        {
+          "number": 3,
+          "text": "A když se posadil na hoře Olivetské, přistoupili k němu učedlníci jeho soukromí, řkouce: Pověz nám, kdy to bude, a která znamení budou příchodu tvého a skonání světa?"
+        },
+        {
+          "number": 4,
+          "text": "I odpověděv Ježíš, řekl jim: Vizte, aby vás žádný nesvedl."
+        },
+        {
+          "number": 5,
+          "text": "Nebo mnozí přijdou ve jménu mém, řkouce: Jáť jsem Kristus, a svedouť mnohé."
+        },
+        {
+          "number": 6,
+          "text": "Budete slyšeti zajisté boje a pověsti bojů. Hleďtež, abyste se nekormoutili; nebo musí to všecko býti; ale ne ihned bude konec."
+        },
+        {
+          "number": 7,
+          "text": "Nebo povstane národ proti národu a království proti království, a budou morové a hladové a zemětřesení po místech."
+        },
+        {
+          "number": 8,
+          "text": "Ale tyto všecky věci jsou počátkové bolestí."
+        },
+        {
+          "number": 9,
+          "text": "A tehdy vy budete souženi, a budou vás mordovati, a budete v nenávisti u všech národů pro jméno mé."
+        },
+        {
+          "number": 10,
+          "text": "A tehdyť se zhorší mnozí a vespolek se budou zrazovati a nenáviděti."
+        },
+        {
+          "number": 11,
+          "text": "A mnozí falešní proroci povstanou, a svedou mnohé."
+        },
+        {
+          "number": 12,
+          "text": "A že rozmnožena bude nepravost, ustydneť láska mnohých."
+        },
+        {
+          "number": 13,
+          "text": "Ale kdož by setrval až do konce, tenť spasen bude."
+        },
+        {
+          "number": 14,
+          "text": "A budeť kázáno toto evangelium království po všem světě, na svědectví všem národům, a tehdážť přijde skonání."
+        },
+        {
+          "number": 15,
+          "text": "Protož když uzříte ohavnost zpuštění, předpověděnou od Daniele proroka, ana stojí na místě svatém, (kdo čte, rozuměj,)"
+        },
+        {
+          "number": 16,
+          "text": "Tehdáž ti, kteříž by byli v Judstvu, nechť utekou k horám."
+        },
+        {
+          "number": 17,
+          "text": "A kdo na střeše, nesstupuj dolů, aby něco vzal z domu svého."
+        },
+        {
+          "number": 18,
+          "text": "A kdo na poli, nevracuj se zase, aby vzal roucha svá."
+        },
+        {
+          "number": 19,
+          "text": "Běda pak těhotným a těm, kteréž kojí, v těch dnech."
+        },
+        {
+          "number": 20,
+          "text": "Protož modlte se, aby utíkání vaše nebylo v zimě anebo v svátek."
+        },
+        {
+          "number": 21,
+          "text": "Nebo bude tehdáž soužení veliké, jakéž nebylo od počátku světa až dosavad, aniž kdy potom bude."
+        },
+        {
+          "number": 22,
+          "text": "A byť nebyli ukráceni dnové ti, nebyl by spasen nižádný člověk. Ale pro vyvolené ukráceni budou dnové ti."
+        },
+        {
+          "number": 23,
+          "text": "Tehdy řekl-li by vám kdo: Aj, tutoť jest Kristus, anebo tamto, nevěřte."
+        },
+        {
+          "number": 24,
+          "text": "Nebo povstanou falešní Kristové a falešní proroci, a činiti budou divy veliké a zázraky, tak aby v blud uvedli, (by možné bylo,) také i vyvolené."
+        },
+        {
+          "number": 25,
+          "text": "Aj, předpověděl jsem vám."
+        },
+        {
+          "number": 26,
+          "text": "Protož řeknou-liť vám: Aj, na poušti jest, nevycházejte. Aj, v skrýších, nevěřte."
+        },
+        {
+          "number": 27,
+          "text": "Neb jakož blesk vychází od východu slunce, a ukazuje se až na západ, takť bude i příchod Syna člověka."
+        },
+        {
+          "number": 28,
+          "text": "Neboť kdežkoli bude tělo, tuť se sletí i orlice."
+        },
+        {
+          "number": 29,
+          "text": "A hned po soužení, kteréž bude těch dnů, slunce se zatmí a měsíc nedá světla svého a hvězdy budou padati s nebe a moci nebeské budou se pohybovati."
+        },
+        {
+          "number": 30,
+          "text": "A tehdyť se ukáže znamení Syna člověka na nebi, a tuť budou kvíliti všecka pokolení země, a uzříť Syna člověka přicházejícího na oblacích nebeských s mocí a slavou velikou."
+        },
+        {
+          "number": 31,
+          "text": "Kterýž pošle anděly své s hlasem velikým trouby, a shromáždíť vyvolené jeho ode čtyř větrů, od končin nebes až do končin jejich."
+        },
+        {
+          "number": 32,
+          "text": "Od stromu pak fíkového naučte se podobenství: Když již ratolest jeho odmladne a listí se pučí, porozumíváte, že blízko jest léto."
+        },
+        {
+          "number": 33,
+          "text": "Takéž i vy, když uzřeli byste toto všecko, vězte, žeť blízko jest a ve dveřích království Boží."
+        },
+        {
+          "number": 34,
+          "text": "Amen pravím vám, že nepomine věk tento, až se tyto všecky věci stanou."
+        },
+        {
+          "number": 35,
+          "text": "Nebe a země pominou, ale slova má nepominou."
+        },
+        {
+          "number": 36,
+          "text": "O tom pak dni a hodině té nižádný neví, ani andělé nebeští, jediné sám Otec můj."
+        },
+        {
+          "number": 37,
+          "text": "Ale jakož bylo za dnů Noé, takť bude i příchod Syna člověka."
+        },
+        {
+          "number": 38,
+          "text": "Nebo jakož jsou za dnů těch před potopou žrali a pili, ženili se a vdávaly se, až do toho dne, když Noé všel do korábu,"
+        },
+        {
+          "number": 39,
+          "text": "A nezvěděli, až přišla potopa, a zachvátila všecky, takť bude i příští Syna člověka."
+        },
+        {
+          "number": 40,
+          "text": "Tehdyť dva budou na poli; jeden bude vzat, a druhý zanechán."
+        },
+        {
+          "number": 41,
+          "text": "Dvě budou ve mlýně při žernovu; jedna bude vzata, a druhá zanechána."
+        },
+        {
+          "number": 42,
+          "text": "Bdětež tedy, poněvadž nevíte, v kterou hodinu Pán váš přijíti má."
+        },
+        {
+          "number": 43,
+          "text": "Toto pak vězte, že byť věděl hospodář, v které by bdění zloděj měl přijíti, bděl by zajisté, a nedalť by podkopati domu svého."
+        },
+        {
+          "number": 44,
+          "text": "Protož i vy buďte hotovi; nebo v tu hodinu, v kterouž se nenadějete, Syn člověka přijde."
+        },
+        {
+          "number": 45,
+          "text": "Kdoť tedy jest služebník věrný a opatrný, kteréhož ustanovil pán jeho nad čeledí svou, aby jim dával pokrm v čas?"
+        },
+        {
+          "number": 46,
+          "text": "Blahoslavený služebník ten, kteréhož, přijda pán jeho, nalezl by, an tak činí."
+        },
+        {
+          "number": 47,
+          "text": "Amen pravím vám, že nade vším statkem svým ustanoví jej."
+        },
+        {
+          "number": 48,
+          "text": "Jestliže by pak řekl zlý služebník ten v srdci svém: Prodlévá pán můj přijíti,"
+        },
+        {
+          "number": 49,
+          "text": "I počal by bíti spoluslužebníky, jísti a píti s opilci,"
+        },
+        {
+          "number": 50,
+          "text": "Přijdeť pán služebníka toho v den, v kterýž se nenaděje, a v hodinu, v kterouž neví."
+        },
+        {
+          "number": 51,
+          "text": "I oddělíť jej, a díl jeho položí s pokrytci. Tamť bude pláč a škřipení zubů."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tehdy podobno bude království nebeské desíti pannám, kteréžto vzavše lampy své, vyšly proti Ženichovi."
+        },
+        {
+          "number": 2,
+          "text": "Pět pak z nich bylo opatrných, a pět bláznivých."
+        },
+        {
+          "number": 3,
+          "text": "Ty bláznivé vzavše lampy své, nevzaly s sebou oleje."
+        },
+        {
+          "number": 4,
+          "text": "Opatrné pak vzaly olej v nádobkách svých s lampami svými."
+        },
+        {
+          "number": 5,
+          "text": "A když prodléval Ženich, zdřímaly se všecky a zesnuly."
+        },
+        {
+          "number": 6,
+          "text": "O půlnoci pak stal se křik: Aj, Ženich jde, vyjděte proti němu."
+        },
+        {
+          "number": 7,
+          "text": "Tedy vstaly všecky panny ty, a ozdobily lampy své."
+        },
+        {
+          "number": 8,
+          "text": "Bláznivé pak opatrným řekly: Udělte nám oleje vašeho, nebo lampy naše hasnou."
+        },
+        {
+          "number": 9,
+          "text": "I odpověděly opatrné, řkouce: Bojíme se, že by se snad ani nám i vám nedostalo, jděte raději k prodavačům a kupte sobě."
+        },
+        {
+          "number": 10,
+          "text": "A když odešly kupovati, přišel Ženich, a které hotovy byly, vešly s ním na svadbu, i zavříny jsou dveře."
+        },
+        {
+          "number": 11,
+          "text": "Potom pak přišly i ty druhé panny, řkouce: Pane, pane, otevři nám."
+        },
+        {
+          "number": 12,
+          "text": "A on odpověděv, řekl: Amen, pravím vám, neznámť vás."
+        },
+        {
+          "number": 13,
+          "text": "Bdětež tedy; neb nevíte dne ani hodiny, v kterou Syn člověka přijde."
+        },
+        {
+          "number": 14,
+          "text": "Neb tak se díti bude, jako když člověk jeden, jda na cestu, povolal služebníků svých a poručil jim statek svůj."
+        },
+        {
+          "number": 15,
+          "text": "I dal jednomu pět hřiven, jinému pak dvě, a jinému jednu, každému podle možnosti jeho, i odšel hned."
+        },
+        {
+          "number": 16,
+          "text": "Odšed pak ten, kterýž vzal pět hřiven, těžel jimi, i vydělal jiných pět hřiven."
+        },
+        {
+          "number": 17,
+          "text": "Též i ten, kterýž vzal dvě, získal jiné dvě."
+        },
+        {
+          "number": 18,
+          "text": "Ale ten, kterýž vzal jednu, odšed, zakopal ji v zemi, a skryl peníze pána svého."
+        },
+        {
+          "number": 19,
+          "text": "Po mnohém pak času přišel pán služebníků těch, i činil počet s nimi."
+        },
+        {
+          "number": 20,
+          "text": "A přistoupiv ten, kterýž byl pět hřiven vzal, podal jiných pěti hřiven, řka: Pane, pět hřiven dal jsi mi, aj, jiných pět hřiven získal jsem jimi."
+        },
+        {
+          "number": 21,
+          "text": "I řekl mu pán jeho: To dobře, služebníče dobrý a věrný, nad málem byl jsi věrný, nad mnohem tebe ustanovím. Vejdiž v radost pána svého."
+        },
+        {
+          "number": 22,
+          "text": "Přistoupiv pak ten, kterýž byl dvě hřivně vzal, dí: Pane, dvě hřivně jsi mi dal, aj, jiné dvě jimi získal jsem."
+        },
+        {
+          "number": 23,
+          "text": "Řekl mu pán jeho: To dobře, služebníče dobrý a věrný, nad málem byl jsi věrný, nad mnohem tebe ustanovím. Vejdiž v radost pána svého."
+        },
+        {
+          "number": 24,
+          "text": "Přistoupiv pak i ten, kterýž vzal jednu hřivnu, řekl: Pane, věděl jsem, že jsi ty člověk přísný, žna, kde jsi nerozsíval, a sbíraje, kde jsi nerozsypal,"
+        },
+        {
+          "number": 25,
+          "text": "I boje se, odšel jsem a skryl hřivnu tvou v zemi. Aj, teď máš, což tvého jest."
+        },
+        {
+          "number": 26,
+          "text": "A odpovídaje pán jeho, řekl mu: Služebníče zlý a lenivý, věděl jsi, že žnu, kdež jsem nerozsíval, a sbírám, kdež jsem nerozsypal,"
+        },
+        {
+          "number": 27,
+          "text": "Protož měl jsi ty peníze mé dáti penězoměncům, a já přijda, vzal byl bych, což jest mého, s požitkem."
+        },
+        {
+          "number": 28,
+          "text": "Nu vezmětež od něho tu hřivnu, a dejte tomu, kterýž má deset hřiven."
+        },
+        {
+          "number": 29,
+          "text": "(Nebo každému majícímu bude dáno, a budeť hojně míti, od nemajícího pak i to, což má, budeť odjato.)"
+        },
+        {
+          "number": 30,
+          "text": "A toho neužitečného služebníka uvrztež do temností zevnitřních. Tamť bude pláč a škřipení zubů."
+        },
+        {
+          "number": 31,
+          "text": "A když přijde Syn člověka v slávě své, a všickni svatí andělé s ním, tedy se posadí na trůnu velebnosti své,"
+        },
+        {
+          "number": 32,
+          "text": "A shromážděni budou před něj všickni národové. I rozdělí je na různo, jedny od druhých, tak jako pastýř odděluje ovce od kozlů."
+        },
+        {
+          "number": 33,
+          "text": "A postavíť ovce zajisté na pravici své, kozly pak na levici."
+        },
+        {
+          "number": 34,
+          "text": "Tedy dí Král těm, kteříž na pravici jeho budou: Pojďte požehnaní Otce mého, dědičně vládněte královstvím, vám připraveným od ustanovení světa."
+        },
+        {
+          "number": 35,
+          "text": "Nebo jsem lačněl, a dali jste mi jísti; žíznil jsem, a dali jste mi píti; hostem jsem býval, a přijali jste mne;"
+        },
+        {
+          "number": 36,
+          "text": "Nah jsem byl, a přioděli jste mne; nemocen jsem byl, a navštívili jste mne; v žaláři jsem seděl, a přicházeli jste ke mně."
+        },
+        {
+          "number": 37,
+          "text": "Tedy odpovědí jemu spravedliví, řkouce: Pane, kdy jsme tě vídali lačného, a krmili jsme tebe, žíznivého, a dávaliť jsme nápoj?"
+        },
+        {
+          "number": 38,
+          "text": "Aneb kdy jsme tě viděli hostě, a přijali jsme tebe, anebo nahého, a přioděli jsme tebe?"
+        },
+        {
+          "number": 39,
+          "text": "Aneb kdy jsme tě viděli nemocného, aneb v žaláři, a přicházeli jsme k tobě?"
+        },
+        {
+          "number": 40,
+          "text": "A odpovídaje Král, dí jim: Amen pravím vám: Cožkoli jste činili jednomu z bratří těchto mých nejmenších, mně jste učinili."
+        },
+        {
+          "number": 41,
+          "text": "Potom dí i těm, kteříž na levici budou: Jděte ode mne zlořečení do ohně věčného, kterýž jest připraven ďáblu i andělům jeho."
+        },
+        {
+          "number": 42,
+          "text": "Neboť jsem lačněl, a nedali jste mi jísti; žíznil jsem, a nedali jste mi píti;"
+        },
+        {
+          "number": 43,
+          "text": "Hostem jsem byl, a nepřijali jste mne; nah, a neodívali jste mne; nemocen a v žaláři jsem byl, a nenavštívili jste mne."
+        },
+        {
+          "number": 44,
+          "text": "Tedy odpovědí jemu i oni, řkouce: Pane, kdy jsme tebe vídali lačného, neb žíznivého, aneb hostě, nebo nahého, neb nemocného, aneb v žaláři, a neposloužili jsme tobě?"
+        },
+        {
+          "number": 45,
+          "text": "Tedy odpoví jim, řka: Amen pravím vám: Èehož jste koli nečinili jednomu z nejmenších těchto, mně jste nečinili."
+        },
+        {
+          "number": 46,
+          "text": "I půjdou tito do trápení věčného, ale spravedliví do života věčného."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I stalo se, když dokonal Ježíš řeči tyto všecky, řekl učedlníkům svým:"
+        },
+        {
+          "number": 2,
+          "text": "Víte, že po dvou dnech velikanoc bude a Syn člověka zrazen bude, aby byl ukřižován."
+        },
+        {
+          "number": 3,
+          "text": "Tedy sešli se přední kněží a zákoníci, i starší lidu na síň nejvyššího kněze, kterýž sloul Kaifáš."
+        },
+        {
+          "number": 4,
+          "text": "A radili se, jak by Ježíše lstivě jali a zamordovali."
+        },
+        {
+          "number": 5,
+          "text": "Ale pravili: Ne v den sváteční, aby snad nebyl rozbroj v lidu."
+        },
+        {
+          "number": 6,
+          "text": "Když pak byl Ježíš v Betany, v domu Šimona malomocného,"
+        },
+        {
+          "number": 7,
+          "text": "Přistoupila k němu žena, mající nádobu alabastrovou masti drahé, i vylila ji na hlavu jeho, když seděl za stolem."
+        },
+        {
+          "number": 8,
+          "text": "A vidouce to učedlníci jeho, rozhněvali se, řkouce: I k čemu jest ztráta tato?"
+        },
+        {
+          "number": 9,
+          "text": "Neb mohla tato mast prodána býti za mnoho, a dáno býti chudým."
+        },
+        {
+          "number": 10,
+          "text": "A znaje to Ježíš, dí jim: Proč za zlé máte této ženě? Dobrý zajisté skutek učinila nade mnou."
+        },
+        {
+          "number": 11,
+          "text": "Nebo chudé vždycky máte s sebou, ale mne ne vždycky míti budete."
+        },
+        {
+          "number": 12,
+          "text": "Vylivši zajisté tato mast tuto na mé tělo, ku pohřebu mému to učinila."
+        },
+        {
+          "number": 13,
+          "text": "Amen pravím vám: Kdežkoli kázáno bude evangelium toto po všem světě, takéť i to bude praveno, co učinila tato, na památku její."
+        },
+        {
+          "number": 14,
+          "text": "Tedy odšed k předním kněžím, jeden ze dvanácti, kterýž sloul Jidáš Iškariotský,"
+        },
+        {
+          "number": 15,
+          "text": "Řekl jim: Co mi chcete dáti, a já vám ho zradím? A oni uložili jemu dáti třidceti stříbrných."
+        },
+        {
+          "number": 16,
+          "text": "A od té chvíle hledal příhodného času, aby ho zradil."
+        },
+        {
+          "number": 17,
+          "text": "Prvního pak dne přesnic, přistoupili k Ježíšovi učedlníci, řkouce jemu: Kde chceš, ať připravíme tobě, abys jedl beránka?"
+        },
+        {
+          "number": 18,
+          "text": "On pak řekl: Jděte tam k jednomu do města, a rcete jemu: Vzkázalť Mistr: Èas můj blízko jest, u tebeť jísti budu beránka s učedlníky svými."
+        },
+        {
+          "number": 19,
+          "text": "I učinili učedlníci tak, jakož jim poručil Ježíš, a připravili beránka."
+        },
+        {
+          "number": 20,
+          "text": "A když byl večer, posadil se za stůl se dvanácti."
+        },
+        {
+          "number": 21,
+          "text": "A když jedli, řekl jim: Amen pravím vám, že jeden z vás mne zradí."
+        },
+        {
+          "number": 22,
+          "text": "I zarmoutivše se velmi, počali každý z nich říci jemu: Zdali já jsem, Pane?"
+        },
+        {
+          "number": 23,
+          "text": "On pak odpovídaje, řekl: Kdo omáčí se mnou rukou v míse, tenť mne zradí."
+        },
+        {
+          "number": 24,
+          "text": "Synť zajisté člověka jde, jakož psáno o něm, ale běda člověku tomu, skrze něhož Syn člověka zrazen bude. Dobré by bylo jemu, by se byl nenarodil člověk ten."
+        },
+        {
+          "number": 25,
+          "text": "Odpovídaje pak Jidáš, kterýž ho zrazoval, dí: Zdali já jsem, Mistře? Řekl jemu: Ty jsi řekl."
+        },
+        {
+          "number": 26,
+          "text": "A když oni jedli, vzav Ježíš chléb a dobrořečiv, lámal, a dal učedlníkům, a řekl: Vezměte, jezte, to jest tělo mé."
+        },
+        {
+          "number": 27,
+          "text": "A vzav kalich, a díky činiv, dal jim, řka: Pijte z toho všickni."
+        },
+        {
+          "number": 28,
+          "text": "Neb to jest krev má nové smlouvy, kteráž za mnohé vylévá se na odpuštění hříchů."
+        },
+        {
+          "number": 29,
+          "text": "Ale pravímť vám, žeť nebudu píti již více z tohoto plodu vinného kořene, až do onoho dne, když jej píti budu s vámi nový v království Otce mého."
+        },
+        {
+          "number": 30,
+          "text": "A sezpívavše písničku, vyšli na horu Olivetskou."
+        },
+        {
+          "number": 31,
+          "text": "Tedy dí jim Ježíš: Všickni vy zhoršíte se nade mnou této noci. Nebo psáno jest: Bíti budu pastýře, a rozprchnouť se ovce stáda."
+        },
+        {
+          "number": 32,
+          "text": "Ale když z mrtvých vstanu, předejdu vás do Galilee."
+        },
+        {
+          "number": 33,
+          "text": "Odpovídaje pak Petr, řekl jemu: Byť se pak všickni zhoršili nad tebou, jáť se nikdy nezhorším."
+        },
+        {
+          "number": 34,
+          "text": "Dí mu Ježíš: Amen pravím tobě, že této noci, prve než kohout zazpívá, třikrát mne zapříš."
+        },
+        {
+          "number": 35,
+          "text": "Řekl jemu Petr: Bychť pak měl také s tebou umříti, nezapřím tebe. Takž podobně i všickni učedlníci pravili."
+        },
+        {
+          "number": 36,
+          "text": "Tedy přišel s nimi Ježíš na místo, kteréž sloulo Getsemany. I dí učedlníkům: Poseďtež tuto, ažť odejda, pomodlím se tamto."
+        },
+        {
+          "number": 37,
+          "text": "A pojav s sebou Petra a dva syny Zebedeovy, počal se rmoutiti a teskliv býti."
+        },
+        {
+          "number": 38,
+          "text": "Tedy řekl jim: Smutnáť jest duše má až k smrti. Pozůstaňtež tuto a bděte se mnou."
+        },
+        {
+          "number": 39,
+          "text": "A poodšed maličko, padl na tvář svou, modle se a řka: Otče můj, jest-li možné, nechť odejde ode mne kalich tento. Avšak ne jakž já chci, ale jakž ty chceš."
+        },
+        {
+          "number": 40,
+          "text": "I přišel k učedlníkům, a nalezl je, ani spí. I řekl Petrovi: Tak-liž jste nemohli jediné hodiny bdíti se mnou?"
+        },
+        {
+          "number": 41,
+          "text": "Bdětež a modlte se, abyste nevešli v pokušení. Duchť zajisté hotov jest, ale tělo nemocno."
+        },
+        {
+          "number": 42,
+          "text": "Opět po druhé odšed, modlil se, řka: Otče můj, nemůže-liť tento kalich minouti mne, než abych jej pil, staniž se vůle tvá."
+        },
+        {
+          "number": 43,
+          "text": "I přišed k nim, nalezl je, a oni zase spí; nebo byly oči jejich obtíženy."
+        },
+        {
+          "number": 44,
+          "text": "A nechav jich, opět odšel, a modlil se po třetí, touž řeč říkaje."
+        },
+        {
+          "number": 45,
+          "text": "Tedy přišel k učedlníkům svým, a řekl jim: Spětež již a odpočívejte. Aj, přiblížila se hodina, a Syna člověka zrazují v ruce hříšných."
+        },
+        {
+          "number": 46,
+          "text": "Vstaňtež, pojďme. Aj, přiblížil se ten, jenž mne zrazuje."
+        },
+        {
+          "number": 47,
+          "text": "A když on ještě mluvil, aj, Jidáš, jeden ze dvanácti, přišel, a s ním zástup mnohý s meči a s kyjmi, poslaných od předních kněží a starších lidu."
+        },
+        {
+          "number": 48,
+          "text": "Ten pak, jenž jej zrazoval, dal jim znamení, řka: Kteréhožťkoli políbím, ten jest; držtež jej."
+        },
+        {
+          "number": 49,
+          "text": "A hned přistoupiv k Ježíšovi, řekl: Zdráv buď, Mistře, a políbil jej."
+        },
+        {
+          "number": 50,
+          "text": "I řekl jemu Ježíš: Příteli, nač jsi přišel? Tedy přistoupili a ruce vztáhli na Ježíše a jali ho."
+        },
+        {
+          "number": 51,
+          "text": "A aj, jeden z těch, kteříž byli s Ježíšem, vztáh ruku, vytrhl meč svůj; a udeřiv služebníka nejvyššího kněze, uťal ucho jeho."
+        },
+        {
+          "number": 52,
+          "text": "Tedy dí jemu Ježíš: Obrať meč svůj v místo jeho; nebo všickni, kteříž meč berou, od meče zahynou."
+        },
+        {
+          "number": 53,
+          "text": "Zdaliž mníš, že bych nyní nemohl prositi Otce svého, a vydal by mi více nežli dvanácte houfů andělů?"
+        },
+        {
+          "number": 54,
+          "text": "Ale kterak by se pak naplnila Písma, kteráž svědčí, že tak musí býti?"
+        },
+        {
+          "number": 55,
+          "text": "V tu hodinu řekl Ježíš k zástupům: Jako na lotra vyšli jste s meči a s kyjmi jímati mne. Na každý den sedával jsem u vás, uče v chrámě, a nejali jste mne."
+        },
+        {
+          "number": 56,
+          "text": "Ale toto se všecko stalo, aby se naplnila Písma prorocká. Tedy učedlníci všickni opustivše ho, utekli."
+        },
+        {
+          "number": 57,
+          "text": "A oni javše Ježíše, vedli ho k Kaifášovi nejvyššímu knězi, kdežto zákoníci a starší byli se sešli."
+        },
+        {
+          "number": 58,
+          "text": "Ale Petr šel za ním zdaleka, až do síně nejvyššího kněze. A všed vnitř, seděl s služebníky, aby viděl všeho toho konec."
+        },
+        {
+          "number": 59,
+          "text": "Přední pak kněží a starší a všecka ta rada hledali falešného svědectví proti Ježíšovi, aby jej na smrt vydali,"
+        },
+        {
+          "number": 60,
+          "text": "I nenalezli. A ačkoli mnozí falešní svědkové přistupovali, však nenalézali. Naposledy pak přišli dva falešní svědkové,"
+        },
+        {
+          "number": 61,
+          "text": "A řekli: Tento jest pověděl: Mohu zbořiti chrám Boží a ve třech dnech zase jej ustavěti."
+        },
+        {
+          "number": 62,
+          "text": "A povstav nejvyšší kněz, řekl jemu: Nic neodpovídáš? Což pak tito proti tobě svědčí?"
+        },
+        {
+          "number": 63,
+          "text": "Ale Ježíš mlčel. I odpovídaje nejvyšší kněz, řekl k němu: Zaklínám tě skrze Boha živého, abys nám pověděl, jsi-li ty Kristus Syn Boží?"
+        },
+        {
+          "number": 64,
+          "text": "Dí mu Ježíš: Ty jsi řekl. Ale však pravím vám: Od toho času uzříte Syna člověka sedícího na pravici moci Boží a přicházejícího na oblacích nebeských."
+        },
+        {
+          "number": 65,
+          "text": "Tedy nejvyšší kněz roztrhl roucho své, a řekl: Rouhal se. Což ještě potřebujeme svědků? Aj, nyní jste slyšeli rouhání jeho."
+        },
+        {
+          "number": 66,
+          "text": "Co se vám zdá? A oni odpovídajíce, řekli: Hodenť jest smrti."
+        },
+        {
+          "number": 67,
+          "text": "Tedy plili na tvář jeho a pohlavkovali jej; jiní pak hůlkami jej bili,"
+        },
+        {
+          "number": 68,
+          "text": "Říkajíce: Hádej nám, Kriste, kdo jest ten, kterýž tebe udeřil?"
+        },
+        {
+          "number": 69,
+          "text": "Ale Petr seděl vně v síni. I přistoupila k němu jedna děvečka, řkuci: I ty jsi byl s Ježíšem tím Galilejským."
+        },
+        {
+          "number": 70,
+          "text": "On pak zapřel přede všemi, řka: Nevím, co pravíš."
+        },
+        {
+          "number": 71,
+          "text": "A když vycházel ze dveří, uzřela jej jiná děvečka. I řekla těm, kteříž tu byli: I tento byl s Ježíšem tím Nazaretským."
+        },
+        {
+          "number": 72,
+          "text": "A on opět zapřel s přísahou, řka: Neznám toho člověka."
+        },
+        {
+          "number": 73,
+          "text": "A po malé chvíli přistoupili blíže, kteříž tu stáli, i řekli Petrovi: Jistě i ty z nich jsi, neb i řeč tvá známa tebe činí."
+        },
+        {
+          "number": 74,
+          "text": "Tedy počal se proklínati a přisahati, řka: Neznám toho člověka. A hned kohout zazpíval."
+        },
+        {
+          "number": 75,
+          "text": "I rozpomenul se Petr na slovo Ježíšovo, kterýž jemu byl řekl: Že prve než kohout zazpívá, třikrát mne zapříš. A vyšed ven, plakal hořce."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A když bylo ráno, vešli v radu všickni přední kněží a starší lidu proti Ježíšovi, aby jej na smrt vydali."
+        },
+        {
+          "number": 2,
+          "text": "I svázavše jej, vedli, a vydali ho Pontskému Pilátovi hejtmanu."
+        },
+        {
+          "number": 3,
+          "text": "Tedy vida Jidáš, zrádce jeho, že by odsouzen byl, želeje toho, navrátil zase třidceti stříbrných předním kněžím a starším,"
+        },
+        {
+          "number": 4,
+          "text": "Řka: Zhřešil jsem, zradiv krev nevinnou. Oni pak řekli: Co nám do toho? Ty viz."
+        },
+        {
+          "number": 5,
+          "text": "A on povrh ty stříbrné v chrámě, odšel pryč, a odšed, oběsil se."
+        },
+        {
+          "number": 6,
+          "text": "A přední kněží vzavše peníze, řekli: Neslušíť jich vložiti do pokladnice, nebo mzda krve jest."
+        },
+        {
+          "number": 7,
+          "text": "A poradivše se, koupili za ně pole to hrnčířovo, ku pohřebu poutníků."
+        },
+        {
+          "number": 8,
+          "text": "Protož nazváno jest pole to pole krve, až do dnešního dne."
+        },
+        {
+          "number": 9,
+          "text": "A tehdy naplnilo se povědění skrze Jeremiáše proroka řkoucího: A vzali třidceti stříbrných, mzdu ceněného, kterýž šacován byl od synů Izraelských,"
+        },
+        {
+          "number": 10,
+          "text": "A dali je za pole hrnčířovo, jakož mi ustanovil Pán."
+        },
+        {
+          "number": 11,
+          "text": "Ježíš pak stál před vladařem. A otázal se ho vladař, řka: Ty-li jsi ten král Židovský? Řekl jemu Ježíš: Ty pravíš."
+        },
+        {
+          "number": 12,
+          "text": "A když na něj přední kněží a starší žalovali, nic neodpověděl."
+        },
+        {
+          "number": 13,
+          "text": "Tedy dí mu Pilát: Neslyšíš-li, kteraké věci proti tobě svědčí?"
+        },
+        {
+          "number": 14,
+          "text": "Ale on neodpověděl jemu k žádnému slovu, takže se vladař tomu velmi divil."
+        },
+        {
+          "number": 15,
+          "text": "Měl pak obyčej vladař v svátek propustiti lidu vězně jednoho, kteréhož by chtěli."
+        },
+        {
+          "number": 16,
+          "text": "I měli v ten čas vězně jednoho znamenitého, kterýž sloul Barabbáš."
+        },
+        {
+          "number": 17,
+          "text": "Protož když se lidé sešli, řekl: Kterého chcete, ať vám propustím? Barabbáše-li, čili Ježíše, jenž slove Kristus?"
+        },
+        {
+          "number": 18,
+          "text": "Neboť věděl, že jej z závisti vydali."
+        },
+        {
+          "number": 19,
+          "text": "A když seděl na soudné stolici, poslala k němu žena jeho, řkuci: Nic neměj činiti s spravedlivým tímto, nebo jsem mnoho trpěla dnes ve snách pro něho."
+        },
+        {
+          "number": 20,
+          "text": "Ale přední kněží a starší navedli lid, aby prosili za Barabbáše, Ježíše pak aby zahubili."
+        },
+        {
+          "number": 21,
+          "text": "I odpověděv vladař, řekl jim: Kterého chcete ze dvou, ať vám propustím? A oni řekli: Barabbáše."
+        },
+        {
+          "number": 22,
+          "text": "Dí jim Pilát: Co pak učiním s Ježíšem, jenž slove Kristus? Řekli mu všickni: Ukřižován buď."
+        },
+        {
+          "number": 23,
+          "text": "Vladař pak řekl: I což jest zlého učinil? Oni pak více volali, řkouce: Ukřižován buď."
+        },
+        {
+          "number": 24,
+          "text": "A vida Pilát, že by nic neprospěl, ale že by větší rozbroj byl, vzav vodu, umyl ruce před lidem, řka: Èist jsem já od krve spravedlivého tohoto. Vy vizte."
+        },
+        {
+          "number": 25,
+          "text": "A odpověděv všecken lid, řekl: Krev jeho na nás i na naše syny."
+        },
+        {
+          "number": 26,
+          "text": "Tedy propustil jim Barabbáše, ale Ježíše zbičovav, vydal, aby byl ukřižován."
+        },
+        {
+          "number": 27,
+          "text": "Tedy žoldnéři hejtmanovi, vzavše Ježíše do radného domu, shromáždili k němu všecku svou rotu."
+        },
+        {
+          "number": 28,
+          "text": "A svlékše jej, přiodíli ho pláštěm brunátným."
+        },
+        {
+          "number": 29,
+          "text": "A spletše korunu z trní, vstavili na hlavu jeho, a dali třtinu v pravou ruku jeho, a klekajíce před ním, posmívali se jemu, řkouce: Zdráv buď, ó králi Židovský."
+        },
+        {
+          "number": 30,
+          "text": "A plijíce na něho, brali třtinu a bili jej v hlavu."
+        },
+        {
+          "number": 31,
+          "text": "A když se mu naposmívali, svlékli s něho plášť, a oblékli jej v roucho jeho. I vedli ho, aby byl ukřižován."
+        },
+        {
+          "number": 32,
+          "text": "A vyšedše, nalezli člověka Cyrenenského, jménem Šimona. Toho přinutili, aby nesl kříž jeho."
+        },
+        {
+          "number": 33,
+          "text": "I přišedše na místo, kteréž slove Golgata, to jest popravné místo,"
+        },
+        {
+          "number": 34,
+          "text": "Dali mu píti octa, smíšeného se žlučí. A okusiv ho, nechtěl píti."
+        },
+        {
+          "number": 35,
+          "text": "Ukřižovavše pak jej, rozdělili roucha jeho, mecíce o ně los, aby se naplnilo povědění proroka, řkoucího: Rozdělili sobě roucho mé, a o můj oděv metali los."
+        },
+        {
+          "number": 36,
+          "text": "A sedíce, ostříhali ho tu."
+        },
+        {
+          "number": 37,
+          "text": "I vstavili nad hlavu jeho vinu jeho napsanou: Totoť jest Ježíš, ten král Židovský."
+        },
+        {
+          "number": 38,
+          "text": "I ukřižováni jsou s ním dva lotři, jeden na pravici a druhý na levici."
+        },
+        {
+          "number": 39,
+          "text": "Ti pak, kteříž chodili tudy, rouhali mu se, ukřivujíce hlav svých,"
+        },
+        {
+          "number": 40,
+          "text": "A říkajíce: Hej, ty jako rušíš chrám Boží a ve třech dnech jej zase vzděláváš, pomoziž sám sobě. Jsi-li Syn Boží, sestupiž s kříže."
+        },
+        {
+          "number": 41,
+          "text": "Tak podobně i přední kněží posmívajíce se s zákoníky a staršími, pravili:"
+        },
+        {
+          "number": 42,
+          "text": "Jiným pomáhal, sám sobě nemůž pomoci. Jestliže jest král Židovský, nechať nyní sstoupí s kříže, a uvěříme jemu."
+        },
+        {
+          "number": 43,
+          "text": "Doufalť v Boha, nechať ho nyní vysvobodí, chce-liť mu; nebo pravil: Syn Boží jsem."
+        },
+        {
+          "number": 44,
+          "text": "Takž také i lotři, kteříž byli s ním ukřižováni, utrhali jemu."
+        },
+        {
+          "number": 45,
+          "text": "Od šesté pak hodiny tma se stala po vší té zemi až do hodiny deváté."
+        },
+        {
+          "number": 46,
+          "text": "A při hodině deváté zvolal Ježíš hlasem velikým, řka: Eli, Eli, lama zabachtani? To jest: Bože můj, Bože můj, proč jsi mne opustil?"
+        },
+        {
+          "number": 47,
+          "text": "A někteří z těch, jenž tu stáli, slyšíce, pravili, že Eliáše volá tento."
+        },
+        {
+          "number": 48,
+          "text": "A hned jeden z nich běžev, vzal houbu, naplnil ji octem a vloživ na tresť, dával jemu píti."
+        },
+        {
+          "number": 49,
+          "text": "Ale jiní pravili: Nech tak, pohledíme, přijde-li Eliáš, aby ho vysvobodil."
+        },
+        {
+          "number": 50,
+          "text": "Ježíš pak opět volaje hlasem velikým, vypustil duši."
+        },
+        {
+          "number": 51,
+          "text": "A aj, opona chrámová roztrhla se na dvé, od vrchu až dolů, a země se třásla a skálé se pukalo,"
+        },
+        {
+          "number": 52,
+          "text": "A hrobové se otvírali, a mnohá těla zesnulých svatých vstala jsou."
+        },
+        {
+          "number": 53,
+          "text": "A vyšedše z hrobů, po vzkříšení jeho přišli do svatého města a ukázali se mnohým."
+        },
+        {
+          "number": 54,
+          "text": "Tedy centurio a ti, kteříž s ním byli, ostříhajíce Ježíše, vidouce zemětřesení a to, co se dálo, báli se velmi, řkouce: Jistě Syn Boží byl tento."
+        },
+        {
+          "number": 55,
+          "text": "Byly také tu ženy mnohé, zdaleka se dívajíce, kteréž byly přišly za Ježíšem od Galilee, posluhujíce jemu,"
+        },
+        {
+          "number": 56,
+          "text": "Mezi nimiž byla Maria Magdaléna a Maria, matka Jakubova a Jozesova, a matka synů Zebedeových."
+        },
+        {
+          "number": 57,
+          "text": "A když byl večer, přišel jeden člověk bohatý od Arimatie, jménem Jozef, kterýž také byl učedlník Ježíšův."
+        },
+        {
+          "number": 58,
+          "text": "Ten přistoupil ku Pilátovi a prosil za tělo Ježíšovo. Tedy Pilát rozkázal dáti tělo."
+        },
+        {
+          "number": 59,
+          "text": "A vzav tělo Ježíšovo Jozef, obvinul je v plátno čisté,"
+        },
+        {
+          "number": 60,
+          "text": "A vložil do svého nového hrobu, kterýž byl vytesal v skále; a přivaliv kámen veliký ke dveřům hrobovým, odšel."
+        },
+        {
+          "number": 61,
+          "text": "A byla tu Maria Magdaléna a druhá Maria, sedíce naproti hrobu."
+        },
+        {
+          "number": 62,
+          "text": "Druhého pak dne, kterýž byl po velikém pátku, sešli se přední kněží a farizeové ku Pilátovi,"
+        },
+        {
+          "number": 63,
+          "text": "Řkouce: Pane, rozpomenuli jsme se, že ten svůdce řekl, ještě živ jsa: Po třech dnech vstanu."
+        },
+        {
+          "number": 64,
+          "text": "Rozkažiž tedy ostříhati hrobu až do třetího dne, ať by snad učedlníci jeho, přijdouce v noci, neukradli ho, a řekli by lidu: Vstalť jest z mrtvých. I budeť poslední blud horší nežli první."
+        },
+        {
+          "number": 65,
+          "text": "Řekl jim Pilát: Máte stráž; jděte, ostříhejte, jakž víte."
+        },
+        {
+          "number": 66,
+          "text": "A oni šedše, osadili hrob strážnými, zapečetivše kámen."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Na skonání pak soboty, když již svitalo na první den toho téhodne, přišla Maria Magdaléna a druhá Maria, aby pohleděly na hrob."
+        },
+        {
+          "number": 2,
+          "text": "A aj, zemětřesení stalo se veliké. Nebo anděl Páně sstoupiv s nebe a přistoupiv, odvalil kámen ode dveří hrobových, a posadil se na něm."
+        },
+        {
+          "number": 3,
+          "text": "A byl obličej jeho jako blesk, a roucho jeho bílé jako sníh."
+        },
+        {
+          "number": 4,
+          "text": "A pro strach jeho zděsili se strážní a učiněni jsou jako mrtví."
+        },
+        {
+          "number": 5,
+          "text": "I odpověděv anděl, řekl ženám: Nebojte se vy, neboť vím, že Ježíše ukřižovaného hledáte."
+        },
+        {
+          "number": 6,
+          "text": "Neníť ho tuto; nebo vstalť jest, jakož předpověděl. Pojďte, a vizte místo, kdež ležel Pán."
+        },
+        {
+          "number": 7,
+          "text": "A rychle jdouce, povězte učedlníkům jeho, že vstal z mrtvých. A aj, předchází vás do Galilee, tam jej uzříte. Aj, pověděl jsem vám."
+        },
+        {
+          "number": 8,
+          "text": "I vyšedše rychle z hrobu s bázní a s radostí velikou, běžely, aby učedlníkům jeho zvěstovaly."
+        },
+        {
+          "number": 9,
+          "text": "Když pak šly zvěstovati učedlníkům jeho, aj, Ježíš potkal se s nimi, řka: Zdrávy buďte. A ony přistoupivše, chopily se noh jeho, a klaněly se jemu."
+        },
+        {
+          "number": 10,
+          "text": "Tedy dí jim Ježíš: Nebojtež se. Jděte, zvěstujte bratřím mým, ať jdou do Galilee, a tamť mne uzří."
+        },
+        {
+          "number": 11,
+          "text": "Když pak ony odešly, aj, někteří z stráže přišedše do města, oznámili předním kněžím všecko, co se stalo."
+        },
+        {
+          "number": 12,
+          "text": "Kteřížto shromáždivše se s staršími a uradivše se, mnoho peněz dali žoldnéřům,"
+        },
+        {
+          "number": 13,
+          "text": "Řkouce: Pravte, že učedlníci jeho nočně přišedše, ukradli jej, když jsme my spali."
+        },
+        {
+          "number": 14,
+          "text": "A uslyší-liť o tom hejtman, myť ho spokojíme a vás bezpečny učiníme."
+        },
+        {
+          "number": 15,
+          "text": "A oni vzavše peníze, učinili, jakž naučeni byli. I rozhlášeno jest slovo to u Židů až do dnešního dne."
+        },
+        {
+          "number": 16,
+          "text": "Jedenácte pak učedlníků šli do Galilee na horu, kdežto jim byl uložil Ježíš."
+        },
+        {
+          "number": 17,
+          "text": "A uzřevše ho, klaněli se jemu. Ale někteří pochybovali."
+        },
+        {
+          "number": 18,
+          "text": "A přistoupiv Ježíš, mluvil jim, řka: Dána jest mi všeliká moc na nebi i na zemi."
+        },
+        {
+          "number": 19,
+          "text": "Protož jdouce, učte všecky národy, křtíce je ve jméno Otce i Syna i Ducha svatého,"
+        },
+        {
+          "number": 20,
+          "text": "Učíce je zachovávati všecko, což jsem koli přikázal vám. A aj, já s vámi jsem po všecky dny, až do skonání světa. Amen."
+        }
+      ]
+    }
+  ]
+}

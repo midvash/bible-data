@@ -1,0 +1,635 @@
+{
+  "version": "lsb",
+  "book": "Gal",
+  "bookId": 48,
+  "englishName": "Galatians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paŭlo, apostolo (ne de homoj, nek per homo, sed per Jesuo Kristo, kaj Dio, la Patro, kiu levis lin el la mortintoj),"
+        },
+        {
+          "number": 2,
+          "text": "kaj ĉiuj fratoj, kiuj estas kun mi, al la eklezioj de Galatujo:"
+        },
+        {
+          "number": 3,
+          "text": "Graco al vi kaj paco de Dio, la Patro, kaj de nia Sinjoro Jesuo Kristo,"
+        },
+        {
+          "number": 4,
+          "text": "kiu sin donis pro niaj pekoj, por liberigi nin el la nuna malbona mondo, laŭ la volo de nia Dio kaj Patro;"
+        },
+        {
+          "number": 5,
+          "text": "al kiu estu la gloro por ĉiam kaj eterne. Amen."
+        },
+        {
+          "number": 6,
+          "text": "Mi miras, ke tiel rapide vi foriĝas for de Tiu, kiu vokis vin en la gracon de Kristo, al malsama evangelio;"
+        },
+        {
+          "number": 7,
+          "text": "kiu ja ne estas alia, sed troviĝas iuj, kiuj vin maltrankviligas kaj deziras renversi la evangelion de Kristo."
+        },
+        {
+          "number": 8,
+          "text": "Tamen se eĉ ni, aŭ anĝelo el la ĉielo, al vi instruus ian evangelion krom tiu, kiun ni jam al vi instruis, tiu estu anatemita."
+        },
+        {
+          "number": 9,
+          "text": "Kiel ni antaŭe diris, tiel nun mi denove diras: Se iu al vi instruas ian evangelion krom tiu, kiun vi ricevis, tiu estu anatemita."
+        },
+        {
+          "number": 10,
+          "text": "Ĉar ĉu mi nun influas homojn, aŭ Dion? aŭ ĉu mi celas plaĉi al homoj? se mi ankoraŭ nun plaĉus al homoj, mi ne estus servisto de Kristo."
+        },
+        {
+          "number": 11,
+          "text": "Ĉar mi sciigas vin, fratoj, rilate al la evangelio predikita de mi, ke ĝi ne estas laŭ homo."
+        },
+        {
+          "number": 12,
+          "text": "Ĉar mi ne ricevis ĝin de homo, kaj ĝi ne estas instruita al mi krom per malkaŝo de Jesuo Kristo."
+        },
+        {
+          "number": 13,
+          "text": "Ĉar vi iam aŭdis pri mia estinta vivmaniero en Judismo, ke mi forte persekutis la eklezion de Dio kaj ĝin atakis;"
+        },
+        {
+          "number": 14,
+          "text": "kaj mi plimulte progresis en Judismo, ol multaj miaj samaĝuloj en mia nacio, estante multe pli fervoranima pri la tradicioj de miaj prapatroj."
+        },
+        {
+          "number": 15,
+          "text": "Sed kiam bonvole plaĉis al Dio, kiu el la ventro de mia patrino apartigis min kaj per Sia graco min vokis,"
+        },
+        {
+          "number": 16,
+          "text": "por malkaŝi en mi Sian Filon, por ke mi prediku lin inter la nacianoj: mi ne konsiliĝis kun karno kaj sango,"
+        },
+        {
+          "number": 17,
+          "text": "kaj mi ne supreniris al Jerusalem, al la antaŭ mi apostoloj, sed mi tuj foriris en Arabujon, kaj poste mi revenis al Damasko."
+        },
+        {
+          "number": 18,
+          "text": "Tiam, post tri jaroj, mi supreniris al Jerusalem, por viziti Kefason, kaj mi restis kun li dek kvin tagojn."
+        },
+        {
+          "number": 19,
+          "text": "Sed neniun alian el la apostoloj mi vidis, krom Jakobo, la frato de la Sinjoro."
+        },
+        {
+          "number": 20,
+          "text": "Pri tio, kion mi skribas al vi, jen, antaŭ Dio, mi ne mensogas."
+        },
+        {
+          "number": 21,
+          "text": "Poste mi venis en la regionojn de Sirio kaj Kilikio."
+        },
+        {
+          "number": 22,
+          "text": "Kaj mi ankoraŭ estis vizaĝe nekonata de la eklezioj de Judujo, kiuj estis en Kristo;"
+        },
+        {
+          "number": 23,
+          "text": "sed ili nur aŭdis la jenon: Kiu nin iam persekutis, tiu nun predikas la fidon, kiun iam li atakis;"
+        },
+        {
+          "number": 24,
+          "text": "kaj ili gloris Dion en mi."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Tiam, post intertempo de dek kvar jaroj, mi denove supreniris al Jerusalem kun Barnabas, kunkondukante ankaŭ Titon."
+        },
+        {
+          "number": 2,
+          "text": "Kaj mi supreniris laŭ Dia malkaŝo; kaj mi prezentis al ili la evangelion, kiun mi predikas inter la nacianoj, sed aparte al la eminentuloj, por ke mi ne estu vane kuranta, aŭ kurinta."
+        },
+        {
+          "number": 3,
+          "text": "Sed eĉ Titon, kiu estis kun mi, estante Greko, oni ne devigis cirkumcidiĝi;"
+        },
+        {
+          "number": 4,
+          "text": "sed tio estis pro la kaŝe enportitaj fratoj, kiuj ruze envenis, por spioni nian liberecon en Kristo Jesuo, por ke ili nin sklavigu;"
+        },
+        {
+          "number": 5,
+          "text": "al kiuj ni ne submetiĝis cedeme, eĉ por unu horo; por ke la vero de la evangelio restadu kun vi."
+        },
+        {
+          "number": 6,
+          "text": "Sed el tiuj, kiuj ŝajne iom valoris (kiaj ajn ili estis, tio por mi ne estas grava: ĉe Dio ne estas personfavorado) -tiuj valoruloj nenion aldonis al mi;"
+        },
+        {
+          "number": 7,
+          "text": "sed kontraŭe, kiam ili vidis, ke je la evangelio de la necirkumcido mi estas komisiita tiel same, kiel Petro je la evangelio de la cirkumcido"
+        },
+        {
+          "number": 8,
+          "text": "(ĉar Tiu, kiu forte energiis en Petro por la apostoleco de la cirkumcido, ankaŭ energiis en mi por la nacianoj),"
+        },
+        {
+          "number": 9,
+          "text": "Jakobo kaj Kefas kaj Johano, kiuj ŝajne estis kolonoj, rimarkinte la gracon donitan al mi, donis al mi kaj al Barnabas la dekstrajn manojn de kunuleco, por ke ni iru al la nacianoj, kaj ili al la cirkumcidularo;"
+        },
+        {
+          "number": 10,
+          "text": "kondiĉe nur, ke ni memoru la malriĉulojn, kion ja mi klopodis jam fari."
+        },
+        {
+          "number": 11,
+          "text": "Sed kiam venis Kefas al Antioĥia, mi lin rezistis vizaĝon kontraŭ vizaĝo, ĉar li estis mallaŭdinda."
+        },
+        {
+          "number": 12,
+          "text": "Ĉar antaŭ ol iuj alvenis de Jakobo, li kunmanĝis kun la nacianoj; sed kiam ili alvenis, li sin fortiris kaj apartigis, timante tiujn, kiuj estis el la cirkumcido."
+        },
+        {
+          "number": 13,
+          "text": "Kaj la aliaj Judoj kune hipokritis, tiel ke eĉ Barnabas mem fortiriĝis per ilia hipokriteco."
+        },
+        {
+          "number": 14,
+          "text": "Kaj kiam mi vidis, ke ili ne prave kondutas laŭ la vero de la evangelio, mi diris al Kefas antaŭ ĉiuj: Se vi, estante Judo, naciane vivas, kaj ne kiel Judoj, kial vi devigas la nacianojn agi laŭ Judismo?"
+        },
+        {
+          "number": 15,
+          "text": "Ni, nature Judoj, kaj ne pekuloj el la nacianoj,"
+        },
+        {
+          "number": 16,
+          "text": "sciante, ke praviĝas homo ne per faroj de la leĝo, sed nur per fido al Jesuo Kristo, ni mem en Kristo Jesuo kredis, por ke ni praviĝu per fido al Kristo, kaj ne per faroj de la leĝo; tial, ke per faroj de la leĝo neniu karno praviĝos."
+        },
+        {
+          "number": 17,
+          "text": "Sed se, dezirante praviĝi en Kristo, ni mem montriĝis pekuloj, ĉu Kristo estas servanto de peko? Nepre ne!"
+        },
+        {
+          "number": 18,
+          "text": "Ĉar se mi rekonstruas tion, kion mi detruis, mi montras min pekulo."
+        },
+        {
+          "number": 19,
+          "text": "Ĉar per la leĝo mi al la leĝo mortis, por ke mi al Dio vivu."
+        },
+        {
+          "number": 20,
+          "text": "Kun Kristo mi krucumiĝis, tamen mi vivas; jam ne mi mem, sed Kristo vivas en mi; kaj tiun vivon, kiun mi vivas en karno, mi vivas en fido al la Filo de Dio, kiu min amis kaj sin donis pro mi."
+        },
+        {
+          "number": 21,
+          "text": "Mi ne vanigas la gracon de Dio; ĉar se per la leĝo venas justeco, Kristo ja vane mortis."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ho malsaĝaj Galatoj, kiu vin ensorĉis? vin, antaŭ kies okuloj Kristo Jesuo estis publike prezentita krucumita."
+        },
+        {
+          "number": 2,
+          "text": "Nur la jenon mi deziras sciiĝi de vi: Ĉu per faroj de la leĝo vi ricevis la Spiriton, aŭ per la aŭdado de fido?"
+        },
+        {
+          "number": 3,
+          "text": "Ĉu vi tiel malsaĝaj estas? komencinte en Spirito, ĉu vi en karno nun perfektiĝas?"
+        },
+        {
+          "number": 4,
+          "text": "Ĉu vi vane tiom suferis? se ja tio estas vana."
+        },
+        {
+          "number": 5,
+          "text": "Ĉu do Tiu, kiu donas al vi la Spiriton kaj faras ĉe vi miraklojn, tion faras per faroj de la leĝo, aŭ per la aŭdado de fido?"
+        },
+        {
+          "number": 6,
+          "text": "Tiel same, kiel Abraham kredis al Dio, kaj tio estis kalkulita al li kiel virto."
+        },
+        {
+          "number": 7,
+          "text": "Sciu do, ke tiuj, kiuj rilatas al fido, estas filoj de Abraham."
+        },
+        {
+          "number": 8,
+          "text": "Antaŭvidante do, ke per fido Dio pravigos la nacianojn, la Skribo antaŭpredikis la evangelion al Abraham, dirante: Beniĝos per vi ĉiuj gentoj."
+        },
+        {
+          "number": 9,
+          "text": "Tial do tiuj, kiuj rilatas al fido, beniĝas kun la fidela Abraham."
+        },
+        {
+          "number": 10,
+          "text": "Ĉar ĉiuj, kiuj rilatas al faroj de la leĝo, estas sub malbeno; ĉar estas skribite: Malbenita estas ĉiu, kiu ne persistos en ĉio, kio estas skribita en la libro de la leĝo, por plenumi ĝin."
+        },
+        {
+          "number": 11,
+          "text": "Sed ke neniu praviĝas antaŭ Dio per la leĝo, estas evidente; ĉar: La virtulo vivos per fido;"
+        },
+        {
+          "number": 12,
+          "text": "kaj la leĝo ne rilatas al fido; sed: Kiu plenumas ilin, tiu vivos en ili."
+        },
+        {
+          "number": 13,
+          "text": "Kristo elaĉetis nin el la malbeno de la leĝo, fariĝinte malbeno pro ni; ĉar estas skribite: Malbenita estas ĉiu, kiu pendas sur lignaĵo;"
+        },
+        {
+          "number": 14,
+          "text": "por ke venu sur la nacianojn la beno de Abraham en Kristo Jesuo; por ke per fido ni ricevu la promeson de la Spirito."
+        },
+        {
+          "number": 15,
+          "text": "Fratoj, mi parolas laŭ homo: Konfirmitan interligon, eĉ nur homan, neniu nuligas nek prialdonas."
+        },
+        {
+          "number": 16,
+          "text": "Sed al Abraham kaj al lia semo la promesoj estis parolitaj. Li ne diras: Kaj al semoj, kvazaŭ pri multaj; sed kvazaŭ unu: Kaj al via semo, kiu estas Kristo."
+        },
+        {
+          "number": 17,
+          "text": "Sed jen kion mi diras: Interligon, antaŭe konfirmitan de Dio, la leĝo, kiu venis kvarcent tridek jarojn poste, ne nuligas, tiel ke ĝi malefektivigus la promeson."
+        },
+        {
+          "number": 18,
+          "text": "Ĉar se la heredaĵo estas de la leĝo, ĝi jam ne estas de promeso; sed Dio ĝin donis al Abraham per promeso."
+        },
+        {
+          "number": 19,
+          "text": "Kio do estas la leĝo? Ĝi estis aldonita kaŭze de eraroj, ĝis venos la idaro, al kiu la promeso estas donita; ordigite per anĝeloj en la mano de interulo."
+        },
+        {
+          "number": 20,
+          "text": "Interulo ne estas de unu, sed Dio estas unu."
+        },
+        {
+          "number": 21,
+          "text": "Ĉu do la leĝo kontraŭstaras al la promesoj de Dio? Nepre ne! ĉar se estus donita leĝo, kiu povus vivigi, efektive justeco estus per la leĝo."
+        },
+        {
+          "number": 22,
+          "text": "Tamen la Skribo kune enŝlosis ĉion sub peko, por ke la promeso per fido al Kristo Jesuo estu donata al ĉiuj, kiuj fidas."
+        },
+        {
+          "number": 23,
+          "text": "Sed antaŭ ol fido venis, ni estis gardataj sub la leĝo, enŝlositaj por la fido malkaŝota."
+        },
+        {
+          "number": 24,
+          "text": "Tial la leĝo fariĝis nia pedagogo, kondukanta al Kristo, por ke ni praviĝu per fido."
+        },
+        {
+          "number": 25,
+          "text": "Sed nun, post kiam la fido alvenis, ni jam ne estas sub pedagogo."
+        },
+        {
+          "number": 26,
+          "text": "Ĉar vi ĉiuj per la fido estas filoj de Dio en Kristo Jesuo."
+        },
+        {
+          "number": 27,
+          "text": "Ĉar ĉiuj el vi, kiuj al Kristo baptiĝis, surmetis al si Kriston."
+        },
+        {
+          "number": 28,
+          "text": "Ne estas ja Judo nek Greko, ne estas sklavo nek liberulo, ne estas ja vira kaj virina; ĉar vi ĉiuj estas unu en Kristo Jesuo."
+        },
+        {
+          "number": 29,
+          "text": "Se do vi apartenas al Kristo, vere vi estas la idaro de Abraham, kaj heredantoj laŭ la promeso."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Kaj mi sciigas vin, ke tiel longe, kiel la heredanto estas infano, li neniel malsimilas sklavon, kvankam li estas estro de ĉio;"
+        },
+        {
+          "number": 2,
+          "text": "sed li estas sub guvernantoj kaj administrantoj, ĝis la templimo difinita de la patro."
+        },
+        {
+          "number": 3,
+          "text": "Tiel ankaŭ ni, dum ni estis infanoj, estis en sklaveco sub la elementoj de la mondo;"
+        },
+        {
+          "number": 4,
+          "text": "sed kiam venis la pleneco de la tempo, Dio elsendis Sian Filon, el virino naskitan, sub leĝo naskitan,"
+        },
+        {
+          "number": 5,
+          "text": "por reaĉeti tiujn, kiuj estas sub la leĝo, por ke ni ricevu la filadopton."
+        },
+        {
+          "number": 6,
+          "text": "Kaj ĉar vi estas filoj, Dio elsendis la Spiriton de Sia Filo en niajn korojn, kriantan, Aba, Patro!"
+        },
+        {
+          "number": 7,
+          "text": "Tiel ke ĉiu el vi estas jam ne sklavo, sed filo; kaj se filo, ankaŭ heredanto per Dio."
+        },
+        {
+          "number": 8,
+          "text": "Tamen, tiam ne konante Dion, vi estis en sklaveco al tiuj, kiuj nature ne estas dioj;"
+        },
+        {
+          "number": 9,
+          "text": "sed jam nun konante Dion, aŭ pli ĝuste, de Dio konate, kial vi returniĝas al la malfortaj kaj mizeraj elementoj, al kiuj vi deziras denove sklaviĝi?"
+        },
+        {
+          "number": 10,
+          "text": "Vi observas tagojn kaj monatojn kaj tempojn kaj jarojn."
+        },
+        {
+          "number": 11,
+          "text": "Mi timas pri vi, ke eble mi vane laboris ĉe vi."
+        },
+        {
+          "number": 12,
+          "text": "Mi petegas vin, fratoj, estu kiel mi, ĉar mi ankaŭ estas kiel vi. Vi neniel al mi malbonfaris;"
+        },
+        {
+          "number": 13,
+          "text": "sed vi scias, ke pro malforteco de la karno mi la unuan fojon predikis al vi la evangelion;"
+        },
+        {
+          "number": 14,
+          "text": "kaj vian elprovon en mia karno vi ne malestimis nek abomenis, sed kvazaŭ anĝelon de Dio vi akceptis min, kvazaŭ Kriston Jesuon."
+        },
+        {
+          "number": 15,
+          "text": "Kie do estas via singratulado? mi atestas al vi, ke se estus eble, vi estus elŝirintaj viajn okulojn kaj donintaj ilin al mi."
+        },
+        {
+          "number": 16,
+          "text": "Ĉu mi do per verdirado fariĝis al vi malamiko?"
+        },
+        {
+          "number": 17,
+          "text": "Ili fervore serĉas vin, ne bone; ili eĉ volas elŝlosi vin, por ke vi serĉu ilin."
+        },
+        {
+          "number": 18,
+          "text": "Sed estas bone esti fervore serĉata ĉiam en bona afero, kaj ne nur tiam, kiam mi estas ĉe vi."
+        },
+        {
+          "number": 19,
+          "text": "Miaj infanetoj, pro kiuj mi denove suferas naskodoloron, ĝis Kristo formiĝos en vi,"
+        },
+        {
+          "number": 20,
+          "text": "mi tute deziris esti ĉe vi nun, kaj ŝanĝi mian voĉon; ĉar vere mi dubas pri vi."
+        },
+        {
+          "number": 21,
+          "text": "Diru al mi, vi, kiuj volas esti sub la leĝo, ĉu vi ne aŭskultas la leĝon?"
+        },
+        {
+          "number": 22,
+          "text": "Ĉar estas skribite, ke Abraham havis du filojn, unu el la sklavino kaj unu el la liberulino."
+        },
+        {
+          "number": 23,
+          "text": "Tamen tiu el la sklavino naskiĝis laŭ la karno, sed ĉi tiu el la liberulino naskiĝis per promeso."
+        },
+        {
+          "number": 24,
+          "text": "Ĉi tio enhavas alegorion; ĉar la du virinoj estas du interligoj, unu el la monto Sinaj, por sklaveco naskante, kiu estas Hagar."
+        },
+        {
+          "number": 25,
+          "text": "Ĉar tiu Hagar estas la monto Sinaj en Arabujo, kaj prezentas la nunan Jerusalemon, ĉar ŝi estas sklavigita kune kun siaj infanoj."
+        },
+        {
+          "number": 26,
+          "text": "Sed la supera Jerusalem estas libera, kiu estas patrino nia."
+        },
+        {
+          "number": 27,
+          "text": "Estas ja skribite: Ĝoju, ho senfruktulino, kiu ne naskis, Sonigu kanton kaj ĝojkriu, ho vi, kiu ne suferas naskodoloron; Ĉar la forlasitino havos pli da infanoj, ol la havanta edzon."
+        },
+        {
+          "number": 28,
+          "text": "Sed ni, fratoj, estas filoj de promeso tiel same, kiel Isaak."
+        },
+        {
+          "number": 29,
+          "text": "Sed kiel tiam la laŭ karno naskita persekutis la laŭspiritulon, tiel estas ankaŭ nuntempe."
+        },
+        {
+          "number": 30,
+          "text": "Sed kion diras la Skribo? Forpelu la sklavinon kaj ŝian filon; ĉar la filo de la sklavino ne heredos kun la filo de la liberulino."
+        },
+        {
+          "number": 31,
+          "text": "Tial, fratoj, ni estas filoj ne de sklavino, sed de la liberulino."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Por libereco Kristo nin liberigis; tial staru fortike, kaj ne reimplikiĝu en jugon de sklaveco."
+        },
+        {
+          "number": 2,
+          "text": "Jen mi, Paŭlo, diras al vi, ke, se vi cirkumcidiĝos, Kristo al vi tute ne utilos."
+        },
+        {
+          "number": 3,
+          "text": "Mi denove atestas al ĉiu homo cirkumcidata, ke li estas ŝuldanto, por plenumi la tutan leĝon."
+        },
+        {
+          "number": 4,
+          "text": "Vi, kiuj volas vin pravigi per la leĝo, apartiĝis for de Kristo; vi forfalis de graco."
+        },
+        {
+          "number": 5,
+          "text": "Ĉar ni en la Spirito atendas la esperon de justeco per la fido."
+        },
+        {
+          "number": 6,
+          "text": "Ĉar en Kristo Jesuo nek cirkumcido nek necirkumcido valoras ion, sed nur fido, energianta per amo."
+        },
+        {
+          "number": 7,
+          "text": "Vi bone kuradis; kiu vin malhelpis, ke vi ne obeu la veron?"
+        },
+        {
+          "number": 8,
+          "text": "Ĉi tiu influo ne venas de tiu, kiu vin vokas."
+        },
+        {
+          "number": 9,
+          "text": "Malmulto da fermentaĵo fermentigas la tutan mason."
+        },
+        {
+          "number": 10,
+          "text": "Mi fidas pri vi en la Sinjoro, ke vi ne alie sentados; sed tiu, kiu malkvietigas vin, elportos sian propran juĝon, kiu ajn li estas."
+        },
+        {
+          "number": 11,
+          "text": "Sed mi, fratoj, se mi ankoraŭ predikas cirkumcidon, kial mi estas ankoraŭ persekutata? tiuokaze la falpuŝilo de la kruco estas formovita."
+        },
+        {
+          "number": 12,
+          "text": "Mi volus, ke tiuj, kiuj vin maltrankviligas, sin fortranĉu."
+        },
+        {
+          "number": 13,
+          "text": "Ĉar vi, fratoj, estas vokitaj al libereco; tamen ne uzu vian liberecon kiel pretekston por la karno, sed per amo servu unu la alian."
+        },
+        {
+          "number": 14,
+          "text": "Ĉar la tuta leĝo estas plenumata en unu diro, jene: Amu vian proksimulon kiel vin mem."
+        },
+        {
+          "number": 15,
+          "text": "Sed se vi mordas kaj manĝegas unu la alian, gardu vin, ke vi ne estu detruitaj unu de la alia."
+        },
+        {
+          "number": 16,
+          "text": "Sed mi diras: Iradu laŭ la Spirito, kaj la deziregon de la karno vi ne plenumos."
+        },
+        {
+          "number": 17,
+          "text": "Ĉar la karno deziregas kontraŭ la Spirito, kaj la Spirito kontraŭ la karno; ĉar ĉi ĉiuj interbatalas reciproke, por ke vi ne faru tion, kion vi volas."
+        },
+        {
+          "number": 18,
+          "text": "Sed se vi estas kondukataj de la Sinjoro, vi jam ne estas sub la leĝo."
+        },
+        {
+          "number": 19,
+          "text": "Evidentaj estas la faroj de la karno, kiuj estas malĉasteco, malpureco, voluptemo,"
+        },
+        {
+          "number": 20,
+          "text": "idolkulto, sorĉado, malamikeco, malpaco, ĵaluzoj, koleregoj, partiemeco, skismoj, herezoj,"
+        },
+        {
+          "number": 21,
+          "text": "envioj, ebrieco, diboĉado, kaj aliaj similaj; pri kiuj mi avertas vin, kiel mi jam antaŭe admonis vin, ke tiuj, kiuj tion faradas, ne heredos la regnon de Dio."
+        },
+        {
+          "number": 22,
+          "text": "Sed la frukto de la Spirito estas amo, ĝojo, paco, pacienco, komplezo, bonkoreco, fideleco,"
+        },
+        {
+          "number": 23,
+          "text": "mildeco, sinregado; kontraŭ tiaj ne ekzistas leĝo."
+        },
+        {
+          "number": 24,
+          "text": "Kaj tiuj, kiuj apartenas al Kristo Jesuo, jam krucumis la karnon kun ĝiaj pasioj kaj voluptoj."
+        },
+        {
+          "number": 25,
+          "text": "Se ni vivas per la Spirito, en la Spirito ni ankaŭ iradu."
+        },
+        {
+          "number": 26,
+          "text": "Ni ne fariĝu fanfaronemaj, incitante kaj enviante unu la alian."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fratoj, eĉ se homo estos trovita en ia kulpo, vi, kiuj estas spiritaj, restarigu tiun per spirito de mildeco; rigardante vin, ĉiu sin mem, por ke vi ne estu tentataj."
+        },
+        {
+          "number": 2,
+          "text": "Reciproke subtenadu viajn ŝarĝojn, kaj tiamaniere plenumu la leĝon de Kristo."
+        },
+        {
+          "number": 3,
+          "text": "Ĉar, se iu, estante nenio, sin estimas, kvazaŭ li estas io, li sin trompas."
+        },
+        {
+          "number": 4,
+          "text": "Sed ĉiu kontrolu sian propran faradon, kaj tiam li havos singratuladon pri si mem, kaj ne pri sia proksimulo."
+        },
+        {
+          "number": 5,
+          "text": "Ĉar ĉiu devas subteni sian propran portaĵon."
+        },
+        {
+          "number": 6,
+          "text": "Tiu, kiu estas instruata en la parolo de Dio, partoprenu kun tiu, kiu lin instruas, en ĉiuj bonaĵoj."
+        },
+        {
+          "number": 7,
+          "text": "Ne trompiĝu; Dio ne estas mokata; ĉar ĉion, kion oni semas, tion ankaŭ li rikoltos."
+        },
+        {
+          "number": 8,
+          "text": "Ĉar kiu semas por sia karno, el la karno tiu rikoltos putradon; sed kiu semas por la Spirito, el la Spirito tiu rikoltos eternan vivon."
+        },
+        {
+          "number": 9,
+          "text": "Kaj ni ne laciĝu en bonfarado; ĉar ĝustatempe ni rikoltos, se ni ne senfortiĝos."
+        },
+        {
+          "number": 10,
+          "text": "Tial laŭ nia oportuna tempo ni bonfaradu al ĉiuj, precipe al tiuj, kiuj apartenas al la familio de la fido."
+        },
+        {
+          "number": 11,
+          "text": "Vidu, per kiaj grandaj literoj mi skribis al vi propramane."
+        },
+        {
+          "number": 12,
+          "text": "Kiuj deziras sin paradi per la karno, tiuj devigas vin cirkumcidiĝi; sole por ke ili ne estu persekutataj pro la kruco de Kristo."
+        },
+        {
+          "number": 13,
+          "text": "Ĉar eĉ tiuj mem, kiuj cirkumcidiĝas, ne observas la leĝon; sed ili deziras, ke vi cirkumcidiĝu, por ke ili fanfaronu pri via karno."
+        },
+        {
+          "number": 14,
+          "text": "Sed por mi ne estu fanfarono krom pri la kruco de nia Sinjoro Jesuo Kristo, per kiu la mondo estas krucumita al mi, kaj mi al la mondo."
+        },
+        {
+          "number": 15,
+          "text": "Ĉar nek cirkumcido nek necirkumcido estas io, sed nova kreitaĵo."
+        },
+        {
+          "number": 16,
+          "text": "Kaj kiuj irados laŭ tiu regulo, paco kaj kompato estu sur ili ĉiuj, kaj sur la Izrael de Dio."
+        },
+        {
+          "number": 17,
+          "text": "De nun neniu min ĝenu, ĉar mi portas en mia korpo la signojn de Jesuo."
+        },
+        {
+          "number": 18,
+          "text": "La graco de nia Sinjoro Jesuo Kristo estu kun via spirito, fratoj. Amen."
+        }
+      ]
+    }
+  ]
+}

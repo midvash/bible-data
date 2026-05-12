@@ -1,0 +1,3824 @@
+{
+  "version": "darby-fr",
+  "book": "Prov",
+  "bookId": 20,
+  "englishName": "Proverbs",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Proverbes de Salomon, fils de David, roi d’Israël,"
+        },
+        {
+          "number": 2,
+          "text": "pour connaître la sagesse et l’instruction, pour discerner les paroles d’intelligence ;"
+        },
+        {
+          "number": 3,
+          "text": "pour recevoir instruction dans la sagesse, la justice, le juste jugement, et la droiture ;"
+        },
+        {
+          "number": 4,
+          "text": "pour donner aux simples de la prudence, au jeune homme de la connaissance et de la réflexion."
+        },
+        {
+          "number": 5,
+          "text": "Le sage écoutera, et croîtra en science, et l’intelligent acquerra du sens"
+        },
+        {
+          "number": 6,
+          "text": "pour comprendre un proverbe et une allégorie, les paroles des sages et leurs énigmes."
+        },
+        {
+          "number": 7,
+          "text": "La crainte de l’Éternel est le commencement de la connaissance ; les fous méprisent la sagesse et l’instruction."
+        },
+        {
+          "number": 8,
+          "text": "Écoute, mon fils, l’instruction de ton père, et n’abandonne pas l’enseignement de ta mère ;"
+        },
+        {
+          "number": 9,
+          "text": "car ce sera une guirlande de grâce à ta tête, et des colliers à ton cou."
+        },
+        {
+          "number": 10,
+          "text": "Mon fils, si les pécheurs cherchent à te séduire, n’y acquiesce pas."
+        },
+        {
+          "number": 11,
+          "text": "S’ils disent : Viens avec nous, nous serons aux embûches pour le sang, nous nous cacherons pour [guetter] l’innocent, sans cause ;"
+        },
+        {
+          "number": 12,
+          "text": "nous les engloutirons vivants, comme le shéol, et tout entiers comme ceux qui descendent dans la fosse ;"
+        },
+        {
+          "number": 13,
+          "text": "nous trouverons toute sorte de biens précieux, nous remplirons nos maisons de butin ;"
+        },
+        {
+          "number": 14,
+          "text": "prends ton lot parmi nous, il n’y aura qu’une bourse pour nous tous :"
+        },
+        {
+          "number": 15,
+          "text": "mon fils, ne fais pas route avec eux, retiens ton pied de leur sentier ;"
+        },
+        {
+          "number": 16,
+          "text": "car leurs pieds courent au mal, et ils se hâtent pour verser le sang."
+        },
+        {
+          "number": 17,
+          "text": "Car en vain le filet est étendu devant les yeux de tout ce qui a des ailes ;"
+        },
+        {
+          "number": 18,
+          "text": "et eux, ils sont aux embûches contre leur propre sang, ils se cachent pour [guetter] leurs propres âmes."
+        },
+        {
+          "number": 19,
+          "text": "Telles sont les voies de tout homme qui cherche le gain déshonnête, lequel ôte la vie à ceux qui le possèdent."
+        },
+        {
+          "number": 20,
+          "text": "La sagesse crie au-dehors, elle fait retentir sa voix sur les places ;"
+        },
+        {
+          "number": 21,
+          "text": "elle crie à l’entrée des lieux bruyants, aux ouvertures des portes ; elle prononce ses paroles dans la ville :"
+        },
+        {
+          "number": 22,
+          "text": "Simples, jusques à quand aimerez-vous la simplicité, et [jusques à quand] les moqueurs prendront-ils plaisir à la moquerie, et les sots haïront-ils la connaissance ?"
+        },
+        {
+          "number": 23,
+          "text": "Revenez à ma répréhension ; voici, je ferai couler pour vous mon esprit, je vous ferai savoir mes paroles."
+        },
+        {
+          "number": 24,
+          "text": "Parce que j’ai crié et que vous avez refusé [d’écouter], parce que j’ai étendu ma main et que personne n’a pris garde,"
+        },
+        {
+          "number": 25,
+          "text": "et que vous avez rejeté tout mon conseil et que vous n’avez pas voulu de ma répréhension,"
+        },
+        {
+          "number": 26,
+          "text": "moi aussi je rirai lors de votre calamité, je me moquerai quand viendra votre frayeur,"
+        },
+        {
+          "number": 27,
+          "text": "quand votre frayeur viendra comme une subite destruction et que votre calamité arrivera comme un tourbillon, quand la détresse et l’angoisse viendront sur vous :"
+        },
+        {
+          "number": 28,
+          "text": "alors ils crieront vers moi, et je ne répondrai pas ; ils me chercheront de bonne heure, mais ils ne me trouveront point."
+        },
+        {
+          "number": 29,
+          "text": "Parce qu’ils ont haï la connaissance et qu’ils n’ont pas choisi la crainte de l’Éternel,"
+        },
+        {
+          "number": 30,
+          "text": "qu’ils n’ont point voulu de mon conseil, qu’ils ont méprisé toute ma répréhension,"
+        },
+        {
+          "number": 31,
+          "text": "ils mangeront du fruit de leur voie et seront rassasiés de leurs propres conseils."
+        },
+        {
+          "number": 32,
+          "text": "Car la révolte des simples les tue, et la prospérité des sots les fait périr."
+        },
+        {
+          "number": 33,
+          "text": "Mais celui qui m’écoute habitera en sécurité et sera tranquille, sans crainte du mal."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mon fils, si tu reçois mes paroles et que tu caches par-devers toi mes commandements"
+        },
+        {
+          "number": 2,
+          "text": "pour rendre ton oreille attentive à la sagesse, si tu inclines ton cœur à l’intelligence,"
+        },
+        {
+          "number": 3,
+          "text": "si tu appelles le discernement, si tu adresses ta voix à l’intelligence,"
+        },
+        {
+          "number": 4,
+          "text": "si tu la cherches comme de l’argent et que tu la recherches comme des trésors cachés,"
+        },
+        {
+          "number": 5,
+          "text": "alors tu comprendras la crainte de l’Éternel et tu trouveras la connaissance de Dieu."
+        },
+        {
+          "number": 6,
+          "text": "Car l’Éternel donne la sagesse ; de sa bouche [procèdent] la connaissance et l’intelligence :"
+        },
+        {
+          "number": 7,
+          "text": "il réserve de sains conseils pour les hommes droits ; il est un bouclier pour ceux qui marchent dans l’intégrité,"
+        },
+        {
+          "number": 8,
+          "text": "protégeant les sentiers de juste jugement et gardant la voie de ses saints."
+        },
+        {
+          "number": 9,
+          "text": "Alors tu discerneras la justice et le juste jugement et la droiture, toute bonne voie."
+        },
+        {
+          "number": 10,
+          "text": "Si la sagesse entre dans ton cœur et si la connaissance est agréable à ton âme,"
+        },
+        {
+          "number": 11,
+          "text": "la réflexion te préservera, l’intelligence te protégera :"
+        },
+        {
+          "number": 12,
+          "text": "Pour te sauver du mauvais chemin, de l’homme qui prononce des choses perverses,"
+        },
+        {
+          "number": 13,
+          "text": "[de ceux] qui abandonnent les sentiers de la droiture pour marcher dans les voies de ténèbres,"
+        },
+        {
+          "number": 14,
+          "text": "qui se réjouissent à mal faire, qui s’égaient en la perversité du mal,"
+        },
+        {
+          "number": 15,
+          "text": "dont les sentiers sont tortueux et qui s’égarent dans leurs voies ;"
+        },
+        {
+          "number": 16,
+          "text": "Pour te sauver de la femme étrangère, de l’étrangère qui use de paroles flatteuses,"
+        },
+        {
+          "number": 17,
+          "text": "qui abandonne le guide de sa jeunesse, et qui a oublié l’alliance de son Dieu ;"
+        },
+        {
+          "number": 18,
+          "text": "– car sa maison penche vers la mort, et ses chemins vers les trépassés :"
+        },
+        {
+          "number": 19,
+          "text": "aucun de ceux qui entrent auprès d’elle ne revient ni n’atteint les sentiers de la vie ;"
+        },
+        {
+          "number": 20,
+          "text": "– afin que tu marches dans la voie des gens de bien, et que tu gardes les sentiers des justes."
+        },
+        {
+          "number": 21,
+          "text": "Car les hommes droits habiteront le pays, et les hommes intègres y demeureront de reste ;"
+        },
+        {
+          "number": 22,
+          "text": "mais les méchants seront retranchés du pays, et les perfides en seront arrachés."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mon fils, n’oublie pas mon enseignement, et que ton cœur garde mes commandements ;"
+        },
+        {
+          "number": 2,
+          "text": "car ils t’ajouteront un prolongement de jours, et des années de vie, et la paix."
+        },
+        {
+          "number": 3,
+          "text": "Que la bonté et la vérité ne t’abandonnent pas ; lie-les à ton cou, écris-les sur la tablette de ton cœur,"
+        },
+        {
+          "number": 4,
+          "text": "et tu trouveras la faveur et la bonne sagesse aux yeux de Dieu et des hommes."
+        },
+        {
+          "number": 5,
+          "text": "Confie-toi de tout ton cœur à l’Éternel, et ne t’appuie pas sur ton intelligence ;"
+        },
+        {
+          "number": 6,
+          "text": "dans toutes tes voies connais-le, et il dirigera tes sentiers."
+        },
+        {
+          "number": 7,
+          "text": "Ne sois pas sage à tes propres yeux ; crains l’Éternel et éloigne-toi du mal :"
+        },
+        {
+          "number": 8,
+          "text": "ce sera la santé pour ton nombril, et un arrosement pour tes os."
+        },
+        {
+          "number": 9,
+          "text": "Honore l’Éternel de tes biens et des prémices de tout ton revenu ;"
+        },
+        {
+          "number": 10,
+          "text": "et tes greniers se rempliront d’abondance, et tes cuves regorgeront de moût."
+        },
+        {
+          "number": 11,
+          "text": "Mon fils, ne méprise pas l’instruction de l’Éternel, et n’aie pas en aversion sa réprimande ;"
+        },
+        {
+          "number": 12,
+          "text": "car celui que l’Éternel aime, il le discipline, comme un père le fils auquel il prend plaisir."
+        },
+        {
+          "number": 13,
+          "text": "Bienheureux l’homme qui trouve la sagesse, et l’homme qui obtient l’intelligence !"
+        },
+        {
+          "number": 14,
+          "text": "car son acquisition est meilleure que l’acquisition de l’argent, et son revenu [est meilleur] que l’or fin."
+        },
+        {
+          "number": 15,
+          "text": "Elle est plus précieuse que les rubis, et aucune des choses auxquelles tu prends plaisir ne l’égale :"
+        },
+        {
+          "number": 16,
+          "text": "longueur de jours est dans sa droite, dans sa gauche richesse et honneur ;"
+        },
+        {
+          "number": 17,
+          "text": "ses voies sont des voies agréables, et tous ses sentiers sont paix."
+        },
+        {
+          "number": 18,
+          "text": "Elle est un arbre de vie pour ceux qui la saisissent ; et qui la tient ferme est rendu bienheureux."
+        },
+        {
+          "number": 19,
+          "text": "L’Éternel a fondé la terre par la sagesse, il a établi les cieux par l’intelligence."
+        },
+        {
+          "number": 20,
+          "text": "Par sa connaissance les abîmes se fendirent, et les nuées distillent la rosée."
+        },
+        {
+          "number": 21,
+          "text": "Mon fils, que [ces choses] ne s’éloignent point de tes yeux : garde le sain conseil et la réflexion,"
+        },
+        {
+          "number": 22,
+          "text": "et ils seront la vie de ton âme et la grâce de ton cou."
+        },
+        {
+          "number": 23,
+          "text": "Alors tu iras ton chemin en sécurité, et ton pied ne se heurtera point."
+        },
+        {
+          "number": 24,
+          "text": "Si tu te couches tu n’auras point de crainte ; mais tu te coucheras et ton sommeil sera doux."
+        },
+        {
+          "number": 25,
+          "text": "Ne crains pas la frayeur subite, ni la ruine des méchants quand elle surviendra ;"
+        },
+        {
+          "number": 26,
+          "text": "car l’Éternel sera ta confiance, et il gardera ton pied d’être pris."
+        },
+        {
+          "number": 27,
+          "text": "Ne refuse pas le bien à celui à qui il est dû, quand il est au pouvoir de ta main de le faire."
+        },
+        {
+          "number": 28,
+          "text": "Ne dis pas à ton prochain : Va et reviens, et je te le donnerai demain, quand tu as la chose par-devers toi."
+        },
+        {
+          "number": 29,
+          "text": "Ne machine pas du mal contre ton prochain, puisqu’il habite en sécurité près de toi."
+        },
+        {
+          "number": 30,
+          "text": "Ne conteste pas sans sujet avec un homme, s’il ne t’a pas fait de tort."
+        },
+        {
+          "number": 31,
+          "text": "Ne porte pas envie à un homme violent, et ne choisis aucune de ses voies ;"
+        },
+        {
+          "number": 32,
+          "text": "Car l’Éternel a en abomination le pervers, et son secret est avec les hommes droits."
+        },
+        {
+          "number": 33,
+          "text": "La malédiction de l’Éternel est dans la maison du méchant, et il bénit l’habitation des justes."
+        },
+        {
+          "number": 34,
+          "text": "Certes il se moque des moqueurs, et il donne la grâce aux débonnaires."
+        },
+        {
+          "number": 35,
+          "text": "Les sages hériteront la gloire, mais la honte est l’élévation des sots."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Fils, écoutez l’instruction d’un père et soyez attentifs pour connaître l’intelligence ;"
+        },
+        {
+          "number": 2,
+          "text": "car je vous donne une bonne doctrine : n’abandonnez pas mon enseignement."
+        },
+        {
+          "number": 3,
+          "text": "Car j’ai été un fils pour mon père, tendre et unique auprès de ma mère."
+        },
+        {
+          "number": 4,
+          "text": "Il m’a enseigné et m’a dit : Que ton cœur retienne mes paroles ; garde mes commandements, et tu vivras."
+        },
+        {
+          "number": 5,
+          "text": "Acquiers la sagesse, acquiers l’intelligence ; ne [l’]oublie pas, et ne te détourne pas des paroles de ma bouche."
+        },
+        {
+          "number": 6,
+          "text": "Ne l’abandonne pas, et elle te gardera ; aime-la, et elle te conservera."
+        },
+        {
+          "number": 7,
+          "text": "Le commencement de la sagesse, c’est : Acquiers la sagesse, et, au prix de toutes tes acquisitions, acquiers l’intelligence."
+        },
+        {
+          "number": 8,
+          "text": "Exalte-la, et elle t’élèvera ; elle t’honorera quand tu l’auras embrassée."
+        },
+        {
+          "number": 9,
+          "text": "Elle mettra sur ta tête une guirlande de grâce, elle te donnera une couronne de gloire."
+        },
+        {
+          "number": 10,
+          "text": "Écoute, mon fils, et reçois mes paroles, et les années de ta vie te seront multipliées."
+        },
+        {
+          "number": 11,
+          "text": "Je t’enseignerai la voie de la sagesse, je te dirigerai dans les chemins de la droiture."
+        },
+        {
+          "number": 12,
+          "text": "Quand tu marcheras, tes pas ne seront pas gênés, et si tu cours, tu ne broncheras pas."
+        },
+        {
+          "number": 13,
+          "text": "Tiens ferme l’instruction, ne la lâche pas ; garde-la, car elle est ta vie."
+        },
+        {
+          "number": 14,
+          "text": "N’entre pas dans le sentier des méchants, et ne marche pas dans la voie des iniques."
+        },
+        {
+          "number": 15,
+          "text": "Éloigne-t’en, n’y passe point ; détourne-t’en, et passe outre."
+        },
+        {
+          "number": 16,
+          "text": "Car ils ne dormiraient pas s’ils n’avaient fait du mal, et le sommeil leur serait ôté s’ils n’avaient fait trébucher [quelqu’un] ;"
+        },
+        {
+          "number": 17,
+          "text": "car ils mangent le pain de méchanceté, et ils boivent le vin des violences."
+        },
+        {
+          "number": 18,
+          "text": "Mais le sentier des justes est comme la lumière resplendissante qui va croissant jusqu’à ce que le plein jour soit établi."
+        },
+        {
+          "number": 19,
+          "text": "Le chemin des méchants est comme l’obscurité ; ils ne savent contre quoi ils trébucheront."
+        },
+        {
+          "number": 20,
+          "text": "Mon fils, sois attentif à mes paroles, incline ton oreille à mes discours."
+        },
+        {
+          "number": 21,
+          "text": "Qu’ils ne s’éloignent point de tes yeux ; garde-les au-dedans de ton cœur ;"
+        },
+        {
+          "number": 22,
+          "text": "car ils sont la vie de ceux qui les trouvent, et la santé de toute leur chair."
+        },
+        {
+          "number": 23,
+          "text": "Garde ton cœur plus que tout ce que l’on garde, car de lui sont les issues de la vie."
+        },
+        {
+          "number": 24,
+          "text": "Écarte de toi la fausseté de la bouche, et éloigne de toi la perversité des lèvres."
+        },
+        {
+          "number": 25,
+          "text": "Que tes yeux regardent droit en avant, et que tes paupières se dirigent droit devant toi."
+        },
+        {
+          "number": 26,
+          "text": "Pèse le chemin de tes pieds, et que toutes tes voies soient bien réglées."
+        },
+        {
+          "number": 27,
+          "text": "N’incline ni à droite ni à gauche ; éloigne ton pied du mal."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mon fils, sois attentif à ma sagesse, incline ton oreille à mon intelligence,"
+        },
+        {
+          "number": 2,
+          "text": "pour garder les pensées réfléchies et pour que tes lèvres conservent la connaissance."
+        },
+        {
+          "number": 3,
+          "text": "Car les lèvres de l’étrangère distillent du miel, et son palais est plus doux que l’huile ;"
+        },
+        {
+          "number": 4,
+          "text": "mais à la fin elle est amère comme l’absinthe, aiguë comme une épée à deux tranchants."
+        },
+        {
+          "number": 5,
+          "text": "Ses pieds descendent à la mort, ses pas atteignent le shéol,"
+        },
+        {
+          "number": 6,
+          "text": "de sorte qu’elle ne pèse pas le sentier de la vie ; ses voies sont errantes : elle n’a pas de connaissance."
+        },
+        {
+          "number": 7,
+          "text": "Et maintenant, [mes] fils, écoutez-moi, et ne vous détournez pas des paroles de ma bouche."
+        },
+        {
+          "number": 8,
+          "text": "Éloigne ta voie d’auprès d’elle, et ne t’approche point de l’entrée de sa maison ;"
+        },
+        {
+          "number": 9,
+          "text": "de peur que tu ne donnes ton honneur à d’autres, et tes années à l’homme cruel ;"
+        },
+        {
+          "number": 10,
+          "text": "de peur que des étrangers ne se rassasient de ton bien, et que ton travail ne soit dans la maison d’un étranger ;"
+        },
+        {
+          "number": 11,
+          "text": "et que tu ne gémisses à ta fin, quand ta chair et ton corps se consumeront ;"
+        },
+        {
+          "number": 12,
+          "text": "et que tu ne dises : Comment ai-je haï l’instruction, et mon cœur a-t-il méprisé la répréhension ?"
+        },
+        {
+          "number": 13,
+          "text": "Comment n’ai-je pas écouté la voix de ceux qui m’instruisaient, ni incliné mon oreille vers ceux qui m’enseignaient ?"
+        },
+        {
+          "number": 14,
+          "text": "Peu s’en est fallu que je n’aie été dans toute sorte de mal, au milieu de la congrégation et de l’assemblée."
+        },
+        {
+          "number": 15,
+          "text": "Bois des eaux de ta citerne, et de ce qui coule du milieu de ton puits."
+        },
+        {
+          "number": 16,
+          "text": "Tes fontaines se répandront au-dehors, des ruisseaux d’eau dans les places."
+        },
+        {
+          "number": 17,
+          "text": "Qu’elles soient à toi seul, et non à des étrangers avec toi."
+        },
+        {
+          "number": 18,
+          "text": "Que ta source soit bénie, et réjouis-toi de la femme de ta jeunesse,"
+        },
+        {
+          "number": 19,
+          "text": "biche des amours, et chevrette pleine de grâce ; que ses seins t’enivrent en tout temps ; sois continuellement épris de son amour."
+        },
+        {
+          "number": 20,
+          "text": "Et pourquoi, mon fils, serais-tu épris d’une étrangère, et embrasserais-tu le sein de l’étrangère ?"
+        },
+        {
+          "number": 21,
+          "text": "Car les voies de l’homme sont devant les yeux de l’Éternel, et il pèse tous ses chemins."
+        },
+        {
+          "number": 22,
+          "text": "Le méchant, ses iniquités le saisiront, et il sera tenu par les cordes de son péché ;"
+        },
+        {
+          "number": 23,
+          "text": "il mourra faute de discipline, et il s’égarera dans la grandeur de sa folie."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mon fils, si tu t’es porté caution pour ton prochain, si tu as engagé ta main pour un étranger,"
+        },
+        {
+          "number": 2,
+          "text": "tu es enlacé dans les paroles de ta bouche, tu es pris dans les paroles de ta bouche."
+        },
+        {
+          "number": 3,
+          "text": "Mon fils, fais donc ceci, et délivre-toi, puisque tu es tombé en la main de ton prochain : va, humilie-toi, et insiste auprès de ton prochain."
+        },
+        {
+          "number": 4,
+          "text": "Ne permets pas à tes yeux de dormir, ni à tes paupières de sommeiller ;"
+        },
+        {
+          "number": 5,
+          "text": "dégage-toi, comme la gazelle, de la main [du chasseur], et comme l’oiseau, de la main de l’oiseleur."
+        },
+        {
+          "number": 6,
+          "text": "Va vers la fourmi, paresseux ; regarde ses voies, et sois sage."
+        },
+        {
+          "number": 7,
+          "text": "Elle qui n’a ni chef, ni surveillant, ni gouverneur,"
+        },
+        {
+          "number": 8,
+          "text": "elle prépare en été son pain, elle amasse pendant la moisson sa nourriture."
+        },
+        {
+          "number": 9,
+          "text": "Jusques à quand, paresseux, resteras-tu couché ? Quand te lèveras-tu de ton sommeil ?"
+        },
+        {
+          "number": 10,
+          "text": "Un peu de sommeil, un peu d’assoupissement, un peu croiser les mains pour dormir…,"
+        },
+        {
+          "number": 11,
+          "text": "et ta pauvreté viendra comme un voyageur, et ton dénuement comme un homme armé."
+        },
+        {
+          "number": 12,
+          "text": "Celui qui marche, la perversité dans sa bouche, est un homme de Bélial, un homme inique ;"
+        },
+        {
+          "number": 13,
+          "text": "il cligne de ses yeux, il parle de ses pieds, il enseigne de ses doigts ;"
+        },
+        {
+          "number": 14,
+          "text": "il y a des pensées perverses dans son cœur, il machine du mal en tout temps, il sème des querelles."
+        },
+        {
+          "number": 15,
+          "text": "C’est pourquoi sa calamité viendra subitement ; il sera tout à coup brisé, et il n’y a pas de remède."
+        },
+        {
+          "number": 16,
+          "text": "L’Éternel hait ces six choses, et il y en a sept qui sont en abomination à son âme :"
+        },
+        {
+          "number": 17,
+          "text": "les yeux hautains, la langue fausse, et les mains qui versent le sang innocent,"
+        },
+        {
+          "number": 18,
+          "text": "le cœur qui machine des projets d’iniquité, les pieds qui se hâtent de courir au mal,"
+        },
+        {
+          "number": 19,
+          "text": "le faux témoin qui profère des mensonges, et celui qui sème des querelles entre des frères."
+        },
+        {
+          "number": 20,
+          "text": "Mon fils, garde le commandement de ton père, et n’abandonne pas l’enseignement de ta mère ;"
+        },
+        {
+          "number": 21,
+          "text": "tiens-les continuellement liés sur ton cœur, attache-les à ton cou."
+        },
+        {
+          "number": 22,
+          "text": "Quand tu marcheras, il te conduira ; quand tu dormiras, il te gardera ; et quand tu te réveilleras, il s’entretiendra avec toi."
+        },
+        {
+          "number": 23,
+          "text": "Car le commandement est une lampe et l’enseignement une lumière, et les répréhensions de la discipline sont le chemin de la vie,"
+        },
+        {
+          "number": 24,
+          "text": "pour te garder de la mauvaise femme, des flatteries de la langue d’une étrangère."
+        },
+        {
+          "number": 25,
+          "text": "Ne désire pas sa beauté dans ton cœur, et qu’elle ne te prenne pas par ses paupières ;"
+        },
+        {
+          "number": 26,
+          "text": "car par la femme prostituée [on en vient] jusqu’à un morceau de pain, et la femme d’autrui chasse après l’âme précieuse."
+        },
+        {
+          "number": 27,
+          "text": "Un homme prendra-t-il du feu dans son sein sans que ses vêtements brûlent ?"
+        },
+        {
+          "number": 28,
+          "text": "Si un homme marche sur des charbons ardents, ses pieds ne seront-ils pas brûlés ?"
+        },
+        {
+          "number": 29,
+          "text": "Ainsi celui qui entre vers la femme de son prochain…, quiconque la touchera ne sera point innocent."
+        },
+        {
+          "number": 30,
+          "text": "On ne méprise pas un voleur s’il vole pour satisfaire son âme quand il a faim ;"
+        },
+        {
+          "number": 31,
+          "text": "et s’il est trouvé, il rendra le septuple, il donnera tous les biens de sa maison."
+        },
+        {
+          "number": 32,
+          "text": "Celui qui commet adultère avec une femme manque de sens ; celui qui le fait détruit son âme :"
+        },
+        {
+          "number": 33,
+          "text": "il trouvera plaie et mépris, et son opprobre ne sera pas effacé ;"
+        },
+        {
+          "number": 34,
+          "text": "car dans l’homme, la jalousie est une fureur, et il n’épargnera pas au jour de la vengeance ;"
+        },
+        {
+          "number": 35,
+          "text": "il n’acceptera aucune propitiation, et ne se tiendra pas pour satisfait, quand tu multiplierais les présents."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mon fils, garde mes paroles et cache par-devers toi mes commandements."
+        },
+        {
+          "number": 2,
+          "text": "Garde mes commandements, et tu vivras, – et mon enseignement, comme la prunelle de tes yeux."
+        },
+        {
+          "number": 3,
+          "text": "Lie-les sur tes doigts, écris-les sur la tablette de ton cœur."
+        },
+        {
+          "number": 4,
+          "text": "Dis à la sagesse : Tu es ma sœur ! et appelle l’intelligence ton amie ;"
+        },
+        {
+          "number": 5,
+          "text": "pour te garder de la femme étrangère, de la foraine qui use de paroles flatteuses."
+        },
+        {
+          "number": 6,
+          "text": "Car, à la fenêtre de ma maison, je regardais à travers mon treillis,"
+        },
+        {
+          "number": 7,
+          "text": "et je vis parmi les simples, j’aperçus parmi les jeunes gens, un jeune homme dépourvu de sens,"
+        },
+        {
+          "number": 8,
+          "text": "qui passait dans la rue, près du coin où demeurait cette femme, et il prit le chemin de sa maison,"
+        },
+        {
+          "number": 9,
+          "text": "au crépuscule, au soir du jour, au sein de la nuit et de l’obscurité."
+        },
+        {
+          "number": 10,
+          "text": "Et voici, une femme [vint] à sa rencontre, ayant la mise d’une prostituée et le cœur rusé."
+        },
+        {
+          "number": 11,
+          "text": "Elle était bruyante et sans frein ; ses pieds ne demeuraient pas dans sa maison,"
+        },
+        {
+          "number": 12,
+          "text": "elle était tantôt dehors, tantôt sur les places, et guettait à tous les coins."
+        },
+        {
+          "number": 13,
+          "text": "Et elle le saisit, et l’embrassa, et d’un visage effronté lui dit :"
+        },
+        {
+          "number": 14,
+          "text": "J’ai chez moi des sacrifices de prospérités, j’ai aujourd’hui payé mes vœux ;"
+        },
+        {
+          "number": 15,
+          "text": "c’est pourquoi je suis sortie à ta rencontre pour chercher ton visage, et je t’ai trouvé."
+        },
+        {
+          "number": 16,
+          "text": "J’ai étendu sur mon lit des tapis, des couvertures de fil d’Égypte de couleurs variées ;"
+        },
+        {
+          "number": 17,
+          "text": "j’ai parfumé ma couche de myrrhe, d’aloès, et de cinnamome."
+        },
+        {
+          "number": 18,
+          "text": "Viens, enivrons-nous d’amours jusqu’au matin, délectons-nous de volupté ;"
+        },
+        {
+          "number": 19,
+          "text": "car [mon] mari n’est pas à la maison, il s’en est allé loin en voyage ;"
+        },
+        {
+          "number": 20,
+          "text": "il a pris un sac d’argent en sa main, il viendra à sa maison au jour de la pleine lune."
+        },
+        {
+          "number": 21,
+          "text": "Elle le détourna par beaucoup de douces paroles, elle l’entraîna par la flatterie de ses lèvres."
+        },
+        {
+          "number": 22,
+          "text": "Il est allé aussitôt après elle, comme le bœuf va à la boucherie, et comme les ceps [servent à] l’instruction du fou,"
+        },
+        {
+          "number": 23,
+          "text": "jusqu’à ce que la flèche lui transperce le foie ; comme l’oiseau se hâte vers le piège et ne sait pas qu’il y va de sa vie."
+        },
+        {
+          "number": 24,
+          "text": "Maintenant donc, fils, écoutez-moi, et soyez attentifs aux paroles de ma bouche."
+        },
+        {
+          "number": 25,
+          "text": "Que ton cœur ne se détourne pas vers ses voies, et ne t’égare pas dans ses sentiers ;"
+        },
+        {
+          "number": 26,
+          "text": "car elle a fait tomber beaucoup de blessés, et ceux qu’elle a tués sont très nombreux."
+        },
+        {
+          "number": 27,
+          "text": "Ce sont les voies du shéol que sa maison ; elles descendent dans les chambres de la mort."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La sagesse ne crie-t-elle pas, et l’intelligence ne fait-elle pas retentir sa voix ?"
+        },
+        {
+          "number": 2,
+          "text": "Au sommet des hauteurs, sur le chemin, aux carrefours, elle se tient debout."
+        },
+        {
+          "number": 3,
+          "text": "À côté des portes, à l’entrée de la ville, là où l’on passe pour entrer, elle crie :"
+        },
+        {
+          "number": 4,
+          "text": "À vous, hommes, je crie, et ma voix [s’adresse] aux fils des hommes !"
+        },
+        {
+          "number": 5,
+          "text": "Vous, simples, comprenez la prudence, et vous, sots, comprenez ce qu’est le sens."
+        },
+        {
+          "number": 6,
+          "text": "Écoutez, car je dirai des choses excellentes, et l’ouverture de mes lèvres [prononcera] des choses droites ;"
+        },
+        {
+          "number": 7,
+          "text": "car mon palais méditera la vérité, et la méchanceté sera une abomination pour mes lèvres."
+        },
+        {
+          "number": 8,
+          "text": "Toutes les paroles de ma bouche sont selon la justice, il n’y a rien en elles de pervers ni de tortueux ;"
+        },
+        {
+          "number": 9,
+          "text": "elles sont toutes claires pour celui qui a de l’intelligence, et droites pour ceux qui ont trouvé la connaissance."
+        },
+        {
+          "number": 10,
+          "text": "Recevez mon instruction, et non pas de l’argent, et la connaissance plutôt que l’or fin choisi ;"
+        },
+        {
+          "number": 11,
+          "text": "car la sagesse est meilleure que les rubis, et rien de ce qui fait nos délices ne l’égale."
+        },
+        {
+          "number": 12,
+          "text": "Moi, la sagesse, je demeure avec la prudence, et je trouve la connaissance [qui vient] de la réflexion."
+        },
+        {
+          "number": 13,
+          "text": "La crainte de l’Éternel, c’est de haïr le mal. Je hais l’orgueil et la hauteur, et la voie d’iniquité, et la bouche perverse."
+        },
+        {
+          "number": 14,
+          "text": "À moi le conseil et le savoir-faire ; je suis l’intelligence ; à moi la force."
+        },
+        {
+          "number": 15,
+          "text": "Par moi les rois règnent, et les princes statuent la justice."
+        },
+        {
+          "number": 16,
+          "text": "Par moi les chefs dominent, et les nobles, tous les juges de la terre."
+        },
+        {
+          "number": 17,
+          "text": "J’aime ceux qui m’aiment ; et ceux qui me recherchent me trouveront."
+        },
+        {
+          "number": 18,
+          "text": "Avec moi sont les richesses et les honneurs, les biens éclatants et la justice."
+        },
+        {
+          "number": 19,
+          "text": "Mon fruit est meilleur que l’or fin, même que l’or pur ; et mon revenu [meilleur] que l’argent choisi."
+        },
+        {
+          "number": 20,
+          "text": "Je marche dans le chemin de la justice, au milieu des sentiers de juste jugement,"
+        },
+        {
+          "number": 21,
+          "text": "pour faire hériter les biens réels à ceux qui m’aiment, et pour remplir leurs trésors."
+        },
+        {
+          "number": 22,
+          "text": "L’Éternel m’a possédée au commencement de sa voie, avant ses œuvres d’ancienneté."
+        },
+        {
+          "number": 23,
+          "text": "Dès l’éternité je fus établie, dès le commencement, dès avant les origines de la terre."
+        },
+        {
+          "number": 24,
+          "text": "Quand il n’y avait pas d’abîmes, j’ai été enfantée, quand il n’y avait pas de sources pleines d’eaux."
+        },
+        {
+          "number": 25,
+          "text": "Avant que les montagnes soient établies sur leurs bases, avant les collines, j’ai été enfantée,"
+        },
+        {
+          "number": 26,
+          "text": "lorsqu’il n’avait pas encore fait la terre et les campagnes, et le commencement de la poussière du monde."
+        },
+        {
+          "number": 27,
+          "text": "Quand il disposait les cieux, j’étais là ; quand il ordonnait le cercle qui circonscrit la face de l’abîme,"
+        },
+        {
+          "number": 28,
+          "text": "quand il établissait les nuées en haut, quand il affermissait les sources des abîmes,"
+        },
+        {
+          "number": 29,
+          "text": "quand il imposait son décret à la mer, afin que les eaux n’outrepassent point son commandement, quand il décrétait les fondements de la terre :"
+        },
+        {
+          "number": 30,
+          "text": "j’étais alors à côté de lui son nourrisson, j’étais ses délices tous les jours, toujours en joie devant lui,"
+        },
+        {
+          "number": 31,
+          "text": "me réjouissant en la partie habitable de sa terre, et mes délices étaient dans les fils des hommes."
+        },
+        {
+          "number": 32,
+          "text": "Maintenant donc, fils, écoutez-moi : bienheureux ceux qui gardent mes voies !"
+        },
+        {
+          "number": 33,
+          "text": "Écoutez l’instruction, et soyez sages, et ne la rejetez point."
+        },
+        {
+          "number": 34,
+          "text": "Bienheureux l’homme qui m’écoute, veillant à mes portes tous les jours, gardant les poteaux de mes entrées !"
+        },
+        {
+          "number": 35,
+          "text": "Car celui qui m’a trouvée a trouvé la vie, et acquiert faveur de la part de l’Éternel ;"
+        },
+        {
+          "number": 36,
+          "text": "mais celui qui pèche contre moi fait tort à son âme ; tous ceux qui me haïssent aiment la mort."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La sagesse a bâti sa maison, elle a taillé ses sept colonnes ;"
+        },
+        {
+          "number": 2,
+          "text": "elle a tué ses bêtes, elle a mixtionné son vin, elle a aussi dressé sa table ;"
+        },
+        {
+          "number": 3,
+          "text": "elle a envoyé ses servantes ; elle crie sur les sommets des hauteurs de la ville :"
+        },
+        {
+          "number": 4,
+          "text": "Qui est simple ? qu’il se retire ici. À celui qui est dépourvu de sens, elle dit :"
+        },
+        {
+          "number": 5,
+          "text": "Venez, mangez de mon pain, et buvez du vin que j’ai mixtionné."
+        },
+        {
+          "number": 6,
+          "text": "Laissez la sottise, et vivez, et marchez dans la voie de l’intelligence."
+        },
+        {
+          "number": 7,
+          "text": "Qui instruit un moqueur reçoit pour lui-même de la confusion ; et qui reprend un méchant [reçoit] pour lui-même une tache."
+        },
+        {
+          "number": 8,
+          "text": "Ne reprends pas le moqueur, de peur qu’il ne te haïsse ; reprends le sage, et il t’aimera."
+        },
+        {
+          "number": 9,
+          "text": "Donne au sage, et il deviendra encore plus sage ; enseigne le juste, et il croîtra en science."
+        },
+        {
+          "number": 10,
+          "text": "La crainte de l’Éternel est le commencement de la sagesse, et la connaissance du Saint est l’intelligence."
+        },
+        {
+          "number": 11,
+          "text": "Car par moi tes jours seront multipliés, et des années de vie te seront ajoutées."
+        },
+        {
+          "number": 12,
+          "text": "Si tu es sage, tu seras sage pour toi-même ; et si tu es moqueur, tu en porteras seul la peine."
+        },
+        {
+          "number": 13,
+          "text": "La femme folle est bruyante, elle est sotte, il n’y a pas de connaissance en elle."
+        },
+        {
+          "number": 14,
+          "text": "Et elle s’assied à l’entrée de sa maison sur un trône, dans les lieux élevés de la ville,"
+        },
+        {
+          "number": 15,
+          "text": "pour appeler ceux qui passent sur la route, qui vont droit leur chemin :"
+        },
+        {
+          "number": 16,
+          "text": "Qui est simple ? qu’il se retire ici. Et à celui qui est dépourvu de sens, elle dit :"
+        },
+        {
+          "number": 17,
+          "text": "Les eaux dérobées sont douces, et le pain [mangé] en secret est agréable !"
+        },
+        {
+          "number": 18,
+          "text": "Et il ne sait pas que les trépassés sont là, [et] que ses conviés sont dans les profondeurs du shéol."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "***Proverbes de Salomon. Un fils sage réjouit son père, mais un fils insensé est le chagrin de sa mère."
+        },
+        {
+          "number": 2,
+          "text": "Les trésors de la méchanceté ne profitent de rien, mais la justice délivre de la mort."
+        },
+        {
+          "number": 3,
+          "text": "L’Éternel ne laisse pas l’âme du juste avoir faim, mais il repousse l’avidité des méchants."
+        },
+        {
+          "number": 4,
+          "text": "Celui qui agit d’une main lâche devient pauvre, mais la main des diligents enrichit."
+        },
+        {
+          "number": 5,
+          "text": "Celui qui amasse en été est un fils sage ; celui qui dort durant la moisson est un fils qui fait honte."
+        },
+        {
+          "number": 6,
+          "text": "Il y a des bénédictions sur la tête du juste, mais la bouche des méchants couvre la violence."
+        },
+        {
+          "number": 7,
+          "text": "La mémoire du juste est en bénédiction, mais le nom des méchants tombe en pourriture."
+        },
+        {
+          "number": 8,
+          "text": "Celui qui est sage de cœur reçoit les commandements, mais [celui qui est] insensé de lèvres tombe."
+        },
+        {
+          "number": 9,
+          "text": "Celui qui marche dans l’intégrité marche en sûreté, mais celui qui pervertit ses voies sera connu."
+        },
+        {
+          "number": 10,
+          "text": "Celui qui cligne de l’œil cause du chagrin, et [celui qui est] insensé de lèvres tombe."
+        },
+        {
+          "number": 11,
+          "text": "La bouche du juste est une fontaine de vie, mais la bouche des méchants couvre la violence."
+        },
+        {
+          "number": 12,
+          "text": "La haine excite les querelles, mais l’amour couvre toutes les transgressions."
+        },
+        {
+          "number": 13,
+          "text": "Sur les lèvres de l’homme intelligent se trouve la sagesse, mais la verge est pour le dos de celui qui est dépourvu de sens."
+        },
+        {
+          "number": 14,
+          "text": "Les sages tiennent en réserve la connaissance, mais la ruine est près de la bouche du fou."
+        },
+        {
+          "number": 15,
+          "text": "Les biens du riche sont sa ville forte ; la ruine des misérables, c’est leur pauvreté."
+        },
+        {
+          "number": 16,
+          "text": "L’œuvre du juste est pour la vie, le revenu du méchant est pour le péché."
+        },
+        {
+          "number": 17,
+          "text": "Garder l’instruction, [c’est] le sentier [qui mène] à la vie ; mais celui qui abandonne la répréhension s’égare."
+        },
+        {
+          "number": 18,
+          "text": "Celui qui couvre la haine a des lèvres menteuses, et celui qui propage les calomnies est un sot."
+        },
+        {
+          "number": 19,
+          "text": "Dans la multitude des paroles la transgression ne manque pas, mais celui qui retient ses lèvres est sage."
+        },
+        {
+          "number": 20,
+          "text": "La langue du juste est de l’argent choisi, le cœur des méchants est peu de chose."
+        },
+        {
+          "number": 21,
+          "text": "Les lèvres du juste en repaissent plusieurs, mais les fous mourront faute de sens."
+        },
+        {
+          "number": 22,
+          "text": "La bénédiction de l’Éternel est ce qui enrichit, et il n’y ajoute aucune peine."
+        },
+        {
+          "number": 23,
+          "text": "C’est comme une plaisanterie pour le sot que de commettre un crime, mais la sagesse est pour l’homme intelligent."
+        },
+        {
+          "number": 24,
+          "text": "Ce que craint le méchant lui arrive, mais le désir des justes [Dieu] l’accorde."
+        },
+        {
+          "number": 25,
+          "text": "Comme passe le tourbillon, ainsi le méchant n’est plus ; mais le juste est un fondement pour toujours."
+        },
+        {
+          "number": 26,
+          "text": "Ce que le vinaigre est aux dents, et la fumée aux yeux, tel est le paresseux pour ceux qui l’envoient."
+        },
+        {
+          "number": 27,
+          "text": "La crainte de l’Éternel ajoute des jours, mais les années des méchants seront raccourcies."
+        },
+        {
+          "number": 28,
+          "text": "L’attente des justes est une joie, mais l’espérance des méchants périra."
+        },
+        {
+          "number": 29,
+          "text": "La voie de l’Éternel est la force pour l’homme intègre, mais elle est la ruine pour les ouvriers d’iniquité."
+        },
+        {
+          "number": 30,
+          "text": "Le juste ne sera jamais ébranlé, mais les méchants n’habiteront pas le pays."
+        },
+        {
+          "number": 31,
+          "text": "La bouche du juste produit la sagesse, mais la langue perverse sera retranchée."
+        },
+        {
+          "number": 32,
+          "text": "Les lèvres du juste savent ce qui est agréable, mais la bouche des méchants n’est que perversité."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La fausse balance est en abomination à l’Éternel, mais le poids juste lui est agréable."
+        },
+        {
+          "number": 2,
+          "text": "[Quand] vient l’orgueil, la honte vient aussi ; mais la sagesse est avec les hommes modestes."
+        },
+        {
+          "number": 3,
+          "text": "L’intégrité des hommes droits les guide, mais la perversité des perfides les détruit."
+        },
+        {
+          "number": 4,
+          "text": "Les richesses ne profitent de rien au jour de la colère, mais la justice délivre de la mort."
+        },
+        {
+          "number": 5,
+          "text": "La justice de l’homme intègre rend droite sa voie, mais le méchant tombe par sa méchanceté."
+        },
+        {
+          "number": 6,
+          "text": "La justice des hommes droits les délivre, mais les perfides sont pris dans leur avidité."
+        },
+        {
+          "number": 7,
+          "text": "Quand l’homme méchant meurt, son espérance périt, et l’attente des iniques périt."
+        },
+        {
+          "number": 8,
+          "text": "Le juste est délivré de la détresse, et le méchant [y] entre à sa place."
+        },
+        {
+          "number": 9,
+          "text": "Par sa bouche l’impie perd son prochain ; mais les justes sont délivrés par la connaissance."
+        },
+        {
+          "number": 10,
+          "text": "La ville se réjouit du bien-être des justes ; et quand les méchants périssent il y a des cris de joie."
+        },
+        {
+          "number": 11,
+          "text": "La ville s’élève par la bénédiction des hommes droits, mais elle est renversée par la bouche des méchants."
+        },
+        {
+          "number": 12,
+          "text": "Qui méprise son prochain est dépourvu de sens, mais l’homme intelligent se tait."
+        },
+        {
+          "number": 13,
+          "text": "Celui qui va rapportant révèle le secret, mais celui qui est d’un esprit fidèle couvre la chose."
+        },
+        {
+          "number": 14,
+          "text": "Quand il n’y a pas de direction le peuple tombe, mais il y a salut dans le grand nombre des conseillers."
+        },
+        {
+          "number": 15,
+          "text": "On se trouve mal de cautionner un étranger, mais celui qui hait ceux qui frappent [dans la main] est en sûreté."
+        },
+        {
+          "number": 16,
+          "text": "Une femme gracieuse obtient l’honneur, et les hommes forts obtiennent la richesse."
+        },
+        {
+          "number": 17,
+          "text": "L’homme bon fait du bien à son âme, mais le cruel trouble sa chair."
+        },
+        {
+          "number": 18,
+          "text": "Le méchant fait une œuvre trompeuse, mais celui qui sème la justice a un vrai salaire."
+        },
+        {
+          "number": 19,
+          "text": "Comme la justice [tend] à la vie, celui qui poursuit le mal [tend] à sa mort."
+        },
+        {
+          "number": 20,
+          "text": "Ceux qui sont pervers de cœur sont en abomination à l’Éternel, mais ceux qui sont intègres dans leurs voies lui sont agréables."
+        },
+        {
+          "number": 21,
+          "text": "Certainement l’inique ne sera point tenu pour innocent ; mais la semence des justes sera délivrée."
+        },
+        {
+          "number": 22,
+          "text": "Une femme belle et dépourvue de sens, c’est un anneau d’or au nez d’un pourceau."
+        },
+        {
+          "number": 23,
+          "text": "Le désir des justes n’est que le bien ; l’attente des méchants, c’est la fureur."
+        },
+        {
+          "number": 24,
+          "text": "Tel disperse, et augmente encore ; et tel retient plus qu’il ne faut, mais n’en a que disette."
+        },
+        {
+          "number": 25,
+          "text": "L’âme qui bénit sera engraissée, et celui qui arrose sera lui-même arrosé."
+        },
+        {
+          "number": 26,
+          "text": "Celui qui retient le blé, le peuple le maudit ; mais la bénédiction sera sur la tête de celui qui le vend."
+        },
+        {
+          "number": 27,
+          "text": "Qui recherche le bien cherche la faveur, mais le mal arrive à qui le recherche."
+        },
+        {
+          "number": 28,
+          "text": "Celui-là tombe qui se confie en ses richesses ; mais les justes verdissent comme la feuille."
+        },
+        {
+          "number": 29,
+          "text": "Celui qui trouble sa maison héritera le vent, et le fou deviendra serviteur de celui qui est sage de cœur."
+        },
+        {
+          "number": 30,
+          "text": "Le fruit du juste est un arbre de vie, et le sage gagne les âmes."
+        },
+        {
+          "number": 31,
+          "text": "Voici, le juste est rétribué sur la terre, combien plus le méchant et le pécheur !"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Qui aime l’instruction aime la connaissance, et qui hait la répréhension est stupide."
+        },
+        {
+          "number": 2,
+          "text": "L’homme de bien obtient la faveur de par l’Éternel, mais l’homme qui fait des machinations, il le condamne."
+        },
+        {
+          "number": 3,
+          "text": "L’homme n’est point affermi par la méchanceté, mais la racine des justes n’est pas ébranlée."
+        },
+        {
+          "number": 4,
+          "text": "Une femme vertueuse est la couronne de son mari, mais celle qui fait honte est comme de la pourriture dans ses os."
+        },
+        {
+          "number": 5,
+          "text": "Les pensées des justes sont jugement, les desseins des méchants sont fraude."
+        },
+        {
+          "number": 6,
+          "text": "Les paroles des méchants sont des embûches pour [verser] le sang, mais la bouche des hommes droits les délivrera."
+        },
+        {
+          "number": 7,
+          "text": "Renversez les méchants, et ils ne sont plus ; mais la maison des justes demeure."
+        },
+        {
+          "number": 8,
+          "text": "Un homme est loué d’après sa prudence, mais le cœur perverti est en butte au mépris."
+        },
+        {
+          "number": 9,
+          "text": "Mieux vaut celui qui est d’humble condition, et qui a un serviteur, que celui qui fait l’important et qui manque de pain."
+        },
+        {
+          "number": 10,
+          "text": "Le juste regarde à la vie de sa bête, mais les entrailles des méchants sont cruelles."
+        },
+        {
+          "number": 11,
+          "text": "Celui qui laboure sa terre sera rassasié de pain, mais celui qui court après les fainéants est dépourvu de sens."
+        },
+        {
+          "number": 12,
+          "text": "Le méchant désire la proie des mauvaises gens, mais la racine des justes est productive."
+        },
+        {
+          "number": 13,
+          "text": "Il y a un mauvais piège dans la transgression des lèvres, mais le juste sort de la détresse."
+        },
+        {
+          "number": 14,
+          "text": "Du fruit de sa bouche un homme est rassasié de biens, et on rendra à l’homme l’œuvre de ses mains."
+        },
+        {
+          "number": 15,
+          "text": "La voie du fou est droite à ses yeux, mais celui qui écoute le conseil est sage."
+        },
+        {
+          "number": 16,
+          "text": "L’irritation du fou se connaît le jour même, mais l’homme avisé couvre sa honte."
+        },
+        {
+          "number": 17,
+          "text": "Celui qui dit la vérité annonce la justice, mais le faux témoin, la fraude."
+        },
+        {
+          "number": 18,
+          "text": "Il y a tel homme qui dit légèrement ce qui perce comme une épée, mais la langue des sages est santé."
+        },
+        {
+          "number": 19,
+          "text": "La lèvre véridique est ferme pour toujours, mais la langue fausse n’est que pour un instant."
+        },
+        {
+          "number": 20,
+          "text": "La fraude est dans le cœur de ceux qui machinent le mal, mais il y a de la joie pour ceux qui conseillent la paix."
+        },
+        {
+          "number": 21,
+          "text": "Aucun malheur n’arrive au juste, mais les méchants seront comblés de maux."
+        },
+        {
+          "number": 22,
+          "text": "Les lèvres menteuses sont en abomination à l’Éternel, mais ceux qui pratiquent la fidélité lui sont agréables."
+        },
+        {
+          "number": 23,
+          "text": "L’homme avisé couvre la connaissance, mais le cœur des sots proclame la folie."
+        },
+        {
+          "number": 24,
+          "text": "La main des diligents dominera, mais la [main] paresseuse sera tributaire."
+        },
+        {
+          "number": 25,
+          "text": "L’inquiétude dans le cœur d’un homme l’abat, mais une bonne parole le réjouit."
+        },
+        {
+          "number": 26,
+          "text": "Le juste montre le chemin à son compagnon, mais la voie des méchants les fourvoie."
+        },
+        {
+          "number": 27,
+          "text": "Le paresseux ne rôtit pas sa chasse ; mais les biens précieux de l’homme sont au diligent."
+        },
+        {
+          "number": 28,
+          "text": "La vie est dans le sentier de la justice, et il n’y a pas de mort dans le chemin qu’elle trace."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Un fils sage [écoute] l’instruction du père, mais le moqueur n’écoute pas la répréhension."
+        },
+        {
+          "number": 2,
+          "text": "Du fruit de sa bouche l’homme mange du bien, mais l’âme des perfides [mange] la violence."
+        },
+        {
+          "number": 3,
+          "text": "Qui surveille sa bouche garde son âme ; la ruine est pour celui qui ouvre ses lèvres toutes grandes."
+        },
+        {
+          "number": 4,
+          "text": "L’âme du paresseux désire, et il n’y a rien ; mais l’âme des diligents sera engraissée."
+        },
+        {
+          "number": 5,
+          "text": "Le juste hait la parole mensongère, mais le méchant se rend odieux et se couvre de honte."
+        },
+        {
+          "number": 6,
+          "text": "La justice garde celui qui est intègre dans sa voie, mais la méchanceté renverse le pécheur."
+        },
+        {
+          "number": 7,
+          "text": "Tel fait le riche et n’a rien du tout ; et tel se fait pauvre et a de grands biens."
+        },
+        {
+          "number": 8,
+          "text": "La rançon pour la vie d’un homme, c’est sa richesse ; mais le pauvre n’entend pas la réprimande."
+        },
+        {
+          "number": 9,
+          "text": "La lumière des justes est joyeuse, mais la lampe des méchants s’éteindra."
+        },
+        {
+          "number": 10,
+          "text": "Ce n’est que de l’orgueil que vient la querelle, mais la sagesse est avec ceux qui se laissent conseiller."
+        },
+        {
+          "number": 11,
+          "text": "Les biens qui viennent de la vanité diminuent, mais celui qui amasse à la main les accroîtra."
+        },
+        {
+          "number": 12,
+          "text": "L’attente différée rend le cœur malade, mais le désir qui arrive est un arbre de vie."
+        },
+        {
+          "number": 13,
+          "text": "Qui méprise la parole sera lié par elle ; mais qui craint le commandement, celui-là sera récompensé."
+        },
+        {
+          "number": 14,
+          "text": "L’enseignement du sage est une fontaine de vie, pour faire éviter les pièges de la mort."
+        },
+        {
+          "number": 15,
+          "text": "Le bon sens procure la faveur, mais la voie des perfides est dure."
+        },
+        {
+          "number": 16,
+          "text": "Tout homme avisé agit avec connaissance, mais le sot fait étalage de sa folie."
+        },
+        {
+          "number": 17,
+          "text": "Un messager méchant tombe dans le mal, mais un ambassadeur fidèle est santé."
+        },
+        {
+          "number": 18,
+          "text": "La pauvreté et la honte arrivent à qui rejette l’instruction, mais celui qui a égard à la répréhension sera honoré."
+        },
+        {
+          "number": 19,
+          "text": "Le désir accompli est agréable à l’âme, mais se détourner du mal est une abomination pour les sots."
+        },
+        {
+          "number": 20,
+          "text": "Qui marche avec les sages devient sage, mais le compagnon des sots s’en trouvera mal."
+        },
+        {
+          "number": 21,
+          "text": "Le mal poursuit les pécheurs ; mais le bien est la récompense des justes."
+        },
+        {
+          "number": 22,
+          "text": "L’homme de bien laisse un héritage aux fils de ses fils, mais la richesse du pécheur est réservée pour le juste."
+        },
+        {
+          "number": 23,
+          "text": "Il y a beaucoup à manger dans le défrichement des pauvres, mais il y a ce qui se perd faute de règle."
+        },
+        {
+          "number": 24,
+          "text": "Celui qui épargne la verge hait son fils, mais celui qui l’aime met de la diligence à le discipliner."
+        },
+        {
+          "number": 25,
+          "text": "Le juste mange pour le rassasiement de son âme, mais le ventre des méchants aura disette."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La sagesse des femmes bâtit leur maison, mais la folie la détruit de ses propres mains."
+        },
+        {
+          "number": 2,
+          "text": "Celui qui marche dans sa droiture craint l’Éternel, mais celui qui est pervers dans ses voies le méprise."
+        },
+        {
+          "number": 3,
+          "text": "Dans la bouche du fou est la verge d’orgueil, mais les lèvres des sages les gardent."
+        },
+        {
+          "number": 4,
+          "text": "Où il n’y a point de bœufs, la crèche est vide ; et l’abondance du revenu est dans la force du bœuf."
+        },
+        {
+          "number": 5,
+          "text": "Le témoin fidèle ne ment pas, mais le faux témoin profère des mensonges."
+        },
+        {
+          "number": 6,
+          "text": "Le moqueur cherche la sagesse, et il n’y en a pas [pour lui] ; mais la connaissance est aisée pour l’homme intelligent."
+        },
+        {
+          "number": 7,
+          "text": "Éloigne-toi de la présence de l’homme insensé, chez qui tu n’as pas aperçu des lèvres de connaissance."
+        },
+        {
+          "number": 8,
+          "text": "La sagesse de l’homme avisé est de discerner sa voie, mais la folie des sots est tromperie."
+        },
+        {
+          "number": 9,
+          "text": "Les fous se moquent du péché, mais pour les hommes droits il y a faveur."
+        },
+        {
+          "number": 10,
+          "text": "Le cœur connaît sa propre amertume, et un étranger ne se mêle pas à sa joie."
+        },
+        {
+          "number": 11,
+          "text": "La maison des méchants sera détruite, mais la tente des hommes droits fleurira."
+        },
+        {
+          "number": 12,
+          "text": "Il y a telle voie qui semble droite à un homme, mais des voies de mort en sont la fin."
+        },
+        {
+          "number": 13,
+          "text": "Même dans le rire le cœur est triste ; et la fin de la joie, c’est le chagrin."
+        },
+        {
+          "number": 14,
+          "text": "Le cœur qui s’éloigne [de Dieu] sera rassasié de ses propres voies, mais l’homme de bien [le sera] de ce qui est en lui."
+        },
+        {
+          "number": 15,
+          "text": "Le simple croit toute parole, mais l’homme avisé discerne ses pas."
+        },
+        {
+          "number": 16,
+          "text": "Le sage craint, et se retire du mal ; mais le sot est arrogant et a de l’assurance."
+        },
+        {
+          "number": 17,
+          "text": "L’homme prompt à la colère agit follement, et l’homme qui fait des machinations est haï."
+        },
+        {
+          "number": 18,
+          "text": "Les simples héritent la folie, mais les avisés sont couronnés de connaissance."
+        },
+        {
+          "number": 19,
+          "text": "Les iniques se courbent devant les bons, et les méchants, aux portes du juste."
+        },
+        {
+          "number": 20,
+          "text": "Le pauvre est haï, même de son compagnon, mais les amis du riche sont en grand nombre."
+        },
+        {
+          "number": 21,
+          "text": "Qui méprise son prochain pèche, mais bienheureux celui qui use de grâce envers les malheureux !"
+        },
+        {
+          "number": 22,
+          "text": "Ceux qui machinent du mal ne s’égarent-ils pas ? Mais la bonté et la vérité sont pour ceux qui méditent le bien."
+        },
+        {
+          "number": 23,
+          "text": "En tout travail il y a profit, mais la parole des lèvres ne mène qu’à la disette."
+        },
+        {
+          "number": 24,
+          "text": "Les richesses des sages sont leur couronne ; la folie des sots est folie."
+        },
+        {
+          "number": 25,
+          "text": "Un témoin fidèle délivre les âmes, mais la tromperie profère des mensonges."
+        },
+        {
+          "number": 26,
+          "text": "Dans la crainte de l’Éternel il y a la sécurité de la force, et il y a un refuge pour ses fils."
+        },
+        {
+          "number": 27,
+          "text": "La crainte de l’Éternel est une fontaine de vie, pour faire éviter les pièges de la mort."
+        },
+        {
+          "number": 28,
+          "text": "La gloire d’un roi, c’est la multitude du peuple, mais dans le manque de peuple est la ruine d’un prince."
+        },
+        {
+          "number": 29,
+          "text": "La lenteur à la colère est grande intelligence, mais celui qui est d’un esprit impatient exalte la folie."
+        },
+        {
+          "number": 30,
+          "text": "Un cœur sain est la vie de la chair, mais l’envie est la pourriture des os."
+        },
+        {
+          "number": 31,
+          "text": "Qui opprime le pauvre outrage Celui qui l’a fait, mais celui qui l’honore use de grâce envers l’indigent."
+        },
+        {
+          "number": 32,
+          "text": "Le méchant est chassé par son iniquité, mais le juste est plein de confiance, dans sa mort [même]."
+        },
+        {
+          "number": 33,
+          "text": "La sagesse demeure dans le cœur de celui qui a du discernement, mais ce qui est au-dedans des sots est connu."
+        },
+        {
+          "number": 34,
+          "text": "La justice élève une nation, mais le péché est la honte des peuples."
+        },
+        {
+          "number": 35,
+          "text": "La faveur du roi est pour le serviteur intelligent, mais sa colère est sur celui qui fait honte."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Une réponse douce détourne la fureur, mais la parole blessante excite la colère."
+        },
+        {
+          "number": 2,
+          "text": "La langue des sages fait valoir la connaissance, mais la bouche des sots fait jaillir la folie."
+        },
+        {
+          "number": 3,
+          "text": "Les yeux de l’Éternel sont en tout lieu, regardant les méchants et les bons."
+        },
+        {
+          "number": 4,
+          "text": "La bénignité de la langue est un arbre de vie, mais la perversité en elle est un brisement d’esprit."
+        },
+        {
+          "number": 5,
+          "text": "Le fou méprise l’instruction de son père, mais celui qui a égard à la répréhension devient avisé."
+        },
+        {
+          "number": 6,
+          "text": "Dans la maison du juste il y a un grand trésor, mais dans le revenu du méchant il y a du trouble."
+        },
+        {
+          "number": 7,
+          "text": "Les lèvres des sages répandent la connaissance, mais le cœur des sots ne fait pas ainsi."
+        },
+        {
+          "number": 8,
+          "text": "Le sacrifice des méchants est en abomination à l’Éternel, mais la prière des hommes droits lui est agréable."
+        },
+        {
+          "number": 9,
+          "text": "La voie du méchant est en abomination à l’Éternel, mais il aime celui qui poursuit la justice."
+        },
+        {
+          "number": 10,
+          "text": "Une discipline fâcheuse attend celui qui abandonne le [droit] sentier ; celui qui hait la correction mourra."
+        },
+        {
+          "number": 11,
+          "text": "Le shéol et l’abîme sont devant l’Éternel, combien plus les cœurs des fils des hommes !"
+        },
+        {
+          "number": 12,
+          "text": "Le moqueur n’aime pas celui qui le reprend ; il ne va pas vers les sages."
+        },
+        {
+          "number": 13,
+          "text": "Le cœur joyeux égaie le visage, mais par le chagrin du cœur l’esprit est abattu."
+        },
+        {
+          "number": 14,
+          "text": "Le cœur de l’homme intelligent cherche la connaissance, mais la bouche des sots se repaît de folie."
+        },
+        {
+          "number": 15,
+          "text": "Tous les jours du malheureux sont mauvais, mais le cœur heureux est un festin continuel."
+        },
+        {
+          "number": 16,
+          "text": "Mieux vaut peu, avec la crainte de l’Éternel, qu’un grand trésor avec du trouble."
+        },
+        {
+          "number": 17,
+          "text": "Mieux vaut un repas d’herbes, et de l’amour, qu’un bœuf engraissé, et de la haine."
+        },
+        {
+          "number": 18,
+          "text": "L’homme violent excite la querelle, mais celui qui est lent à la colère apaise la dispute."
+        },
+        {
+          "number": 19,
+          "text": "La voie du paresseux est comme une haie d’épines, mais le sentier des hommes droits est aplani."
+        },
+        {
+          "number": 20,
+          "text": "Un fils sage réjouit son père, mais l’homme insensé méprise sa mère."
+        },
+        {
+          "number": 21,
+          "text": "La folie est la joie de celui qui est dépourvu de sens, mais l’homme intelligent règle ses pas."
+        },
+        {
+          "number": 22,
+          "text": "Les projets échouent là où il n’y a point de conseil, mais, par la multitude des conseillers, ils réussissent."
+        },
+        {
+          "number": 23,
+          "text": "Il y a de la joie pour un homme dans la réponse de sa bouche ; et une parole [dite] en son temps, combien elle est bonne !"
+        },
+        {
+          "number": 24,
+          "text": "Le sentier de la vie est en haut pour les intelligents, afin qu’ils se détournent du shéol, en bas."
+        },
+        {
+          "number": 25,
+          "text": "L’Éternel démolit la maison des orgueilleux, mais il rend ferme la borne de la veuve."
+        },
+        {
+          "number": 26,
+          "text": "Les machinations de l’inique sont en abomination à l’Éternel, mais les paroles pures [lui] sont agréables."
+        },
+        {
+          "number": 27,
+          "text": "Celui qui cherche le gain déshonnête trouble sa maison, mais celui qui hait les dons vivra."
+        },
+        {
+          "number": 28,
+          "text": "Le cœur du juste réfléchit pour répondre, mais la bouche des méchants fait jaillir les choses mauvaises."
+        },
+        {
+          "number": 29,
+          "text": "L’Éternel est loin des méchants, mais il écoute la prière des justes."
+        },
+        {
+          "number": 30,
+          "text": "Ce qui éclaire les yeux réjouit le cœur ; une bonne nouvelle engraisse les os."
+        },
+        {
+          "number": 31,
+          "text": "L’oreille qui écoute la répréhension de vie logera au milieu des sages."
+        },
+        {
+          "number": 32,
+          "text": "Celui qui rejette l’instruction méprise sa vie ; mais celui qui écoute la répréhension acquiert du sens."
+        },
+        {
+          "number": 33,
+          "text": "La crainte de l’Éternel est la discipline de la sagesse, et l’abaissement va devant la gloire."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "La préparation du cœur est à l’homme, mais de l’Éternel est la réponse de la langue."
+        },
+        {
+          "number": 2,
+          "text": "Toutes les voies d’un homme sont pures à ses propres yeux, mais l’Éternel pèse les esprits."
+        },
+        {
+          "number": 3,
+          "text": "Remets tes affaires à l’Éternel, et tes pensées seront accomplies."
+        },
+        {
+          "number": 4,
+          "text": "L’Éternel a tout fait pour lui-même, et même le méchant pour le jour du malheur."
+        },
+        {
+          "number": 5,
+          "text": "Tout cœur orgueilleux est en abomination à l’Éternel ; certes, il ne sera pas tenu pour innocent."
+        },
+        {
+          "number": 6,
+          "text": "Par la bonté et par la vérité, propitiation est faite pour l’iniquité, et par la crainte de l’Éternel on se détourne du mal."
+        },
+        {
+          "number": 7,
+          "text": "Quand les voies d’un homme plaisent à l’Éternel, il met ses ennemis mêmes en paix avec lui."
+        },
+        {
+          "number": 8,
+          "text": "Mieux vaut peu avec justice, que beaucoup de revenu sans ce qui est juste."
+        },
+        {
+          "number": 9,
+          "text": "Le cœur de l’homme se propose sa voie, mais l’Éternel dispose ses pas."
+        },
+        {
+          "number": 10,
+          "text": "Un oracle est sur les lèvres du roi, sa bouche n’erre pas dans le jugement."
+        },
+        {
+          "number": 11,
+          "text": "La balance et les plateaux justes sont de l’Éternel ; tous les poids du sac sont son ouvrage."
+        },
+        {
+          "number": 12,
+          "text": "C’est une abomination pour les rois de faire l’iniquité ; car, par la justice, le trône est rendu ferme."
+        },
+        {
+          "number": 13,
+          "text": "Les lèvres justes sont le plaisir des rois, et le [roi] aime celui qui parle droitement."
+        },
+        {
+          "number": 14,
+          "text": "La fureur du roi, ce sont des messagers de mort ; mais l’homme sage l’apaisera."
+        },
+        {
+          "number": 15,
+          "text": "Dans la lumière de la face du roi est la vie, et sa faveur est comme un nuage de pluie dans la dernière saison."
+        },
+        {
+          "number": 16,
+          "text": "Combien acquérir la sagesse est meilleur que l’or fin, et acquérir l’intelligence, préférable à l’argent !"
+        },
+        {
+          "number": 17,
+          "text": "Le chemin des hommes droits, c’est de se détourner du mal ; celui-là garde son âme qui veille sur sa voie."
+        },
+        {
+          "number": 18,
+          "text": "L’orgueil va devant la ruine, et l’esprit hautain devant la chute."
+        },
+        {
+          "number": 19,
+          "text": "Mieux vaut être humble d’esprit avec les débonnaires, que de partager le butin avec les orgueilleux."
+        },
+        {
+          "number": 20,
+          "text": "Celui qui prend garde à la parole trouvera le bien, et qui se confie en l’Éternel est bienheureux."
+        },
+        {
+          "number": 21,
+          "text": "L’homme sage de cœur sera appelé intelligent, et la douceur des lèvres accroît la science."
+        },
+        {
+          "number": 22,
+          "text": "L’intelligence est une fontaine de vie pour ceux qui la possèdent, mais l’instruction des fous est folie."
+        },
+        {
+          "number": 23,
+          "text": "Le cœur du sage rend sa bouche sensée, et, sur ses lèvres, accroît la science."
+        },
+        {
+          "number": 24,
+          "text": "Les paroles agréables sont un rayon de miel, douceur pour l’âme et santé pour les os."
+        },
+        {
+          "number": 25,
+          "text": "Il y a telle voie qui semble droite à un homme, mais des voies de mort en sont la fin."
+        },
+        {
+          "number": 26,
+          "text": "L’âme de celui qui travaille, travaille pour lui, car sa bouche l’y contraint."
+        },
+        {
+          "number": 27,
+          "text": "L’homme de Bélial creuse, [à la recherche] du mal, et sur ses lèvres il y a comme un feu brûlant."
+        },
+        {
+          "number": 28,
+          "text": "L’homme pervers sème les querelles, et le rapporteur divise les intimes amis."
+        },
+        {
+          "number": 29,
+          "text": "L’homme violent entraîne son compagnon et le fait marcher dans une voie qui n’est pas bonne."
+        },
+        {
+          "number": 30,
+          "text": "Celui qui ferme ses yeux pour machiner la perversité, celui qui pince ses lèvres, accomplit le mal."
+        },
+        {
+          "number": 31,
+          "text": "Les cheveux blancs sont une couronne de gloire s’ils se trouvent dans la voie de la justice."
+        },
+        {
+          "number": 32,
+          "text": "Qui est lent à la colère vaut mieux que l’homme fort, et qui gouverne son esprit vaut mieux que celui qui prend une ville."
+        },
+        {
+          "number": 33,
+          "text": "On jette le sort dans le giron, mais toute décision est de par l’Éternel."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mieux vaut un morceau sec et la paix, qu’une maison pleine de viandes de sacrifices et des querelles."
+        },
+        {
+          "number": 2,
+          "text": "Un serviteur sage gouvernera le fils qui fait honte, et il aura part à l’héritage au milieu des frères."
+        },
+        {
+          "number": 3,
+          "text": "Le creuset est pour l’argent, et le fourneau pour l’or ; mais l’Éternel éprouve les cœurs."
+        },
+        {
+          "number": 4,
+          "text": "Celui qui fait le mal est attentif à la lèvre d’iniquité ; le menteur prête l’oreille à la langue pernicieuse."
+        },
+        {
+          "number": 5,
+          "text": "Qui se moque du pauvre outrage celui qui l’a fait ; qui se réjouit de la calamité ne sera pas tenu pour innocent."
+        },
+        {
+          "number": 6,
+          "text": "La couronne des vieillards, ce sont les fils des fils, et la gloire des fils, ce sont leurs pères."
+        },
+        {
+          "number": 7,
+          "text": "La parole excellente ne convient point à un homme vil ; combien moins [sied] à un prince la lèvre menteuse."
+        },
+        {
+          "number": 8,
+          "text": "Le présent est une pierre précieuse aux yeux de celui qui le possède ; de quelque côté qu’il se tourne, il réussit."
+        },
+        {
+          "number": 9,
+          "text": "Celui qui couvre une transgression cherche l’amour, mais celui qui répète une chose divise les intimes amis."
+        },
+        {
+          "number": 10,
+          "text": "La répréhension fait plus d’impression sur l’homme intelligent que 100 coups sur le sot."
+        },
+        {
+          "number": 11,
+          "text": "L’inique ne cherche que rébellion ; mais un messager cruel sera envoyé contre lui."
+        },
+        {
+          "number": 12,
+          "text": "Qu’un homme rencontre une ourse privée de ses petits, plutôt qu’un sot dans sa folie !"
+        },
+        {
+          "number": 13,
+          "text": "Le mal ne quittera point la maison de celui qui rend le mal pour le bien."
+        },
+        {
+          "number": 14,
+          "text": "Le commencement d’une querelle, c’est comme quand on laisse couler des eaux ; avant que la dispute s’échauffe, va-t’en."
+        },
+        {
+          "number": 15,
+          "text": "Celui qui justifie le méchant et celui qui condamne le juste sont tous deux en abomination à l’Éternel."
+        },
+        {
+          "number": 16,
+          "text": "Pourquoi donc le prix dans la main d’un sot pour acheter la sagesse, alors qu’il n’a point de sens ?"
+        },
+        {
+          "number": 17,
+          "text": "L’ami aime en tout temps, et un frère est né pour la détresse."
+        },
+        {
+          "number": 18,
+          "text": "L’homme dépourvu de sens frappe dans la main, s’engageant comme caution vis-à-vis de son prochain."
+        },
+        {
+          "number": 19,
+          "text": "Qui aime les contestations aime la transgression ; qui hausse son portail cherche la ruine."
+        },
+        {
+          "number": 20,
+          "text": "Celui qui est pervers de cœur ne trouve pas le bien ; et celui qui use de détours avec sa langue tombe dans le mal."
+        },
+        {
+          "number": 21,
+          "text": "Celui qui engendre un sot [l’engendre] pour son chagrin ; et le père d’un homme vil ne se réjouira pas."
+        },
+        {
+          "number": 22,
+          "text": "Le cœur joyeux fait du bien à la santé, mais un esprit abattu dessèche les os."
+        },
+        {
+          "number": 23,
+          "text": "Le méchant prend de [son] sein un présent pour faire dévier les sentiers du jugement."
+        },
+        {
+          "number": 24,
+          "text": "La sagesse est en face de l’homme intelligent, mais les yeux du sot sont au bout de la terre."
+        },
+        {
+          "number": 25,
+          "text": "Un fils insensé est un chagrin pour son père et une amertume pour celle qui l’a enfanté."
+        },
+        {
+          "number": 26,
+          "text": "Il n’est pas bon de punir le juste, et de frapper les nobles à cause de [leur] droiture."
+        },
+        {
+          "number": 27,
+          "text": "Celui qui a de la connaissance retient ses paroles, et un homme qui a de l’intelligence est d’un esprit froid."
+        },
+        {
+          "number": 28,
+          "text": "Même le fou qui se tait est réputé sage, – celui qui ferme ses lèvres, un homme intelligent."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Celui qui se tient à l’écart recherche ce qui lui plaît ; il conteste contre toute sagesse."
+        },
+        {
+          "number": 2,
+          "text": "Le sot ne prend pas plaisir à l’intelligence, mais à ce que son cœur soit manifesté."
+        },
+        {
+          "number": 3,
+          "text": "Quand vient le méchant, le mépris vient aussi, et avec l’ignominie, l’opprobre."
+        },
+        {
+          "number": 4,
+          "text": "Les paroles de la bouche d’un homme sont des eaux profondes, et la fontaine de la sagesse est un torrent qui coule."
+        },
+        {
+          "number": 5,
+          "text": "Ce n’est pas bien d’avoir acception de la personne du méchant pour faire frustrer le juste dans le jugement."
+        },
+        {
+          "number": 6,
+          "text": "Les lèvres du sot entrent en dispute, et sa bouche appelle les coups."
+        },
+        {
+          "number": 7,
+          "text": "La bouche du sot est sa ruine, et ses lèvres sont un piège pour son âme."
+        },
+        {
+          "number": 8,
+          "text": "Les paroles du rapporteur sont comme des friandises, et elles descendent jusqu’au-dedans des entrailles."
+        },
+        {
+          "number": 9,
+          "text": "Celui-là aussi qui est lâche dans son ouvrage est frère du destructeur."
+        },
+        {
+          "number": 10,
+          "text": "Le nom de l’Éternel est une forte tour ; le juste y court et s’y trouve en une haute retraite."
+        },
+        {
+          "number": 11,
+          "text": "Les biens du riche sont sa ville forte, et comme une haute muraille, dans son imagination."
+        },
+        {
+          "number": 12,
+          "text": "Avant la ruine le cœur de l’homme s’élève, et la débonnaireté va devant la gloire."
+        },
+        {
+          "number": 13,
+          "text": "Répondre avant d’avoir entendu, c’est une folie et une confusion pour qui le fait."
+        },
+        {
+          "number": 14,
+          "text": "L’esprit d’un homme soutient son infirmité ; mais l’esprit abattu, qui le supportera ?"
+        },
+        {
+          "number": 15,
+          "text": "Le cœur de l’homme intelligent acquiert la connaissance, et l’oreille des sages cherche la connaissance."
+        },
+        {
+          "number": 16,
+          "text": "Le don d’un homme lui fait faire place et l’introduit devant les grands."
+        },
+        {
+          "number": 17,
+          "text": "Celui qui est le premier dans son procès est juste ; son prochain vient, et l’examine."
+        },
+        {
+          "number": 18,
+          "text": "Le sort fait cesser les querelles et sépare les puissants."
+        },
+        {
+          "number": 19,
+          "text": "Un frère offensé est plus [difficile] à gagner qu’une ville forte, et les querelles sont comme les verrous d’un palais."
+        },
+        {
+          "number": 20,
+          "text": "Le ventre d’un homme est rassasié du fruit de sa bouche ; du revenu de ses lèvres il est rassasié."
+        },
+        {
+          "number": 21,
+          "text": "La mort et la vie sont au pouvoir de la langue, et celui qui l’aime mangera de son fruit."
+        },
+        {
+          "number": 22,
+          "text": "Celui qui a trouvé une femme a trouvé une bonne chose, et il a obtenu faveur de la part de l’Éternel."
+        },
+        {
+          "number": 23,
+          "text": "Le pauvre parle en supplications, mais le riche répond des choses dures."
+        },
+        {
+          "number": 24,
+          "text": "L’homme qui a [beaucoup] de compagnons va se ruinant ; mais il est tel ami plus attaché qu’un frère."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mieux vaut le pauvre qui marche dans son intégrité, que celui qui est pervers de lèvres et qui est un sot."
+        },
+        {
+          "number": 2,
+          "text": "De même, le manque de connaissance dans une âme n’est pas une bonne chose, et celui qui se hâte de ses pieds bronche."
+        },
+        {
+          "number": 3,
+          "text": "La folie de l’homme pervertit sa voie, et son cœur s’irrite contre l’Éternel."
+        },
+        {
+          "number": 4,
+          "text": "Les richesses font beaucoup d’amis, mais le pauvre est séparé de son ami."
+        },
+        {
+          "number": 5,
+          "text": "Le faux témoin ne sera pas tenu pour innocent, et celui qui profère des mensonges n’échappera point."
+        },
+        {
+          "number": 6,
+          "text": "Beaucoup de gens recherchent la faveur d’un noble, et chacun est ami d’un homme qui donne."
+        },
+        {
+          "number": 7,
+          "text": "Tous les frères du pauvre le haïssent ; combien plus ses amis s’éloigneront-ils de lui ! Il les poursuit de ses paroles,… ils n’y sont plus !"
+        },
+        {
+          "number": 8,
+          "text": "Celui qui acquiert du sens aime son âme ; celui qui garde l’intelligence, c’est pour trouver le bonheur."
+        },
+        {
+          "number": 9,
+          "text": "Le faux témoin ne sera pas tenu pour innocent, et celui qui profère des mensonges périra."
+        },
+        {
+          "number": 10,
+          "text": "Une vie de délices ne sied pas à un sot ; combien moins [sied-il] à un serviteur de gouverner des princes !"
+        },
+        {
+          "number": 11,
+          "text": "La sagesse de l’homme le rend lent à la colère ; et sa gloire, c’est de passer par-dessus la transgression."
+        },
+        {
+          "number": 12,
+          "text": "La colère d’un roi est comme le rugissement d’un jeune lion, mais sa faveur, comme la rosée sur l’herbe."
+        },
+        {
+          "number": 13,
+          "text": "Un fils insensé est un malheur pour son père, et les querelles d’une femme sont une gouttière continuelle."
+        },
+        {
+          "number": 14,
+          "text": "Maison et richesse sont l’héritage des pères, mais une femme sage vient de l’Éternel."
+        },
+        {
+          "number": 15,
+          "text": "La paresse fait tomber dans un profond sommeil, et l’âme négligente aura faim."
+        },
+        {
+          "number": 16,
+          "text": "Celui qui garde le commandement garde son âme ; celui qui ne veille pas sur ses voies mourra."
+        },
+        {
+          "number": 17,
+          "text": "Qui use de grâce envers le pauvre prête à l’Éternel, et il lui rendra son bienfait."
+        },
+        {
+          "number": 18,
+          "text": "Corrige ton fils tandis qu’il y a de l’espoir, mais ne te laisse pas aller au désir de le faire mourir."
+        },
+        {
+          "number": 19,
+          "text": "Celui qui est très colère en portera la peine ; car si tu le délivres, tu devras recommencer."
+        },
+        {
+          "number": 20,
+          "text": "Écoute le conseil, et reçois l’instruction, afin que tu sois sage à ta fin."
+        },
+        {
+          "number": 21,
+          "text": "Il y a beaucoup de pensées dans le cœur d’un homme ; mais le conseil de l’Éternel, c’est là ce qui s’accomplit."
+        },
+        {
+          "number": 22,
+          "text": "Ce qui attire dans un homme, c’est sa bonté ; et le pauvre vaut mieux que l’homme menteur."
+        },
+        {
+          "number": 23,
+          "text": "La crainte de l’Éternel mène à la vie, et l’on reposera rassasié, sans être visité par le mal."
+        },
+        {
+          "number": 24,
+          "text": "Le paresseux enfonce sa main dans le plat, et il ne la ramène pas à sa bouche."
+        },
+        {
+          "number": 25,
+          "text": "Frappe le moqueur, et le simple deviendra avisé ; corrige l’homme intelligent, et il comprendra la connaissance."
+        },
+        {
+          "number": 26,
+          "text": "Celui qui ruine son père et chasse sa mère, est un fils qui fait honte et apporte l’opprobre."
+        },
+        {
+          "number": 27,
+          "text": "Mon fils, cesse d’écouter l’instruction qui fait errer loin des paroles de la connaissance."
+        },
+        {
+          "number": 28,
+          "text": "Un témoin de Bélial se moque du juste jugement, et la bouche des méchants avale l’iniquité."
+        },
+        {
+          "number": 29,
+          "text": "Les jugements sont préparés pour les moqueurs, et les coups pour le dos des sots."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le vin est moqueur, la boisson forte est tumultueuse, et quiconque s’y égare n’est pas sage."
+        },
+        {
+          "number": 2,
+          "text": "La terreur du roi est comme le rugissement d’un jeune lion : qui l’irrite, pèche contre sa propre âme."
+        },
+        {
+          "number": 3,
+          "text": "C’est la gloire d’un homme que de s’abstenir des contestations, mais chaque fou s’y engage."
+        },
+        {
+          "number": 4,
+          "text": "À cause de l’hiver, le paresseux ne laboure pas ; lors de la moisson, il mendiera et n’aura rien."
+        },
+        {
+          "number": 5,
+          "text": "Le conseil dans le cœur d’un homme est une eau profonde, et l’homme intelligent y puise."
+        },
+        {
+          "number": 6,
+          "text": "Nombre d’hommes proclament chacun sa bonté ; mais un homme fidèle, qui le trouvera ?"
+        },
+        {
+          "number": 7,
+          "text": "Le juste marche dans son intégrité ; heureux ses fils après lui !"
+        },
+        {
+          "number": 8,
+          "text": "Le roi siège sur le trône du jugement ; il dissipe tout mal par son regard."
+        },
+        {
+          "number": 9,
+          "text": "Qui dira : J’ai purifié mon cœur, je suis net de mon péché ?"
+        },
+        {
+          "number": 10,
+          "text": "Poids et poids, épha et épha, sont tous deux en abomination à l’Éternel."
+        },
+        {
+          "number": 11,
+          "text": "Même un jeune garçon se fait connaître par ses actions, si sa conduite est pure et si elle est droite."
+        },
+        {
+          "number": 12,
+          "text": "Et l’oreille qui entend et l’œil qui voit, l’Éternel les a faits tous les deux."
+        },
+        {
+          "number": 13,
+          "text": "N’aime pas le sommeil, de peur que tu ne deviennes pauvre ; ouvre tes yeux, [et] rassasie-toi de pain."
+        },
+        {
+          "number": 14,
+          "text": "Mauvais, mauvais ! dit l’acheteur ; puis il s’en va et se vante."
+        },
+        {
+          "number": 15,
+          "text": "Il y a de l’or et beaucoup de rubis ; mais les lèvres de la connaissance sont un vase précieux."
+        },
+        {
+          "number": 16,
+          "text": "Prends son vêtement, car il a cautionné autrui ; et prends de lui un gage, à cause des étrangers."
+        },
+        {
+          "number": 17,
+          "text": "Le pain du mensonge est agréable à l’homme ; mais ensuite, sa bouche est pleine de gravier."
+        },
+        {
+          "number": 18,
+          "text": "Les plans s’affermissent par le conseil ; et fais la guerre avec prudence."
+        },
+        {
+          "number": 19,
+          "text": "Qui va rapportant révèle le secret ; aussi ne te mêle pas avec le bavard."
+        },
+        {
+          "number": 20,
+          "text": "Qui maudit son père et sa mère, – sa lampe s’éteindra au sein des ténèbres."
+        },
+        {
+          "number": 21,
+          "text": "L’héritage acquis avec hâte au commencement, ne sera pas béni à la fin."
+        },
+        {
+          "number": 22,
+          "text": "Ne dis point : Je rendrai le mal. Attends-toi à l’Éternel, et il te sauvera."
+        },
+        {
+          "number": 23,
+          "text": "Poids et poids est en abomination à l’Éternel, et la fausse balance n’est pas une chose bonne."
+        },
+        {
+          "number": 24,
+          "text": "Les pas de l’homme viennent de l’Éternel ; et comment un homme comprendrait-il sa propre voie ?"
+        },
+        {
+          "number": 25,
+          "text": "C’est un piège pour l’homme que de dire précipitamment : Chose sainte ! – et, après des vœux, d’examiner."
+        },
+        {
+          "number": 26,
+          "text": "Un roi sage disperse les méchants, et ramène sur eux la roue."
+        },
+        {
+          "number": 27,
+          "text": "L’esprit de l’homme est une lampe de l’Éternel ; il sonde toutes les profondeurs du cœur."
+        },
+        {
+          "number": 28,
+          "text": "La bonté et la vérité préservent le roi, et il soutient son trône par la bonté."
+        },
+        {
+          "number": 29,
+          "text": "L’ornement des jeunes gens, c’est leur force ; et la gloire des vieillards, ce sont les cheveux blancs."
+        },
+        {
+          "number": 30,
+          "text": "Les meurtrissures [et] les plaies nettoient le mal, et les coups, les profondeurs de l’âme."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le cœur d’un roi, dans la main de l’Éternel, est des ruisseaux d’eau ; il l’incline à tout ce qui lui plaît."
+        },
+        {
+          "number": 2,
+          "text": "Toute voie de l’homme est droite à ses yeux ; mais l’Éternel pèse les cœurs."
+        },
+        {
+          "number": 3,
+          "text": "Pratiquer ce qui est juste et droit, est une chose plus agréable à l’Éternel qu’un sacrifice."
+        },
+        {
+          "number": 4,
+          "text": "L’élévation des yeux et un cœur qui s’enfle, la lampe des méchants, c’est péché."
+        },
+        {
+          "number": 5,
+          "text": "Les pensées d’un homme diligent [ne mènent] qu’à l’abondance ; mais tout étourdi [ne court] qu’à la disette."
+        },
+        {
+          "number": 6,
+          "text": "Acquérir des trésors par une langue fausse, c’est une vanité fugitive de ceux qui cherchent la mort."
+        },
+        {
+          "number": 7,
+          "text": "La dévastation des méchants les emporte, car ils refusent de pratiquer ce qui est droit."
+        },
+        {
+          "number": 8,
+          "text": "La voie d’un homme coupable est détournée ; mais l’œuvre de celui qui est pur est droite."
+        },
+        {
+          "number": 9,
+          "text": "Mieux vaut habiter sur le coin d’un toit, que [d’avoir] une femme querelleuse et une maison en commun."
+        },
+        {
+          "number": 10,
+          "text": "L’âme du méchant désire le mal ; son prochain ne trouve pas grâce à ses yeux."
+        },
+        {
+          "number": 11,
+          "text": "Quand on punit le moqueur, le simple devient sage ; et quand on instruit le sage, il reçoit de la connaissance."
+        },
+        {
+          "number": 12,
+          "text": "Il y a un juste qui considère attentivement la maison du méchant, il renverse les méchants dans le malheur."
+        },
+        {
+          "number": 13,
+          "text": "Celui qui ferme son oreille au cri du pauvre, criera lui aussi, et on ne lui répondra pas."
+        },
+        {
+          "number": 14,
+          "text": "Un don [fait] en secret apaise la colère, et un présent [mis] dans le sein [calme] une violente fureur."
+        },
+        {
+          "number": 15,
+          "text": "C’est une joie pour le juste de pratiquer ce qui est droit, mais c’est la ruine pour les ouvriers d’iniquité."
+        },
+        {
+          "number": 16,
+          "text": "L’homme qui s’égare du chemin de la sagesse demeurera dans l’assemblée des trépassés."
+        },
+        {
+          "number": 17,
+          "text": "Celui qui aime la joie sera dans l’indigence ; celui qui aime le vin et l’huile ne s’enrichira pas."
+        },
+        {
+          "number": 18,
+          "text": "Le méchant est une rançon pour le juste, et le perfide est à la place des hommes intègres."
+        },
+        {
+          "number": 19,
+          "text": "Mieux vaut habiter dans une terre déserte, qu’avec une femme querelleuse et irritable."
+        },
+        {
+          "number": 20,
+          "text": "Il y a un trésor désirable et de l’huile dans la demeure du sage ; mais l’homme insensé les engloutit."
+        },
+        {
+          "number": 21,
+          "text": "Qui poursuit la justice et la bonté trouvera la vie, la justice, et la gloire."
+        },
+        {
+          "number": 22,
+          "text": "Le sage monte dans la ville des hommes forts, et abat la force de ce qui en faisait la sécurité."
+        },
+        {
+          "number": 23,
+          "text": "Qui garde sa bouche et sa langue, garde son âme de détresses."
+        },
+        {
+          "number": 24,
+          "text": "Orgueilleux, arrogant, moqueur, est le nom de celui qui agit avec colère et orgueil."
+        },
+        {
+          "number": 25,
+          "text": "Le désir du paresseux le tue, car ses mains refusent de travailler."
+        },
+        {
+          "number": 26,
+          "text": "Tout le jour il désire avidement ; mais le juste donne et ne retient pas."
+        },
+        {
+          "number": 27,
+          "text": "Le sacrifice des méchants est une abomination ; combien plus s’ils l’apportent avec une pensée mauvaise."
+        },
+        {
+          "number": 28,
+          "text": "Le témoin menteur périra ; mais l’homme qui écoute parlera à toujours."
+        },
+        {
+          "number": 29,
+          "text": "L’homme méchant enhardit son visage, mais celui qui est droit règle sa voie."
+        },
+        {
+          "number": 30,
+          "text": "Il n’y a point de sagesse, et il n’y a point d’intelligence, et il n’y a point de conseil, en présence de l’Éternel."
+        },
+        {
+          "number": 31,
+          "text": "Le cheval est préparé pour le jour de la bataille, mais la délivrance est à l’Éternel."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Une bonne renommée est préférable à de grandes richesses, et la bonne grâce à l’argent et à l’or."
+        },
+        {
+          "number": 2,
+          "text": "Le riche et le pauvre se rencontrent : l’Éternel les a tous faits."
+        },
+        {
+          "number": 3,
+          "text": "L’homme avisé voit le mal et se cache ; mais les simples passent outre et en portent la peine."
+        },
+        {
+          "number": 4,
+          "text": "La fin de la débonnaireté, de la crainte de l’Éternel, c’est la richesse, et la gloire, et la vie."
+        },
+        {
+          "number": 5,
+          "text": "Il y a des épines, des pièges, sur la voie du pervers ; celui qui garde son âme s’en éloigne."
+        },
+        {
+          "number": 6,
+          "text": "Élève le jeune garçon selon la règle de sa voie ; même lorsqu’il vieillira, il ne s’en détournera point."
+        },
+        {
+          "number": 7,
+          "text": "Le riche gouverne les pauvres, et celui qui emprunte est serviteur de l’homme qui prête."
+        },
+        {
+          "number": 8,
+          "text": "Qui sème l’injustice moissonnera le malheur, et la verge de son courroux prendra fin."
+        },
+        {
+          "number": 9,
+          "text": "[Celui qui a] l’œil bienveillant sera béni, car il donne de son pain au pauvre."
+        },
+        {
+          "number": 10,
+          "text": "Chasse le moqueur, et la querelle s’en ira, et les disputes et la honte cesseront."
+        },
+        {
+          "number": 11,
+          "text": "Celui qui aime la pureté de cœur a la grâce sur les lèvres, [et] le roi est son ami."
+        },
+        {
+          "number": 12,
+          "text": "Les yeux de l’Éternel gardent la connaissance, mais il renverse les paroles du perfide."
+        },
+        {
+          "number": 13,
+          "text": "Le paresseux dit : Il y a un lion là dehors, je serai tué au milieu des rues !"
+        },
+        {
+          "number": 14,
+          "text": "La bouche des étrangères est une fosse profonde ; celui contre qui l’Éternel est irrité y tombera."
+        },
+        {
+          "number": 15,
+          "text": "La folie est liée au cœur du jeune enfant ; la verge de la correction l’éloignera de lui."
+        },
+        {
+          "number": 16,
+          "text": "Celui qui opprime le pauvre, ce sera pour l’enrichir ; celui qui donne au riche, ce sera pour le faire tomber dans l’indigence."
+        },
+        {
+          "number": 17,
+          "text": "Incline ton oreille et écoute les paroles des sages, et applique ton cœur à ma science ;"
+        },
+        {
+          "number": 18,
+          "text": "car c’est une chose agréable si tu les gardes au-dedans de toi : elles seront disposées ensemble sur tes lèvres."
+        },
+        {
+          "number": 19,
+          "text": "Afin que ta confiance soit en l’Éternel, je te [les] ai fait connaître à toi, aujourd’hui."
+        },
+        {
+          "number": 20,
+          "text": "Ne t’ai-je pas écrit des choses excellentes en conseils et en connaissance,"
+        },
+        {
+          "number": 21,
+          "text": "pour te faire connaître la sûre norme des paroles de vérité, afin que tu répondes des paroles de vérité à ceux qui t’envoient ?"
+        },
+        {
+          "number": 22,
+          "text": "Ne pille pas le pauvre, parce qu’il est pauvre, et ne foule pas l’affligé à la porte ;"
+        },
+        {
+          "number": 23,
+          "text": "car l’Éternel prendra en main leur cause, et dépouillera l’âme de ceux qui les dépouillent."
+        },
+        {
+          "number": 24,
+          "text": "Ne sois pas l’ami de l’homme colère, et n’entre pas chez l’homme violent ;"
+        },
+        {
+          "number": 25,
+          "text": "de peur que tu n’apprennes ses sentiers, et que tu n’emportes un piège dans ton âme."
+        },
+        {
+          "number": 26,
+          "text": "Ne sois point parmi ceux qui frappent dans la main, parmi ceux qui se rendent caution pour des dettes :"
+        },
+        {
+          "number": 27,
+          "text": "si tu n’avais pas de quoi payer, pourquoi voudrais-tu qu’on prenne ton lit de dessous toi ?"
+        },
+        {
+          "number": 28,
+          "text": "Ne recule pas la borne ancienne que tes pères ont faite."
+        },
+        {
+          "number": 29,
+          "text": "As-tu vu un homme diligent dans son travail ? il se tiendra devant les rois, il ne se tiendra pas devant des gens obscurs."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Quand tu t’assieds pour manger le pain avec un gouverneur, considère bien celui qui est devant toi ;"
+        },
+        {
+          "number": 2,
+          "text": "et mets un couteau à ta gorge, si tu es gourmand."
+        },
+        {
+          "number": 3,
+          "text": "Ne désire point ses friandises, car c’est un pain trompeur."
+        },
+        {
+          "number": 4,
+          "text": "Ne te fatigue pas pour acquérir des richesses, finis-en avec ta prudence."
+        },
+        {
+          "number": 5,
+          "text": "Jetteras-tu tes yeux sur elles ?… Déjà elles ne sont plus ; car certes elles se font des ailes, et, comme l’aigle, s’envolent vers les cieux."
+        },
+        {
+          "number": 6,
+          "text": "Ne mange point le pain de celui qui a l’œil mauvais, et ne désire pas ses friandises ;"
+        },
+        {
+          "number": 7,
+          "text": "car comme il a pensé dans son âme, tel il est. Mange et bois, te dira-t-il ; mais son cœur n’est pas avec toi."
+        },
+        {
+          "number": 8,
+          "text": "Ton morceau que tu as mangé, tu le vomiras, et tu perdras tes paroles agréables."
+        },
+        {
+          "number": 9,
+          "text": "Ne parle pas aux oreilles du sot, car il méprisera la sagesse de ton discours."
+        },
+        {
+          "number": 10,
+          "text": "Ne recule pas la borne ancienne, et n’entre pas dans les champs des orphelins ;"
+        },
+        {
+          "number": 11,
+          "text": "car leur rédempteur est fort, il prendra en main leur cause contre toi."
+        },
+        {
+          "number": 12,
+          "text": "Applique ton cœur à l’instruction et tes oreilles aux paroles de la connaissance."
+        },
+        {
+          "number": 13,
+          "text": "Ne manque pas de corriger le jeune garçon ; quand tu l’auras frappé de la verge, il n’en mourra pas."
+        },
+        {
+          "number": 14,
+          "text": "Tu le frapperas de la verge, mais tu délivreras son âme du shéol."
+        },
+        {
+          "number": 15,
+          "text": "Mon fils, si ton cœur est sage, mon cœur s’en réjouira, oui, moi-même,"
+        },
+        {
+          "number": 16,
+          "text": "et mes reins s’égaieront quand tes lèvres diront des choses droites."
+        },
+        {
+          "number": 17,
+          "text": "Que ton cœur n’envie pas les méchants ; mais sois tout le jour dans la crainte de l’Éternel ;"
+        },
+        {
+          "number": 18,
+          "text": "car certainement il y a une fin, et ton attente ne sera pas réduite à néant."
+        },
+        {
+          "number": 19,
+          "text": "Toi, mon fils, écoute et sois sage, et dirige ton cœur dans le chemin."
+        },
+        {
+          "number": 20,
+          "text": "Ne sois pas parmi les buveurs de vin, ni parmi les gourmands ;"
+        },
+        {
+          "number": 21,
+          "text": "car le buveur et le gourmand deviendront pauvres, et sommeiller revêt de haillons."
+        },
+        {
+          "number": 22,
+          "text": "Écoute ton père qui t’a engendré, et ne méprise pas ta mère quand elle aura vieilli."
+        },
+        {
+          "number": 23,
+          "text": "Achète la vérité, et ne la vends point, – la sagesse, et l’instruction, et l’intelligence."
+        },
+        {
+          "number": 24,
+          "text": "Le père du juste aura beaucoup de joie, et celui qui a engendré le sage, se réjouira en lui."
+        },
+        {
+          "number": 25,
+          "text": "Que ton père et ta mère se réjouissent, et que celle qui t’a enfanté ait de la joie."
+        },
+        {
+          "number": 26,
+          "text": "Mon fils, donne-moi ton cœur, et que tes yeux se plaisent à mes voies ;"
+        },
+        {
+          "number": 27,
+          "text": "car la prostituée est une fosse profonde, et l’étrangère un puits de détresse :"
+        },
+        {
+          "number": 28,
+          "text": "aussi se tient-elle aux embûches comme un voleur, et elle augmente le nombre des perfides parmi les hommes."
+        },
+        {
+          "number": 29,
+          "text": "Pour qui les : Hélas ? Pour qui les : Malheur à moi ? Pour qui les querelles, pour qui la plainte, pour qui les blessures sans cause ? Pour qui la rougeur des yeux ?"
+        },
+        {
+          "number": 30,
+          "text": "Pour ceux qui s’attardent auprès du vin, qui vont essayer le vin mixtionné."
+        },
+        {
+          "number": 31,
+          "text": "– Ne regarde pas le vin quand il est vermeil, quand il est perlé dans la coupe, et qu’il coule aisément ;"
+        },
+        {
+          "number": 32,
+          "text": "à la fin, il mord comme un serpent et il pique comme une vipère :"
+        },
+        {
+          "number": 33,
+          "text": "tes yeux regarderont les étrangères, et ton cœur dira des choses perverses ;"
+        },
+        {
+          "number": 34,
+          "text": "et tu seras comme celui qui se coucherait au cœur de la mer, et comme celui qui se coucherait au sommet d’un mât…"
+        },
+        {
+          "number": 35,
+          "text": "On m’a frappé, [et] je n’en ai point été malade ; on m’a battu, [et] je ne l’ai pas su. Quand me réveillerai-je ? J’y reviendrai, je le rechercherai encore !"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "number": 1,
+          "text": "N’envie pas les hommes qui font le mal, et ne désire pas d’être avec eux,"
+        },
+        {
+          "number": 2,
+          "text": "car leur cœur médite la destruction, et leurs lèvres parlent de tourment."
+        },
+        {
+          "number": 3,
+          "text": "Par la sagesse la maison est bâtie, et elle est établie par l’intelligence ;"
+        },
+        {
+          "number": 4,
+          "text": "et par la connaissance les chambres sont remplies de tous les biens précieux et agréables."
+        },
+        {
+          "number": 5,
+          "text": "L’homme sage a de la force, et l’homme de connaissance affermit sa puissance ;"
+        },
+        {
+          "number": 6,
+          "text": "car sous une [sage] direction tu feras ta guerre, et le salut est dans le grand nombre des conseillers."
+        },
+        {
+          "number": 7,
+          "text": "La sagesse est trop haute pour le fou, il n’ouvrira pas la bouche dans la porte."
+        },
+        {
+          "number": 8,
+          "text": "Celui qui pense à mal faire, on l’appellera intrigant."
+        },
+        {
+          "number": 9,
+          "text": "Le plan de la folie est péché, et le moqueur est en abomination aux hommes."
+        },
+        {
+          "number": 10,
+          "text": "Si tu perds courage au jour de la détresse, ta force est mince."
+        },
+        {
+          "number": 11,
+          "text": "Délivre ceux qui sont menés à la mort, et ne te retire pas de ceux qui chancellent vers une mort violente."
+        },
+        {
+          "number": 12,
+          "text": "Si tu dis : Voici, nous n’en savions rien ; celui qui pèse les cœurs, lui ne le considérera-t-il pas ? et celui qui garde ton âme, lui le sait ; et il rend à l’homme selon son œuvre."
+        },
+        {
+          "number": 13,
+          "text": "Mon fils, mange du miel, car il est bon ; et un rayon de miel est doux à ton palais."
+        },
+        {
+          "number": 14,
+          "text": "Ainsi connais pour ton âme la sagesse : si tu l’as trouvée, il y a un avenir, et ton attente ne sera point réduite à néant."
+        },
+        {
+          "number": 15,
+          "text": "Méchant, ne mets pas des embûches contre l’habitation du juste, ne dévaste pas son gîte."
+        },
+        {
+          "number": 16,
+          "text": "Car le juste tombe sept fois, et se relève ; mais les méchants trébuchent [pour tomber] dans le malheur."
+        },
+        {
+          "number": 17,
+          "text": "Si ton ennemi tombe, ne te réjouis pas ; et s’il trébuche, que ton cœur ne s’égaie pas ;"
+        },
+        {
+          "number": 18,
+          "text": "de peur que l’Éternel ne le voie, et que cela ne soit mauvais à ses yeux, et qu’il ne détourne de dessus lui sa colère."
+        },
+        {
+          "number": 19,
+          "text": "Ne t’irrite pas à cause de ceux qui font le mal, n’envie pas les méchants ;"
+        },
+        {
+          "number": 20,
+          "text": "car il n’y a pas d’avenir pour l’inique : la lampe des méchants s’éteindra."
+        },
+        {
+          "number": 21,
+          "text": "Mon fils, crains l’Éternel et le roi ; ne te mêle pas avec les gens remuants,"
+        },
+        {
+          "number": 22,
+          "text": "car leur calamité surgira tout à coup ; et qui sait la ruine des uns et des autres ?"
+        },
+        {
+          "number": 23,
+          "text": "*Ces choses aussi viennent des sages : Faire acception des personnes dans le jugement n’est pas bien."
+        },
+        {
+          "number": 24,
+          "text": "Celui qui dit au méchant : Tu es juste, les peuples le maudiront, les peuplades seront indignées contre lui ;"
+        },
+        {
+          "number": 25,
+          "text": "mais ceux qui le reprennent seront agréables, et une bénédiction de bien viendra sur eux."
+        },
+        {
+          "number": 26,
+          "text": "Celui qui répond des paroles justes embrasse les lèvres."
+        },
+        {
+          "number": 27,
+          "text": "Prépare ton ouvrage au-dehors, et mets en état ton champ, et après, bâtis ta maison."
+        },
+        {
+          "number": 28,
+          "text": "Ne sois pas témoin, sans motif, contre ton prochain ; voudrais-tu donc tromper de tes lèvres ?"
+        },
+        {
+          "number": 29,
+          "text": "Ne dis pas : Comme il m’a fait, je lui ferai ; je rendrai à l’homme selon son œuvre."
+        },
+        {
+          "number": 30,
+          "text": "J’ai passé près du champ de l’homme paresseux et près de la vigne de l’homme dépourvu de sens,"
+        },
+        {
+          "number": 31,
+          "text": "et voici, tout y était monté en chardons ; les orties en avaient couvert la surface, et sa clôture de pierres était démolie."
+        },
+        {
+          "number": 32,
+          "text": "Et je regardai, j’y appliquai mon cœur ; je vis, [et] je reçus instruction."
+        },
+        {
+          "number": 33,
+          "text": "Un peu de sommeil, un peu d’assoupissement, un peu croiser les mains pour dormir…,"
+        },
+        {
+          "number": 34,
+          "text": "et ta pauvreté viendra [comme] un voyageur, et ton dénuement comme un homme armé."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "number": 1,
+          "text": "*Ce sont ici aussi des proverbes de Salomon, que les gens d’Ézéchias, roi de Juda, ont transcrits :"
+        },
+        {
+          "number": 2,
+          "text": "La gloire de Dieu est de cacher une chose, et la gloire des rois est de sonder une chose."
+        },
+        {
+          "number": 3,
+          "text": "Les cieux en hauteur, et la terre en profondeur, et le cœur des rois, on ne peut les sonder."
+        },
+        {
+          "number": 4,
+          "text": "Ôte de l’argent les scories, et il en sortira un vase pour l’orfèvre ;"
+        },
+        {
+          "number": 5,
+          "text": "ôte le méchant de devant le roi, et son trône sera affermi par la justice."
+        },
+        {
+          "number": 6,
+          "text": "Ne fais pas le magnifique devant le roi, et ne te tiens pas à la place des grands ;"
+        },
+        {
+          "number": 7,
+          "text": "car il vaut mieux qu’on te dise : Monte ici, que si l’on t’abaissait devant le prince que tes yeux voient."
+        },
+        {
+          "number": 8,
+          "text": "Ne sors pas à la hâte pour contester, de peur [que tu ne saches] que faire à la fin, lorsque ton prochain t’aura rendu confus."
+        },
+        {
+          "number": 9,
+          "text": "Plaide ta cause avec ton prochain, et ne révèle pas le secret d’autrui,"
+        },
+        {
+          "number": 10,
+          "text": "de peur que celui qui l’écoute ne te fasse honte, et que ton opprobre ne se retire pas."
+        },
+        {
+          "number": 11,
+          "text": "Des pommes d’or incrustées d’argent, c’est la parole dite à propos."
+        },
+        {
+          "number": 12,
+          "text": "Un anneau d’or et un joyau d’or fin, tel est, pour l’oreille qui écoute, celui qui reprend sagement."
+        },
+        {
+          "number": 13,
+          "text": "La fraîcheur de la neige au temps de la moisson, tel est le messager fidèle pour ceux qui l’envoient : il restaure l’âme de son maître."
+        },
+        {
+          "number": 14,
+          "text": "Les nuages et le vent, et point de pluie, tel est celui qui se glorifie faussement d’un présent."
+        },
+        {
+          "number": 15,
+          "text": "Par la lenteur à la colère un prince est gagné, et la langue douce brise les os."
+        },
+        {
+          "number": 16,
+          "text": "As-tu trouvé du miel, manges-en ce qu’il t’en faut, de peur que tu n’en sois repu et que tu ne le vomisses."
+        },
+        {
+          "number": 17,
+          "text": "Mets rarement ton pied dans la maison de ton prochain, de peur qu’il ne soit rassasié de toi et qu’il ne te haïsse."
+        },
+        {
+          "number": 18,
+          "text": "L’homme qui rend un faux témoignage contre son prochain est un marteau, et une épée, et une flèche aiguë."
+        },
+        {
+          "number": 19,
+          "text": "La confiance en un perfide, au jour de la détresse, est une dent cassée et un pied chancelant."
+        },
+        {
+          "number": 20,
+          "text": "[Comme] celui qui ôte son vêtement en un jour de froid, [comme] du vinaigre sur le nitre, tel est celui qui chante des chansons à un cœur affligé."
+        },
+        {
+          "number": 21,
+          "text": "Si celui qui te hait a faim, donne-lui du pain à manger, et, s’il a soif, donne-lui de l’eau à boire ;"
+        },
+        {
+          "number": 22,
+          "text": "car tu entasseras des charbons ardents sur sa tête, et l’Éternel te le rendra."
+        },
+        {
+          "number": 23,
+          "text": "Le vent du nord enfante les averses ; et les visages indignés, une langue [qui médit] en secret."
+        },
+        {
+          "number": 24,
+          "text": "Mieux vaut habiter sur le coin d’un toit, que [d’avoir] une femme querelleuse et une maison en commun."
+        },
+        {
+          "number": 25,
+          "text": "Les bonnes nouvelles d’un pays éloigné sont de l’eau fraîche pour une âme altérée."
+        },
+        {
+          "number": 26,
+          "text": "Le juste qui chancelle devant le méchant est une fontaine trouble et une source corrompue."
+        },
+        {
+          "number": 27,
+          "text": "Manger beaucoup de miel n’est pas bon, et s’occuper de sa propre gloire n’est pas la gloire."
+        },
+        {
+          "number": 28,
+          "text": "L’homme qui ne gouverne pas son esprit est une ville en ruine, sans murailles."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Comme la neige en été, et comme la pluie dans la moisson, ainsi la gloire ne sied pas à un sot."
+        },
+        {
+          "number": 2,
+          "text": "Comme le moineau qui va çà et là, et l’hirondelle qui vole, ainsi la malédiction sans cause n’arrivera point."
+        },
+        {
+          "number": 3,
+          "text": "Le fouet est pour le cheval, la bride pour l’âne, et la verge pour le dos des sots."
+        },
+        {
+          "number": 4,
+          "text": "Ne réponds pas au sot selon sa folie, de peur que toi aussi tu ne lui ressembles."
+        },
+        {
+          "number": 5,
+          "text": "Réponds au sot selon sa folie, de peur qu’il ne soit sage à ses propres yeux."
+        },
+        {
+          "number": 6,
+          "text": "Celui qui envoie des messages par la main d’un sot, se coupe les pieds [et] boit l’injustice."
+        },
+        {
+          "number": 7,
+          "text": "Les jambes du boiteux sont sans force : tel est un proverbe dans la bouche des sots."
+        },
+        {
+          "number": 8,
+          "text": "Celui qui donne de la gloire à un sot, c’est comme un sachet de pierres précieuses dans un tas de pierres."
+        },
+        {
+          "number": 9,
+          "text": "Une épine qui entre dans la main d’un homme ivre, tel est un proverbe dans la bouche des sots."
+        },
+        {
+          "number": 10,
+          "text": "Le puissant use de violence envers tout le monde : il prend à gages le sot et il prend à gages les passants."
+        },
+        {
+          "number": 11,
+          "text": "Comme le chien retourne à son vomissement, le sot répète sa folie."
+        },
+        {
+          "number": 12,
+          "text": "As-tu vu un homme sage à ses propres yeux ? Il y a plus d’espoir pour un sot que pour lui."
+        },
+        {
+          "number": 13,
+          "text": "Le paresseux dit : Il y a un [lion] rugissant sur le chemin, un lion dans les rues."
+        },
+        {
+          "number": 14,
+          "text": "La porte tourne sur ses gonds, et le paresseux sur son lit."
+        },
+        {
+          "number": 15,
+          "text": "Le paresseux enfonce sa main dans le plat, il est las de la ramener à sa bouche."
+        },
+        {
+          "number": 16,
+          "text": "Le paresseux est plus sage à ses yeux que sept [hommes] qui répondent avec bon sens."
+        },
+        {
+          "number": 17,
+          "text": "Il saisit un chien par les oreilles, celui qui, en passant, s’emporte pour une dispute qui n’est pas la sienne."
+        },
+        {
+          "number": 18,
+          "text": "Comme un fou qui jette des brandons, des flèches, et la mort,"
+        },
+        {
+          "number": 19,
+          "text": "ainsi est l’homme qui trompe son prochain, et qui dit : N’était-ce pas pour plaisanter ?"
+        },
+        {
+          "number": 20,
+          "text": "Faute de bois, le feu s’éteint ; et, quand il n’y a plus de rapporteurs, la querelle s’apaise."
+        },
+        {
+          "number": 21,
+          "text": "Du charbon sur le brasier et du bois sur le feu, ainsi est l’homme querelleur pour échauffer les disputes."
+        },
+        {
+          "number": 22,
+          "text": "Les paroles du rapporteur sont comme des friandises, et elles descendent jusqu’au-dedans des entrailles."
+        },
+        {
+          "number": 23,
+          "text": "Les lèvres brûlantes et le cœur mauvais sont comme de la litharge d’argent appliquée sur un vase de terre."
+        },
+        {
+          "number": 24,
+          "text": "Celui qui hait se déguise par ses lèvres ; mais au-dedans de lui il nourrit la fraude."
+        },
+        {
+          "number": 25,
+          "text": "Quand il rend sa voix gracieuse, ne le crois point, car il y a sept abominations dans son cœur."
+        },
+        {
+          "number": 26,
+          "text": "La haine se cache-t-elle sous la dissimulation, sa méchanceté sera découverte dans la congrégation."
+        },
+        {
+          "number": 27,
+          "text": "Qui creuse une fosse y tombera, et la pierre retournera sur celui qui la roule."
+        },
+        {
+          "number": 28,
+          "text": "La langue fausse hait ceux qu’elle a écrasés, et la bouche flatteuse amène la ruine."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ne te glorifie pas du jour de demain, car tu ne sais pas ce qu’un jour enfantera."
+        },
+        {
+          "number": 2,
+          "text": "Qu’un autre te loue, et non ta bouche, – un étranger, et non tes lèvres."
+        },
+        {
+          "number": 3,
+          "text": "La pierre est pesante et le sable est lourd ; mais l’humeur d’un fou est plus pesante que tous les deux."
+        },
+        {
+          "number": 4,
+          "text": "La fureur est cruelle et la colère déborde, mais qui subsistera devant la jalousie ?"
+        },
+        {
+          "number": 5,
+          "text": "Mieux vaut une réprimande ouverte qu’un amour caché."
+        },
+        {
+          "number": 6,
+          "text": "Les blessures faites par un ami sont fidèles, mais les baisers de celui qui hait sont fréquents."
+        },
+        {
+          "number": 7,
+          "text": "L’âme rassasiée foule aux pieds les rayons de miel, mais pour l’âme qui a faim tout ce qui est amer est doux."
+        },
+        {
+          "number": 8,
+          "text": "Comme un oiseau erre çà et là loin de son nid, ainsi est l’homme qui erre loin de son lieu."
+        },
+        {
+          "number": 9,
+          "text": "L’huile et le parfum réjouissent le cœur, et la douceur d’un ami est [le fruit] d’un conseil qui vient du cœur."
+        },
+        {
+          "number": 10,
+          "text": "N’abandonne point ton ami, ni l’ami de ton père, et n’entre pas dans la maison de ton frère au jour de ta calamité. Mieux vaut un voisin proche qu’un frère éloigné."
+        },
+        {
+          "number": 11,
+          "text": "Mon fils, sois sage et réjouis mon cœur, afin que j’aie de quoi répondre à celui qui m’outrage."
+        },
+        {
+          "number": 12,
+          "text": "L’homme avisé voit le mal [et] se cache ; les simples passent outre [et] en portent la peine."
+        },
+        {
+          "number": 13,
+          "text": "Prends son vêtement, car il a cautionné autrui ; et prends de lui un gage, à cause de l’étrangère."
+        },
+        {
+          "number": 14,
+          "text": "À celui qui bénit son ami à haute voix, se levant le matin de bonne heure, on le lui comptera comme une malédiction."
+        },
+        {
+          "number": 15,
+          "text": "Une gouttière continuelle en un jour de pluie, et une femme querelleuse, cela se ressemble."
+        },
+        {
+          "number": 16,
+          "text": "Qui l’arrête, arrête le vent, et sa droite trouve de l’huile."
+        },
+        {
+          "number": 17,
+          "text": "Le fer s’aiguise par le fer, et un homme ranime le visage de son ami."
+        },
+        {
+          "number": 18,
+          "text": "Celui qui soigne le figuier mange de son fruit, et celui qui veille sur son maître sera honoré."
+        },
+        {
+          "number": 19,
+          "text": "Comme dans l’eau le visage répond au visage, ainsi le cœur de l’homme répond à l’homme."
+        },
+        {
+          "number": 20,
+          "text": "Le shéol et l’abîme sont insatiables, et les yeux de l’homme sont insatiables."
+        },
+        {
+          "number": 21,
+          "text": "Le creuset est pour l’argent, et le fourneau pour l’or, ainsi l’homme, pour la bouche qui le loue."
+        },
+        {
+          "number": 22,
+          "text": "Quand tu broierais le fou dans un mortier, au milieu du grain, avec un pilon, sa folie ne se retirerait pas de lui."
+        },
+        {
+          "number": 23,
+          "text": "Connais bien la face de ton menu bétail, veille sur tes troupeaux ;"
+        },
+        {
+          "number": 24,
+          "text": "car l’abondance n’est pas pour toujours, et une couronne [dure-t-elle] de génération en génération ?"
+        },
+        {
+          "number": 25,
+          "text": "Le foin disparaît, et l’herbe tendre se montre, et l’on ramasse les herbes des montagnes."
+        },
+        {
+          "number": 26,
+          "text": "Les agneaux sont pour ton vêtement, et les boucs pour le prix d’un champ,"
+        },
+        {
+          "number": 27,
+          "text": "et l’abondance du lait de tes chèvres pour ta nourriture, pour la nourriture de ta maison, et pour la vie de tes servantes."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le méchant se sauve quand personne ne le poursuit, mais les justes sont pleins d’assurance comme un jeune lion."
+        },
+        {
+          "number": 2,
+          "text": "À cause de l’iniquité d’un pays, ses princes sont nombreux ; mais, par un homme intelligent qui a de la connaissance, la stabilité se prolonge."
+        },
+        {
+          "number": 3,
+          "text": "L’homme pauvre qui opprime les misérables est une pluie violente qui [ne laisse] point de pain."
+        },
+        {
+          "number": 4,
+          "text": "Ceux qui abandonnent la loi louent les méchants, mais ceux qui gardent la loi leur font la guerre."
+        },
+        {
+          "number": 5,
+          "text": "Les hommes adonnés au mal ne comprennent pas le juste jugement, mais ceux qui cherchent l’Éternel comprennent tout."
+        },
+        {
+          "number": 6,
+          "text": "Mieux vaut le pauvre qui marche dans son intégrité, que l’homme pervers dans ses doubles voies, bien qu’il soit riche."
+        },
+        {
+          "number": 7,
+          "text": "Qui garde la loi est un fils intelligent ; mais le compagnon des débauchés fait honte à son père."
+        },
+        {
+          "number": 8,
+          "text": "Celui qui augmente son bien par l’intérêt et l’usure, l’amasse pour celui qui est bon pour les misérables."
+        },
+        {
+          "number": 9,
+          "text": "Qui détourne son oreille pour ne pas écouter la loi, sa prière même est une abomination."
+        },
+        {
+          "number": 10,
+          "text": "Celui qui égare les hommes droits sur un mauvais chemin tombera lui-même dans la fosse qu’il aura creusée ; mais les hommes intègres hériteront le bien."
+        },
+        {
+          "number": 11,
+          "text": "L’homme riche est sage à ses yeux, mais le pauvre qui est intelligent le sonde."
+        },
+        {
+          "number": 12,
+          "text": "Quand les justes se réjouissent il y a beaucoup de gloire ; mais quand les méchants se lèvent, les hommes se cachent."
+        },
+        {
+          "number": 13,
+          "text": "Celui qui cache ses transgressions ne prospérera point, mais celui qui les confesse et les abandonne obtiendra miséricorde."
+        },
+        {
+          "number": 14,
+          "text": "Bienheureux l’homme qui craint continuellement ; mais celui qui endurcit son cœur tombera dans le malheur."
+        },
+        {
+          "number": 15,
+          "text": "Un lion rugissant et un ours à la poursuite de sa proie, c’est le dominateur méchant d’un peuple pauvre."
+        },
+        {
+          "number": 16,
+          "text": "Le prince privé d’intelligence opprime beaucoup, [mais] celui qui hait le gain déshonnête prolongera [ses] jours."
+        },
+        {
+          "number": 17,
+          "text": "L’homme chargé du sang d’une âme fuira jusqu’à la fosse,… qu’on ne le retienne pas !"
+        },
+        {
+          "number": 18,
+          "text": "Qui marche dans l’intégrité sera sauvé, mais qui suit tortueusement deux voies tombera une fois pour toutes."
+        },
+        {
+          "number": 19,
+          "text": "Qui laboure sa terre sera rassasié de pain, mais qui court après les fainéants sera rassasié de pauvreté."
+        },
+        {
+          "number": 20,
+          "text": "L’homme fidèle abonde en bénédictions, mais celui qui a hâte de s’enrichir ne demeurera pas innocent."
+        },
+        {
+          "number": 21,
+          "text": "Faire acception des personnes n’est pas bien ; même pour un morceau de pain un homme commettra une transgression."
+        },
+        {
+          "number": 22,
+          "text": "L’homme qui a l’œil mauvais se hâte pour avoir des richesses, et il ne sait pas que la disette viendra sur lui."
+        },
+        {
+          "number": 23,
+          "text": "Celui qui reprend un homme trouvera la faveur dans la suite, plutôt que celui qui flatte de la langue."
+        },
+        {
+          "number": 24,
+          "text": "Qui dépouille son père et sa mère, et dit : Ce n’est point une transgression, celui-là est compagnon du destructeur."
+        },
+        {
+          "number": 25,
+          "text": "Celui qui a l’âme altière excite la querelle ; mais qui se confie en l’Éternel sera engraissé."
+        },
+        {
+          "number": 26,
+          "text": "Qui se confie en son propre cœur est un sot ; mais qui marche dans la sagesse, celui-là sera délivré."
+        },
+        {
+          "number": 27,
+          "text": "Qui donne au pauvre ne manquera de rien, mais qui détourne les yeux sera comblé de malédictions."
+        },
+        {
+          "number": 28,
+          "text": "Quand les méchants se lèvent, les hommes se cachent ; mais quand ils périssent, les justes se multiplient."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "number": 1,
+          "text": "L’homme qui, étant souvent repris, roidit son cou, sera brisé subitement, et il n’y a pas de remède."
+        },
+        {
+          "number": 2,
+          "text": "Quand les justes se multiplient, le peuple se réjouit ; mais quand le méchant gouverne, le peuple gémit."
+        },
+        {
+          "number": 3,
+          "text": "L’homme qui aime la sagesse est la joie de son père, mais le compagnon des prostituées dissipera son bien."
+        },
+        {
+          "number": 4,
+          "text": "Un roi, par le juste jugement, affermit le pays, mais l’homme qui accepte des présents le ruine."
+        },
+        {
+          "number": 5,
+          "text": "L’homme qui flatte son prochain étend un filet devant ses pas."
+        },
+        {
+          "number": 6,
+          "text": "Dans la transgression de l’homme mauvais, il y a un piège ; mais le juste chantera et se réjouira."
+        },
+        {
+          "number": 7,
+          "text": "Le juste prend connaissance de la cause des pauvres ; le méchant ne comprend aucune connaissance."
+        },
+        {
+          "number": 8,
+          "text": "Les hommes moqueurs mettent en feu une ville, mais les sages détournent la colère."
+        },
+        {
+          "number": 9,
+          "text": "Un homme sage qui plaide avec un homme insensé, qu’il s’irrite ou qu’il rie, n’a point de repos."
+        },
+        {
+          "number": 10,
+          "text": "Les hommes de sang haïssent l’homme intègre, mais les hommes droits tiennent à sa vie."
+        },
+        {
+          "number": 11,
+          "text": "Le sot met dehors tout son esprit, mais le sage le calme et le retient."
+        },
+        {
+          "number": 12,
+          "text": "Qu’un gouverneur prête attention à la parole de mensonge, tous ses serviteurs seront méchants."
+        },
+        {
+          "number": 13,
+          "text": "Le pauvre et l’oppresseur se rencontrent, l’Éternel éclaire les yeux de tous deux."
+        },
+        {
+          "number": 14,
+          "text": "Le roi qui juge les pauvres selon la vérité,… son trône sera affermi pour toujours."
+        },
+        {
+          "number": 15,
+          "text": "La verge et la répréhension donnent la sagesse, mais le jeune garçon abandonné à lui-même fait honte à sa mère."
+        },
+        {
+          "number": 16,
+          "text": "Quand les méchants se multiplient, la transgression se multiplie ; mais les justes verront leur chute."
+        },
+        {
+          "number": 17,
+          "text": "Corrige ton fils, et il te donnera du repos et procurera des délices à ton âme."
+        },
+        {
+          "number": 18,
+          "text": "Quand il n’y a point de vision, le peuple est sans frein ; mais bienheureux celui qui garde la loi !"
+        },
+        {
+          "number": 19,
+          "text": "Un serviteur n’est pas corrigé par des paroles ; car il comprend, mais il ne répond pas."
+        },
+        {
+          "number": 20,
+          "text": "As-tu vu un homme précipité dans ses paroles ? Il y a plus d’espoir pour un sot que pour lui."
+        },
+        {
+          "number": 21,
+          "text": "Celui qui gâte son serviteur dès sa jeunesse, le verra fils à la fin."
+        },
+        {
+          "number": 22,
+          "text": "L’homme colère excite les querelles, et l’homme qui se met en fureur abonde en transgressions."
+        },
+        {
+          "number": 23,
+          "text": "L’orgueil d’un homme l’abaisse, mais celui qui est humble d’esprit acquiert la gloire."
+        },
+        {
+          "number": 24,
+          "text": "Qui partage avec un voleur hait son âme ; il entend l’adjuration, et ne déclare pas [la chose]."
+        },
+        {
+          "number": 25,
+          "text": "La crainte des hommes tend un piège, mais qui se confie en l’Éternel est élevé dans une haute retraite."
+        },
+        {
+          "number": 26,
+          "text": "Plusieurs cherchent la face du gouverneur, mais le juste jugement d’un homme vient de l’Éternel."
+        },
+        {
+          "number": 27,
+          "text": "L’homme inique est l’abomination des justes, et celui qui est droit dans sa voie, l’abomination du méchant."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "number": 1,
+          "text": "***Paroles d’Agur, fils de Jaké, l’oracle prononcé par cet homme à Ithiel, à Ithiel et à Ucal :"
+        },
+        {
+          "number": 2,
+          "text": "Certes, moi je suis plus stupide que personne, et je n’ai pas l’intelligence d’un homme ;"
+        },
+        {
+          "number": 3,
+          "text": "et je n’ai pas appris la sagesse, ni ne possède la connaissance du Saint."
+        },
+        {
+          "number": 4,
+          "text": "Qui est monté dans les cieux, et qui en est descendu ? Qui a rassemblé le vent dans le creux de ses mains ? Qui a serré les eaux dans un manteau ? Qui a établi toutes les bornes de la terre ? Quel est son nom, et quel est le nom de son fils, si tu le sais ?"
+        },
+        {
+          "number": 5,
+          "text": "Toute parole de ✝Dieu est affinée ; il est un bouclier pour ceux qui s’attendent à lui."
+        },
+        {
+          "number": 6,
+          "text": "N’ajoute pas à ses paroles, de peur qu’il ne te reprenne, et que tu ne sois trouvé menteur."
+        },
+        {
+          "number": 7,
+          "text": "Je te demanderai deux choses ; ne me les refuse pas, avant que je meure :"
+        },
+        {
+          "number": 8,
+          "text": "Éloigne de moi la vanité et la parole de mensonge ; ne me donne ni pauvreté ni richesse ; nourris-moi du pain qui m’est nécessaire,"
+        },
+        {
+          "number": 9,
+          "text": "de peur que je ne sois rassasié, et que je ne te renie et ne dise : Qui est l’Éternel ? et de peur que je ne sois appauvri, et que je ne dérobe, et que je ne parjure le nom de mon Dieu."
+        },
+        {
+          "number": 10,
+          "text": "N’accuse pas un serviteur auprès de son maître, de peur qu’il ne te maudisse, et que tu n’en portes la peine."
+        },
+        {
+          "number": 11,
+          "text": "Il est une génération qui maudit son père et qui ne bénit pas sa mère,"
+        },
+        {
+          "number": 12,
+          "text": "une génération pure à ses propres yeux et qui n’est pas lavée de son ordure,"
+        },
+        {
+          "number": 13,
+          "text": "une génération,… que ses yeux sont hautains, et ses paupières élevées !"
+        },
+        {
+          "number": 14,
+          "text": "– une génération dont les dents sont des épées et les molaires des couteaux, pour dévorer les affligés de dessus la terre, et les nécessiteux d’entre les hommes."
+        },
+        {
+          "number": 15,
+          "text": "La sangsue a deux filles : Donne ! donne ! Il y a trois choses qui sont insatiables, quatre qui ne disent pas : C’est assez !…"
+        },
+        {
+          "number": 16,
+          "text": "le shéol, et la matrice stérile, la terre qui n’est pas rassasiée d’eau, et le feu, qui ne dit pas : C’est assez !"
+        },
+        {
+          "number": 17,
+          "text": "L’œil qui se moque d’un père et qui méprise l’obéissance envers la mère, les corbeaux du torrent le crèveront et les petits de l’aigle le dévoreront."
+        },
+        {
+          "number": 18,
+          "text": "Trois choses sont trop merveilleuses pour moi, et il en est quatre que je ne puis connaître :"
+        },
+        {
+          "number": 19,
+          "text": "le chemin de l’aigle dans les cieux, le chemin du serpent sur le rocher, le chemin d’un navire au cœur de la mer, et le chemin de l’homme vers la jeune fille."
+        },
+        {
+          "number": 20,
+          "text": "Tel est le chemin de la femme adultère : elle mange et s’essuie la bouche, et dit : Je n’ai point commis d’iniquité."
+        },
+        {
+          "number": 21,
+          "text": "Sous trois choses la terre tremble, et sous quatre elle n’en peut plus :"
+        },
+        {
+          "number": 22,
+          "text": "sous le serviteur quand il règne, et l’homme vil quand il est rassasié de pain ;"
+        },
+        {
+          "number": 23,
+          "text": "sous la femme odieuse quand elle se marie, et la servante quand elle hérite de sa maîtresse."
+        },
+        {
+          "number": 24,
+          "text": "Il y a quatre choses petites sur la terre, qui sont sages entre les sages :"
+        },
+        {
+          "number": 25,
+          "text": "les fourmis, peuple sans force, et qui préparent en été leurs vivres ;"
+        },
+        {
+          "number": 26,
+          "text": "les damans, peuple sans puissance, et qui ont placé leurs maisons dans le rocher ;"
+        },
+        {
+          "number": 27,
+          "text": "les sauterelles n’ont point de roi, mais elles sortent toutes par bandes ;"
+        },
+        {
+          "number": 28,
+          "text": "tu saisis le lézard avec les mains, et il est dans les palais des rois."
+        },
+        {
+          "number": 29,
+          "text": "Il y a trois choses qui ont une belle allure, et quatre qui ont une belle démarche :"
+        },
+        {
+          "number": 30,
+          "text": "le lion, le fort parmi les bêtes, et qui ne se détourne devant qui que ce soit ;"
+        },
+        {
+          "number": 31,
+          "text": "le [coursier] qui a les reins ceints ; ou le bouc ; et le roi, contre qui personne ne peut se lever."
+        },
+        {
+          "number": 32,
+          "text": "Si tu as agi follement en t’élevant et si tu as pensé à mal, [mets] la main sur ta bouche ;"
+        },
+        {
+          "number": 33,
+          "text": "Car la pression du lait produit le beurre, et la pression du nez fait sortir le sang, et la pression de la colère excite la querelle."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "number": 1,
+          "text": "***Paroles du roi Lemuel, l’oracle que sa mère lui enseigna :"
+        },
+        {
+          "number": 2,
+          "text": "Quoi, mon fils ? et quoi, fils de mon ventre ? et quoi, fils de mes vœux ?"
+        },
+        {
+          "number": 3,
+          "text": "Ne donne point ta force aux femmes, ni tes voies à celles qui perdent les rois."
+        },
+        {
+          "number": 4,
+          "text": "Ce n’est point aux rois, Lemuel, ce n’est point aux rois de boire du vin, ni aux grands [de dire] : Où sont les boissons fortes ?"
+        },
+        {
+          "number": 5,
+          "text": "de peur qu’ils ne boivent, et n’oublient le statut, et ne fassent fléchir le jugement de tous les fils de l’affliction."
+        },
+        {
+          "number": 6,
+          "text": "Donnez de la boisson forte à celui qui va périr, et du vin à ceux qui ont l’amertume dans le cœur :"
+        },
+        {
+          "number": 7,
+          "text": "qu’il boive et qu’il oublie sa pauvreté, et ne se souvienne plus de ses peines."
+        },
+        {
+          "number": 8,
+          "text": "Ouvre ta bouche pour le muet, pour la cause de tous les délaissés."
+        },
+        {
+          "number": 9,
+          "text": "Ouvre ta bouche, juge avec justice, et fais droit à l’affligé et au pauvre."
+        },
+        {
+          "number": 10,
+          "text": "*Une femme vertueuse ! Qui la trouvera ? Car son prix est bien au-delà des rubis."
+        },
+        {
+          "number": 11,
+          "text": "Le cœur de son mari se confie en elle, et il ne manquera point de butin."
+        },
+        {
+          "number": 12,
+          "text": "Elle lui fait du bien et non du mal, tous les jours de sa vie."
+        },
+        {
+          "number": 13,
+          "text": "Elle cherche de la laine et du lin, et travaille de ses mains avec joie."
+        },
+        {
+          "number": 14,
+          "text": "Elle est comme les navires d’un marchand, elle amène son pain de loin."
+        },
+        {
+          "number": 15,
+          "text": "Elle se lève quand il est encore nuit, et elle donne la nourriture à sa maison, et la tâche à ses servantes."
+        },
+        {
+          "number": 16,
+          "text": "Elle pense à un champ, et elle l’acquiert ; du fruit de ses mains elle plante une vigne."
+        },
+        {
+          "number": 17,
+          "text": "Elle ceint ses reins de force, et fortifie ses bras."
+        },
+        {
+          "number": 18,
+          "text": "Elle éprouve que son trafic est bon ; de nuit sa lampe ne s’éteint pas."
+        },
+        {
+          "number": 19,
+          "text": "Elle met la main à la quenouille, et ses doigts tiennent le fuseau."
+        },
+        {
+          "number": 20,
+          "text": "Elle étend sa main vers l’affligé, et tend ses mains au nécessiteux."
+        },
+        {
+          "number": 21,
+          "text": "Elle ne craint pas la neige pour sa maison, car toute sa maison est vêtue d’écarlate."
+        },
+        {
+          "number": 22,
+          "text": "Elle se fait des tapis ; le fin coton et la pourpre sont ses vêtements."
+        },
+        {
+          "number": 23,
+          "text": "Son mari est connu dans les portes quand il s’assied avec les anciens du pays."
+        },
+        {
+          "number": 24,
+          "text": "Elle fait des chemises, et les vend ; et elle livre des ceintures au marchand."
+        },
+        {
+          "number": 25,
+          "text": "Elle est vêtue de force et de dignité, et elle se rit du jour à venir."
+        },
+        {
+          "number": 26,
+          "text": "Elle ouvre sa bouche avec sagesse, et la loi de la bonté est sur sa langue."
+        },
+        {
+          "number": 27,
+          "text": "Elle surveille les voies de sa maison, et ne mange pas le pain de paresse."
+        },
+        {
+          "number": 28,
+          "text": "Ses fils se lèvent et la disent bienheureuse, son mari [aussi], et il la loue :"
+        },
+        {
+          "number": 29,
+          "text": "Plusieurs filles ont agi vertueusement ; mais toi, tu les surpasses toutes !"
+        },
+        {
+          "number": 30,
+          "text": "La grâce est trompeuse, et la beauté est vanité ; la femme qui craint l’Éternel, c’est elle qui sera louée."
+        },
+        {
+          "number": 31,
+          "text": "Donnez-lui du fruit de ses mains, et qu’aux portes ses œuvres la louent."
+        }
+      ]
+    }
+  ]
+}

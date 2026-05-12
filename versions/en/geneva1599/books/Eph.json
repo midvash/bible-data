@@ -1,0 +1,659 @@
+{
+  "version": "geneva1599",
+  "book": "Eph",
+  "bookId": 49,
+  "englishName": "Ephesians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Pavl an Apostle of Jesvs Christ by the will of God, to the Saints, which are at Ephesus, and to ye faithfull in Christ Iesus:"
+        },
+        {
+          "number": 2,
+          "text": "Grace be with you, and peace from God our Father, and from the Lord Iesus Christ."
+        },
+        {
+          "number": 3,
+          "text": "Blessed be God, and the Father of our Lord Iesus Christ, which hath blessed vs with all spirituall blessing in heauenly thinges in Christ,"
+        },
+        {
+          "number": 4,
+          "text": "As hee hath chosen vs in him, before the foundation of the worlde, that we should be holy, and without blame before him in loue:"
+        },
+        {
+          "number": 5,
+          "text": "Who hath predestinate vs, to be adopted through Iesus Christ in him selfe, according to the good pleasure of his will,"
+        },
+        {
+          "number": 6,
+          "text": "To the prayse of the glory of his grace, wherewith he hath made vs freely accepted in his beloued,"
+        },
+        {
+          "number": 7,
+          "text": "By whom we haue redemption through his blood, euen the forgiuenes of sinnes, according to his rich grace:"
+        },
+        {
+          "number": 8,
+          "text": "Whereby he hath bene aboundant toward vs in all wisedome and vnderstanding,"
+        },
+        {
+          "number": 9,
+          "text": "And hath opened vnto vs the mysterie of his will according to his good pleasure, which he had purposed in him,"
+        },
+        {
+          "number": 10,
+          "text": "That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:"
+        },
+        {
+          "number": 11,
+          "text": "In whom also we are chosen when we were predestinate according to ye purpose of him, which worketh all things after the counsell of his owne will,"
+        },
+        {
+          "number": 12,
+          "text": "That we, which first trusted in Christ, should be vnto the praise of his glorie:"
+        },
+        {
+          "number": 13,
+          "text": "In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,"
+        },
+        {
+          "number": 14,
+          "text": "Which is the earnest of our inheritance, for the redemption of that libertie purchased vnto the prayse of his glory."
+        },
+        {
+          "number": 15,
+          "text": "Therefore also after that I heard of the faith, which ye haue in the Lord Iesus, and loue toward all the Saints,"
+        },
+        {
+          "number": 16,
+          "text": "I cease not to giue thankes for you, making mention of you in my prayers,"
+        },
+        {
+          "number": 17,
+          "text": "That the God of our Lord Iesus Christ, that Father of glory, might giue vnto you the Spirit of wisedome, and reuelation through the acknowledging of him,"
+        },
+        {
+          "number": 18,
+          "text": "That the eyes of your vnderstanding may be lightened, that ye may knowe what the hope is of his calling, and what the riches of his glorious inheritance is in the Saints,"
+        },
+        {
+          "number": 19,
+          "text": "And what is the exceeding greatnesse of his power toward vs, which beleeue, according to the working of his mightie power,"
+        },
+        {
+          "number": 20,
+          "text": "Which he wrought in Christ, when he raised him from the dead, and set him at his right hand in the heauenly places,"
+        },
+        {
+          "number": 21,
+          "text": "Farre aboue al principalitie, and power, and might, and domination, and euery Name, that is named, not in this world only, but also in that that is to come,"
+        },
+        {
+          "number": 22,
+          "text": "And hath made all things subiect vnder his feete, and hath giuen him ouer all things to be the head to the Church,"
+        },
+        {
+          "number": 23,
+          "text": "Which is his body, euen the fulnesse of him that filleth all in all things."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "And you hath he quickened, that were dead in trespasses and sinnes,"
+        },
+        {
+          "number": 2,
+          "text": "Wherein, in times past ye walked, according to the course of this world, and after the prince that ruleth in the aire, euen the spirite, that nowe worketh in the children of disobedience,"
+        },
+        {
+          "number": 3,
+          "text": "Among whom we also had our conuersation in time past, in the lustes of our flesh, in fulfilling the will of the flesh, and of the minde, and were by nature the children of wrath, as well as others."
+        },
+        {
+          "number": 4,
+          "text": "But God which is rich in mercie, through his great loue wherewith he loued vs,"
+        },
+        {
+          "number": 5,
+          "text": "Euen when we were dead by sinnes, hath quickened vs together in Christ, by whose grace ye are saued,"
+        },
+        {
+          "number": 6,
+          "text": "And hath raysed vs vp together, and made vs sit together in the heauenly places in Christ Iesus,"
+        },
+        {
+          "number": 7,
+          "text": "That he might shewe in the ages to come the exceeding riches of his grace, through his kindnesse toward vs in Christ Iesus."
+        },
+        {
+          "number": 8,
+          "text": "For by grace are ye saued through faith, and that not of your selues: it is the gift of God,"
+        },
+        {
+          "number": 9,
+          "text": "Not of workes, least any man should boast himselfe."
+        },
+        {
+          "number": 10,
+          "text": "For we are his workemanship created in Christ Iesus vnto good workes, which God hath ordeined, that we should walke in them."
+        },
+        {
+          "number": 11,
+          "text": "Wherefore remember that ye being in time past Gentiles in the flesh, and called vncircumcision of them, which are called circumcision in the flesh, made with hands,"
+        },
+        {
+          "number": 12,
+          "text": "That ye were, I say, at that time without Christ, and were alients from the common wealth of Israel, and were strangers from the couenants of promise, and had no hope, and were without God in the world."
+        },
+        {
+          "number": 13,
+          "text": "But nowe in Christ Iesus, ye which once were farre off, are made neere by the blood of Christ."
+        },
+        {
+          "number": 14,
+          "text": "For he is our peace, which hath made of both one, and hath broken the stoppe of the partition wall,"
+        },
+        {
+          "number": 15,
+          "text": "In abrogating through his flesh the hatred, that is, the Lawe of commandements which standeth in ordinances, for to make of twaine one newe man in himselfe, so making peace,"
+        },
+        {
+          "number": 16,
+          "text": "And that he might reconcile both vnto God in one body by his crosse, and slay hatred thereby,"
+        },
+        {
+          "number": 17,
+          "text": "And came, and preached peace to you which were afarre off, and to them that were neere."
+        },
+        {
+          "number": 18,
+          "text": "For through him we both haue an entrance vnto the Father by one Spirit."
+        },
+        {
+          "number": 19,
+          "text": "Nowe therefore ye are no more strangers and forreiners: but citizens with the Saintes, and of the houshold of God,"
+        },
+        {
+          "number": 20,
+          "text": "And are built vpon the foundation of the Apostles and Prophets, Iesus Christ himselfe being the chiefe corner stone,"
+        },
+        {
+          "number": 21,
+          "text": "In whom all the building coupled together, groweth vnto an holy Temple in the Lord."
+        },
+        {
+          "number": 22,
+          "text": "In whom ye also are built together to be the habitation of God by the Spirit."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "For this cause, I Paul am the prisoner of Iesus Christ for you Gentiles,"
+        },
+        {
+          "number": 2,
+          "text": "If ye haue heard of the dispensation of the grace of God, which is giuen me to you warde,"
+        },
+        {
+          "number": 3,
+          "text": "That is, that God by reuelation hath shewed this mysterie vnto me (as I wrote aboue in fewe wordes,"
+        },
+        {
+          "number": 4,
+          "text": "Whereby when ye reade, ye may knowe mine vnderstanding in the mysterie of Christ)"
+        },
+        {
+          "number": 5,
+          "text": "Which in other ages was not opened vnto the sonnes of men, as it is nowe reueiled vnto his holy Apostles and Prophets by the Spirit,"
+        },
+        {
+          "number": 6,
+          "text": "That the Gentiles should be inheriters also, and of the same body, and partakers of his promise in Christ by the Gospel,"
+        },
+        {
+          "number": 7,
+          "text": "Whereof I am made a minister by the gift of the grace of God giuen vnto me through the effectuall working of his power."
+        },
+        {
+          "number": 8,
+          "text": "Euen vnto me the least of all Saints is this grace giuen, that I should preach among the Gentiles the vnsearchable riches of Christ,"
+        },
+        {
+          "number": 9,
+          "text": "And to make cleare vnto all men what the fellowship of the mysterie is, which from the beginning of the world hath bene hid in God, who hath created all things by Iesus Christ,"
+        },
+        {
+          "number": 10,
+          "text": "To the intent, that nowe vnto principalities and powers in heauenly places, might be knowen by the Church the manifolde wisedome of God,"
+        },
+        {
+          "number": 11,
+          "text": "According to the eternall purpose, which he wrought in Christ Iesus our Lord:"
+        },
+        {
+          "number": 12,
+          "text": "By whom we haue boldenes and entrance with confidence, by faith in him."
+        },
+        {
+          "number": 13,
+          "text": "Wherefore I desire that ye faint not at my tribulations for your sakes, which is your glory."
+        },
+        {
+          "number": 14,
+          "text": "For this cause I bowe my knees vnto the Father of our Lord Iesus Christ,"
+        },
+        {
+          "number": 15,
+          "text": "(Of whom is named the whole familie in heauen and in earth)"
+        },
+        {
+          "number": 16,
+          "text": "That he might graunt you according to the riches of his glorie, that ye may be strengthened by his Spirit in the inner man,"
+        },
+        {
+          "number": 17,
+          "text": "That Christ may dwell in your heartes by faith:"
+        },
+        {
+          "number": 18,
+          "text": "That ye, being rooted and grounded in loue, may be able to comprehend with al Saints, what is the breadth, and length, and depth, and height:"
+        },
+        {
+          "number": 19,
+          "text": "And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God."
+        },
+        {
+          "number": 20,
+          "text": "Vnto him therefore that is able to do exceeding aboundantly aboue all that we aske or thinke, according to the power that worketh in vs,"
+        },
+        {
+          "number": 21,
+          "text": "Be praise in the Church by Christ Iesus, throughout all generations for euer, Amen."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "I therefore, being prisoner in the Lord, praie you that yee walke worthie of the vocation whereunto yee are called,"
+        },
+        {
+          "number": 2,
+          "text": "With all humblenesse of minde, and meekenesse, with long suffering, supporting one an other through loue,"
+        },
+        {
+          "number": 3,
+          "text": "Endeuouring to keepe the vnitie of the Spirit in the bond of peace."
+        },
+        {
+          "number": 4,
+          "text": "There is one body, and one Spirit, euen as yee are called in one hope of your vocation."
+        },
+        {
+          "number": 5,
+          "text": "There is one Lord, one Faith, one Baptisme,"
+        },
+        {
+          "number": 6,
+          "text": "One God and Father of all, which is aboue all, and through all, and in you all."
+        },
+        {
+          "number": 7,
+          "text": "But vnto euery one of vs is giuen grace, according to the measure of the gift of Christ."
+        },
+        {
+          "number": 8,
+          "text": "Wherfore he saith, Whe he asceded vp on hie, he led captiuity captiue, and gaue gifts vnto men."
+        },
+        {
+          "number": 9,
+          "text": "(Nowe, in that hee ascended, what is it but that he had also descended first into the lowest partes of the earth?"
+        },
+        {
+          "number": 10,
+          "text": "Hee that descended, is euen the same that ascended, farre aboue all heauens, that hee might fill all things)"
+        },
+        {
+          "number": 11,
+          "text": "Hee therefore gaue some to be Apostles, and some Prophets, and some Euangelists, and some Pastours, and Teachers,"
+        },
+        {
+          "number": 12,
+          "text": "For the repairing of the Saintes, for the woorke of the ministerie, and for the edification of the bodie of Christ,"
+        },
+        {
+          "number": 13,
+          "text": "Till we all meete together (in the vnitie of faith and that acknowledging of the Sonne of God) vnto a perfite man, and vnto the measure of the age of the fulnesse of Christ,"
+        },
+        {
+          "number": 14,
+          "text": "That we henceforth be no more children, wauering and caried about with euery winde of doctrine, by the deceit of men, and with craftines, whereby they lay in wait to deceiue."
+        },
+        {
+          "number": 15,
+          "text": "But let vs folowe the truth in loue, and in all things, grow vp into him, which is the head, that is, Christ."
+        },
+        {
+          "number": 16,
+          "text": "By whome al the body being coupled and knit together by euery ioynt, for ye furniture therof (according to the effectual power, which is in the measure of euery part) receiueth increase of the body, vnto the edifying of itselfe in loue."
+        },
+        {
+          "number": 17,
+          "text": "This I say therefore and testifie in the Lord, that yee hencefoorth walke not as other Gentiles walke, in vanitie of their minde,"
+        },
+        {
+          "number": 18,
+          "text": "Hauing their vnderstanding darkened, and being strangers from the life of God through the ignorance that is in them, because of the hardnesse of their heart:"
+        },
+        {
+          "number": 19,
+          "text": "Which being past feeling, haue giuen themselues vnto wantonnesse, to woorke all vncleannesse, euen with griedinesse."
+        },
+        {
+          "number": 20,
+          "text": "But yee haue not so learned Christ,"
+        },
+        {
+          "number": 21,
+          "text": "If so be yee haue heard him, and haue bene taught by him, as the trueth is in Iesus,"
+        },
+        {
+          "number": 22,
+          "text": "That is, that yee cast off, concerning the conuersation in time past, that olde man, which is corrupt through the deceiueable lustes,"
+        },
+        {
+          "number": 23,
+          "text": "And be renued in the spirit of your minde,"
+        },
+        {
+          "number": 24,
+          "text": "And put on ye new man, which after God is created vnto righteousnes, and true holines."
+        },
+        {
+          "number": 25,
+          "text": "Wherefore cast off lying, and speake euery man truth vnto his neighbour: for we are members one of another."
+        },
+        {
+          "number": 26,
+          "text": "Bee angrie, but sinne not: let not the sunne goe downe vpon your wrath,"
+        },
+        {
+          "number": 27,
+          "text": "Neither giue place to the deuill."
+        },
+        {
+          "number": 28,
+          "text": "Let him that stole, steale no more: but let him rather labour, and worke with his handes the thing which is good, that hee may haue to giue vnto him that needeth."
+        },
+        {
+          "number": 29,
+          "text": "Let no corrupt comunication proceed out of your mouths: but that which is good, to ye vse of edifying, that it may minister grace vnto the hearers."
+        },
+        {
+          "number": 30,
+          "text": "And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption."
+        },
+        {
+          "number": 31,
+          "text": "Let all bitternesse, and anger, and wrath, crying, and euill speaking be put away from you, with all maliciousnesse."
+        },
+        {
+          "number": 32,
+          "text": "Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Bee yee therefore followers of God, as deare children,"
+        },
+        {
+          "number": 2,
+          "text": "And walke in loue, euen as Christ hath loued vs, and hath giuen himselfe for vs, to be an offering and a sacrifice of a sweete smellling sauour to God."
+        },
+        {
+          "number": 3,
+          "text": "But fornication, and all vncleannesse, or couetousnesse, let it not be once named among you, as it becommeth Saintes,"
+        },
+        {
+          "number": 4,
+          "text": "Neither filthinesse, neither foolish talking, neither iesting, which are things not comely, but rather giuing of thankes."
+        },
+        {
+          "number": 5,
+          "text": "For this ye know, that no whoremonger, neither vncleane person, nor couetous person, which is an idolater, hath any inheritance in the kingdome of Christ, and of God."
+        },
+        {
+          "number": 6,
+          "text": "Let no man deceiue you with vaine wordes: for, for such thinges commeth the wrath of God vpon the children of disobedience."
+        },
+        {
+          "number": 7,
+          "text": "Be not therefore companions with them."
+        },
+        {
+          "number": 8,
+          "text": "For ye were once darkenesse, but are nowe light in the Lord: walke as children of light,"
+        },
+        {
+          "number": 9,
+          "text": "(For the fruit of the Spirit is in al goodnes, and righteousnes, and trueth)"
+        },
+        {
+          "number": 10,
+          "text": "Approuing that which is pleasing to the Lord."
+        },
+        {
+          "number": 11,
+          "text": "And haue no fellowship with ye vnfruitfull works of darknes, but euen reproue them rather."
+        },
+        {
+          "number": 12,
+          "text": "For it is shame euen to speake of the things which are done of them in secret."
+        },
+        {
+          "number": 13,
+          "text": "But all thinges when they are reproued of the light, are manifest: for it is light that maketh all things manifest."
+        },
+        {
+          "number": 14,
+          "text": "Wherefore hee sayeth, Awake thou that sleepest, and stande vp from the deade, and Christ shall giue thee light."
+        },
+        {
+          "number": 15,
+          "text": "Take heede therefore that yee walke circumspectly, not as fooles, but as wise,"
+        },
+        {
+          "number": 16,
+          "text": "Redeeming ye season: for ye daies are euill."
+        },
+        {
+          "number": 17,
+          "text": "Wherefore, be ye not vnwise, but vnderstand what the will of the Lord is."
+        },
+        {
+          "number": 18,
+          "text": "And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,"
+        },
+        {
+          "number": 19,
+          "text": "Speaking vnto your selues in psalmes, and hymnes, and spirituall songs, singing, and making melodie to the Lord in your hearts,"
+        },
+        {
+          "number": 20,
+          "text": "Giuing thankes alwaies for all thinges vnto God euen the Father, in the Name of our Lord Iesus Christ,"
+        },
+        {
+          "number": 21,
+          "text": "Submitting your selues one to another in the feare of God."
+        },
+        {
+          "number": 22,
+          "text": "Wiues, submit your selues vnto your husbands, as vnto the Lord."
+        },
+        {
+          "number": 23,
+          "text": "For the husband is the wiues head, euen as Christ is the head of the Church, and the same is the sauiour of his body."
+        },
+        {
+          "number": 24,
+          "text": "Therfore as the Church is in subiection to Christ, euen so let the wiues be to their husbands in euery thing."
+        },
+        {
+          "number": 25,
+          "text": "Husbands, loue your wiues, euen as Christ loued the Church, and gaue himselfe for it,"
+        },
+        {
+          "number": 26,
+          "text": "That hee might sanctifie it, and clense it by the washing of water through the worde,"
+        },
+        {
+          "number": 27,
+          "text": "That hee might make it vnto him selfe a glorious Church, not hauing spot or wrinkle, or any such thing: but that it shoulde bee holy and without blame."
+        },
+        {
+          "number": 28,
+          "text": "So ought men to loue their wiues, as their owne bodies: he that loueth his wife, loueth him selfe."
+        },
+        {
+          "number": 29,
+          "text": "For no man euer yet hated his owne flesh, but nourisheth and cherisheth it, euen as the Lord doeth the Church."
+        },
+        {
+          "number": 30,
+          "text": "For we are members of his bodie, of his flesh, and of his bones."
+        },
+        {
+          "number": 31,
+          "text": "For this cause shall a man leaue father and mother, and shall cleaue to his wife, and they twaine shalbe one flesh."
+        },
+        {
+          "number": 32,
+          "text": "This is a great secrete, but I speake concerning Christ, and concerning the Church."
+        },
+        {
+          "number": 33,
+          "text": "Therefore euery one of you, doe ye so: let euery one loue his wife, euen as himselfe, and let the wife see that shee feare her husband."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Children, obey your parents in the Lord: for this is right."
+        },
+        {
+          "number": 2,
+          "text": "Honour thy father and mother (which is the first commandement with promise)"
+        },
+        {
+          "number": 3,
+          "text": "That it may be well with thee, and that thou mayst liue long on earth."
+        },
+        {
+          "number": 4,
+          "text": "And ye, fathers, prouoke not your children to wrath: but bring them vp in instruction and information of the Lord."
+        },
+        {
+          "number": 5,
+          "text": "Seruants, be obedient vnto them that are your masters, according to the flesh, with feare and trembling in singlenesse of your hearts as vnto Christ,"
+        },
+        {
+          "number": 6,
+          "text": "Not with seruice to the eye, as men pleasers, but as the seruants of Christ, doing the will of God from the heart,"
+        },
+        {
+          "number": 7,
+          "text": "With good will, seruing the Lord, and not men."
+        },
+        {
+          "number": 8,
+          "text": "And knowe ye that whatsoeuer good thing any man doeth, that same shall he receiue of the Lord, whether he be bond or free."
+        },
+        {
+          "number": 9,
+          "text": "And ye masters, doe the same things vnto them, putting away threatning: and know that euen your master also is in heauen, neither is there respect of person with him."
+        },
+        {
+          "number": 10,
+          "text": "Finally, my brethren, be strong in the Lord, and in the power of his might."
+        },
+        {
+          "number": 11,
+          "text": "Put on the whole armour of God, that ye may be able to stand against the assaultes of the deuil."
+        },
+        {
+          "number": 12,
+          "text": "For we wrestle not against flesh and blood, but against principalities, against powers, and against the worldly gouernours, the princes of the darkenesse of this worlde, against spirituall wickednesses, which are in ye hie places."
+        },
+        {
+          "number": 13,
+          "text": "For this cause take vnto you the whole armour of God, that ye may be able to resist in the euill day, and hauing finished all things, stand fast."
+        },
+        {
+          "number": 14,
+          "text": "Stand therefore, and your loynes girded about with veritie, and hauing on the brest plate of righteousnesse,"
+        },
+        {
+          "number": 15,
+          "text": "And your feete shod with the preparation of the Gospel of peace."
+        },
+        {
+          "number": 16,
+          "text": "Aboue all, take the shielde of faith, wherewith ye may quench all the fierie dartes of the wicked,"
+        },
+        {
+          "number": 17,
+          "text": "And take the helmet of saluation, and the sword of the Spirit, which is the worde of God."
+        },
+        {
+          "number": 18,
+          "text": "And pray alwayes with all maner prayer and supplication in the Spirit: and watch thereunto with all perseuerance and supplication for al Saints,"
+        },
+        {
+          "number": 19,
+          "text": "And for me, that vtterance may be giuen vnto me, that I may open my mouth boldly to publish the secret of the Gospel,"
+        },
+        {
+          "number": 20,
+          "text": "Whereof I am the ambassadour in bonds, that therein I may speake boldely, as I ought to speake."
+        },
+        {
+          "number": 21,
+          "text": "But that ye may also know mine affaires, and what I doe, Tychicus my deare brother and faithfull minister in the Lord, shall shewe you of all things,"
+        },
+        {
+          "number": 22,
+          "text": "Whom I haue sent vnto you for the same purpose, that ye might knowe mine affaires, and that he might comfort your hearts."
+        },
+        {
+          "number": 23,
+          "text": "Peace be with the brethren, and loue with faith from God the Father, and from the Lord Iesus Christ."
+        },
+        {
+          "number": 24,
+          "text": "Grace be with all them which loue our Lord Iesus Christ, to their immortalitie, Amen. ‘Written from Rome vnto the Ephesians, and sent by Tychicus.’"
+        }
+      ]
+    }
+  ]
+}

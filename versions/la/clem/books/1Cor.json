@@ -1,0 +1,1837 @@
+{
+  "version": "clem",
+  "book": "1Cor",
+  "bookId": 46,
+  "englishName": "1 Corinthians",
+  "testament": "NT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Paulus vocatus Apostolus Jesu Christi per voluntatem Dei, et Sosthenes frater,"
+        },
+        {
+          "number": 2,
+          "text": "ecclesi Dei, qu est Corinthi, sanctificatis in Christo Jesu, vocatis sanctis, cum omnibus qui invocant nomen Domini nostri Jesu Christi, in omni loco ipsorum et nostro."
+        },
+        {
+          "number": 3,
+          "text": "Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo."
+        },
+        {
+          "number": 4,
+          "text": "Gratias ago Deo meo semper pro vobis in gratia Dei, qu data est vobis in Christo Jesu:"
+        },
+        {
+          "number": 5,
+          "text": "quod in omnibus divites facti estis in illo, in omni verbo, et in omni scientia."
+        },
+        {
+          "number": 6,
+          "text": "Sicut testimonium Christi confirmatum est in vobis:"
+        },
+        {
+          "number": 7,
+          "text": "ita ut nihil vobis desit in ulla gratia, exspectantibus revelationem Domini nostri Jesu Christi,"
+        },
+        {
+          "number": 8,
+          "text": "qui et confirmabit vos usque in finem sine crimine, in die adventus Domini nostri Jesu Christi."
+        },
+        {
+          "number": 9,
+          "text": "Fidelis Deus: per quem vocati estis in societatem filii ejus Jesu Christi Domini nostri."
+        },
+        {
+          "number": 10,
+          "text": "Obsecro autem vos fratres per nomen Domini nostri Jesu Christi: ut idipsum dicatis omnes, et non sint in vobis schismata: sitis autem perfecti in eodem sensu, et in eadem sententia."
+        },
+        {
+          "number": 11,
+          "text": "Significatum est enim mihi de vobis fratres mei ab iis, qui sunt Chlos, quia contentiones sunt inter vos."
+        },
+        {
+          "number": 12,
+          "text": "Hoc autem dico, quod unusquisque vestrum dicit: Ego quidem sum Pauli: ego autem Apollo: ego vero Ceph: ego autem Christi."
+        },
+        {
+          "number": 13,
+          "text": "Divisus est Christus? numquid Paulus crucifixus est pro vobis? aut in nomine Pauli baptizati estis?"
+        },
+        {
+          "number": 14,
+          "text": "Gratias ago Deo, quod neminem vestrum baptizavi, nisi Crispum et Caium:"
+        },
+        {
+          "number": 15,
+          "text": "ne quis dicat quod in nomine meo baptizati estis."
+        },
+        {
+          "number": 16,
+          "text": "Baptizavi autem et Stephan domum: ceterum nescio si quem alium baptizaverim."
+        },
+        {
+          "number": 17,
+          "text": "Non enim misit me Christus baptizare, sed evangelizare: non in sapientia verbi, ut non evacuetur crux Christi."
+        },
+        {
+          "number": 18,
+          "text": "Verbum enim crucis pereuntibus quidem stultitia est: iis autem qui salvi fiunt, id est nobis, Dei virtus est."
+        },
+        {
+          "number": 19,
+          "text": "Scriptum est enim: Perdam sapientiam sapientium, et prudentiam prudentium reprobabo."
+        },
+        {
+          "number": 20,
+          "text": "Ubi sapiens? ubi scriba? ubi conquisitor hujus sculi? Nonne stultam fecit Deus sapientiam hujus mundi?"
+        },
+        {
+          "number": 21,
+          "text": "Nam quia in Dei sapientia non cognovit mundus per sapientiam Deum: placuit Deo per stultitiam prdicationis salvos facere credentes."
+        },
+        {
+          "number": 22,
+          "text": "Quoniam et Judi signa petunt, et Grci sapientiam qurunt:"
+        },
+        {
+          "number": 23,
+          "text": "nos autem prdicamus Christum crucifixum: Judis quidem scandalum, gentibus autem stultitiam,"
+        },
+        {
+          "number": 24,
+          "text": "ipsis autem vocatis Judis, atque Grcis Christum Dei virtutem, et Dei sapientia:"
+        },
+        {
+          "number": 25,
+          "text": "quia quod stultum est Dei, sapientius est hominibus: et quod infirmum est Dei, fortius est hominibus."
+        },
+        {
+          "number": 26,
+          "text": "Videte enim vocationem vestram, fratres, quia non multi sapientes secundum carnem, non multi potentes, non multi nobiles:"
+        },
+        {
+          "number": 27,
+          "text": "sed qu stulta sunt mundi elegit Deus, ut confundat sapientes: et infirma mundi elegit Deus, ut confundat fortia:"
+        },
+        {
+          "number": 28,
+          "text": "et ignobilia mundi, et contemptibilia elegit Deus, et ea qu non sunt, ut ea qu sunt destrueret:"
+        },
+        {
+          "number": 29,
+          "text": "ut non glorietur omnis caro in conspectu ejus."
+        },
+        {
+          "number": 30,
+          "text": "Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapientia a Deo, et justitia, et sanctificatio, et redemptio:"
+        },
+        {
+          "number": 31,
+          "text": "ut quemadmodum scriptum est: Qui gloriatur, in Domino glorietur."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et ego, cum venissem ad vos, fratres, veni non in sublimitate sermonis, aut sapienti, annuntians vobis testimonium Christi."
+        },
+        {
+          "number": 2,
+          "text": "Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum."
+        },
+        {
+          "number": 3,
+          "text": "Et ego in infirmitate, et timore, et tremore multo fui apud vos:"
+        },
+        {
+          "number": 4,
+          "text": "et sermo meus, et prdicatio mea non in persuasibilibus human sapienti verbis, sed in ostensione spiritus et virtutis:"
+        },
+        {
+          "number": 5,
+          "text": "ut fides vestra non sit in sapientia hominum, sed in virtute Dei."
+        },
+        {
+          "number": 6,
+          "text": "Sapientiam autem loquimur inter perfectos: sapientiam vero non hujus sculi, neque principum hujus sculi, qui destruuntur:"
+        },
+        {
+          "number": 7,
+          "text": "sed loquimur Dei sapientiam in mysterio, qu abscondita est, quam prdestinavit Deus ante scula in gloriam nostram,"
+        },
+        {
+          "number": 8,
+          "text": "quam nemo principum hujus sculi cognovit: si enim cognovissent, numquam Dominum glori crucifixissent."
+        },
+        {
+          "number": 9,
+          "text": "Sed sicut scriptum est: Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, qu prparavit Deus iis qui diligunt illum:"
+        },
+        {
+          "number": 10,
+          "text": "nobis autem revelavit Deus per Spiritum suum: Spiritus enim omnia scrutatur, etiam profunda Dei."
+        },
+        {
+          "number": 11,
+          "text": "Quis enim hominum scit qu sunt hominis, nisi spiritus hominis, qui in ipso est? ita et qu Dei sunt, nemo cognovit, nisi Spiritus Dei."
+        },
+        {
+          "number": 12,
+          "text": "Nos autem non spiritum hujus mundi accepimus, sed Spiritum qui ex Deo est, ut sciamus qu a Deo donata sunt nobis:"
+        },
+        {
+          "number": 13,
+          "text": "qu et loquimur non in doctis human sapienti verbis, sed in doctrina Spiritus, spiritualibus spiritualia comparantes."
+        },
+        {
+          "number": 14,
+          "text": "Animalis autem homo non percipit ea qu sunt Spiritus Dei: stultitia enim est illi, et non potest intelligere: quia spiritualiter examinatur."
+        },
+        {
+          "number": 15,
+          "text": "Spiritualis autem judicat omnia: et ipse a nemine judicatur."
+        },
+        {
+          "number": 16,
+          "text": "Quis enim cognovit sensum Domini, qui instruat eum? nos autem sensum Christi habemus."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Et ego, fratres, non potui vobis loqui quasi spiritualibus, sed quasi carnalibus. Tamquam parvulis in Christo,"
+        },
+        {
+          "number": 2,
+          "text": "lac vobis potum dedi, non escam: nondum enim poteratis: sed nec nunc quidem potestis: adhuc enim carnales estis."
+        },
+        {
+          "number": 3,
+          "text": "Cum enim sit inter vos zelus, et contentio: nonne carnales estis, et secundum hominem ambulatis?"
+        },
+        {
+          "number": 4,
+          "text": "Cum enim quis dicat: Ego quidem sum Pauli; alius autem: Ego Apollo: nonne homines estis? Quid igitur est Apollo? quid vero Paulus?"
+        },
+        {
+          "number": 5,
+          "text": "ministri ejus, cui credidistis, ut unicuique sicut Dominus dedit."
+        },
+        {
+          "number": 6,
+          "text": "Ego plantavi, Apollo rigavit: sed Deus incrementum dedit."
+        },
+        {
+          "number": 7,
+          "text": "Itaque neque qui plantat est aliquid, neque qui rigat: sed qui incrementum dat, Deus."
+        },
+        {
+          "number": 8,
+          "text": "Qui autem plantat, et qui rigat, unum sunt. Unusquisque autem propriam mercedem accipiet, secundum suum laborem."
+        },
+        {
+          "number": 9,
+          "text": "Dei enim sumus adjutores: Dei agricultura estis, Dei dificatio estis."
+        },
+        {
+          "number": 10,
+          "text": "Secundum gratiam Dei, qu data est mihi, ut sapiens architectus fundamentum posui: alius autem superdificat. Unusquisque autem videat quomodo superdificet."
+        },
+        {
+          "number": 11,
+          "text": "Fundamentum enim aliud nemo potest ponere prter id quod positum est, quod est Christus Jesus."
+        },
+        {
+          "number": 12,
+          "text": "Si quis autem superdificat super fundamentum hoc, aurum, argentum, lapides pretiosos, ligna, fnum, stipulam,"
+        },
+        {
+          "number": 13,
+          "text": "uniuscujusque opus manifestum erit: dies enim Domini declarabit, quia in igne revelabitur: et uniuscujusque opus quale sit, ignis probabit."
+        },
+        {
+          "number": 14,
+          "text": "Si cujus opus manserit quod superdificavit, mercedem accipiet."
+        },
+        {
+          "number": 15,
+          "text": "Si cujus opus arserit, detrimentum patietur: ipse autem salvus erit, sic tamen quasi per ignem."
+        },
+        {
+          "number": 16,
+          "text": "Nescitis quia templum Dei estis, et Spiritus Dei habitat in vobis?"
+        },
+        {
+          "number": 17,
+          "text": "Si quis autem templum Dei violaverit, disperdet illum Deus. Templum enim Dei sanctum est, quod estis vos."
+        },
+        {
+          "number": 18,
+          "text": "Nemo se seducat: si quis videtur inter vos sapiens esse in hoc sculo, stultus fiat ut sit sapiens."
+        },
+        {
+          "number": 19,
+          "text": "Sapientia enim hujus mundi, stultitia est apud Deum. Scriptum est enim: Comprehendam sapientes in astutia eorum."
+        },
+        {
+          "number": 20,
+          "text": "Et iterum: Dominus novit cogitationes sapientium quoniam van sunt."
+        },
+        {
+          "number": 21,
+          "text": "Nemo itaque glorietur in hominibus."
+        },
+        {
+          "number": 22,
+          "text": "Omnia enim vestra sunt, sive Paulus, sive Apollo, sive Cephas, sive mundus, sive vita, sive mors, sive prsentia, sive futura: omnia enim vestra sunt:"
+        },
+        {
+          "number": 23,
+          "text": "vos autem Christi: Christus autem Dei."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sic nos existimet homo ut ministros Christi, et dispensatores mysteriorum Dei."
+        },
+        {
+          "number": 2,
+          "text": "Hic jam quritur inter dispensatores ut fidelis quis inveniatur."
+        },
+        {
+          "number": 3,
+          "text": "Mihi autem pro minimo est ut a vobis judicer, aut ab humano die: sed neque meipsum judico."
+        },
+        {
+          "number": 4,
+          "text": "Nihil enim mihi conscius sum, sed non in hoc justificatus sum: qui autem judicat me, Dominus est."
+        },
+        {
+          "number": 5,
+          "text": "Itaque nolite ante tempus judicare, quoadusque veniat Dominus: qui et illuminabit abscondita tenebrarum, et manifestabit consilia cordium: et tunc laus erit unicuique a Deo."
+        },
+        {
+          "number": 6,
+          "text": "Hc autem, fratres, transfiguravi in me et Apollo, propter vos: ut in nobis discatis, ne supra quam scriptum est, unus adversus alterum infletur pro alio."
+        },
+        {
+          "number": 7,
+          "text": "Quis enim te discernit? quid autem habes quod non accepisti? si autem accepisti, quid gloriaris quasi non acceperis?"
+        },
+        {
+          "number": 8,
+          "text": "Jam saturati estis, jam divites facti estis: sine nobis regnatis: et utinam regnetis, ut et nos vobiscum regnemus."
+        },
+        {
+          "number": 9,
+          "text": "Puto enim quod Deus nos Apostolos novissimos ostendit, tamquam morti destinatos: quia spectaculum facti sumus mundo, et angelis, et hominibus."
+        },
+        {
+          "number": 10,
+          "text": "Nos stulti propter Christum, vos autem prudentes in Christo: nos infirmi, vos autem fortes: vos nobiles, nos autem ignobiles."
+        },
+        {
+          "number": 11,
+          "text": "Usque in hanc horam et esurimus, et sitimus, et nudi sumus, et colaphis cdimur, et instabiles sumus,"
+        },
+        {
+          "number": 12,
+          "text": "et laboramus operantes manibus nostris: maledicimur, et benedicimus: persecutionem patimur, et sustinemus:"
+        },
+        {
+          "number": 13,
+          "text": "blasphemamur, et obsecramus: tamquam purgamenta hujus mundi facti sumus, omnium peripsema usque adhuc."
+        },
+        {
+          "number": 14,
+          "text": "Non ut confundam vos, hc scribo, sed ut filios meos carissimos moneo."
+        },
+        {
+          "number": 15,
+          "text": "Nam si decem millia pdagogorum habeatis in Christo, sed non multos patres. Nam in Christo Jesu per Evangelium ego vos genui."
+        },
+        {
+          "number": 16,
+          "text": "Rogo ergo vos, imitatores mei estote, sicut et ego Christi."
+        },
+        {
+          "number": 17,
+          "text": "Ideo misi ad vos Timotheum, qui est filius meus carissimus, et fidelis in Domino: qui vos commonefaciet vias meas, qu sunt in Christo Jesu, sicut ubique in omni ecclesia doceo."
+        },
+        {
+          "number": 18,
+          "text": "Tamquam non venturus sim ad vos, sic inflati sunt quidam."
+        },
+        {
+          "number": 19,
+          "text": "Veniam autem ad vos cito, si Dominus voluerit: et cognoscam non sermonem eorum qui inflati sunt, sed virtutem."
+        },
+        {
+          "number": 20,
+          "text": "Non enim in sermone est regnum Dei, sed in virtute."
+        },
+        {
+          "number": 21,
+          "text": "Quid vultis? in virga veniam ad vos, an in caritate, et spiritu mansuetudinis?"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Omnino auditur inter vos fornicatio, et talis fornicatio, qualis nec inter gentes, ita ut uxorem patris sui aliquis habeat."
+        },
+        {
+          "number": 2,
+          "text": "Et vos inflati estis: et non magis luctum habuistis ut tollatur de medio vestrum qui hoc opus fecit."
+        },
+        {
+          "number": 3,
+          "text": "Ego quidem absens corpore, prsens autem spiritu, jam judicavi ut prsens eum, qui sic operatus est,"
+        },
+        {
+          "number": 4,
+          "text": "in nomine Domini nostri Jesu Christi, congregatis vobis et meo spiritu, cum virtute Domini nostri Jesu,"
+        },
+        {
+          "number": 5,
+          "text": "tradere hujusmodi Satan in interitum carnis, ut spiritus salvus sit in die Domini nostri Jesu Christi."
+        },
+        {
+          "number": 6,
+          "text": "Non est bona gloriatio vestra. Nescitis quia modicum fermentum totam massam corrumpit?"
+        },
+        {
+          "number": 7,
+          "text": "Expurgate vetus fermentum, ut sitis nova conspersio, sicut estis azymi. Etenim Pascha nostrum immolatus est Christus."
+        },
+        {
+          "number": 8,
+          "text": "Itaque epulemur: non in fermento veteri, neque in fermento maliti et nequiti: sed in azymis sinceritatis et veritatis."
+        },
+        {
+          "number": 9,
+          "text": "Scripsi in epistola: Ne commisceamini fornicariis:"
+        },
+        {
+          "number": 10,
+          "text": "non utique fornicariis hujus mundi, aut avaris, aut rapacibus, aut idolis servientibus: alioquin debueratis de hoc mundo exiisse."
+        },
+        {
+          "number": 11,
+          "text": "Nunc autem scripsi vobis non commisceri: si is qui frater nominatur, est fornicator, aut avarus, aut idolis serviens, aut maledicus, aut ebriosus, aut rapax, cum ejusmodi nec cibum sumere."
+        },
+        {
+          "number": 12,
+          "text": "Quid enim mihi de iis qui foris sunt, judicare? nonne de iis qui intus sunt, vos judicatis?"
+        },
+        {
+          "number": 13,
+          "text": "nam eos qui foris sunt, Deus judicabit. Auferte malum ex vobis ipsis."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Audet aliquis vestrum habens negotium adversus alterum, judicari apud iniquos, et non apud sanctos?"
+        },
+        {
+          "number": 2,
+          "text": "an nescitis quoniam sancti de hoc mundo judicabunt? et si in vobis judicabitur mundus, indigni estis qui de minimis judicetis?"
+        },
+        {
+          "number": 3,
+          "text": "Nescitis quoniam angelos judicabimus? quanto magis scularia?"
+        },
+        {
+          "number": 4,
+          "text": "Scularia igitur judicia si habueritis: contemptibiles, qui sunt in ecclesia, illos constituite ad judicandum."
+        },
+        {
+          "number": 5,
+          "text": "Ad verecundiam vestram dico. Sic non est inter vos sapiens quisquam, qui possit judicare inter fratrem suum?"
+        },
+        {
+          "number": 6,
+          "text": "Sed frater cum fratre judicio contendit: et hoc apud infideles?"
+        },
+        {
+          "number": 7,
+          "text": "Jam quidem omnino delictum est in vobis, quod judicia habetis inter vos. Quare non magis injuriam accipitis? quare non magis fraudem patimini?"
+        },
+        {
+          "number": 8,
+          "text": "Sed vos injuriam facitis, et fraudatis: et hoc fratribus."
+        },
+        {
+          "number": 9,
+          "text": "An nescitis quia iniqui regnum Dei non possidebunt? Nolite errare: neque fornicarii, neque idolis servientes, neque adulteri,"
+        },
+        {
+          "number": 10,
+          "text": "neque molles, neque masculorum concubitores, neque fures, neque avari, neque ebriosi, neque maledici, neque rapaces regnum Dei possidebunt."
+        },
+        {
+          "number": 11,
+          "text": "Et hc quidam fuistis: sed abluti estis, sed sanctificati estis, sed justificati estis in nomine Domini nostri Jesu Christi, et in Spiritu Dei nostri."
+        },
+        {
+          "number": 12,
+          "text": "Omnia mihi licent, sed non omnia expediunt: omnia mihi licent, sed ego sub nullis redigar potestate."
+        },
+        {
+          "number": 13,
+          "text": "Esca ventri, et venter escis: Deus autem et hunc et has destruet: corpus autem non fornicationi, sed Domino: et Dominus corpori."
+        },
+        {
+          "number": 14,
+          "text": "Deus vero et Dominum suscitavit: et nos suscitabit per virtutem suam."
+        },
+        {
+          "number": 15,
+          "text": "Nescitis quoniam corpora vestra membra sunt Christi? Tollens ergo membra Christi, faciam membra meretricis? Absit."
+        },
+        {
+          "number": 16,
+          "text": "An nescitis quoniam qui adhret meretrici, unum corpus efficitur? Erunt enim (inquit) duo in carne una."
+        },
+        {
+          "number": 17,
+          "text": "Qui autem adhret Domino, unus spiritus est."
+        },
+        {
+          "number": 18,
+          "text": "Fugite fornicationem. Omne peccatum, quodcumque fecerit homo, extra corpus est: qui autem fornicatur, in corpus suum peccat."
+        },
+        {
+          "number": 19,
+          "text": "An nescitis quoniam membra vestra, templum sunt Spiritus Sancti, qui in vobis est, quem habetis a Deo, et non estis vestri?"
+        },
+        {
+          "number": 20,
+          "text": "Empti enim estis pretio magno. Glorificate, et portate Deum in corpore vestro."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De quibus autem scripsistis mihi: Bonum est homini mulierem non tangere:"
+        },
+        {
+          "number": 2,
+          "text": "propter fornicationem autem unusquisque suam uxorem habeat, et unaquque suum virum habeat."
+        },
+        {
+          "number": 3,
+          "text": "Uxori vir debitum reddat: similiter autem et uxor viro."
+        },
+        {
+          "number": 4,
+          "text": "Mulier sui corporis potestatem non habet, sed vir. Similiter autem et vir sui corporis potestatem non habet, sed mulier."
+        },
+        {
+          "number": 5,
+          "text": "Nolite fraudare invicem, nisi forte ex consensu ad tempus, ut vacetis orationi: et iterum revertimini in idipsum, ne tentet vos Satanas propter incontinentiam vestram."
+        },
+        {
+          "number": 6,
+          "text": "Hoc autem dico secundum indulgentiam, non secundum imperium."
+        },
+        {
+          "number": 7,
+          "text": "Volo enim omnes vos esse sicut meipsum: sed unusquisque proprium donum habet ex Deo: alius quidem sic, alius vero sic."
+        },
+        {
+          "number": 8,
+          "text": "Dico autem non nuptis, et viduis: bonum est illis si sic permaneant, sicut et ego."
+        },
+        {
+          "number": 9,
+          "text": "Quod si non se continent, nubant. Melius est enim nubere, quam uri."
+        },
+        {
+          "number": 10,
+          "text": "Iis autem qui matrimonio juncti sunt, prcipio non ego, sed Dominus, uxorem a viro non discedere:"
+        },
+        {
+          "number": 11,
+          "text": "quod si discesserit, manere innuptam, aut viro suo reconciliari. Et vir uxorem non dimittat."
+        },
+        {
+          "number": 12,
+          "text": "Nam ceteris ego dico, non Dominus. Si quis frater uxorem habet infidelem, et hc consentit habitare cum illo, non dimittat illam."
+        },
+        {
+          "number": 13,
+          "text": "Et si qua mulier fidelis habet virum infidelem, et hic consentit habitare cum illa, non dimittat virum:"
+        },
+        {
+          "number": 14,
+          "text": "sanctificatus est enim vir infidelis per mulierem fidelem, et sanctificata est mulier infidelis per virum fidelem: alioquin filii vestri immundi essent, nunc autem sancti sunt."
+        },
+        {
+          "number": 15,
+          "text": "Quod si infidelis discedit, discedat: non enim servituti subjectus est frater, aut soror in hujusmodi: in pace autem vocavit nos Deus."
+        },
+        {
+          "number": 16,
+          "text": "Unde enim scis mulier, si virum salvum facies? aut unde scis vir, si mulierem salvam facies?"
+        },
+        {
+          "number": 17,
+          "text": "Nisi unicuique sicut divisit Dominus, unumquemque sicut vocavit Deus, ita ambulet, et sicut in omnibus ecclesiis doceo."
+        },
+        {
+          "number": 18,
+          "text": "Circumcisus aliquis vocatus est? non adducat prputium. In prputio aliquis vocatus est? non circumcidatur."
+        },
+        {
+          "number": 19,
+          "text": "Circumcisio nihil est, et prputium nihil est: sed observatio mandatorum Dei."
+        },
+        {
+          "number": 20,
+          "text": "Unusquisque in qua vocatione vocatus est, in ea permaneat."
+        },
+        {
+          "number": 21,
+          "text": "Servus vocatus es? non sit tibi cur: sed et si potes fieri liber, magis utere."
+        },
+        {
+          "number": 22,
+          "text": "Qui enim in Domino vocatus est servus, libertus est Domini: similiter qui liber vocatus est, servus est Christi."
+        },
+        {
+          "number": 23,
+          "text": "Pretio empti estis: nolite fieri servi hominum."
+        },
+        {
+          "number": 24,
+          "text": "Unusquisque in quo vocatus est, fratres, in hoc permaneat apud Deum."
+        },
+        {
+          "number": 25,
+          "text": "De virginibus autem prceptum Domini non habeo: consilium autem do, tamquam misericordiam consecutus a Domino, ut sim fidelis."
+        },
+        {
+          "number": 26,
+          "text": "Existimo ergo hoc bonum esse propter instantem necessitatem, quoniam bonum est homini sic esse."
+        },
+        {
+          "number": 27,
+          "text": "Alligatus es uxori? noli qurere solutionem. Solutus es ab uxore? noli qurere uxorem."
+        },
+        {
+          "number": 28,
+          "text": "Si autem acceperis uxorem, non peccasti. Et si nupserit virgo, non peccavit: tribulationem tamen carnis habebunt hujusmodi. Ego autem vobis parco."
+        },
+        {
+          "number": 29,
+          "text": "Hoc itaque dico, fratres: tempus breve est: reliquum est, ut et qui habent uxores, tamquam non habentes sint:"
+        },
+        {
+          "number": 30,
+          "text": "et qui flent, tamquam non flentes: et qui gaudent, tamquam non gaudentes: et qui emunt, tamquam non possidentes:"
+        },
+        {
+          "number": 31,
+          "text": "et qui utuntur hoc mundo, tamquam non utantur: prterit enim figura hujus mundi."
+        },
+        {
+          "number": 32,
+          "text": "Volo autem vos sine sollicitudine esse. Qui sine uxore est, sollicitus est qu Domini sunt, quomodo placeat Deo."
+        },
+        {
+          "number": 33,
+          "text": "Qui autem cum uxore est, sollicitus est qu sunt mundi, quomodo placeat uxori, et divisus est."
+        },
+        {
+          "number": 34,
+          "text": "Et mulier innupta, et virgo, cogitat qu Domini sunt, ut sit sancta corpore, et spiritu. Qu autem nupta est, cogitat qu sunt mundi, quomodo placeat viro."
+        },
+        {
+          "number": 35,
+          "text": "Porro hoc ad utilitatem vestram dico: non ut laqueum vobis injiciam, sed ad id, quod honestum est, et quod facultatem prbeat sine impedimento Dominum obsecrandi."
+        },
+        {
+          "number": 36,
+          "text": "Si quis autem turpem se videri existimat super virgine sua, quod sit superadulta, et ita oportet fieri: quod vult faciat: non peccat, si nubat."
+        },
+        {
+          "number": 37,
+          "text": "Nam qui statuit in corde suo firmus, non habens necessitatem, potestatem autem habens su voluntatis, et hoc judicavit in corde suo, servare virginem suam, bene facit."
+        },
+        {
+          "number": 38,
+          "text": "Igitur et qui matrimonio jungit virginem suam, bene facit: et qui non jungit, melius facit."
+        },
+        {
+          "number": 39,
+          "text": "Mulier alligata est legi quanto tempore vir ejus vivit, quod si dormierit vir ejus, liberata est: cui vult nubat, tantum in Domino."
+        },
+        {
+          "number": 40,
+          "text": "Beatior autem erit si sic permanserit secundum meum consilium: puto autem quod et ego Spiritum Dei habeam."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De iis autem qu idolis sacrificantur, scimus quia omnes scientiam habemus. Scientia inflat, caritas vero dificat."
+        },
+        {
+          "number": 2,
+          "text": "Si quis autem se existimat scire aliquid, nondum cognovit quemadmodum oporteat eum scire."
+        },
+        {
+          "number": 3,
+          "text": "Si quis autem diligit Deum, hic cognitus est ab eo."
+        },
+        {
+          "number": 4,
+          "text": "De escis autem qu idolis immolantur, scimus quia nihil est idolum in mundo, et quod nullus est Deus, nisi unus."
+        },
+        {
+          "number": 5,
+          "text": "Nam etsi sunt qui dicantur dii sive in clo, sive in terra (siquidem sunt dii multi, et domini multi):"
+        },
+        {
+          "number": 6,
+          "text": "nobis tamen unus est Deus, Pater, ex quo omnia, et nos in illum: et unus Dominus Jesus Christus, per quem omnia, et nos per ipsum."
+        },
+        {
+          "number": 7,
+          "text": "Sed non in omnibus est scientia. Quidam autem cum conscientia usque nunc idoli, quasi idolothytum manducant: et conscientia ipsorum cum sit infirma, polluitur."
+        },
+        {
+          "number": 8,
+          "text": "Esca autem nos non commendat Deo. Neque enim si manducaverimus, abundabimus: neque si non manducaverimus, deficiemus."
+        },
+        {
+          "number": 9,
+          "text": "Videte autem ne forte hc licentia vestra offendiculum fiat infirmis."
+        },
+        {
+          "number": 10,
+          "text": "Si enim quis viderit eum, qui habet scientiam, in idolio recumbentem: nonne conscientia ejus, cum sit infirma, dificabitur ad manducandum idolothyta?"
+        },
+        {
+          "number": 11,
+          "text": "Et peribit infirmus in tua scientia, frater, propter quem Christus mortuus est?"
+        },
+        {
+          "number": 12,
+          "text": "Sic autem peccantes in fratres, et percutientes conscientiam eorum infirmam, in Christum peccatis."
+        },
+        {
+          "number": 13,
+          "text": "Quapropter si esca scandalizat fratrem meum, non manducabo carnem in ternum, ne fratrem meum scandalizem."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Non sum liber? non sum Apostolus? nonne Christum Jesum Dominum nostrum vidi? nonne opus meum vos estis in Domino?"
+        },
+        {
+          "number": 2,
+          "text": "Et si aliis non sum Apostolus, sed tamen vobis sum: nam signaculum apostolatus mei vos estis in Domino."
+        },
+        {
+          "number": 3,
+          "text": "Mea defensio apud eos qui me interrogant, hc est:"
+        },
+        {
+          "number": 4,
+          "text": "Numquid non habemus potestatem manducandi et bibendi?"
+        },
+        {
+          "number": 5,
+          "text": "numquid non habemus potestatem mulierem sororem circumducendi sicut et ceteri Apostoli, et fratres Domini, et Cephas?"
+        },
+        {
+          "number": 6,
+          "text": "aut ego solus, et Barnabas, non habemus potestatem hoc operandi?"
+        },
+        {
+          "number": 7,
+          "text": "Quis militat suis stipendiis umquam? quis plantat vineam, et de fructu ejus non edit? quis pascit gregem, et de lacte gregis non manducat?"
+        },
+        {
+          "number": 8,
+          "text": "Numquid secundum hominem hc dico? an et lex hc non dicit?"
+        },
+        {
+          "number": 9,
+          "text": "Scriptum est enim in lege Moysi: Non alligabis os bovi trituranti. Numquid de bobus cura est Deo?"
+        },
+        {
+          "number": 10,
+          "text": "an propter nos utique hoc dicit? Nam propter nos scripta sunt: quoniam debet in spe qui arat, arare: et qui triturat, in spe fructus percipiendi."
+        },
+        {
+          "number": 11,
+          "text": "Si nos vobis spiritualia seminavimus, magnum est si nos carnalia vestra metamus?"
+        },
+        {
+          "number": 12,
+          "text": "Si alii potestatis vestr participes sunt, quare non potius nos? Sed non usi sumus hac potestate: sed omnia sustinemus, ne quod offendiculum demus Evangelio Christi."
+        },
+        {
+          "number": 13,
+          "text": "Nescitis quoniam qui in sacrario operantur qu de sacrario sunt, edunt: et qui altari deserviunt, cum altari participant?"
+        },
+        {
+          "number": 14,
+          "text": "Ita et Dominus ordinavit iis qui Evangelium annuntiant, de Evangelio vivere."
+        },
+        {
+          "number": 15,
+          "text": "Ego autem nullo horum usus sum. Non autem scripsi hc ut ita fiant in me: bonum est enim mihi magis mori, quam ut gloriam meam quis evacuet."
+        },
+        {
+          "number": 16,
+          "text": "Nam si evangelizavero, non est mihi gloria: necessitas enim mihi incumbit: v enim mihi est, si non evangelizavero."
+        },
+        {
+          "number": 17,
+          "text": "Si enim volens hoc ago, mercedem habeo: si autem invitus, dispensatio mihi credita est."
+        },
+        {
+          "number": 18,
+          "text": "Qu est ergo merces mea? ut Evangelium prdicans, sine sumptu ponam Evangelium, ut non abutar potestate mea in Evangelio."
+        },
+        {
+          "number": 19,
+          "text": "Nam cum liber essem ex omnibus, omnium me servum feci, ut plures lucrifacerem."
+        },
+        {
+          "number": 20,
+          "text": "Et factus sum Judis tamquam Judus, ut Judos lucrarer:"
+        },
+        {
+          "number": 21,
+          "text": "iis qui sub lege sunt, quasi sub lege essem (cum ipse non essem sub lege) ut eos qui sub lege erant, lucrifacerem: iis qui sine lege erant, tamquam sine lege essem (cum sine lege Dei non essem: sed in lege essem Christi) ut lucrifacerem eos qui sine lege erant."
+        },
+        {
+          "number": 22,
+          "text": "Factus sum infirmis infirmus, ut infirmos lucrifacerem. Omnibus omnia factus sum, ut omnes facerem salvos."
+        },
+        {
+          "number": 23,
+          "text": "Omnia autem facio propter Evangelium: ut particeps ejus efficiar."
+        },
+        {
+          "number": 24,
+          "text": "Nescitis quod ii qui in stadio currunt, omnes quidem currunt, sed unus accipit bravium? Sic currite ut comprehendatis."
+        },
+        {
+          "number": 25,
+          "text": "Omnis autem qui in agone contendit, ab omnibus se abstinet, et illi quidem ut corruptibilem coronam accipiant: nos autem incorruptam."
+        },
+        {
+          "number": 26,
+          "text": "Ego igitur sic curro, non quasi in incertum: sic pugno, non quasi arem verberans:"
+        },
+        {
+          "number": 27,
+          "text": "sed castigo corpus meum, et in servitutem redigo: ne forte cum aliis prdicaverim, ipse reprobus efficiar."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Nolo enim vos ignorare fratres, quoniam patres nostri omnes sub nube fuerunt, et omnes mare transierunt,"
+        },
+        {
+          "number": 2,
+          "text": "et omnes in Moyse baptizati sunt in nube, et in mari:"
+        },
+        {
+          "number": 3,
+          "text": "et omnes eamdem escam spiritalem manducaverunt,"
+        },
+        {
+          "number": 4,
+          "text": "et omnes eumdem potum spiritalem biberunt (bibebant autem de spiritali, consequente eos, petra: petra autem erat Christus):"
+        },
+        {
+          "number": 5,
+          "text": "sed non in pluribus eorum beneplacitum est Deo: nam prostrati sunt in deserto."
+        },
+        {
+          "number": 6,
+          "text": "Hc autem in figura facta sunt nostri, ut non simus concupiscentes malorum, sicut et illi concupierunt."
+        },
+        {
+          "number": 7,
+          "text": "Neque idololatr efficiamini, sicut quidam ex ipsis: quemadmodum scriptum est: Sedit populus manducare, et bibere, et surrexerunt ludere."
+        },
+        {
+          "number": 8,
+          "text": "Neque fornicemur, sicut quidam ex ipsis fornicati sunt, et ceciderunt una die viginti tria millia."
+        },
+        {
+          "number": 9,
+          "text": "Neque tentemus Christum, sicut quidam eorum tentaverunt, et a serpentibus perierunt."
+        },
+        {
+          "number": 10,
+          "text": "Neque murmuraveritis, sicut quidam eorum murmuraverunt, et perierunt ab exterminatore."
+        },
+        {
+          "number": 11,
+          "text": "Hc autem omnia in figura contingebant illis: scripta sunt autem ad correptionem nostram, in quos fines sculorum devenerunt."
+        },
+        {
+          "number": 12,
+          "text": "Itaque qui se existimat stare, videat ne cadat."
+        },
+        {
+          "number": 13,
+          "text": "Tentatio vos non apprehendat nisi humana: fidelis autem Deus est, qui non patietur vos tentari supra id quod potestis, sed faciet etiam cum tentatione proventum ut possitis sustinere."
+        },
+        {
+          "number": 14,
+          "text": "Propter quod, carissimi mihi, fugite ab idolorum cultura:"
+        },
+        {
+          "number": 15,
+          "text": "ut prudentibus loquor, vos ipsi judicate quod dico."
+        },
+        {
+          "number": 16,
+          "text": "Calix benedictionis, cui benedicimus, nonne communicatio sanguinis Christi est? et panis quem frangimus, nonne participatio corporis Domini est?"
+        },
+        {
+          "number": 17,
+          "text": "Quoniam unus panis, unum corpus multi sumus, omnes qui de uno pane participamus."
+        },
+        {
+          "number": 18,
+          "text": "Videte Isral secundum carnem: nonne qui edunt hostias, participes sunt altaris?"
+        },
+        {
+          "number": 19,
+          "text": "Quid ergo? dico quod idolis immolatum sit aliquid? aut quod idolum, sit aliquid?"
+        },
+        {
+          "number": 20,
+          "text": "Sed qu immolant gentes, dmoniis immolant, et non Deo. Nolo autem vos socios fieri dmoniorum:"
+        },
+        {
+          "number": 21,
+          "text": "non potestis calicem Domini bibere, et calicem dmoniorum; non potestis mens Domini participes esse, et mens dmoniorum."
+        },
+        {
+          "number": 22,
+          "text": "An mulamur Dominum? numquid fortiores illo sumus? Omnia mihi licent, sed non omnia expediunt."
+        },
+        {
+          "number": 23,
+          "text": "Omnia mihi licent, sed non omnia dificat."
+        },
+        {
+          "number": 24,
+          "text": "Nemo quod suum est qurat, sed quod alterius."
+        },
+        {
+          "number": 25,
+          "text": "Omne quod in macello venit, manducate, nihil interrogantes propter conscientiam."
+        },
+        {
+          "number": 26,
+          "text": "Domini est terra, et plenitudo ejus."
+        },
+        {
+          "number": 27,
+          "text": "Si quis vocat vos infidelium, et vultis ire: omne quod vobis apponitur, manducate, nihil interrogantes propter conscientiam."
+        },
+        {
+          "number": 28,
+          "text": "Si quis autem dixerit: Hoc immolatum est idolis: nolite manducare propter illum qui indicavit, et propter conscientiam:"
+        },
+        {
+          "number": 29,
+          "text": "conscientiam autem dico non tuam, sed alterius. Ut quid enim libertas mea judicatur ab aliena conscientia?"
+        },
+        {
+          "number": 30,
+          "text": "Si ego cum gratia participo, quid blasphemor pro eo quod gratias ago?"
+        },
+        {
+          "number": 31,
+          "text": "Sive ergo manducatis, sive bibitis, sive aliud quid facitis: omnia in gloriam Dei facite."
+        },
+        {
+          "number": 32,
+          "text": "Sine offensione estote Judis, et gentibus, et ecclesi Dei:"
+        },
+        {
+          "number": 33,
+          "text": "sicut et ego per omnia omnibus placeo, non qurens quod mihi utile est, sed quod multis: ut salvi fiant."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Imitatores mei estote, sicut et ego Christi."
+        },
+        {
+          "number": 2,
+          "text": "Laudo autem vos fratres quod per omnia mei memores estis: et sicut tradidi vobis, prcepta mea tenetis."
+        },
+        {
+          "number": 3,
+          "text": "Volo autem vos scire quod omnis viri caput, Christus est: caput autem mulieris, vir: caput vero Christi, Deus."
+        },
+        {
+          "number": 4,
+          "text": "Omnis vir orans, aut prophetans velato capite, deturpat caput suum."
+        },
+        {
+          "number": 5,
+          "text": "Omnis autem mulier orans, aut prophetans non velato capite, deturpat caput suum: unum enim est ac si decalvetur."
+        },
+        {
+          "number": 6,
+          "text": "Nam si non velatur mulier, tondeatur. Si vero turpe est mulieri tonderi, aut decalvari, velet caput suum."
+        },
+        {
+          "number": 7,
+          "text": "Vir quidem non debet velare caput suum: quoniam imago et gloria Dei est, mulier autem gloria viri est."
+        },
+        {
+          "number": 8,
+          "text": "Non enim vir ex muliere est, sed mulier ex viro."
+        },
+        {
+          "number": 9,
+          "text": "Etenim non est creatus vir propter mulierem, sed mulier propter virum."
+        },
+        {
+          "number": 10,
+          "text": "Ideo debet mulier potestatem habere supra caput propter angelos."
+        },
+        {
+          "number": 11,
+          "text": "Verumtamen neque vir sine muliere: neque mulier sine viro in Domino."
+        },
+        {
+          "number": 12,
+          "text": "Nam sicut mulier de viro, ita et vir per mulierem: omnia autem ex Deo."
+        },
+        {
+          "number": 13,
+          "text": "Vos ipsi judicate: decet mulierem non velatam orare Deum?"
+        },
+        {
+          "number": 14,
+          "text": "Nec ipsa natura docet vos, quod vir quidem si comam nutriat, ignominia est illi:"
+        },
+        {
+          "number": 15,
+          "text": "mulier vero si comam nutriat, gloria est illi: quoniam capilli pro velamine ei dati sunt."
+        },
+        {
+          "number": 16,
+          "text": "Si quis autem videtur contentiosus esse: nos talem consuetudinem non habemus, neque ecclesia Dei."
+        },
+        {
+          "number": 17,
+          "text": "Hoc autem prcipio: non laudans quod non in melius, sed in deterius convenitis."
+        },
+        {
+          "number": 18,
+          "text": "Primum quidem convenientibus vobis in ecclesiam, audio scissuras esse inter vos, et ex parte credo."
+        },
+        {
+          "number": 19,
+          "text": "Nam oportet et hreses esse, ut et qui probati sunt, manifesti fiant in vobis."
+        },
+        {
+          "number": 20,
+          "text": "Convenientibus ergo vobis in unum, jam non est Dominicam cnam manducare."
+        },
+        {
+          "number": 21,
+          "text": "Unusquisque enim suam cnam prsumit ad manducandum, et alius quidem esurit, alius autem ebrius est."
+        },
+        {
+          "number": 22,
+          "text": "Numquid domos non habetis ad manducandum, et bibendum? aut ecclesiam Dei contemnitis, et confunditis eos qui non habent? Quid dicam vobis? laudo vos? in hoc non laudo."
+        },
+        {
+          "number": 23,
+          "text": "Ego enim accepi a Domino quod et tradidi vobis, quoniam Dominus Jesus in qua nocte tradebatur, accepit panem,"
+        },
+        {
+          "number": 24,
+          "text": "et gratias agens fregit, et dixit: Accipite, et manducate: hoc est corpus meum, quod pro vobis tradetur: hoc facite in meam commemorationem."
+        },
+        {
+          "number": 25,
+          "text": "Similiter et calicem, postquam cnavit, dicens: Hic calix novum testamentum est in meo sanguine: hoc facite quotiescumque bibetis, in meam commemorationem."
+        },
+        {
+          "number": 26,
+          "text": "Quotiescumque enim manducabitis panem hunc, et calicem bibetis, mortem Domini annuntiabitis donec veniat."
+        },
+        {
+          "number": 27,
+          "text": "Itaque quicumque manducaverit panem hunc, vel biberit calicem Domini indigne, reus erit corporis et sanguinis Domini."
+        },
+        {
+          "number": 28,
+          "text": "Probet autem seipsum homo: et sic de pane illo edat, et de calice bibat."
+        },
+        {
+          "number": 29,
+          "text": "Qui enim manducat et bibit indigne, judicium sibi manducat et bibit, non dijudicans corpus Domini."
+        },
+        {
+          "number": 30,
+          "text": "Ideo inter vos multi infirmi et imbecilles, et dormiunt multi."
+        },
+        {
+          "number": 31,
+          "text": "Quod si nosmetipsos dijudicaremus, non utique judicaremur."
+        },
+        {
+          "number": 32,
+          "text": "Dum judicamur autem, a Domino corripimur, ut non cum hoc mundo damnemur."
+        },
+        {
+          "number": 33,
+          "text": "Itaque fratres mei, cum convenitis ad manducandum, invicem exspectate."
+        },
+        {
+          "number": 34,
+          "text": "Si quis esurit, domi manducet, ut non in judicium conveniatis. Cetera autem, cum venero, disponam."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De spiritualibus autem, nolo vos ignorare fratres."
+        },
+        {
+          "number": 2,
+          "text": "Scitis quoniam cum gentes essetis, ad simulacra muta prout ducebamini euntes."
+        },
+        {
+          "number": 3,
+          "text": "Ideo notum vobis facio, quod nemo in Spiritu Dei loquens, dicit anathema Jesu. Et nemo potest dicere, Dominus Jesus, nisi in Spiritu Sancto."
+        },
+        {
+          "number": 4,
+          "text": "Divisiones vero gratiarum sunt, idem autem Spiritus:"
+        },
+        {
+          "number": 5,
+          "text": "et divisiones ministrationum sunt, idem autem Dominus:"
+        },
+        {
+          "number": 6,
+          "text": "et divisiones operationum sunt, idem vero Deus qui operatur omnia in omnibus."
+        },
+        {
+          "number": 7,
+          "text": "Unicuique autem datur manifestatio Spiritus ad utilitatem."
+        },
+        {
+          "number": 8,
+          "text": "Alii quidem per Spiritum datur sermo sapienti: alii autem sermo scienti secundum eumdem Spiritum:"
+        },
+        {
+          "number": 9,
+          "text": "alteri fides in eodem Spiritu: alii gratia sanitatum in uno Spiritu:"
+        },
+        {
+          "number": 10,
+          "text": "alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum."
+        },
+        {
+          "number": 11,
+          "text": "Hc autem omnia operantur unus atque idem Spiritus, dividens singulis prout vult."
+        },
+        {
+          "number": 12,
+          "text": "Sicut enim corpus unum est, et membra habet multa, omnia autem membra corporis cum sint multa, unum tamen corpus sunt: ita et Christus."
+        },
+        {
+          "number": 13,
+          "text": "Etenim in uno Spiritu omnes nos in unum corpus baptizati sumus, sive Judi, sive gentiles, sive servi, sive liberi: et omnes in uno Spiritu potati sumus."
+        },
+        {
+          "number": 14,
+          "text": "Nam et corpus non est unum membrum, sed multa."
+        },
+        {
+          "number": 15,
+          "text": "Si dixerit pes: Quoniam non sum manus, non sum de corpore: num ideo non est de corpore?"
+        },
+        {
+          "number": 16,
+          "text": "Et si dixerit auris: Quoniam non sum oculus, non sum de corpore: num ideo est de corpore?"
+        },
+        {
+          "number": 17,
+          "text": "Si totum corpus oculus: ubi auditus? Si totum auditus: ubi odoratus?"
+        },
+        {
+          "number": 18,
+          "text": "Nunc autem posuit Deus membra, unumquodque eorum in corpore sicut voluit."
+        },
+        {
+          "number": 19,
+          "text": "Quod si essent omnia unum membrum, ubi corpus?"
+        },
+        {
+          "number": 20,
+          "text": "Nunc autem multa quidem membra, unum autem corpus."
+        },
+        {
+          "number": 21,
+          "text": "Non potest autem oculus dicere manui: Opera tua non indigeo: aut iterum caput pedibus: Non estis mihi necessarii."
+        },
+        {
+          "number": 22,
+          "text": "Sed multo magis qu videntur membra corporis infirmiora esse, necessariora sunt:"
+        },
+        {
+          "number": 23,
+          "text": "et qu putamus ignobiliora membra esse corporis, his honorem abundantiorem circumdamus: et qu inhonesta sunt nostra, abundantiorem honestatem habent."
+        },
+        {
+          "number": 24,
+          "text": "Honesta autem nostra nullius egent: sed Deus temperavit corpus, ei cui deerat, abundationem tribuendo honorem,"
+        },
+        {
+          "number": 25,
+          "text": "ut non sit schisma in corpore, sed idipsum pro invicem sollicita sint membra."
+        },
+        {
+          "number": 26,
+          "text": "Et si quid patitur unum membrum, compatiuntur omnia membra: sive gloriatur unum membrum, congaudent omnia membra."
+        },
+        {
+          "number": 27,
+          "text": "Vos autem estis corpus Christi, et membra de membro."
+        },
+        {
+          "number": 28,
+          "text": "Et quosdam quidem posuit Deus in ecclesia primum apostolos, secundo prophetas, exinde doctores, deinde virtutes, exinde gratias curationum, opitulationes, gubernationes, genera linguarum, interpretationes sermonum."
+        },
+        {
+          "number": 29,
+          "text": "Numquid omnes apostoli? numquid omnes prophet? numquid omnes doctores?"
+        },
+        {
+          "number": 30,
+          "text": "numquid omnes virtutes? numquid omnes gratiam habent curationum? numquid omnes linguis loquuntur? numquid omnes interpretantur?"
+        },
+        {
+          "number": 31,
+          "text": "mulamini autem charismata meliora. Et adhuc excellentiorem viam vobis demonstro."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Si linguis hominum loquar, et angelorum, caritatem autem non habeam, factus sum velut s sonans, aut cymbalum tinniens."
+        },
+        {
+          "number": 2,
+          "text": "Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam: et si habuero omnem fidem ita ut montes transferam, caritatem autem non habuero, nihil sum."
+        },
+        {
+          "number": 3,
+          "text": "Et si distribuero in cibos pauperum omnes facultates meas, et si tradidero corpus meum ita ut ardeam, caritatem autem non habuero, nihil mihi prodest."
+        },
+        {
+          "number": 4,
+          "text": "Caritas patiens est, benigna est. Caritas non mulatur, non agit perperam, non inflatur,"
+        },
+        {
+          "number": 5,
+          "text": "non est ambitiosa, non qurit qu sua sunt, non irritatur, non cogitat malum,"
+        },
+        {
+          "number": 6,
+          "text": "non gaudet super iniquitate, congaudet autem veritati:"
+        },
+        {
+          "number": 7,
+          "text": "omnia suffert, omnia credit, omnia sperat, omnia sustinet."
+        },
+        {
+          "number": 8,
+          "text": "Caritas numquam excidit: sive propheti evacuabuntur, sive lingu cessabunt, sive scientia destruetur."
+        },
+        {
+          "number": 9,
+          "text": "Ex parte enim cognoscimus, et ex parte prophetamus."
+        },
+        {
+          "number": 10,
+          "text": "Cum autem venerit quod perfectum est, evacuabitur quod ex parte est."
+        },
+        {
+          "number": 11,
+          "text": "Cum essem parvulus, loquebar ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi qu erant parvuli."
+        },
+        {
+          "number": 12,
+          "text": "Videmus nunc per speculum in nigmate: tunc autem facie ad faciem. Nunc cognosco ex parte: tunc autem cognoscam sicut et cognitus sum."
+        },
+        {
+          "number": 13,
+          "text": "Nunc autem manent fides, spes, caritas, tria hc: major autem horum est caritas."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sectamini caritatem, mulamini spiritualia: magis autem ut prophetetis."
+        },
+        {
+          "number": 2,
+          "text": "Qui enim loquitur lingua, non hominibus loquitur, sed Deo: nemo enim audit. Spiritu autem loquitur mysteria."
+        },
+        {
+          "number": 3,
+          "text": "Nam qui prophetat, hominibus loquitur ad dificationem, et exhortationem, et consolationem."
+        },
+        {
+          "number": 4,
+          "text": "Qui loquitur lingua, semetipsum dificat: qui autem prophetat, ecclesiam Dei dificat."
+        },
+        {
+          "number": 5,
+          "text": "Volo autem omnes vos loqui linguis: magis autem prophetare. Nam major est qui prophetat, quam qui loquitur linguis; nisi forte interpretetur ut ecclesia dificationem accipiat."
+        },
+        {
+          "number": 6,
+          "text": "Nunc autem, fratres, si venero ad vos linguis loquens: quid vobis prodero, nisi vobis loquar aut in revelatione, aut in scientia, aut in prophetia, aut in doctrina?"
+        },
+        {
+          "number": 7,
+          "text": "Tamen qu sine anima sunt vocem dantia, sive tibia, sive cithara; nisi distinctionem sonituum dederint, quomodo scietur id quod canitur, aut quod citharizatur?"
+        },
+        {
+          "number": 8,
+          "text": "Etenim si incertam vocem det tuba, quis parabit se ad bellum?"
+        },
+        {
+          "number": 9,
+          "text": "Ita et vos per linguam nisi manifestum sermonem dederitis: quomodo scietur id quod dicitur? eritis enim in ara loquentes."
+        },
+        {
+          "number": 10,
+          "text": "Tam multa, ut puta genera linguarum sunt in hoc mundo: et nihil sine voce est."
+        },
+        {
+          "number": 11,
+          "text": "Si ergo nesciero virtutem vocis, ero ei, cui loquor, barbarus: et qui loquitur, mihi barbarus."
+        },
+        {
+          "number": 12,
+          "text": "Sic et vos, quoniam mulatores estis spirituum, ad dificationem ecclesi qurite ut abundetis."
+        },
+        {
+          "number": 13,
+          "text": "Et ideo qui loquitur lingua, oret ut interpretetur."
+        },
+        {
+          "number": 14,
+          "text": "Nam si orem lingua, spiritus meus orat, mens autem mea sine fructu est."
+        },
+        {
+          "number": 15,
+          "text": "Quid ergo est? Orabo spiritu, orabo et mente: psallam spiritu, psallam et mente."
+        },
+        {
+          "number": 16,
+          "text": "Ceterum si benedixeris spiritu, qui supplet locum idiot, quomodo dicet: Amen, super tuam benedictionem? quoniam quid dicas, nescit."
+        },
+        {
+          "number": 17,
+          "text": "Nam tu quidem bene gratias agis, sed alter non dificatur."
+        },
+        {
+          "number": 18,
+          "text": "Gratias ago Deo meo, quod omnium vestrum lingua loquor."
+        },
+        {
+          "number": 19,
+          "text": "Sed in ecclesia volo quinque verba sensu meo loqui, ut et alios instruam: quam decem millia verborum in lingua."
+        },
+        {
+          "number": 20,
+          "text": "Fratres, nolite pueri effici sensibus, sed malitia parvuli estote: sensibus autem perfecti estote."
+        },
+        {
+          "number": 21,
+          "text": "In lege scriptum est: Quoniam in aliis linguis et labiis aliis loquar populo huic: et nec sic exaudient me, dicit Dominus."
+        },
+        {
+          "number": 22,
+          "text": "Itaque lingu in signum sunt non fidelibus, sed infidelibus: propheti autem non infidelibus, sed fidelibus."
+        },
+        {
+          "number": 23,
+          "text": "Si ergo conveniat universa ecclesia in unum, et omnes linguis loquantur, intrent autem idiot, aut infideles: nonne dicent quod insanitis?"
+        },
+        {
+          "number": 24,
+          "text": "Si autem omnes prophetent, intret autem quis infidelis, vel idiota, convincitur ab omnibus, dijudicatur ab omnibus:"
+        },
+        {
+          "number": 25,
+          "text": "occulta cordis ejus manifesta fiunt: et ita cadens in faciem adorabit Deum, pronuntians quod vere Deus in vobis sit."
+        },
+        {
+          "number": 26,
+          "text": "Quid ergo est, fratres? Cum convenitis, unusquisque vestrum psalmum habet, doctrinam habet, apocalypsim habet, linguam habet, interpretationem habet: omnia ad dificationem fiant."
+        },
+        {
+          "number": 27,
+          "text": "Sive lingua quis loquitur, secundum duos, aut ut multum tres, et per partes, et unus interpretatur."
+        },
+        {
+          "number": 28,
+          "text": "Si autem non fuerit interpres, taceat in ecclesia: sibi autem loquatur, et Deo."
+        },
+        {
+          "number": 29,
+          "text": "Prophet autem duo, aut tres dicant, et ceteri dijudicent."
+        },
+        {
+          "number": 30,
+          "text": "Quod si alii revelatum fuerit sedenti, prior taceat."
+        },
+        {
+          "number": 31,
+          "text": "Potestis enim omnes per singulos prophetare: ut omnes discant, et omnes exhortentur:"
+        },
+        {
+          "number": 32,
+          "text": "et spiritus prophetarum prophetis subjecti sunt."
+        },
+        {
+          "number": 33,
+          "text": "Non enim est dissensionis Deus, sed pacis: sicut et in omnibus ecclesiis sanctorum doceo."
+        },
+        {
+          "number": 34,
+          "text": "Mulieres in ecclesiis taceant, non enim permittitur eis loqui, sed subditas esse, sicut et lex dicit."
+        },
+        {
+          "number": 35,
+          "text": "Si quid autem volunt discere, domi viros suos interrogent. Turpe est enim mulieri loqui in ecclesia."
+        },
+        {
+          "number": 36,
+          "text": "An a vobis verbum Dei processit? aut in vos solos pervenit?"
+        },
+        {
+          "number": 37,
+          "text": "Si quis videtur propheta esse, aut spiritualis, cognoscat qu scribo vobis, quia Domini sunt mandata."
+        },
+        {
+          "number": 38,
+          "text": "Si quis autem ignorat, ignorabitur."
+        },
+        {
+          "number": 39,
+          "text": "Itaque fratres mulamini prophetare: et loqui linguis nolite prohibere."
+        },
+        {
+          "number": 40,
+          "text": "Omnia autem honeste, et secundum ordinem fiant."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Notum autem vobis facio, fratres, Evangelium, quod prdicavi vobis, quod et accepistis, in quo et statis,"
+        },
+        {
+          "number": 2,
+          "text": "per quod et salvamini: qua ratione prdicaverim vobis, si tenetis, nisi frustra credidistis."
+        },
+        {
+          "number": 3,
+          "text": "Tradidi enim vobis in primis quod et accepi: quoniam Christus mortuus est pro peccatis nostris secundum Scripturas:"
+        },
+        {
+          "number": 4,
+          "text": "et quia sepultus est, et quia resurrexit tertia die secundum Scripturas:"
+        },
+        {
+          "number": 5,
+          "text": "et quia visus est Ceph, et post hoc undecim:"
+        },
+        {
+          "number": 6,
+          "text": "deinde visus est plus quam quingentis fratribus simul: ex quibus multi manent usque adhuc, quidam autem dormierunt:"
+        },
+        {
+          "number": 7,
+          "text": "deinde visus est Jacobo, deinde Apostolis omnibus:"
+        },
+        {
+          "number": 8,
+          "text": "novissime autem omnium tamquam abortivo, visus est et mihi."
+        },
+        {
+          "number": 9,
+          "text": "Ego enim sum minimus Apostolorum, qui non sum dignus vocari Apostolus, quoniam persecutus sum ecclesiam Dei."
+        },
+        {
+          "number": 10,
+          "text": "Gratia autem Dei sum id quod sum, et gratia ejus in me vacua non fuit, sed abundantius illis omnibus laboravi: non ego autem, sed gratia Dei mecum:"
+        },
+        {
+          "number": 11,
+          "text": "sive enim ego, sive illi: sic prdicamus, et sic credidistis."
+        },
+        {
+          "number": 12,
+          "text": "Si autem Christus prdicatur quod resurrexit a mortuis, quomodo quidam dicunt in vobis, quoniam resurrectio mortuorum non est?"
+        },
+        {
+          "number": 13,
+          "text": "Si autem resurrectio mortuorum non est: neque Christus resurrexit."
+        },
+        {
+          "number": 14,
+          "text": "Si autem Christus non resurrexit, inanis est ergo prdicatio nostra, inanis est et fides vestra:"
+        },
+        {
+          "number": 15,
+          "text": "invenimur autem et falsi testes Dei: quoniam testimonium diximus adversus Deum quod suscitaverit Christum, quem non suscitavit, si mortui non resurgunt."
+        },
+        {
+          "number": 16,
+          "text": "Nam si mortui non resurgunt, neque Christus resurrexit."
+        },
+        {
+          "number": 17,
+          "text": "Quod si Christus non resurrexit, vana est fides vestra: adhuc enim estis in peccatis vestris."
+        },
+        {
+          "number": 18,
+          "text": "Ergo et qui dormierunt in Christo, perierunt."
+        },
+        {
+          "number": 19,
+          "text": "Si in hac vita tantum in Christo sperantes sumus, miserabiliores sumus omnibus hominibus."
+        },
+        {
+          "number": 20,
+          "text": "Nunc autem Christus resurrexit a mortuis primiti dormientium,"
+        },
+        {
+          "number": 21,
+          "text": "quoniam quidem per hominem mors, et per hominem resurrectio mortuorum."
+        },
+        {
+          "number": 22,
+          "text": "Et sicut in Adam omnes moriuntur, ita et in Christo omnes vivificabuntur."
+        },
+        {
+          "number": 23,
+          "text": "Unusquisque autem in suo ordine, primiti Christus: deinde ii qui sunt Christi, qui in adventu ejus crediderunt."
+        },
+        {
+          "number": 24,
+          "text": "Deinde finis: cum tradiderit regnum Deo et Patri, cum evacuaverit omnem principatum, et potestatem, et virtutem."
+        },
+        {
+          "number": 25,
+          "text": "Oportet autem illum regnare donec ponat omnes inimicos sub pedibus ejus."
+        },
+        {
+          "number": 26,
+          "text": "Novissima autem inimica destruetur mors: omnia enim subjecit pedibus ejus. Cum autem dicat:"
+        },
+        {
+          "number": 27,
+          "text": "Omnia subjecta sunt ei, sine dubio prter eum qui subjecit ei omnia."
+        },
+        {
+          "number": 28,
+          "text": "Cum autem subjecta fuerint illi omnia: tunc et ipse Filius subjectus erit ei, qui subjecit sibi omnia, ut sit Deus omnia in omnibus."
+        },
+        {
+          "number": 29,
+          "text": "Alioquin quid facient qui baptizantur pro mortuis, si omnino mortui non resurgunt? ut quid et baptizantur pro illis?"
+        },
+        {
+          "number": 30,
+          "text": "ut quid et nos periclitamur omni hora?"
+        },
+        {
+          "number": 31,
+          "text": "Quotidie morior per vestram gloriam, fratres, quam habeo in Christo Jesu Domino nostro."
+        },
+        {
+          "number": 32,
+          "text": "Si secundum hominem ad bestias pugnavi Ephesi, quid mihi prodest, si mortui non resurgunt? Manducemus, et bibamus, cras enim moriemur."
+        },
+        {
+          "number": 33,
+          "text": "Nolite seduci: corrumpunt mores bonos colloquia mala."
+        },
+        {
+          "number": 34,
+          "text": "Evigilate justi, et nolite peccare: ignorantiam enim Dei quidam habent, ad reverentiam vobis loquor."
+        },
+        {
+          "number": 35,
+          "text": "Sed dicet aliquis: Quomodo resurgunt mortui? qualive corpore venient?"
+        },
+        {
+          "number": 36,
+          "text": "Insipiens, tu quod seminas non vivificatur, nisi prius moriatur:"
+        },
+        {
+          "number": 37,
+          "text": "et quod seminas, non corpus, quod futurum est, seminas, sed nudum granum, ut puta tritici, aut alicujus ceterorum."
+        },
+        {
+          "number": 38,
+          "text": "Deus autem dat illi corpus sicut vult: ut unicuique seminum proprium corpus."
+        },
+        {
+          "number": 39,
+          "text": "Non omnis caro, eadem caro: sed alia quidem hominum, alia vero pecorum, alia volucrum, alia autem piscium."
+        },
+        {
+          "number": 40,
+          "text": "Et corpora clestia, et corpora terrestria: sed alia quidem clestium gloria, alia autem terrestrium."
+        },
+        {
+          "number": 41,
+          "text": "Alia claritas solis, alia claritas lun, et alia claritas stellarum. Stella enim a stella differt in claritate:"
+        },
+        {
+          "number": 42,
+          "text": "sic et resurrectio mortuorum. Seminatur in corruptione, surget in incorruptione."
+        },
+        {
+          "number": 43,
+          "text": "Seminatur in ignobilitate, surget in gloria: seminatur in infirmitate, surget in virtute:"
+        },
+        {
+          "number": 44,
+          "text": "seminatur corpus animale, surget corpus spiritale. Si est corpus animale, est et spiritale, sicut scriptum est:"
+        },
+        {
+          "number": 45,
+          "text": "Factus est primus homo Adam in animam viventem, novissimus Adam in spiritum vivificantem."
+        },
+        {
+          "number": 46,
+          "text": "Sed non prius quod spiritale est, sed quod animale: deinde quod spiritale."
+        },
+        {
+          "number": 47,
+          "text": "Primus homo de terra, terrenus: secundus homo de clo, clestis."
+        },
+        {
+          "number": 48,
+          "text": "Qualis terrenus, tales et terreni: et qualis clestis, tales et clestes."
+        },
+        {
+          "number": 49,
+          "text": "Igitur, sicut portavimus imaginem terreni, portemus et imaginem clestis."
+        },
+        {
+          "number": 50,
+          "text": "Hoc autem dico, fratres: quia caro et sanguis regnum Dei possidere non possunt: neque corruptio incorruptelam possidebit."
+        },
+        {
+          "number": 51,
+          "text": "Ecce mysterium vobis dico: omnes quidem resurgemus, sed non omnes immutabimur."
+        },
+        {
+          "number": 52,
+          "text": "In momento, in ictu oculi, in novissima tuba: canet enim tuba, et mortui resurgent incorrupti: et nos immutabimur."
+        },
+        {
+          "number": 53,
+          "text": "Oportet enim corruptibile hoc induere incorruptionem: et mortale hoc induere immortalitatem."
+        },
+        {
+          "number": 54,
+          "text": "Cum autem mortale hoc induerit immortalitatem, tunc fiet sermo, qui scriptus est: Absorpta est mors in victoria."
+        },
+        {
+          "number": 55,
+          "text": "Ubi est mors victoria tua? ubi est mors stimulus tuus?"
+        },
+        {
+          "number": 56,
+          "text": "Stimulus autem mortis peccatum est: virtus vero peccati lex."
+        },
+        {
+          "number": 57,
+          "text": "Deo autem gratias, qui dedit nobis victoriam per Dominum nostrum Jesum Christum."
+        },
+        {
+          "number": 58,
+          "text": "Itaque fratres mei dilecti, stabiles estote, et immobiles: abundantes in opere Domini semper, scientes quod labor vester non est inanis in Domino."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "De collectis autem, qu fiunt in sanctos, sicut ordinavi ecclesiis Galati, ita et vos facite."
+        },
+        {
+          "number": 2,
+          "text": "Per unam sabbati unusquisque vestrum apud se seponat, recondens quod ei bene placuerit: ut non, cum venero, tunc collect fiant."
+        },
+        {
+          "number": 3,
+          "text": "Cum autem prsens fuero, quos probaveritis per epistolas, hos mittam perferre gratiam vestram in Jerusalem."
+        },
+        {
+          "number": 4,
+          "text": "Quod si dignum fuerit ut et ego eam, mecum ibunt."
+        },
+        {
+          "number": 5,
+          "text": "Veniam autem ad vos, cum Macedoniam pertransiero: nam Macedoniam pertransibo."
+        },
+        {
+          "number": 6,
+          "text": "Apud vos autem forsitan manebo, vel etiam hiemabo: ut vos me deducatis quocumque iero."
+        },
+        {
+          "number": 7,
+          "text": "Nolo enim vos modo in transitu videre, spero enim me aliquantulum temporis manere apud vos, si Dominus permiserit."
+        },
+        {
+          "number": 8,
+          "text": "Permanebo autem Ephesi usque ad Pentecosten."
+        },
+        {
+          "number": 9,
+          "text": "Ostium enim mihi apertum est magnum, et evidens: et adversarii multi."
+        },
+        {
+          "number": 10,
+          "text": "Si autem venerit Timotheus, videte ut sine timore sit apud vos: opus enim Domini operatur, sicut et ego."
+        },
+        {
+          "number": 11,
+          "text": "Ne quis ergo illum spernat: deducite autem illum in pace, ut veniat ad me: exspecto enim illum cum fratribus."
+        },
+        {
+          "number": 12,
+          "text": "De Apollo autem fratre vobis notum facio, quoniam multum rogavi eum ut veniret ad vos cum fratribus: et utique non fuit voluntas ut nunc veniret: veniet autem, cum ei vacuum fuerit."
+        },
+        {
+          "number": 13,
+          "text": "Vigilate, state in fide, viriliter agite, et confortamini."
+        },
+        {
+          "number": 14,
+          "text": "Omnia vestra in caritate fiant."
+        },
+        {
+          "number": 15,
+          "text": "Obsecro autem vos fratres, nostis domum Stephan, et Fortunati, et Achaici: quoniam sunt primiti Achai, et in ministerium sanctorum ordinaverunt seipsos:"
+        },
+        {
+          "number": 16,
+          "text": "ut et vos subditi sitis ejusmodi, et omni cooperanti, et laboranti."
+        },
+        {
+          "number": 17,
+          "text": "Gaudeo autem in prsentia Stephan, et Fortunati, et Achaici: quoniam id, quod vobis deerat, ipsi suppleverunt:"
+        },
+        {
+          "number": 18,
+          "text": "refecerunt enim et meum spiritum, et vestrum. Cognoscite ergo qui hujusmodi sunt."
+        },
+        {
+          "number": 19,
+          "text": "Salutant vos ecclesi Asi. Salutant vos in Domino multum, Aquila et Priscilla cum domestica sua ecclesia: apud quos et hospitor."
+        },
+        {
+          "number": 20,
+          "text": "Salutant vos omnes fratres. Salutate invicem in osculo sancto."
+        },
+        {
+          "number": 21,
+          "text": "Salutatio, mea manu Pauli."
+        },
+        {
+          "number": 22,
+          "text": "Si quis non amat Dominum nostrum Jesum Christum, sit anathema, Maran Atha."
+        },
+        {
+          "number": 23,
+          "text": "Gratia Domini nostri Jesu Christi vobiscum."
+        },
+        {
+          "number": 24,
+          "text": "Caritas mea cum omnibus vobis in Christo Jesu. Amen."
+        }
+      ]
+    }
+  ]
+}

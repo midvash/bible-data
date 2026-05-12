@@ -1,0 +1,1179 @@
+{
+  "version": "diodati",
+  "book": "Ezra",
+  "bookId": 15,
+  "englishName": "Ezra",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "NELL'anno primo di Ciro, re di Persia (acciocchè si adempiesse la parola del Signore, [pronunziata] per la bocca di Geremia), il Signore eccitò lo spirito di Ciro, re di Persia; ed egli fece andare un bando per tutto il suo regno, eziandio con lettere, dicendo:"
+        },
+        {
+          "number": 2,
+          "text": "Così ha detto Ciro, re di Persia: Il Signore Iddio del cielo mi ha dati tutti i regni della terra; egli ancora mi ha imposto di edificargli una Casa in Gerusalemme, che [è] in Giudea."
+        },
+        {
+          "number": 3,
+          "text": "Chi di voi [è] dell'universo suo popolo? l'Iddio suo sia con lui, e ritornisene in Gerusalemme, ch'[è] in Giudea, ed edifichi la Casa del Signore Iddio d'Israele, [ch]'è l'Iddio che [abita] in Gerusalemme."
+        },
+        {
+          "number": 4,
+          "text": "E se vi è alcuno, in qualunque luogo egli dimori, che sia rimasto indietro, sovvengangli le genti del suo luogo, d'oro, e d'argento, e di facoltà, e di bestie da vettura, con qualche volontaria offerta per la Casa di Dio, che [abita] in Gerusalemme."
+        },
+        {
+          "number": 5,
+          "text": "Allora i capi delle [famiglie] paterne di Giuda e di Beniamino, e i sacerdoti, e i Leviti, insieme con tutti quelli de' quali Iddio eccitò lo spirito per ritornarsene, per riedificar la Casa del Signore, che [è] in Gerusalemme, si misero in cammino."
+        },
+        {
+          "number": 6,
+          "text": "E tutti i lor vicini d'ogn'intorno sovvennero loro di vasellamenti d'argento, d'oro, di facoltà, e di bestie da vettura, e di cose preziose; oltre a tutto quello che fu volontariamente offerto."
+        },
+        {
+          "number": 7,
+          "text": "Il re Ciro trasse eziandio fuori gli arredi della Casa del Signore, i quali Nebucadnesar avea tratti fuor di Gerusalemme, e posti nella Casa del suo dio;"
+        },
+        {
+          "number": 8,
+          "text": "Ciro, re di Persia, li trasse fuori per le mani di Mitredat, tesoriere, e li consegnò a conto a Sesbassar, principe di Giuda."
+        },
+        {
+          "number": 9,
+          "text": "E questo [era] il conto di essi: trenta bacini d'oro, mille bacini di argento, ventinove coltelli,"
+        },
+        {
+          "number": 10,
+          "text": "trenta coppe d'oro, e quattrocento dieci coppe d'argento seconde, e mille altri vasellamenti."
+        },
+        {
+          "number": 11,
+          "text": "Tutti questi vasellamenti, [con altri] d'oro e d'argento, [erano in numero di] cinquemila quattrocento. Sesbassar il riportò tutti, nel medesimo tempo che quelli ch'erano in cattività furono ricondotti di Babilonia in Gerusalemme."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "OR questi [sono] gli uomini della provincia, che ritornarono dalla cattività, d'infra la moltitudine che Nebucadnesar, re di Babilonia, avea menata in cattività in Babilonia; e ritornarono in Gerusalemme ed in Giudea, ciascuno alla sua città."
+        },
+        {
+          "number": 2,
+          "text": "I quali vennero con Zorobabel, Iesua, Neemia, Seraia, Reelaia, Mardocheo, Bilsan, Mispar, Bigvai, Rehum, [e] Baana. Il numero degli uomini del popolo d'Israele [fu questo:]"
+        },
+        {
+          "number": 3,
+          "text": "I figliuoli di Paros [furono] due mila censettantadue;"
+        },
+        {
+          "number": 4,
+          "text": "i figliuoli di Sefatia trecensettantadue;"
+        },
+        {
+          "number": 5,
+          "text": "i figliuoli di Ara settecensettantacinque;"
+        },
+        {
+          "number": 6,
+          "text": "i figliuoli di Pahat-Moab, [divisi] ne' figliuoli di Iesua, [e] di Ioab, duemila ottocento-dodici;"
+        },
+        {
+          "number": 7,
+          "text": "i figliuoli di Elam mille dugentocinquantaquattro;"
+        },
+        {
+          "number": 8,
+          "text": "i figliuoli di Zattu novecenquarantacinque;"
+        },
+        {
+          "number": 9,
+          "text": "i figliuoli di Zaccai settecensessanta;"
+        },
+        {
+          "number": 10,
+          "text": "i figliuoli di Bani seicenquarantadue;"
+        },
+        {
+          "number": 11,
+          "text": "i figliuoli di Bebai seicenventitrè;"
+        },
+        {
+          "number": 12,
+          "text": "i figliuoli di Azgad mille dugenventidue;"
+        },
+        {
+          "number": 13,
+          "text": "i figliuoli di Adonicam seicensessantasei;"
+        },
+        {
+          "number": 14,
+          "text": "i figliuoli di Bigvai duemila cinquantasei;"
+        },
+        {
+          "number": 15,
+          "text": "i figliuoli di Adin quattrocencinquantaquattro;"
+        },
+        {
+          "number": 16,
+          "text": "i figliuoli di Ater, per Ezechia, novantotto;"
+        },
+        {
+          "number": 17,
+          "text": "i figliuoli di Besai trecenventitrè;"
+        },
+        {
+          "number": 18,
+          "text": "i figliuoli di Iora centododici;"
+        },
+        {
+          "number": 19,
+          "text": "i figliuoli di Hasum dugenventitrè;"
+        },
+        {
+          "number": 20,
+          "text": "i figliuoli di Ghibbar novantacinque;"
+        },
+        {
+          "number": 21,
+          "text": "i figliuoli di Bet-lehem cenventitrè;"
+        },
+        {
+          "number": 22,
+          "text": "gli uomini di Netofa cinquantasei;"
+        },
+        {
+          "number": 23,
+          "text": "gli uomini di Anatot cenventotto;"
+        },
+        {
+          "number": 24,
+          "text": "gli uomini di Azmavet quarantadue;"
+        },
+        {
+          "number": 25,
+          "text": "gli uomini di Chiriat-arim, di Chefira, e di Beerot, settecenquarantatrè;"
+        },
+        {
+          "number": 26,
+          "text": "gli uomini di Rama e di Gheba, seicenventuno;"
+        },
+        {
+          "number": 27,
+          "text": "gli uomini di Micmas cenventidue;"
+        },
+        {
+          "number": 28,
+          "text": "gli uomini di Betel e di Ai dugenventitrè;"
+        },
+        {
+          "number": 29,
+          "text": "i figliuoli di Nebo cinquantadue;"
+        },
+        {
+          "number": 30,
+          "text": "i figliuoli di Magbis cencinquantasei;"
+        },
+        {
+          "number": 31,
+          "text": "i figliuoli d'un altro Elam mille dugencinquantaquattro;"
+        },
+        {
+          "number": 32,
+          "text": "i figliuoli di Harim trecenventi;"
+        },
+        {
+          "number": 33,
+          "text": "i figliuoli di Lod, di Hadid, e d'Ono, settecenventicinque;"
+        },
+        {
+          "number": 34,
+          "text": "i figliuoli di Gerico trecenquarantacinque;"
+        },
+        {
+          "number": 35,
+          "text": "i figliuoli di Senaa tremila seicentrenta."
+        },
+        {
+          "number": 36,
+          "text": "De' sacerdoti: i figliuoli di Iedaia, della famiglia di Iesua, novecensettantatrè;"
+        },
+        {
+          "number": 37,
+          "text": "i figliuoli d'Immer mille cinquantadue;"
+        },
+        {
+          "number": 38,
+          "text": "i figliuoli di Pashur mille dugenquarantasette;"
+        },
+        {
+          "number": 39,
+          "text": "i figliuoli di Harim mille diciassette."
+        },
+        {
+          "number": 40,
+          "text": "De' Leviti: i figliuoli di Iesua, e di Cadmiel, d'infra i figliuoli di Hodavia, settantaquattro."
+        },
+        {
+          "number": 41,
+          "text": "De' cantori: i figliuoli di Asaf, cenventotto."
+        },
+        {
+          "number": 42,
+          "text": "De' figliuoli de' portinai: i figliuoli di Sallum, i figliuoli di Ater, i figliuoli di Talmon, i figliuoli di Accub, i figliuoli di Hatita, i figliuoli di Sobai; in tutto centrentanove."
+        },
+        {
+          "number": 43,
+          "text": "De' Netinei: i figliuoli di Siha, i figliuoli di Hasufa, i figliuoli di Tabbaot,"
+        },
+        {
+          "number": 44,
+          "text": "i figliuoli di Cheros, i figliuoli di Siaha, i figliuoli di Padon."
+        },
+        {
+          "number": 45,
+          "text": "I figliuoli di Lebana, i figliuoli di Hagaba, i figliuoli di Accub,"
+        },
+        {
+          "number": 46,
+          "text": "i figliuoli di Hagab, i figliuoli di Samlai, i figliuoli di Hanan,"
+        },
+        {
+          "number": 47,
+          "text": "i figliuoli di Ghiddel, i figliuoli di Gahar, i figliuoli di Reaia,"
+        },
+        {
+          "number": 48,
+          "text": "i figliuoli di Resin, i figliuoli di Necoda, i figliuoli di Gazam,"
+        },
+        {
+          "number": 49,
+          "text": "i figliuoli di Uzza, i figliuoli di Pasea, i figliuoli di Besai,"
+        },
+        {
+          "number": 50,
+          "text": "i figliuoli di Asna, i figliuoli di Meunim, i figliuoli di Nefusim,"
+        },
+        {
+          "number": 51,
+          "text": "i figliuoli di Bacbuc, i figliuoli di Hacusa, i figliuoli di Harhur,"
+        },
+        {
+          "number": 52,
+          "text": "i figliuoli di Baslut, i figliuoli di Mehida, i figliuoli di Harsa, i figliuoli di Barcos,"
+        },
+        {
+          "number": 53,
+          "text": "i figliuoli di Sisera, i figliuoli di Tema,"
+        },
+        {
+          "number": 54,
+          "text": "i figliuoli di Nesia, i figliuoli di Hatifa."
+        },
+        {
+          "number": 55,
+          "text": "De' figliuoli de' servi di Salomone: i figliuoli di Sotai, i figliuoli di Soferet, i figliuoli di Peruda, i figliuoli di Iaala,"
+        },
+        {
+          "number": 56,
+          "text": "i figliuoli di Darcon, i figliuoli di Ghiddel,"
+        },
+        {
+          "number": 57,
+          "text": "i figliuoli di Sefatia, i figliuoli di Hattil, i figliuoli di Pocheret-hassebaim, i figliuoli di Ami."
+        },
+        {
+          "number": 58,
+          "text": "Tutti i Netinei, e i figliuoli de' servi di Salomone[furono] trecennovantadue."
+        },
+        {
+          "number": 59,
+          "text": "Or costoro vennero di Telmela, [e di] Telharsa, [cioè:] Cherub, Addan, [ed] Immer, e non poterono dimostrar la casa loro paterna, nè la lor progenie, se [erano] d'Israele;"
+        },
+        {
+          "number": 60,
+          "text": "[come anche] i figliuoli di Delaia, i figliuoli di Tobia, i figliuoli di Necoda, [in numero di] seicencinquantadue."
+        },
+        {
+          "number": 61,
+          "text": "E de' figliuoli de' sacerdoti, i figliuoli di Abaia, i figliuoli di Cos, i figliuoli di Barzillai, il quale prese per moglie una delle figliuole di Barzillai Galaadita, e fu nominato del nome loro."
+        },
+        {
+          "number": 62,
+          "text": "Costoro cercarono i lor nomi fra i rassegnati nelle genealogie; ma non furono trovati; laonde furono appartati dal sacerdozio, come persone non consacrate."
+        },
+        {
+          "number": 63,
+          "text": "Ed Hattirsata disse loro che non mangiassero delle cose santissime, finchè si presentasse un sacerdote con Urim e Tummim."
+        },
+        {
+          "number": 64,
+          "text": "Questa raunanza, tutta insieme, [era di] quarantaduemila trecensessanta;"
+        },
+        {
+          "number": 65,
+          "text": "oltre a' lor servi e serve, [in numero di] settemila trecentrentasette, fra i quali [v'erano] dugento cantori e cantatrici."
+        },
+        {
+          "number": 66,
+          "text": "I lor cavalli [erano] settecentrentasei, i lor muli dugenquarantacinque,"
+        },
+        {
+          "number": 67,
+          "text": "i lor cammelli quattrocentrentacinque, gli asini seimila settecenventi."
+        },
+        {
+          "number": 68,
+          "text": "Ed [alcuni] d'infra i capi delle [famiglie] paterne, quando furono giunti alla Casa del Signore, che [è] in Gerusalemme, fecero una offerta volontaria per la Casa di Dio, per rimetterla in piè."
+        },
+        {
+          "number": 69,
+          "text": "[E] diedero nel tesoro della fabbrica, secondo il lor potere, sessantunmila dramme d'oro, e cinquemila mine d'argento, e cento robe da sacerdoti."
+        },
+        {
+          "number": 70,
+          "text": "E i sacerdoti e i Leviti, e que' del popolo, e i cantori, e i portinai, e i Netinei, abitarono nelle lor città; tutto Israele eziandio [abitò] nelle sue città."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, quando fu giunto il settimo mese, i figliuoli d'Israele [abitando] nelle [lor] città, il popolo si adunò di pari consentimento in Gerusalemme."
+        },
+        {
+          "number": 2,
+          "text": "Allora, Iesua, figliuolo di Iosadac, si levò su, co' sacerdoti, suoi fratelli; e Zorobabel, figliuolo di Sealtiel, co' suoi fratelli; e riedificarono l'Altare dell'Iddio d'Israele, per offerire sopra esso gli olocausti, come è scritto nella Legge di Mosè, uomo di Dio."
+        },
+        {
+          "number": 3,
+          "text": "E rizzarono l'Altare sopra la sua pianta; perchè aveano spavento de' popoli de' paesi [vicini]; ed offersero sopra esso olocausti al Signore: gli olocausti della mattina e della sera."
+        },
+        {
+          "number": 4,
+          "text": "Celebrarono eziandio la festa de' tabernacoli, come è scritto; ed [offersero] olocausti per ciascun giorno in [certo] numero, secondo che è ordinato giorno per giorno."
+        },
+        {
+          "number": 5,
+          "text": "E dopo questo [offersero] l'olocausto continuo, e quelli delle calendi, e di tutte le feste solenni del Signore, le quali sono santificate; e quelli di tutti coloro che offerivano alcuna offerta volontaria al Signore."
+        },
+        {
+          "number": 6,
+          "text": "Dal primo giorno del settimo mese cominciarono ad offerire olocausti al Signore. Or il Tempio del Signore non era [ancora] fondato."
+        },
+        {
+          "number": 7,
+          "text": "Ed essi diedero danari agli scarpellini, ed a' legnaiuoli; diedero eziandio vittuaglia, e bevanda, ed olio, a' Sidonii, e a' Tirii, per portar legname di cedro dal Libano al mar di Iafo, secondo la concessione che Ciro, re di Persia, avea loro fatta."
+        },
+        {
+          "number": 8,
+          "text": "E nell'anno secondo, da che furono giunti alla Casa di Dio in Gerusalemme, nel secondo mese, Zorobabel, figliuolo di Sealtiel, e Iesua, figliuolo di Iosadac, e il rimanente de' lor fratelli, sacerdoti, e Leviti, e tutti quelli ch'erano venuti dalla cattività in Gerusalemme, cominciarono [a rifare il Tempio]; e costituirono de' Leviti dall'età di vent'anni in su, per sollecitare il lavoro della Casa del Signore."
+        },
+        {
+          "number": 9,
+          "text": "Iesua eziandio, ed i suoi figliuoli e fratelli, [e] Cadmiel, co' suoi figliuoli, figliuoli di Giuda, di pari consentimento erano presenti, per sollecitar quelli che lavoravano all'opera della Casa di Dio; come ancora i figliuoli di Henadad, ed i lor figliuoli, e fratelli."
+        },
+        {
+          "number": 10,
+          "text": "Ora, come gli edificatori fondavano il Tempio del Signore, si fecero star [quivi] presenti i sacerdoti, vestiti [delle lor vesti], con trombe; ed i Leviti, figliuoli di Asaf, con cembali per lodare il Signore, secondo l'ordine di Davide, re d'Israele."
+        },
+        {
+          "number": 11,
+          "text": "E cantavano a vicenda, lodando, e celebrando il Signore, [dicendo:] Ch'egli [è] buono, che la sua benignità [è] in eterno sopra Israele. E tutto il popolo gittava gran grida, lodando il Signore, perchè la Casa del Signore si fondava."
+        },
+        {
+          "number": 12,
+          "text": "Ma molti de' sacerdoti, e dei Leviti, e de' capi delle [famiglie] paterne, [ch'erano] vecchi, e aveano veduta la primiera Casa in piè, avendo questa Casa davanti agli occhi, piangevano con gran grida, mentre molti [altri] alzavano la voce con grida d'allegrezza."
+        },
+        {
+          "number": 13,
+          "text": "E il popolo non poteva discernere la voce delle grida di allegrezza dalla voce del pianto nel popolo; perciocchè il popolo gittava gran grida, e la voce ne fu udita fin da lungi."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "OR i nemici di Giuda e di Beniamino, avendo inteso che quelli ch'erano stati in cattività, riedificavano il Tempio al Signore Iddio d'Israele,"
+        },
+        {
+          "number": 2,
+          "text": "si accostarono a Zorobabel, ed a' capi delle [famiglie] paterne, e dissero loro: [Lasciate] che noi edifichiamo con voi; perciocchè noi desideriamo ricercar l'Iddio vostro, come voi; ed anche noi gli sacrifichiamo dal tempo di Esar-haddon, re degli Assiri, il qual ci ha fatti venir qua."
+        },
+        {
+          "number": 3,
+          "text": "Ma Zorobabel, e Iesua, e gli altri capi delle [famiglie] paterne d'Israele, risposero loro: Ei non vi si conviene di edificar la Casa all'Iddio nostro con noi; ma noi congiuntamente edificheremo [la Casa] al Signore Iddio d'Israele, siccome Ciro, re di Persia, ci ha comandato."
+        },
+        {
+          "number": 4,
+          "text": "Ed il popolo del paese rendeva rimesse le mani del popolo di Giuda, e lo spaventava di fabbricare."
+        },
+        {
+          "number": 5,
+          "text": "Oltre a ciò davano pensione a certi consiglieri contro a' Giudei, per rompere il lor consiglio; [e questo durò] tutto il tempo di Ciro, re di Persia, e fino al regno di Dario, re di Persia."
+        },
+        {
+          "number": 6,
+          "text": "E sotto il regno di Assuero, al principio di esso, scrissero un'accusa contro agli abitanti di Giuda e di Gerusalemme."
+        },
+        {
+          "number": 7,
+          "text": "E poi al tempo di Artaserse, Bislam, Mitredat, Tabeel, e gli altri suoi colleghi, scrissero ad Artaserse, re di Persia; e la scrittura e la lingua della lettera [era] siriaca."
+        },
+        {
+          "number": 8,
+          "text": "Rehum, presidente del consiglio, e Simsai, segretario, scrissero una lettera al re Artaserse contro a Gerusalemme, di questo tenore."
+        },
+        {
+          "number": 9,
+          "text": "Allora Rehum, presidente del consiglio, e Simsai, segretario, e gli altri lor colleghi, i Dinei, e gli Afarsatchei, i Tarpelei, gli Afarsei, gli Archevei, i Babiloni, i Susanchei, i Dehavei, gli Elamiti,"
+        },
+        {
+          "number": 10,
+          "text": "e gli altri popoli, che il grande e glorioso Osnappar avea tramutati di stanza, e fatti abitar nella città di Samaria, e gli altri di di là dal fiume, ecc. [scrissero al re Artaserse]."
+        },
+        {
+          "number": 11,
+          "text": "(Questo è il tenor della lettera che gli mandarono.) Al re Artaserse: i tuoi servitori, gli uomini di qua dal fiume, ecc."
+        },
+        {
+          "number": 12,
+          "text": "Il re sappia che i Giudei, che son venuti d'appresso a te a noi, son giunti in Gerusalemme; [e che] riedificano quella città ribella e malvagia; e rifanno interamente le mura, ed hanno [già] racconci i fondamenti."
+        },
+        {
+          "number": 13,
+          "text": "Ora sappia il re, che se questa città è riedificata, e se le sue mura son rifatte, essi non pagheranno più tributo, nè taglia, nè gabella; e così [quella città] recherà danno alle entrate reali."
+        },
+        {
+          "number": 14,
+          "text": "Ora, conciossiachè noi siamo salariati dal palazzo, e non sia cosa conveniente a noi il vedere che il re sia schernito, perciò abbiamo mandato a fare assapere [la cosa] al re."
+        },
+        {
+          "number": 15,
+          "text": "Acciocchè cerchi nel libro delle memorie de' suoi predecessori; e tu vi troverai, e conoscerai che questa città [è] una città ribella, e dannosa ai re ed alle provincie; e che già ab antico vi si fanno dentro congiure; per la qual cagione fu distrutta."
+        },
+        {
+          "number": 16,
+          "text": "Noi facciamo assapere al re, che, se questa città è riedificata, e le sue mura son rifatte, la parte [de' suoi stati ch'è] di qua dal fiume, non sarà più sua."
+        },
+        {
+          "number": 17,
+          "text": "Il re mandò questa risposta: A Rehum, presidente del consiglio, ed a Simsai, segretario, ed agli altri lor colleghi, abitanti in Samaria; ed a [tutti] gli altri di di là dal fiume, salute ecc."
+        },
+        {
+          "number": 18,
+          "text": "La lettera, che voi ci avete mandata, è stata spiegata, [e] letta in presenza mia."
+        },
+        {
+          "number": 19,
+          "text": "E per mio comandamento, si è cercato, e trovato che cotesta città già ab antico si solleva contro ai re; che vi si fanno ribellioni e congiure;"
+        },
+        {
+          "number": 20,
+          "text": "e che già vi furono re potenti in Gerusalemme, i quali signoreggiarono in tutto [il paese ch'è] di là dal fiume; e ch'erano loro pagati tributi, taglie e gabelle."
+        },
+        {
+          "number": 21,
+          "text": "Ora [dunque] provvedete di far cessare quelle genti, acciocchè cotesta città non si riedifichi, finchè da me sia [altrimenti] ordinato;"
+        },
+        {
+          "number": 22,
+          "text": "e guardatevi di far fallo in questo; perchè si lascerebbe crescere il male in detrimento dei re?"
+        },
+        {
+          "number": 23,
+          "text": "Allora, tosto che il tenor delle lettere del re Artaserse fu letto in presenza di Rehum, e di Simsai, segretario, e de' lor colleghi, essi andarono prestamente in Gerusalemme a' Giudei, e li fecero cessare a mano armata."
+        },
+        {
+          "number": 24,
+          "text": "In quel tempo fu tralasciata l'opera della Casa di Dio, che [è] in Gerusalemme, e restò [così] tralasciata fino all'anno secondo del regno di Dario, re di Persia."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ALLORA il profeta Aggeo, e Zaccaria, figliuolo d'Iddo, profeti, [ch'erano mandati] a' Giudei ch'[erano] in Giuda e in Gerusalemme, profetizzarono loro a Nome dell'Iddio d'Israele."
+        },
+        {
+          "number": 2,
+          "text": "E Zorobabel, figliuolo di Sealtiel, e Iesua, figliuolo di Iosadac, si levarono, e ricominciarono ad edificar la Casa di Dio, che [è] in Gerusalemme; e con loro [erano] i profeti di Dio, i quali li confortavano."
+        },
+        {
+          "number": 3,
+          "text": "In quel tempo venne a loro Tattenai, governatore di qua dal fiume, e Setarboznai, ed i lor colleghi, e dissero loro così: Chi vi ha ordinato di edificar questa Casa, e di rifar queste mura?"
+        },
+        {
+          "number": 4,
+          "text": "Allora noi rispondemmo loro sopra ciò, [dicendo loro] i nomi di quelli ch'edificavano questo edificio."
+        },
+        {
+          "number": 5,
+          "text": "Ora, [perciocchè] l'occhio dell'Iddio loro [era] sopra gli Anziani de' Giudei, [coloro] non li fecero cessare, finchè la cosa pervenne a Dario; e allora riportarono lettere sopra ciò."
+        },
+        {
+          "number": 6,
+          "text": "Tenor delle lettere, le quali Tattenai, governatore di qua dal fiume, e Setarboznai, ed i suoi colleghi Afarsechei, che [erano] di qual dal fiume, mandarono al re Dario;"
+        },
+        {
+          "number": 7,
+          "text": "[nelle quali] gli mandarono il fatto. E così era scritto in esse: Al re Dario ogni salute."
+        },
+        {
+          "number": 8,
+          "text": "Il re sappia che noi siamo andati nella provincia della Giudea, alla Casa del grande Iddio, la quale si edifica di pietre pulite; e [già] i legnami son posti in su le pareti; e questa opera si fa in fretta, e si avanza nelle mani di quella gente."
+        },
+        {
+          "number": 9,
+          "text": "[Avendo ciò veduto], abbiamo domandato a quegli Anziani, e abbiam loro detto così: Chi vi ha ordinato di edificar questa Casa, e di rifar queste mura?"
+        },
+        {
+          "number": 10,
+          "text": "Abbiamo loro eziandio domandati i nomi di coloro, per farteli assapere: acciocchè [ti] scrivessimo i nomi di quelli [che sono] i principali fra loro."
+        },
+        {
+          "number": 11,
+          "text": "Ed essi ci hanno data questa risposta, dicendo: Noi siamo servitori dell'Iddio del cielo e della terra; e riedifichiamo la Casa, la quale era già molti anni innanzi stata edificata; la quale un gran re d'Israele avea già edificata e compiuta."
+        },
+        {
+          "number": 12,
+          "text": "Ma dopo che i nostri padri ebbero provocato ad ira l'Iddio del cielo, egli li diede nelle mani di Nebucadnesar, re di Babilonia, Caldeo, il qual distrusse questa Casa, e menò in cattività il popolo di essa in Babilonia."
+        },
+        {
+          "number": 13,
+          "text": "Ma l'anno primo di Ciro, re di Babilonia, egli ordinò che questa Casa di Dio fosse riedificata."
+        },
+        {
+          "number": 14,
+          "text": "Ed anche il re Ciro trasse fuor del tempio di Babilonia i vasellamenti d'oro e d'argento della Casa di Dio, i quali Nebucadnesar avea tratti fuor del Tempio, ch'[era] in Gerusalemme, e portati nel tempio di Babilonia; e quelli furon dati ad uno, nominato Sesbassar, il quale [Ciro] avea costituito governatore."
+        },
+        {
+          "number": 15,
+          "text": "E [Ciro] gli disse: Prendi questi vasellamenti, e va', e li riporta al Tempio, che [è] in Gerusalemme; e sia la Casa di Dio riedificata nel suo luogo."
+        },
+        {
+          "number": 16,
+          "text": "Allora questo Sesbassar venne, [e] pose i fondamenti della Casa di Dio, che [è] in Gerusalemme; e da quel tempo infino ad ora ella si edifica, e non [è ancora] compiuta."
+        },
+        {
+          "number": 17,
+          "text": "Ora dunque, se piace al re, ricerchisi costì nella casa de' tesori del re, [che è] in Babilonia, se egli è [vero] che da Ciro fosse fatto comandamento che questa Casa di Dio fosse riedificata in Gerusalemme; e mandici il re la sua volontà intorno a ciò."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Allora il re Dario ordinò che si ricercasse nell'archivio, nel luogo dove si riponevano i tesori in Babilonia."
+        },
+        {
+          "number": 2,
+          "text": "E fu trovato in Ecbatana, nel palazzo reale, ch'[era] nella provincia di Media, un libro, nel quale era scritto: Memoria:"
+        },
+        {
+          "number": 3,
+          "text": "L'anno primo del re Ciro, il re Ciro ordinò, intorno alla Casa di Dio in Gerusalemme, ch'essa fosse riedificata, per essere un luogo dove si sacrificassero sacrificii; e che i suoi fondamenti [fossero] saldi e forti; [e che] la sua altezza [fosse] di sessanta cubiti, [e] la sua lunghezza [parimente] di sessanta cubiti;"
+        },
+        {
+          "number": 4,
+          "text": "e che vi fossero tre ordini di pietre pulite, e un ordine di travatura nuova; e che la spesa fosse fornita dal palazzo del re."
+        },
+        {
+          "number": 5,
+          "text": "Ed anche che gli arredi d'oro e d'argento della Casa di Dio, i quali Nebucadnesar avea tratti fuor del Tempio di Gerusalemme, e portati in Babilonia, fossero restituiti, e portati nel luogo loro, nel Tempio di Gerusalemme, e fossero posti nella Casa di Dio."
+        },
+        {
+          "number": 6,
+          "text": "Ora [tu], Tattenai, governatore di là dal fiume, [e tu], Setar-boznai, e [voi] lor colleghi Afarsechei, che [siete] di là dal fiume, ritraetevi di là;"
+        },
+        {
+          "number": 7,
+          "text": "e lasciate [continuar] l'opera di cotesta Casa di Dio. Riedifichino il governatore de' Giudei, e gli Anziani loro, cotesta Casa di Dio nel suo luogo."
+        },
+        {
+          "number": 8,
+          "text": "Ed intorno a ciò che voi avete a fare inverso cotesti Anziani de' Giudei, per riedificar cotesta Casa di Dio, io ordino, che delle entrate del re, [che si traggono] da' tributi di di là dal fiume, le spese sieno prontamente fornite a quelle genti; acciocchè non si facciano restare;"
+        },
+        {
+          "number": 9,
+          "text": "e che sia loro dato giorno per giorno, senza alcun fallo, ciò che sarà necessario: buoi, e montoni, ed agnelli, per [fare] olocausti all'Iddio del cielo; [e] grano, sale, vino, ed olio, secondo che diranno i sacerdoti che [sono] in Gerusalemme."
+        },
+        {
+          "number": 10,
+          "text": "Acciocchè offeriscano sacrificii di soave adore all'Iddio del cielo; e preghino per la vita del re, e de' suoi figliuoli."
+        },
+        {
+          "number": 11,
+          "text": "Ed anche da me è fatto un decreto, che, se alcuno fa altrimente, una trave sia spiccata della sua casa, e sia rizzata, e ch'egli vi sia fatto morir sopra; e che della sua casa sia fatta una latrina, per questa cagione."
+        },
+        {
+          "number": 12,
+          "text": "E Dio, che ha stanziato quivi il suo Nome, distrugga ogni re e popolo che metterà la mano per mutar questo, e per disfar di nuovo cotesta Casa di Dio, che [è] in Gerusalemme. Io Dario ho fatto questo decreto; sia, senza indugio, messo ad esecuzione."
+        },
+        {
+          "number": 13,
+          "text": "Allora Tattenai, governatore di qua dal fiume, [e] Setar-boznai, ed i lor colleghi, perciocchè il re Dario avea lor mandato un tal comandamento, prontamente l'eseguirono."
+        },
+        {
+          "number": 14,
+          "text": "E gli Anziani de' Giudei edificarono, ed avanzarono [l'opera], secondo la profezia del profeta Aggeo, e di Zaccaria, figliuolo d'Iddo. Essi adunque edificarono, e compierono l'edificio per comandamento dell'Iddio d'Israele, e per ordine di Ciro, di Dario, e di Artaserse, re di Persia."
+        },
+        {
+          "number": 15,
+          "text": "E questa Casa fu finita al terzo giorno del mese di Adar, l'anno sesto del regno del re Dario."
+        },
+        {
+          "number": 16,
+          "text": "E I figliuoli d'Israele, i sacerdoti, i Leviti, e gli altri d'infra quelli ch'erano stati in cattività, celebrarono la dedicazione di questa Casa di Dio con allegrezza."
+        },
+        {
+          "number": 17,
+          "text": "E, per la dedicazione di questa Casa di Dio, offersero cento giovenchi, dugento montoni, e quattrocento agnelli; e [per sacrificio] per lo peccato per tutto Israele, dodici becchi, secondo il numero delle tribù d'Israele."
+        },
+        {
+          "number": 18,
+          "text": "E costituirono i sacerdoti nelle lor mute, e i Leviti ne' loro spartimenti, per [fare] il servigio di Dio, che [abita] in Gerusalemme, secondo che è scritto nel libro di Mosè."
+        },
+        {
+          "number": 19,
+          "text": "Poi quelli ch'erano stati in cattività fecero la Pasqua al quartodecimo [giorno] del primo mese;"
+        },
+        {
+          "number": 20,
+          "text": "perciocchè i sacerdoti ed i Leviti si erano purificati di pari consentimento, [ed erano] tutti netti; e scannarono la Pasqua per tutti quelli ch'erano stati in cattività, e per li sacerdoti, lor fratelli, e per sè stessi."
+        },
+        {
+          "number": 21,
+          "text": "Così i figliuoli d'Israele, ch'erano ritornati dalla cattività, e tutti quelli che si erano ridotti a loro, separandosi dalla contaminazione delle genti del paese, per cercare il Signore Iddio d'Israele, mangiarono [la Pasqua]."
+        },
+        {
+          "number": 22,
+          "text": "E celebrarono la festa degli Azzimi per sette giorni con allegrezza; perciocchè il Signore li avea rallegrati, avendo rivolto verso loro il cuore del re di Assiria, per dar loro aiuto e favore, nell'opera della Casa di Dio, dell'Iddio d'Israele."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, dopo queste cose, sotto il regno di Artaserse, re di Persia, Esdra, figliuolo di Seraia, figliuolo di Azaria, figliuolo di Hilchia,"
+        },
+        {
+          "number": 2,
+          "text": "figliuolo di Sallum, figliuolo di Sadoc, figliuolo di Ahitub,"
+        },
+        {
+          "number": 3,
+          "text": "figliuolo di Amaria, figliuolo di Azaria, figliuolo di Meraiot,"
+        },
+        {
+          "number": 4,
+          "text": "figliuolo di Zerahia, figliuolo di Uzzi,"
+        },
+        {
+          "number": 5,
+          "text": "figliuolo di Bucchi, figliuolo di Abisua, figliuolo di Finees, figliuolo di Eleazaro, figliuolo d'Aaronne, sommo sacerdote;"
+        },
+        {
+          "number": 6,
+          "text": "esso Esdra ritornò in Babilonia (or egli [era] scriba, esercitato nella Legge di Mosè, la quale il Signore Iddio d'Israele avea data), e il re gli diede tutto ciò ch'egli domandò, secondo che la mano del Signore Iddio suo [era] sopra lui."
+        },
+        {
+          "number": 7,
+          "text": "E [con lui] ritornarono in Gerusalemme de' figliuoli d'Israele, e de' sacerdoti, e dei Leviti, e de' cantori, e de' portinai, e dei Netinei; l'anno settimo del re Artaserse."
+        },
+        {
+          "number": 8,
+          "text": "Ed egli arrivò in Gerusalemme al quinto mese dell'anno settimo del re."
+        },
+        {
+          "number": 9,
+          "text": "Perciocchè al primo [giorno] del primo mese fu fermata la dipartita di Babilonia; e al primo [giorno] del quinto mese egli arrivò in Gerusalemme, secondo che la mano del Signore [era] buona sopra lui."
+        },
+        {
+          "number": 10,
+          "text": "Conciossiachè Esdra avesse disposto il cuor suo, per ricercar la Legge del Signore, e per eseguirla, e per insegnare gli statuti, e le leggi in Israele."
+        },
+        {
+          "number": 11,
+          "text": "Or questo [è] il tenore delle lettere che il re Artaserse diede ad Esdra sacerdote, [e] scriba, scriba delle parole de' comandamenti del Signore, e de' suoi statuti [dati] a Israele:"
+        },
+        {
+          "number": 12,
+          "text": "Artaserse, re dei re, ad Esdra sacerdote, scriba della Legge dell'Iddio del cielo: compiuta salute, ecc."
+        },
+        {
+          "number": 13,
+          "text": "Da me è stato fatto un decreto, che tutti quelli d'infra il popolo d'Israele, e de' sacerdoti loro, e de' Leviti, che nel mio regno si disporranno volontariamente ad andare in Gerusalemme, vadano teco."
+        },
+        {
+          "number": 14,
+          "text": "Perciocchè tu sei mandato dal re, e da' suoi sette consiglieri, per informarti in Giudea ed in Gerusalemme, intorno alla Legge dell'Iddio tuo, che tu hai in mano;"
+        },
+        {
+          "number": 15,
+          "text": "e per portar l'argento e l'oro che il re e i suoi consiglieri hanno volontariamente offerto all'Iddio d'Israele, la cui abitazione [è] in Gerusalemme;"
+        },
+        {
+          "number": 16,
+          "text": "e tutto l'argento e l'oro che tu troverai in tutta la provincia di Babilonia, insieme con le offerte volontarie del popolo, e de' sacerdoti, le quali faranno per la Casa dell'Iddio loro, che [è] in Gerusalemme."
+        },
+        {
+          "number": 17,
+          "text": "Acciocchè con que' danari tu comperi prontamente giovenchi, montoni [ed] agnelli, insieme con le loro offerte di panatica e da spandere; e che tu li offerisca sopra l'Altare della Casa del vostro Dio, che [è] in Gerusalemme."
+        },
+        {
+          "number": 18,
+          "text": "E del rimanente dell'oro e dell'argento fatene ciò che parrà a te ed a' tuoi fratelli, secondo la volontà del vostro Dio."
+        },
+        {
+          "number": 19,
+          "text": "E quant'è agli arredi che ti son dati per lo servigio della Casa dell'Iddio tuo, rimettili nel cospetto dell'Iddio di Gerusalemme."
+        },
+        {
+          "number": 20,
+          "text": "E le altre cose necessarie per la Casa dell'Iddio tuo, le quali ti accaderà fornire, tu le fornirai della camera del re."
+        },
+        {
+          "number": 21,
+          "text": "Ed io Artaserse, il re, ordino a tutti voi tesorieri che [siete] di là dal fiume, che tutto quello che il sacerdote Esdra, scriba della Legge dell'Iddio del cielo, vi chiederà, sia incontanente fatto,"
+        },
+        {
+          "number": 22,
+          "text": "fino a cento talenti d'argento, e fino a cento cori di grano, fino a cento bati di vino, e fino a cento bati d'olio; e del sale senza alcuna prescritta [quantità]."
+        },
+        {
+          "number": 23,
+          "text": "Tutto ciò che è del comandamento dell'Iddio del cielo, intorno alla sua Casa, sia prontamente fatto; perchè vi sarebbe egli indegnazione contro al regno, al re, ed a' suoi figliuoli?"
+        },
+        {
+          "number": 24,
+          "text": "Vi facciamo, oltre a ciò assapere che niuno abbia podestà d'imporre tributo, taglia, o gabella, ad alcun sacerdote, o Levita, o cantore, o portinaio, o Netineo, od [altro] ministro di cotesta Casa di Dio."
+        },
+        {
+          "number": 25,
+          "text": "E tu, Esdra, secondo la sapienza dell'Iddio tuo, che tu hai in mano, costituisci rettori, e giudici, i quali rendano ragione a tutto quel popolo che [è] di là dal fiume, [cioè] a tutti coloro che hanno conoscenza delle leggi dell'Iddio tuo; e insegnate[le] a quelli che non [le] sapranno."
+        },
+        {
+          "number": 26,
+          "text": "E se v'è alcuno che non metta in opera la Legge dell'Iddio tuo, e la legge del re, siane incontanente fatta giustizia, o per morte, o per bando, o per ammenda in danari, o per prigione."
+        },
+        {
+          "number": 27,
+          "text": "Benedetto [sia] il Signore Iddio de' nostri padri, il quale ha messa una tal cosa nel cuor del re, per onorar la Casa del Signore, che è in Gerusalemme;"
+        },
+        {
+          "number": 28,
+          "text": "ed ha fatto che io ho trovata benignità appo il re, ed appo i suoi consiglieri, ed appo tutti i suoi potenti principi. Io dunque, essendomi fortificato, secondo che la mano del Signore Iddio mio [era] sopra me, adunai i capi d'Israele, acciocchè ritornassero meco."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "OR questi [sono] i capi delle [famiglie] paterne, e questa [è] la descrizione, per le genealogie, di quelli che ritornarono meco di Babilonia, al [tempo del] regno del re Artaserse:"
+        },
+        {
+          "number": 2,
+          "text": "De' figliuoli di Finees, Ghersom; de' figliuoli d'Itamar, Daniele; de' figliuoli di Davide, Hattus:"
+        },
+        {
+          "number": 3,
+          "text": "de' figliuoli di Secania, [il quale era] de' figliuoli di Paros, Zaccaria; e con lui, facendo la descrizione della genealogia per maschi, cencinquanta [persone];"
+        },
+        {
+          "number": 4,
+          "text": "de' figliuoli di Pahat-Moab, Elioenai, figliuolo di Zerahia, e con lui dugento maschi;"
+        },
+        {
+          "number": 5,
+          "text": "de' figliuoli di Secania, il figliuolo di Iahaziel, e con lui trecento maschi;"
+        },
+        {
+          "number": 6,
+          "text": "e de' figliuoli di Adin, Ebed, figliuolo di Gionatan, e con lui cinquanta maschi;"
+        },
+        {
+          "number": 7,
+          "text": "e de' figliuoli di Elam, Isaia, figliuolo di Atalia, e con lui settanta maschi;"
+        },
+        {
+          "number": 8,
+          "text": "e de' figliuoli di Sefatia, Zebadia, figliuolo di Micael, e con lui ottanta maschi;"
+        },
+        {
+          "number": 9,
+          "text": "de' figliuoli di Ioab, Obadia, figliuolo di Iehiel, e con lui dugendiciotto maschi;"
+        },
+        {
+          "number": 10,
+          "text": "e de' figliuoli di Selomit, il figliuolo di Iosifia, e con lui censessanta maschi;"
+        },
+        {
+          "number": 11,
+          "text": "e de' figliuoli di Bebai, Zaccaria, figliuolo di Bebai, e con lui ventotto maschi;"
+        },
+        {
+          "number": 12,
+          "text": "e de' figliuoli di Azgad, Iohanan, figliuolo di Catan, e con lui cendieci maschi;"
+        },
+        {
+          "number": 13,
+          "text": "e de' figliuoli di Adonicam, gli ultimi, i cui nomi [son] questi: Elifelet, Iehiel, e Semaia, e con loro sessanta maschi;"
+        },
+        {
+          "number": 14,
+          "text": "e de' figliuoli di Bigvai: Utai, e Zabbud, e con loro sessanta maschi."
+        },
+        {
+          "number": 15,
+          "text": "Ed io li adunai presso del fiume, che corre in Ahava; e quivi stemmo accampati lo spazio di tre giorni. Ed avendo fatta la rassegna del popolo e de' sacerdoti, non vi trovai alcuno de' figliuoli di Levi."
+        },
+        {
+          "number": 16,
+          "text": "Perciò, mandai Eliezer, Ariel, Semaia, Elnatan, Iarib, Elnatan, Natan, Zaccaria, e Mesullam, [ch'erano] capi; e Ioiarib, ed Elnatan, dottori;"
+        },
+        {
+          "number": 17,
+          "text": "e comandai loro [che andassero] ad Iddo, capo nel luogo [detto] Casifia; ed ordinai loro quello che aveano a dire ad Iddo ed al suo fratello, Netinei, nel luogo di Casifia, per menarci de' ministri per la Casa dell'Iddio nostro."
+        },
+        {
+          "number": 18,
+          "text": "Ed essi ci menarono, secondo che la mano dell'Iddio nostro [era] buona sopra noi, un uomo intendente, de' figliuoli di Mahali, figliuolo di Levi, figliuolo d'Israele, [cioè] Serebia, insieme co' suoi figliuoli, e fratelli, [in numero di] diciotto [persone];"
+        },
+        {
+          "number": 19,
+          "text": "ed Hasabia, e con lui, Isaia, d'infra i figliuoli di Merari, co' suoi fratelli, e i lor figliuoli, [in numero di] venti [persone];"
+        },
+        {
+          "number": 20,
+          "text": "e de' Netinei, i quali Davide, ed i capi [del popolo] aveano costituiti al ministerio de' Leviti, dugenventi Netinei, che furono tutti nominati per li nomi [loro]."
+        },
+        {
+          "number": 21,
+          "text": "Ed io bandii quivi il digiuno presso del fiume di Ahava, per umiliarci nel cospetto dell'Iddio nostro, per chiedergli prospero viaggio per noi, per le nostre famiglie, e per tutte le nostre facoltà."
+        },
+        {
+          "number": 22,
+          "text": "Perciocchè io mi vergognava di chiedere al re gente d'arme, o cavalieri, per difenderci da' nemici per lo cammino; conciossiachè noi avessimo detto al re: La mano dell'Iddio nostro [è] in bene sopra tutti quelli che lo cercano; ma la sua potenza, e la sua ira, [è] contro a tutti quelli che l'abbandonano."
+        },
+        {
+          "number": 23,
+          "text": "Così noi digiunammo, e facemmo richiesta all'Iddio nostro intorno a ciò, ed egli ci esaudì."
+        },
+        {
+          "number": 24,
+          "text": "Allora io misi da parte dodici de' principali sacerdoti, con Serebia, Hasabia, e dieci de' lor fratelli."
+        },
+        {
+          "number": 25,
+          "text": "E pesai loro l'argento, e l'oro, ed i vasellamenti, [ch'era] l'offerta ch'era stata fatta per la Casa dell'Iddio nostro, dal re, da' suoi consiglieri, e da' suoi principi, e da tutti gli Israeliti che si ritrovarono."
+        },
+        {
+          "number": 26,
+          "text": "Io adunque pesai loro in mano seicencinquanta talenti d'argento, e di vasellamenti di argento cento talenti, [e] cento talenti d'oro;"
+        },
+        {
+          "number": 27,
+          "text": "e venti coppe d'oro, [che pesavano] mille dramme; e due vasi d'oricalco fino, preziosi come d'oro."
+        },
+        {
+          "number": 28,
+          "text": "Ed io dissi loro: Voi [siete persone] sacre al Signore; questi vasellamenti [sono] anch'essi cosa sacra; e quest'argento, e quest'oro, [è] una offerta volontaria [fatta] al Signore Iddio de' vostri padri."
+        },
+        {
+          "number": 29,
+          "text": "Guardate[li] vigilantemente, finchè voi [li] pesiate in presenza de' principali d'infra i sacerdoti e Leviti; e de' capi delle [famiglie] paterne d'Israele, in Gerusalemme, nelle camere della Casa del Signore."
+        },
+        {
+          "number": 30,
+          "text": "I sacerdoti adunque ed i Leviti ricevettero quell'argento, e quell'oro, e quei vasellamenti, a peso, per portar [tutto ciò] in Gerusalemme, nella Casa dell'Iddio nostro."
+        },
+        {
+          "number": 31,
+          "text": "E noi ci partimmo d'appresso al fiume di Ahava al duodecimo [giorno] del primo mese, per andare in Gerusalemme; e la mano dell'Iddio nostro fu sopra noi, ed egli ci liberò dalle mani dei nemici e degl'insidiatori, per lo cammino."
+        },
+        {
+          "number": 32,
+          "text": "Ed arrivammo in Gerusalemme; e dopo che fummo quivi stati tre giorni,"
+        },
+        {
+          "number": 33,
+          "text": "al quarto giorno fu pesato quell'argento, e quell'oro, e que' vasellamenti, nella Casa dell'Iddio nostro, nelle mani di Meremot, figliuolo di Uria sacerdote, col quale [era] Eleazaro, figliuolo di Finees; e con loro [erano] Iozabad, figliuolo di Iesua, e Noadia, figliuolo di Binnui, Leviti."
+        },
+        {
+          "number": 34,
+          "text": "Tutto ciò [fu loro dato] a conto ed a peso; e il peso di tutto fu scritto in quello stesso tempo."
+        },
+        {
+          "number": 35,
+          "text": "E quelli ch'erano stati in cattività, ed erano ritornati, offersero per olocausto all'Iddio d'Israele, dodici giovenchi per tutto Israele, novantasei montoni, settantasette agnelli, [e] dodici becchi per lo peccato; tutto ciò [fu offerto in] olocausto al Signore."
+        },
+        {
+          "number": 36,
+          "text": "Poi diedero i decreti del re a' satrapi del re, ed a' governatori di qua dal fiume; ed essi presero a favoreggiare il popolo, e la Casa di Dio."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, quando queste cose furono finite, i principali [del popolo] si accostarono a me, dicendo: Il popolo d'Israele, ed i sacerdoti, ed i Leviti, non si son separati da' popoli di questi paesi, da' Cananei, dagli Hittei, da' Ferizzei, da' Gebusei, dagli Ammoniti, da' Moabiti, dagli Egizi, e dagli Amorrei, secondo [che si conveniva fare, per] le loro abbominazioni."
+        },
+        {
+          "number": 2,
+          "text": "Perciocchè hanno prese delle lor figliuole per sè, e per li lor figliuoli; laonde la santa progenie si è mescolata co' popoli di questi paesi; e i principali [del popolo], e i rettori, sono stati i primi a commetter questo misfatto."
+        },
+        {
+          "number": 3,
+          "text": "E quando io ebbi intesa questa cosa, io stracciai la mia vesta, e il mio mantello, e mi strappai i capelli del capo e della barba, e mi posi a sedere tutto sconsolato."
+        },
+        {
+          "number": 4,
+          "text": "Allora tutti quelli che tremavano alle parole dell'Iddio d'Israele si adunarono appresso di me, per lo misfatto di coloro ch'erano stati in cattività; ed io me ne stetti [così] a sedere tutto sconsolato, infino al [tempo] dell' offerta della sera."
+        },
+        {
+          "number": 5,
+          "text": "Ed al [tempo del]l'offerta della sera, io mi levai dalla mia afflizione; ed avendo la mia vesta e il mio mantello stracciato, io m'inginocchiai, e spiegai le palme delle mie mani al Signore Iddio mio, e dissi:"
+        },
+        {
+          "number": 6,
+          "text": "O Dio mio, io mi vergogno, e son confuso di alzare, o Dio mio, la faccia a te; perciocchè le nostre iniquità sono fin disopra al nostro capo, e le nostre colpe son [così] grandi [che arrivano] fino al cielo."
+        },
+        {
+          "number": 7,
+          "text": "Dal tempo de' nostri padri infino ad oggi, noi [siamo] in gran colpa; e per le nostre iniquità, noi, i nostri re, i nostri sacerdoti, siamo stati dati nelle mani dei re de' paesi, [per esser messi] a [fil di] spada, menati in cattività, predati, e svergognati, come [appare] al dì d'oggi."
+        },
+        {
+          "number": 8,
+          "text": "E pure ora, di subito quasi in un momento, ci è stata fatta grazie dall'Iddio nostro, per far che ci restasse alcun rimanente, e per darci un chiodo nel suo santo luogo; acciocchè l'Iddio nostro ci rischiarasse gli occhi, e ci desse un poco di ristoro nella nostra servitù."
+        },
+        {
+          "number": 9,
+          "text": "Conciossiachè noi [siamo] servi; ma l'Iddio nostro non ci ha abbandonati nella nostra servitù; anzi ha fatto che abbiam trovata benignità appo i re di Persia, per darci [qualche] ristoro, affin di rimettere in piè la Casa dell'Iddio nostro, e ristorar le sue ruine, e darci un chiuso in Giuda ed in Gerusalemme."
+        },
+        {
+          "number": 10,
+          "text": "Ma ora, o Dio nostro, che diremo noi dopo queste cose? conciossiachè noi abbiamo lasciati i tuoi comandamenti,"
+        },
+        {
+          "number": 11,
+          "text": "i quali tu desti per mano de' tuoi servitori profeti, dicendo: Il paese, nel quale voi entrate per possederlo, è un paese immondo per l'immondizia de' popoli di que' paese, nelle loro abbominazioni, delle quali l'hanno riempiuto, da un capo all'altro, con le lor contaminazioni."
+        },
+        {
+          "number": 12,
+          "text": "Ora dunque, non date le vostre figliuole a' lor figliuoli; e non prendete le lor figliuole per li vostri figliuoli; e non procacciate giammai in perpetuo nè la pace, nè il ben loro; acciocchè siate fortificati, e mangiate i beni del paese, e lasciate quello per eredità a' vostri figliuoli in perpetuo."
+        },
+        {
+          "number": 13,
+          "text": "Ora, dopo tutte le cose che ci son sopraggiunte per le nostre opere malvage, e per le nostre gran colpe (benchè, o Dio nostro, tu ti sii rattenuto disotto della nostra iniquità, e ci abbi dato un tal rimanente, quale [è] questo),"
+        },
+        {
+          "number": 14,
+          "text": "torneremmo noi a rompere i tuoi comandamenti, e ad imparentarci co' popoli [dati a] queste abbominazioni? non ti adireresti tu contro a noi fino all'estremo, talchè non [vi sarebbe più] nè rimanente, nè scampo alcuno?"
+        },
+        {
+          "number": 15,
+          "text": "Signore Iddio d'Israele, tu [sei] giusto; conciossiachè noi siamo rimasti alcun residuo, come [si vede] al dì d'oggi; eccoci davanti a te con la nostra colpa; perciocchè [altrimenti] sarebbe impossibile di durare davanti alla tua faccia per questo."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "ORA, mentre Esdra faceva orazione, e confessione, piangendo, e prostrato davanti alla Casa di Dio, una grandissima moltitudine d'Israele, d'uomini, e di donne, e di fanciulli, si adunò appresso di lui; perciocchè il popolo piangeva d'un gran pianto."
+        },
+        {
+          "number": 2,
+          "text": "Allora Secania, figliuolo di Iehiel, dei figliuoli di Elam, parlò ad Esdra, e gli disse: Noi abbiam misfatto contro all'Iddio nostro, avendo menate donne straniere, d'infra i popoli di questo paese; ma ora vi è pure alcuna speranza ad Israele intorno a questo."
+        },
+        {
+          "number": 3,
+          "text": "Ora dunque, patteggiamo con l'Iddio nostro, che noi rimanderemo tutte queste donne, ed i [figliuoli] nati da esse, secondo il consiglio del Signore, e di coloro che tremano al comandamento dell'Iddio nostro; e siane fatto secondo la Legge."
+        },
+        {
+          "number": 4,
+          "text": "Levati; perciocchè quest'affare ti appartiene, e noi [saremo] teco; prendi animo, e metti la mano all'opera."
+        },
+        {
+          "number": 5,
+          "text": "Allora Esdra si levò, e fece giurare a' principali de' sacerdoti, de' Leviti, e di tutto Israele, che farebbero secondo quelle parole. Ed essi [lo] giurarono."
+        },
+        {
+          "number": 6,
+          "text": "Poi Esdra si levò d'innanzi alla Casa di Dio, e andò nella camera di Giohanan, figliuolo di Eliasib; ed essendo entrato dentro, non mangiò pane, nè bevve acqua; perciocchè egli faceva cordoglio per lo misfatto di coloro ch'erano stati in cattività."
+        },
+        {
+          "number": 7,
+          "text": "Poi fecero andare un bando per Giuda e per Gerusalemme, che tutti quelli ch'erano stati in cattività si adunassero in Gerusalemme;"
+        },
+        {
+          "number": 8,
+          "text": "e che chiunque non verrebbe infra tre giorni, secondo il consiglio preso da' principali e dagli Anziani, tutti i suoi beni sarebbero messi all'interdetto, ed egli sarebbe separato dalla raunanza di coloro ch'erano stati in cattività."
+        },
+        {
+          "number": 9,
+          "text": "Così tutti gli uomini di Giuda e di Beniamino si adunarono in Gerusalemme infra il terzo giorno; e ciò [fu] il ventesimo [giorno] del nono mese; e tutto il popolo si fermò nella piazza della Casa di Dio, tremando, per questa cosa, e per le gran pioggie."
+        },
+        {
+          "number": 10,
+          "text": "Ed il sacerdote Esdra si levò e disse loro: Voi avete misfatto, avendo menate mogli straniere, per accrescer le colpe d'Israele."
+        },
+        {
+          "number": 11,
+          "text": "Ora dunque fate confessione al Signore Iddio de' vostri padri, e fate la sua volontà, e separatevi da' popoli del paese, e dalle donne straniere."
+        },
+        {
+          "number": 12,
+          "text": "E tutta la raunanza rispose, e disse ad alta voce: Noi siamo obbligati di fare come tu hai detto."
+        },
+        {
+          "number": 13,
+          "text": "Ma il popolo [è] in gran numero, e il tempo [è] grandemente piovoso, e non è possibile di star fuori; e l'opera non [è] d'uno, nè di due giorni; perciocchè noi siamo molti che abbiamo misfatto in questo."
+        },
+        {
+          "number": 14,
+          "text": "Ora trovinsi [insieme] i capi nostri, [capi] di tutta la raunanza; e con loro [sieno] gli Anziani, ed i giudici di ciascuna città; e che ogni uomo, d'infra tutti quelli che [sono] nelle nostre città, che ha menata moglie straniera, venga a' tempi assegnati; e con loro gli Anziani e i giudici di ciascuna città, finchè abbiamo stornato da noi l'ardore dell'ira dell'Iddio nostro per questa cosa."
+        },
+        {
+          "number": 15,
+          "text": "Or Gionatan, figliuolo di Asael, e Iahazia, figliuolo di Ticva, furono costituiti sopra questo affare; e Mesullam, e Sabbetai, Leviti, aiutarono loro."
+        },
+        {
+          "number": 16,
+          "text": "E quelli ch'erano stati in cattività fecero così. E il sacerdote Esdra, e i capi delle [famiglie] paterne, secondo le famiglie loro paterne, tutti [nominati] per li nomi [loro], furono messi da parte; e sedettero al primo giorno del decimo mese, per prender conoscenza del fatto;"
+        },
+        {
+          "number": 17,
+          "text": "ed ebbero finito, con tutti quelli che aveano menate mogli straniere, infra il primo giorno del primo mese."
+        },
+        {
+          "number": 18,
+          "text": "E fra i figliuoli de' sacerdoti, si trovarono questi che aveano menate moglie straniere, [cioè], fra i figliuoli di Iesua, figliuolo di Iosadac, e fra i suoi fratelli, Maaseia, ed Eliezer, e Iarib, e Ghedalia;"
+        },
+        {
+          "number": 19,
+          "text": "ed essi diedero la mano, [promettendo] di mandar via le lor mogli; e, come colpevoli, [offerso] un montone per la lor colpa;"
+        },
+        {
+          "number": 20,
+          "text": "e de' figliuoli d'Immer, Hanani, e Zebadia;"
+        },
+        {
+          "number": 21,
+          "text": "e de' figliuoli di Harim, Maaseia, ed Elia, e Semaia, e Iehiel, ed Uzzia;"
+        },
+        {
+          "number": 22,
+          "text": "e de' figliuoli di Pashur, Elioenai, Maaseia, Ismael, Natanael, Iozabad, ed Elasa."
+        },
+        {
+          "number": 23,
+          "text": "E de' Leviti, Iozabad, Simi, e Chelaia (il quale [ancora si chiamava] Chelita), Petahia, Giuda, ed Eliezer."
+        },
+        {
+          "number": 24,
+          "text": "E de' cantori, Eliasib. E de' portinai, Sallum, e Telem, ed Uri."
+        },
+        {
+          "number": 25,
+          "text": "E degl'Israeliti: de' figliuoli di Paros, Ramia, ed Izzia, e Malchia, e Miamin, ed Eleazaro, e Malchia, e Benaia;"
+        },
+        {
+          "number": 26,
+          "text": "e de' figliuoli di Elam, Mattania, e Zaccaria, e Iehiel, ed Abdi, e Ieremot, ed Elia;"
+        },
+        {
+          "number": 27,
+          "text": "e de' figliuoli di Zattu, Elioenai, ed Eliasib, e Mattania, e Ieremot, e Zabad, ed Aziza;"
+        },
+        {
+          "number": 28,
+          "text": "e de' figliuoli di Bebai, Iohanan, Hanania, Zabbai, ed Atlai;"
+        },
+        {
+          "number": 29,
+          "text": "e de' figliuoli di Bani, Mesullam, e Malluc, ed Adaia, e Iasub, e Seal, e Ramot;"
+        },
+        {
+          "number": 30,
+          "text": "e de' figliuoli di Pahat-Moab, Adna, e Chelal, e Benaia, e Maaseia, e Mattania, e Besaleel, e Binnui, e Manasse;"
+        },
+        {
+          "number": 31,
+          "text": "e [de]' figliuoli di Harim, Eliezer, Issia, Malchia, Semaia, Simeone,"
+        },
+        {
+          "number": 32,
+          "text": "Beniamino, Malluc, Semaria;"
+        },
+        {
+          "number": 33,
+          "text": "de' figliuoli di Hasum, Mattenai, Mattatta, Zabad, Elifelet, Ieremai, Manasse, Simi;"
+        },
+        {
+          "number": 34,
+          "text": "de' figliuoli di Bani, Maadai, Amram ed Uel,"
+        },
+        {
+          "number": 35,
+          "text": "Benaia, Bedia, Cheluhu,"
+        },
+        {
+          "number": 36,
+          "text": "Vania, Meremot, Eliasib,"
+        },
+        {
+          "number": 37,
+          "text": "Mattania, Mettenai e Iaasai,"
+        },
+        {
+          "number": 38,
+          "text": "Bani, Binnui, Simi,"
+        },
+        {
+          "number": 39,
+          "text": "Selemia, Natan, Adaia,"
+        },
+        {
+          "number": 40,
+          "text": "Machnadbai, Sasai, Sarai,"
+        },
+        {
+          "number": 41,
+          "text": "Azreel, Selemia, Semaria,"
+        },
+        {
+          "number": 42,
+          "text": "Sallum, Amaria, e Giuseppe;"
+        },
+        {
+          "number": 43,
+          "text": "e de' figliuoli di Nebo, Ieiel, Mattitia, Zabad, Zebina, Iaddau, Ioel, e Benaia."
+        },
+        {
+          "number": 44,
+          "text": "Tutti costoro aveano prese mogli straniere; ed [alcuni] di loro avevano delle mogli delle quali avevano generati figliuoli."
+        }
+      ]
+    }
+  ]
+}

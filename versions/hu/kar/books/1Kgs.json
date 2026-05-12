@@ -1,0 +1,3387 @@
+{
+  "version": "kar",
+  "book": "1Kgs",
+  "bookId": 11,
+  "englishName": "1 Kings",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor pedig megvénhedt és megöregedett Dávid király, bár leplekkel takargatták be, mégsem bírt felmelegedni."
+        },
+        {
+          "number": 2,
+          "text": "És mondának néki az ő szolgái: Keressenek az én uramnak, a királynak egy szűz leányt, a ki a király körül legyen, és őt ápolja, aludjék karjai között, és melegítse fel az én uramat, a királyt."
+        },
+        {
+          "number": 3,
+          "text": "Keresének annakokáért egy szép leányt Izráelnek minden határiban; és találák a Súnem városából való Abiságot, a kit el is hozának a királyhoz."
+        },
+        {
+          "number": 4,
+          "text": "És a leány igen szép volt, és a királyt ápolta és szolgált néki. De a király nem ismeré őt."
+        },
+        {
+          "number": 5,
+          "text": "Adónia pedig, Haggitnak fia, felfuvalkodék, ezt mondván: Én fogok uralkodni! És szerze magának szekereket, lovagokat és ötven előtte járó férfiakat."
+        },
+        {
+          "number": 6,
+          "text": "Kit az ő atyja soha meg nem szomoríta, ezt mondván: Miért cselekszel így?! Ez is pedig igen szép férfi volt, és őt Haggit szülte volt Dávidnak Absolon után."
+        },
+        {
+          "number": 7,
+          "text": "És tanácskozék Joábbal, Séruja fiával és Abjátár pappal, kik az Adónia pártján voltak."
+        },
+        {
+          "number": 8,
+          "text": "De Sádók pap, meg Benája, a Jójada fia, és Nátán próféta, és Sémei, és Réhi, és a Dávid erős vitézei nem állottak Adónia mellé."
+        },
+        {
+          "number": 9,
+          "text": "Mikor pedig Adónia áldozatot mutatott be juhokból, ökrökből és egyéb kövér barmokból a Zohélet kősziklánál, a mely a Rógel forrása mellett volt: meghívá egész rokonságát, a király fiait, Júda minden férfiait, a király szolgáit;"
+        },
+        {
+          "number": 10,
+          "text": "De Nátán prófétát és Benáját és amaz erős vitézeket és Salamont, az ő atyjafiát nem hívá el."
+        },
+        {
+          "number": 11,
+          "text": "Szóla akkor Nátán Bethsabénak, a Salamon anyjának, mondván: Nem hallottad-é, hogy Adónia, a Haggit fia uralkodik, és a mi urunk Dávid nem tud róla semmit?"
+        },
+        {
+          "number": 12,
+          "text": "Jövel azért, hadd adjak néked tanácsot, hogy megmentsd a te életedet, és a te fiadnak, Salamonnak életét."
+        },
+        {
+          "number": 13,
+          "text": "Eredj, menj be Dávid királyhoz, és mondd ezt néki: Uram király, nemde nem esküdtél-é meg a te szolgálóleányodnak ilyenképen: Salamon, a te fiad uralkodik én utánam, és ő ül az én királyi székembe? Miért uralkodik hát Adónia?"
+        },
+        {
+          "number": 14,
+          "text": "És ímé mialatt még te ott a királylyal beszélsz, én is bemegyek utánad, és kiegészítem a te beszédidet."
+        },
+        {
+          "number": 15,
+          "text": "És beméne Bethsabé a királyhoz a kamarába. És a király igen megvénhedett vala, és a Súnemből való Abiság szolgál vala a királynak."
+        },
+        {
+          "number": 16,
+          "text": "És fejet hajta Bethsabé, és meghajtá magát a királynak. És monda a király: Mit kivánsz?"
+        },
+        {
+          "number": 17,
+          "text": "Felele néki Bethsabé: Édes uram, te megesküdtél az Úrra, a te Istenedre a te szolgálóleányodnak ilyenképen: Salamon, a te fiad uralkodik én utánam, és ő ül az én királyi székembe."
+        },
+        {
+          "number": 18,
+          "text": "És ímé mégis Adónia lett királylyá; és ímé, uram király, te nem tudsz erről semmit."
+        },
+        {
+          "number": 19,
+          "text": "Mert áldozott ökrökkel és nagy sok kövér barmokkal bőségesen, és vendégekké hívta a királynak minden fiait, és Abjátár papot és Joábot, a seregnek hadnagyát, csak Salamont, a te szolgádat nem hívta meg."
+        },
+        {
+          "number": 20,
+          "text": "Még most te vagy, Uram, a király; az egész Izráel népének szemei reád néznek, hogy megjelentsed nékik, kicsoda fog ülni az én uramnak, a királynak székében, ő utána."
+        },
+        {
+          "number": 21,
+          "text": "De ha az én uram, a király, az ő atyáival elaluszik: akkor én és az én fiam, Salamon leszünk bűnösök."
+        },
+        {
+          "number": 22,
+          "text": "És ímé, mikor még a királylyal szólana, Nátán próféta megérkezék."
+        },
+        {
+          "number": 23,
+          "text": "És bejelenték a királynak, mondván: Itt van Nátán próféta. És bemenvén a király eleibe, meghajtá magát a király előtt, arczczal a földre leborulván."
+        },
+        {
+          "number": 24,
+          "text": "És monda Nátán: Uram király, te mondottad-é: Adónia legyen én utánam a király, és ő üljön az én királyi székembe?"
+        },
+        {
+          "number": 25,
+          "text": "Mert ma aláment, és áldozott ökrökkel és kövér barmokkal bőségesen, és vendégekké hívta a királynak minden fiait és a seregnek hadnagyait és Abjátár papot: és ímé ők esznek és isznak ő előtte, és immár azt kiáltották: Éljen Adónia király!"
+        },
+        {
+          "number": 26,
+          "text": "Engem pedig, a ki a te szolgád vagyok, és Sádók papot és Benáját, a Jójada fiát, és Salamont, a te szolgádat nem hívta meg."
+        },
+        {
+          "number": 27,
+          "text": "Avagy az én uramtól, a királytól lett-é ez a dolog, hogy nem adtad tudtára a te szolgádnak, kicsoda fogna ülni az én uramnak, a királynak székiben az ő holta után."
+        },
+        {
+          "number": 28,
+          "text": "És felelvén Dávid király, monda: Hívjátok hozzám Bethsabét, a ki beméne a király eleibe, és megálla a király előtt."
+        },
+        {
+          "number": 29,
+          "text": "És megesküvék a király, mondván: Él az Úr, a ki megszabadította az én lelkemet minden nyomorúságból,"
+        },
+        {
+          "number": 30,
+          "text": "Hogy a miképen megesküdtem néked az Úrra, Izráel Istenére, ezt mondván: A te fiad Salamon uralkodik én utánam, és ő ül az én királyi székembe én helyettem: ezt ma így meg is teszem."
+        },
+        {
+          "number": 31,
+          "text": "És fejet hajta Bethsabé, arczczal a földre leborulván, és magát meghajtván a király előtt, monda: Éljen az én uram, Dávid király, mindörökké!"
+        },
+        {
+          "number": 32,
+          "text": "Azután monda Dávid király: Hívjátok hozzám Sádók papot és Nátán prófétát és Benáját, Jójadának fiát. És ezek bemenének a király eleibe."
+        },
+        {
+          "number": 33,
+          "text": "És monda nékik a király: Vegyétek mellétek a ti uratoknak szolgáit, és ültessétek Salamont, az én fiamat az én öszvéremre, és vigyétek alá őt Gihonba;"
+        },
+        {
+          "number": 34,
+          "text": "És kenje őt ott Sádók pap és Nátán próféta Izráelnek királyává; és fújjátok meg a harsonákat, és kiáltsátok: Éljen Salamon király!"
+        },
+        {
+          "number": 35,
+          "text": "És jőjjetek fel onnét ő utána; és eljövén, üljön az én királyi székembe, és ő uralkodjék én helyettem; mert immár meghagytam néki, hogy ő legyen fejedelme mind Izráelnek, mind Júdának."
+        },
+        {
+          "number": 36,
+          "text": "Felele akkor Benája, a Jójada fia a királynak, és monda: Ámen! Így szóljon az Úr, az én uramnak, a királynak Istene is."
+        },
+        {
+          "number": 37,
+          "text": "A miképen vele volt az Úr az én urammal, a királylyal: azonképen legyen vele Salamonnal is, és magasztalja feljebb az ő királyi székét az én uramnak, Dávid királynak királyi székénél."
+        },
+        {
+          "number": 38,
+          "text": "Aláméne azért Sádók pap és Nátán próféta és Benája, a Jójada fia, a Kereteusok is és a Peleteusok, és felülteték Salamont a Dávid király öszvérére, és alávivék őt Gihonba."
+        },
+        {
+          "number": 39,
+          "text": "És vevé Sádók pap az olajos szarut az Úr sátorából, és megkené Salamont; azután kürtölének, és az egész nép ezt kiáltá: Éljen Salamon király!"
+        },
+        {
+          "number": 40,
+          "text": "És felvonult utána az egész nép, és a nép sípolt és felette ujjongott, úgy hogy a föld is megrepedne kiáltásuk zajától."
+        },
+        {
+          "number": 41,
+          "text": "És Adónia is meghallotta és vendégei is mind, a kik nála valának, miután a lakomát már elvégezték; és meghallá Joáb is a kürtölés szavát, és monda: Miért e zaj és mozgás a városban?"
+        },
+        {
+          "number": 42,
+          "text": "És a mikor ő még szólana, ímé megérkezék Jonathán, az Abjátár pap fia. És monda Adónia: Jőjj be, mert megbízható férfiú vagy, és jó hírt mondasz."
+        },
+        {
+          "number": 43,
+          "text": "Jonathán pedig felelvén, monda Adóniának: Igen, a mi urunk, Dávid király, Salamont tette királylyá."
+        },
+        {
+          "number": 44,
+          "text": "És elküldötte ő vele Sádók papot a király és Nátán prófétát, és Benáját, a Jójada fiát, a Kereteusokat is és Peleteusokat, és őt a király öszvérére ülteték,"
+        },
+        {
+          "number": 45,
+          "text": "És Sádók pap Nátán prófétával együtt királylyá kente fel őt Gihonnál, és onnét vonulnak fel örömmel; ettől zendült meg a város. Ez az a zaj, a melyet hallottatok."
+        },
+        {
+          "number": 46,
+          "text": "És immár be is ült Salamon az országnak királyi székibe;"
+        },
+        {
+          "number": 47,
+          "text": "És a király szolgái is bemenének, hogy áldják a mi urunkat, Dávid királyt, mondván: Tegye az Isten a Salamon nevét híresebbé a te nevednél, és magasztalja feljebb az ő székit a te székednél. És meghajtá magát a király az ő ágyán."
+        },
+        {
+          "number": 48,
+          "text": "És ekképen is szóla a király: Áldott az Úr, Izráel Istene, a ki adott e mai napon olyat, a ki szemeim láttára helyettem üljön az én királyi székemben."
+        },
+        {
+          "number": 49,
+          "text": "Akkor megrettenének, és felkelének mindnyájan a hivatalosok, a kik Adóniával valának, és kiki mind dolgára méne."
+        },
+        {
+          "number": 50,
+          "text": "De Adónia félt Salamontól, és felkészülve elfutott, és megragadta az oltárnak szarvait."
+        },
+        {
+          "number": 51,
+          "text": "Hírül adák pedig Salamonnak ilyen szókkal: Ímé Adónia Salamon királytól való féltében megfogá az oltárnak szarvait, ezt mondván: Esküdjék meg ma nékem Salamon király, hogy meg nem öli az ő szolgáját fegyverrel."
+        },
+        {
+          "number": 52,
+          "text": "És monda Salamon: Ha jámbor lészen, egy hajszál fejéről le nem esik a földre; de ha gonoszság találtatik ő benne, meg kell halnia."
+        },
+        {
+          "number": 53,
+          "text": "Elkülde azért Salamon király, és elhozák őt az oltártól; és eljövén meghajtá magát Salamon király előtt; és monda Salamon király: Menj el a te házadhoz."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Mikor pedig elközelgett Dávidnak ideje, hogy meghaljon, parancsot ada Salamonnak az ő fiának, ezt mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Én elmegyek az egész földnek útján; erősítsd meg magad és légy férfiú."
+        },
+        {
+          "number": 3,
+          "text": "És őrízd meg az Úrnak a te Istenednek őrizetit, hogy az ő útain járj, és megőrizzed az ő rendeléseit, parancsolatit és ítéleteit, és bizonyságtételeit, a mint meg van írva a Mózes törvényében: hogy előmented legyen mindenekben, a melyeket cselekedéndesz, és mindenütt, valamerre fordulándasz;"
+        },
+        {
+          "number": 4,
+          "text": "Hogy megteljesítse az Úr az ő beszédét, melyet szólott nékem, mondván: Ha megőrizéndik a te fiaid az ő útjokat, járván én előttem tökéletességgel, teljes szívök és teljes lelkök szerint; ezt mondván, mondom: Soha el nem fogy a férfiú te közüled az Izráelnek királyi székiből."
+        },
+        {
+          "number": 5,
+          "text": "Azt is jól tudod, mit cselekedett én velem Joáb, a Séruja fia, mit cselekedett az Izráel seregeinek két fővezérével, Abnerrel, a Nér fiával, és Amasával, a Jéter fiával, a kiket megölt, harczi vért ontván békességnek idején, és hintett harczi vért az ő derekának övére és az ő lábának saruira."
+        },
+        {
+          "number": 6,
+          "text": "Cselekedjél a te bölcseséged szerint, és ne engedd, hogy megőszülvén, békességgel menjen a koporsóba."
+        },
+        {
+          "number": 7,
+          "text": "De a gileádbeli Barzillainak fiaival cselekedjél irgalmasságot, és legyenek a te asztalod vendégei, mert így közeledtek ők is hozzám, mikor Absolon, a te testvéred elől menekültem."
+        },
+        {
+          "number": 8,
+          "text": "És ímé veled van Sémei, Gérának fia, a Bahurimbeli Benjáminita, a ki gyalázatosan szidalmazott akkor, mikor Mahanáimba mentem; de aztán, mikor elém alájött a Jordánhoz, megesküdtem néki az Úrra, és mondék: Nem öllek meg téged fegyverrel;"
+        },
+        {
+          "number": 9,
+          "text": "Te azonban ne hagyd őt büntetés nélkül, és mivel eszes férfiú vagy, tudod, mit kelljen cselekedned vele, hogy az ő vénségét vérrel bocsássad a koporsóba."
+        },
+        {
+          "number": 10,
+          "text": "Azután elaludt Dávid az ő atyáival, és eltemetteték a Dávid városában."
+        },
+        {
+          "number": 11,
+          "text": "Az idő pedig, a melyben uralkodék Dávid Izráelen, negyven esztendő. Hebronban uralkodék hét esztendeig, Jeruzsálemben pedig uralkodék harminchárom esztendeig."
+        },
+        {
+          "number": 12,
+          "text": "Azután Salamon ült Dávidnak, az ő atyjának királyi székibe, és megerősödék az ő királyi birodalma felette igen."
+        },
+        {
+          "number": 13,
+          "text": "De Adónia, a Haggit fia beméne Bethsabéhoz, a Salamon anyjához, és az monda: Békességes-é a te jöveteled? Ki felele: Békességes."
+        },
+        {
+          "number": 14,
+          "text": "És monda: Beszédem volna veled. Monda az: Szólj."
+        },
+        {
+          "number": 15,
+          "text": "Akkor monda Adónia: Te tudod, hogy az ország az enyém vala, és az egész Izráel reám néz vala, hogy én uralkodjam; de elvéteték az ország tőlem, és lőn az én atyámfiáé, mert az Úrtól adattaték néki."
+        },
+        {
+          "number": 16,
+          "text": "Most egy kérést kérek tőled, ne szégyenítsd meg orczámat. Az pedig monda: Beszélj!"
+        },
+        {
+          "number": 17,
+          "text": "És monda: Beszélj, kérlek Salamon királylyal; mert ő a te kérésedet meg nem veti, hogy adja nékem a Súnemből való Abiságot feleségül."
+        },
+        {
+          "number": 18,
+          "text": "Felele Bethsabé: Jól van, majd szólok melletted a királynak."
+        },
+        {
+          "number": 19,
+          "text": "És beméne Bethsabé Salamon királyhoz, hogy beszéljen vele Adónia érdekében; és felkele a király, és elébe menvén meghajtá magát előtte, és leüle királyi székibe; és széket tétete a király anyjának, hogy üljön az ő jobbkeze felől."
+        },
+        {
+          "number": 20,
+          "text": "És monda Bethsabé: Egy kis kérést kérek tőled, ne szégyenítsd meg orczámat. És monda néki a király: Kérj édes anyám; mert nem szégyenítem meg orczádat."
+        },
+        {
+          "number": 21,
+          "text": "Monda ő: Adassék a Súnemből való Abiság Adóniának, a te testvérednek feleségül."
+        },
+        {
+          "number": 22,
+          "text": "Akkor felele Salamon király, és monda az ő anyjának: De miért kéred te a Súnembeli Abiságot Adóniának? Kérjed néki az országot is; mert ő az én bátyám, és vele egyetért Abjátár pap, és Joáb, a Séruja fia."
+        },
+        {
+          "number": 23,
+          "text": "És megesküvék Salamon király az Úrra, mondván: Úgy cselekedjék velem az Isten, és úgy segéljen, hogy Adónia a saját élete ellen szólotta ezt a beszédet!"
+        },
+        {
+          "number": 24,
+          "text": "Most azért él az Úr, a ki megerősített engem és ültetett engem az én atyámnak, Dávidnak királyi székibe, és a ki házat szerzett nékem, a mint megmondotta volt: ma Adóniának meg kell halnia!"
+        },
+        {
+          "number": 25,
+          "text": "Elküldé azért Salamon király Benáját, a Jójada fiát, a ki levágá őt, és meghala."
+        },
+        {
+          "number": 26,
+          "text": "Abjátár papnak pedig monda a király: Menj el Anathótba, a te jószágodba, mert halálnak fia vagy; de ma meg nem öletlek, mivel te hordoztad az Úr Istennek ládáját Dávid, az én atyám előtt, és mivel az én atyámnak minden nyomorúságaiban részes voltál."
+        },
+        {
+          "number": 27,
+          "text": "És kiűzé Salamon Abjátárt, hogy ne legyen az Úrnak papja, hogy beteljesedjék az Úrnak beszéde, a melyet szólott vala az Éli háza felől Silóban."
+        },
+        {
+          "number": 28,
+          "text": "És eljutott ez a hír Joábhoz, mert Joáb Adóniához hajlott vala, noha azelőtt nem hajlott vala Absolonhoz, és elfuta Joáb az Úrnak sátorába, és megfogá az oltárnak szarvait."
+        },
+        {
+          "number": 29,
+          "text": "Hírül adák pedig Salamon királynak, hogy Joáb az Úrnak sátorához futott, és ímé az oltár mellett áll. Ekkor elküldé Salamon Benáját, a Jójada fiát, mondván: Menj el, vágd le őt."
+        },
+        {
+          "number": 30,
+          "text": "Mikor pedig Benája az Úrnak sátorához ért, monda néki: Ezt mondja a király: Jőjj ki. Kinek felele Joáb: Nem, itt akarok meghalni. És megvivé Benája a királynak e dolgot, mondván: Így szólott Joáb és így felelt nékem."
+        },
+        {
+          "number": 31,
+          "text": "És monda néki a király: Cselekedjél úgy, a mint szólott; vágd le őt és temesd el, hogy elvedd az ártatlan vért, a melyet kiontott Joáb, én rólam és az én atyámnak házáról."
+        },
+        {
+          "number": 32,
+          "text": "És fordítsa az Úr az ő fejére az ő vérét, a miért nálánál igazabb és jobb két férfira támadott, és megölé őket fegyverrel az én atyámnak, Dávidnak tudta nélkül, tudniillik Abnert, Nérnek fiát, az Izráel seregének fővezérét és Amasát, Jéternek fiát, Júda vitézeinek fővezérét."
+        },
+        {
+          "number": 33,
+          "text": "Ezeknek a vére térjen Joáb fejére és az ő magvának fejére mindörökké: Dávidnak pedig és az ő magvának és az ő házának és királyi székének békessége legyen az Úrtól mindörökké."
+        },
+        {
+          "number": 34,
+          "text": "És elméne Benája, Jójada fia, és reá rohanván megölé őt; és eltemetteték az ő házában, a pusztában."
+        },
+        {
+          "number": 35,
+          "text": "Rendelé pedig a király a Jójada fiát ő helyette a sereg fölé, és Sádók papot rendelé a király Abjátár helyett."
+        },
+        {
+          "number": 36,
+          "text": "És elkülde a király, és magához hivatá Sémeit, és monda néki: Építs házat magadnak Jeruzsálemben és lakjál ott; és onnét ne menj ki se ide, se tova."
+        },
+        {
+          "number": 37,
+          "text": "Mert valamely nap kimenéndesz, és általmenéndesz a Kidron patakján, tudd meg, hogy meg kell halnod, a te véred lészen tennen fejeden."
+        },
+        {
+          "number": 38,
+          "text": "És monda Sémei a királynak: Tetszik nékem e beszéd; a miképen szólott az én uram, a király, a képen cselekeszik a te szolgád; és sok ideig lakék Sémei Jeruzsálemben."
+        },
+        {
+          "number": 39,
+          "text": "Lőn azonban három esztendő mulva, hogy Sémeinek két szolgája elszökött Ákishoz, Maaka fiához, a Gáthbeli királyhoz; és hírül adák Sémeinek, mondván: Ímé a te szolgáid Gáthban vannak."
+        },
+        {
+          "number": 40,
+          "text": "Ekkor felkelt Sémei, és megnyergelé szamarát, és elméne Gáthba Ákishoz, hogy megkeresse az ő szolgáit. Oda érvén Sémei, meghozá szolgáit Gáthból."
+        },
+        {
+          "number": 41,
+          "text": "Hírül adák pedig Salamonnak, hogy elment Sémei Jeruzsálemből Gáthba, és haza jött."
+        },
+        {
+          "number": 42,
+          "text": "Akkor elkülde a király, és magához hivatá Sémeit, és monda néki: Nemde esküvéssel kényszerítettelek-é téged az Úrra, és bizonyságot tettem néked, ezt mondván: Valamely napon kimenéndesz, s ide s tova menéndesz, bizonynyal tudjad, hogy meghalsz; és azt mondád nékem: Tetszik e beszéd, megértettem."
+        },
+        {
+          "number": 43,
+          "text": "Miért nem tartottad hát meg az Úr előtt való esküvést, és a parancsolatot, a melyet néked parancsoltam?"
+        },
+        {
+          "number": 44,
+          "text": "Monda annakfelette a király Sémeinek: Te tudod mindazt a gonoszságot, a melyről a te szíved bizonyság, és a melyet atyámmal Dáviddal cselekedtél: az Úr most mindazt a gonoszságot a saját fejedre fordította."
+        },
+        {
+          "number": 45,
+          "text": "Salamon király pedig áldott lészen, és Dávidnak királyi széke lészen állandó az Úr előtt mindörökké."
+        },
+        {
+          "number": 46,
+          "text": "És parancsola a király Benájának, a Jójada fiának, a ki elméne, és levágá Sémeit, és meghala. És az ország megerősödék Salamon kezében."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Sógorságot szerze azután Salamon a Faraóval, az Égyiptombeli királylyal; és elvevé a Faraó leányát, és hozá Dávidnak városába, míg elvégezé az ő házának és az Úr házának építését és Jeruzsálemnek kőfalát köröskörül."
+        },
+        {
+          "number": 2,
+          "text": "De a nép áldozik vala a magas helyeken; mert nem építtetett vala ház az Úr nevének mind ez ideig."
+        },
+        {
+          "number": 3,
+          "text": "Szereté pedig Salamon az Urat, járván Dávidnak, az ő atyjának parancsolatiban, kivéve, hogy a magas helyeken áldozott, és ott tömjénezett."
+        },
+        {
+          "number": 4,
+          "text": "És mikor Gibeonba ment a király, hogy ott áldozzék, mert ott volt a nagy magaslat, és Salamon azon az oltáron áldozott égőáldozatul ezer barmot:"
+        },
+        {
+          "number": 5,
+          "text": "Megjelenék Gibeonban az Úr Salamonnak azon éjjel álmában, és monda az Isten: Kérj, a mit akarsz, hogy adjak néked."
+        },
+        {
+          "number": 6,
+          "text": "És monda Salamon: Te a te szolgáddal, az én atyámmal, Dáviddal nagy irgalmasságot cselekedtél, a miképen ő is járt előtted híven, igazán és hozzád egyenes szívvel, és megtartottad néki ezt a nagy irgalmasságot, hogy néki fiat adtál, a ki az ő királyi székében ül, a mint e mai napon megtetszik."
+        },
+        {
+          "number": 7,
+          "text": "És most, óh én Uram Istenem, te tetted a te szolgádat királylyá, Dávid, az én atyám helyett. Én pedig kicsiny gyermek vagyok, nem tudok kimenni és bejönni."
+        },
+        {
+          "number": 8,
+          "text": "És a te szolgád a te néped között van, a melyet te magadnak választottál, nagy nép ez, a mely meg nem számláltathatik, meg sem írattathatik a sokaság miatt."
+        },
+        {
+          "number": 9,
+          "text": "Adj azért a te szolgádnak értelmes szívet, hogy tudja ítélni a te népedet, és tudjon választást tenni a jó és gonosz között; mert kicsoda kormányozhatja ezt a te nagy népedet?"
+        },
+        {
+          "number": 10,
+          "text": "És tetszék e beszéd az Úrnak, hogy Salamon ilyen dolgot kért."
+        },
+        {
+          "number": 11,
+          "text": "Monda azért az Isten néki: Mivelhogy ezt kérted tőlem, és nem kértél magadnak hosszú életet, sem nem kértél gazdagságot, sem pedig nem kérted a te ellenségidnek lelkét; hanem bölcseséget kértél az ítélettételre:"
+        },
+        {
+          "number": 12,
+          "text": "Ímé a te beszéded szerint cselekszem, ímé adok néked bölcs és értelmes szívet, úgy hogy hozzád hasonló nem volt te előtted, és utánad sem támad olyan, mint te."
+        },
+        {
+          "number": 13,
+          "text": "Sőt még a mit nem kértél, azt is megadom néked, gazdagságot és dicsőséget: úgy hogy a királyok között nem lesz hozzád hasonló senki minden te idődben."
+        },
+        {
+          "number": 14,
+          "text": "És ha az én útaimon járándasz, megőrizvén az én végzéseimet és parancsolatimat, a miképen járt a te atyád, Dávid: meghosszabbítom életed idejét."
+        },
+        {
+          "number": 15,
+          "text": "És mikor felserkent Salamon, ímé álom volt. És méne Jeruzsálembe, és álla az Úr szövetségének ládája elé, és áldozék egészen égőáldozatokat, és készíte hálaáldozatokat, és szerze nagy lakomát minden szolgáinak."
+        },
+        {
+          "number": 16,
+          "text": "Abban az időben jött a királyhoz két parázna asszony, és megálla ő előtte."
+        },
+        {
+          "number": 17,
+          "text": "És monda az egyik asszony: Kérlek uram, én és ez az asszony egy házban laktunk, és szültem ő nála abban a házban."
+        },
+        {
+          "number": 18,
+          "text": "És harmadnappal az én szülésem után, ez az asszony is szült, és együtt valánk, senki idegen nem volt velünk a házban, hanem csak mi ketten valánk abban a házban."
+        },
+        {
+          "number": 19,
+          "text": "És ennek az asszonynak éjszaka meghalt a fia: mert ráfeküdt."
+        },
+        {
+          "number": 20,
+          "text": "És felkelt éjfélkor, és elvitte az én fiamat mellőlem, mert a te szolgálóleányod aludt, és azt maga mellé fekteté, míg az ő meghalt fiát én mellém fektette."
+        },
+        {
+          "number": 21,
+          "text": "Mikor pedig hajnalban felkeltem, hogy megszoptassam az én fiamat: ímé, megholt; de reggel jól megnézegetvén, látám, hogy az nem az én fiam, a kit én szültem."
+        },
+        {
+          "number": 22,
+          "text": "Monda pedig a másik asszony: Nem úgy van, az én fiam az, a ki él, a te fiad pedig az, a ki meghalt. Amaz viszont monda: Nem, hanem a te fiad az, a ki meghalt, és az én fiam az, a ki él. És ekképen versengettek a király előtt."
+        },
+        {
+          "number": 23,
+          "text": "Akkor monda a király: Ez azt mondja: Ez az én fiam, a ki él, és a te fiad az, a ki meghalt; amaz meg ezt mondja: Semmiképen nem, hanem a te fiad az, a ki meghalt, és az én fiam az, a ki él."
+        },
+        {
+          "number": 24,
+          "text": "És monda a király: Hozzatok nékem kardot! És mikor oda hozák a kardot a király elé,"
+        },
+        {
+          "number": 25,
+          "text": "Monda a király: Vágjátok két részre az eleven gyermeket, és adjátok az egyik részt egyiknek, a másikat pedig a másiknak."
+        },
+        {
+          "number": 26,
+          "text": "Ekkor monda az az asszony, a kié vala az élő gyermek, a királynak, mert megindult szíve gyermekén: Kérlek, uram, adjátok néki az élő gyermeket, és ne öljétek meg őt. A másik pedig azt mondja vala. Se enyim, se tied ne legyen; vágjátok ketté."
+        },
+        {
+          "number": 27,
+          "text": "Akkor felele a király, és monda: Adjátok amannak az élő gyermeket, és meg ne öljétek azt, mert az az ő anyja."
+        },
+        {
+          "number": 28,
+          "text": "És mikor hallotta az egész Izráel ezt az ítéletet, a melyet tett vala a király, félék a királynak orczáját, mert látták, hogy Isten bölcsesége van az ő szívében az ítélettételre."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És lőn Salamon király az egész Izráel felett királylyá."
+        },
+        {
+          "number": 2,
+          "text": "Ezek valának pedig az ő főemberei: Azária, Sádók papnak fia."
+        },
+        {
+          "number": 3,
+          "text": "Elihóref és Ahija, Sisának fiai íródeákok, Jósafát, az Ahilud fia, emlékíró vala."
+        },
+        {
+          "number": 4,
+          "text": "És Benája, a Jójada fia, a sereg hadnagya; Sádók pedig és Abjátár papok."
+        },
+        {
+          "number": 5,
+          "text": "És Azáriás, a Nátán fia, a tiszttartók előljárója; és Zábud, a Nátán fia, főtanácsos és a király barátja."
+        },
+        {
+          "number": 6,
+          "text": "És Ahisár udvarbíró; Adónirám pedig, az Abda fia, kincstartó."
+        },
+        {
+          "number": 7,
+          "text": "Vala pedig Salamonnak tizenkét tiszttartója az egész Izráelen, a kik ellátták a királyt és az ő háznépét: esztendőnként mindeniknek egy hónapig kellett az ellátásról gondot viselnie."
+        },
+        {
+          "number": 8,
+          "text": "És ezek azoknak neveik: Húrnak fia az Efraim hegyén."
+        },
+        {
+          "number": 9,
+          "text": "Dékernek fia Mákásban, Sahálbimban, Béth-Semesben és Elonban és Béth-Hanánban."
+        },
+        {
+          "number": 10,
+          "text": "Hésednek fia Arúbotban, ő hozzá tartozott Szókó és Héfer egész földe."
+        },
+        {
+          "number": 11,
+          "text": "Abinádáb fiaié volt Dór egész határa. A Salamon leánya, Táfát, vala néki felesége."
+        },
+        {
+          "number": 12,
+          "text": "Bahana, az Ahilud fia, bírja vala Taanákot és Megiddót és egész Béth-Seánt, mely Sartána mellett vala Jezréel alatt, Béth-Seántól fogva mind Abela Méholáig és mind Jokméámon túl."
+        },
+        {
+          "number": 13,
+          "text": "Gébernek fia, Rámóth Gileádban: övé valának Jáirnak, a Manasse fiának falui, melyek Gileádban valának; az övé volt az Argób tartománya, mely Básánban vala, hatvan nagy város kőfallal és érczzárakkal megerősítve."
+        },
+        {
+          "number": 14,
+          "text": "Ahinádáb, Iddó fia Mahanáimban."
+        },
+        {
+          "number": 15,
+          "text": "Ahimaás Naftaliban; a Salamon leányát, Bosmátát vevé magának feleségül ő is."
+        },
+        {
+          "number": 16,
+          "text": "Bahana, Khúsai fia, Áserben és Alóthban."
+        },
+        {
+          "number": 17,
+          "text": "Jósafát, Paruákh fia, Issakhárban."
+        },
+        {
+          "number": 18,
+          "text": "Simei, Éla fia, Benjáminban."
+        },
+        {
+          "number": 19,
+          "text": "Géber, Uri fia, a Gileád földében, Sihonnak, az Emoreus királyának földében, és Ógnak, a Básánbeli királynak földében; és ez egy tiszttartó bírja vala azt a földet."
+        },
+        {
+          "number": 20,
+          "text": "És Júda és Izráel megsokasodott, olyan sok volt, mint a tenger mellett való föveny, és ettek, ittak és vigadtak."
+        },
+        {
+          "number": 21,
+          "text": "Salamon pedig uralkodék minden országokon a folyóvíztől fogva egész a Filiszteusok földéig és Égyiptomnak határáig, és ajándékokat hoznak vala, és szolgálnak vala Salamonnak, életének minden idejében."
+        },
+        {
+          "number": 22,
+          "text": "És Salamon eledele naponként ez vala: harmincz véka zsemlyeliszt és hatvan véka közönséges liszt;"
+        },
+        {
+          "number": 23,
+          "text": "Tíz hízlalt ökör, húsz füvön járt ökör és száz juh; a szarvasokon, őzeken, bivalokon és hízlalt madarakon kivül."
+        },
+        {
+          "number": 24,
+          "text": "Mert ő uralkodék minden helyeken a folyóvizen túl Thifsától fogva egész Gázáig; minden királyokon, a kik a folyóvizen túl valának; és békessége volt néki minden alattvalóitól köröskörül."
+        },
+        {
+          "number": 25,
+          "text": "És lakozék Júda és Izráel bátorsággal, kiki mind az ő szőlőtője és fügefája alatt. Dántól fogva Bersebáig; Salamonnak minden idejében."
+        },
+        {
+          "number": 26,
+          "text": "És Salamonnak volt negyvenezer szekérbe való lova az istállókban, és tizenkétezer lovagja."
+        },
+        {
+          "number": 27,
+          "text": "És ezek a tiszttartók ellátták Salamon királyt és mindazokat, a kik a Salamon király asztalánál valának, kiki az ő hónapján, minden fogyatkozás nélkül."
+        },
+        {
+          "number": 28,
+          "text": "Azután árpát és szalmát is hoztak a lovaknak és a paripáknak arra a helyre, a hol a király volt, kiki az ő rendelete szerint."
+        },
+        {
+          "number": 29,
+          "text": "És az Isten adott bölcseséget Salamonnak és igen nagy értelmet és mély szívet, mint a fövény, mely a tenger partján van."
+        },
+        {
+          "number": 30,
+          "text": "Úgy hogy a Salamon bölcsesége nagyobb volt, mint a napkelet minden fiainak bölcsesége és Égyiptomnak egész bölcsesége."
+        },
+        {
+          "number": 31,
+          "text": "Sőt bölcsebb volt minden embereknél, még az Ezráhita Ethánnál is és Hémánnál, Kálkólnál és Dardánál, a Máhol fiainál; és híre neve vala minden nemzetségek között köröskörül."
+        },
+        {
+          "number": 32,
+          "text": "És szerze háromezer példabeszédet, és az ő énekeinek száma ezer és öt volt."
+        },
+        {
+          "number": 33,
+          "text": "Szólott a fákról is, a Libánon czédrusfájától az izsópig, a mely a falból nevekedik ki; és szólott a barmokról, a madarakról, a csúszó-mászó állatokról és a halakról is."
+        },
+        {
+          "number": 34,
+          "text": "És jőnek vala minden népek közül, hogy hallgassák a Salamon bölcseségét; a földnek minden királyaitól, a kik hallották vala az ő bölcseségét."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És Hírám, Tírus királya elküldé az ő szolgáit Salamonhoz, mikor meghallotta, hogy őt kenték királylyá az ő atyja helyett; mert Hírám szerette Dávidot teljes életében."
+        },
+        {
+          "number": 2,
+          "text": "És külde Salamon Hírámhoz, ezt izenvén néki:"
+        },
+        {
+          "number": 3,
+          "text": "Te tudod, hogy Dávid, az én atyám nem építhete házat az Úrnak, az ő Istenének nevének a háborúk miatt, a melyekkel őt körülvették vala, mígnem az Úr az ő lábainak talpa alá vetette azokat;"
+        },
+        {
+          "number": 4,
+          "text": "De most az Úr, az én Istenem nékem nyugodalmat adott mindenfelől, úgy hogy semmi ellenségem és senkitől semmi bántásom nincs."
+        },
+        {
+          "number": 5,
+          "text": "Ímé azt gondoltam magamban, hogy házat építek az Úrnak, az én Istenemnek nevének, a miképen szólott az Úr Dávidnak, az én atyámnak, ezt mondván: A te fiad, a kit helyetted ültetek a te királyi székedbe, ő építi meg azt a házat az én nevemnek."
+        },
+        {
+          "number": 6,
+          "text": "Most azért parancsold meg, hogy vágjanak nékem czédrusfákat a Libánonon. Az én szolgáim is együtt lesznek a te szolgáiddal; a te szolgáidnak pedig jutalmát megadom néked mind a szerint, a mit mondándasz; mert tudod, hogy nincsen mi közöttünk olyan ember, a ki a favágáshoz úgy értene, mint a Sidonbeliek."
+        },
+        {
+          "number": 7,
+          "text": "Mikor azért meghallotta Hírám a Salamon izenetét, igen megörült, és monda: Áldott legyen e mai napon az Úr, a ki Dávidnak bölcs fiat adott e nagy népen."
+        },
+        {
+          "number": 8,
+          "text": "És elkülde Hírám Salamonhoz, ezt izenvén: Megértettem a mi felől küldöttél hozzám; én megteszem minden kivánságodat mind a czédrusfákra, mind a fenyőfákra nézve."
+        },
+        {
+          "number": 9,
+          "text": "Az én szolgáim a Libánonról aláviszik a tengerre a fákat: én pedig azokat tutajokra rakatván, a tengeren addig a helyig vitetem, a melyet te megizentetsz nékem, és azokat ott kihányatom, és te vitesd el. Te pedig abban teljesítsd kivánságomat, hogy adj eledelt az én háznépemnek."
+        },
+        {
+          "number": 10,
+          "text": "Ada azért Hírám Salamonnak czédrusfákat és fenyőfákat, minden kivánsága szerint."
+        },
+        {
+          "number": 11,
+          "text": "Salamon pedig ada Hírámnak húszezer véka búzát az ő háznépének táplálására, és húszezer kórus sajtolt olajat. Ezt adja vala Salamon Hírámnak esztendőről-esztendőre."
+        },
+        {
+          "number": 12,
+          "text": "Az Úr azért bölcsességet ada Salamonnak, a mint megmondotta vala néki; és békesség lőn Hírám és Salamon között, és ők szövetséget tőnek egymással."
+        },
+        {
+          "number": 13,
+          "text": "Salamon király pedig robotosokat szedete az egész Izráelből; és harminczezer ember lőn robotossá."
+        },
+        {
+          "number": 14,
+          "text": "A kiket aztán elkülde a Libánonra, minden hónapra tíz-tízezer ember egymás után. Egy hónapig a Libánon hegyén valának, két hónapig az ő házoknál. Adónirám vala pedig a robotosok feje."
+        },
+        {
+          "number": 15,
+          "text": "Ezenkivül Salamonnak hetvenezer teherhordója, és nyolczvanezer kővágója volt a hegyen."
+        },
+        {
+          "number": 16,
+          "text": "A pallérok fejedelmein kivül, a kikre Salamon a munkának igazgatását bízta volt, a kik háromezeren és háromszázan valának, a kik a munkálkodó népet szorgalmaztatták."
+        },
+        {
+          "number": 17,
+          "text": "És megparancsolá a király, hogy nagy és drága köveket vágjanak ki, nevezetesen faragott köveket a ház fundamentomául;"
+        },
+        {
+          "number": 18,
+          "text": "Melyeket kifaragának a Salamon kőmívesei és a Hírám ácsai és a Gibleusok; és elkészíték a fákat és a köveket a ház építéséhez."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És megépítteték az Úrnak háza az Izráel fiainak Égyiptom földéből való kijövetele után a négyszáznyolczvanadik esztendőben, Salamon Izráel felett való uralkodásának negyedik esztendejében, a Zif hónapban, mely a második hónap."
+        },
+        {
+          "number": 2,
+          "text": "És a ház, a melyet Salamon király az Úrnak építe, hatvan sing hosszú, húsz sing széles és harmincz sing magas volt."
+        },
+        {
+          "number": 3,
+          "text": "És egy tornácz vala a ház temploma előtt, a melynek a hossza húsz sing volt, a háznak szélessége szerint; a szélessége pedig tíz sing volt a ház hosszában."
+        },
+        {
+          "number": 4,
+          "text": "És építe a házon ablakokat is lezárt rostélyzattal."
+        },
+        {
+          "number": 5,
+          "text": "És építe a ház falaira emeleteket köröskörül, a ház falai körül a szent helyen és a szentek szentjén, és készíte mellék helyiségeket körül."
+        },
+        {
+          "number": 6,
+          "text": "Az alsó emelet belső szélessége öt sing, a középső szélessége hat sing és a harmadik szélessége hét sing volt, és bemélyedéseket építe a ház körül kivülről, hogy az emeletek gerendái ne nyúljanak be a ház falaiba."
+        },
+        {
+          "number": 7,
+          "text": "Mikor pedig a ház építteték, a kőbányának egészen kifaragott köveiből építtetett, úgy hogy sem kalapácsnak, sem fejszének, sem valami egyéb vasszerszámnak pengése nem hallattatott a háznak felépítésénél."
+        },
+        {
+          "number": 8,
+          "text": "Az alsó emelet középső mellékhelyiségéhez egy ajtó vezetett a ház jobb oldalán, és egy csiga-grádics vitt fel a középső emeletbe, és a középsőből a harmadikba."
+        },
+        {
+          "number": 9,
+          "text": "Megépíté ekként azt a házat és elvégezé, és befedé a házat gerendákkal és czédrusfadeszkákkal."
+        },
+        {
+          "number": 10,
+          "text": "És megépíté az emeleteket az egész ház körül, a melyeknek magasságok öt-öt sing volt, és a házhoz czédrusfagerendákkal ragasztattak."
+        },
+        {
+          "number": 11,
+          "text": "És lőn az Úrnak beszéde Salamonhoz, ezt mondván:"
+        },
+        {
+          "number": 12,
+          "text": "Ez ama ház, a melyet te építesz: Ha az én rendelésimben jársz, és az én ítéletim szerint cselekszel, és megtartod minden én parancsolatimat, azokban járván: Én is bizonyára megerősítem veled az én beszédemet, a melyet szólottam Dávidnak, a te atyádnak;"
+        },
+        {
+          "number": 13,
+          "text": "És az Izráel fiai között lakozom, és nem hagyom el az én népemet, az Izráelt."
+        },
+        {
+          "number": 14,
+          "text": "Megépíté azért Salamon azt a házat, és elvégezé azt."
+        },
+        {
+          "number": 15,
+          "text": "És megbéllelé a ház falait belől czédrusfával, a ház padlózatától egészen a padlásig beborítá belől fával; a ház padlózatát pedig beborítá fenyődeszkákkal."
+        },
+        {
+          "number": 16,
+          "text": "És építe a ház hátulján egy húsz sing hosszú czédrusfa falat a padlózattól egész a padlásig, és építé azt a ház hátulsó részének: szentek-szentjének."
+        },
+        {
+          "number": 17,
+          "text": "Az előtte való szenthely hossza negyven sing volt."
+        },
+        {
+          "number": 18,
+          "text": "Belülről az egész ház merő czédrus volt, kivésett sártökökkel és kinyilt virágbimbókkal, úgy hogy semmi kő ki nem látszott."
+        },
+        {
+          "number": 19,
+          "text": "És a szentek-szentjét építé a ház belső részében, hogy abba helyheztesse az Úr szövetségének ládáját."
+        },
+        {
+          "number": 20,
+          "text": "A szentek-szentje belső részének a hossza vala húsz sing, a szélessége is húsz sing, a magassága is húsz sing, és beborítá azt finom aranynyal; az oltárt is beborítá czédrusdeszkákkal."
+        },
+        {
+          "number": 21,
+          "text": "És Salamon beborította a házat belől finom aranynyal, és arany lánczot vont a belső rész előtt, a melyet szintén bevont aranynyal."
+        },
+        {
+          "number": 22,
+          "text": "Úgy, hogy az egész ház be volt vonva merő aranynyal, sőt az oltárt is, a mely a szentek-szentje előtt volt, egészen beborítá aranynyal."
+        },
+        {
+          "number": 23,
+          "text": "És csinált a szentek-szentjébe két tíz sing magas Kérubot olajfából."
+        },
+        {
+          "number": 24,
+          "text": "És öt sing volt az egyik Kérub szárnya, és öt sing a másik Kérub szárnya is, úgy, hogy az egyik szárnya végétől, a másik szárnya végéig tíz sing vala."
+        },
+        {
+          "number": 25,
+          "text": "A másik Kérub is tíz sing volt; és mind a két Kérubnak mind a mértéke, mind a faragása egy vala;"
+        },
+        {
+          "number": 26,
+          "text": "Úgy, hogy az egyik Kérub magassága tíz sing, és ugyanannyi a másik Kérubé is."
+        },
+        {
+          "number": 27,
+          "text": "És helyezteté a Kérubokat a ház belsejébe, és a mint a Kérubok kiterjeszték szárnyukat, az egyiknek szárnya a ház egyik falát, a másik Kérub szárnya pedig a másik falát érte; de a ház közepén összeért egyik szárny a másikkal."
+        },
+        {
+          "number": 28,
+          "text": "És beborítá a Kérubokat aranynyal."
+        },
+        {
+          "number": 29,
+          "text": "És a ház összes falain köröskörül kivül és belől Kérubokat, pálmafákat és kinyilt virágokat metszetett ki."
+        },
+        {
+          "number": 30,
+          "text": "És beborítá még a ház padlóját is aranynyal kivül és belől."
+        },
+        {
+          "number": 31,
+          "text": "És a szentek-szentjének bemenetelén csinála ajtót olajfából, az ajtófélfák kiszögellése egy ötödrész volt;"
+        },
+        {
+          "number": 32,
+          "text": "És két ajtószárnyat olajfából, és metszete reájok Kérubokat, pálmafákat és kinyilt virágokat, és beborítá azokat aranynyal; a Kérubokat is és a pálmafákat is megaranyoztatá."
+        },
+        {
+          "number": 33,
+          "text": "E képen csinált a templom szenthelyénél is négyszegletű ajtófélfákat olajfából."
+        },
+        {
+          "number": 34,
+          "text": "És csinált két ajtót cziprusfából, és az egyik ajtón is két forgó ajtószárny volt, a másik ajtón is két forgó ajtószárny."
+        },
+        {
+          "number": 35,
+          "text": "És metszete azokra Kérubokat és pálmafákat és kinyilt virágokat, és beborítá aranynyal, rá alkalmaztatva azt a metszésre."
+        },
+        {
+          "number": 36,
+          "text": "Azután felépíté a belső pitvart három rend faragott kőből és egy rend czédrusgerendából."
+        },
+        {
+          "number": 37,
+          "text": "Az ő uralkodásának negyedik esztendejében fundáltaték az Úrnak háza Zif hónapban."
+        },
+        {
+          "number": 38,
+          "text": "És a tizenegyedik esztendőben, Búl havában, (mely a nyolczadik hónap) végezteték el a ház, minden dolga és rendje szerint. És így építé azt hét esztendeig."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Azután a maga házát építé Salamon tizenhárom esztendeig, a mely alatt elvégezé az ő házát egészen."
+        },
+        {
+          "number": 2,
+          "text": "Megépíté a Libánon erdő házát is, melynek hossza száz sing vala, szélessége ötven sing, magassága harmincz sing; építé azt négy rend czédrusoszlopon és az oszlopokon czédrusgerendák valának."
+        },
+        {
+          "number": 3,
+          "text": "És bepadlá czédrusdeszkákkal felül a gerendák felett, melyek valának negyvenöt oszlopon, mindenik renden tizenöt."
+        },
+        {
+          "number": 4,
+          "text": "És három rend ablak rajta egymással átellenben, három-három ellenében."
+        },
+        {
+          "number": 5,
+          "text": "És mind az ajtók és azoknak oldalfái négyszögűek valának az ablakokkal együtt, és egyik ablak a másiknak átellenébe volt mind a három renden."
+        },
+        {
+          "number": 6,
+          "text": "És építé az oszlopcsarnokot, a melynek hossza ötven sing és szélessége harmincz sing volt; és egy tornáczot ez elé, és oszlopokat és vastag gerendákat ezek elé."
+        },
+        {
+          "number": 7,
+          "text": "És építé a trón-termet, a hol ítélt, a törvényházat, a melyet czédrusfával bélelt meg a padlózattól fogva fel a padlásig."
+        },
+        {
+          "number": 8,
+          "text": "Azután a saját házát építé, a melyben ő maga lakott, a másik udvarba befelé a teremtől, hasonlóan a másikhoz, és építe egy házat a Faraó leányának is, a kit feleségül vett Salamon, hasonlót e teremhez."
+        },
+        {
+          "number": 9,
+          "text": "Mindezek drágakövekből voltak, mérték szerint kifaragva, fűrészszel metszve minden oldalról, a fundamentomtól a tetőzetig, kivül is mind a nagy pitvarig."
+        },
+        {
+          "number": 10,
+          "text": "Még a fundamentom is drága és nagy kövekből volt: tíz singnyi kövekből és nyolcz singnyi kövekből."
+        },
+        {
+          "number": 11,
+          "text": "És ezeken felül voltak a mérték szerint faragott drágakövek és czédrusfák."
+        },
+        {
+          "number": 12,
+          "text": "És a nagy pitvarban köröskörül három sor faragott kő és egy sor faragott czédrusgerenda volt, épen mint az Úr házának belső pitvara és a ház tornácza."
+        },
+        {
+          "number": 13,
+          "text": "És elkülde Salamon király, és elhozatá Hírámot Tírusból."
+        },
+        {
+          "number": 14,
+          "text": "Ez egy özvegy asszonynak volt a fia a Nafthali nemzetségéből; az ő atyja pedig Tírusbeli rézmíves ember vala; és ez teljes vala bölcseséggel, értelemmel és tudománynyal, hogy tudna csinálni mindenféle mívet rézből. Ki mikor Salamon királyhoz jött, minden mívet megcsinála néki."
+        },
+        {
+          "number": 15,
+          "text": "És formála két réz oszlopot, az egyik oszlop magassága tizennyolcz sing volt, és tizenkét sing zsinór éri vala át mind a két oszlopot."
+        },
+        {
+          "number": 16,
+          "text": "És készíte két gömböt érczből öntve, hogy azokat az oszlopok tetejére tegye, és öt sing magas volt az egyik gömb és öt sing magas volt a másik gömb."
+        },
+        {
+          "number": 17,
+          "text": "Reczés mívű hálók, lánczmívű zsinórok voltak a gömbökön, a melyek az oszlopok tetején valának; hét volt az egyik gömbön, és hét volt a másik gömbön is."
+        },
+        {
+          "number": 18,
+          "text": "És megkészíté az oszlopokat, és két sor díszítést tett köröskörül az egyik hálón, hogy befedje a gömböket, a melyek az oszlopfőkön voltak; és így csinálá a másik gömböt is."
+        },
+        {
+          "number": 19,
+          "text": "És a gömbök, a melyek a tornáczban levő oszlopok tetején voltak, liliom formájúak voltak, négy singnyiek."
+        },
+        {
+          "number": 20,
+          "text": "Gömbök voltak a két oszlopon, felül, közel a kidomborodáshoz, a mely a háló mellett volt. És kétszáz gránátalma volt sorban köröskörül a második gömbön."
+        },
+        {
+          "number": 21,
+          "text": "És felállítá az oszlopokat a templom tornáczában; és felállítá a jobb oszlopot, és nevezé annak nevét Jákinnak, és felállítá a bal oszlopot, és nevezé annak nevét Boáznak."
+        },
+        {
+          "number": 22,
+          "text": "És az oszlopok tetején liliomok formáltattak vala. És ilyen módon végezteték el az oszlopok míve."
+        },
+        {
+          "number": 23,
+          "text": "És csinála egy öntött tengert, mely egyik szélétől fogva a másik széléig tíz sing volt, köröskörül kerek, és öt sing magas, és a kerületit harmincz sing zsinór érte vala körül."
+        },
+        {
+          "number": 24,
+          "text": "Valának pedig a peremén alól köröskörül formáltatva apró sártökök; tíz-tíz mindenik singben az egész tenger körül, az ilyen sártököcskék két renddel valának öntve köröskörül a maga öntésében."
+        },
+        {
+          "number": 25,
+          "text": "És tizenkét ökrön állott, három északra fordulva, három nyugotra, három délre és három naptámadatra, és a tenger fölül rajtok, hátok pedig mind befelé."
+        },
+        {
+          "number": 26,
+          "text": "És a vastagsága egy tenyérnyi volt, és a pereme olyan, mint a pohár ajaka, vagy a liliom virága, és kétezer báth fért bele."
+        },
+        {
+          "number": 27,
+          "text": "És készíte tíz ércz-talpat, mindegyik talpat négy sing hosszúra, és négy sing szélesre, és három sing magasra."
+        },
+        {
+          "number": 28,
+          "text": "És e talpak így voltak csinálva: oldalaik voltak, és az oldalak a szélpártázatok között voltak."
+        },
+        {
+          "number": 29,
+          "text": "És az oldalakon, a melyek a pártázatok között voltak, oroszlánok, ökrök és Kérubok voltak, és a pártázatokon felül is ekként; az oroszlánok és ökrök alatt pedig czifrázatok voltak bevésett munkával."
+        },
+        {
+          "number": 30,
+          "text": "És mindenik talpnak négy-négy réz kereke és réz tengelye volt, és a négy szegleten támaszok voltak; a mosdómedenczén alul voltak e támaszok öntve, és mindegyiknek oldalán czifrázatok."
+        },
+        {
+          "number": 31,
+          "text": "És a szája az ő kerekded fészkének belső részétől fogva oda felfelé egy singnyi volt, és a fészeknek szája kerekded vala, oszlopformára csinálva, másfél singnyi széles, és szájánál is szép metszések valának, és azoknak pártázatai négyszögűek valának, nem gömbölyűek."
+        },
+        {
+          "number": 32,
+          "text": "És négy kerék volt a pártázatok alatt, és a kerekek tengelyei a talphoz voltak erősítve, és mindenik keréknek magassága másfél sing vala."
+        },
+        {
+          "number": 33,
+          "text": "És e kerekek hasonlóak valának a szekérnek kerekeihez, csakhogy a tengelyeik, kerékagyaik, küllőik, talpaik mind öntve valának."
+        },
+        {
+          "number": 34,
+          "text": "És négy vállacskát csinált mindenik talp négy szegletén; magából a talpból jöttek ki a vállacskák."
+        },
+        {
+          "number": 35,
+          "text": "És e talp tetején fél singnyi kerekded magasság volt köröskörül, és a talp tetején voltak annak tartókezei és pártázatai a maga öntéséből."
+        },
+        {
+          "number": 36,
+          "text": "Metsze pedig annak tábláira, tartókezeire, pártázataira Kérubokat, oroszlánokat és pálmafákat: mindeniknek az üres helye szerint, és koszorút köröskörül."
+        },
+        {
+          "number": 37,
+          "text": "Így készítette a tíz talpat egy öntésből, egy mérték és forma szerint."
+        },
+        {
+          "number": 38,
+          "text": "És csinála tíz mosdómedenczét is rézből, és mindenik mosdómedenczébe negyven báth fér vala; és mindenik mosdómedencze négy singnyi vala, és a tíz talp mindenikén egy-egy mosdómedencze vala."
+        },
+        {
+          "number": 39,
+          "text": "És helyhezteté a talpak ötét a ház jobbfelől való részére, és ötét a ház balfelől való részére; a tengert pedig helyhezteté a ház jobbrésze felől naptámadatra dél ellenébe."
+        },
+        {
+          "number": 40,
+          "text": "És készített Hírám még üstöket, lapátokat és medenczéket, és elvégezé az egész munkát, a melyet Salamon királynak csinált az Úr házához;"
+        },
+        {
+          "number": 41,
+          "text": "Tudniillik a két oszlopot és a kerek gömböket, a melyek a két oszlop tetejére tétettek, és a két hálót a két kerek gömb befedezésére, a melyek az oszlopok tetejére tétettek."
+        },
+        {
+          "number": 42,
+          "text": "És a négyszáz gránátalmát a két hálóra; két rend gránátalmát minden hálóba, a két kerekded gömb befejezésére, a melyek valának az oszlopok tetején;"
+        },
+        {
+          "number": 43,
+          "text": "A tíz talpat és a talpakra való tíz mosdómedenczét;"
+        },
+        {
+          "number": 44,
+          "text": "Az egy tengert és a tizenkét ökröt a tenger alá;"
+        },
+        {
+          "number": 45,
+          "text": "Fazekakat, lapátokat és medenczéket. És mindezek az edények, a melyeket Hírám Salamon királynak az Úr háza számára készített, csiszolt rézből voltak."
+        },
+        {
+          "number": 46,
+          "text": "A Jordán völgyében önteté ezeket a király az agyagos földben, Sukhót és Sártán között."
+        },
+        {
+          "number": 47,
+          "text": "És mindezeket az edényeket Salamon méretlen hagyá, a réznek felettébb való sokasága miatt."
+        },
+        {
+          "number": 48,
+          "text": "És megcsináltata Salamon minden egyéb felszerelést is, mely az Úr házához szükséges volt: az arany oltárt, az arany asztalt, melyen a szent kenyerek állottak."
+        },
+        {
+          "number": 49,
+          "text": "És a gyertyatartókat színaranyból, ötöt jobbfelől és ötöt balfelől a szentek-szentje elé, és arany virágokat, lámpákat, és hamvvevőket."
+        },
+        {
+          "number": 50,
+          "text": "Azután csészéket, késeket, medenczéket, tömjénezőket és serpenyőket színaranyból, sőt a belső ház, a szentek-szentje és a szenthely ajtainak sarkait is mind aranyból."
+        },
+        {
+          "number": 51,
+          "text": "És ilyenképen elvégezteték az egész mű, a melyet Salamon király csinála az Úrnak házához. És bevivé Salamon az ő atyjától, Dávidtól az Istennek szenteltetett jószágot, az ezüstöt, aranyat és az edényeket és azokat is az Úr házának kincsei közé tevé."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Akkor összegyűjté Salamon az Izráel véneit és a nemzetségeknek minden fejeit, az Izráel fiai atyjaiknak fejedelmeit Salamon királyhoz Jeruzsálembe, hogy az Úr szövetségének ládáját felvigyék a Dávid városából, mely a Sion."
+        },
+        {
+          "number": 2,
+          "text": "És felgyűlének Salamon királyhoz az Izráel minden férfiai az Ethánim havában, az ünnepen; ez a hetedik hónap."
+        },
+        {
+          "number": 3,
+          "text": "Mikor pedig eljöttek mindnyájan az Izráel vénei: felvevék a papok a ládát,"
+        },
+        {
+          "number": 4,
+          "text": "És felvivék az Úr ládáját, a gyülekezetnek sátorát, és mind a szent edényeket, melyek valának a sátorban, és felvivék azokat a papok és a Léviták."
+        },
+        {
+          "number": 5,
+          "text": "És Salamon király és az Izráel egész gyülekezete, a mely ő hozzá gyűlt, megyen vala ő vele a láda előtt, áldozván juhokkal és ökrökkel, melyek meg sem számláltathatnának, sem pedig meg nem irattathatnának a sokaság miatt."
+        },
+        {
+          "number": 6,
+          "text": "És bevivék a papok az Úr szövetségének ládáját az ő helyére a ház belső részébe, a szentek-szentjébe, a Kérubok szárnyai alá."
+        },
+        {
+          "number": 7,
+          "text": "Mert a Kérubok kiterjesztik vala szárnyaikat a láda helye felett, és befedik vala a Kérubok a ládát és annak rúdjait felülről."
+        },
+        {
+          "number": 8,
+          "text": "És a rudak olyan hosszúak voltak, hogy azok vége látható volt a szenthelyen a szentek-szentjének első része felől; azonban kivül nem voltak láthatók; és ott vannak mind e mai napig."
+        },
+        {
+          "number": 9,
+          "text": "És nem volt egyéb a ládában, mint csak a két kőtábla, a melyeket Mózes a Hórebnél helyezett bele, mikor az Úr szövetséget kötött az Izráel fiaival, mikor kijövének Égyiptom földéből."
+        },
+        {
+          "number": 10,
+          "text": "Mikor pedig kijöttek a papok a szenthelyből: köd tölté be az Úrnak házát,"
+        },
+        {
+          "number": 11,
+          "text": "Úgy, hogy meg sem állhattak a papok az ő szolgálatjokban a köd miatt; mert az Úr dicsősége töltötte vala be az Úrnak házát."
+        },
+        {
+          "number": 12,
+          "text": "Akkor monda Salamon: Az Úr mondotta, hogy ő lakoznék ködben."
+        },
+        {
+          "number": 13,
+          "text": "Építve építettem házat néked lakásul; helyet, a hol örökké lakjál."
+        },
+        {
+          "number": 14,
+          "text": "Azután megfordult a király, és megáldá Izráel egész gyülekezetét és az Izráel egész gyülekezete felállott."
+        },
+        {
+          "number": 15,
+          "text": "És monda: Áldott legyen az Úr, Izráelnek Istene, a ki szólott az ő szája által Dávidnak, az én atyámnak; és azt az ő hatalmasságával beteljesítette, mondván:"
+        },
+        {
+          "number": 16,
+          "text": "Attól a naptól fogva, a melyen kihoztam az én népemet, az Izráelt Égyiptomból, soha nem választottam egyetlen várost sem az Izráel minden nemzetségei közül, hogy ott nékem házat építenének, a melyben lenne az én nevem; hanem csak Dávidot választottam, hogy ő legyen az én népem, Izráel felett."
+        },
+        {
+          "number": 17,
+          "text": "És ámbár az én atyám, Dávid már elvégezte volt, hogy ő épít házat az Úrnak, Izráel Istene nevének;"
+        },
+        {
+          "number": 18,
+          "text": "De az Úr azt mondá Dávidnak, az én atyámnak: Azt, hogy arra gondoltál, hogy az én nevemnek házat építs, jól cselekedted, hogy szívedben ezt végezted;"
+        },
+        {
+          "number": 19,
+          "text": "Mégis nem te építesz házat nékem, hanem a te fiad, a ki a te ágyékodból származik, az épít házat az én nevemnek."
+        },
+        {
+          "number": 20,
+          "text": "És beteljesíté az Úr az ő beszédét, a melyet szólott; mert felkelék az én atyám, Dávid helyett, és ülék az Izráel királyi székibe, a miképen megmondotta vala az Úr, és megépítém a házat az Úr, Izráel Istene nevének."
+        },
+        {
+          "number": 21,
+          "text": "És helyet szerzettem ott a ládának, a melyben az Úrnak szövetsége vagyon, a melyet szerzett a mi atyáinkkal, mikor kihozta őket Égyiptom földéből."
+        },
+        {
+          "number": 22,
+          "text": "És oda állott Salamon az Úr oltára elé, az Izráel egész gyülekezetével szembe, és felemelé kezeit az ég felé,"
+        },
+        {
+          "number": 23,
+          "text": "És monda: Uram, Izráel Istene! nincsen hozzád hasonló Isten, sem az égben ott fenn, sem a földön itt alant, a ki megtartod a szövetséget és az irgalmasságot a te szolgáidnak, a kik te előtted teljes szívvel járnak;"
+        },
+        {
+          "number": 24,
+          "text": "A ki megtartottad azt, a mit a te szolgádnak, Dávidnak, az én atyámnak szólottál; mert magad szólottál néki, és a te hatalmaddal beteljesítetted, a mint e mai napon megtetszik."
+        },
+        {
+          "number": 25,
+          "text": "Most azért Uram, Izráel Istene, tartsd meg, a mit a te szolgádnak, Dávidnak, az én atyámnak igértél, ezt mondván: A te magodból való férfiú el nem fogy én előttem, a ki az Izráel királyi székibe üljön; csakhogy a te fiaid őrizzék meg az ő útjokat, hogy én előttem járjanak, a mint te én előttem jártál."
+        },
+        {
+          "number": 26,
+          "text": "Most teljesítsd be, Izráel Istene, a te szavaidat, a melyeket szólottál a te szolgádnak, Dávidnak, az én atyámnak."
+        },
+        {
+          "number": 27,
+          "text": "Vajjon gondolható-é, hogy lakozhatnék az Isten a földön? Ímé az ég, és az egeknek egei be nem foghatnak téged; mennyivel kevésbbé e ház, a melyet én építettem."
+        },
+        {
+          "number": 28,
+          "text": "De tekints a te szolgád imádságára és könyörgésére, óh Uram, én Istenem, hogy meghalljad a dicséretet és az imádságot, a melylyel a te szolgád könyörög előtted e mai napon;"
+        },
+        {
+          "number": 29,
+          "text": "Hogy a te szemeid e házra nézzenek éjjel és nappal, e helyre, a mely felől azt mondottad: Ott lészen az én nevem; hallgasd meg ez imádságot, a melylyel könyörög a te szolgád e helyen."
+        },
+        {
+          "number": 30,
+          "text": "És hallgasd meg a te szolgádnak és a te népednek, az Izráelnek könyörgését, a kik imádkozándanak e helyen; hallgasd meg lakhelyedből, a mennyekből, és meghallgatván légy kegyelmes!"
+        },
+        {
+          "number": 31,
+          "text": "Mikor vétkezéndik valaki felebarátja ellen, és esküre köteleztetik, hogy megesküdjék és ő ide jő, megesküszik az oltár előtt ebben a házban:"
+        },
+        {
+          "number": 32,
+          "text": "Te hallgasd meg a mennyekből, és vidd véghez, és tégy igazat a te szolgáid között, kárhoztatván az istentelent, hogy fején teljék a mit keresett; és megigazítván az igazat, megfizetvén néki az ő igazsága szerint."
+        },
+        {
+          "number": 33,
+          "text": "Mikor megverettetik a te néped, az Izráel, az ő ellenségeitől, mivel ellened vétkeztek, és hozzád megtéréndenek, és vallást teéndenek a te nevedről, és néked imádkozándanak és könyörgéndenek e házban:"
+        },
+        {
+          "number": 34,
+          "text": "Te hallgasd meg a mennyekből, és bocsásd meg az Izráelnek, a te népednek vétkét; és hozd vissza őket arra a földre, a melyet adtál az ő atyáiknak."
+        },
+        {
+          "number": 35,
+          "text": "Mikor berekesztetik az ég, és nem lészen eső, mert ellened vétkeztek; és imádkozándanak e helyen, és vallást teéndenek a te nevedről, és megtéréndenek az ő bűnökből, mert te szorongatod őket:"
+        },
+        {
+          "number": 36,
+          "text": "Te hallgasd meg őket a mennyekből, és légy kegyelmes a te szolgáidnak és az Izráelnek, a te népednek vétke iránt, tanítsd meg őket a jó útra, a melyen járjanak; és adj esőt a te földedre, a melyet örökségül adtál a te népednek."
+        },
+        {
+          "number": 37,
+          "text": "Éhség ha lesz e földön, ha döghalál, aszály, ragya, sáska, cserebogár; ha ellenség szállja meg kapuit; vagy más csapás és nyavalya jövénd reájok:"
+        },
+        {
+          "number": 38,
+          "text": "A ki akkor könyörög és imádkozik, legyen az bárki; vagy a te egész néped, az Izráel, ha elismeri kiki az ő szívére mért csapást, és kiterjeszténdi kezeit e ház felé:"
+        },
+        {
+          "number": 39,
+          "text": "Te hallgasd meg a mennyekből, a te lakhelyedből és légy kegyelmes, és cselekedd azt, hogy kinek-kinek fizess az ő útai szerint, a mint megismerted az ő szívét, mert egyedül csak te ismered minden embernek szívét."
+        },
+        {
+          "number": 40,
+          "text": "Hogy féljenek téged mind éltig, míg e földnek színén lakoznak, a melyet adtál a mi atyáinknak."
+        },
+        {
+          "number": 41,
+          "text": "Sőt még az idegen is, a ki nem a te néped, az Izráel közül való, ha eljövénd messze földről a te nevedért;"
+        },
+        {
+          "number": 42,
+          "text": "(Mert meghallják a te nagyságos nevedet és a te hatalmas kezedet és kinyújtott karodat), és eljövén imádkozánd e házban:"
+        },
+        {
+          "number": 43,
+          "text": "Te hallgasd meg a mennyekből, a te lakhelyedből, és add meg az idegennek mindazt, a miért könyörög néked, hogy mind az egész földön való népek megismerjék a te nevedet, és féljenek úgy téged, miképen a te néped az Izráel; és ismerjék meg, hogy a te nevedről neveztetik ez a ház, a melyet én építettem."
+        },
+        {
+          "number": 44,
+          "text": "Ha a te néped hadba megy ki az ő ellensége ellen, az úton, a melyen te küldöd el, és imádkozándik az Úrhoz, fordulván az úton e város felé, a melyet te magadnak választottál és e ház felé, a melyet építettem a te nevednek:"
+        },
+        {
+          "number": 45,
+          "text": "Hallgasd meg a mennyekből az ő imádságokat és könyörgésöket, és szerezz nékik igazságot."
+        },
+        {
+          "number": 46,
+          "text": "Ha te ellened vétkezéndenek, – mert nincsen ember, a ki ne vétkeznék – és megharagudván reájok, ellenség kezébe adándod, és fogva elviéndik őket azok, a kiktől megfogattak, az ellenségnek földére, messze vagy közel;"
+        },
+        {
+          "number": 47,
+          "text": "És eszökre térnek a földön, melyre fogva vitettek, és megtérvén könyörgenek néked azoknak földökön, a kiktől fogva elvitettek, mondván: Vétkeztünk, hamisan és istentelenül cselekedtünk!"
+        },
+        {
+          "number": 48,
+          "text": "És megtéréndenek te hozzád teljes szívökből és lelkökből, az ő ellenségöknek földében, a kik őket fogva elvitték, és imádkozándanak hozzád az ő földöknek útja felé fordulva, a melyet adtál az ő atyáiknak, és e város felé, a melyet magadnak választottál, és e ház felé, a melyet a te nevednek építettem:"
+        },
+        {
+          "number": 49,
+          "text": "Hallgasd meg a mennyekből, a te lakhelyedből az ő imádságokat és könyörgésöket, és szerezz nékik igazságot;"
+        },
+        {
+          "number": 50,
+          "text": "És légy kegyelmes a te néped iránt, a kik ellened vétkezéndenek, és minden bűneik iránt, a melyekkel ellened vétkeztek; és szerezz kedvességet nékik azok előtt, a kik őket fogva tartják, hogy könyörüljenek rajtok;"
+        },
+        {
+          "number": 51,
+          "text": "Mert ők a te néped és örökséged, a kiket kihoztál Égyiptomból, a vaskemencze közepéből,"
+        },
+        {
+          "number": 52,
+          "text": "Hogy a te szemeid nézzenek a te szolgádnak imádságára és a te népednek az Izráelnek könyörgésére; meghallgatván őket mindenkor, mikor téged segítségül hívnak."
+        },
+        {
+          "number": 53,
+          "text": "Mert te különválasztottad őket magadnak örökségül a földnek minden népei közül; a miképen megmondottad volt Mózes, a te szolgád által, mikor kihoztad a mi atyáinkat Égyiptomból, Uram Isten!"
+        },
+        {
+          "number": 54,
+          "text": "És mikor elvégezte Salamon az Úr előtt való minden imádságát és könyörgését, felkele az Úr oltára elől, és megszünék az ő térdein való állástól, és kezeinek az égbe felemelésétől."
+        },
+        {
+          "number": 55,
+          "text": "És felállván megáldá az Izráel egész gyülekezetét, felszóval ezt mondván:"
+        },
+        {
+          "number": 56,
+          "text": "Áldott legyen az Úr, a ki nyugodalmat adott az ő népének, az Izráelnek, minden ő beszéde szerint, csak egy beszéde is hiábavaló nem volt minden ő jó beszédei közül, a melyeket szólott Mózes, az ő szolgája által."
+        },
+        {
+          "number": 57,
+          "text": "Az Úr, a mi Istenünk, legyen velünk, a miképen volt a mi atyáinkkal, ne hagyjon el minket, el se távozzék tőlünk,"
+        },
+        {
+          "number": 58,
+          "text": "Hanem hajtsa magához a mi szívünket, hogy járjunk minden ő útaiban, és őrizzük meg az ő parancsolatit, rendeléseit és végzésit, a melyeket a mi atyáinknak parancsolt."
+        },
+        {
+          "number": 59,
+          "text": "És ezek a szavak, a melyekkel imádkoztam az Úr előtt, legyenek jelen az Úr előtt a mi Istenünk előtt éjjel és nappal, hogy ítéletet tegyen az ő szolgájának és az ő népének, az Izráelnek, minden időben,"
+        },
+        {
+          "number": 60,
+          "text": "Hogy megismerjék a földön minden népek, hogy csak az Úr az Isten, és hogy ő kívülötte nincsen más."
+        },
+        {
+          "number": 61,
+          "text": "És a ti szívetek legyen tökéletes az Úrhoz, a mi Istenünkhöz, hogy járjatok az ő rendeléseiben, és őrizzétek meg az ő parancsolatit, miképen e mai napon."
+        },
+        {
+          "number": 62,
+          "text": "És a király és az egész Izráel ő vele, áldozatokat áldozának az Úr előtt."
+        },
+        {
+          "number": 63,
+          "text": "És Salamon áldozék hálaadó áldozatul, a melyet áldozék az Úrnak: huszonkétezer ökröt, százhúszezer juhot. És e képen szentelék fel az Úr házát a király és az Izráel minden fiai."
+        },
+        {
+          "number": 64,
+          "text": "Ugyanazon napon szentelé fel a király a középső pitvart, mely az Úrnak háza előtt vala; mert ott szerze egészen égőáldozatokat, ételáldozatokat és hálaáldozatok kövéreit. Mert a rézoltár, mely az Úr előtt állott, kisebb volt, mintsem reá fért volna az égőáldozat, az ételáldozat és a hálaáldozatok kövére."
+        },
+        {
+          "number": 65,
+          "text": "És Salamon ünnepet szerze ebben az időben, és vele együtt az egész Izráel; egy nagy gyűlést Hámát határától fogva Égyiptom határáig, az Úr előtt, a mi Istenünk előtt, hét napig és újra hét napig, azaz tizennégy napig."
+        },
+        {
+          "number": 66,
+          "text": "És a nyolczadik napon elbocsátá a népet. És áldák a királyt, és elmenének az ő hajlékaikba örömmel és víg szívvel, mindama jók felett, a melyeket cselekedett az Úr az ő szolgájával, Dáviddal, és az Izráellel, az ő népével."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És lőn, mikor elvégezte Salamon az Úr házának és a király házának építését, és mindent a mit kívánt és a mit akart építeni Salamon:"
+        },
+        {
+          "number": 2,
+          "text": "Megjelenék az Úr Salamonnak másodszor is, a miként megjelent volt néki Gibeonban."
+        },
+        {
+          "number": 3,
+          "text": "És monda néki az Úr: Meghallgattam a te imádságodat és könyörgésedet, a melylyel könyörgöttél előttem: Megszenteltem e házat, a melyet építettél, abba helyheztetvén az én nevemet mindörökké, és ott lesznek az én szemeim, és az én szívem mindenkor."
+        },
+        {
+          "number": 4,
+          "text": "És ha te előttem járándasz, a mint járt Dávid, a te atyád, egyenes és tökéletes szívvel, úgy cselekedvén mindenekben, a mint néked megparancsoltam, az én rendelésimet és végzésimet megtartándod;"
+        },
+        {
+          "number": 5,
+          "text": "Megerősítem a te birodalmadnak trónját az Izráelen mindörökké, a mint megígértem volt Dávidnak a te atyádnak, mondván: Nem fogy el a te nemzetségedből való férfiú az Izráel királyi székéből."
+        },
+        {
+          "number": 6,
+          "text": "De hogyha elszakadtok ti és a ti fiaitok én tőlem, és meg nem őrizénditek az én parancsolatimat és végzéseimet, melyeket előtökbe adtam; hanem elmentek, és idegen isteneknek szolgáltok, és meghajoltok azok előtt:"
+        },
+        {
+          "number": 7,
+          "text": "Kigyomlálom az Izráelt e föld színéről, a melyet nékik adtam; e házat, melyet az én nevemnek szenteltem, elvetem szemeim elől, és az Izráel példabeszédül és meséül lészen minden nép előtt."
+        },
+        {
+          "number": 8,
+          "text": "És bár e ház felséges, mégis a kik elmennek mellette, elcsodálkoznak, felkiáltanak, és azt mondják: Miért cselekedett így az Úr ezzel a földdel és ezzel a házzal?"
+        },
+        {
+          "number": 9,
+          "text": "És azt felelik: Azért, mert elhagyták az Urat, az ő Istenöket, a ki az ő atyáikat kihozta volt Égyiptom földéből, és idegen istenekhez ragaszkodtak, és azokat imádták, és azoknak szolgáltak: ezért bocsátá ő reájok az Úr mind ezt a nyomorúságot."
+        },
+        {
+          "number": 10,
+          "text": "És lőn a húsz esztendő végén, a mialatt Salamon a két házat, az Úr házát és a király házát megépíté,"
+        },
+        {
+          "number": 11,
+          "text": "A melyekhez Hírám, Tírus királya adott volt ajándékban Salamonnak czédrusfákat, fenyőfákat, aranyat egész kivánsága szerint: ada Salamon király Hírámnak húsz várost Galileának földén."
+        },
+        {
+          "number": 12,
+          "text": "És kiméne Hírám Tírusból, hogy megnézze azokat a városokat, a melyeket Salamon néki ada, de nem tetszettek azok néki."
+        },
+        {
+          "number": 13,
+          "text": "És monda: Miféle városok ezek, atyámfia, a melyeket nékem adtál? És Kábul földnek nevezé azokat mind e mai napig."
+        },
+        {
+          "number": 14,
+          "text": "Küldött vala pedig Hírám a királynak százhúsz tálentom aranyat."
+        },
+        {
+          "number": 15,
+          "text": "És ez az összege annak az adónak is, a melyet kivetett volt Salamon király, hogy megépíthesse az Úr házát, és a maga házát, és Millót, és Jeruzsálem kőfalait, és Kháczort, Megiddót és Gézert."
+        },
+        {
+          "number": 16,
+          "text": "Mert a Faraó, Égyiptom királya, feljött volt, és meghódítá Gézert, és felégette tűzzel, és a Kananeusokat, a kik a városban laktak, megölte, és adá azt ajándékban az ő leányának, a Salamon feleségének."
+        },
+        {
+          "number": 17,
+          "text": "És megépíté Salamon Gézert és az alsó Bethoront;"
+        },
+        {
+          "number": 18,
+          "text": "Bahalátot és Thadmort a pusztában, azon a földön;"
+        },
+        {
+          "number": 19,
+          "text": "És a tárházak minden városait, a melyek a Salamonéi valának, a szekerek városait, és a lovagok városait, és mindeneket, a melyeknek építéséhez Salamonnak kedve volt Jeruzsálemben és a Libánonon, és az ő birodalmának egész földén."
+        },
+        {
+          "number": 20,
+          "text": "És mindazt a népet, a mely megmaradott volt az Emoreusoktól, Hitteusoktól, Perizeusoktól, Hivveusoktól, Jebuzeusoktól, a kik nem valának az Izráel fiai közül."
+        },
+        {
+          "number": 21,
+          "text": "Azoknak fiait, a kik ő utánok azon a földön maradtak volt, a kiket az Izráeliták ki nem irthattak, Salamon jobbágyokká tette mind e mai napig."
+        },
+        {
+          "number": 22,
+          "text": "De az Izráel fiai közül senkit nem vetett Salamon szolgálat alá, hanem ezek hadakozó férfiak voltak és ő szolgái és főemberei és hadnagyai és az ő szekereinek és lovagjainak fejei."
+        },
+        {
+          "number": 23,
+          "text": "És a hivatalnokoknak, a kik Salamon munkáinak élén állottak, száma ötszázötven volt, a kik igazgatták a népet, a mely dolgozott a munkán."
+        },
+        {
+          "number": 24,
+          "text": "És a Faraó leánya felméne a Dávid városából a maga házába, a melyet Salamon épített néki. Akkor építé meg Millót is."
+        },
+        {
+          "number": 25,
+          "text": "És áldozék Salamon minden esztendőben háromszor, égő és hálaáldozatot azon az oltáron, a melyet épített vala az Úrnak, és áldozik vala jóillattal azon, a mely az Úr előtt vala. És elvégezé a házat."
+        },
+        {
+          "number": 26,
+          "text": "És hajókat is csináltata Salamon király Esiongáberben, a mely Elót mellett van a Veres tenger partján, az Edom földén."
+        },
+        {
+          "number": 27,
+          "text": "És elküldé Hírám az ő szolgáit a hajókon, a kik jó hajósok és a tengeren jártasak valának, a Salamon szolgáival."
+        },
+        {
+          "number": 28,
+          "text": "És egész Ofirig menének, és hozának onnét négyszázhúsz tálentom aranyat, és vivék azt Salamon királyhoz."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "A Séba királynéasszonya pedig hallván Salamonnak hírét és az Úr nevét, eljöve, hogy megkisértgesse őt nehéz kérdésekkel."
+        },
+        {
+          "number": 2,
+          "text": "És bejöve Jeruzsálembe igen nagy sereggel és tevékkel, a melyek hoznak vala fűszerszámokat, igen sok aranyat és drágaköveket, és Salamonhoz méne, és szóla vele mindenekről, a melyek szívén voltak."
+        },
+        {
+          "number": 3,
+          "text": "És Salamon megfelelt néki mindenre, semmi sem volt a király előtt elrejtve, a mire ne tudott volna néki felelni."
+        },
+        {
+          "number": 4,
+          "text": "És a mikor látta Séba királynéasszonya Salamonnak minden bölcseségét, és a házat, a melyet épített vala;"
+        },
+        {
+          "number": 5,
+          "text": "És az ő asztalának étkeit, és szolgáinak lakásait, és szolgái udvarlásának módját, és azok öltözeteit, és pohárszékeit, és az ő áldozatját, a melylyel az Úrnak házában áldozott: a lélekzete is elállott;"
+        },
+        {
+          "number": 6,
+          "text": "És monda a királynak: Mind igaz, a mit az én földemben hallottam volt a te dolgaid felől és a te bölcseségedről,"
+        },
+        {
+          "number": 7,
+          "text": "De én hinni sem akartam azokat a beszédeket, míg én magam el nem jöttem, és szemeimmel nem láttam. És ímé nékem a felét sem beszélték el: te meghaladtad bölcseséggel és jósággal a hírt, a melyet hallottam felőled."
+        },
+        {
+          "number": 8,
+          "text": "Boldogok a te embereid, boldogok ezek a te szolgáid, a kik udvarlanak néked mindenkor, és hallhatják a te bölcseségedet:"
+        },
+        {
+          "number": 9,
+          "text": "Legyen az Úr, a te Istened áldott, a ki kedvelt téged, hogy az Izráel királyi székibe ültetett, mert szerette az Úr az Izráelt mindörökké, és királylyá tett téged, hogy ítéletet és igazságot szolgáltass."
+        },
+        {
+          "number": 10,
+          "text": "És ada a királynak száz és húsz tálentom aranyat, és igen sok fűszerszámot és drágakövet. Nem hoztak azután ilyen és ennyi sokaságú fűszerszámot, a mennyit Séba királynéasszonya ada Salamon királynak."
+        },
+        {
+          "number": 11,
+          "text": "És a Hírám hajója is, mely aranyat hozott Ofirból, ébenfát is hozott Ofirból nagy bőséggel és drágaköveket."
+        },
+        {
+          "number": 12,
+          "text": "És csinála a király az ébenfából oszlopokat az Úr házába és a király házába, és az éneklőknek hegedűket és lantokat; nem hoztak soha többé olyan ébenfákat, és nem is láttak olyanokat mind e mai napig."
+        },
+        {
+          "number": 13,
+          "text": "És Salamon király ada a Séba királynéasszonyának mindent, a mit csak kívánt és kért tőle, azokon kivül, a melyeket gazdagságához képest ada Salamon király néki. Annakutána megtére, és méne az ő földébe szolgáival egyetemben."
+        },
+        {
+          "number": 14,
+          "text": "Vala pedig mértéke az aranynak, a mely kezéhez jő vala Salamonnak minden esztendőben, hatszáz és hatvanhat tálentom arany."
+        },
+        {
+          "number": 15,
+          "text": "Azonkivül, a mi jő vala az árus emberektől és a fűszerszámokkal kereskedő kalmároktól, és mind az Arábiabeli királyoktól, és annak a földnek tiszttartóitól."
+        },
+        {
+          "number": 16,
+          "text": "És csináltata Salamon király kétszáz paizst tiszta vert aranyból; mindenik paizsra hatszáz aranyat adott."
+        },
+        {
+          "number": 17,
+          "text": "És háromszáz kerek paizst vert aranyból, három font aranyat ada mindenik paizsra: és azokat a király helyhezteté a Libánon erdő házába."
+        },
+        {
+          "number": 18,
+          "text": "És készíte a király elefántcsontból egy nagy királyi széket és beborítá azt finom aranynyal."
+        },
+        {
+          "number": 19,
+          "text": "Hat grádicsa volt e királyi széknek és e szék teteje kerekded vala hátul, és karjai valának mindkétfelől az ülés mellett, és két oroszlán álla ott a karoknál."
+        },
+        {
+          "number": 20,
+          "text": "És tizenkét oroszlán álla ott kétfelől a grádics hat lépésén. Senki soha olyant nem csinált egyetlen országban sem."
+        },
+        {
+          "number": 21,
+          "text": "És Salamon királynak összes ivóedényei is aranyból voltak, és a Libánon erdő házának összes edényei tiszta aranyból; nem volt azok között semmi ezüst, mert annak semmi becse nem vala Salamon idejében."
+        },
+        {
+          "number": 22,
+          "text": "Mert a király Társis hajója, a mely a tengeren Hírám hajójával járt, minden három esztendőben egyszer fordult meg, s hozott a Társis hajó aranyat, ezüstöt, elefántcsontokat, majmokat és pávákat."
+        },
+        {
+          "number": 23,
+          "text": "És feljebb magasztaltaték Salamon király gazdagsággal és bölcseséggel a földön való minden királyoknál."
+        },
+        {
+          "number": 24,
+          "text": "És mind az egész föld kivánja vala látni Salamont, hogy hallhatnák az ő bölcseségét, melyet Isten az ő szívébe adott volt."
+        },
+        {
+          "number": 25,
+          "text": "És azok néki ajándékot hoznak vala, ezüst és arany edényeket, öltözeteket, hadi szerszámokat, fűszerszámokat, lovakat, öszvéreket, esztendőnként."
+        },
+        {
+          "number": 26,
+          "text": "És gyűjte Salamon szekereket és lovagokat, úgy hogy ezer és négyszáz szekere, és tizenkétezer lovagja volt néki, a kiket helyheztete a szekerek városaiba, és a király mellé Jeruzsálemben."
+        },
+        {
+          "number": 27,
+          "text": "És felhalmozá a király Jeruzsálemben az ezüstöt mint a követ, és a czédrust, mint a vad fügefákat, a melyek nagy tömegben vannak a mezőn."
+        },
+        {
+          "number": 28,
+          "text": "És Salamonnak Égyiptomból hozának lovakat, és a király kereskedői sereggel vették volt a lovakat megszabott áron."
+        },
+        {
+          "number": 29,
+          "text": "És egy-egy szekér hatszáz ezüst siklusért és egy-egy ló százötven siklusért ment fel és jött ki Égyiptomból, és ugyancsak ők szállították ezeket a Hitteusok királyainak és Siria királyainak."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Salamon király pedig megszerete sok idegen asszonyt, még pedig a Faraó leányán kivül a Moábiták, Ammoniták, Edomiták, Sídonbeliek és Hitteusok leányait,"
+        },
+        {
+          "number": 2,
+          "text": "Olyan népek közül, a kik felől azt mondotta volt az Úr az Izráel fiainak: Ne menjetek hozzájok, és őket se engedjétek magatokhoz jőni, bizonyára az ő isteneik után hajtják a ti szíveteket. Ezekhez ragaszkodék Salamon szeretettel."
+        },
+        {
+          "number": 3,
+          "text": "És valának néki feleségei, hétszáz királynéasszony és háromszáz ágyas; és az ő feleségei elhajták az ő szívét."
+        },
+        {
+          "number": 4,
+          "text": "És mikor megvénült Salamon, az ő feleségei elhajták az ő szívét az idegen istenek után, úgy hogy nem volt már az ő szíve tökéletes az Úrhoz, az ő Istenéhez, a mint az ő atyjának, Dávidnak szíve."
+        },
+        {
+          "number": 5,
+          "text": "Mert Salamon követi vala Astoretet, a Sídonbeliek istenét, és Milkómot, az Ammoniták útálatos bálványát."
+        },
+        {
+          "number": 6,
+          "text": "És gonosz dolgot cselekedék Salamon az Úr szemei előtt, és nem követé olyan tökéletességgel az Urat, mint Dávid, az ő atyja."
+        },
+        {
+          "number": 7,
+          "text": "Akkor építe Salamon templomot Kámosnak, a Moábiták útálatos bálványának a hegyen, a mely Jeruzsálem átellenében van, és Moloknak, az Ammon fiai útálatos bálványának."
+        },
+        {
+          "number": 8,
+          "text": "És ekképen cselekedék Salamon mind az ő idegen feleségeivel, a kik az ő isteneiknek tömjéneztek és áldoztak."
+        },
+        {
+          "number": 9,
+          "text": "Megharaguvék azért az Úr Salamonra, hogy elhajlott az ő szíve az Úrtól, Izráel Istenétől, a ki megjelent volt néki kétszer is,"
+        },
+        {
+          "number": 10,
+          "text": "És azt parancsolta volt néki, hogy ne kövessen idegen isteneket, és mégsem őrizte meg az Úr parancsolatját."
+        },
+        {
+          "number": 11,
+          "text": "Monda azért az Úr Salamonnak: Miután ez történt veled, és nem őrizted meg az én szövetségemet és az én rendelésimet, a melyeket parancsoltam néked: elszakasztván elszakasztom tőled az országot, és adom a te szolgádnak."
+        },
+        {
+          "number": 12,
+          "text": "Mindazáltal míg élsz, nem cselekeszem ezt Dávidért, a te atyádért; hanem a te fiadnak kezétől szakasztom el azt."
+        },
+        {
+          "number": 13,
+          "text": "De nem szakasztom el az egész birodalmat; hanem egy nemzetséget adok a te fiadnak Dávidért, az én szolgámért és Jeruzsálemért, a melyet magamnak választottam."
+        },
+        {
+          "number": 14,
+          "text": "És ellenséget támaszta az Úr Salamonra, az Edombeli Hadádot, a ki az Edombeli királyi nemből való vala."
+        },
+        {
+          "number": 15,
+          "text": "Mert mikor Dávid az Edomiták ellen ment volt, és Joáb, a sereg fővezére elment volt a megöletteknek temetésére, és levágott minden férfiú nemet Edomban, –"
+        },
+        {
+          "number": 16,
+          "text": "Mert hat hónapig volt ott Joáb az egész Izráellel, míg minden férfiúi nemet ki nem vesztett Edomban, -"
+        },
+        {
+          "number": 17,
+          "text": "Akkor szaladott vala el Hadád és vele együtt valami Edomiták az ő atyjának szolgái közül ő vele, bemenvén Égyiptomba. Hadád pedig akkor még kis gyermek volt."
+        },
+        {
+          "number": 18,
+          "text": "Kik felkelvén Midiánból, menének Páránba, és melléjök vévén a Páránbeli férfiak közül, bemenének Égyiptomba a Faraóhoz, az Égyiptombeli királyhoz, a ki házat ada néki, és ételt, italt szolgáltata néki, és jószágot is ada néki."
+        },
+        {
+          "number": 19,
+          "text": "Igen kedvében lőn azért Hadád a Faraónak, úgyannyira, hogy feleségül adá néki az ő feleségének hugát, Táfnes királyasszonynak hugát."
+        },
+        {
+          "number": 20,
+          "text": "És a Táfnes huga szülé néki Génubátot, az ő fiát, és elválasztá azt Táfnes a Faraó házában, és Génubát ott volt a Faraó házában, a Faraó fiai között."
+        },
+        {
+          "number": 21,
+          "text": "Mikor pedig Hadád meghallotta Égyiptomban, hogy Dávid elaludt az ő atyáival, és hogy Joáb is, a seregnek fővezére, meghalt, monda Hadád a Faraónak: Bocsáss el engem, hadd menjek el az én földembe."
+        },
+        {
+          "number": 22,
+          "text": "És felele néki a Faraó: Mi nélkül szűkölködöl én nálam, hogy a te földedbe igyekezel menni? Felele az: Semmi nélkül nem szűkölködöm, de kérlek bocsáss el engem."
+        },
+        {
+          "number": 23,
+          "text": "És támaszta az Isten néki más ellenséget is, Rézont, az Eljada fiát, a ki elfutott vala Hadadézertől, a Sóbabeli királytól, az ő urától."
+        },
+        {
+          "number": 24,
+          "text": "És hadakozó férfiakat gyűjtött maga mellé, és ő vala a sereg hadnagya, mikor megölé őket Dávid; azután Damaskusba menvén ott lakának, és uralkodának Damaskusban."
+        },
+        {
+          "number": 25,
+          "text": "És ellensége volt Izráelnek Salamonnak egész életében, a nyomorúságon kivül, a melyet Hadád szerze, és gyűlölte Izráelt, és uralkodott Siriában."
+        },
+        {
+          "number": 26,
+          "text": "Azután Jeroboám, a Nébát fia, Seredából való Efrateus, – a kinek anyja Sérua, egy özvegy asszony volt – a Salamon szolgája emelte fel kezét a király ellen."
+        },
+        {
+          "number": 27,
+          "text": "Annak pedig, a miért felemelte kezét a király ellen, ez volt az oka: Mikor Salamon megépítette Millót, és berakatta az ő atyjának, a Dávid városának romlását;"
+        },
+        {
+          "number": 28,
+          "text": "Jeroboám erős férfiú vala; és látván Salamon, hogy az ő szolgája az ő dolgában szorgalmatos, reá bízá a József háza gondviselésének egész terhét."
+        },
+        {
+          "number": 29,
+          "text": "És történt ebben az időben, hogy mikor kiment egyszer Jeroboám Jeruzsálemből, találkozék az úton Ahijával, a Silóbeli prófétával, és rajta új köpönyeg volt, és csak ketten valának a mezőn együtt."
+        },
+        {
+          "number": 30,
+          "text": "És megragadván Ahija az új ruhát, a mely azon volt, hasítá azt tizenkét részre."
+        },
+        {
+          "number": 31,
+          "text": "És monda Jeroboámnak: Vedd el magadnak a tíz részt; mert ezt mondja az Úr, Izráel Istene: Ímé elszakasztom ez országot Salamon kezétől, és néked adom a tíz nemzetséget;"
+        },
+        {
+          "number": 32,
+          "text": "Egy nemzetséget hagyok pedig ő nála az én szolgámért, Dávidért, és Jeruzsálem városáért, a melyet magamnak választottam az Izráel minden nemzetségei közül,"
+        },
+        {
+          "number": 33,
+          "text": "Még pedig azért, mert elhagytak engem, és imádták Astoretet, a Sídonbeliek istenét, és Kámost, a Moábiták istenét, és Milkomot, az Ammon fiainak istenét, és nem jártak az én utaimban, hogy azt cselekedték volna, a mi tetszett volna az én szemeimnek: az én rendelésimet és végzéseimet, a mint Dávid, az ő atyja."
+        },
+        {
+          "number": 34,
+          "text": "De nem veszem el az egész birodalmat az ő kezétől, hanem akarom, hogy fejedelem legyen életének minden idejében, Dávidért az én szolgámért, a kit választottam; mivelhogy megőrizte az én parancsolatimat és rendeléseimet;"
+        },
+        {
+          "number": 35,
+          "text": "Hanem az ő fiának kezétől már elveszem a királyságot, és néked adom azt, tudniillik a tíz nemzetséget."
+        },
+        {
+          "number": 36,
+          "text": "Az ő fiának pedig egy nemzetséget adok, hogy Dávidnak, az én szolgámnak legyen előttem szövétneke mindenkor Jeruzsálemben, a városban, a melyet magamnak választottam, hogy ott helyheztessem az én nevemet."
+        },
+        {
+          "number": 37,
+          "text": "Téged pedig felveszlek, és uralkodol mindenekben a te lelkednek kívánsága szerint, és király lész az Izráelen."
+        },
+        {
+          "number": 38,
+          "text": "És ha te minden parancsolatimnak engedéndesz, és járándasz az én utaimban, és azt cselekedénded, a mi tetszik nékem, megőrizvén az én rendelésimet és parancsolatimat, a mint Dávid, az én szolgám cselekedett: én veled leszek, és építek néked állandó házat, a mint Dávidnak építettem, és néked adom az Izráelt."
+        },
+        {
+          "number": 39,
+          "text": "És megsanyargatom ezért a Dávid magvát: de még sem örökre."
+        },
+        {
+          "number": 40,
+          "text": "Igyekezik vala pedig Salamon megölni Jeroboámot; ezért felkelvén Jeroboám, futa Égyiptomba, Sésákhoz, az Égyiptombeli királyhoz, és ott volt Égyiptomban, Salamon haláláig."
+        },
+        {
+          "number": 41,
+          "text": "Salamonnak egyéb dolgai pedig és minden cselekedetei, a melyeket cselekedett, és bölcsesége avagy nem írattattak-é meg a Salamon cselekedeteiről írott könyvben?"
+        },
+        {
+          "number": 42,
+          "text": "Az az idő pedig, a melyben uralkodott Salamon Jeruzsálemben az egész Izráelen: negyven esztendő."
+        },
+        {
+          "number": 43,
+          "text": "És elaluvék Salamon az ő atyáival, és eltemetteték az ő atyjának, Dávidnak városában. És Roboám, az ő fia uralkodék helyette."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És elméne Roboám Síkembe; mert Síkembe gyűlt fel az egész Izráel, hogy királylyá tegyék őt."
+        },
+        {
+          "number": 2,
+          "text": "Mikor pedig meghallotta ezt Jeroboám, a Nébát fia, (a ki még Égyiptomban volt, a hová futott volt Salamon király elől, és Égyiptomban tartózkodék Jeroboám,"
+        },
+        {
+          "number": 3,
+          "text": "És hozzá küldvén, elhivaták őt); elmenének Jeroboám és az Izráel egész gyülekezete, és szólának Roboámnak, mondván:"
+        },
+        {
+          "number": 4,
+          "text": "A te atyád igen megnehezítette a mi igánkat, de te most könnyebbítsd meg atyádnak kemény szolgálatát, és a nehéz igát, a melyet mi reánk vetett, és szolgálunk néked."
+        },
+        {
+          "number": 5,
+          "text": "És monda nékik: Menjetek el, és harmadnap mulva jőjjetek vissza hozzám. És a nép elméne."
+        },
+        {
+          "number": 6,
+          "text": "És tanácsot tarta Roboám király a vénekkel, a kik Salamon, az ő atyja előtt állottak vala életében, mondván: Micsoda tanácsot adtok ti, hogy milyen választ adjak e népnek?"
+        },
+        {
+          "number": 7,
+          "text": "És szólának azok, mondván: Ha e mai napon szolgája lész e népnek, és nékik szolgálsz, és választ adsz nékik, és jó szót adsz nékik: mind éltig szolgálnak néked."
+        },
+        {
+          "number": 8,
+          "text": "De ő megveté a vének tanácsát, a melyet néki adtak, és tanácsot tarta az ifjakkal, a kik ő vele együtt nevekedtek volt fel, és a kik ő előtte udvarlottak."
+        },
+        {
+          "number": 9,
+          "text": "És monda azoknak: Micsoda tanácsot adtok ti, hogy választ adjunk e népnek, a mely nékem szólván, azt mondja: Könnyebbítsd meg az igát, a melyet reánk vetett a te atyád?"
+        },
+        {
+          "number": 10,
+          "text": "És mondának néki az ifjak, a kik együtt nevekedtek volt fel ő vele: Így szólj ennek a népnek, a mely szólván néked, ezt mondja: A te atyád megnehezítette a mi igánkat, te pedig könnyebbítsd meg nékünk; e képen szólj nékik: Az én kis ujjam vastagabb az én atyám derekánál."
+        },
+        {
+          "number": 11,
+          "text": "Most azért, ha az én atyám reátok nehéz igát vetett, én még nehezebbé teszem a ti igátokat: ha az én atyám ostorral fékezett titeket, én skorpiókkal ostorozlak benneteket."
+        },
+        {
+          "number": 12,
+          "text": "És elméne Jeroboám és mind az egész nép Roboámhoz harmadnap, a mint meghagyta volt a király, ezt mondván: Jőjjetek hozzám harmadnapon."
+        },
+        {
+          "number": 13,
+          "text": "És a király kemény választ adott a népnek, megvetve a vének tanácsát, a melyet adtak vala néki;"
+        },
+        {
+          "number": 14,
+          "text": "És szóla nékik az ifjak tanácsa szerint, mondván: Ha az én atyám megnehezítette a ti igátokat, én még nehezebbé teszem azt; ha az én atyám ostorral fékezett titeket, én skorpiókkal ostorozlak benneteket."
+        },
+        {
+          "number": 15,
+          "text": "És nem hallgatá meg a király a népet; mert ezt az Úr fordította ekként, hogy megerősítse az ő beszédét, a melyet szólott volt az Úr a Silóbeli Ahija által Jeroboámnak, a Nébát fiának."
+        },
+        {
+          "number": 16,
+          "text": "Mikor pedig látta az egész Izráel, hogy meg nem hallgatta őket a király, felele az egész nép a királynak ekképen: Micsoda részünk van nékünk Dávidban? Nincsen nékünk örökségünk az Isai fiában: menj el a te hajlékidba, óh Izráel! Most viseld gondját immár a te házadnak, óh Dávid! Elméne azért az Izráel az ő hajlékiba;"
+        },
+        {
+          "number": 17,
+          "text": "Úgy hogy Roboám csak azokon az Izráel fiain uralkodék, a kik Júda városaiban laktak."
+        },
+        {
+          "number": 18,
+          "text": "És a mikor elküldé Roboám király Adorámot, az adószedőt, megkövezé őt az egész Izráel, és meghala, és maga Roboám király is hamarsággal szekerébe üle, hogy elmeneküljön Jeruzsálembe."
+        },
+        {
+          "number": 19,
+          "text": "Így szakada el az Izráel népe Dávidnak házától mind e mai napig."
+        },
+        {
+          "number": 20,
+          "text": "És lőn, mikor meghallotta az egész Izráel, hogy megjött Jeroboám, érette küldvén, hivaták őt a gyülekezetbe, és királylyá tevék őt az egész Izráelen; senki pedig nem követé Dávidnak házát, hanem csak egyedül a Júda nemzetsége."
+        },
+        {
+          "number": 21,
+          "text": "És mikor megérkezett Roboám Jeruzsálembe, összegyűjté Júda egész házát és Benjámin nemzetségét, száznyolczvanezer válogatott hadra való férfiút, hogy hadakozzanak az Izráel házával, és visszanyerjék az országot Roboámnak, a Salamon fiának."
+        },
+        {
+          "number": 22,
+          "text": "De az Isten beszéde lőn Sémajához, az Isten emberéhez, mondván:"
+        },
+        {
+          "number": 23,
+          "text": "Ezt mondjad Roboámnak, a Salamon fiának, a Júda királyának, és az egész Júda és Benjámin házának, és a többi népnek, mondván:"
+        },
+        {
+          "number": 24,
+          "text": "Azt mondja az Úr: Fel ne menjetek, és ne hadakozzatok a ti atyátokfiai ellen, az Izráel ellen; térjetek meg kiki a maga házába, mert én tőlem lett e dolog. És ők engedének az Úr beszédének, és visszatérvén, elmenének az Úr beszéde szerint."
+        },
+        {
+          "number": 25,
+          "text": "Jeroboám pedig megépíté Síkemet az Efraim hegyén, és abban lakék; és onnét kimenvén, építé Pénuelt."
+        },
+        {
+          "number": 26,
+          "text": "És monda Jeroboám az ő szívében: Majd visszatér ez ország a Dávid házához;"
+        },
+        {
+          "number": 27,
+          "text": "Ha felmegy a nép, hogy áldozatot tegyen Jeruzsálemben az Úrnak házában; e népnek szíve az ő urához, Roboámhoz, a Júda királyához hajol, és engem megölnek, és visszatérnek Roboámhoz, a Júda királyához."
+        },
+        {
+          "number": 28,
+          "text": "Tanácsot tartván azért a király, csináltata két arany borjút, és monda nékik: Sok néktek Jeruzsálembe felmennetek: Ímhol vannak a te isteneid, óh Izráel, a kik téged kihoztak Égyiptomnak földéből."
+        },
+        {
+          "number": 29,
+          "text": "És az egyiket helyhezteté Béthelbe, a másikat pedig Dánba."
+        },
+        {
+          "number": 30,
+          "text": "És e dolog nagy bűnnek lett az okozója, mert a nép felment az egyik elé egészen Dánig."
+        },
+        {
+          "number": 31,
+          "text": "Azután felállítá a magas helyek templomát, és papokat szerze a nép aljából, a kik nem voltak a Lévi fiai közül."
+        },
+        {
+          "number": 32,
+          "text": "És szerze Jeroboám egy ünnepet is a nyolczadik hónapban, a hónap tizenötödik napján, a Júdabeli ünnep módja szerint, és áldozék az oltáron. Hasonlóképen cselekedék Béthelben is, áldozván a borjúknak, a melyeket csinált vala, és szerze Béthelben papokat a magaslatokhoz, a melyeket csinált vala."
+        },
+        {
+          "number": 33,
+          "text": "És áldozék azon az oltáron is, a melyet Béthelben állított fel, a nyolczadik hónap tizenötödik napján, abban a hónapban, a melyet az ő szívében gondolt vala; és ünnepet szerze az Izráel fiainak, és felméne az oltárra, hogy jóillatot szerezzen."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És ímé Isten embere jöve Júdából Béthelbe, az Úrnak intésére, és Jeroboám ott állott az oltár mellett, hogy tömjént gyújtson."
+        },
+        {
+          "number": 2,
+          "text": "És kiálta az oltár ellen az Úr intése szerint, és monda: Oltár, oltár! ezt mondja az Úr: Ímé egy fiú születik a Dávid házából, a kinek neve Józsiás lészen, a ki megáldozza rajtad a magaslatok papjait, a kik most te rajtad tömjéneznek, és emberek csontjait égetik meg rajtad,"
+        },
+        {
+          "number": 3,
+          "text": "És ugyanazon napon csudát tőn, mondván: E lészen jegye, hogy az Úr mondotta légyen ezt: Ímé az oltár meghasad, és kiomol a hamu, mely rajta van."
+        },
+        {
+          "number": 4,
+          "text": "És a mikor meghallotta a király az Isten emberének beszédét, a melyet kiáltott vala az oltár ellen Béthelben, kinyújtá Jeroboám az ő kezét az oltártól, mondván: Fogjátok meg őt. És megszárada az ő keze, a melyet kinyújtott volt ellene, és nem tudta azt magához visszavonni."
+        },
+        {
+          "number": 5,
+          "text": "És meghasadt az oltár, és kiomlott a hamu az oltárról a jel szerint, a melyet tett vala az Isten embere az Úrnak beszéde által."
+        },
+        {
+          "number": 6,
+          "text": "És szóla a király, és monda az Isten emberének: Könyörögj az Úrnak a te Istenednek, és imádkozz érettem, hogy ismét hozzám hajoljon az én kezem. És mikor könyörgött az Isten embere az Úrnak, visszahajla a király keze, és olyan lőn, mint azelőtt."
+        },
+        {
+          "number": 7,
+          "text": "És monda a király az Isten emberének: Jere haza velem és egyél ebédet, meg akarlak ajándékozni."
+        },
+        {
+          "number": 8,
+          "text": "És monda az Isten embere a királynak: Ha a te házadnak felét nékem adnád is, nem mennék el veled, és nem enném kenyeret, sem vizet nem innám e helyen;"
+        },
+        {
+          "number": 9,
+          "text": "Mert azt parancsolta az Úr nékem az ő beszéde által, mondván: Ne egyél ott kenyeret, vizet se igyál; vissza se térj az úton, a melyen elmenéndesz."
+        },
+        {
+          "number": 10,
+          "text": "És elméne más úton, és nem tére meg azon az úton, a melyen Béthelbe ment."
+        },
+        {
+          "number": 11,
+          "text": "És lakozék Béthelben egy vén próféta, a kihez eljövén az ő fia, elbeszélé az ő atyjának mindazt a dolgot, a melyet aznap az Isten embere cselekedett volt Béthelben, és a beszédeket, a melyeket szólott vala a királynak; és elbeszélék azokat az ő atyjoknak."
+        },
+        {
+          "number": 12,
+          "text": "Akkor monda nékik az ő atyjok: Mely úton ment el? És megmutaták az ő fiai az útat, a melyen elment volt az Isten embere, a ki Júdából jött."
+        },
+        {
+          "number": 13,
+          "text": "És monda az ő fiainak: Nyergeljétek meg nékem a szamarat; és mikor megnyergelék néki a szamarat, felüle reá,"
+        },
+        {
+          "number": 14,
+          "text": "És elméne az Isten embere után, és megtalálá őt egy cserfa alatt ülve, és monda néki: Te vagy-é amaz Isten embere, a ki Júdából jöttél? És monda: Én vagyok."
+        },
+        {
+          "number": 15,
+          "text": "Akkor monda néki: Jere haza velem és egyél kenyeret."
+        },
+        {
+          "number": 16,
+          "text": "De az felele: Nem mehetek vissza veled, be sem mehetek veled; nem eszem kenyeret, vizet sem iszom veled e helyen;"
+        },
+        {
+          "number": 17,
+          "text": "Mert meg van nékem az Úrnak beszédével parancsolva: Ne egyél kenyeret, vizet se igyál ott, és ne térj azon az úton vissza, a melyen oda menéndesz."
+        },
+        {
+          "number": 18,
+          "text": "És felele az néki: Én is olyan próféta vagyok, mint te, és nékem angyal szólott az Úrnak beszédével, mondván: Hozd vissza őt veled a te házadba, hogy kenyeret egyék és vizet igyék. És e képen hazuda néki."
+        },
+        {
+          "number": 19,
+          "text": "Megtére azért vele, és kenyeret evék az ő házában, és vizet ivék."
+        },
+        {
+          "number": 20,
+          "text": "Mikor pedig az asztalnál ülének: lőn az Úr beszéde a prófétához, a ki őt visszahozta vala,"
+        },
+        {
+          "number": 21,
+          "text": "És kiálta az Isten emberének, a ki Júdából jött vala, ezt mondván: Ezt mondja az Úr: Mivelhogy engedetlen voltál az Úr szájának, és meg nem tartottad a parancsolatot, a melyet néked az Úr, a te Istened parancsolt volt;"
+        },
+        {
+          "number": 22,
+          "text": "Hanem visszatértél, és kenyeret ettél és vizet ittál azon a helyen, a mely felől azt mondotta vala néked: Ne egyél ott kenyeret, vizet se igyál: Nem temettetik a te tested a te atyáid sírjába."
+        },
+        {
+          "number": 23,
+          "text": "És miután evett kenyeret és ivott, megnyergelék a szamarat a prófétának, a kit visszahozott vala."
+        },
+        {
+          "number": 24,
+          "text": "És mikor elment, egy oroszlán találá őt az úton, a mely megölé őt; és az ő teste az úton fekszik vala, és mind a szamár, mind az oroszlán a holttest mellett állanak vala."
+        },
+        {
+          "number": 25,
+          "text": "És ímé az arra menő emberek láták az úton heverő testet, és az oroszlánt a holttest mellett állani; és elmenvén, elbeszélék a városban, a melyben a vén próféta lakott."
+        },
+        {
+          "number": 26,
+          "text": "A mit mikor meghallott a próféta, a ki visszahozta vala őt az útról, monda: Az Isten embere az, a ki engedetlen volt az Úr szájának; ezért adta az Úr őt az oroszlánnak, és az törte össze és ölte meg őt, az Úrnak beszéde szerint, a melyet szólott volt néki."
+        },
+        {
+          "number": 27,
+          "text": "És szóla az ő fiainak, mondván: Nyergeljétek meg nékem a szamarat. És felnyergelték."
+        },
+        {
+          "number": 28,
+          "text": "És ő elment és megtalálá a holttestet az útfélre vetve, és a szamarat és az oroszlánt a holttest mellett állva. Az oroszlán nem evett a holtból, és a szamarat sem tépte szét."
+        },
+        {
+          "number": 29,
+          "text": "És felvevé a próféta az Isten emberének holttestét, és feltevé azt a szamárra, és visszahozá azt, és beméne a városba a vén próféta, hogy ott sirassa és eltemesse őt."
+        },
+        {
+          "number": 30,
+          "text": "És eltemeté a holtat a maga sírboltjába, és siraták őt: Ah szerelmes atyámfia!"
+        },
+        {
+          "number": 31,
+          "text": "És miután eltemette őt, szóla az ő fiainak, mondván: Ha meghalok, ebbe a sírba temessetek engem is, a melybe az Isten embere temettetett, tetemimet tegyétek az ő tetemei mellé;"
+        },
+        {
+          "number": 32,
+          "text": "Mert beteljesedik az, a mit kiáltott az Úrnak beszédével az oltár ellen, a mely Béthelben van, és a magas helyeken való házak ellen, a melyek Samaria városaiban vannak."
+        },
+        {
+          "number": 33,
+          "text": "De még e történet után sem tért meg Jeroboám az ő gonosz útjáról, hanem ismét papokat rendele a nép aljából a magaslatokra, és a ki akarja vala, azt szentelé fel, hogy legyen a magaslatok papja."
+        },
+        {
+          "number": 34,
+          "text": "És ez a dolog lett az oka a Jeroboám háza vétkének, és a föld színéről való kiirtatásának és megsemmisíttetésének."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Ebben az időben megbetegedék Abija, a Jeroboám fia."
+        },
+        {
+          "number": 2,
+          "text": "És monda Jeroboám az ő feleségének: Kelj fel most, és változtasd meg öltözetedet, hogy meg ne ismerjék, hogy te vagy Jeroboám felesége, és menj el Silóba: Ímé ott van Ahija próféta, a ki nékem megmondotta volt, hogy királylyá leszek e népen."
+        },
+        {
+          "number": 3,
+          "text": "És végy magadhoz tíz kenyeret és pogácsát, és egy edényben mézet, és menj el hozzá; ő majd megmondja néked, mi történik a gyermekkel."
+        },
+        {
+          "number": 4,
+          "text": "És e képen cselekedék a Jeroboám felesége; és felkészülvén, elméne Silóba, és beméne az Ahija házába. Ahija azonban már nem látott; mert meghomályosodtak az ő szemei a vénség miatt."
+        },
+        {
+          "number": 5,
+          "text": "És az Úr monda Ahijának: Ímé a Jeroboám felesége jött hozzád, hogy valamit kérdjen tőled az ő fia felől, mert beteg; te azért így s így szólj néki. És mikor bement, másnak tetteté magát."
+        },
+        {
+          "number": 6,
+          "text": "De mikor meghallotta Ahija az ő lábainak zörejét, a mint az ajtóhoz közelgete, monda: Jőjj be Jeroboám felesége; miért tetteted magadat másnak? Én te hozzád kemény követséggel küldettem."
+        },
+        {
+          "number": 7,
+          "text": "Menj el, mondd meg Jeroboámnak: Ezt mondja az Úr, Izráelnek Istene: Mivelhogy én téged e nép közül felmagasztaltalak, és téged fejedelemmé tettelek az én népemen, az Izráelen;"
+        },
+        {
+          "number": 8,
+          "text": "És elszakasztottam az országot a Dávid házától, és azt néked adtam; te azonban nem voltál olyan, mint az én szolgám, Dávid, a ki megőrizte az én parancsolatimat, és a ki engem követett teljes szívéből, csak azt cselekedvén, a mi kedves az én szemeim előtt;"
+        },
+        {
+          "number": 9,
+          "text": "Hanem gonoszabbul cselekedtél mindazoknál, a kik te előtted voltak; mert elmentél és idegen isteneket csináltál magadnak, és öntött bálványokat, hogy engem haragra ingerelj, és engem hátad mögé vetettél:"
+        },
+        {
+          "number": 10,
+          "text": "Azért ímé én veszedelmet hozok a Jeroboám házára, és kiirtom Jeroboámnak még az ebét is, és mind a berekesztettet, mind az elhagyottat Izráelben, és kihányom a Jeroboám háza maradékait, miképen a ganéjt kihányják, mígnem vége lesz."
+        },
+        {
+          "number": 11,
+          "text": "A ki meghal a Jeroboám maradékai közül a városban, azt az ebek eszik meg; a ki pedig a mezőn hal meg, az égi madarak eszik meg; mert az Úr szólott."
+        },
+        {
+          "number": 12,
+          "text": "Te pedig kelj fel, és menj haza, mert a mint belépsz a városba, meghal a gyermek;"
+        },
+        {
+          "number": 13,
+          "text": "És az egész Izráel siratja őt, és eltemeti őt, mert a Jeroboám magvából csak egyedül ő temettetik el sírba, mivel a Jeroboám háznépe közül az Úr iránt, Izráel Istene iránt csak ő benne találtatott valami jó."
+        },
+        {
+          "number": 14,
+          "text": "És támaszt az Úr magának királyt Izráelben, a ki kigyomlálja a Jeroboám házát egy napon. De mit mondok? Már is támasztott!"
+        },
+        {
+          "number": 15,
+          "text": "És megveri az Úr az Izráelt, mint a hogy a nád a vízben ide s tova hányattatik, és elszakasztja az Izráelt erről a jó földről, a melyet adott az ő atyáiknak, és szétszórja őket a folyóvizen túl, mivelhogy Aserákat csináltak magoknak, hogy az Urat ingereljék."
+        },
+        {
+          "number": 16,
+          "text": "És kézbe adja az Izráelt a Jeroboám bűneiért, a ki maga is vétkezett és az Izráelt is bűnbe ejtette."
+        },
+        {
+          "number": 17,
+          "text": "És felkészült a Jeroboám felesége, elment és juta Thirsába. És mikor a ház küszöbén belépett, meghalt a gyermek."
+        },
+        {
+          "number": 18,
+          "text": "És eltemeték őt, és siratá őt az egész Izráel, az Úrnak beszéde szerint, a melyet szólott az ő szolgája, Ahija próféta által."
+        },
+        {
+          "number": 19,
+          "text": "Jeroboámnak pedig egyéb cselekedetei, mimódon hadakozott és uralkodott, ímé meg vannak írva az Izráel királyainak krónika-könyvében."
+        },
+        {
+          "number": 20,
+          "text": "És az idő, a melyben uralkodott Jeroboám, huszonkét esztendő, és elaluvék az ő atyáival, és uralkodék Nádáb, az ő fia, ő helyette."
+        },
+        {
+          "number": 21,
+          "text": "Roboám pedig, a Salamon fia Júdában uralkodék: Negyvenegy esztendős volt Roboám, mikor uralkodni kezdett, és tizenhét esztendeig uralkodott Jeruzsálemben, abban a városban, a melyet az Úr választott volt magának az Izráelnek minden nemzetségei közül, hogy ott helyheztesse az ő nevét; és az ő anyjának Naama volt a neve, a ki az Ammon nemzetségéből való volt."
+        },
+        {
+          "number": 22,
+          "text": "Júda is gonoszul cselekedék az Úr szemei előtt, és sokkal nagyobb haragra indíták őt az ő vétkeikkel, a melyekkel vétkeztek, mint atyáik azokkal, a melyeket ők cselekedtek volt."
+        },
+        {
+          "number": 23,
+          "text": "Mert ők is építének magoknak magaslatokat, és faragott képeket és Aserákat minden magas halmon, és minden zöldellő fa alatt."
+        },
+        {
+          "number": 24,
+          "text": "És valának férfi paráznák is az országban, és cselekedének a pogányok minden útálatos vétkei szerint, a kiket az Úr kiűzött volt az Izráel fiai előtt."
+        },
+        {
+          "number": 25,
+          "text": "És lőn Roboám király ötödik esztendejében, feljött Sisák, az Égyiptombeli király Jeruzsálem ellen."
+        },
+        {
+          "number": 26,
+          "text": "És elvivé az Úr házának kincseit, és a király házának kincseit, és mindent, a mi csak elvihető volt; elvitte mind az arany paizsokat is, a melyeket Salamon csináltatott,"
+        },
+        {
+          "number": 27,
+          "text": "A melyek helyett Roboám király azután rézpaizsokat csináltatott, és adá azokat a testőrök fejedelmeinek kezébe, a kik a király házának kapunállói valának."
+        },
+        {
+          "number": 28,
+          "text": "És valahányszor a király bement az Úr házába, bevitték azokat a testőrök, és ismét visszahozták a testőrök házába."
+        },
+        {
+          "number": 29,
+          "text": "Roboámnak pedig több dolgai és minden cselekedetei, nemde nem meg vannak-é írva a Júda királyainak krónika-könyvében?"
+        },
+        {
+          "number": 30,
+          "text": "És folyton hadakozás volt Roboám és Jeroboám között."
+        },
+        {
+          "number": 31,
+          "text": "És elaluvék Roboám az ő atyáival, és eltemetteték az ő atyáival a Dávid városában; és az ő anyjának Naama volt a neve, az Ammoniták nemzetségéből való; és Abija, az ő fia, lett a király ő helyette."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Jeroboám királynak, a Nébát fiának tizennyolczadik esztendejében Abija lett a király Júdában."
+        },
+        {
+          "number": 2,
+          "text": "És három esztendeig uralkodott Jeruzsálemben. Az ő anyjának neve Maaka, az Abisálom leánya."
+        },
+        {
+          "number": 3,
+          "text": "És járt az ő atyjának minden bűneiben, a melyeket ő előtte cselekedett, és nem volt az ő szíve olyan tökéletes az ő Urához Istenéhez, mint Dávidnak, az ő atyjának szíve."
+        },
+        {
+          "number": 4,
+          "text": "De mindazáltal Dávidért adott néki az Úr az ő Istene szövétneket Jeruzsálemben: felmagasztalván az ő fiát ő utána és Jeruzsálemet megerősítvén;"
+        },
+        {
+          "number": 5,
+          "text": "Mert Dávid azt cselekedte, a mi kedves volt az Úr szemei előtt, és el nem távozott azoktól, a melyeket parancsolt néki az ő életének minden idejében, kivéve a Hitteus Uriás dolgát."
+        },
+        {
+          "number": 6,
+          "text": "És hadakozás volt Roboám és Jeroboám között mind éltig."
+        },
+        {
+          "number": 7,
+          "text": "Abija egyéb dolgai és minden cselekedetei pedig vajjon nincsenek-é megírva a Júda királyainak krónika-könyvében? És hadakozás volt Abija és Jeroboám között."
+        },
+        {
+          "number": 8,
+          "text": "És elaluvék Abija az ő atyáival, és eltemeték őt a Dávid városában; és uralkodék helyette Asa, az ő fia."
+        },
+        {
+          "number": 9,
+          "text": "Jeroboámnak az Izráel királyának a huszadik esztendejében Asa lett a király Júdában,"
+        },
+        {
+          "number": 10,
+          "text": "És uralkodék negyvenegy esztendeig Jeruzsálemben; és az ő anyjának Maaka vala neve, az Abisálom leánya."
+        },
+        {
+          "number": 11,
+          "text": "És Asa azt cselekedé, a mi kedves volt az Úr szemei előtt, mint Dávid, az ő atyja."
+        },
+        {
+          "number": 12,
+          "text": "Mert kiveszté a férfiú paráznákat az országból; és lerontá mind a bálványokat, a melyeket csináltak volt az ő atyái."
+        },
+        {
+          "number": 13,
+          "text": "És Maakát az ő anyját is megfosztá a királynéságtól, mivelhogy egy iszonyú bálványt csináltatott a berekben; és elrontá Asa az ő bálványát, és megégeté azt a Kidron pataknál."
+        },
+        {
+          "number": 14,
+          "text": "De ha a magaslatokat nem rontották is le, mégis Asának szíve tökéletes volt az Úrhoz életének minden napjaiban."
+        },
+        {
+          "number": 15,
+          "text": "És bevitte az Úrnak házába az ezüstöt és az aranyat, és az edényeket, a melyeket az ő atyja és ő maga arra szenteltek volt."
+        },
+        {
+          "number": 16,
+          "text": "És hadakozás volt Asa és Baása, az Izráel királya között mind éltig."
+        },
+        {
+          "number": 17,
+          "text": "Mert feljöve Baása, az Izráel királya Júda ellen, és megépíté Rámát, hogy senkit ki és be ne bocsásson Asához a Júda királyához."
+        },
+        {
+          "number": 18,
+          "text": "És vévén Asa mind az ezüstöt és aranyat, a mely megmaradott volt mind az Úr, mind a király házának kincseiből; adá azt az ő szolgáinak kezébe, és elküldé azt Asa király Benhadádnak, Tabrimmon fiának, a ki Héczion fia volt, Siria királyának, a ki Damaskusban lakott, ezt izenvén néki:"
+        },
+        {
+          "number": 19,
+          "text": "Szövetség van köztem és te közötted, az én atyám és a te atyád között. Ímé ajándékot küldök néked, ezüstöt és aranyat, bontsd fel a te szövetségedet Baásával, az Izráel királyával, hogy távozzék el tőlem."
+        },
+        {
+          "number": 20,
+          "text": "És Benhadád engedelmeskedett Asa királynak és elküldé az ő seregeinek vezéreit az Izráel városai ellen; és bevevé Hijont és Dánt, és Abel Beth-Maakát, és az egész Kinneróthot a Nafthali egész földével."
+        },
+        {
+          "number": 21,
+          "text": "Mikor pedig Baása ezt meghallotta, abbahagyta Ráma építését, és lakék Thirsában."
+        },
+        {
+          "number": 22,
+          "text": "Akkor Asa király egybegyűjté az egész Júdát, senkit ki nem hagyván, és elhordák Rámának mind köveit, mind fáját, a melyekkel Baása épített volt, és építé azokból Asa király Gébát, a Benjámin nemzetségében és Mispát."
+        },
+        {
+          "number": 23,
+          "text": "Asának minden egyéb dolgai pedig és egész uralkodása és valamit cselekedett, és a városok, a melyeket épített, vajjon nincsenek-é megírva a Júda királyainak krónika-könyvében? kivéve azt, hogy vénségében megbetegedett a lábaira."
+        },
+        {
+          "number": 24,
+          "text": "És elaluvék Asa az ő atyáival, és eltemetteték az ő atyáival Dávidnak, az ő atyjának városában. És Jósafát, az ő fia, uralkodék helyette."
+        },
+        {
+          "number": 25,
+          "text": "Izráelben pedig Nádáb, a Jeroboám fia lett a király, Asának, a Júdabeli királynak második esztendejében; és két esztendeig uralkodék Izráelen;"
+        },
+        {
+          "number": 26,
+          "text": "És gonoszul cselekedék az Úrnak szemei előtt és jára az ő atyjának útján és annak vétkében, a melylyel bűnbe ejtette volt az Izráelt."
+        },
+        {
+          "number": 27,
+          "text": "De Baása, az Ahija fia, az Issakhár nemzetségéből, pártot ütött ellene, és megveré őt Baása Gibbethonnál a Filiszteusok városánál; mert Nádáb és az egész Izráel Gibbethonnál táboroztak."
+        },
+        {
+          "number": 28,
+          "text": "És megölé őt Baása, Asának, a júdabeli királynak harmadik esztendejében, és uralkodék helyette."
+        },
+        {
+          "number": 29,
+          "text": "És lőn, mikor uralkodni kezdett, levágá Jeroboámnak egész háznépét; egy lelket sem hagyott Jeroboám háznépéből, mígnem mind elveszté őket az Úrnak beszéde szerint, a melyet megmondott volt az ő szolgája, a Silóbeli Ahija által,"
+        },
+        {
+          "number": 30,
+          "text": "A Jeroboám vétkeiért, a melyekkel vétkezék és az Izráelt is vétekbe ejté; és a bosszantásért, a melylyel felbosszantotta az Urat, Izráel Istenét."
+        },
+        {
+          "number": 31,
+          "text": "Nádáb egyéb dolgai pedig és minden cselekedetei, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
+        },
+        {
+          "number": 32,
+          "text": "És hadakozás volt Asa és Baása, az Izráel királya között mind éltig."
+        },
+        {
+          "number": 33,
+          "text": "Asának, a Júdabeli királynak harmadik esztendejében lett Baása, az Ahija fia királylyá az egész Izráelen Thirsában, huszonnégy esztendeig."
+        },
+        {
+          "number": 34,
+          "text": "És gonoszul cselekedék az Úrnak szemei előtt, és jára a Jeroboám útján, és az ő vétkében, a melylyel bűnbe ejtette az Izráelt."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Lőn azonban az Úrnak beszéde Jéhuhoz, a Hanáni fiához, Baása ellen, mondván:"
+        },
+        {
+          "number": 2,
+          "text": "Mivelhogy téged felemeltelek a porból, és fejedelemmé tettelek téged az én népemen, az Izráelen, te pedig a Jeroboám útján jársz, és bűnbe ejted az én népemet, az Izráelt, hogy engem haragra indítsanak az ő vétkeikkel:"
+        },
+        {
+          "number": 3,
+          "text": "Íme én elvetem Baása maradékait, és az ő háza maradékait, és olyanná teszem a te házadat, mint Jeroboámnak, a Nébát fiának házát."
+        },
+        {
+          "number": 4,
+          "text": "A ki Baása maradékai közül a városban hal meg, azt az ebek eszik meg; a ki pedig a mezőn halánd meg, azt az égi madarak eszik meg."
+        },
+        {
+          "number": 5,
+          "text": "Baása több dolgai pedig, és a mit cselekedett, és az ő uralkodása vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
+        },
+        {
+          "number": 6,
+          "text": "És elaluvék Baása az ő atyáival, és eltemetteték Thirsában, és az ő fia, Ela uralkodék ő utána."
+        },
+        {
+          "number": 7,
+          "text": "És nemcsak azért lőn az Úrnak beszéde Jéhu próféta, a Hanáni fia által Baása és az ő háza ellen és minden ő gonoszsága ellen, a melyet cselekedett volt az Úr szemei előtt, őt haragra indítván az ő kezeinek cselekedetei által, hogy olyan lesz mint a Jeroboám háza, hanem azért is, mert azt megölte."
+        },
+        {
+          "number": 8,
+          "text": "És Asának, a Júda királyának huszonhatodik esztendejében lett királylyá Ela, a Baása fia, az Izráelen Thirsában, két esztendeig."
+        },
+        {
+          "number": 9,
+          "text": "Azonban az ő szolgája Zimri, a szekerek fél részének feje, pártot ütött ellene. És Ela Thirsában volt, és az ital miatt igen megrészegedett az Arsa házában, a ki az ő házának Thirsában gondviselője volt;"
+        },
+        {
+          "number": 10,
+          "text": "És eljövén Zimri, megveré és megölé őt, Asának, a Júdabeli királynak huszonhetedik esztendejében, és ő uralkodék helyette."
+        },
+        {
+          "number": 11,
+          "text": "Mikor pedig királylyá lett és trónját elfoglalta, kiirtá Baása egész házát minden rokonságával és barátaival együtt és nem hagyott belőle még csak egy ebet sem."
+        },
+        {
+          "number": 12,
+          "text": "Így veszté ki Zimri a Baása egész házát, az Úrnak beszéde szerint, a melyet Baása ellen szólott Jéhu próféta által:"
+        },
+        {
+          "number": 13,
+          "text": "Baása minden vétkeiért, és Elának, az ő fiának vétkeiért, a kik vétkeztek és vétekbe ejtették az Izráelt, haragra indítván az Urat, Izráelnek Istenét az ő bálványozásukkal."
+        },
+        {
+          "number": 14,
+          "text": "Elának egyéb dolgai pedig és minden cselekedetei, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
+        },
+        {
+          "number": 15,
+          "text": "Asának, a Júdabeli királynak huszonhetedik esztendejében, uralkodék Zimri hét napig Thirsában; a nép pedig Gibbethon előtt táborozott, a mely a Filiszteusoké."
+        },
+        {
+          "number": 16,
+          "text": "Mikor pedig hallotta a nép a táborban beszélni, hogy pártot ütött Zimri és a királyt meg is ölte: az egész Izráel azon a napon Omrit, az Izráel seregeinek fővezérét választá királylyá a táborban."
+        },
+        {
+          "number": 17,
+          "text": "És felvonult Omri és az egész Izráel ő vele Gibbethonból, és megszállák Thirsát."
+        },
+        {
+          "number": 18,
+          "text": "De Zimri, a mikor látta, hogy a várost bevették, bemenvén a királyi ház palotájába, tűzzel magára gyújtá a királyi házat, és meghala."
+        },
+        {
+          "number": 19,
+          "text": "Az ő bűneiért, a melyekkel vétkezék, gonoszul cselekedvén az Úr szemei előtt; járván a Jeroboám útjában és az ő bűnében, a melyet cselekedett volt, vétekbe ejtvén az Izráelt."
+        },
+        {
+          "number": 20,
+          "text": "Zimrinek egyéb dolgai pedig és az ő pártütése, a melyet cselekedett, vajjon nincsenek-é megírva az Izráelbeli királyok krónika-könyvében?"
+        },
+        {
+          "number": 21,
+          "text": "Akkor kétfelé hasonlék az Izráel népe: a nép egyik része Tibnit, a Ginát fiát követte és azt tette királylyá, a másik része pedig Omrihoz ragaszkodott."
+        },
+        {
+          "number": 22,
+          "text": "De a népnek az a része, a mely Omrihoz ragaszkodott, erősebb volt, mint az a nép, a mely Tibnit, a Ginát fiát követte, és meghalván Tibni, uralkodék Omri."
+        },
+        {
+          "number": 23,
+          "text": "Asának, a Júdabeli királynak harminczegyedik esztendejében uralkodék Omri Izráelben tizenkét esztendeig; Thirsában uralkodék hat esztendeig."
+        },
+        {
+          "number": 24,
+          "text": "És megvevé áron a Samaria hegyét Sémertől két tálentom ezüstön; és építe a hegyre, és nevezé a várost, a melyet építe, Sémernek, a hegy urának nevéről, Samariának."
+        },
+        {
+          "number": 25,
+          "text": "És gonoszul cselekedék Omri az Úr szemei előtt, és gonoszságával meghaladá mind az ő előtte valókat."
+        },
+        {
+          "number": 26,
+          "text": "És jára Jeroboámnak, a Nébát fiának minden útján és az ő bűnében, a melylyel vétekbe ejté az Izráelt, haragra indítván az Urat, Izráel Istenét az ő bálványozásai által."
+        },
+        {
+          "number": 27,
+          "text": "Omrinak egyéb dolgai pedig és minden cselekedetei és az ő erőssége, a melylyel cselekedett, vajjon nincsenek-é megírva az Izráelbeli királyok krónika-könyvében?"
+        },
+        {
+          "number": 28,
+          "text": "És elaluvék Omri az ő atyáival, és eltemetteték Samariában, és uralkodék ő utána az ő fia, Akháb."
+        },
+        {
+          "number": 29,
+          "text": "Akháb pedig, az Omri fia uralkodni kezde Izráelen, Asának, a Júdabeli királynak harmincznyolczadik esztendejében; és uralkodék Akháb, az Omri fia, Izráelen Samariában huszonkét esztendeig."
+        },
+        {
+          "number": 30,
+          "text": "És gonoszabbul cselekedék Akháb, az Omri fia az Úr szemei előtt mindazoknál, a kik ő előtte voltak."
+        },
+        {
+          "number": 31,
+          "text": "Mert nem elégedék meg azzal, hogy Jeroboámnak, a Nébát fiának bűneiben járjon, hanem elméne és feleségül vevé magának Jézabelt, Ethbaálnak, a Sídonbeli királynak leányát, és elmenvén, a Baálnak szolgála, és meghajtá magát annak."
+        },
+        {
+          "number": 32,
+          "text": "És oltárt emele a Baálnak a Baál házában, a melyet Samariában épített."
+        },
+        {
+          "number": 33,
+          "text": "És csinált Akháb Aserát is, és jobban haragra indítá Akháb az Urat, Izráel Istenét, mint az Izráel valamennyi királya, a kik ő előtte voltak."
+        },
+        {
+          "number": 34,
+          "text": "Ennek idejében építé meg a Béthelbeli Hiel Jérikhót. Az ő elsőszülött fiának, Abirámnak élete árán veté meg annak fundamentomát, és az ő kisebbik fiának, Ségubnak élete árán állítá fel annak kapuit, az Úr beszéde szerint, a melyet szólott volt Józsué, a Nún fia által."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És szóla Thesbites Illés, a Gileád lakói közül, Akhábnak: Él az Úr, az Izráel Istene, a ki előtt állok, hogy ez esztendőkben sem harmat, sem eső nem lészen; hanem csak az én beszédem szerint."
+        },
+        {
+          "number": 2,
+          "text": "És lőn az Úrnak beszéde ő hozzá, mondván:"
+        },
+        {
+          "number": 3,
+          "text": "Menj el innét, és menj napkelet felé, és rejtezzél el a Kérith patakja mellett, mely a Jordán felé folyik."
+        },
+        {
+          "number": 4,
+          "text": "És a patakból lesz néked italod; a hollóknak pedig megparancsoltam, hogy tápláljanak téged ott."
+        },
+        {
+          "number": 5,
+          "text": "Elméne azért, és az Úrnak beszéde szerint cselekedék; és elméne és leüle a Kérith patakja mellett, a mely a Jordán felé folyik."
+        },
+        {
+          "number": 6,
+          "text": "És a hollók hoztak néki kenyeret és húst reggel és este, és a patakból ivott."
+        },
+        {
+          "number": 7,
+          "text": "És lőn néhány nap múlva, hogy kiszáradt a patak; mert nem volt eső a földre."
+        },
+        {
+          "number": 8,
+          "text": "És lőn az Úrnak beszéde ő hozzá, mondván:"
+        },
+        {
+          "number": 9,
+          "text": "Kelj fel, és menj el Sareptába, a mely Sídonhoz tartozik, és légy ott; ímé megparancsoltam ott egy özvegyasszonynak, hogy gondoskodjék rólad."
+        },
+        {
+          "number": 10,
+          "text": "És felkelvén, elméne Sareptába, és mikor a város kapujához érkezett, ímé egy özvegyasszony volt ott, a ki fát szedegetett, és megszólítván azt, monda néki: Hozz, kérlek, egy kevés vizet nékem valami edényben, hogy igyam."
+        },
+        {
+          "number": 11,
+          "text": "De mikor az elment, hogy vizet hozzon, utána kiáltott, és monda néki: Hozz, kérlek, egy falat kenyeret is kezedben."
+        },
+        {
+          "number": 12,
+          "text": "Az pedig monda: Él az Úr, a te Istened, hogy nincs semmi sült kenyerem, csak egy marok lisztecském van a vékában, és egy kevés olajom a korsóban, és most egy kis fát szedegetek, és haza megyek, és megkészítem azt magamnak és az én fiamnak, hogy megegyük és azután meghaljunk."
+        },
+        {
+          "number": 13,
+          "text": "Monda pedig néki Illés: Ne félj, menj el, cselekedjél a te beszéded szerint; de mindazáltal nékem süss abból először egy kis pogácsát, és hozd ide; magadnak és a te fiadnak pedig azután süss;"
+        },
+        {
+          "number": 14,
+          "text": "Mert azt mondja az Úr, Izráel Istene, hogy sem a vékabeli liszt el nem fogy, sem a korsóbeli olaj meg nem kevesül addig, míg az Úr esőt ád a földnek színére."
+        },
+        {
+          "number": 15,
+          "text": "És ő elméne, és az Illés beszéde szerint cselekedék, és evék mind ő, mind amaz, mind annak háznépe, naponként."
+        },
+        {
+          "number": 16,
+          "text": "A vékabeli liszt nem fogyott el, sem pedig a korsóbeli olaj nem kevesült meg, az Úrnak beszéde szerint, a melyet szólott Illés által."
+        },
+        {
+          "number": 17,
+          "text": "És lőn ezek után, hogy megbetegedék a ház gazdasszonyának fia, és az ő betegsége felette nagy vala, annyira, hogy már a lélekzete is elállott."
+        },
+        {
+          "number": 18,
+          "text": "Monda azért Illésnek: Mit vétettem ellened, Istennek embere? Azért jöttél hozzám, hogy eszembe juttassad álnokságomat, és megöljed az én fiamat?"
+        },
+        {
+          "number": 19,
+          "text": "És monda néki: Add ide a te fiadat. És ő elvevé azt az ő kebeléről, és felvivé a felházba, a melyben ő lakik vala, és az ő ágyára fekteté."
+        },
+        {
+          "number": 20,
+          "text": "Akkor kiálta az Úrhoz, és monda: Én Uram, Istenem, nyomorúságot hozol erre az özvegyre is, a kinél én lakom, hogy az ő fiát megölöd?"
+        },
+        {
+          "number": 21,
+          "text": "És ráborult háromszor a gyermekre, és felkiáltott az Úrhoz, mondván: Én Uram, Istenem, térítsd vissza e gyermek lelkét ő belé!"
+        },
+        {
+          "number": 22,
+          "text": "És meghallgatta az Úr Illés szavát, és megtért a gyermekbe a lélek, és megélede."
+        },
+        {
+          "number": 23,
+          "text": "És felvévén Illés a gyermeket, alávivé őt a felházból a házba, és adá őt az ő anyjának, és monda Illés: Lássad, él a te fiad!"
+        },
+        {
+          "number": 24,
+          "text": "És monda az asszony Illésnek: Most tudtam meg, hogy te Isten embere vagy, és hogy az Úrnak beszéde a te ajkadon: igazság."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És lőn sok idő multán, a harmadik esztendőben, az Úrnak beszéde Illéshez, mondván: Menj el, mutasd meg magadat Akhábnak, és esőt adok a föld színére."
+        },
+        {
+          "number": 2,
+          "text": "És elméne Illés, hogy megmutassa magát Akhábnak. Nagy éhség volt pedig Samariában."
+        },
+        {
+          "number": 3,
+          "text": "És Akháb hivatá Abdiást, a ki az ő házának gondviselője volt. (Abdiás pedig felette igen féli vala az Urat;"
+        },
+        {
+          "number": 4,
+          "text": "Mert mikor Jézabel megölette az Úr prófétáit, Abdiás száz prófétát vett oltalmába, és rejtette el ötvenenként egy-egy barlangba, és ott táplálta őket kenyérrel és vízzel)."
+        },
+        {
+          "number": 5,
+          "text": "És monda Akháb Abdiásnak: Menj el az országba szerén-szerte a vizek forrásaihoz és a patakokhoz, hogyha valami füvet találhatnánk, hogy a lovakat és öszvéreket megtarthatnánk életben, és ne hagynánk a barmokat mindenestől elpusztulni."
+        },
+        {
+          "number": 6,
+          "text": "Eloszták azért magok közt a földet, a melyen kiki elmenjen. Akháb egyedül ment az egyik úton, és Abdiás is egyedül ment a másik úton."
+        },
+        {
+          "number": 7,
+          "text": "És mikor Abdiás az úton ment, ímé Illés előtalálá őt, és mikor felismerte őt, arczra borula és monda: Nem te vagy-é az, uram, Illés?"
+        },
+        {
+          "number": 8,
+          "text": "Felele néki: Én vagyok; menj el, mondd meg a te uradnak: Ímé itt van Illés."
+        },
+        {
+          "number": 9,
+          "text": "Ő pedig monda: Mit vétettem ellened, hogy a te szolgádat Akháb kezébe akarod adni, hogy megöljön engem?"
+        },
+        {
+          "number": 10,
+          "text": "Él az Úr a te Istened: nincs sem nemzetség, sem ország, a hova el nem küldött volna az én uram, hogy megkeressen téged. És ha azt mondották: Nincs itt! az országot és a népet megesküdtette, hogy téged csakugyan nem találtak meg."
+        },
+        {
+          "number": 11,
+          "text": "És most te azt mondod: Menj el, mondd meg a te uradnak: Ímé itt van Illés."
+        },
+        {
+          "number": 12,
+          "text": "Ha most elmegyek tőled, téged pedig olyan helyre ragad el az Úrnak Lelke, a melyet én nem tudok, és én elmegyek, hogy megmondjam Akhábnak, és ha ő téged nem talál meg, engem öl meg; pedig a te szolgád féli az Urat gyermekségétől fogva."
+        },
+        {
+          "number": 13,
+          "text": "Nem mondották-é meg az én uramnak, mit cselekedtem, mikor Jézabel megölette az Úr prófétáit? hogy hogyan rejtettem el az Úr prófétái közül száz férfiút ötvenenként egy-egy barlangba és tápláltam őket kenyérrel és vízzel."
+        },
+        {
+          "number": 14,
+          "text": "És te mégis azt mondod: Menj el és mondd meg a te uradnak: Ímé itt van Illés; hogy megöljön engemet."
+        },
+        {
+          "number": 15,
+          "text": "És felele Illés: Él a Seregeknek Ura, a ki előtt állok: e mai napon megmutatom magamat néki."
+        },
+        {
+          "number": 16,
+          "text": "Elméne azért Abdiás Akháb eleibe, és megjelenté ezt néki, és eleibe méne Akháb Illésnek."
+        },
+        {
+          "number": 17,
+          "text": "És mikor meglátta Akháb Illést, monda Akháb néki: Te vagy-é az Izráel megháborítója?"
+        },
+        {
+          "number": 18,
+          "text": "Ő pedig monda: Nem én háborítottam meg az Izráelt, hanem te és a te atyád háza, azzal, hogy elhagytátok az Úrnak parancsolatait, és a Baál után jártatok."
+        },
+        {
+          "number": 19,
+          "text": "Most azért küldj el, gyűjtsd hozzám az egész Izráelt a Kármel hegyre, és a Baál négyszázötven prófétáját, és az Aserának négyszáz prófétáját, a kik a Jézabel asztaláról élnek."
+        },
+        {
+          "number": 20,
+          "text": "És elkülde Akháb mind az egész Izráel fiaihoz, és egybegyűjté a prófétákat a Kármel hegyre."
+        },
+        {
+          "number": 21,
+          "text": "És odamenvén Illés az egész sokasághoz, monda: Meddig sántikáltok kétfelé? Ha az Úr az Isten, kövessétek őt; ha pedig Baál, kövessétek azt. És nem felelt néki a nép csak egy szót sem."
+        },
+        {
+          "number": 22,
+          "text": "Akkor monda Illés a népnek: Én maradtam meg csak egyedül az Úr prófétái közül; míg a Baál prófétái négyszázötvenen vannak;"
+        },
+        {
+          "number": 23,
+          "text": "Adjatok azért nékünk két tulkot, és ők válaszszák magoknak az egyik tulkot, a melyet vagdaljanak darabokra, és rakják a fákra; de tüzet ne tegyenek alája; én pedig a másikat készítem el, a melyet a fákra rakok, de tüzet én sem teszek alája."
+        },
+        {
+          "number": 24,
+          "text": "Akkor hívjátok segítségül a ti istenteknek nevét, és én is segítségül hívom az Úrnak nevét; és a mely isten tűz által felel, az az Isten. És felelvén az egész sokaság, monda: Jó lesz!"
+        },
+        {
+          "number": 25,
+          "text": "És monda Illés a Baál prófétáinak: Válaszszátok el magatoknak az egyik tulkot, és készítsétek el ti először; mert ti többen vagytok, és hívjátok segítségül a ti istenteknek nevét, de tüzet ne tegyetek alája."
+        },
+        {
+          "number": 26,
+          "text": "És vevék a tulkot, a melyet nékik adott, és azt elkészíték, és segítségül hívák a Baálnak nevét reggeltől fogva délig, mondván: Baál! hallgass meg minket! De nem jött szó, sem felelet. És ott sántikáltak az oltár körül, a melyet készítettek."
+        },
+        {
+          "number": 27,
+          "text": "Mikor pedig már dél lett, elkezdte őket gúnyolni Illés, azt mondván: Kiáltsatok hangosabban, hiszen isten! Talán elmélkedik, vagy félrement, vagy úton van, vagy talán aluszik, és felserken."
+        },
+        {
+          "number": 28,
+          "text": "És elkezdtek hangosan kiabálni és az ő szokásuk szerint késekkel és borotvákkal metélték magokat, míg csak ki nem csordult a vérök."
+        },
+        {
+          "number": 29,
+          "text": "Mikor pedig a dél elmúlt, prófétálni kezdtek egész az esteli áldozatig; de akkor sem lett se szó, se felelet, se meghallgattatás."
+        },
+        {
+          "number": 30,
+          "text": "Akkor monda Illés az egész sokaságnak: Jőjjetek én hozzám. És hozzá méne az egész sokaság, és megépíté az Úr oltárát, a mely leromboltatott volt."
+        },
+        {
+          "number": 31,
+          "text": "És vőn Illés tizenkét követ, a Jákób fiai nemzetségeinek száma szerint, a kiknek az Isten azt mondotta volt: Izráel legyen a te neved;"
+        },
+        {
+          "number": 32,
+          "text": "És oltárt építe a kövekből az Úr nevében, és egy árkot húzott az oltár körül, a melybe két véka vetni való mag férne."
+        },
+        {
+          "number": 33,
+          "text": "És oda készíté a fát, és felvagdalá a tulkot, és felraká azt a fára;"
+        },
+        {
+          "number": 34,
+          "text": "És monda: Töltsetek meg négy vedret vízzel, és öntsétek az égőáldozatra és a fára. Monda ismét: Tegyétek ezt még egyszer! És másodszor is azt tevék. Monda még is: Harmadszor is tegyétek meg! És harmadszor is azt mívelék;"
+        },
+        {
+          "number": 35,
+          "text": "Úgy, hogy a víz lecsurgott az oltárról, és még az árok is tele lett vízzel."
+        },
+        {
+          "number": 36,
+          "text": "És a mikor eljött az esteli áldozás ideje, oda lépett Illés próféta, és monda: Óh Uram, Ábrahámnak, Izsáknak és Izráelnek Istene, hadd ismerjék meg e mai napon, hogy te vagy az Isten az Izráelben, és hogy én a te szolgád vagyok, és hogy mindezeket a te parancsolatodból cselekedtem."
+        },
+        {
+          "number": 37,
+          "text": "Hallgass meg engem, Uram, hallgass meg engem, hogy tudja meg e nép, hogy te, az Úr vagy az Isten, és te fordítod vissza az ő szívöket!"
+        },
+        {
+          "number": 38,
+          "text": "Akkor alászálla az Úr tüze, és megemészté az égőáldozatot, a fát, a köveket és a port, és felnyalta a vizet, a mely az árokban volt."
+        },
+        {
+          "number": 39,
+          "text": "Mikor ezt látta az egész sokaság, arczra borult, és monda: Az Úr az Isten! az Úr az Isten!"
+        },
+        {
+          "number": 40,
+          "text": "És monda Illés nékik: Fogjátok meg a Baál prófétáit; senki el ne szaladjon közülök! És megfogák őket, és alávivé őket Illés a Kison patakja mellé, és megölé ott őket."
+        },
+        {
+          "number": 41,
+          "text": "Akkor monda Illés Akhábnak: Eredj fel, egyél és igyál, mert nagy esőnek zúgása hallszik."
+        },
+        {
+          "number": 42,
+          "text": "És felment Akháb, hogy egyék és igyék. Illés pedig felment a Kármel hegy tetejére, és leborula a földre, és az ő orczáját az ő két térde közé tevé;"
+        },
+        {
+          "number": 43,
+          "text": "És monda az ő szolgájának: Menj fel, és nézz a tenger felé. És felment, és arrafelé nézett, és monda: Nincsen semmi. És monda Illés: Menj vissza hétszer."
+        },
+        {
+          "number": 44,
+          "text": "És lőn hetedúttal, monda a szolga: Ímé egy kis felhőcske, mint egy embernek a tenyere, jő fel a tengerből. Akkor monda: Menj fel, mondd meg Akhábnak: Fogj be és menj le, hogy meg ne késleljen az eső."
+        },
+        {
+          "number": 45,
+          "text": "És lőn azonközben, hogy besötétedett az ég a fellegektől és a széltől, és nagy eső lett. Akháb pedig szekérre ült és elment Jezréelbe."
+        },
+        {
+          "number": 46,
+          "text": "És lőn az Úr keze Illésen, és felövezvén az ő derekát, még Akháb előtt futott el Jezréel felé."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És Akháb elbeszélé Jézabelnek mindazokat, a melyeket Illés cselekedett és a többek között, hogy hogyan ölte meg mind a prófétákat fegyverrel."
+        },
+        {
+          "number": 2,
+          "text": "És követet külde Jézabel Illéshez, mondván: Ezt cselekedjék velem az istenek és úgy segéljenek, ha holnap ilyenkor úgy nem cselekszem a te életeddel, mint a hogy te cselekedtél azoknak életekkel mind egyig."
+        },
+        {
+          "number": 3,
+          "text": "A mit mikor megértett, felkelvén elméne, vigyázván az ő életére. És méne Beersebába, a mely Júdában volt; és ott hagyá az ő szolgáját."
+        },
+        {
+          "number": 4,
+          "text": "Ő pedig elméne a pusztába egynapi járó földre, és elmenvén leüle egy fenyőfa alá, és könyörgött, hogy hadd haljon meg, és monda: Elég! Most óh Uram, vedd el az én lelkemet; mert nem vagyok jobb az én atyáimnál!"
+        },
+        {
+          "number": 5,
+          "text": "És lefeküvék és elaluvék a fenyőfa alatt. És ímé angyal illeté őt, és monda néki: Kelj fel, egyél."
+        },
+        {
+          "number": 6,
+          "text": "És mikor körülnézett, ímé fejénél vala egy szén között sült pogácsa és egy pohár víz. És evék és ivék, és ismét lefeküvék."
+        },
+        {
+          "number": 7,
+          "text": "És az Úr angyala eljött másodszor is és megilleté őt, és monda: Kelj fel, egyél; mert erőd felett való utad van."
+        },
+        {
+          "number": 8,
+          "text": "És ő felkelt, és evett és ivott; és méne annak az ételnek erejével negyven nap és negyven éjjel egész az Isten hegyéig, Hórebig."
+        },
+        {
+          "number": 9,
+          "text": "És beméne ott egy barlangba, és ott hála. És ímé lőn az Úrnak beszéde ő hozzá, és monda néki: Mit csinálsz itt Illés?"
+        },
+        {
+          "number": 10,
+          "text": "Ő pedig monda: Nagy búsulásom van az Úrért, a Seregek Istenéért; mert elhagyták a te szövetségedet az Izráel fiai, a te oltáraidat lerontották, és a te prófétáidat fegyverrel megölték, és csak én egyedül maradtam, és engem is halálra keresnek."
+        },
+        {
+          "number": 11,
+          "text": "És monda: Jőjj ki és állj meg ezen a hegyen, az Úr előtt. És ímé ott az Úr volt elmenendő. És az Úr előtt megyen vala nagy erős szél, a mely a hegyeket megszaggatta és meghasogatta a kősziklákat az Úr előtt; de az Úr nem vala abban a szélben. És a szél után földindulás lett; de az Úr nem volt a földindulásban sem."
+        },
+        {
+          "number": 12,
+          "text": "És a földindulás után tűz jöve, de nem volt az Úr a tűzben sem. És a tűz után egy halk és szelíd hang hallatszék."
+        },
+        {
+          "number": 13,
+          "text": "És mikor Illés ezt hallotta, befedé az ő arczát palástjával, és kimenvén, megálla a barlang ajtajában, és ímé szózat lőn ő hozzá, a mely ezt mondá: Mit csinálsz itt Illés?"
+        },
+        {
+          "number": 14,
+          "text": "És ő felele: Nagy búsulásom van az Úrért, a Seregeknek Istenéért, mert az Izráel fiai elhagyták a te szövetségedet, lerontották a te oltáraidat, és a te prófétáidat megölték fegyverrel, és én egyedül maradtam, és engem is halálra keresnek."
+        },
+        {
+          "number": 15,
+          "text": "És monda az Úr néki: Menj el, térj vissza a te utadon a pusztán át Damaskusba, és mikor oda jutándasz, kenjed királylyá Hazáelt Siriában;"
+        },
+        {
+          "number": 16,
+          "text": "És Jéhut, a Nimsi fiát kenjed királylyá Izráelben, és Elizeust, az Abelméholabeli Sáfát fiát pedig kenjed prófétává a te helyedbe."
+        },
+        {
+          "number": 17,
+          "text": "És lészen, hogy a ki megmenekedik Hazáel fegyverétől, azt Jéhu öli meg, és a ki megmenekedik a Jéhu fegyverétől, azt Elizeus öli meg."
+        },
+        {
+          "number": 18,
+          "text": "De meghagyok Izráelben hétezer embert: minden térdet, mely meg nem hajolt a Baálnak, és minden ajkat, mely meg nem csókolta azt."
+        },
+        {
+          "number": 19,
+          "text": "És ő elmenvén onnét, megtalálá Elizeust, a Sáfát fiát, a mint szántott tizenkét járom ökörrel, és ő maga a tizenkettedikkel volt; és Illés hozzá méne, és az ő palástját reá veté."
+        },
+        {
+          "number": 20,
+          "text": "És ő elhagyván az ökröket, Illés után futott, és monda: Kérlek hadd csókoljam meg az én atyámat és az én anyámat, és azután követlek. És monda: Menj, térj vissza; mert mit cselekedtem tenéked?"
+        },
+        {
+          "number": 21,
+          "text": "És elmenvén ő tőle, vőn azután egy pár ökröt, és levágá azt, és az ekéhez való szerszámokból tüzet rakván, megfőzé azok húsát, és a népnek adá, és evének; és felkelvén, elméne Illés után, és szolgála néki."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És Benhadád, Siria királya összegyűjté egész seregét, és harminczkét király volt ő vele és nagyon sok ló és szekér, és felméne és megszállá Samariát, és ostromolni kezdte azt."
+        },
+        {
+          "number": 2,
+          "text": "És követeket küldött Akhábhoz, az Izráel királyához a városba;"
+        },
+        {
+          "number": 3,
+          "text": "És azt izené néki: Azt mondja Benhadád: A te ezüstöd és aranyad az enyém, a te feleségeid is és a te szép fiaid is az enyémek."
+        },
+        {
+          "number": 4,
+          "text": "És felele az Izráel királya, és monda: A mint megmondottad uram, király, tiéd vagyok mindenekkel, a melyeket bírok."
+        },
+        {
+          "number": 5,
+          "text": "Megtérvén pedig a követek, mondának: Azt mondja Benhadád: Miután hozzád küldöttem, és azt izentem, hogy a te ezüstödet és aranyadat és a te feleségeidet és fiaidat add nékem;"
+        },
+        {
+          "number": 6,
+          "text": "Azért holnap ilyenkor elküldöm az én szolgáimat hozzád, és felkutatják a te házadat, és a te szolgáid házait; és kezekhez veszik, a mi csak kedves előtted, és elhozzák."
+        },
+        {
+          "number": 7,
+          "text": "Akkor egybehívá az Izráel királya mind az ország véneit, és monda: Vegyétek eszetekbe, és lássátok meg, minemű gonosz szándékkal van ez; mert hozzám küldött az én feleségeimért és gyermekeimért, ezüstömért és aranyomért, és meg nem tagadtam tőle."
+        },
+        {
+          "number": 8,
+          "text": "És mondának néki a vének mindnyájan, és az egész nép: Ne engedj néki, és az ő akaratját be ne teljesítsd."
+        },
+        {
+          "number": 9,
+          "text": "És ő monda a Benhadád követeinek: Mondjátok meg az én uramnak, a királynak: Mindazokat, a melyek felől először izentél a te szolgádnak, megcselekszem, de ezt a dolgot nem tehetem meg. Így elmenvén a követek, megmondák néki a választ."
+        },
+        {
+          "number": 10,
+          "text": "Akkor hozzá külde Benhadád, és monda: Úgy cselekedjenek velem az istenek és úgy segéljenek, hogy Samariának minden pora sem elég, hogy a velem való nép közül mindeniknek csak egy-egy marokkal is jusson!"
+        },
+        {
+          "number": 11,
+          "text": "És felele az Izráel királya, mondván: Mondjátok meg néki: Ne kérkedjék úgy, a ki fegyverbe öltözik, mint a ki már leveti a fegyvert!"
+        },
+        {
+          "number": 12,
+          "text": "Meghallván pedig ezt a választ, mikor ő ivott a királyokkal a sátorokban, monda az ő szolgáinak: Vegyétek körül a várost! És azok körülvevék azt."
+        },
+        {
+          "number": 13,
+          "text": "És ímé egy próféta méne Akhábhoz, az Izráel királyához, a ki ezt mondá: Azt mondja az Úr: Avagy nem láttad-é mindezt a nagy sokaságot: ímé e mai napon kezedbe adom azt, hogy megtudjad, hogy én vagyok az Úr!"
+        },
+        {
+          "number": 14,
+          "text": "Monda pedig Akháb: Ki által? És felele: Azt mondja az Úr: A tartományok fejedelmeinek ifjai által. Akkor monda Akháb: Ki kezdje meg a harczot? És felele: Te!"
+        },
+        {
+          "number": 15,
+          "text": "Megszámlálá azért a tartományok fejedelmeinek ifjait, a kik kétszázharminczketten voltak; ezekután megszámlálá mind az Izráel fiainak is minden népét, hétezer embert."
+        },
+        {
+          "number": 16,
+          "text": "És elindulának délben. Benhadád pedig ott ivott a királyokkal a sátorokban, és lerészegedett ő és a harminczkét király, a ki segítségére jött vele."
+        },
+        {
+          "number": 17,
+          "text": "És a tartományok fejedelmeinek ifjai vonultak ki legelőször. Benhadád pedig elkülde, és megmondották néki, ezt mondván: Valami férfiak jöttek ki Samariából!"
+        },
+        {
+          "number": 18,
+          "text": "És monda: Akár békességért jöttek ki, fogjátok meg őket elevenen; akár viadalért jöttek ki, fogjátok el őket elevenen."
+        },
+        {
+          "number": 19,
+          "text": "De mikor kivonultak a városból a tartományok fejedelmeinek ifjai és a sereg, a mely őket követte:"
+        },
+        {
+          "number": 20,
+          "text": "Mindenik vágni kezdte azt, a ki eléje került, és elfutottak a Siriabeliek, az Izráel pedig kergette őket, és megfutott maga Benhadád, Siria királya is lovon a lovagokkal együtt."
+        },
+        {
+          "number": 21,
+          "text": "És azután kivonult az Izráel királya, és megveré mind a lovagokat, mind a szekereket, és megveré a Siriabelieket nagy csapással."
+        },
+        {
+          "number": 22,
+          "text": "És méne az Izráel királyához egy próféta, és ezt mondá néki: Menj el, erősítsd meg magad, és vedd eszedbe és lásd meg, mit kelljen cselekedned, mert esztendő mulva ismét feljő Siria királya ellened."
+        },
+        {
+          "number": 23,
+          "text": "A siriabeli király szolgái pedig mondának néki: A hegyeknek istenei az ő isteneik, azért győztek le bennünket; de vívjunk csak meg velök a síkon, és meglátod, ha le nem győzzük-é őket?"
+        },
+        {
+          "number": 24,
+          "text": "És tedd ezt: Küldd el a királyokat, mindeniket a maga helyéről; és állíts hadnagyokat helyettök,"
+        },
+        {
+          "number": 25,
+          "text": "És szervezz magadnak olyan sereget, mint az volt, a melyet elvesztettél, és olyan lovakat és szekereket, mint amazok voltak; és vívjunk meg velök a síkon, és meglátod, ha le nem győzzük-é őket? És engede az ő szavoknak, és akképen cselekedék."
+        },
+        {
+          "number": 26,
+          "text": "Mikor azért az esztendő elmult, rendbeszedte Benhadád a Siriabelieket, és feljöve Afekbe, hogy hadakozzék az Izráel ellen."
+        },
+        {
+          "number": 27,
+          "text": "De az Izráel fiai összeszámláltattak és elláttattak élelemmel, és eleikbe menének azoknak. Táborba szállván pedig az Izráel fiai, amazokhoz képest olyanok voltak, mint két kicsiny kecskenyájacska; míg a Siriabeliek ellepték a földet."
+        },
+        {
+          "number": 28,
+          "text": "Jött vala pedig egy Isten embere, és szóla az Izráel királyának, mondván: Azt mondja az Úr: Azért mert a Siriabeliek azt mondották, hogy csak a hegyeknek Istene az Úr, és nem a völgyeknek Istene is: mindezt a nagy sokaságot a te kezedbe adom, hogy megismerjétek, hogy én vagyok az Úr."
+        },
+        {
+          "number": 29,
+          "text": "És ott táboroztak egészen velök szemben hetednapig. A hetedik napon azután megütköztek, és az Izráel fiai levágtak a Siriabeliek közül egy nap százezer gyalogost."
+        },
+        {
+          "number": 30,
+          "text": "És a többiek elmenekültek Afek városába; de a falak rászakadtak a megmaradott huszonkétezer emberre, és Benhadád is elfutott és ott bolyongott a városban kamaráról-kamarára."
+        },
+        {
+          "number": 31,
+          "text": "És mondának néki az ő szolgái: Ímé hallottuk, hogy az Izráel házának királyai kegyelmes királyok, azért hadd öltözzünk zsákokba, és vessünk köteleket a mi nyakunkba, és menjünk ki az Izráel királyához, talán életben hagyja a te lelkedet."
+        },
+        {
+          "number": 32,
+          "text": "És zsákokba öltözének, és köteleket vetének nyakokba, és elmenének az Izráel királyához, és mondának: A te szolgád, Benhadád, ezt mondja: Hagyd életben kérlek, az én lelkemet! És monda: Él-e még? én atyámfia ő!"
+        },
+        {
+          "number": 33,
+          "text": "És a férfiak jó jelnek vették azt, és gyorsan megragadták a szót, és mondának: A te atyádfia Benhadád él. És monda: Menjetek, és hozzátok ide őt. Kijöve azért ő hozzá Benhadád, és felülteté őt az ő szekerébe,"
+        },
+        {
+          "number": 34,
+          "text": "És monda néki: A városokat, a melyeket elvett volt az én atyám a te atyádtól, azokat visszaadom, és csinálj magadnak utczákat Damaskusban, mint az én atyám csinált volt Samariában; én ezzel a kötéssel bocsátlak el téged. És szövetséget kötött vele, és elbocsátá őt."
+        },
+        {
+          "number": 35,
+          "text": "Egy férfiú pedig a próféták fiai közül monda az ő felebarátjának az Úr beszéde szerint: Verj meg engem kérlek; de ez nem akará őt megverni."
+        },
+        {
+          "number": 36,
+          "text": "Akkor monda néki: Azért, mert nem engedtél az Úr szavának: ímé mihelyt én tőlem elmégy, megöl téged az oroszlán. És a mikor elment ő tőle, találá őt egy oroszlán, és megölé."
+        },
+        {
+          "number": 37,
+          "text": "Talála azután más férfiat, a kinek monda: Kérlek, verj meg engem. És megveré az annyira, hogy megsebesítette."
+        },
+        {
+          "number": 38,
+          "text": "És elméne a próféta, és az útfélen a király elé álla és elváltoztatá magát szemeit bekötözvén."
+        },
+        {
+          "number": 39,
+          "text": "Mikor pedig arra ment el a király, kiálta a királyhoz, és monda: A te szolgád kiment volt a hadba, és ímé egy férfiú eljövén, hoza én hozzám egy férfiút, és monda: Őrizd meg ezt a férfiút; ha elszaladánd, meg kell halnod érette, vagy egy tálentom ezüstöt fizetsz."
+        },
+        {
+          "number": 40,
+          "text": "És mialatt a te szolgádnak itt és amott dolga volt, az az ember már nem volt. És monda néki az Izráel királya: Az a te ítéleted; magad akartad."
+        },
+        {
+          "number": 41,
+          "text": "És mindjárt elvevé a kötést az ő szeméről, és megismeré őt az Izráel királya, hogy a próféták közül való."
+        },
+        {
+          "number": 42,
+          "text": "És monda néki: Ezt mondja az Úr: Mert elbocsátottad kezedből a férfiút, a kit én halálra szántam, azért lelked lészen lelkéért, és néped népéért."
+        },
+        {
+          "number": 43,
+          "text": "És házához méne az Izráel királya szomorú és megbúsult szívvel, és méne Samariába."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És történt ezek után, hogy a Jezréelbeli Nábótnak egy szőlője volt Jezréelben, Akhábnak, Samaria királyának a háza mellett."
+        },
+        {
+          "number": 2,
+          "text": "És szóla Akháb Nábótnak, mondván: Add nékem a te szőlődet, hogy legyen veteményes kertem; mert közel van az én házamhoz, és néked érette jobb szőlőt adok annál, vagy ha néked tetszik, pénzül adom meg az árát."
+        },
+        {
+          "number": 3,
+          "text": "És felele Nábót Akhábnak: Isten őrizzen, hogy néked adjam az én atyáimtól maradt örökséget."
+        },
+        {
+          "number": 4,
+          "text": "Akkor haza méne Akháb nagy bánattal és haraggal a beszéd miatt, a melyet szólott néki a Jezréelbeli Nábót, mondván: Nem adom néked az én atyáimtól maradt örökséget; és lefeküvék az ő ágyára, és arczát a fal felé fordítá, és nem evék kenyeret."
+        },
+        {
+          "number": 5,
+          "text": "Hozzá menvén az ő felesége Jézabel, monda néki: Miért háborodott meg a te szíved, és kenyeret nem eszel?"
+        },
+        {
+          "number": 6,
+          "text": "És ő monda néki: Mert ama Jezréelbeli Nábóttal beszéltem, és azt mondám néki: Add nékem a te szőlődet pénzért, vagy ha inkább tetszik, más szőlőt adok néked érette, ő pedig azt mondta: Nem adom néked az én szőlőmet."
+        },
+        {
+          "number": 7,
+          "text": "Akkor monda néki Jézabel, az ő felesége: Te bírod-é most az Izráel királyságát? Kelj fel, egyél kenyeret, és a te szíved örvendezzen, én majd néked adom a Jezréelbeli Nábót szőlőjét."
+        },
+        {
+          "number": 8,
+          "text": "És levelet írt Akháb nevével, a melyet megpecsételt az ő gyűrűjével, és elküldé azt a levelet a véneknek és a főembereknek, a kik Nábóttal egy városban laktak;"
+        },
+        {
+          "number": 9,
+          "text": "És a levélben ezt írta, mondván: Hirdessetek bőjtöt, és ültessétek Nábótot a nép élére;"
+        },
+        {
+          "number": 10,
+          "text": "És ültessetek vele szembe két istentelen embert, a kik tanúbizonyságot tegyenek ő ellene, mondván: Megszidalmaztad az Istent és a királyt. Azután vigyétek ki, és kövezzétek meg őt, hogy meghaljon."
+        },
+        {
+          "number": 11,
+          "text": "És ekképen cselekedének a vének és a főemberek, a kik az ő városában laktak, a mint Jézabel nékik megparancsolta, és a mint a levélben megírta, a melyet nékik küldött;"
+        },
+        {
+          "number": 12,
+          "text": "Bőjtöt hirdetének, és ülteték Nábótot a nép élére."
+        },
+        {
+          "number": 13,
+          "text": "Előjöve azután két istentelen ember, és leült vele szemben, és tanúbizonyságot tettek ez istentelen emberek Nábót ellen a nép előtt, mondván: Megszidalmazta Nábót az Istent és a királyt. Kivivék azért őt a városból, és megkövezék, és meghala."
+        },
+        {
+          "number": 14,
+          "text": "Azután megizenék Jézabelnek, mondván: Megköveztetett Nábót, és meghalt."
+        },
+        {
+          "number": 15,
+          "text": "Mikor pedig meghallotta Jézabel, hogy megköveztetett Nábót és meghalt, monda Jézabel Akhábnak: Kelj fel és foglald el a Jezréelbeli Nábót szőlőjét, a melyet nem akart néked pénzért oda adni; mert nem él Nábót, hanem meghalt."
+        },
+        {
+          "number": 16,
+          "text": "És mikor meghallotta Akháb, hogy Nábót meghalt, felkelt Akháb, hogy lemenjen a Jezréelbeli Nábót szőlőjébe, és azt elfoglalja."
+        },
+        {
+          "number": 17,
+          "text": "Akkor szóla az Úr Thesbites Illésnek, mondván:"
+        },
+        {
+          "number": 18,
+          "text": "Kelj fel, és menj Akhábnak, az Izráelbeli királynak eleibe, a ki Samariában lakik, ímé ott van a Nábót szőlőjében, a melybe lement, hogy azt elfoglalja;"
+        },
+        {
+          "number": 19,
+          "text": "És szólj néki, ezt mondván: Így szól az Úr: Nemde megölted-é és nemde el is foglaltad-é? És szólj néki, mondván: Ezt mondja az Úr: Ugyanazon a helyen, a hol felnyalták az ebek Nábót vérét, ebek nyalják fel a te véredet is!"
+        },
+        {
+          "number": 20,
+          "text": "És monda Akháb Illésnek: Megint rám találtál ellenségem? És ő monda: Rád találtam; mert te magadat mindenestől arra adtad, hogy gonoszságot cselekedjél az Úr szemei előtt."
+        },
+        {
+          "number": 21,
+          "text": "Ímé, azt mondja az Úr: Veszedelmet hozok reád, és elvesztem a te maradékaidat, és kigyomlálom Akhábnak még az ebét is, és a berekesztettet és az elhagyatottat Izráelben;"
+        },
+        {
+          "number": 22,
+          "text": "És olyanná teszem a te házadat, mint Jeroboámnak, a Nébát fiának házát, és mint Baásának, az Ahija fiának házát azért, a miért haragra ingerlettél engem, és a miért bűnbe ejtetted az Izráelt."
+        },
+        {
+          "number": 23,
+          "text": "És Jézabel felől is szóla az Úr, mondván: Az ebek eszik meg Jézabelt Jezréel kőfala előtt;"
+        },
+        {
+          "number": 24,
+          "text": "Azt, a ki Akháb házából a városban hal meg, az ebek eszik meg; azt pedig, a ki a mezőben hal meg, az égi madarak eszik meg."
+        },
+        {
+          "number": 25,
+          "text": "Mert bizonyára nem volt Akhábnak mássa, a ki magát arra adta volna, hogy csak gonoszságot cselekedjék az Úr szemei előtt, a melyre az ő felesége, Jézabel ösztökélé őt."
+        },
+        {
+          "number": 26,
+          "text": "Mert igen útálatos dolgot cselekedék, követvén a bálványokat mind a szerint, a mint cselekedének az Emoreusok, a kiket az Úr kiűzött volt az Izráel fiai előtt."
+        },
+        {
+          "number": 27,
+          "text": "Lőn pedig, mikor meghallotta Akháb e beszédeket, megszaggatá az ő ruháit, és zsákba öltözék és bőjtöle, és a zsákban hála, és nagy alázatossággal jár vala."
+        },
+        {
+          "number": 28,
+          "text": "És szóla az Úr Thesbites Illésnek, mondván:"
+        },
+        {
+          "number": 29,
+          "text": "Nem láttad-é, hogy Akháb hogyan megalázta magát előttem? Mivelhogy pedig megalázta magát előttem, nem hozom reá a veszedelmet az ő életében, hanem csak az ő fia idejében hozom el a veszedelmet az ő házára."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "number": 1,
+          "text": "És három esztendő lefolyt úgy, hogy nem volt hadakozás a Siriabeliek és az Izráel között."
+        },
+        {
+          "number": 2,
+          "text": "De a harmadik esztendőben aláméne Josafát, Júda királya az Izráel királyához,"
+        },
+        {
+          "number": 3,
+          "text": "Akkor monda az Izráel királya az ő szolgáinak: Nem tudjátok-é, hogy Rámoth Gileád a miénk? És mi hallgatunk és nem veszszük vissza azt Siria királyától?"
+        },
+        {
+          "number": 4,
+          "text": "És monda Josafátnak: Feljössz-é velem e hadba Rámoth Gileád ellen? Felele Josafát az Izráel királyának: Úgy én, mint te, úgy az én népem, mint a te néped; úgy az én lovaim, mint a te lovaid."
+        },
+        {
+          "number": 5,
+          "text": "És monda Josafát az Izráel királyának: Kérdezősködjél még ma az Úr beszéde után."
+        },
+        {
+          "number": 6,
+          "text": "És összegyűjté az Izráel királya a prófétákat, közel négyszáz férfiút, és monda nékik: Elmenjek-é Rámoth Gileád ellen hadba, vagy elhagyjam? És mondának: Menj fel; mert az Úr kezébe adja azt a királynak."
+        },
+        {
+          "number": 7,
+          "text": "És monda Josafát: Nincs itt már több prófétája az Úrnak, hogy attól is tudakozódhatnánk?"
+        },
+        {
+          "number": 8,
+          "text": "És monda az Izráel királya Josafátnak: Még van egy férfiú, a ki által megkérdhetjük az Urat, Mikeás, a Jemla fia; de én gyűlölöm őt, mert soha nem jövendöl nékem jót, hanem mindig csak rosszat. És monda Josafát: Ne beszéljen így a király!"
+        },
+        {
+          "number": 9,
+          "text": "És előszólíta az Izráel királya egy udvariszolgát, és monda: Hívd ide hamar Mikeást, a Jemla fiát."
+        },
+        {
+          "number": 10,
+          "text": "És ott ült az Izráel királya és Josafát, Júda királya, ruhákba öltözötten, mindenik a maga trónusán Samaria kapuja előtt a térségen, és a próféták mind ott jövendöltek előttük."
+        },
+        {
+          "number": 11,
+          "text": "És Sédékiás, a Kénaána fia, vasszarvakat készített, és monda: Ezt mondja az Úr: Ezekkel ökleled a Siriabelieket, míg meg nem emészted őket."
+        },
+        {
+          "number": 12,
+          "text": "És a próféták is mindnyájan ekképen jövendöltek, mondván: Menj fel Rámoth Gileád ellen, és jó szerencséd lesz; mert azt az Úr a király kezébe adja."
+        },
+        {
+          "number": 13,
+          "text": "A követ pedig, a ki elment volt, hogy elhívja Mikeást, szóla néki, mondván: Ímé a próféták egyenlő akarattal jót jövendölnek a királynak: szólj, kérlek, te is úgy, mint azok közül egy, és jövendölj jót."
+        },
+        {
+          "number": 14,
+          "text": "Mikeás pedig monda: Él az Úr, hogy csak azt fogom mondani, a mit az Úr mondánd nékem."
+        },
+        {
+          "number": 15,
+          "text": "És mikor a királyhoz ment, monda néki a király: Mikeás! elmenjünk-é Rámoth Gileád ellen hadba, vagy elhagyjuk? Ő pedig monda néki: Menj fel és járj szerencsével; az Úr kezébe adja azt a királynak."
+        },
+        {
+          "number": 16,
+          "text": "És monda néki a király: Még hányszor kényszerítselek téged, hogy az igaznál egyebet ne mondj nékem az Úr nevében?"
+        },
+        {
+          "number": 17,
+          "text": "És monda: Látám az egész Izráelt szétszéledve a hegyeken, mint a juhokat, a melyeknek nincsen pásztoruk. És monda az Úr: Nincsen ezeknek urok? Térjen vissza kiki az ő házához békességben."
+        },
+        {
+          "number": 18,
+          "text": "És monda az Izráel királya Josafátnak: Nemde nem megmondottam-é néked, hogy soha jót nékem nem jövendöl, hanem csak rosszat."
+        },
+        {
+          "number": 19,
+          "text": "És monda Mikeás: Azért halld meg most az Úr beszédét: Látám az Urat az ő székiben ülni, és az egész mennyei sereget az ő jobb- és balkeze felől mellette állani."
+        },
+        {
+          "number": 20,
+          "text": "És monda az Úr: Kicsoda csalja meg Akhábot, hogy felmenjen, és elvesszen Rámoth Gileádnál? És ki egyet, ki mást szól vala hozzá."
+        },
+        {
+          "number": 21,
+          "text": "Akkor előjőve egy lélek, a ki az Úr eleibe álla, és monda: Én akarom megcsalni őt. Az Úr pedig monda néki: Miképen?"
+        },
+        {
+          "number": 22,
+          "text": "És felele: Kimegyek és hazug lélek leszek minden ő prófétáinak szájában. Akkor monda az Úr: Csald meg és győzd meg; menj ki, és cselekedjél úgy."
+        },
+        {
+          "number": 23,
+          "text": "Ímé az Úr a hazugságnak lelkét adta mindezeknek a te prófétáidnak szájába; és az Úr szólott veszedelmes dolgot ellened."
+        },
+        {
+          "number": 24,
+          "text": "Akkor odalépett Sédékiás, a Kénaána fia, és arczul csapván Mikeást, monda: Hogyan? Eltávozott volna én tőlem az Úrnak lelke, hogy csak néked szólana?"
+        },
+        {
+          "number": 25,
+          "text": "És monda Mikeás: Ímé meglátod azon a napon, a mikor az egyik kamarából a másik kamarába mégy be, hogy elrejtőzhess."
+        },
+        {
+          "number": 26,
+          "text": "Az Izráel királya pedig monda: Fogjad Mikeást, és vidd vissza őt Ammonhoz, a város fejedelméhez, és Joáshoz, a király fiához;"
+        },
+        {
+          "number": 27,
+          "text": "És mondjad: Ezt mondja a király: Vessétek ezt a tömlöczbe, és tápláljátok őt a nyomorúság kenyerével és a nyomorúság vizével, míg békességgel megjövök."
+        },
+        {
+          "number": 28,
+          "text": "Monda pedig Mikeás: Ha békességgel térsz vissza, nem az Úr szólott én általam. Azután monda: Halljátok ezt meg minden népek!"
+        },
+        {
+          "number": 29,
+          "text": "És felvonult az Izráel királya, és Josafát, a Júda királya Rámoth Gileád ellen."
+        },
+        {
+          "number": 30,
+          "text": "És monda az Izráel királya Josafátnak: Megváltoztatom ruhámat, és úgy megyek a viadalra, te pedig öltözzél fel ruhádba. És elváltoztatá ruháját az Izráel királya, és úgy méne a viadalra."
+        },
+        {
+          "number": 31,
+          "text": "Siria királya pedig megparancsolá az ő szekerei harminczkét fejedelmeinek, mondván: Ne vívjatok se kicsinynyel, se nagygyal, hanem egyedül csak az Izráel királya ellen vívjatok."
+        },
+        {
+          "number": 32,
+          "text": "És a mikor meglátták a szekerek fejedelmei Josafátot, mondának: Nyilván ez az Izráel királya; és reá rohanván vívának ellene. De Josafát elkezdett kiáltani."
+        },
+        {
+          "number": 33,
+          "text": "Mikor pedig látták a szekerek fejedelmei, hogy nem az Izráel királya, ott hagyták."
+        },
+        {
+          "number": 34,
+          "text": "Egy ember pedig csak úgy találomra kilövé az ő kézívét, és találá az Izráel királyát a pánczél és a kapocs között. És ő monda a kocsisának: Fordulj meg és vigy ki engem a táborból, mert megsebesültem!"
+        },
+        {
+          "number": 35,
+          "text": "És az ütközet mind erősebb lett azon a napon, és a király az ő szekerében állott a Siriabeliek ellen, és meghalt este felé, és a vér a sebből a szekérbe csorgott."
+        },
+        {
+          "number": 36,
+          "text": "És kikiálták napnyugotkor a táborban, mondván: Minden ember menjen haza a maga városába és földjébe!"
+        },
+        {
+          "number": 37,
+          "text": "És meghalt a király és visszavitetvén Samariába, eltemeték a királyt Samariában."
+        },
+        {
+          "number": 38,
+          "text": "És mikor mosták az ő szekerét a Samaria mellett lévő tóban: az ebek nyalták az ő vérét, és paráznák fürödtek ott, az Úrnak beszéde szerint, a melyet szólott volt."
+        },
+        {
+          "number": 39,
+          "text": "Akhábnak egyéb dolgai pedig és minden cselekedetei, az elefántcsontból építtetett ház, és mind a városok, a melyeket épített, vajjon nincsenek-é megírva az Izráel királyainak krónika-könyvében?"
+        },
+        {
+          "number": 40,
+          "text": "És elaluvék Akháb az ő atyáival; és uralkodék ő utána fia, Akházia."
+        },
+        {
+          "number": 41,
+          "text": "És Josafát, az Asa fia lett királylyá Júdában, Akhábnak, az Izráel királyának negyedik esztendejében."
+        },
+        {
+          "number": 42,
+          "text": "És Josafát harminczöt esztendős volt, mikor uralkodni kezdett, és huszonöt esztendeig uralkodott Jeruzsálemben. Az ő anyjának Azuba volt a neve, Silhi leánya."
+        },
+        {
+          "number": 43,
+          "text": "És jára Asának, az ő atyjának minden útjában, és abból ki nem tére, azt cselekedvén, a mi az Úr szemei előtt kedves."
+        },
+        {
+          "number": 44,
+          "text": "Csakhogy a magaslatokat nem rombolták le, és a nép még áldozott és tömjénezett a magaslatokon."
+        },
+        {
+          "number": 45,
+          "text": "És békességben élt Josafát az Izráel királyával."
+        },
+        {
+          "number": 46,
+          "text": "Josafátnak egyéb dolgai pedig és az ő ereje, a melylyel cselekedett, és a melylyel hadakozott, vajjon nincsenek-é megírva a Júda királyainak krónika-könyvében?"
+        },
+        {
+          "number": 47,
+          "text": "A férfi paráznákat is, a kik még megmaradtak volt az ő atyjának, Asának idejéből, kiűzte az országból."
+        },
+        {
+          "number": 48,
+          "text": "Akkor nem volt király Edomban, hanem csak helyettes király."
+        },
+        {
+          "number": 49,
+          "text": "És Josafát Társis hajókat csináltatott, hogy aranyért mennének Ofirba, de nem mehettek el; mert a hajók összetörtek Esiongáberben."
+        },
+        {
+          "number": 50,
+          "text": "Akkor mondá Akházia, az Akháb fia, Josafátnak: Hadd menjenek el az én szolgáim a te szolgáiddal e hajókon; de Josafát nem akará."
+        },
+        {
+          "number": 51,
+          "text": "És elaluvék Josafát az ő atyáival; és eltemetteték az ő atyáival az ő atyjának, Dávidnak városában; és az ő fia, Jórám, uralkodék helyette."
+        },
+        {
+          "number": 52,
+          "text": "Akházia pedig, az Akháb fia kezde uralkodni Izráelen Samariában, Josafátnak, a Júda királyának tizenhetedik esztendejében, és uralkodék Izráelben két esztendeig."
+        },
+        {
+          "number": 53,
+          "text": "És gonoszul cselekedék az Úrnak szemei előtt, járván az ő atyjának és anyjának útján, és Jeroboámnak, a Nébát fiának útján, a ki bűnbe ejté az Izráelt;"
+        },
+        {
+          "number": 54,
+          "text": "És szolgála a Baálnak, és azt imádá és haragra indítá az Urat, Izráel Istenét, mint a hogy az ő atyja cselekedett."
+        }
+      ]
+    }
+  ]
+}

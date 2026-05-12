@@ -1,0 +1,957 @@
+{
+  "version": "diodati",
+  "book": "Eccl",
+  "bookId": 21,
+  "englishName": "Ecclesiastes",
+  "testament": "OT",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "number": 1,
+          "text": "Le parole del Predicatore, figliuolo di Davide, re in Gerusalemme."
+        },
+        {
+          "number": 2,
+          "text": "VANITÀ delle vanità, dice il Predicatore; vanità delle vanità; ogni cosa [è] vanità."
+        },
+        {
+          "number": 3,
+          "text": "Che profitto ha l'uomo di tutta la sua fatica nella quale egli si affatica sotto il sole?"
+        },
+        {
+          "number": 4,
+          "text": "Una età va via, un'[altra] età viene; e la terra resta in perpetuo."
+        },
+        {
+          "number": 5,
+          "text": "Il sole si leva anch'esso, e poi tramonta; e, ansando, trae verso il luogo suo, ove egli si deve levare."
+        },
+        {
+          "number": 6,
+          "text": "Il vento trae verso il Mezzodì, e poi gira verso il Settentrione; egli va sempre girando, e ritorna a' suoi giri."
+        },
+        {
+          "number": 7,
+          "text": "Tutti i fiumi corrono nel mare, e il mare non s'empie; i fiumi ritornano [sempre] a correre al luogo dove sogliono correre."
+        },
+        {
+          "number": 8,
+          "text": "Ogni cosa si affatica [più che] l'uomo non può dire; l'occhio non si sazia giammai di vedere, e l'orecchio non si riempie di udire."
+        },
+        {
+          "number": 9,
+          "text": "Quello che è stato è lo stesso che sarà; e quello che è stato fatto è lo stesso che si farà; e non [vi è] nulla di nuovo sotto il sole."
+        },
+        {
+          "number": 10,
+          "text": "Evvi cosa alcuna, della quale altri possa dire: Vedi questo, egli [è] nuovo? già è stato ne' secoli che sono stati avanti a noi."
+        },
+        {
+          "number": 11,
+          "text": "Non [vi è] alcuna memoria delle cose che sono state innanzi; così ancora non vi sarà memoria delle cose che saranno nel tempo a venire, fra coloro che verranno appresso."
+        },
+        {
+          "number": 12,
+          "text": "Io, il Predicatore, sono stato re sopra Israele, in Gerusalemme;"
+        },
+        {
+          "number": 13,
+          "text": "ed ho recato il mio cuore a ricercare, e ad investigare, con sapienza, tutto ciò che si fa sotto il cielo; il che [è] una occupazione molesta, [la quale] Iddio ha data a' figliuoli degli uomini, per occuparvisi."
+        },
+        {
+          "number": 14,
+          "text": "Io ho vedute tutte le cose che si fanno sotto il sole; ed ecco, tutto ciò [è] vanità, e tormento di spirito."
+        },
+        {
+          "number": 15,
+          "text": "Le cose torte non si possono dirizzare; e i difetti non si possono annoverare."
+        },
+        {
+          "number": 16,
+          "text": "Io parlava nel cuor mio, dicendo: Ecco, io mi sono aggrandito, ed accresciuto in sapienza, più che tutti quelli che sono stati innanzi a me sopra Gerusalemme; e il cuor mio ha veduta molta sapienza e scienza;"
+        },
+        {
+          "number": 17,
+          "text": "ed ho recato il mio cuore a conoscere la sapienza; ed anche a conoscere le pazzie e la stoltizia; [ed] ho riconosciuto che questo ancora è un tormento di spirito."
+        },
+        {
+          "number": 18,
+          "text": "Perciocchè, dove [è] molta sapienza, [vi è] molta molestia; e chi accresce la scienza accresce il dolore."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "number": 1,
+          "text": "IO ho detto nel cuor mio: Va' ora, io ti proverò con allegrezza, e tu goderai del bene; ma ecco, questo ancora [è] vanità."
+        },
+        {
+          "number": 2,
+          "text": "Io ho detto al riso: [Tu sei] insensato; ed all'allegrezza: Che cosa [è] quel che tu fai?"
+        },
+        {
+          "number": 3,
+          "text": "Io ho nel mio cuore ricercato il modo di passar dolcemente la vita mia in continui conviti; e, reggendo il mio cuore con sapienza, di attenermi a stoltizia; finchè vedessi che cosa fosse bene a' figliuoli degli uomini di fare sotto il cielo, tutti i giorni della vita loro."
+        },
+        {
+          "number": 4,
+          "text": "Io ho fatte dell'opere magnifiche; io mi ho edificate delle case; io mi ho piantate delle vigne."
+        },
+        {
+          "number": 5,
+          "text": "Io mi ho fatti degli orti e de' giardini; ed ho piantati in essi degli alberi fruttiferi di ogni maniera."
+        },
+        {
+          "number": 6,
+          "text": "Io mi ho fatte delle pescine d'acqua, per adacquar con esse il bosco ove crescono gli alberi."
+        },
+        {
+          "number": 7,
+          "text": "Io ho acquistati de' servi e delle serve, ed ho avuti de' servi nati ed allevati in casa; ho eziandio avuto molto grosso e minuto bestiame, più che tutti quelli che sono stati innanzi a me in Gerusalemme."
+        },
+        {
+          "number": 8,
+          "text": "Io mi ho eziandio adunato dell'argento, e dell'oro, e delle cose le più care dei re, e delle provincie; io mi ho acquistato de' cantori e delle cantatrici; ed ho avute delle delizie degli uomini, [d'ogni maniera:] musica semplice, e musica di concerto."
+        },
+        {
+          "number": 9,
+          "text": "E mi sono aggrandito ed accresciuto più che tutti quelli che sono stati innanzi a me in Gerusalemme; la mia sapienza eziandio mi è restata."
+        },
+        {
+          "number": 10,
+          "text": "E non ho sottratta agli occhi miei cosa alcuna che abbiano chiesta; [e] non ho divietato il mio cuore da niuna allegrezza; anzi il mio cuore si è rallegrato d'ogni mia fatica; e questo è stato quello che mi è tocco in parte d'ogni mia fatica."
+        },
+        {
+          "number": 11,
+          "text": "Ma, avendo considerate tutte le mie opere che le mie mani aveano fatte; e la fatica che io avea durata a far[le], ecco, tutto ciò [era] vanità, e tormento di spirito; e non [vi è di ciò] profitto alcuno sotto il sole."
+        },
+        {
+          "number": 12,
+          "text": "Laonde mi son rivolto a vedere la sapienza, e le follie, e la stoltizia; perciocchè, che cosa [sono] gli [altri] uomini, per poter seguitare il re? essi fanno ciò che [hanno] già [fatto]."
+        },
+        {
+          "number": 13,
+          "text": "Ed ho veduto che la sapienza è più eccellente che la stoltizia; siccome la luce è più eccellente che le tenebre."
+        },
+        {
+          "number": 14,
+          "text": "Il savio ha i suoi occhi nel capo, e lo stolto cammina in tenebre; ma pure eziandio ho conosciuto che un medesimo avvenimento avviene ad essi tutti."
+        },
+        {
+          "number": 15,
+          "text": "Laonde ho detto nel cuor mio: Egli avverrà anche a me il medesimo avvenimento che allo stolto; che mi gioverà egli adunque allora d'essere stato più savio? perciò ho detto nel cuor mio che ciò ancora [è] vanità."
+        },
+        {
+          "number": 16,
+          "text": "Perciocchè non [vi sarà] giammai [più] memoria del savio, come nè anche dello stolto; conciossiachè nei giorni vegnenti ogni cosa sarà già dimenticata. E come muore il savio così muore anche lo stolto."
+        },
+        {
+          "number": 17,
+          "text": "Perciò ho odiata questa vita; imperocchè le opere che si fanno sotto il sole mi son dispiaciute; perchè ogni cosa [è] vanità, e tormento di spirito."
+        },
+        {
+          "number": 18,
+          "text": "Ho eziando odiata ogni mia fatica che io ho durata sotto il sole, la quale io lascerò a colui che sarà dopo di me."
+        },
+        {
+          "number": 19,
+          "text": "E chi sa s'egli sarà savio, o stolto? e pure egli sarà signore d'ogni mia fatica, intorno alla quale mi sarò affaticato, ed avrò adoperata la mia sapienza sotto il sole. Anche questo [è] vanità."
+        },
+        {
+          "number": 20,
+          "text": "Perciò, mi son rivolto a far perdere al mio cuore la speranza d'ogni fatica, intorno alla quale io mi sono affaticato sotto il sole."
+        },
+        {
+          "number": 21,
+          "text": "Perciocchè vi è tale uomo, la cui fatica [sarà stata] con sapienza, con conoscimento, e con dirittura; il quale pur la lascia per parte a chi non s'è affaticato intorno. Anche questo [è] vanità, e gran molestia."
+        },
+        {
+          "number": 22,
+          "text": "Perciocchè, che cosa ha un tale uomo di tutta la sua fatica, e del tormento del suo spirito, con che egli si affatica sotto il sole?"
+        },
+        {
+          "number": 23,
+          "text": "Conciossiachè tutti i suoi giorni [non sieno altro che] dolori, e le sue occupazioni [altro che] molestia; anche non pur di notte il cuor suo non riposa. Questo ancora è vanità."
+        },
+        {
+          "number": 24,
+          "text": "Non [è] egli cosa buona nell'uomo, ch'egli mangi e beva, e faccia goder di beni l'anima sua, con la sua fatica? Anche questo ho veduto esser dalla mano di Dio."
+        },
+        {
+          "number": 25,
+          "text": "(Perciocchè, chi mangerebbe, e chi goderebbe, se io nol facessi?)"
+        },
+        {
+          "number": 26,
+          "text": "Conciossiachè [Iddio] dia all'uomo, che gli è grato, sapienza, conoscimento ed allegrezza; ed al peccatore, egli dà occupazione di adunare e di ammassare, per dare a colui che è grato a Dio. Questo ancora [è] vanità, e tormento di spirito."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "number": 1,
+          "text": "OGNI cosa ha la [sua] stagione, ed ogni azione sotto il cielo ha il [suo] tempo."
+        },
+        {
+          "number": 2,
+          "text": "[Vi è] tempo di nascere, e tempo di morire; tempo di piantare, e tempo di divellere ciò che è piantato;"
+        },
+        {
+          "number": 3,
+          "text": "tempo di uccidere, e tempo di sanare; tempo di distruggere, e tempo di edificare;"
+        },
+        {
+          "number": 4,
+          "text": "tempo di piangere, e tempo di ridere; tempo di far cordoglio, e tempo di saltare;"
+        },
+        {
+          "number": 5,
+          "text": "tempo di spargere le pietre, e tempo di raccorle; tempo di abbracciare, e tempo di allontanarsi dagli abbracciamenti;"
+        },
+        {
+          "number": 6,
+          "text": "tempo di procacciare, e tempo di perdere; tempo di guardare, e tempo di gittar via;"
+        },
+        {
+          "number": 7,
+          "text": "tempo di stracciare, e tempo di cucire; tempo di tacere, e tempo di parlare;"
+        },
+        {
+          "number": 8,
+          "text": "tempo di amare, e tempo di odiare; tempo di guerra, e tempo di pace."
+        },
+        {
+          "number": 9,
+          "text": "Che profitto [ha] chi fa [alcuna cosa], di quello intorno a che egli si affatica?"
+        },
+        {
+          "number": 10,
+          "text": "Io ho veduta questa occupazione, che Iddio ha data a' figliuoli degli uomini, acciocchè si occupino in essa."
+        },
+        {
+          "number": 11,
+          "text": "Egli ha fatta ogni cosa bella nella sua stagione: ha eziandio posto l'eternità nel cuor degli [uomini], senza che però l'uomo possa giammai rinvenir l'opere che Iddio ha fatte, da capo al fine."
+        },
+        {
+          "number": 12,
+          "text": "Io ho conosciuto che fra essi non [vi è] altro bene, che di rallegrarsi, e di far bene in vita sua."
+        },
+        {
+          "number": 13,
+          "text": "Ed anche che ogni uomo mangi e beva; e, con ogni sua fatica, goda del bene, [è] dono di Dio."
+        },
+        {
+          "number": 14,
+          "text": "Io ho conosciuto che tutto quello che Iddio fa è in perpetuo; a ciò niente si può aggiungere, e niente se ne può diminuire; e Dio [il] fa, acciocchè [gli uomini] lo temano."
+        },
+        {
+          "number": 15,
+          "text": "Ciò che è stato era già prima, e ciò che ha da essere già è stato; e Iddio ricerca quello che è passato."
+        },
+        {
+          "number": 16,
+          "text": "Avendo, oltre a ciò, veduto sotto il sole, che nel'luogo del giudicio vi [è] l'empietà; che nelluogo della giustizia vi [è] l'empietà;"
+        },
+        {
+          "number": 17,
+          "text": "io ho detto nel mio cuore: Iddio giudicherà il giusto e l'empio; perciocchè, là, [vi è] un tempo per ogni cosa e per ogni opera."
+        },
+        {
+          "number": 18,
+          "text": "Io ho detto nel mio cuore, intorno alla condizione de' figliuoli degli uomini, [ch'egli sarebbe da desiderare] che Iddio li chiarisse, e ch'essi vedessero che da loro stessi [non] sono [altro che] bestie."
+        },
+        {
+          "number": 19,
+          "text": "Perciocchè ciò che avviene a' figliuoli degli uomini è ciò che avviene alle bestie; [vi è] un medesimo avvenimento per essi [tutti]; come muore l'uno, così muore l'altro, e tutti hanno un medesimo fiato; e l'uomo non ha vantaggio alcuno sopra le bestie; perciocchè tutti [son] vanità."
+        },
+        {
+          "number": 20,
+          "text": "Tutti vanno in un medesimo luogo; tutti sono stati [fatti] di polvere, e tutti ritornano in polvere."
+        },
+        {
+          "number": 21,
+          "text": "Chi sa che lo spirito de' figliuoli degli uomini salga in alto, e quel delle bestie scenda a basso sotterra?"
+        },
+        {
+          "number": 22,
+          "text": "Io ho dunque veduto che non [vi è altro] bene, se non che l'uomo si rallegri nelle sue opere; conciossiachè questa [sia] la sua parte; perciocchè chi lo rimenerà, per veder quello che sarà dopo lui?"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "number": 1,
+          "text": "MA di nuovo io ho vedute tutte le oppressioni che si fanno sotto il sole; ed ecco, le lagrime degli oppressati i quali non hanno alcun consolatore, nè forza [da potere scampar] dalle mani de' loro oppressatori; non hanno, [dico], alcun consolatore."
+        },
+        {
+          "number": 2,
+          "text": "Onde io pregio i morti, che già son morti, più che i viventi, che sono in vita fino ad ora."
+        },
+        {
+          "number": 3,
+          "text": "Anzi più felice che gli uni, e che gli altri, [giudico] colui che fino ad ora non è stato; il qual non ha vedute le opere malvage che si fanno sotto il sole."
+        },
+        {
+          "number": 4,
+          "text": "Oltre a ciò, ho veduto che in ogni fatica, ed in ogni opera ben fatta, l'uomo è invidiato dal suo prossimo. Ciò ancora [è] vanità, e tormento di spirito."
+        },
+        {
+          "number": 5,
+          "text": "Lo stolto piega le mani, e mangia la sua carne, [dicendo:]"
+        },
+        {
+          "number": 6,
+          "text": "Meglio [è] una menata con riposo, che amendue i pugni pieni [con] travaglio, e [con] tormento di spirito."
+        },
+        {
+          "number": 7,
+          "text": "Ma di nuovo ho veduta un'[altra] vanità sotto il sole."
+        },
+        {
+          "number": 8,
+          "text": "Vi è tale, [che è] solo, e non ha alcun secondo; [ed] anche non ha figliuoli, nè fratello, e pure egli si affatica senza fine, [ed] anche l'occhio suo non è giammai sazio di ricchezze; e [non pensa:] Per chi mi affatico, e privo la mia persona di bene? Questo ancora [è] vanità, ed un mal affare."
+        },
+        {
+          "number": 9,
+          "text": "Due valgono meglio che un [solo]; conciossiachè essi abbiano un buon premio della lor fatica."
+        },
+        {
+          "number": 10,
+          "text": "Perciocchè, se l'uno cade, l'altro rileva il suo compagno; ma guai a chi è solo! perciocchè [se] cade, non [vi è] alcun secondo per rilevarlo."
+        },
+        {
+          "number": 11,
+          "text": "Oltre a ciò, se due dormono insieme, si riscalderanno; ma un [solo] come potrà egli riscaldarsi?"
+        },
+        {
+          "number": 12,
+          "text": "E se alcuno fa forza all'uno, i due gli resisteranno; anche il cordone a tre fili non si rompe prestamente."
+        },
+        {
+          "number": 13,
+          "text": "Meglio vale il fanciullo povero e savio, che il re vecchio e stolto, il qual non sa più essere ammonito."
+        },
+        {
+          "number": 14,
+          "text": "Perciocchè [tale] esce di carcere, per regnare; tale altresì, che è nato nel suo reame, diventa povero."
+        },
+        {
+          "number": 15,
+          "text": "Io ho veduto che tutti i viventi sotto il sole vanno col fanciullo, [che è] la seconda persona, che ha da succedere al re."
+        },
+        {
+          "number": 16,
+          "text": "Tutto il popolo senza fine [va con lui, come aveano fatto] tutti coloro che erano stati davanti a loro; quelli eziandio che verranno appresso, non si rallegreranno di lui. Certo, questo ancora [è] vanità, e tormento di spirito."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "number": 1,
+          "text": "GUARDA il tuo piè, quando tu andrai nella Casa di Dio; ed appressati per ascoltare, anzi che [per dar quello che dànno] gli stolti, [cioè], sacrificio; perciocchè essi, facendo male, non però se ne avveggono."
+        },
+        {
+          "number": 2,
+          "text": "Non esser precipitoso nel tuo parlare, e il tuo cuore non si affretti a proferire alcuna parola nel cospetto di Dio; perciocchè Iddio, [è] nel cielo, e tu [sei] in terra; però sieno le tue parole poche;"
+        },
+        {
+          "number": 3,
+          "text": "perciocchè dalla moltitudine delle occupazioni procede il sogno, e dalla moltitudine delle parole [procede] la voce stolta."
+        },
+        {
+          "number": 4,
+          "text": "Quando avrai votato a Dio alcun voto, non indugiare di adempierlo; perciocchè gli stolti non [gli] son punto grati; adempi ciò che avrai votato."
+        },
+        {
+          "number": 5,
+          "text": "Meglio [è] che tu non voti, che se tu voti, e non adempi."
+        },
+        {
+          "number": 6,
+          "text": "Non recar la tua bocca a far peccar la tua persona; e non dire davanti all'Angelo, che è stato errore; perchè si adirerebbe Iddio per la tua voce, e dissiperebbe l'opera delle tue mani?"
+        },
+        {
+          "number": 7,
+          "text": "Certo, in moltitudine di sogni [vi sono] ancora delle vanità [assai]; così ancora [ve ne son] molte in [molte] parole; ma tu, temi Iddio."
+        },
+        {
+          "number": 8,
+          "text": "Se tu vedi nella provincia l'oppression del povero, e la ruberia del giudicio e della giustizia, non maravigliarti di questa cosa; perciocchè [vi è] uno Eccelso di sopra all'eccelso, che vi prende guardia; anzi, [vi sono] degli eccelsi sopra essi [tutti]."
+        },
+        {
+          "number": 9,
+          "text": "Ora la terra [è] la più profittevole di tutte l'[altre] cose; il re [stesso è] sottoposto al campo."
+        },
+        {
+          "number": 10,
+          "text": "CHI ama l'argento non è saziato con l'argento; e chi ama i gran tesori [è] senza rendita. Anche questo [è] vanità."
+        },
+        {
+          "number": 11,
+          "text": "Dove son molti beni, sono anche molti mangiatori di essi; e che pro ne torna al padrone di essi, salvo la vista degli occhi?"
+        },
+        {
+          "number": 12,
+          "text": "Il sonno del lavoratore [è] dolce, poco o assai ch'egli mangi; ma la sazietà del ricco non lo lascia dormire."
+        },
+        {
+          "number": 13,
+          "text": "Vi è una mala doglia, [la quale] io ho veduta sotto il sole, [cioè: che vi son] delle ricchezze, conservate a' lor padroni per lor male."
+        },
+        {
+          "number": 14,
+          "text": "Ed esse ricchezze periscono per mal affare, sì che, [se il padrone di esse] ha generato un figliuolo, [non gliene riman] nulla in mano."
+        },
+        {
+          "number": 15,
+          "text": "[Un tale] se ne torna ignudo, come è uscito del seno di sua madre, andandosene come è venuto; e non prende nulla della sua fatica, ch'egli se ne porti via nella mano."
+        },
+        {
+          "number": 16,
+          "text": "Anche questo [è] una mala doglia; conciossiachè egli se ne vada come egli è venuto; e che profitto ha egli di essersi affaticato per del vento?"
+        },
+        {
+          "number": 17,
+          "text": "Ed anche tutti i giorni della sua vita egli avrà mangiato in tenebre, con molta tristezza, e doglia, e cruccio."
+        },
+        {
+          "number": 18,
+          "text": "Ecco ciò che io ho veduto: ch'egli [è] una buona e bella cosa che l'uomo mangi, e beva, e goda del bene con tutta la sua fatica ch'egli dura sotto il sole, tutti i giorni della sua vita, i quali Iddio gli ha dati; perchè questo [è] la sua parte."
+        },
+        {
+          "number": 19,
+          "text": "Ed anche quando Iddio, avendo date a chi che sia ricchezze e facoltà, gli dà ancora il potere di mangiarne, e di prender[ne] la sua parte, e di rallegrarsi della sua fatica: ciò è un dono di Dio."
+        },
+        {
+          "number": 20,
+          "text": "Perciocchè [un tale] non si ricorderà molto dei giorni della sua vita; conciossiachè Iddio gli risponda per l'allegrezza del suo cuore."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "number": 1,
+          "text": "VI è un male che io ho veduto sotto il sole, ed è frequente fra gli uomini;"
+        },
+        {
+          "number": 2,
+          "text": "[cioè: che vi è] tal uomo, a cui Iddio ha date ricchezze, e facoltà, e gloria, talchè nulla manca all'anima sua, di tutto ciò ch'egli può desiderare; e pure Iddio non gli dà il potere di mangiarne, anzi uno strano le mangia. Questo [è] vanità, ed una mala doglia."
+        },
+        {
+          "number": 3,
+          "text": "Avvegnachè alcuno generi cento [figliuoli], e viva molti anni, talchè il tempo della sua vita sia grande, se l'anima sua non è saziata di bene, e [se] non ha pur sepoltura, io dico che la condizione di un abortivo [è] migliore che la sua."
+        },
+        {
+          "number": 4,
+          "text": "Perciocchè quell'[abortivo] è venuto in vano, e se ne va nelle tenebre, e il suo nome è coperto di tenebre."
+        },
+        {
+          "number": 5,
+          "text": "[Ed] avvegnachè non abbia veduto il sole, nè avuto alcun conoscimento, pure ha più riposo di quell'[altro]."
+        },
+        {
+          "number": 6,
+          "text": "Il quale, benchè egli vivesse duemila anni, se non gode del bene, [che vantaggio ne ha egli?] non vanno essi tutti in un medesimo luogo?"
+        },
+        {
+          "number": 7,
+          "text": "Tutta la fatica dell'uomo [è] per la sua bocca; e pur l'anima sua non è [giammai] sazia."
+        },
+        {
+          "number": 8,
+          "text": "Perciocchè, qual vantaggio ha il savio sopra lo stolto? qual [vantaggio] ha il povero intendente? di camminare davanti a' viventi."
+        },
+        {
+          "number": 9,
+          "text": "Meglio [è] il veder con gli occhi, che andar vagando qua e là con l'anima. Anche questo [è] vanità, e tormento di spirito."
+        },
+        {
+          "number": 10,
+          "text": "Già fu posto nome [all'uomo] ciò ch'egli è; ed egli è noto ch'esso [nome fu] Adamo; ed egli non può litigar con colui che [è] più forte di lui."
+        },
+        {
+          "number": 11,
+          "text": "Quando vi son cose assai, esse accrescono la vanità; [e] che vantaggio [ne] ha l'uomo?"
+        },
+        {
+          "number": 12,
+          "text": "Perciocchè, chi sa qual cosa [sia] buona all'uomo in [questa] vita, tutti i giorni della vita della sua vanità, i quali egli passa come un'ombra? imperocchè, chi dichiarerà all'uomo ciò che sarà dopo lui sotto il sole?"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "number": 1,
+          "text": "LA [buona] fama [val] meglio che il buon olio [odorifero], e il giorno della morte [meglio] che il giorno della natività."
+        },
+        {
+          "number": 2,
+          "text": "Meglio [vale] andare in una casa di duolo, che andare in una casa di convito; perciocchè quello [è] il fine d'ogni uomo; e chi vive vi pon mente."
+        },
+        {
+          "number": 3,
+          "text": "Meglio [vale] la tristezza che il riso; perciocchè il cuore migliora per la mestizia del volto."
+        },
+        {
+          "number": 4,
+          "text": "Il cuore de' savi [è] nella casa del duolo; e il cuor degli stolti [è] nella casa dell'allegrezza."
+        },
+        {
+          "number": 5,
+          "text": "Meglio [vale] udir lo sgridar del savio, che se alcuno ode il cantar de' pazzi."
+        },
+        {
+          "number": 6,
+          "text": "Perciocchè, quale [è] il romore delle spine sotto la caldaia, tale [è] il ridere dello stolto. Anche questo [è] vanità."
+        },
+        {
+          "number": 7,
+          "text": "Certo l'oppressione fa impazzare il savio, e il presente fa perdere il senno."
+        },
+        {
+          "number": 8,
+          "text": "Meglio [vale] il fin della cosa, che il principio di essa; meglio [vale] chi è di spirito paziente, che chi è di spirito altiero."
+        },
+        {
+          "number": 9,
+          "text": "Non esser subito nell'animo tuo ad adirarti; perciocchè l'ira riposa nel seno degli stolti."
+        },
+        {
+          "number": 10,
+          "text": "Non dire: Che vuol dire che i giorni di prima sono stati migliori di questi? perciocchè tu non domanderesti di ciò per sapienza."
+        },
+        {
+          "number": 11,
+          "text": "La sapienza [è] buona come una eredità; e quelli che veggono il sole han del vantaggio."
+        },
+        {
+          "number": 12,
+          "text": "Perciocchè la sapienza [è] all'ombra, [e] i danari [sono] all'ombra; ma la scienza della sapienza [ha questo] vantaggio, [ch]'ella fa vivere quelli che ne son dotati."
+        },
+        {
+          "number": 13,
+          "text": "Riguarda le opere di Dio; perciocchè chi potrà ridirizzare ciò ch'egli avrà travolto?"
+        },
+        {
+          "number": 14,
+          "text": "Nel giorno del bene sta' in allegrezza; e nel giorno dell'avversità, ponvi mente; ancora ha fatto Iddio l'uno contrapposto all'altro, per [questa] cagione, che l'uomo non troverà nulla dopo sè."
+        },
+        {
+          "number": 15,
+          "text": "Io ho veduto tutto questo a' giorni della mia vanità. Vi è tal giusto, che perisce per la sua giustizia; e vi è tal empio, che prolunga [la sua vita] con la sua malvagità."
+        },
+        {
+          "number": 16,
+          "text": "Non esser troppo giusto, e non farti savio oltre misura; perchè ti diserteresti?"
+        },
+        {
+          "number": 17,
+          "text": "Non esser troppo empio, nè stolto; perchè morresti fuor del tuo tempo?"
+        },
+        {
+          "number": 18,
+          "text": "[Egli è] bene che tu ti attenga ad una cosa, sì però che tu non allenti la mano dall'altra; perciocchè, chi teme Iddio esce d'ogni cosa."
+        },
+        {
+          "number": 19,
+          "text": "La sapienza rinforza il savio, più che dieci rettori [non fanno] la città nella quale sono."
+        },
+        {
+          "number": 20,
+          "text": "Certo non [vi è] niun uomo giusto in terra, il quale faccia bene, e non pecchi."
+        },
+        {
+          "number": 21,
+          "text": "Tu altresì non por mente a tutte le parole che [altri] dirà; anzi non pure ascoltare il tuo servo che ti maledice."
+        },
+        {
+          "number": 22,
+          "text": "Perciocchè il tuo cuore sa che tu ancora ne hai maledetti altri, eziandio più volte."
+        },
+        {
+          "number": 23,
+          "text": "Io ho provate tutte queste cose per sapienza; [onde] ho detto: Io son savio; ma la sapienza [è] longi da me."
+        },
+        {
+          "number": 24,
+          "text": "Chi troverà una cosa che è cotanto lontana, ed [è] profondissima?"
+        },
+        {
+          "number": 25,
+          "text": "Io mi sono aggirato con l'anima mia, per conoscere, per investigare, e [per] ricercar sapienza, e come si deve ben giudicar delle cose; e per conoscere l'empietà della stoltizia, e la follia delle pazzie;"
+        },
+        {
+          "number": 26,
+          "text": "ed ho trovata una cosa più amara che la morte, [cioè:] quella donna che non è altro che reti, e il cui cuore non [è] altro che giacchi, [e] le cui mani [son tanti] lacci; l'uomo gradevole a Dio scamperà da essa; ma il peccatore sarà preso da lei."
+        },
+        {
+          "number": 27,
+          "text": "Vedi, io ho trovato questo, dice il Predicatore, [cercando ogni cosa] ad una ad una, per trovare come si deve ben giudicar delle cose;"
+        },
+        {
+          "number": 28,
+          "text": "il che ancora cerca l'anima mia, e non l'ho trovato ([ben] ho trovato un uomo fra mille; ma fra altrettante donne, non ne ho trovata neppur una)."
+        },
+        {
+          "number": 29,
+          "text": "Sol ecco ciò che io ho trovato: che Iddio ha fatto l'uomo diritto; ma [gli uomini] hanno ricercati molti discorsi."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "number": 1,
+          "text": "CHI [è] come il savio? e chi conosce la dichiarazione delle cose? la sapienza dell'uomo gli rischiara il volto, e la durezza della sua faccia [ne] è mutata."
+        },
+        {
+          "number": 2,
+          "text": "Io [ti ammonisco] che tu osservi il comandamento del re; eziandio per cagione del giuramento [fatto nel Nome] di Dio."
+        },
+        {
+          "number": 3,
+          "text": "Non affrettarti a partirti dal suo cospetto; [ed anche] non presentarti [a lui] con qualche cosa malvagia; perciocchè egli farà tutto quello che gli piacerà."
+        },
+        {
+          "number": 4,
+          "text": "Perciocchè la parola del re [è con] imperio; e chi gli dirà: Che fai?"
+        },
+        {
+          "number": 5,
+          "text": "Chi osserva il comandamento non proverà alcun malvagio accidente; e il cuor dell'uomo savio conosce il tempo e il buon modo, che si deve tenere."
+        },
+        {
+          "number": 6,
+          "text": "Conciossiachè a qual si voglia affare vi sia tempo e modo; perciocchè gran mali soprastanno all'uomo."
+        },
+        {
+          "number": 7,
+          "text": "Perchè egli non sa quello che avverrà; imperocchè, chi gli dichiarerà come [le cose] saranno?"
+        },
+        {
+          "number": 8,
+          "text": "Niun uomo ha potere sopra il vento, per rattenere il vento; e non [vi è] potere alcuno contro al giorno della morte, e nella battaglia non [vi è] licenza; così l'empietà non lascerà scampar quelli ne' quali ella si trova."
+        },
+        {
+          "number": 9,
+          "text": "Io ho veduto tutto questo; e ponendo mente a tutte le cose che si fanno sotto il sole, [ho veduto che vi è tal] tempo, che l'uomo signoreggia sopra l'uomo, a danno di esso."
+        },
+        {
+          "number": 10,
+          "text": "Ed allora ho veduto degli empi, esser sepolti, e venire [al loro riposo]; e di quelli che s'erano portati con dirittura, andarsene dal luogo santo, ed esser dimenticati nella città. Anche questo [è] vanità."
+        },
+        {
+          "number": 11,
+          "text": "PERCIOCCHÈ la sentenza non è prontamente data contro alle opere malvage, però il cuor de' figliuoli degli uomini è pieno dentro di loro [di voglia] di mal fare."
+        },
+        {
+          "number": 12,
+          "text": "Conciossiachè il peccatore faccia male cento volte, e pur [la pena] gli è prolungata; ma pure ancora so io che bene sarà a coloro che temono Iddio, perchè riveriscono la sua faccia."
+        },
+        {
+          "number": 13,
+          "text": "E che bene non sarà all'empio, e ch'egli non prolungherà i [suoi] giorni, [che se ne andranno] come l'ombra; perciocchè egli non riverisce la faccia di Dio."
+        },
+        {
+          "number": 14,
+          "text": "Vi è una vanità che avviene sopra la terra; [cioè:] che vi son de' giusti, a' quali avviene secondo l'opera degli empi; e vi son degli empi, a' quali avviene secondo l'opera de' giusti. Io ho detto che anche questo [è] vanità."
+        },
+        {
+          "number": 15,
+          "text": "Perciò, io ho lodata l'allegrezza; conciossiachè l'uomo non abbia altro bene sotto il sole, se non di mangiare, e di bere, e di gioire, e questo è quello ch'egli, con la sua fatica, ha in presto a' dì della sua vita, che Iddio gli ha dati sotto il sole."
+        },
+        {
+          "number": 16,
+          "text": "Quando io ho recato il cuor mio a conoscer la sapienza, ed a veder gli affari che si fanno sopra la terra (perciocchè nè giorno nè notte esso [mio cuore] non vede sonno degli occhi suoi);"
+        },
+        {
+          "number": 17,
+          "text": "io ho veduto, [quant'è] a tutte le opere di Dio, che l'uomo non può rinvenir le opere che si fanno sotto il sole; intorno alle quali egli si affatica, cercando[le], e non le trova; ed avvegnachè il savio dica di aver conoscimento, non però [le] può trovare."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "number": 1,
+          "text": "PERCIOCCHÈ io mi ho recate tutte queste cose al cuore, eziandio per chiarir tutto questo: come i giusti e i savi, e i fatti loro, [essendo] nella man di Dio, gli uomini non conoscono nè l'amore, nè l'odio: tutto [è] davanti a loro."
+        },
+        {
+          "number": 2,
+          "text": "Tutte le cose [avvengono] simigliantemente a tutti; un medesimo avvenimento [avviene] al giusto, ed all'empio; al buono e puro, ed all'immondo; a chi sacrifica, ed a chi non sacrifica; quale [è] il buono, tale [è] il peccatore; [tal] chi giura, qual chi teme di giurare."
+        },
+        {
+          "number": 3,
+          "text": "Quest'[è] una cosa molesta, fra tutte quelle che si fanno sotto il sole, che un medesimo avvenimento [avviene] a tutti; ed anche, [che] mentre i figliuoli degli uomini sono in vita, il cuor loro è pien di male, ed hanno delle follie al cuore; e dopo ciò, [vanno] a' morti."
+        },
+        {
+          "number": 4,
+          "text": "Perciocchè, chi è che faccia eccezione? Vi è qualche speranza per tutti quelli che sono in vita; conciossiachè la condizione d'un can vivo sia migliore che quella d'un leone morto."
+        },
+        {
+          "number": 5,
+          "text": "Perciocchè i viventi sanno che morranno; ma i morti non sanno nulla, e non vi è più alcun premio per loro; perciocchè la lor memoria è dimenticata."
+        },
+        {
+          "number": 6,
+          "text": "Già e il loro amore, e il loro odio, e la loro invidia è perita; e non hanno giammai più parte alcuna in tutto quello che si fa sotto il sole."
+        },
+        {
+          "number": 7,
+          "text": "Va', mangia il tuo pane allegramente, e bevi il tuo vino di cuore lieto; se pure Iddio gradisce le tue opere."
+        },
+        {
+          "number": 8,
+          "text": "Sieno in ogni tempo i tuoi vestimenti bianchi; e l'olio [odorifero] non venga meno in sul tuo capo."
+        },
+        {
+          "number": 9,
+          "text": "Godi della vita con la moglie che tu ami, tutti i giorni della vita della tua vanità, i quali [Iddio] ti ha dati sotto il sole, tutto il tempo della tua vanità; perciocchè questa è la tua parte nella [tua] vita, e [il frutto] della tua fatica, che tu duri sotto il sole."
+        },
+        {
+          "number": 10,
+          "text": "Fa' a tuo potere tutto quello che avrai modo di fare; perciocchè sotterra, ove tu vai, non vi [è] nè opera, nè ragione, nè conoscimento, nè sapienza alcuna."
+        },
+        {
+          "number": 11,
+          "text": "DI nuovo, io ho veduto sotto il sole, che il correre non [è in poter] de' leggieri, nè il far la guerra [in poter] de' prodi, nè [l'aver del] pane [in poter] de' savi, nè [l'acquistar] ricchezze [in poter] de' prudenti, nè [d'essere in] grazia [in poter] degl'intendenti; conciossiachè ad essi tutti avvengano tempi e casi."
+        },
+        {
+          "number": 12,
+          "text": "Perciocchè l'uomo non pur conosce il suo tempo. Come i pesci, che son presi con la mala rete; e come gli uccelli, che son colti col laccio; così sono allacciati i figliuoli degli uomini, al tempo dell'avversità, quando cade loro di subito addosso."
+        },
+        {
+          "number": 13,
+          "text": "Pure ancora ho veduta questa sapienza sotto il sole, che mi è paruta grande:"
+        },
+        {
+          "number": 14,
+          "text": "[vi era] una piccola città con pochi uomini dentro; ed un gran re venne contro ad essa, e l'intorniò, e fece di gran bastie contro ad essa;"
+        },
+        {
+          "number": 15,
+          "text": "e in essa si trovò un povero uomo savio, il qual liberò la città con la sua sapienza, benchè niuno si ricordasse di quel povero uomo."
+        },
+        {
+          "number": 16,
+          "text": "Allora io dissi: Meglio val sapienza che forza; benchè la sapienza del povero sia sprezzata, e che le sue parole non sieno ascoltate."
+        },
+        {
+          "number": 17,
+          "text": "Le parole de' savi devono esser più quietamente ascoltate, che la grida d'un signore fra gli stolti."
+        },
+        {
+          "number": 18,
+          "text": "La sapienza val meglio che gli strumenti bellici; ma un sol peccatore fa perire un gran bene."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "number": 1,
+          "text": "LE mosche morte fanno putire, e ribollir l'olio [odorifero] del profumiere; [così] un poco di stoltizia [guasta] il pregio della sapienza [e] della gloria."
+        },
+        {
+          "number": 2,
+          "text": "[L'uomo] savio ha il suo cuore alla sua destra, e lo stolto l'ha alla sua sinistra."
+        },
+        {
+          "number": 3,
+          "text": "Lo stolto, eziandio mentre egli cammina per la via, è scemo di senno, e dice a tutti ch'egli [è] stolto."
+        },
+        {
+          "number": 4,
+          "text": "Se il principe monta in ira contro a te, non lasciar però il tuo luogo; perciocchè la dolcezza fa perdonar di gran peccati."
+        },
+        {
+          "number": 5,
+          "text": "Vi è un male [che] io ho veduto sotto il sole, simile all'errore che procede dal principe."
+        },
+        {
+          "number": 6,
+          "text": "[Cioè:] che la stoltizia è posta in grandi altezze, ed i ricchi seggono in luoghi bassi."
+        },
+        {
+          "number": 7,
+          "text": "Io ho veduti i servi a cavallo, ed i ricchi camminare a piè come servi."
+        },
+        {
+          "number": 8,
+          "text": "Chi cava la fossa caderà in essa; e chi rompe la chiusura il serpente lo morderà."
+        },
+        {
+          "number": 9,
+          "text": "Chi rimuove le pietre ne sarà offeso; chi spezza delle legne ne sarà in pericolo."
+        },
+        {
+          "number": 10,
+          "text": "Se il ferro è rintuzzato, e non se ne arrota il taglio, bisogna raddoppiar la forza; ma la sapienza [è] cosa eccellente, per addirizzar [le cose]."
+        },
+        {
+          "number": 11,
+          "text": "Se il serpente morde, non essendo incantato, niente meglio vale il maldicente."
+        },
+        {
+          "number": 12,
+          "text": "Le parole della bocca del savio [non sono altro che] grazia; ma le labbra dello stolto lo distruggono."
+        },
+        {
+          "number": 13,
+          "text": "Il principio delle parole della sua bocca [è] stoltizia, ed il fine del suo parlare è mala pazzia."
+        },
+        {
+          "number": 14,
+          "text": "Benchè lo stolto moltiplichi le parole, l'uomo pur non sa ciò che ha da essere; e chi gli dichiarerà ciò che sarà dopo lui?"
+        },
+        {
+          "number": 15,
+          "text": "La fatica degli stolti li stanca; perciocchè non sanno [la via per] andare alla città."
+        },
+        {
+          "number": 16,
+          "text": "Guai a te, o paese, il cui re [è] fanciullo, ed i cui principi mangiano [fin dal]la mattina!"
+        },
+        {
+          "number": 17,
+          "text": "Beato te, o paese, il cui re [è] di legnaggio nobile, ed i cui principi mangiano a tempo convenevole, per ristoro, e non per ebbrezza!"
+        },
+        {
+          "number": 18,
+          "text": "Per la pigrizia di ambe [le mani] il solaio scade, e per le mani spenzolate gocciola in casa."
+        },
+        {
+          "number": 19,
+          "text": "I conviti si fanno per gioire, e il vino rallegra i viventi; ed i danari rispondono a tutto."
+        },
+        {
+          "number": 20,
+          "text": "Non dir male del re, non pur nel tuo pensiero; e non dir male del ricco nella camera dove tu giaci; perciocchè alcun uccello del cielo potrebbe portar[ne] la voce, ed alcun [animale] alato rapportar[ne] le parole."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "number": 1,
+          "text": "GITTA il tuo pane sopra le acque; perciocchè tu lo ritroverai lungo tempo appresso."
+        },
+        {
+          "number": 2,
+          "text": "Fanne parte a sette, anzi ad otto; perciocchè tu non sai qual male avverrà sopra la terra."
+        },
+        {
+          "number": 3,
+          "text": "Quando le nuvole son piene, versano la pioggia in su la terra; e quando l'albero cade, o verso il Mezzodì, o verso il Settentrione, ove egli cade quivi resta."
+        },
+        {
+          "number": 4,
+          "text": "Chi pon mente al vento non seminerà; e chi riguarda alle nuvole non mieterà."
+        },
+        {
+          "number": 5,
+          "text": "Come tu non sai qual [sia] la via del vento, [nè] come [si formino] l'ossa dentro al seno della [donna] gravida; così tu non conosci le opere di Dio, il qual fa tutte queste cose."
+        },
+        {
+          "number": 6,
+          "text": "Semina la mattina la tua semenza, e la sera non lasciar posar le tue mani; perciocchè tu non sai ciò che riuscirà meglio, questo, o quello; o se l'uno e l'altro sarà ugualmente buono."
+        },
+        {
+          "number": 7,
+          "text": "Ben [è] la luce cosa dolce, e il vedere il sole cosa piacevole agli occhi."
+        },
+        {
+          "number": 8,
+          "text": "Ma pure, se l'uomo, vivendo molti anni sempre in allegrezza, si ricorda che i giorni delle tenebre saranno molti, tutto quello che [gli] sarà avvenuto [sarà] vanità."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "number": 1,
+          "text": "RALLEGRATI pure, o giovane, nella tua fanciullezza; e tengati lieto il cuor tuo a' dì della tua giovenezza, e cammina nelle vie del cuor tuo, e secondo lo sguardo degli occhi tuoi; ma sappi che per tutte queste cose Iddio ti farà venire in giudicio."
+        },
+        {
+          "number": 2,
+          "text": "E togli dal cuor tuo la tristizia, e rimuovi il cordoglio dalla tua carne; perciocchè la fanciullezza e la giovanezza [sono] una cosa vana."
+        },
+        {
+          "number": 3,
+          "text": "Ma ricordati del tuo Creatore ai dì della tua giovanezza, avanti che sieno venuti i cattivi giorni, e giunti gli anni, de' quali tu dirai: Io non vi ho alcun diletto."
+        },
+        {
+          "number": 4,
+          "text": "Avanti che il sole, e la luce, e la luna, e le stelle sieno oscurate; e che le nuvole ritornino dopo la pioggia;"
+        },
+        {
+          "number": 5,
+          "text": "allora che le guardie della casa tremeranno, ed i possenti si piegheranno, e le macinatrici cesseranno, perchè saranno diminuite; e quelli che riguardono per le finestre saranno oscurati;"
+        },
+        {
+          "number": 6,
+          "text": "e i due usci d'in su la piazza saranno serrati con abbassamento del suon della macina; e [l'uomo] si leverà al suon dell'uccelletto, e tutte le cantatrici saranno abbassate;"
+        },
+        {
+          "number": 7,
+          "text": "ed anche [l'uomo] temerà dei luoghi elevati, ed avrà spaventi, [camminando] per la strada; e il mandorlo fiorirà, e la locusta si aggraverà, e l'appetito scaderà; perciocchè l'uomo se ne va alla sua casa perpetua; e quelli che fanno cordoglio [gli] andranno d'intorno per le strade."
+        },
+        {
+          "number": 8,
+          "text": "Avanti che la fune d'argento si rompa, e la secchia d'oro si spezzi, e il vaso si fiacchi in su la fonte, e la ruota vada in pezzi sopra la cisterna;"
+        },
+        {
+          "number": 9,
+          "text": "e la polvere ritorni in terra, come era [prima]; e lo spirito ritorni a Dio, che l'ha dato."
+        },
+        {
+          "number": 10,
+          "text": "VANITÀ delle vanità, dice il Predicatore; ogni cosa [è] vanità."
+        },
+        {
+          "number": 11,
+          "text": "Più il Predicatore è stato savio, più ha insegnata scienza al popolo, e [gliel]'ha fatta intendere, ed ha investigate, [e] composte molte sentenze."
+        },
+        {
+          "number": 12,
+          "text": "Il Predicatore ha cercato, per trovar cose approvate; e ciò che è scritto [è] dirittura, parole di verità."
+        },
+        {
+          "number": 13,
+          "text": "Le parole de' savi [son] come gli steccati, e come i pali piantati de' mandriani che stabbiano; [e] sono state date da uno stesso Pastore."
+        },
+        {
+          "number": 14,
+          "text": "Perciò, figliuol mio, guardati [da quello che è] oltre ad esse; non [vi è] fine alcuno al far molti libri; e molto studiare [è] fatica alla carne."
+        },
+        {
+          "number": 15,
+          "text": "La conclusione del ragionamento, ogni cosa udita, [è]: Temi Iddio, ed osserva i suoi comandamenti; perchè questo [è] il tutto dell'uomo."
+        },
+        {
+          "number": 16,
+          "text": "Perciocchè Iddio farà venire ogni opera, buona e malvagia, al giudicio, [ch'egli farà] d'ogni cosa occulta."
+        }
+      ]
+    }
+  ]
+}
