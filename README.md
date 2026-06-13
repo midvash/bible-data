@@ -142,11 +142,12 @@ To report content issues with the online reader, use the [Midvash feedback form]
 
 ## The Midvash ecosystem
 
-Part of [**Midvash**](https://midvash.com) — a free Bible reading & study platform. All pieces are open and interlink:
+Part of [**Midvash**](https://midvash.com) — a free Bible reading & study platform. Everything is open and interlinks:
 
 | | |
 |---|---|
-| 📖 **Reader** | [midvash.com](https://midvash.com) — web app, 9 languages |
+| 📖 **Reader (web)** | [midvash.com](https://midvash.com) — 9 languages |
+| 📱 **iOS app** | [midvash.app/ios](https://midvash.app/ios) |
 | 🔌 **API** | [api.midvash.com](https://api.midvash.com) · [`bible-api`](https://github.com/midvash/bible-api) |
 | 🤖 **MCP server** | [mcp.midvash.com](https://mcp.midvash.com) · [`bible-mcp`](https://github.com/midvash/bible-mcp) |
 | 🧩 **WordPress plugin** | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) · [`bible-by-midvash`](https://github.com/midvash/bible-by-midvash) |
@@ -154,4 +155,4 @@ Part of [**Midvash**](https://midvash.com) — a free Bible reading & study plat
 | 🌐 **Chrome extension** | [midvash.app/chrome-extension](https://midvash.app/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
 | 📦 **Open data** | [`bible-data`](https://github.com/midvash/bible-data) · [`bible-data-js`](https://github.com/midvash/bible-data-js) · [`bible-cross-references`](https://github.com/midvash/bible-cross-references) |
 
-<sub>Free & open, built by [Midvash](https://midvash.com).</sub>
+<sub>Free & open, built by [Midvash](https://midvash.com) · [midvash.com](https://midvash.com) · [midvash.app](https://midvash.app)</sub>
