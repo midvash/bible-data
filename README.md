@@ -1,5 +1,7 @@
 # bible-data
 
+> 🌐 **English** · [Português (BR)](./README.pt-BR.md) · [Español](./README.es.md)
+
 Open, machine-readable Bible texts in the **public domain** — 33 versions across 22 languages, with a consistent schema.
 
 Each version is shipped in three formats:
