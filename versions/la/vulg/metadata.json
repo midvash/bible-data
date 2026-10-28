@@ -5,9 +5,10 @@
   "language": "la",
   "year": 405,
   "license": "public-domain",
-  "licenseNote": "Public domain (Jerome's Vulgate, 4th-5th century).",
+  "licenseNote": "Unverified: matches the \"Latin Vulgate\" text in scrollmapper/bible_databases (about 91% of verses identical), which does not name the edition. Jerome's translation is public domain, but modern critical editions (e.g. Weber-Gryson, Stuttgart) are copyrighted; the edition behind this text is not confirmed.",
   "attribution": null,
-  "sourceUrl": null,
+  "sourceUrl": "https://github.com/scrollmapper/bible_databases/tree/master/sources/la/Vulgate",
+  "sourceVerified": false,
   "stats": {
     "books": 66,
     "chapters": 1189,

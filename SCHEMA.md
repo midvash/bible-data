@@ -1,6 +1,6 @@
 # Schema
 
-This document specifies the data format for every version in this repository. The same shape applies across all 33 versions.
+This document specifies the data format for every version in this repository. The same shape applies across all 32 versions.
 
 ## Directory layout
 
@@ -46,11 +46,21 @@ The numeric `book_id` (1–66) is also exposed for convenience.
   "licenseNote": "Public domain worldwide (1611, Oxford 1769 standard text).",
   "attribution": null,
   "sourceUrl": null,
+  "sourceVerified": false,
   "stats": { "books": 66, "chapters": 1189, "verses": 31102 },
   "readerUrl": "https://midvash.com/kjv",
   "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
 }
 ```
+
+| Field | Meaning |
+|-------|---------|
+| `license` | One of the `LicenseTag` values below. |
+| `attribution` | Credit line to reproduce with the text. Required (non-null) for `cc-by` and `cc-by-sa`. |
+| `sourceUrl` | Page of the file the text was imported from, or `null` when it was not recorded. |
+| `sourceVerified` | `true` when the source and its license were checked. `false` means the public-domain claim is still open (see SOURCES.md). |
+| `stats` | Counts of books, chapters and verses actually present in the files. |
+| `missingChapters` | Optional. `{ "<OSIS>": [chapter, …] }` for chapters the source text does not have. Those chapters are absent from every file (not renumbered), so `chapters[i]` is not always chapter `i + 1`: look chapters up by their `chapter` field. |
 
 ## `<slug>.json` (whole Bible)
 
@@ -106,7 +116,7 @@ interface BookFile {
 
 ## `<slug>.sqlite`
 
-A SQLite 3 database with a single table:
+A SQLite 3 database with a single table and two indexes (built by `scripts/build-sqlite.mjs`, checked by `scripts/check.mjs`):
 
 ```sql
 CREATE TABLE verses (
@@ -131,6 +141,8 @@ Original-language texts cover only part of the canon. The shape is identical; th
 - **Textus Receptus**: `book_id` 40–66 (New Testament only)
 
 ## Notes
+
+- Look chapters up by their `chapter` field, not by array position: a version with `missingChapters` skips the number (e.g. `vdc` John goes 10, 12, 13…).
 
 - Verse text is stored as-is from the source, including original punctuation and casing. No editorial normalization is applied beyond Unicode NFC.
 - Chapter and verse numbers follow the Protestant/Masoretic numbering. Versification differences across traditions (LXX/Vulgate Psalm numbering, etc.) are **not** normalized — each version uses its own conventional numbering.

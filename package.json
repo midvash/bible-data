@@ -1,0 +1,14 @@
+{
+  "name": "bible-data",
+  "private": true,
+  "description": "Scripts that build and check the bible-data dataset. The data itself is under versions/.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "build:sqlite": "node --disable-warning=ExperimentalWarning scripts/build-sqlite.mjs",
+    "check": "node --disable-warning=ExperimentalWarning scripts/check.mjs"
+  }
+}

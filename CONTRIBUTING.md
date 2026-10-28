@@ -28,7 +28,14 @@ We're especially looking for high-quality public-domain texts in **Spanish, Japa
 
 ### 3. Improve the tooling
 
-The export pipeline lives in the Midvash codebase (private). The schema, OSIS mapping, and metadata structure documented in [SCHEMA.md](./SCHEMA.md) are the public contract — PRs proposing schema additions (extra metadata fields, new export formats, alternative book identifiers) are welcome as issues.
+The text is imported in the Midvash codebase (private). This repository has the public part of the pipeline, with no dependencies (Node 22.13+):
+
+```bash
+npm run build:sqlite   # rebuild every <slug>.sqlite (table + indexes) and metadata stats from <slug>.json
+npm run check          # chapters vs the KJV, indexes, JSON = SQLite = books/, metadata, README tables
+```
+
+`npm run check` runs on every push and PR. The schema, OSIS mapping, and metadata structure documented in [SCHEMA.md](./SCHEMA.md) are the public contract — proposals for schema additions (extra metadata fields, new export formats, alternative book identifiers) are welcome as issues.
 
 ### 4. Build something with it
 

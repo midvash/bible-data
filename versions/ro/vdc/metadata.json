@@ -1,18 +1,24 @@
 {
   "slug": "vdc",
   "shortName": "VDC",
-  "name": "Biblia Cornilescu",
+  "name": "Biblia Cornilescu (Cyrillic script)",
   "language": "ro",
   "year": 1924,
   "license": "public-domain",
-  "licenseNote": "Public domain in most jurisdictions (Dumitru Cornilescu, 1924; d. 1975). Treated as freely redistributable; see SOURCES.md for jurisdictional notes.",
+  "licenseNote": "Public domain (Dumitru Cornilescu, 1924; d. 1975), per eBible.org. This is the Cyrillic-script edition (eBible ron1924). The source has no John 11; see missingChapters.",
   "attribution": null,
-  "sourceUrl": null,
+  "sourceUrl": "https://ebible.org/find/details.php?id=ron1924",
+  "sourceVerified": true,
   "stats": {
     "books": 66,
     "chapters": 1188,
     "verses": 31045
   },
   "readerUrl": "https://midvash.com/vdc",
-  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md"
+  "schema": "https://github.com/midvash/bible-data/blob/main/SCHEMA.md",
+  "missingChapters": {
+    "John": [
+      11
+    ]
+  }
 }
