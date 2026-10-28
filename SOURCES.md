@@ -1,6 +1,6 @@
 # Sources & Licensing
 
-Every text in this repository is **public domain** or licensed for free redistribution. Per-version details are also embedded in each version's `metadata.json`.
+Every text in this repository is **public domain** or licensed for free redistribution. Per-version details (license, attribution, source URL) are also embedded in each version's `metadata.json`. ⚠️ marks a version whose public-domain claim is not confirmed yet (see [Unverified provenance](#unverified-provenance)).
 
 This document is the canonical legal reference. If you spot an error or have a jurisdictional concern about a specific version, please open an issue.
 
@@ -10,7 +10,6 @@ This document is the canonical legal reference. If you spot an error or have a j
 |------|------|------|------|---------|--------|
 | ar | `svd` | الكتاب المقدس فان دايك (Smith-Van Dyck) | 1865 | public-domain | [open](https://midvash.com/svd) |
 | cs | `bkr` | Bible kralická | 1613 | public-domain | [open](https://midvash.com/bkr) |
-| da | `dansk1931` | Dansk Bibel 1931 | 1931 | public-domain | [open](https://midvash.com/dansk1931) |
 | de | `elb1905` | Elberfelder Bibel 1905 | 1905 | public-domain | [open](https://midvash.com/elb1905) |
 | de | `luth1912` | Lutherbibel 1912 | 1912 | public-domain | [open](https://midvash.com/luth1912) |
 | en | `asv` | American Standard Version | 1901 | public-domain | [open](https://midvash.com/asv) |
@@ -29,12 +28,12 @@ This document is the canonical legal reference. If you spot an error or have a j
 | it | `diodati` | Bibbia Diodati 1649 | 1649 | public-domain | [open](https://midvash.com/diodati) |
 | it | `riveduta` | Bibbia Riveduta 1927 | 1927 | public-domain | [open](https://midvash.com/riveduta) |
 | la | `clem` | Clementine Vulgate | 1592 | public-domain | [open](https://midvash.com/clem) |
-| la | `vulg` | Biblia Sacra Vulgata | 405 | public-domain | [open](https://midvash.com/vulg) |
-| nb | `nb1930` | Norsk Bibel 1930 | 1930 | public-domain | [open](https://midvash.com/nb1930) |
+| la | `vulg` | Biblia Sacra Vulgata | 405 | public-domain ⚠️ | [open](https://midvash.com/vulg) |
+| nb | `nb1930` | Norsk Bibel 1930 | 1930 | public-domain ⚠️ | [open](https://midvash.com/nb1930) |
 | nl | `dutch1917` | De Heilige Schrift 1917 | 1917 | public-domain | [open](https://midvash.com/dutch1917) |
 | pl | `bg` | Biblia Gdańska | 1632 | public-domain | [open](https://midvash.com/bg) |
-| pt | `almeida-livre` | Almeida 1819 (Bíblia Livre) | 1819 | public-domain | [open](https://midvash.com/almeida-livre) |
-| ro | `vdc` | Biblia Cornilescu | 1924 | public-domain | [open](https://midvash.com/vdc) |
+| pt | `almeida-livre` | Bíblia Livre (Almeida 1819, rev. 2018) | 2018 | cc-by | [open](https://midvash.com/almeida-livre) |
+| ro | `vdc` | Biblia Cornilescu (Cyrillic script) | 1924 | public-domain | [open](https://midvash.com/vdc) |
 | ru | `synodal` | Синодальный перевод | 1876 | public-domain | [open](https://midvash.com/synodal) |
 | sv | `sv1917` | Bibeln 1917 | 1917 | public-domain | [open](https://midvash.com/sv1917) |
 | uk | `kp` | Куліш-Пулюй (1905) | 1905 | public-domain | [open](https://midvash.com/kp) |
@@ -61,8 +60,37 @@ If you redistribute this data in a jurisdiction with stricter rules (notably **M
 ### Specific cases worth flagging
 
 - **Chinese Union Version (CUV / CUVS, 1919)** — public domain in mainland China, Taiwan, and most jurisdictions. The Hong Kong Bible Society has historically asserted rights in Hong Kong and Macau. Distribution is widely tolerated; this repo follows community practice (used by the open-source projects `unfoldingWord/en_ult`, `BibleTranslationTools`, and others).
-- **Cornilescu (VDC, 1924, Romanian)** — author died 1975. Treatment as public domain follows the convention used by `bible-romanian-public-domain` and `bibles.org`. Some Romanian publishers contest this; use with attribution and verify in-jurisdiction if redistributing commercially in Romania.
+- **Cornilescu (VDC, 1924, Romanian)** — author died 1975. eBible.org lists it as public domain. Some Romanian publishers contest this; use with attribution and verify in-jurisdiction if redistributing commercially in Romania. This is the **Cyrillic-script** edition (eBible `ron1924`), and that source has **no John 11**: the chapter is absent, not renumbered (`missingChapters` in `metadata.json`).
+- **Bíblia Livre (`almeida-livre`)** — a 2018 revision of Almeida 1819 by Diego Santos, Mario Sérgio and Marco Teles, under **Creative Commons Attribution 4.0 Brazil**. Attribution is mandatory; the suggested credit is in the `attribution` field of `metadata.json`.
+- **Diodati (`diodati`)** — the text is the 1885 revised edition published by eBible.org (`ita1885`), not the 1649 first edition.
 - **Westminster Leningrad Codex** — under its own permissive license, not strictly "public domain". Attribution requested; see https://tanach.us/Pages/Tanach.xml#License.
+
+## Attribution required
+
+| Slug | License | Credit |
+|------|---------|--------|
+| `almeida-livre` | CC BY 4.0 BR | Bíblia Livre (BLIVRE), Copyright © 2018 Diego Santos, Mario Sérgio e Marco Teles, http://sites.google.com/site/biblialivre/. Licença Creative Commons Atribuição 4.0 Brasil. |
+| `wlc` | WLC license | Westminster Leningrad Codex, J. Alan Groves Center for Advanced Biblical Research (https://tanach.us/). |
+
+## Unverified provenance
+
+`sourceVerified: false` in `metadata.json`. The text is kept while we confirm its status; if a claim fails, the version is removed.
+
+| Slug | What we know | What is not confirmed |
+|------|--------------|-----------------------|
+| `vulg` | ~91% of verses match the "Latin Vulgate" in [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases/tree/master/sources/la/Vulgate), tagged public domain there. | Which edition it is. Jerome's text is public domain, but modern critical editions (e.g. Weber-Gryson, Stuttgart) are copyrighted. |
+| `nb1930` | 99.9% of verses match "Bibelen på Norsk (1930)" in [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases/tree/master/sources/nb/Norsk), tagged public domain there. | The legal basis for public domain in Norway (Bible Society translation, 1930). |
+| `kjv`, `lsg`, `tr`, `aleppo`, `clem` | Public-domain texts by age. | No source file was recorded at import, so `sourceUrl` is empty. |
+
+## Sources
+
+`sourceUrl` in each `metadata.json` points to the file the text was imported from: [eBible.org](https://ebible.org) (`ebible.org/find/details.php?id=…`), [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases) or [tanach.us](https://tanach.us/) (WLC).
+
+## Removed versions
+
+| Slug | Removed | Why |
+|------|---------|-----|
+| `dansk1931` | 2026-10-28 | The Old Testament is © 1931 Det Danske Bibelselskab, not public domain. Midvash took it offline (midvash.com/dansk1931 now redirects to `da1871`). |
 
 ## Reporting
 

@@ -5,9 +5,10 @@
   "language": "nb",
   "year": 1930,
   "license": "public-domain",
-  "licenseNote": "Public domain (Norwegian Bokmål 1930 translation).",
+  "licenseNote": "Unverified: matches \"Bibelen på Norsk (1930)\" in scrollmapper/bible_databases (99.9% of verses identical), which tags it public domain without citing the basis. The 1930 Bible Society translation's copyright status in Norway is not confirmed.",
   "attribution": null,
-  "sourceUrl": null,
+  "sourceUrl": "https://github.com/scrollmapper/bible_databases/tree/master/sources/nb/Norsk",
+  "sourceVerified": false,
   "stats": {
     "books": 66,
     "chapters": 1189,

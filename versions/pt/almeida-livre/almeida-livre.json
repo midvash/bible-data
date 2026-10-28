@@ -1,8 +1,8 @@
 {
   "version": "almeida-livre",
-  "name": "Almeida 1819 (Bíblia Livre)",
+  "name": "Bíblia Livre (Almeida 1819, rev. 2018)",
   "language": "pt",
-  "license": "public-domain",
+  "license": "cc-by",
   "books": [
     {
       "book": "Gen",

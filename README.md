@@ -2,17 +2,17 @@
 
 > 🌐 **English** · [Português (BR)](./README.pt-BR.md) · [Español](./README.es.md)
 
-Open, machine-readable Bible texts in the **public domain** — 33 versions across 22 languages, with a consistent schema.
+Open, machine-readable Bible texts in the **public domain** or under a free license — 32 versions across 21 languages, with a consistent schema.
 
 Each version is shipped in three formats:
 
 - **`<slug>.json`** — the whole Bible in a single JSON file
 - **`books/<OSIS>.json`** — one JSON per book, light and easy to stream
-- **`<slug>.sqlite`** — SQLite database, indexed for fast queries
+- **`<slug>.sqlite`** — SQLite database, indexed by book, chapter and verse
 
 Plus a `metadata.json` per version with license, year, source, and stats.
 
-> **Read these versions online:** [midvash.com](https://midvash.com) — a free, ad-supported Bible reader in 9 languages, with search, daily readings, commentary, and AI study tools. This repository powers the underlying data.
+> **Read these versions online:** [midvash.com](https://midvash.com) — a free Bible reader in 9 languages, with search, daily readings, commentary, and AI study tools. This repository powers the underlying data.
 
 ---
 
@@ -36,7 +36,7 @@ import json, urllib.request
 
 url = 'https://raw.githubusercontent.com/midvash/bible-data/main/versions/en/kjv/kjv.json'
 bible = json.loads(urllib.request.urlopen(url).read())
-john3 = next(b for b in bible['books'] if b['book'] == 'John').chapters[2]
+john3 = next(b for b in bible['books'] if b['book'] == 'John')['chapters'][2]
 print(john3['verses'][15]['text'])
 ```
 
@@ -57,7 +57,6 @@ sqlite3 kjv.sqlite "SELECT text FROM verses WHERE book_id=43 AND chapter=3 AND n
 |------|------|------|------|---------|--------|
 | ar | `svd` | الكتاب المقدس فان دايك (Smith-Van Dyck) | 1865 | public-domain | [open](https://midvash.com/svd) |
 | cs | `bkr` | Bible kralická | 1613 | public-domain | [open](https://midvash.com/bkr) |
-| da | `dansk1931` | Dansk Bibel 1931 | 1931 | public-domain | [open](https://midvash.com/dansk1931) |
 | de | `elb1905` | Elberfelder Bibel 1905 | 1905 | public-domain | [open](https://midvash.com/elb1905) |
 | de | `luth1912` | Lutherbibel 1912 | 1912 | public-domain | [open](https://midvash.com/luth1912) |
 | en | `asv` | American Standard Version | 1901 | public-domain | [open](https://midvash.com/asv) |
@@ -76,12 +75,12 @@ sqlite3 kjv.sqlite "SELECT text FROM verses WHERE book_id=43 AND chapter=3 AND n
 | it | `diodati` | Bibbia Diodati 1649 | 1649 | public-domain | [open](https://midvash.com/diodati) |
 | it | `riveduta` | Bibbia Riveduta 1927 | 1927 | public-domain | [open](https://midvash.com/riveduta) |
 | la | `clem` | Clementine Vulgate | 1592 | public-domain | [open](https://midvash.com/clem) |
-| la | `vulg` | Biblia Sacra Vulgata | 405 | public-domain | [open](https://midvash.com/vulg) |
-| nb | `nb1930` | Norsk Bibel 1930 | 1930 | public-domain | [open](https://midvash.com/nb1930) |
+| la | `vulg` | Biblia Sacra Vulgata | 405 | public-domain ⚠️ | [open](https://midvash.com/vulg) |
+| nb | `nb1930` | Norsk Bibel 1930 | 1930 | public-domain ⚠️ | [open](https://midvash.com/nb1930) |
 | nl | `dutch1917` | De Heilige Schrift 1917 | 1917 | public-domain | [open](https://midvash.com/dutch1917) |
 | pl | `bg` | Biblia Gdańska | 1632 | public-domain | [open](https://midvash.com/bg) |
-| pt | `almeida-livre` | Almeida 1819 (Bíblia Livre) | 1819 | public-domain | [open](https://midvash.com/almeida-livre) |
-| ro | `vdc` | Biblia Cornilescu | 1924 | public-domain | [open](https://midvash.com/vdc) |
+| pt | `almeida-livre` | Bíblia Livre (Almeida 1819, rev. 2018) | 2018 | cc-by | [open](https://midvash.com/almeida-livre) |
+| ro | `vdc` | Biblia Cornilescu (Cyrillic script) | 1924 | public-domain | [open](https://midvash.com/vdc) |
 | ru | `synodal` | Синодальный перевод | 1876 | public-domain | [open](https://midvash.com/synodal) |
 | sv | `sv1917` | Bibeln 1917 | 1917 | public-domain | [open](https://midvash.com/sv1917) |
 | uk | `kp` | Куліш-Пулюй (1905) | 1905 | public-domain | [open](https://midvash.com/kp) |
@@ -90,6 +89,10 @@ sqlite3 kjv.sqlite "SELECT text FROM verses WHERE book_id=43 AND chapter=3 AND n
 | zh | `cuvs` | 和合本 (Chinese Union Version, Simplified) | 1919 | public-domain | [open](https://midvash.com/cuvs) |
 
 > The `reader` column links to that version's online interface at midvash.com.
+>
+> ⚠️ Source matches a public text, but the public-domain claim is not confirmed yet. See [SOURCES.md](./SOURCES.md#unverified-provenance).
+>
+> `cc-by` versions require attribution: copy the `attribution` field of their `metadata.json`.
 
 For full licensing details and provenance per version, see [SOURCES.md](./SOURCES.md).
 
@@ -129,8 +132,8 @@ To report content issues with the online reader, use the [Midvash feedback form]
 
 ## License
 
-- **Code** (this repository's scripts and metadata): MIT — see [LICENSE](./LICENSE).
-- **Bible text data**: each version's individual license, declared in its `metadata.json` and detailed in [SOURCES.md](./SOURCES.md). All included texts are public domain or under a free-redistribution license.
+- **Code** (scripts and schema): MIT — see [LICENSE](./LICENSE).
+- **Bible text data**: each version's own license, declared in its `metadata.json` — see [DATA-LICENSE.md](./DATA-LICENSE.md) and [SOURCES.md](./SOURCES.md). Most texts are public domain; some require attribution (`cc-by`) or carry their own terms (`wlc-license`).
 
 ---
 
@@ -140,7 +143,7 @@ To report content issues with the online reader, use the [Midvash feedback form]
 
 ---
 
-*Data generated on 2026-05-12. This repository is regenerated periodically.*
+*Data last updated on 2026-10-28.*
 
 ## The Midvash ecosystem
 
@@ -149,12 +152,12 @@ Part of [**Midvash**](https://midvash.com) — a free Bible reading & study plat
 | | |
 |---|---|
 | 📖 **Reader (web)** | [midvash.com](https://midvash.com) — 9 languages |
-| 📱 **iOS app** | [midvash.app/ios](https://midvash.app/ios) |
+| 📱 **iOS app** | [midvash.com/ios](https://midvash.com/ios) |
 | 🔌 **API** | [api.midvash.com](https://api.midvash.com) · [`bible-api`](https://github.com/midvash/bible-api) |
 | 🤖 **MCP server** | [mcp.midvash.com](https://mcp.midvash.com) · [`bible-mcp`](https://github.com/midvash/bible-mcp) |
-| 🧩 **WordPress plugin** | [midvash.app/wordpress-plugin](https://midvash.app/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
-| 🧩 **EmDash plugin** | [midvash.app/emdash-plugin](https://midvash.app/emdash-plugin) · [`emdash-plugin-bible`](https://github.com/midvash/emdash-plugin-bible) |
-| 🌐 **Chrome extension** | [midvash.app/chrome-extension](https://midvash.app/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
+| 🧩 **WordPress plugin** | [midvash.com/wordpress-plugin](https://midvash.com/wordpress-plugin) · [`bible-wordpress-plugin`](https://github.com/midvash/bible-wordpress-plugin) |
+| 🧩 **EmDash plugin** | [midvash.com/emdash-plugin](https://midvash.com/emdash-plugin) · [`bible-emdash-plugin`](https://github.com/midvash/bible-emdash-plugin) |
+| 🌐 **Chrome extension** | [midvash.com/chrome-extension](https://midvash.com/chrome-extension) · [`bible-chrome-extension`](https://github.com/midvash/bible-chrome-extension) |
 | 📦 **Open data** | [`bible-data`](https://github.com/midvash/bible-data) · [`bible-data-js`](https://github.com/midvash/bible-data-js) · [`bible-cross-references`](https://github.com/midvash/bible-cross-references) |
 
-<sub>Free & open, built by [Midvash](https://midvash.com) · [midvash.com](https://midvash.com) · [midvash.app](https://midvash.app)</sub>
+<sub>Free & open, built by [Midvash](https://midvash.com)</sub>
